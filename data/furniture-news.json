@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-18T21:27:02.742027+00:00",
-  "generated_at_human": "2026-06-18 21:27 UTC",
-  "total_items": 139,
+  "generated_at": "2026-06-18T23:57:20.670074+00:00",
+  "generated_at_human": "2026-06-18 23:57 UTC",
+  "total_items": 137,
   "sources_used": [
     "DM tag furniture",
     "Design Boom",
@@ -24,15 +24,27 @@
     "Livingetc",
     "Popular Woodworking",
     "RTA Cabinet Store",
-    "Sunset",
     "Trendir",
     "Veranda",
     "Woodshop News",
     "Woodworking Network"
   ],
-  "sources_count": 24,
-  "multi_photo_items": 42,
+  "sources_count": 23,
+  "multi_photo_items": 36,
   "items": [
+    {
+      "id": "c5958a6fccfde821",
+      "title": "This Designer-Loved Antique Furniture Style Is Almost ALWAYS Counterfeit, According to an Expert",
+      "summary": "Here’s how to shop smarter.",
+      "url": "https://www.veranda.com/decorating-ideas/advice-from-designers/a71631684/fake-gustavian-furniture-antiques/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-06-18T21:46:22+00:00"
+    },
     {
       "id": "872b9eea23c3b455",
       "title": "A Walmart Insider Just Told Me That These 12 Home Products Are FLYING Off the Shelves",
@@ -60,10 +72,10 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/f3813b97-fdcf-4922-9af7-f45f568c8f8d.jpg",
         "https://hips.hearstapps.com/vidthumb/images/screen-shot-2020-02-18-at-2-14-44-pm-1582053292.png?crop=1xw:0.8757405213270142xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/f60c7969-6220-440e-9167-63143b6fd327.png?crop=0.667xw:1xh;0.163xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/004d44fe-90ff-4e4d-bd86-7007d6ba583c.jpg?crop=1xw:1.0xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/101d9fdd-1cc7-4d80-81c3-6aa110ce3f3f.jpg?crop=1xw:1.0xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/525eea75-0221-4fc7-a5e2-79256219bce7.jpg?crop=0.5xw:1xh;0.5xw,0xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/819956bb-26e7-40fc-9038-c9d7b4aceaf7.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/a1vat81mpml-ac-sl1500-686e8c500633c.jpg?crop=1.00xw:1.00xh;0,0&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/amazon-furniture-689e4f75802e8.jpg?crop=0.5xw:1xh;0.251xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/a1kb6-cfbgl-ac-sl1500-67e2d9860ca27.jpg?crop=1.00xw:1.00xh;0,0&resize=360:*"
       ],
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
@@ -186,24 +198,6 @@
       "published": "2026-06-18T14:36:09+00:00"
     },
     {
-      "id": "d6ad20ff02bc3659",
-      "title": "Homepage 2025",
-      "summary": "Home Tours, Decorating & Design An Ugly, Non-Working Chimney in This Kitchen Couldn’t Be Removed—Here’s the Clever Way It Was Disguised A smart workaround makes the whole space look better. Read more… Read More",
-      "url": "https://sunset.com/",
-      "image": "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
-      "images": [
-        "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
-        "https://sunset.com/wp-content/uploads/2026/05/sofa-smoke-tree-ranch-house-rollins-andrew-pc-peter-christiansen-valli.jpg?w=1200&h=900&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/05/family-room-studio-city-house-merchant-mercantile-pc-neue-focus.jpg?w=1200&h=900&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/05/living-room-palo-alto-house-chantal-lamberto-pc-r-brad-knipstein.jpg?w=1200&h=900&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/04/a-frame-kitchen-overview-andrea-lackie-pc-brad-scott-visuals.jpg?w=1200&h=900&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/05/exterior-lake-oswego-cottage-casework-pc-kara-mercer.jpg?w=1024"
-      ],
-      "source": "Sunset",
-      "source_url": "https://www.sunset.com",
-      "published": "2026-06-18T13:28:28+00:00"
-    },
-    {
       "id": "bcfca73d7828d49c",
       "title": "These Furniture Pieces Look Like Thrift Store Finds, but They’re Brand New",
       "summary": "Many of these furniture pieces look like they came from a thrift store, antique mall, or flea market. Distressed paint, reclaimed wood, worn finishes, and vintage hardware create the impression of furniture that has spent decades changing hands before arriving in a home. Surprisingly, none of these pieces are secondhand finds. They were part of... The post These Furniture Pieces Look Like Thrift Store Finds, but They’re Brand New appeared first on Homedit .",
@@ -323,24 +317,6 @@
       "source": "Ideal Home",
       "source_url": "https://www.idealhome.co.uk",
       "published": "2026-06-18T08:00:00+00:00"
-    },
-    {
-      "id": "babc65a315fd5f85",
-      "title": "7 Outdoor Furniture Brands to Shop If You Want a More Sustainable Backyard",
-      "summary": "Want a more sustainable backyard? Shop these eco-friendly outdoor furniture brands when decorating your outdoor space.",
-      "url": "https://sunset.com/home-garden/outdoor-living/sustainable-outdoor-furniture-brands",
-      "image": "https://sunset.com/wp-content/uploads/2026/05/sabai-outdoor-bacana-armchair.jpg?w=1200&h=600&crop=1",
-      "images": [
-        "https://sunset.com/wp-content/uploads/2026/05/sabai-outdoor-bacana-armchair.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/packing-suitcase-pc-miniseries-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/fremont-california-pc-halbergman-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/05/polywood-furniture-modern-curveback-adirondack-chair.jpg?resize=800,617",
-        "https://sunset.com/wp-content/uploads/2026/05/outer-concrete-fire-pit.jpg?resize=800,545",
-        "https://sunset.com/wp-content/uploads/2026/05/business-and-pleasure-resort-market-umbrella.jpg?resize=800,800"
-      ],
-      "source": "Sunset",
-      "source_url": "https://www.sunset.com",
-      "published": "2026-06-18T07:08:28+00:00"
     },
     {
       "id": "821e83df7704da0e",
@@ -886,12 +862,7 @@
       "url": "https://www.veranda.com/home-decorators/design-trends/a71606568/white-kitchens-out-of-style-trend-explained/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/white-kitchen-whealon-veranda-1555332668.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/white-kitchen-whealon-veranda-1555332668.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/summer-thornton-chicago-home-tour-kitchen-675382290cbb2.jpg?crop=1xw:0.931xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/ver030119sikes07-jpg-1551563901.jpg?crop=1xw:1xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/sarah-bartholomew-nashville-home-kitchen-67f005b54f2ca.jpg?crop=1xw:0.764xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/katie-ridder-birmingham-home-kitchen-66b1077907b38.jpg?crop=1xw:0.885xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/the-container-store-elfa-horderly-house-beautiful-workroom-1572907091.png?crop=1xw:0.84375xh;center"
+        "https://hips.hearstapps.com/hmg-prod/images/white-kitchen-whealon-veranda-1555332668.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -961,12 +932,7 @@
       "url": "https://www.veranda.com/shopping/furniture/a70178390/best-online-furniture-stores/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/michael-s-smith-new-york-town-house-parlor-1-68e5609d80b25.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/michael-s-smith-new-york-town-house-parlor-1-68e5609d80b25.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/ffc156b7-b1e4-4282-9cc1-a1e242b2c084.jpg?crop=0.5xw:1xh;0.25xw",
-        "https://hips.hearstapps.com/hmg-prod/images/ver-faq-line-divider-gold-med-gold-1-65eb861c14817.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/e0dd8dfc-8119-40b5-9efb-33b6151e51d3.jpg?crop=0.695xw:1xh;0.115xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/fdb800dd-113d-41e7-86bb-711f5607af46.jpg?crop=0.707166666667xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/marshall-watson-new-york-apartment-bedroom-vertical-679a8395bcb9b.jpg?crop=1xw:0.831xh;0xw,0.169xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/michael-s-smith-new-york-town-house-parlor-1-68e5609d80b25.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1132,12 +1098,7 @@
       "url": "https://www.elledecor.com/design-decorate/a71472762/rh-estates-richard-hallberg/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/659aa7fd-2d13-4203-9194-657489d1c323.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/659aa7fd-2d13-4203-9194-657489d1c323.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/37c482d6-c660-4e38-a2ad-ebe21c1851c4.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/a7bf2d8e-d6e0-4502-9d8c-fa14cbbab42a.jpg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/383bba66-438c-4941-a63b-4bb711f96f6d.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2024jan-800park-falcoresidence-1499-662a8bf03c177.jpg?crop=0.752xw:1.00xh;0.226xw,0&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/ac222173-dbb6-4a44-a59f-92056901dd70.jpg?crop=1xw:0.667xh;0xw,0.333xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/659aa7fd-2d13-4203-9194-657489d1c323.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1282,24 +1243,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T18:10:33+00:00"
-    },
-    {
-      "id": "bd365fa0fa3d78fa",
-      "title": "An Ugly, Non-Working Chimney in This Kitchen Couldn’t Be Removed—Here’s the Clever Way It Was Disguised",
-      "summary": "An unused chimney was standing in the way in this outdated SF kitchen. See how it was covered up and the space completely overhauled.",
-      "url": "https://sunset.com/home-garden/home-tours/sf-victorian-kitchen-makeover",
-      "image": "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg?w=1200&h=600&crop=1",
-      "images": [
-        "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/before-and-after-sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
-        "https://sunset.com/wp-content/uploads/2026/06/dining-area-sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
-        "https://sunset.com/wp-content/uploads/2026/06/laundry-sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
-        "https://sunset.com/wp-content/uploads/2026/06/stove-sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
-        "https://sunset.com/wp-content/uploads/packing-suitcase-pc-miniseries-getty.jpg?w=1200&h=600&crop=1"
-      ],
-      "source": "Sunset",
-      "source_url": "https://www.sunset.com",
-      "published": "2026-06-11T16:49:36+00:00"
     },
     {
       "id": "b0aa10bdbfd31d41",
