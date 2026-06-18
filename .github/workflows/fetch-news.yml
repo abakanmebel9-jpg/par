@@ -1,0 +1,108 @@
+name: Fetch Furniture News
+
+# Runs every hour to keep data/furniture-news.json fresh.
+# Aggregates cabinet-furniture / kitchen / furniture-design news from
+# 32 hand-curated RSS sources into a single JSON file.
+on:
+  schedule:
+    # Every hour at minute 5 (a bit off the top of the hour to avoid GitHub
+    # cron load spikes)
+    - cron: "5 * * * *"
+  workflow_dispatch:    # Manual trigger from Actions tab
+  push:
+    branches: [main]
+    paths:
+      - "fetch_news.py"
+      - "requirements.txt"
+      - ".github/workflows/fetch-news.yml"
+
+# Push trigger only fires on code changes (not on JSON-only commits), so we
+# don't get an infinite loop. The hourly schedule + manual dispatch cover
+# the normal cadence.
+
+permissions:
+  contents: write       # Required to commit JSON files back to repo
+
+concurrency:
+  group: fetch-furniture-news
+  # cancel-in-progress: false → queued runs wait for the current one to finish,
+  # avoiding race conditions on the git push step.
+  cancel-in-progress: false
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run news parser
+        run: |
+          python fetch_news.py
+
+      - name: Show summary
+        run: |
+          echo "=== Furniture news ==="
+          python -c "import json;d=json.load(open('data/furniture-news.json'));print(f'items: {d[\"total_items\"]}, sources: {d[\"sources_count\"]}, multi-photo: {d[\"multi_photo_items\"]}')"
+
+      - name: Commit & push JSON file
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # Stage only the data file (don't accidentally commit logs etc.)
+          git add data/furniture-news.json
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit — JSON file is identical to last run."
+            exit 0
+          fi
+
+          TIMESTAMP="$(date -u '+%Y-%m-%d %H:%M UTC')"
+          COUNT="$(python -c "import json;print(json.load(open('data/furniture-news.json'))['total_items'])")"
+          SOURCES="$(python -c "import json;print(json.load(open('data/furniture-news.json'))['sources_count'])")"
+          MULTI="$(python -c "import json;print(json.load(open('data/furniture-news.json'))['multi_photo_items'])")"
+          git commit -m "chore(news): hourly refresh @ ${TIMESTAMP}
+
+          - Furniture news: ${COUNT} items from ${SOURCES} sources
+          - Multi-photo items: ${MULTI}"
+
+          # Push with retry. If the remote moved (another concurrent run pushed
+          # first), we rebase and prefer OUR freshly-generated JSON for any
+          # conflicts (-X theirs in rebase = the commit being replayed wins).
+          for attempt in 1 2 3; do
+            echo "--- Push attempt $attempt ---"
+            if git pull --rebase -X theirs origin main; then
+              :
+            else
+              echo "✗ Pull-rebase failed unexpectedly"
+              git rebase --abort 2>/dev/null || true
+              exit 1
+            fi
+            if git push; then
+              echo "✓ Pushed updated JSON file"
+              exit 0
+            fi
+            echo "Push rejected, retrying in 5s..."
+            sleep 5
+          done
+          echo "✗ Failed to push after 3 attempts — another run will refresh soon."
+          exit 1
