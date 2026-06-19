@@ -1,11 +1,12 @@
 #!/usr/bin/env python3
 """
 Cabinet furniture & kitchen design news parser — fetches RSS feeds from
-curated woodworking / cabinetry / kitchen-design / furniture-design sources,
-keeps only items relevant to cabinet furniture or kitchen/furniture design,
-and writes ONE JSON file: data/furniture-news.json.
+curated kitchen-design / furniture-design / interior sources, keeps only
+items relevant to cabinet furniture or kitchen/furniture design, and writes
+ONE JSON file: data/furniture-news.json.
 
-Runs hourly via GitHub Actions.
+Runs hourly via GitHub Actions. Output feeds the @abakan_mebel Telegram
+channel (Abakan Furniture — Russian furniture & kitchens).
 
 Sources were hand-tested for:
   - Working RSS endpoint (HTTP 200 with valid feed)
@@ -18,13 +19,18 @@ Sources were hand-tested for:
 All extracted images are filtered through is_garbage_image() to guarantee
 no logos, icons, trackers, or placeholders ever land in the JSON output.
 
-Source list (32 hand-tested feeds — 2026-06):
-  - Woodworking / cabinet industry: 5
-  - Design portals (broad): 11
+Source list (35 hand-tested feeds — 2026-06, curated for @abakan_mebel):
+  - Russian sources (furniture industry / interior / trade show): 4
+  - Design portals (broad, international): 16
   - Design portals (topic-specific kitchens/cabinets/furniture): 6
   - Home/lifestyle magazines: 8
-  - Russian: 1
   - Gardenista (sister site of Remodelista, outdoor furniture): 1
+
+NOTE: Foreign forestry / wood-industry / wooden-furniture-INDUSTRY sources
+(Woodworking Network, Popular Woodworking, Woodshop News, RTA Cabinet Store,
+Industry Today) were REMOVED — they published lumber-harvest / sawmill /
+forest-management news instead of furniture & kitchen DESIGN. Forestry
+phrases are also in BLOCKLIST as a safety net.
 
 Topic coverage:
   - Cabinets / cabinetry / millwork
@@ -99,49 +105,75 @@ REQUIRE_IMAGE = True               # drop items with no real content photo (qual
 # Curated source list — hand-tested 2026-06
 # ─────────────────────────────────────────────────────────────────────────────
 SOURCES: list[dict[str, Any]] = [
-    # ── Cabinet / woodworking industry (5) ───────────────────────────────────
-    {"name": "Woodworking Network",     "url": "https://www.woodworkingnetwork.com/rss.xml",      "scrape_gallery": True},
-    {"name": "Popular Woodworking",     "url": "https://www.popularwoodworking.com/feed/",        "scrape_gallery": True},
-    {"name": "Woodshop News",           "url": "https://www.woodshopnews.com/rss",                "scrape_gallery": True},
-    {"name": "RTA Cabinet Store",       "url": "https://www.rtacabinetstore.com/blog/feed/"},
-    {"name": "Industry Today",          "url": "https://industrytoday.com/feed/"},
+    # ═══════════════════════════════════════════════════════════════════════════
+    # CURATED FOR @abakan_mebel — furniture & kitchen DESIGN focus
+    #
+    # Foreign forestry / wood-industry / wooden-furniture-industry sources were
+    # REMOVED per channel requirements (Woodworking Network, Popular Woodworking,
+    # Woodshop News, RTA Cabinet Store, Industry Today — they published lumber-
+    # harvest / sawmill / forest-management news instead of furniture DESIGN).
+    #
+    # Added Russian-language sources (АМДПР, meb-expo, Archi.ru) and additional
+    # international furniture/kitchen DESIGN portals (Decoist, Wallpaper,
+    # Minimalissimo, ArchDaily, Apartment Therapy). All new feeds were
+    # hand-tested 2026-06 for: HTTP 200, valid feed, embedded photos, recent
+    # relevant content.
+    # ═══════════════════════════════════════════════════════════════════════════
 
-    # ── Design portals — broad (11) ──────────────────────────────────────────
-    {"name": "Dezeen",                  "url": "https://www.dezeen.com/feed/",                     "scrape_gallery": True},
-    {"name": "Dezeen Interiors",        "url": "https://www.dezeen.com/interiors/feed/"},
-    {"name": "Design Milk",             "url": "https://design-milk.com/feed/",                    "scrape_gallery": True},
-    {"name": "Design Milk Interiors",   "url": "https://design-milk.com/category/interior-design/feed/"},
-    {"name": "Design Milk Architecture","url": "https://design-milk.com/category/architecture/feed/"},
-    {"name": "Design Milk Technology",  "url": "https://design-milk.com/category/technology/feed/"},
-    {"name": "Design Milk Art",         "url": "https://design-milk.com/category/art/feed/"},
-    {"name": "Design Boom",             "url": "https://www.designboom.com/feed/",                 "scrape_gallery": True},
-    {"name": "Yanko Design",            "url": "https://www.yankodesign.com/feed/"},
-    {"name": "Trendir",                 "url": "https://www.trendir.com/feed/",                    "scrape_gallery": True},
-    {"name": "Homedit",                 "url": "https://www.homedit.com/feed/",                    "scrape_gallery": True},
+    # ── Russian sources (4) — for the @abakan_mebel Russian audience ──────────
+    # АМДПР = Association of Furniture & Woodworking Industry Enterprises of
+    # Russia. Russian furniture-industry news (Mr.Doors, Felix, TBM, Basis).
+    {"name": "АМДПР",                    "url": "http://amedoro.com/ru/news/novosti-otrasli.feed?type=rss"},
+    # meb-expo = official "Мебель" trade-show portal (Russian furniture fair).
+    {"name": "Мебель-expo",              "url": "https://www.meb-expo.ru/ru/rss/"},
+    # Archi.ru = leading Russian architecture & interior magazine.
+    {"name": "Archi.ru",                 "url": "https://archi.ru/rss.xml"},
+    # Rmnt.ru = Russian home, repair & interior portal.
+    {"name": "Rmnt.ru",                  "url": "https://www.rmnt.ru/rss/news.xml",                 "scrape_gallery": True},
 
-    # ── Design portals — topic-specific (6, high relevance) ──────────────────
-    {"name": "DM tag kitchen",          "url": "https://design-milk.com/tag/kitchen/feed/",        "scrape_gallery": True},
-    {"name": "DM tag furniture",        "url": "https://design-milk.com/tag/furniture/feed/",      "scrape_gallery": True},
-    {"name": "DM tag cabinets",         "url": "https://design-milk.com/tag/cabinets/feed/",       "scrape_gallery": True},
-    {"name": "Dezeen tag kitchens",     "url": "https://www.dezeen.com/tag/kitchens/feed/",        "scrape_gallery": True},
-    {"name": "Dezeen tag cabinets",     "url": "https://www.dezeen.com/tag/cabinets/feed/"},
-    {"name": "Dezeen tag furniture",    "url": "https://www.dezeen.com/tag/furniture/feed/"},
+    # ── Design portals — broad (international, furniture/kitchen DESIGN) ─────
+    {"name": "Dezeen",                   "url": "https://www.dezeen.com/feed/",                     "scrape_gallery": True},
+    {"name": "Dezeen Interiors",         "url": "https://www.dezeen.com/interiors/feed/"},
+    {"name": "Design Milk",              "url": "https://design-milk.com/feed/",                    "scrape_gallery": True},
+    {"name": "Design Milk Interiors",    "url": "https://design-milk.com/category/interior-design/feed/"},
+    {"name": "Design Milk Architecture", "url": "https://design-milk.com/category/architecture/feed/"},
+    {"name": "Design Milk Technology",   "url": "https://design-milk.com/category/technology/feed/"},
+    {"name": "Design Milk Art",          "url": "https://design-milk.com/category/art/feed/"},
+    {"name": "Design Boom",              "url": "https://www.designboom.com/feed/",                 "scrape_gallery": True},
+    {"name": "Yanko Design",             "url": "https://www.yankodesign.com/feed/"},
+    {"name": "Trendir",                  "url": "https://www.trendir.com/feed/",                    "scrape_gallery": True},
+    {"name": "Homedit",                  "url": "https://www.homedit.com/feed/",                    "scrape_gallery": True},
+    # ★ added — kitchen/countertop/furniture design (strong kitchen signal)
+    {"name": "Decoist",                  "url": "https://www.decoist.com/feed/",                    "scrape_gallery": True},
+    # ★ added — international design magazine, strong furniture/interiors
+    {"name": "Wallpaper",                "url": "https://www.wallpaper.com/rss.xml",                "scrape_gallery": True},
+    # ★ added — minimalist product/furniture/lighting design
+    {"name": "Minimalissimo",            "url": "https://minimalissimo.com/feed"},
+    # ★ added — architecture + interiors, rich project galleries
+    {"name": "ArchDaily",                "url": "https://www.archdaily.com/feed",                   "scrape_gallery": True},
+    # ★ added — home & furniture design ideas
+    {"name": "Apartment Therapy",        "url": "https://www.apartmenttherapy.com/main.rss",       "scrape_gallery": True},
 
-    # ── Home / lifestyle magazines (8) ───────────────────────────────────────
-    {"name": "Real Homes",              "url": "https://www.realhomes.com/rss",                    "scrape_gallery": True},
-    {"name": "Homes & Gardens",         "url": "https://www.homesandgardens.com/rss",              "scrape_gallery": True},
-    {"name": "Livingetc",               "url": "https://www.livingetc.com/rss",                    "scrape_gallery": True},
-    {"name": "Sunset",                  "url": "https://www.sunset.com/rss",                       "scrape_gallery": True},
-    {"name": "Elle Decor",              "url": "https://www.elledecor.com/rss/all.xml",            "scrape_gallery": True},
-    {"name": "House Beautiful",         "url": "https://www.housebeautiful.com/rss/all.xml",       "scrape_gallery": True},
-    {"name": "Veranda",                 "url": "https://www.veranda.com/rss/all.xml",              "scrape_gallery": True},
-    {"name": "Ideal Home",              "url": "https://www.idealhome.co.uk/api/rss",              "scrape_gallery": True},
+    # ── Design portals — topic-specific (high relevance) ─────────────────────
+    {"name": "DM tag kitchen",           "url": "https://design-milk.com/tag/kitchen/feed/",        "scrape_gallery": True},
+    {"name": "DM tag furniture",         "url": "https://design-milk.com/tag/furniture/feed/",      "scrape_gallery": True},
+    {"name": "DM tag cabinets",          "url": "https://design-milk.com/tag/cabinets/feed/",       "scrape_gallery": True},
+    {"name": "Dezeen tag kitchens",      "url": "https://www.dezeen.com/tag/kitchens/feed/",        "scrape_gallery": True},
+    {"name": "Dezeen tag cabinets",      "url": "https://www.dezeen.com/tag/cabinets/feed/"},
+    {"name": "Dezeen tag furniture",     "url": "https://www.dezeen.com/tag/furniture/feed/"},
+
+    # ── Home / lifestyle magazines (kitchen tours, furniture, interiors) ─────
+    {"name": "Real Homes",               "url": "https://www.realhomes.com/rss",                    "scrape_gallery": True},
+    {"name": "Homes & Gardens",          "url": "https://www.homesandgardens.com/rss",              "scrape_gallery": True},
+    {"name": "Livingetc",                "url": "https://www.livingetc.com/rss",                    "scrape_gallery": True},
+    {"name": "Sunset",                   "url": "https://www.sunset.com/rss",                       "scrape_gallery": True},
+    {"name": "Elle Decor",               "url": "https://www.elledecor.com/rss/all.xml",            "scrape_gallery": True},
+    {"name": "House Beautiful",          "url": "https://www.housebeautiful.com/rss/all.xml",       "scrape_gallery": True},
+    {"name": "Veranda",                  "url": "https://www.veranda.com/rss/all.xml",              "scrape_gallery": True},
+    {"name": "Ideal Home",               "url": "https://www.idealhome.co.uk/api/rss",              "scrape_gallery": True},
 
     # ── Gardenista (sister site of Remodelista, outdoor furniture) ───────────
-    {"name": "Gardenista",              "url": "https://www.gardenista.com/feed/"},
-
-    # ── Russian (1) ───────────────────────────────────────────────────────────
-    {"name": "Rmnt.ru",                 "url": "https://www.rmnt.ru/rss/news.xml",                 "scrape_gallery": True},
+    {"name": "Gardenista",               "url": "https://www.gardenista.com/feed/"},
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -276,6 +308,31 @@ BLOCKLIST: list[str] = [
     "Formula 1", "race car", "racecars",
     # Off-topic politics-only
     "election 2026", "senate race",
+
+    # ── Forestry / lumber-industry / wooden-furniture-INDUSTRY noise ────────
+    # The @abakan_mebel channel wants furniture & kitchen DESIGN, not forestry
+    # or wood-extraction industry news. These phrases are blocked even if the
+    # article also mentions furniture-material keywords (lumber/timber/hardwood)
+    # which would otherwise pass the relevance classifier.
+    # English — lumber/timber industry, logging, sawmills, forest management:
+    "lumber harvest", "lumber company", "lumber mill", "lumber wrap",
+    "timber harvest", "timber sale", "timber industry", "timber company",
+    "logging company", "logging operation", "logging road",
+    "sawmill", "saw mill", "forest service", "forest management",
+    "national forest", "forest products", "forestry industry",
+    "wood pellet", "pulp mill", "pulpwood", "biomass plant",
+    "fire mitigation", "wildfire", "forest fire", "tree planting program",
+    "USDA puts", "Weyerhaeuser", "Hampton Lumber", "PotlatchDeltic",
+    "lumber prices rise", "lumber prices fall", "lumber futures",
+    # English — wooden-furniture manufacturing trade (factory/CNC/finishing-line
+    # industry press, NOT design): keep design articles, drop factory-news.
+    "furniture factory fire", "factory closure", "layoff", "union vote",
+    "AWI Chicago", "IWF Atlanta", "AWFS",  # trade-association event chatter
+    # Russian — лесная промышленность / деревообработка как отрасль:
+    "лесная промышленность", "лесной отрасли", "лесной промышленности",
+    "лесозаготов", "лесопил", "лесхоз", "вырубка лес", "сплав леса",
+    "древесные пеллеты", "целлюлозный комбинат", "бумажная фабрика",
+    "лесной пожар", "тушение лес",
 ]
 
 

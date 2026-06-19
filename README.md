@@ -8,6 +8,9 @@ news from curated RSS sources and publishes them as a single JSON file:
   (cabinets, wardrobes, kitchens, millwork, built-ins, sofas, tables, chairs,
   hardware, materials).
 
+Output feeds the **[@abakan_mebel](https://t.me/abakan_mebel)** Telegram channel
+(Abakan Furniture — Russian furniture & kitchens).
+
 A GitHub Actions workflow runs `fetch_news.py` **every hour** (at `HH:05`) and
 commits the refreshed JSON file back to the repo.
 
@@ -20,7 +23,7 @@ news parser), adapted for the cabinet-furniture / kitchen-design domain.
 ## How it works
 
 ```
-RSS sources (32 hand-tested feeds)
+RSS sources (35 hand-tested feeds — curated for @abakan_mebel)
         │
         ▼
    fetch_news.py        ← feedparser + requests, parallel fetch
@@ -53,26 +56,30 @@ Each multi-photo item carries up to 6 distinct image URLs (lead first).
 
 ---
 
-## Sources (32 hand-tested feeds — 2026-06)
+## Sources (35 hand-tested feeds — 2026-06, curated for @abakan_mebel)
 
 All sources return RSS feeds with quality photos embedded (`media:content`,
 enclosures, or `<img>` in summary). Sources were tested 2026-06 for: working
 HTTP endpoint, valid feed, embedded photos, recent relevant content.
 
-### Cabinet / woodworking industry (5)
+> **Curation note for @abakan_mebel:** Foreign forestry / wood-industry /
+wooden-furniture-INDUSTRY sources (Woodworking Network, Popular Woodworking,
+Woodshop News, RTA Cabinet Store, Industry Today) were **REMOVED** — they
+published lumber-harvest / sawmill / forest-management news instead of
+furniture & kitchen DESIGN. Forestry phrases are also in `BLOCKLIST`.
 
-- **Woodworking Network** — main feed (`woodworkingnetwork.com/rss.xml`) —
-  North American cabinet & casework trade publication
-- **Popular Woodworking** — `popularwoodworking.com/feed/` — woodworking
-  projects, techniques, and tool news
-- **Woodshop News** — `woodshopnews.com/rss` — small-shop cabinet and furniture
-  maker news, IWF/AWFS trade-show coverage
-- **RTA Cabinet Store** — `rtacabinetstore.com/blog/feed/` — Ready-To-Assemble
-  cabinet blog (kitchen cabinets, vanities, garage cabinets)
-- **Industry Today** — `industrytoday.com/feed/` — broad manufacturing trade
-  (furniture factories, CNC, finishing lines)
+### Russian sources (4) — for the @abakan_mebel Russian audience
 
-### Design portals — broad (11)
+- **АМДПР** — `amedoro.com/ru/news/novosti-otrasli.feed?type=rss` — Association
+  of Furniture & Woodworking Industry Enterprises of Russia (Mr.Doors, Felix,
+  TBM, Basis, WOODEX MEBEL SUMMIT — Russian furniture-industry news)
+- **Мебель-expo** — `meb-expo.ru/ru/rss/` — official "Мебель" trade-show portal
+  (Russian furniture fair, industry digest)
+- **Archi.ru** — `archi.ru/rss.xml` — leading Russian architecture & interior
+  magazine
+- **Rmnt.ru** — `rmnt.ru/rss/news.xml` — Russian home, repair & interior portal
+
+### Design portals — broad (16, international furniture/kitchen DESIGN)
 
 - **Dezeen** — main + Interiors (`dezeen.com/feed/`, `/interiors/feed/`) —
   leading global design & architecture magazine
@@ -86,6 +93,16 @@ HTTP endpoint, valid feed, embedded photos, recent relevant content.
 - **Trendir** — `trendir.com/feed/` — modern home & furniture trends
 - **Homedit** — `homedit.com/feed/` — home design ideas with deep kitchen and
   furniture coverage
+- **Decoist** — `decoist.com/feed/` — kitchen / countertop / furniture design
+  (strong kitchen signal: "Outdated Countertop Material", kitchen trends)
+- **Wallpaper** — `wallpaper.com/rss.xml` — international design magazine,
+  strong furniture & interiors coverage
+- **Minimalissimo** — `minimalissimo.com/feed` — minimalist product / furniture
+  / lighting design
+- **ArchDaily** — `archdaily.com/feed` — architecture + interiors with rich
+  project galleries
+- **Apartment Therapy** — `apartmenttherapy.com/main.rss` — home & furniture
+  design ideas (kitchen, furniture, small-space solutions)
 
 ### Design portals — topic-specific, high relevance (6)
 
@@ -114,17 +131,12 @@ HTTP endpoint, valid feed, embedded photos, recent relevant content.
 - **Veranda** — `veranda.com/rss/all.xml` — high-end interiors magazine
 - **Ideal Home** — `idealhome.co.uk/api/rss` — UK home & kitchen magazine
 
-### Russian (1)
-
-- **Rmnt.ru** — `rmnt.ru/rss/news.xml` — Russian home & garden portal
-  (construction, repair, interior, furniture)
-
 ### Outdoor furniture (1)
 
 - **Gardenista** — `gardenista.com/feed/` — sister site of Remodelista,
   outdoor furniture, garden rooms, sheds & outbuildings
 
-Sources marked **gallery-enabled** (21 feeds) have `scrape_gallery: true` —
+Sources marked **gallery-enabled** have `scrape_gallery: true` —
 the parser fetches the article page for the top 3 most recent items and
 extracts up to 5 additional gallery photos (so each item ends up with up to
 6 images total).
@@ -207,10 +219,10 @@ For sources flagged `scrape_gallery: true`, the parser:
 5. Filters out garbage URLs (same filter as above)
 6. Caps at 6 total images per item (lead image first, then 5 extras)
 
-This means top-tier sources (Woodworking Network, Design Milk, Dezeen,
-Homes & Gardens, House Beautiful, Veranda, Livingetc, Ideal Home, Real Homes,
-Trendir, Homedit, Design Boom, Woodshop News, Popular Woodworking, Rmnt.ru,
-DM tag kitchen/furniture/cabinets, Dezeen tag kitchens, Elle Decor, Sunset)
+This means top-tier sources (Design Milk, Dezeen, Homes & Gardens, House
+Beautiful, Veranda, Livingetc, Ideal Home, Real Homes, Trendir, Homedit,
+Design Boom, Decoist, Wallpaper, ArchDaily, Apartment Therapy, Rmnt.ru,
+DM tag kitchen/furniture/cabinets, Dezeen tag kitchens, Elle Decor)
 provide rich multi-photo news items.
 
 ---

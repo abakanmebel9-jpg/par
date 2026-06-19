@@ -1,11 +1,15 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-19T05:19:59.489385+00:00",
-  "generated_at_human": "2026-06-19 05:19 UTC",
-  "total_items": 135,
+  "generated_at": "2026-06-19T07:43:33.737918+00:00",
+  "generated_at_human": "2026-06-19 07:43 UTC",
+  "total_items": 142,
   "sources_used": [
+    "Apartment Therapy",
+    "ArchDaily",
+    "Archi.ru",
     "DM tag furniture",
+    "Decoist",
     "Design Boom",
     "Design Milk",
     "Design Milk Art",
@@ -22,16 +26,153 @@
     "House Beautiful",
     "Ideal Home",
     "Livingetc",
-    "Popular Woodworking",
-    "RTA Cabinet Store",
+    "Minimalissimo",
     "Trendir",
     "Veranda",
-    "Woodshop News",
-    "Woodworking Network"
+    "Wallpaper",
+    "АМДПР",
+    "Мебель-expo"
   ],
-  "sources_count": 23,
-  "multi_photo_items": 38,
+  "sources_count": 27,
+  "multi_photo_items": 36,
   "items": [
+    {
+      "id": "122b518125836155",
+      "title": "В ритме сосен",
+      "summary": "По проекту бюро VFORM в Жуковке, на участке у Рублево-Успенского шоссе, построен торгово-деловой центр. Авторы работали с частично возведенной конструкцией, использовали оригинальную кортеновскую сталь и натуральный сланец, продолжили архитектурные решения в интерьере и поддержали их ландшафтом. Получился объект, который одновременно откликается на природное окружение, вторя ритму и фактуре соснового леса, и заставляет гостя всматриваться в красоту пейзажа внимательнее.",
+      "url": "https://archi.ru/russia/102259/v-ritme-sosen",
+      "image": "https://i.archi.ru/i/150/492263.jpg",
+      "images": [
+        "https://i.archi.ru/i/150/492263.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "a5c88d4aa5923afd",
+      "title": "Низкий старт",
+      "summary": "Бюро TOU Architects получило редкую возможность – создать интерьер нового терминала местного аэропорта и придать ему актуальный облик, сохранив связь с основными элементами локального историко-культурного контекста. Проект был завершен в 2024 году и пока еще ждет своего «звездного» часа.",
+      "url": "https://archi.ru/russia/102343/nizkii-start",
+      "image": "https://i.archi.ru/i/150/505751.jpg",
+      "images": [
+        "https://i.archi.ru/i/150/505751.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "f67a820991e5cc64",
+      "title": "Трибьют модернизму",
+      "summary": "Жилой комплекс «Новация», построенный по проекту DK architects в Ярославле, поддерживает модернистский характер района на берегу Волги ортогональной сеткой фасада и ясностью пропорций. Кровля используется как общественная терраса для отдыха и занятий спортом.",
+      "url": "https://archi.ru/russia/102341/tribyut-modernizmu",
+      "image": "https://i.archi.ru/i/150/504438.jpg",
+      "images": [
+        "https://i.archi.ru/i/150/504438.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "2ee642f02b2939d8",
+      "title": "Синтез дизайна и технологий",
+      "summary": "Во главу угла современных офисов ставятся удобство и легкость коммуникации между сотрудниками, что, по мнению ученых, дает синергетический эффект. Примером может служить интерьер Центра новых технологий «Норникеля» от бюро «АРХИСТРА», уже получивший Премию «Офисы Нового Поколения» / Best Office Awards 2026 в номинации «Бренд и имидж».",
+      "url": "https://archi.ru/russia/102301/sintez-dizaina-i-tekhnologii",
+      "image": "https://i.archi.ru/i/150/500250.jpg",
+      "images": [
+        "https://i.archi.ru/i/150/500250.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "8f5e3d878b246136",
+      "title": "Guests Might Remember These Bathroom Basins More Than the Vanity Itself",
+      "summary": "Bathroom sinks used to disappear into the background. White porcelain remains common, but designers continue experimenting with glass, concrete, colored ceramics, sculptural forms, and integrated designs that draw attention to the vanity area. From crystal-cut glass vessels to hand-painted ceramic bowls and angular wall-mounted designs, these examples show how a basin can become one of... The post Guests Might Remember These Bathroom Basins More Than the Vanity Itself appeared first on Homedit .",
+      "url": "https://www.homedit.com/guests-might-remember-these-bathroom-basins-more-than-the-vanity-itself/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Guests-Might-Remember-These-Bathroom-Basins-More-Than-the-Vanity-Itself.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Guests-Might-Remember-These-Bathroom-Basins-More-Than-the-Vanity-Itself.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Black-Vessel-Basin-Stands-Out-Against-Warm-Walls-800x1200.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Black-Pedestal-Sink-Creates-Contrast-Against-White-Walls-800x1200.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Integrated-Basin-Removes-the-Need-for-a-Vessel-Sink-768x1152.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/LED-Mirror-Extends-the-Impact-of-a-Sculptural-Sink-768x1152.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Angular-Sink-Challenges-Traditional-Basin-Shapes-768x1152.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-06-19T07:17:38+00:00"
+    },
+    {
+      "id": "c50c409895278155",
+      "title": "In this waterfront Brooklyn loft, industrial bones meet a lifetime of global collecting",
+      "summary": "Interior designer Laurie Blumenfeld’s Red Hook warehouse transforms raw industrial architecture into a deeply personal cabinet of curiosities",
+      "url": "https://www.wallpaper.com/design-interiors/interior-design/brooklyn-loft-laurie-blumenfeld",
+      "image": "https://cdn.mos.cms.futurecdn.net/tFmxFHQcs2sCassVPsHFsQ-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/tFmxFHQcs2sCassVPsHFsQ-1280-80.jpg",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936-250-80.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-900-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-450-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-06-19T07:00:00+00:00"
+    },
+    {
+      "id": "4b39e5c61209fa46",
+      "title": "10 Ways to Style a Brown Sofa Like an Interior Designer — How Experts Enhance a Living Room With This Rich-Hued Focal Point",
+      "summary": "These designer-styled living rooms are favorites from the Livingetc archives, and prove the enduring appeal of a brown sofa, whatever your style or size of space",
+      "url": "https://www.livingetc.com/ideas/brown-sofa-living-room-ideas",
+      "image": "https://cdn.mos.cms.futurecdn.net/yqu3F8XnmQsGMzjAebgxyU-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/yqu3F8XnmQsGMzjAebgxyU-1280-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/uMomguuqRA5QTmQ6WxPaKJ.jpg",
+        "https://cdn.mos.cms.futurecdn.net/uMomguuqRA5QTmQ6WxPaKJ-160-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/uMomguuqRA5QTmQ6WxPaKJ-80-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/CBziWZ8rNv33HSkbptCwxn.jpg",
+        "https://cdn.mos.cms.futurecdn.net/CBziWZ8rNv33HSkbptCwxn-160-80.jpg"
+      ],
+      "source": "Livingetc",
+      "source_url": "https://www.livingetc.com",
+      "published": "2026-06-19T06:41:30+00:00"
+    },
+    {
+      "id": "0c8e6a25afb58f12",
+      "title": "Marble Can Never Be Basic, but This Year's Kitchen Marble Trends Prove Designers Are Taking the Natural Stone to New Heights in 2026",
+      "summary": "From boldly veined slabs to decorative edges, these are the marble trends defining luxury kitchen design in 2026",
+      "url": "https://www.livingetc.com/ideas/kitchen-marble-trends-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/ZGYgTtNoGXs7dFsiA9FRQM-1280-80.png",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/ZGYgTtNoGXs7dFsiA9FRQM-1280-80.png",
+        "https://cdn.mos.cms.futurecdn.net/yKqULJdDjAz7cQ3YtwxXRk.png",
+        "https://cdn.mos.cms.futurecdn.net/yKqULJdDjAz7cQ3YtwxXRk-160-80.png",
+        "https://cdn.mos.cms.futurecdn.net/yKqULJdDjAz7cQ3YtwxXRk-80-80.png",
+        "https://cdn.mos.cms.futurecdn.net/t42YQqY3WKCEdXNjYYoSDd.jpg",
+        "https://cdn.mos.cms.futurecdn.net/t42YQqY3WKCEdXNjYYoSDd-160-80.jpg"
+      ],
+      "source": "Livingetc",
+      "source_url": "https://www.livingetc.com",
+      "published": "2026-06-19T05:30:00+00:00"
+    },
+    {
+      "id": "3ccb01c1e234dd53",
+      "title": "Es Devlin designs revolving bookshelf for UK country house pavilion",
+      "summary": "British designer Es Devlin has created Library of the Four Winds, a kinetic installation inside the Temple of the Four Winds garden folly on the grounds of the 18th-century country house Castle Howard in North Yorkshire. Library of the Four Winds comprises an illuminated, revolving bookshelf located in the centre of the building, displaying 250 The post Es Devlin designs revolving bookshelf for UK country house pavilion appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/19/es-devlin-revolving-bookshelf-uk-country-house-pavilion/",
+      "image": "http://static.dezeen.com/uploads/2026/06/Es-Devlin-Castle-Howard_dezeen_2364_col_0-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/Es-Devlin-Castle-Howard_dezeen_2364_col_0-411x411.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-19T05:00:02+00:00"
+    },
     {
       "id": "694e3b45b2e760e1",
       "title": "Let's 'De-Normalize' Boring Hardware — 20 Sculptural Knobs, Handles, and Pulls That Will Transform Your Space in Less Than 10 Minutes",
@@ -39,12 +180,7 @@
       "url": "https://www.livingetc.com/shopping/sculptural-knobs-pulls-handles",
       "image": "https://cdn.mos.cms.futurecdn.net/E4HQow3nyUGajvpeacjQo-1280-80.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/E4HQow3nyUGajvpeacjQo-1280-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/E4HQow3nyUGajvpeacjQo.jpg",
-        "https://cdn.mos.cms.futurecdn.net/E4HQow3nyUGajvpeacjQo-2560-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/E4HQow3nyUGajvpeacjQo-1920-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/E4HQow3nyUGajvpeacjQo-1600-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/E4HQow3nyUGajvpeacjQo-1440-80.jpg"
+        "https://cdn.mos.cms.futurecdn.net/E4HQow3nyUGajvpeacjQo-1280-80.jpg"
       ],
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
@@ -78,9 +214,9 @@
         "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/f461cc53-bdbf-4e52-a4ec-d4b0e6e8890b.jpg?crop=1xw:0.853xh;0xw",
         "https://hips.hearstapps.com/hmg-prod/images/the-container-store-elfa-horderly-house-beautiful-workroom-1572907091.png?crop=1xw:0.84375xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/marshall-watson-new-york-apartment-bedroom-vertical-679a8395bcb9b.jpg?crop=1xw:0.831xh;0xw,0.169xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/67fe8b25-1fd5-4f33-86fe-101f95d90d58.jpg?crop=0.666666666667xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/59628292-b123-4eaa-987c-c857673b3a9e.jpg?crop=0.736335642802xw:1xh;center,top&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/ver040116carter03-1612914995.jpg?crop=0.75xw:1xh;0.178xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/35dbc859-aee3-42e6-a95c-425f48047a09.jpg?crop=1xw:0.773xh;0xw,0.2xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/meg-braff-locust-valley-living-room-1605037055.jpg?crop=0.752xw:1.00xh;0.125xw,0&resize=360:*"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -95,10 +231,10 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/23137359-9610-4a48-b68f-a34d5cde4f59.jpg",
         "https://hips.hearstapps.com/vidthumb/images/screen-shot-2020-02-18-at-2-14-44-pm-1582053292.png?crop=1xw:0.8757405213270142xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/819956bb-26e7-40fc-9038-c9d7b4aceaf7.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/a1vat81mpml-ac-sl1500-686e8c500633c.jpg?crop=1.00xw:1.00xh;0,0&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/amazon-furniture-689e4f75802e8.jpg?crop=0.5xw:1xh;0.251xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2018-0910-hhm-21788-68506de510003.jpg?crop=1.00xw:0.812xh;0,0.188xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/f3813b97-fdcf-4922-9af7-f45f568c8f8d.jpg?crop=0.5xw:1xh;0.5xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/7298e1ff-8d7e-4f6b-8bcd-f7b5b16ab38e.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/63a00203-e71e-4a8f-b040-e60d1173b084.jpeg?crop=0.667xw:1xh;0.261xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/11fa1677-c670-4d53-8c70-fa052c90220b.jpeg?crop=0.325xw:0.59xh;0.302xw,0.1xh&resize=360:*"
       ],
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
@@ -113,14 +249,27 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/f3813b97-fdcf-4922-9af7-f45f568c8f8d.jpg",
         "https://hips.hearstapps.com/vidthumb/images/screen-shot-2020-02-18-at-2-14-44-pm-1582053292.png?crop=1xw:0.8757405213270142xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/819956bb-26e7-40fc-9038-c9d7b4aceaf7.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/a1vat81mpml-ac-sl1500-686e8c500633c.jpg?crop=1.00xw:1.00xh;0,0&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/amazon-furniture-689e4f75802e8.jpg?crop=0.5xw:1xh;0.251xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2018-0910-hhm-21788-68506de510003.jpg?crop=1.00xw:0.812xh;0,0.188xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/f60c7969-6220-440e-9167-63143b6fd327.png?crop=0.667xw:1xh;0.163xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/004d44fe-90ff-4e4d-bd86-7007d6ba583c.jpg?crop=1xw:1.0xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/101d9fdd-1cc7-4d80-81c3-6aa110ce3f3f.jpg?crop=1xw:1.0xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/525eea75-0221-4fc7-a5e2-79256219bce7.jpg?crop=0.5xw:1xh;0.5xw,0xh&resize=360:*"
       ],
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
       "published": "2026-06-18T20:15:00+00:00"
+    },
+    {
+      "id": "3b68ebb6890eab60",
+      "title": "Zoë Feldman Launched Nursery Chairs That Feel Like Living Room Pieces",
+      "summary": "The cutest chairs that can grow alongside your little(s). READ MORE...",
+      "url": "https://www.apartmenttherapy.com/zoe-feldman-nestig-nursery-chairs-37559318?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/style/2026/2026-06/nestig-x-zoe-feldman/zoe-feldman-nestig-collab-2",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/style/2026/2026-06/nestig-x-zoe-feldman/zoe-feldman-nestig-collab-2"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-18T20:00:00+00:00"
     },
     {
       "id": "d1c58440149b9e58",
@@ -141,71 +290,17 @@
       "published": "2026-06-18T19:00:00+00:00"
     },
     {
-      "id": "21852a46820e4030",
-      "title": "Eric Marshall to lead exclusive closets tour at IWF Atlanta",
-      "summary": "Eric Marshall to lead exclusive closets tour at IWF Atlanta June 18, 2026 | 11:37 am CDT Event Coverage Closets Woodworking Industry News Eric Marshall to lead exclusive closets tour at IWF Atlanta By Michaelle Bradford June 18, 2026 | 11:37 am CDT Print ATLANTA — The International Woodworking Fair (IWF) has announced that industry veteran Eric Marshall, co-founder of the Closet Training Institute, will head a brand-new show floor experience designed for woodworkers looking to capitalize on the closets market. Part of the newly launched Wood Industry Innovation Tours , the guided program…",
-      "url": "https://www.woodworkingnetwork.com/events-contests/event-coverage/eric-marshall-lead-exclusive-closets-tour-iwf-atlanta",
-      "image": "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/Screenshot%202026-06-18%20at%2011.30.05%E2%80%AFAM.png?VersionId=ogtShyure0hJ8huSqsPJQHB2kIRUjR0c&amp;itok=KrHjy36D",
+      "id": "07595a95fca4161e",
+      "title": "This Small Home Didn’t Have Room for an Office — An IKEA Cabinet Solved That",
+      "summary": "I would’ve never guessed that a full desk was hidden inside. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/ikea-pax-wardrobe-office-37559040?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/archive/a756a7fda197c38363e7e55eb1c322a9e761b326",
       "images": [
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/Screenshot%202026-06-18%20at%2011.30.05%E2%80%AFAM.png?VersionId=ogtShyure0hJ8huSqsPJQHB2kIRUjR0c&amp;itok=KrHjy36D",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/card_v2/public/2026-06/Cowlitz-design-2026-1024x768.jpeg?VersionId=16elO2DPAvfD1iYXJ76kFH26nzEZldHZ&itok=O3k2Ym8e",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/pictures/picture-9732-1509395309.jpg",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/card_v2/public/field/image/stock-forest-montana.jpg?itok=G2AyUWoX",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/card_v2/public/2026-06/image_processing20260617-8-5zuwjk.jpg?VersionId=GLBull6tVE1Vbv3qL1Z0Q6UastA6OStV&itok=U6UCvYon",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2021-03/woodworkingnetwork_2017_0.png?itok=itC2jNTF"
+        "https://cdn.apartmenttherapy.info/image/upload//at/archive/a756a7fda197c38363e7e55eb1c322a9e761b326"
       ],
-      "source": "Woodworking Network",
-      "source_url": "https://www.woodworkingnetwork.com",
-      "published": "2026-06-18T16:37:47+00:00"
-    },
-    {
-      "id": "5010d8677bf2931f",
-      "title": "USDA puts Montana forests back to work, supporting jobs and rural communities",
-      "summary": "USDA puts Montana forests back to work, supporting jobs and rural communities June 18, 2026 | 11:27 am CDT Woodworking Industry News USDA puts Montana forests back to work, supporting jobs and rural communities By Dakota Smith June 18, 2026 | 11:27 am CDT Print WASHINGTON, D.C. — U.S. Forest Service Chief Tom Schultz signed the Montana Tri-Forest Federal Sustained-Yield Unit management plan that will support economic stability, strengthen central Montana’s wood processing capacity and advance forest health though timber harvests that will be processed within the boundaries of the unit. The…",
-      "url": "https://www.woodworkingnetwork.com/news/woodworking-industry-news/usda-puts-montana-forests-back-work-supporting-jobs-and-rural",
-      "image": "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/field/image/stock-forest-montana.jpg?itok=0sOrw55P",
-      "images": [
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/field/image/stock-forest-montana.jpg?itok=0sOrw55P",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/pictures/2025-06/IMG_8857.jpeg?VersionId=KRcZi_dS.acj1Db44hsYnOdgHbyle1hd",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/card_v2/public/2026-06/CrazyCreek1planting.jpg?VersionId=.pmYHBAeRecfhKZYvZCQZA1wk90pt.uD&itok=SRUqgHD8",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/card_v2/public/2024-06/Georgia-Mass-Timber-Accellerator.jpg?VersionId=2VWRlZGpQxPdnlklqn_5DqrcYWszoVTS&itok=J20YSLcf",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/card_v2/public/2026-06/calif-mass-timber-coalition.jpg?VersionId=UAPYHTZ14mIigTrmn1gA4zUqrOQcljcr&itok=l44vpyop",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2021-03/woodworkingnetwork_2017_0.png?itok=itC2jNTF"
-      ],
-      "source": "Woodworking Network",
-      "source_url": "https://www.woodworkingnetwork.com",
-      "published": "2026-06-18T16:27:19+00:00"
-    },
-    {
-      "id": "b6a0147a2149ef4f",
-      "title": "AWI Chicago 2026 Annual Golf Outing connects woodworking industry leaders",
-      "summary": "AWI Chicago 2026 Annual Golf Outing connects woodworking industry leaders June 18, 2026 | 11:11 am CDT Woodworking Industry News AWI Chicago 2026 Annual Golf Outing connects woodworking industry leaders By Dakota Smith June 18, 2026 | 11:11 am CDT Print St. Andrews Golf & Country Club - West Chicago. Photos by AWI Chicago CHICAGO — The AWI Chicago Chapter will host its 2026 Annual Golf Outing on Thursday, June 25, 2026, bringing together architectural woodwork manufacturers, suppliers, distributors, designers, contractors, clients, and industry partners for one of the chapter’s most…",
-      "url": "https://www.woodworkingnetwork.com/news/woodworking-industry-news/awi-chicago-2026-annual-golf-outing-connects-woodworking-industry",
-      "image": "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/image_processing20260617-8-5zuwjk.jpg?VersionId=a0rr.E6tH6HPkodv4rOtXxWibLYyS5eB&amp;itok=IbyHEjEA",
-      "images": [
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/image_processing20260617-8-5zuwjk.jpg?VersionId=a0rr.E6tH6HPkodv4rOtXxWibLYyS5eB&amp;itok=IbyHEjEA",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/inline-images/image_processing20260617-8-3yz63u.jpg?VersionId=EAFFb3iRZJ_hw1TyKbxyy5dEjkaNihRH",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/inline-images/image_processing20260617-8-21jcua.jpg?VersionId=xBWrznO4DwI8tGU7MPGShDIiz03IEKf5",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/inline-images/image_processing20260617-8-qjgljh.jpg?VersionId=eL_3DC5H33FpQyiL_Fi2NERm1Gd0nL_a",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/pictures/2025-06/IMG_8857.jpeg?VersionId=KRcZi_dS.acj1Db44hsYnOdgHbyle1hd",
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/card_v2/public/2026-06/kent-gilchrist-wca_0.jpg?VersionId=KGbNnec_wRs68gLVmNdUESEBjSf.HMjD&itok=KywhiNm6"
-      ],
-      "source": "Woodworking Network",
-      "source_url": "https://www.woodworkingnetwork.com",
-      "published": "2026-06-18T16:11:47+00:00"
-    },
-    {
-      "id": "b56e2e6081b4a79f",
-      "title": "Hampton Lumber announces 2026 Lumber Wrap Design winners",
-      "summary": "Hampton Lumber announces 2026 Lumber Wrap Design winners June 18, 2026 | 10:04 am CDT Woodworking Industry News Design Hampton Lumber announces 2026 Lumber Wrap Design winners By Dakota Smith June 18, 2026 | 10:04 am CDT Print PORTLAND, Ore. — Hampton Lumber has announced the winners of its 2026 Lumber Wrap Design Competition, highlighting student creativity from communities across its operating regions. The competition invited high school students to design artwork that will be featured on lumber wrap traveling to markets across the U.S. and around the world. Building on the success of…",
-      "url": "https://www.woodworkingnetwork.com/news/woodworking-industry-news/hampton-lumber-announces-2026-lumber-wrap-design-winners",
-      "image": "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/inline-images/Darrington-Washington-7-1024x768.jpeg?VersionId=8U7fQbRVQorpRHZKSQJSyEQKz9qB1fZS",
-      "images": [
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/inline-images/Darrington-Washington-7-1024x768.jpeg?VersionId=8U7fQbRVQorpRHZKSQJSyEQKz9qB1fZS"
-      ],
-      "source": "Woodworking Network",
-      "source_url": "https://www.woodworkingnetwork.com",
-      "published": "2026-06-18T15:04:15+00:00"
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-18T16:00:00+00:00"
     },
     {
       "id": "933f0dfb0d493492",
@@ -226,17 +321,17 @@
       "published": "2026-06-18T15:00:00+00:00"
     },
     {
-      "id": "ffdd63a512807200",
-      "title": "Weyerhaeuser extends Fighting Fires Together campaign for fifth year",
-      "summary": "Weyerhaeuser extends Fighting Fires Together campaign for fifth year June 18, 2026 | 9:36 am CDT Woodworking Industry News Video Weyerhaeuser extends Fighting Fires Together campaign for fifth year By Dakota Smith June 18, 2026 | 9:36 am CDT Print SEATTLE — Weyerhaeuser Company announced the fifth year of its Fighting Fires Together campaign, combining the company's wildfire management and community support efforts across Oregon. The campaign unifies support for rural fire districts, wildfire response partnerships, and resources that strengthen firefighter and community resilience in…",
-      "url": "https://www.woodworkingnetwork.com/news/woodworking-industry-news/weyerhaeuser-extends-fighting-fires-together-campaign-fifth-year",
-      "image": "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2022-03/8501062_web1_170908-RDA-Canada-Wildfire-Evacuation-PIC-1200x816.jpg?VersionId=1dLV.2xNFmQiaiorF7R9QlhKOGmGJ1RA&amp;itok=SXqZmC9E",
+      "id": "a61424d52addb038",
+      "title": "We Tested (and Rated!) Every West Elm Coffee Table — Here Are the Best to Suit Your Style and Space",
+      "summary": "The reviews are in. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/best-west-elm-coffee-tables-37115905?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//shopping/personal-shopper/2026/west-elm/coffee-tables/west-elm-coffee-tables-lead",
       "images": [
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2022-03/8501062_web1_170908-RDA-Canada-Wildfire-Evacuation-PIC-1200x816.jpg?VersionId=1dLV.2xNFmQiaiorF7R9QlhKOGmGJ1RA&amp;itok=SXqZmC9E"
+        "https://cdn.apartmenttherapy.info/image/upload//shopping/personal-shopper/2026/west-elm/coffee-tables/west-elm-coffee-tables-lead"
       ],
-      "source": "Woodworking Network",
-      "source_url": "https://www.woodworkingnetwork.com",
-      "published": "2026-06-18T14:36:09+00:00"
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-18T14:30:00+00:00"
     },
     {
       "id": "bcfca73d7828d49c",
@@ -273,6 +368,19 @@
       "source": "Ideal Home",
       "source_url": "https://www.idealhome.co.uk",
       "published": "2026-06-18T13:15:00+00:00"
+    },
+    {
+      "id": "96cb7cebc70d5937",
+      "title": "I Finally Found a Small-Space-Friendly Way to Store My Sheets (for Only $35!)",
+      "summary": "It’s the perfect linen-closet companion. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/qvc-home-reflections-bed-sheet-organizer-handles-37559375?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/Samsung%20Laundry%202021/linen-closet",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/Samsung%20Laundry%202021/linen-closet"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-18T12:30:00+00:00"
     },
     {
       "id": "a806dfae7c411cba",
@@ -317,16 +425,47 @@
       "url": "https://www.homedit.com/outdoor-seating-areas-started-borrowing-comfort-layers-from-living-rooms/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Seating-Areas-Started-Borrowing-Comfort-Layers-From-Living-Rooms-in-2026.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Seating-Areas-Started-Borrowing-Comfort-Layers-From-Living-Rooms-in-2026.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Side-Tables-and-Soft-Upholstery-Completed-the-Lounge-768x1152.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gardeners-Are-Pouring-This-Over-Gravel-to-Stop-It-From-Spreading-Everywhere-1024x853.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Umbrellas-Continue-Providing-One-of-the-Simplest-Comfort-Upgrades-768x1024.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Decorative-Screens-Added-Privacy-Without-Blocking-Light-768x1024.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Daybeds-Brought-Indoor-Level-Comfort-Outdoors-768x1024.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Seating-Areas-Started-Borrowing-Comfort-Layers-From-Living-Rooms-in-2026.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-18T10:41:18+00:00"
+    },
+    {
+      "id": "59e88061082b43ef",
+      "title": "Feel like a guardian of the sea in a restored Italian watchtower",
+      "summary": "A historic Tuscan castle on the Romito Coast was layered in mystery; now its charm and spirit have been restored by architectural and interior design studio Tono",
+      "url": "https://www.wallpaper.com/architecture/residential/castel-sonnino-livorno-italian-castle",
+      "image": "https://cdn.mos.cms.futurecdn.net/6rpM2STba763cCchMqtQwm-1280-80.png",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/6rpM2STba763cCchMqtQwm-1280-80.png",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936-250-80.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-900-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-450-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-06-18T10:06:09+00:00"
+    },
+    {
+      "id": "6e46abc5277a6efd",
+      "title": "Spa Complex Moon2 / Architectural Studio Chado",
+      "summary": "The SPA complex of the Moon2 hotel is integrated into the main building volume and continues its architectural concept — a space born from material and context. The interiors are entirely made of concrete that is perceived as natural stone. Its texture and ductility create a sense of solidity and connection to the surrounding mountain landscape, bringing humans closer to nature.",
+      "url": "https://www.archdaily.com/1042495/spa-complex-moon2-architectural-studio-chado",
+      "image": "https://images.adsttc.com/media/images/6a31/f10a/54d7/6a00/01cc/649a/medium_jpg/resized-image.jpg?1781657965",
+      "images": [
+        "https://images.adsttc.com/media/images/6a31/f10a/54d7/6a00/01cc/649a/medium_jpg/resized-image.jpg?1781657965",
+        "https://images.adsttc.com/media/images/6a31/f10c/54d7/6a00/01cc/64a1/thumb_jpg/10.jpg?1781657975",
+        "https://images.adsttc.com/media/images/6a31/f10d/54d7/6a00/01cc/64a6/thumb_jpg/15.jpg?1781658161",
+        "https://images.adsttc.com/media/images/6a31/f10d/54d7/6a00/01cc/64b1/thumb_jpg/26.jpg?1781658273",
+        "https://images.adsttc.com/media/images/6a31/f10c/54d7/6a00/01cc/64a0/thumb_jpg/8.jpg?1781657966",
+        "https://images.adsttc.com/media/images/6a31/f10c/54d7/6a00/01cc/64a1/medium_jpg/10.jpg?1781657975"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-06-18T10:00:00+00:00"
     },
     {
       "id": "8555129d5b828226",
@@ -373,22 +512,53 @@
       "published": "2026-06-18T07:01:41+00:00"
     },
     {
+      "id": "388a91320d3def3c",
+      "title": "Gary Hume’s artworks become furniture and design objects for Giobagnara",
+      "summary": "A limited-edition, marquetry-focused collection – from a cabinet to a screen – fuses the worlds of art and design for Giobagnara’s inaugural Art Edition series",
+      "url": "https://www.wallpaper.com/design-interiors/gary-hume-giobagnara-art-edition-debut",
+      "image": "https://cdn.mos.cms.futurecdn.net/3bHk9EZVqeauCLTb9X3NJ3-1280-80.png",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/3bHk9EZVqeauCLTb9X3NJ3-1280-80.png",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936-250-80.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-900-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-450-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-06-18T07:00:00+00:00"
+    },
+    {
       "id": "a248799fcef2eccb",
       "title": "This Outdoor Reclining Chair From John Lewis Folds Away Totally Flat — It's My Small Garden's Secret Weapon in Summer",
       "summary": "You can enjoy indulgent lounging on even the smallest of balconies this summer, thanks to this compact folding steamer chair",
       "url": "https://www.livingetc.com/shopping/john-lewis-foldable-garden-steamer-chair",
       "image": "https://cdn.mos.cms.futurecdn.net/zuuSXiTQngTgbtrEMhuXT8-1280-80.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/zuuSXiTQngTgbtrEMhuXT8-1280-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/d4UnLgn8mYLScXKTmpSFNf-200-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/zuuSXiTQngTgbtrEMhuXT8.jpg",
-        "https://cdn.mos.cms.futurecdn.net/zuuSXiTQngTgbtrEMhuXT8-1920-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/zuuSXiTQngTgbtrEMhuXT8-1600-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/zuuSXiTQngTgbtrEMhuXT8-1024-80.jpg"
+        "https://cdn.mos.cms.futurecdn.net/zuuSXiTQngTgbtrEMhuXT8-1280-80.jpg"
       ],
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
       "published": "2026-06-18T07:00:00+00:00"
+    },
+    {
+      "id": "bce4bcc7ba7ea807",
+      "title": "Island Logic: How Terrain Shapes Coastal Architecture",
+      "summary": "Coastal landscapes often determine far more than views. Steep slopes, fragmented rock formations, dense vegetation, hidden coves, and limited accessibility can shape how privacy, movement, and occupation unfold before architecture enters the site. Their proximity to water and climate make coastal territories highly desirable for habitation, yet their ecological sensitivity and limited geography often place pressure on how development takes shape. Unlike cities , where density can support walkability, infrastructure, and collective urban life, coastal territories operate through more…",
+      "url": "https://www.archdaily.com/1042262/island-logic-how-terrain-shapes-coastal-architecture",
+      "image": "https://images.adsttc.com/media/images/6a26/b5af/325f/9301/8751/0445/medium_jpg/shaped-by-terrain-a-different-approach-to-coastal-architecture_2.jpg?1780921819",
+      "images": [
+        "https://images.adsttc.com/media/images/6a26/b5af/325f/9301/8751/0445/medium_jpg/shaped-by-terrain-a-different-approach-to-coastal-architecture_2.jpg?1780921819",
+        "https://images.adsttc.com/media/images/6a26/b5ad/325f/9301/8751/0443/medium_jpg/shaped-by-terrain-a-different-approach-to-coastal-architecture_1.jpg?1780921809",
+        "https://images.adsttc.com/media/images/6a26/b5cd/325f/9301/8751/044f/medium_jpg/shaped-by-terrain-a-different-approach-to-coastal-architecture_10.jpg?1780921913",
+        "https://images.adsttc.com/media/images/6a26/b5a8/325f/9301/8751/0442/medium_jpg/shaped-by-terrain-a-different-approach-to-coastal-architecture_11.jpg?1780921783",
+        "https://images.adsttc.com/media/images/6a26/b5ba/325f/9301/8751/0446/medium_jpg/shaped-by-terrain-a-different-approach-to-coastal-architecture_12.jpg?1780921827",
+        "https://images.adsttc.com/media/images/6a26/b5c1/325f/9301/8751/044a/medium_jpg/shaped-by-terrain-a-different-approach-to-coastal-architecture_13.jpg?1780921850"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-06-18T06:45:00+00:00"
     },
     {
       "id": "934343fcb6abdf9a",
@@ -397,12 +567,7 @@
       "url": "https://www.livingetc.com/shopping/ikea-ps-portable-led-lamp",
       "image": "https://cdn.mos.cms.futurecdn.net/2An4QtAmgked5zYCiiKPfn-1280-80.png",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/2An4QtAmgked5zYCiiKPfn-1280-80.png",
-        "https://cdn.mos.cms.futurecdn.net/S3BbHEf6Hz9QAXtcnspAUA-200-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/2An4QtAmgked5zYCiiKPfn.png",
-        "https://cdn.mos.cms.futurecdn.net/2An4QtAmgked5zYCiiKPfn-1920-80.png",
-        "https://cdn.mos.cms.futurecdn.net/2An4QtAmgked5zYCiiKPfn-1600-80.png",
-        "https://cdn.mos.cms.futurecdn.net/2An4QtAmgked5zYCiiKPfn-1024-80.png"
+        "https://cdn.mos.cms.futurecdn.net/2An4QtAmgked5zYCiiKPfn-1280-80.png"
       ],
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
@@ -474,17 +639,17 @@
       "published": "2026-06-18T03:30:00+00:00"
     },
     {
-      "id": "90dae32efdf1fc05",
-      "title": "Founder of North Carolina furniture business charged with deadly shooting of co-owner",
-      "summary": "Founder of North Carolina furniture business charged with deadly shooting of co-owner June 17, 2026 | 10:20 pm CDT Woodworking Industry News Founder of North Carolina furniture business charged with deadly shooting of co-owner By Larry Adams June 17, 2026 | 10:20 pm CDT Print Willard Gary Black, 85, of Hickory, North Carolina, has been charged with the alleged shooting death of Robert Arguilles. Black and Arguilles were reportedly co-owners of a furniture manufacturing business. A co-owner of a North Carolina furniture manufacturing business has been charged with second-degree murder…",
-      "url": "https://www.woodworkingnetwork.com/news/woodworking-industry-news/founder-north-carolina-furniture-business-charged-deadly-shooting-co",
-      "image": "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/WillardGaryBlack-85-Hickory-NC.jpeg?VersionId=Y8OEG2QJLSIxZBVxjjDZrGxj.kCUPBtV&amp;itok=87B6BmnI",
+      "id": "84cf728f91924d65",
+      "title": "A Dark and Awkward Kitchen Got a Colorful Vintage-Inspired Redo",
+      "summary": "The new terracotta-and-blue color scheme is like instant sunshine. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/southwestern-style-kitchen-redo-terracotta-and-teal-ba-37553841?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-04/Lara%20Parra%20kitchen%20dining/LaraKitchen_Before9_horiz",
       "images": [
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/WillardGaryBlack-85-Hickory-NC.jpeg?VersionId=Y8OEG2QJLSIxZBVxjjDZrGxj.kCUPBtV&amp;itok=87B6BmnI"
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-04/Lara%20Parra%20kitchen%20dining/LaraKitchen_Before9_horiz"
       ],
-      "source": "Woodworking Network",
-      "source_url": "https://www.woodworkingnetwork.com",
-      "published": "2026-06-18T03:20:45+00:00"
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-17T22:00:00+00:00"
     },
     {
       "id": "f238f56b2c9a2589",
@@ -531,87 +696,6 @@
       "published": "2026-06-17T18:00:00+00:00"
     },
     {
-      "id": "34517a0162527ba1",
-      "title": "Easy Picnic Table",
-      "summary": "This table is a picnic to build with dimensional lumber, screws and bolts. I’m usually not intimidated by undertaking projects. We need some artwork for the new apartment? I can... Source",
-      "url": "https://www.popularwoodworking.com/projects/easy-picnic-table/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/16131814/1006-icdt-3_picnic-table-1024x837.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2020/04/16131814/1006-icdt-3_picnic-table-1024x837.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2026/06/10205329/img_2315-2048x2048.jpeg",
-        "https://media.popularwoodworking.com/app/uploads/2020/06/fender-washer-10503_002-2048x2048.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2020/01/1006_icdt_picnictable_illos_lkw-1-1197x1536.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2020/04/16131816/1006-icdt-3-end_7049-768x1152.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2020/01/1006_icdt_picnictablebrace_lkw-1-1536x498.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-17T17:44:38+00:00"
-    },
-    {
-      "id": "5cdc6e8431a335c5",
-      "title": "Robotic Solutions will demonstrate an automated finishing process at IWF",
-      "summary": "Robotic Solutions will return to IWF 2026 in Atlanta with live demonstrations of advanced woodworking automation technology. The company’s booth will feature a fully integrated CMA Robotics Inverted Shuttle System... The post Robotic Solutions will demonstrate an automated finishing process at IWF appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/robotic-solutions-will-demonstrate-an-automated-finishing-process-at-iwf",
-      "image": "https://www.woodshopnews.com/uploads/2026/06/Robotic-Solutions-image.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/06/Robotic-Solutions-image.jpg",
-        "https://www.woodshopnews.com/uploads/2025/04/wsn_1121_lrp1-11.jpg?format=auto&optimize=high&width=3840",
-        "https://www.woodshopnews.com/uploads/2026/06/Stiles-ORRA.jpg?format=auto&optimize=high&width=3840",
-        "https://www.woodshopnews.com/uploads/2026/06/IWFlogo500x280_WSN.jpg?format=auto&optimize=high&width=3840"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-06-17T16:46:50+00:00"
-    },
-    {
-      "id": "f516c2d7d082ec4e",
-      "title": "Pennsylvania Lumbermens Mutual Insurance Company names vice president of claims",
-      "summary": "Pennsylvania Lumbermens Mutual Insurance Company names vice president of claims June 17, 2026 | 11:28 am CDT Woodworking Industry News Pennsylvania Lumbermens Mutual Insurance Company names vice president of claims By Larry Adams June 17, 2026 | 11:28 am CDT Print PHILADELPHIA — Pennsylvania Lumbermens Mutual Insurance Company named Courtney Flanagan as the organization's vice president of claims. A seasoned veteran of the insurance industry, Flanagan will oversee the company’s claims operations and strategy. She will focus on advancing claims performance, supporting team development, and…",
-      "url": "https://www.woodworkingnetwork.com/news/woodworking-industry-news/pennsylvania-lumbermens-mutual-insurance-company-names-vice",
-      "image": "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/CourtneyFlanagan.jpg?VersionId=mtIbQXkIdtEYXV2CPz4qRpwLEDu5tZtB&amp;itok=MFtucuCC",
-      "images": [
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/CourtneyFlanagan.jpg?VersionId=mtIbQXkIdtEYXV2CPz4qRpwLEDu5tZtB&amp;itok=MFtucuCC"
-      ],
-      "source": "Woodworking Network",
-      "source_url": "https://www.woodworkingnetwork.com",
-      "published": "2026-06-17T16:28:05+00:00"
-    },
-    {
-      "id": "02748fc42a15a89e",
-      "title": "New Wall Panelling Options from Osborne",
-      "summary": "Osborne Wood Products has expanded its paneling collection with 93” long tambour panels and introduced a new line of rigid Slat Wall Panels in seven patterns. These panels, available in unfinished beech, will be showcased at the 2026 International Woodworking Fair. The post New Wall Panelling Options from Osborne appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/new-wall-panelling-options-from-osborne",
-      "image": "https://www.woodshopnews.com/uploads/2026/06/Osborne-Wood-photo-Large.jpeg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/06/Osborne-Wood-photo-Large.jpeg",
-        "https://www.woodshopnews.com/uploads/2025/04/wsn_1121_lrp1-11.jpg?format=auto&optimize=high&width=3840",
-        "https://www.woodshopnews.com/uploads/2026/06/Robotic-Solutions-image.jpg?format=auto&optimize=high&width=3840",
-        "https://www.woodshopnews.com/uploads/2026/06/Stiles-ORRA.jpg?format=auto&optimize=high&width=3840",
-        "https://www.woodshopnews.com/uploads/2026/06/IWFlogo500x280_WSN.jpg?format=auto&optimize=high&width=3840"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-06-17T16:23:27+00:00"
-    },
-    {
-      "id": "0f5e6c8c7287b868",
-      "title": "Grex Designs a Cordless Stapler for the Precision Woodworker",
-      "summary": "Grex will showcase its new cordless stapler, the GC9032, at the 2026 International Woodworking Fair. The GC9032 is compact, lightweight, and features a long, narrow nose, multi-angle safety, and a removable no-mar rubber tip. The post Grex Designs a Cordless Stapler for the Precision Woodworker appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/grex-designs-a-cordless-stapler-for-the-precision-woodworker",
-      "image": "https://www.woodshopnews.com/uploads/2026/06/GREX-photo.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/06/GREX-photo.jpg",
-        "https://www.woodshopnews.com/uploads/2025/04/wsn_1121_lrp1-11.jpg?format=auto&optimize=high&width=3840",
-        "https://www.woodshopnews.com/uploads/2026/06/Robotic-Solutions-image.jpg?format=auto&optimize=high&width=3840",
-        "https://www.woodshopnews.com/uploads/2026/06/Stiles-ORRA.jpg?format=auto&optimize=high&width=3840",
-        "https://www.woodshopnews.com/uploads/2026/06/IWFlogo500x280_WSN.jpg?format=auto&optimize=high&width=3840"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-06-17T16:15:49+00:00"
-    },
-    {
       "id": "a6b867033c1ffa7c",
       "title": "The Titular Green Box at the Heart of This Greek Home",
       "summary": "Archiwave Architects center their transformation of an office space into a home around a sculptural, space-delineating bookcase.",
@@ -643,19 +727,6 @@
       "published": "2026-06-17T16:00:00+00:00"
     },
     {
-      "id": "77f808fc443861ab",
-      "title": "Stiles Machinery Plans Extensive Woodworking Equipment Display at IWF 2026",
-      "summary": "Stiles Machinery will showcase over 60 brands of woodworking equipment at the International Woodworking Fair (IWF) in Atlanta. The company will feature CNC routing, sawing, edge banding, drilling, sanding, finishing, and more, with a focus on helping manufacturers grow and invest in technology with a high return on investment. Featured equipment includes the HOMAG CENTATEQ N-300 Classic CNC router and the HOMAG SAWTEQ S-300 & STORETEQ F-100 sawing system. The post Stiles Machinery Plans Extensive Woodworking Equipment Display at IWF 2026 appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/stiles-machinery-plans-extensive-woodworking-equipment-display-at-iwf-2026",
-      "image": "https://www.woodshopnews.com/uploads/2026/06/Stiles-CENTATEQ-N300.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/06/Stiles-CENTATEQ-N300.jpg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-06-17T15:29:44+00:00"
-    },
-    {
       "id": "5a32b1b1b7bc6f6f",
       "title": "Studio NRG designs Lilium Chair out of recycled metal car rims",
       "summary": "Colombian designer Nicolas Riano Guerrero of Studio NRG has unveiled the Lilium chair made using aluminium salvaged from car rims. The limited-edition furnishing reflects the soft shape of a flower petal with the aim of revealing how metal and other industrial materials can become approachable. \"The idea came from wanting to take one of the The post Studio NRG designs Lilium Chair out of recycled metal car rims appeared first on Dezeen .",
@@ -669,19 +740,6 @@
       "published": "2026-06-17T15:00:07+00:00"
     },
     {
-      "id": "e57c0a35888382b2",
-      "title": "Second firefighter dies from injuries at lumber mill fire and explosion",
-      "summary": "Second firefighter dies from injuries at lumber mill fire and explosion By Larry Adams June 17, 2026 | 9:32 am CDT Woodworking Industry News Second firefighter dies from injuries at lumber mill fire and explosion By Larry Adams June 17, 2026 | 9:32 am CDT Print SEARSMONT, Maine — Hundreds of firefighters, first responders and community members lined the streets of Searsmont, Maine, to honor Searsmont firefighter who died following injuries sustained in the Robbins Lumber explosion on May 15. Assistant Chief Wayne Woodbury, 76, of the Searsmont Fire Department, died Sunday morning, June 14,…",
-      "url": "https://www.woodworkingnetwork.com/news/woodworking-industry-news/second-firefighter-dies-injuries-lumber-mill-fire-and-explosion",
-      "image": "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/WatervillFireDepartment-Watervillesalute.jpg?VersionId=HylcneZksaXGAvFJfpg4nE8rrqX_fyTi&amp;itok=6qkR_0l4",
-      "images": [
-        "https://wwn-files-live.s3.us-east-2.amazonaws.com/s3fs-public/styles/webp/public/2026-06/WatervillFireDepartment-Watervillesalute.jpg?VersionId=HylcneZksaXGAvFJfpg4nE8rrqX_fyTi&amp;itok=6qkR_0l4"
-      ],
-      "source": "Woodworking Network",
-      "source_url": "https://www.woodworkingnetwork.com",
-      "published": "2026-06-17T14:32:22+00:00"
-    },
-    {
       "id": "f82603c6b787a5e3",
       "title": "This Arts & Crafts Kitchen Was Once a Tiny Space Stripped of Character – Now It Is a Masterclass in Restoring Historic Charm Without Feeling Dated",
       "summary": "From the rich walnut details to the softly curved island, this kitchen is a masterclass in balancing historic proportions with elevated style",
@@ -693,19 +751,6 @@
       "source": "Homes & Gardens",
       "source_url": "https://www.homesandgardens.com",
       "published": "2026-06-17T14:00:00+00:00"
-    },
-    {
-      "id": "3ff0e875259d8dd9",
-      "title": "Bookcases Aren’t Disappearing. Floating Shelves Keep Taking Their Place",
-      "summary": "Bookcases remain a staple in many homes, but floating shelves have started appearing in places where larger storage pieces once dominated. Television walls, home offices, bathrooms, bedrooms, and feature walls now rely on floating shelves to provide storage without covering entire sections of the room. Part of the shift comes from scale. Floating shelves occupy... The post Bookcases Aren’t Disappearing. Floating Shelves Keep Taking Their Place appeared first on Homedit .",
-      "url": "https://www.homedit.com/bookcases-arent-disappearing-floating-shelves-keep-taking-their-place/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/interior-design/Bookcases-Arent-Disappearing.-Floating-Shelves-Keep-Taking-Their-Place-1.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/interior-design/Bookcases-Arent-Disappearing.-Floating-Shelves-Keep-Taking-Their-Place-1.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-06-17T13:54:25+00:00"
     },
     {
       "id": "bc199309bfec61cc",
@@ -791,6 +836,19 @@
       "published": "2026-06-17T07:00:00+00:00"
     },
     {
+      "id": "a6274e38bce6a790",
+      "title": "Десять будущих кладовщиков завершили практику на предприятии компании «ФЕЛИКС»",
+      "summary": "Студенты ГБПОУ «Торопецкий колледж» завершили практику на крупнейшем предприятии мебельной отрасли Тверской области — фабрике компании «ФЕЛИКС». Практика стала заключительным модулем обучения по теме «Оценка эффективности работы логистических систем и контроль логистических операций» для выпускников специальности «Операционная деятельность в логистике». В течение недели десять будущих кладовщиков отрабатывали профессиональные навыки и знакомились с работой современного мебельного предприятия.",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D1%8C-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D1%85-%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BB%D0%B8-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%C2%AB%D1%84%D0%B5%D0%BB%D0%B8%D0%BA%D1%81%C2%BB.html",
+      "image": "http://amedoro.com/images/2026-06-17__123342.png",
+      "images": [
+        "http://amedoro.com/images/2026-06-17__123342.png"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-06-17T06:30:20+00:00"
+    },
+    {
       "id": "f6d9f0891bf8299f",
       "title": "This Is Why Your Kitchen Always Looks Messy, According to Interior Designers — And How to Fix It",
       "summary": "Turns out, your messy kitchen isn't your fault. At least, not entirely — the experts say these design mistakes are at least partially to blame",
@@ -804,19 +862,6 @@
       "published": "2026-06-17T05:30:00+00:00"
     },
     {
-      "id": "3afe49a0d0081f70",
-      "title": "3 Kitchen Scraps That Can Help Stop Summer Pests from Invading Your Home",
-      "summary": "Don't put these useful leftovers in the trash",
-      "url": "https://www.homesandgardens.com/solved/kitchen-scraps-to-repel-pests",
-      "image": "https://cdn.mos.cms.futurecdn.net/qEFFPo3cWdPiW3BnQWsCCH-1280-80.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/qEFFPo3cWdPiW3BnQWsCCH-1280-80.jpg"
-      ],
-      "source": "Homes & Gardens",
-      "source_url": "https://www.homesandgardens.com",
-      "published": "2026-06-17T04:00:00+00:00"
-    },
-    {
       "id": "85c20a11fd169072",
       "title": "My Honest Thoughts After Testing King Living's Best Sofas — These Are the Styles I'd Definitely Consider Buying",
       "summary": "Shopping for a sofa online can be scary, so here are my opinions as a design editor who has personally sat on loads of (and even owned) King Living sofas",
@@ -827,6 +872,19 @@
       ],
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
+      "published": "2026-06-17T04:00:00+00:00"
+    },
+    {
+      "id": "3afe49a0d0081f70",
+      "title": "3 Kitchen Scraps That Can Help Stop Summer Pests from Invading Your Home",
+      "summary": "Don't put these useful leftovers in the trash",
+      "url": "https://www.homesandgardens.com/solved/kitchen-scraps-to-repel-pests",
+      "image": "https://cdn.mos.cms.futurecdn.net/qEFFPo3cWdPiW3BnQWsCCH-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/qEFFPo3cWdPiW3BnQWsCCH-1280-80.jpg"
+      ],
+      "source": "Homes & Gardens",
+      "source_url": "https://www.homesandgardens.com",
       "published": "2026-06-17T04:00:00+00:00"
     },
     {
@@ -931,19 +989,6 @@
       "published": "2026-06-16T16:45:00+00:00"
     },
     {
-      "id": "b431736e7dabde96",
-      "title": "AWFS Fair launches GlassWind America trade show",
-      "summary": "The Association of Woodworking & Furnishings Suppliers (AWFS) announced the launch of GlassWind America, a trade show for the glass, window, facade and container glass industries, that will debut alongside... The post AWFS Fair launches GlassWind America trade show appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/awfs-fair-launches-glasswind-america-trade-show",
-      "image": "https://www.woodshopnews.com/uploads/2026/06/GlassWind-Large.jpeg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/06/GlassWind-Large.jpeg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-06-16T15:57:11+00:00"
-    },
-    {
       "id": "88c962dec72e6d2f",
       "title": "How we built a bespoke-looking kitchen island for under £300 – and it's become one of our proudest renovating achievements",
       "summary": "After receiving hugely expensive quotes, we took things into our own hands",
@@ -965,32 +1010,14 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/63ef2f0a-1a7b-417d-b7d1-271da78376b7.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/5d0f8001-c1a2-4ac7-952d-71559232f6ac.jpg?crop=1xw:1xh;center,top",
-        "https://hips.hearstapps.com/hmg-prod/images/8e81c717-7543-4c31-b135-8025b579c67a.jpeg?crop=0.664227955333xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/90d4db2d-0939-4ec3-a785-e85186bbafa9.jpeg?crop=0.666751269036xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2024jan-800park-falcoresidence-1499-662a8bf03c177.jpg?crop=0.752xw:1.00xh;0.226xw,0&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/a59a64c2-172e-447c-b89d-73ba50c02b6a.jpg?crop=1xw:0.562xh;0xw,0.268xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/cc922c5e-896b-4963-8ed9-bf71632440c9.jpg?crop=1xw:0.8xh;0xw,0.117xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/74e253e5-b7bf-46c2-b552-77066b04397c.jpg?crop=0.5xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/6b737835-918e-4c39-a33c-15852f6b4969.jpg?crop=0.5xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/659aa7fd-2d13-4203-9194-657489d1c323.jpg?crop=0.706xw:1xh;0.008xw,0xh&resize=360:*"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
       "published": "2026-06-16T12:00:00+00:00"
-    },
-    {
-      "id": "1e7667ae30c572f7",
-      "title": "Blue Spruce Toolworks Hand Stitched Rasp Review",
-      "summary": "Tool: Hand-Stitched Woodworking Rasp Shop Now Manufacturer: Blue Spruce Toolworks MSRP: $189.99 A rasp is one of the most valuable shaping tools you can have in the shop. If you... Source",
-      "url": "https://www.popularwoodworking.com/toolreviews/blue-spruce-toolworks-hand-stitched-rasp-review/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/08152558/newtools-4-copy-1024x768.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/08152558/newtools-4-copy-1024x768.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2020/04/16131814/1006-icdt-3_picnic-table-2048x2048.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2026/06/10205329/img_2315-2048x2048.jpeg",
-        "https://media.popularwoodworking.com/app/uploads/2020/06/fender-washer-10503_002-2048x2048.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2026/02/18110106/popwood_logo_white-1024x329.png",
-        "https://media.popularwoodworking.com/app/uploads/2026/06/17103245/endgrain-1-300x300.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-16T11:23:56+00:00"
     },
     {
       "id": "b7f2525486dcd970",
@@ -1019,43 +1046,17 @@
       "published": "2026-06-16T07:00:00+00:00"
     },
     {
-      "id": "a419ad6e2ba84aa6",
-      "title": "5 Kitchen Island Color Trends That Designers Are Quietly Embracing for 2026 — And Why You Should, too",
-      "summary": "From butter yellow to deep burgundy, these on-trend kitchen island colors will elevate your space and create a cool yet timeless focal centerpiece",
-      "url": "https://www.livingetc.com/ideas/kitchen-island-color-trends-for-2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/m7hVZdiR34SNKD7mVbRYkQ-1280-80.jpg",
+      "id": "31d887c976bff5db",
+      "title": "Meet designer Rodolfo Agrella, whose work ranges from tables to saints",
+      "summary": "Freshly appointed creative director at Italian furniture company Potocco, Venezuela-born Rodolfo Agrella merges his heritage with a sensibility that crosses craft and industry",
+      "url": "https://www.wallpaper.com/design-interiors/rodolfo-agrella-interview-potocco-artistic-director",
+      "image": "https://cdn.mos.cms.futurecdn.net/YnhUxiwf83C7iHycsZuEqn-1280-80.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/m7hVZdiR34SNKD7mVbRYkQ-1280-80.jpg"
+        "https://cdn.mos.cms.futurecdn.net/YnhUxiwf83C7iHycsZuEqn-1280-80.jpg"
       ],
-      "source": "Livingetc",
-      "source_url": "https://www.livingetc.com",
-      "published": "2026-06-16T05:30:00+00:00"
-    },
-    {
-      "id": "2b8b2deabb08d7f0",
-      "title": "This Luxe Pool Float Doubles as an Outdoor Sofa — And It's the Hottest Way to Cool Down This Summer",
-      "summary": "Channel your favorite beach holiday in the comfort of your own home with this sleek, floating lounger",
-      "url": "https://www.livingetc.com/shopping/badesofa-floating-outdoor-lounger",
-      "image": "https://cdn.mos.cms.futurecdn.net/xz8smdGJT7rBRKQEspddtb-1280-80.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/xz8smdGJT7rBRKQEspddtb-1280-80.jpg"
-      ],
-      "source": "Livingetc",
-      "source_url": "https://www.livingetc.com",
-      "published": "2026-06-16T05:00:00+00:00"
-    },
-    {
-      "id": "7ea87e386a881ac7",
-      "title": "Want to Give Your Bookshelves That Distinctly 'Japandi' Style? These Are the Pieces That Nail the Vibe, According to an Interior Stylist",
-      "summary": "Japandi shelving is not about filling every gap; it is about mixing natural materials, quiet imperfections, and objects with enough breathing room to make the whole surface feel calm and collected",
-      "url": "https://www.livingetc.com/shopping/japandi-bookshelves-styling",
-      "image": "https://cdn.mos.cms.futurecdn.net/n8jwEpcrBg9fpF4KvcetQR-1280-80.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/n8jwEpcrBg9fpF4KvcetQR-1280-80.jpg"
-      ],
-      "source": "Livingetc",
-      "source_url": "https://www.livingetc.com",
-      "published": "2026-06-16T04:00:00+00:00"
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-06-15T19:46:51+00:00"
     },
     {
       "id": "dd24c1858088e7c4",
@@ -1071,6 +1072,19 @@
       "published": "2026-06-15T18:00:17+00:00"
     },
     {
+      "id": "771395d3af3e168a",
+      "title": "С Днем мебельщика!",
+      "summary": "",
+      "url": "https://www.meb-expo.ru/ru/media/news/index.php?id4=20948",
+      "image": "/common/img/uploaded/exhibitions/mebel/img_2026/den_mebelshikov.jpg",
+      "images": [
+        "/common/img/uploaded/exhibitions/mebel/img_2026/den_mebelshikov.jpg"
+      ],
+      "source": "Мебель-expo",
+      "source_url": "https://www.meb-expo.ru",
+      "published": "2026-06-15T06:19:54+00:00"
+    },
+    {
       "id": "4d43d535ea0564a9",
       "title": "With RH Estates, the Furniture Giant Mines West Coast Design",
       "summary": "“We believe the next shift is toward eclecticism and the California look of the 1980s and early ‘90s,” says RH CEO Gary Friedman.",
@@ -1081,8 +1095,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/37c482d6-c660-4e38-a2ad-ebe21c1851c4.jpg?crop=1xw:1xh;center",
         "https://hips.hearstapps.com/hmg-prod/images/a7bf2d8e-d6e0-4502-9d8c-fa14cbbab42a.jpg?crop=1xw:1xh;center",
         "https://hips.hearstapps.com/hmg-prod/images/383bba66-438c-4941-a63b-4bb711f96f6d.jpg?resize=980:*",
-        "https://hips.hearstapps.com/hmg-prod/images/2024jan-800park-falcoresidence-1499-662a8bf03c177.jpg?crop=0.752xw:1.00xh;0.226xw,0&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/d2cc4023-3f5b-40c3-bcf4-b2751290705e.jpg?crop=0.665xw:1xh;0.302xw,0xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/cc922c5e-896b-4963-8ed9-bf71632440c9.jpg?crop=1xw:0.8xh;0xw,0.117xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/63ef2f0a-1a7b-417d-b7d1-271da78376b7.jpg?crop=1xw:0.8xh;center,top&resize=360:*"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1113,24 +1127,6 @@
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
       "published": "2026-06-12T17:28:20+00:00"
-    },
-    {
-      "id": "eeadd669d8ab736d",
-      "title": "The Splinter Report: June 12th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at too many tools, a leg... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-june-12th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/12122917/splinter-report-6-12-1024x768.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/12122917/splinter-report-6-12-1024x768.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2020/04/16131814/1006-icdt-3_picnic-table-2048x2048.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2026/06/10205329/img_2315-2048x2048.jpeg",
-        "https://media.popularwoodworking.com/app/uploads/2020/06/fender-washer-10503_002-2048x2048.jpg",
-        "https://media.popularwoodworking.com/app/uploads/2026/02/18110106/popwood_logo_white-1024x329.png",
-        "https://media.popularwoodworking.com/app/uploads/2026/06/17103245/endgrain-1-300x300.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-12T16:31:37+00:00"
     },
     {
       "id": "7f6e67a4b672358e",
@@ -1279,6 +1275,24 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T05:00:14+00:00"
+    },
+    {
+      "id": "4657a738703438dc",
+      "title": "The Outdated Countertop Material That’s Holding Your Kitchen Back",
+      "summary": "Tile countertops were once a go-to choice for many homeowners. They were affordable, easy to clean, and provided some nice of color and texture. But these days, they’re quickly becoming an outdated choice that might be holding your kitchen back. Let’s explore why tile countertops, while still functional, just don’t fit the modern kitchen vibe […] You're reading The Outdated Countertop Material That’s Holding Your Kitchen Back , originally posted on Decoist . If you enjoyed this post, be sure to follow Decoist on Twitter , Facebook and Pinterest .",
+      "url": "https://www.decoist.com/the-outdated-countertop-material-thats-holding-your-kitchen-back/",
+      "image": "https://www.decoist.com/wp-content/uploads/sites/48/2025/03/4ff338ad2865049b1cfb0116c9edd3b7-18994.jpg",
+      "images": [
+        "https://www.decoist.com/wp-content/uploads/sites/48/2025/03/4ff338ad2865049b1cfb0116c9edd3b7-18994.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/2a5c234cff57c9ab3fe8ef4b8f709944-57575-800x800.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/310ab72a5d171f8ddd60f247aad19dac-43315-492x615.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/c45192e38dc2420650d69d2f79996eea-54062-461x615.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/5347b687cf7e248938b9f17df97d1f5b-36792-410x615.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/4ff338ad2865049b1cfb0116c9edd3b7-18994-393x615.jpg"
+      ],
+      "source": "Decoist",
+      "source_url": "https://www.decoist.com",
+      "published": "2026-06-08T14:00:38+00:00"
     },
     {
       "id": "8ecb0beb1ab74169",
@@ -1483,6 +1497,19 @@
       "published": "2026-06-02T15:00:45+00:00"
     },
     {
+      "id": "e0620c6ed1428f93",
+      "title": "Sacha Chair",
+      "summary": "Designed by Philippe Malouin for Resident, the Sacha chair is defined by a single folded gesture that becomes both structure and support. From this continuous line, the chair takes shape with a quiet precision, distilling seating into its most essential form. The folded backrest introduces a subtle",
+      "url": "https://minimalissimo.com/articles/sacha-chair",
+      "image": "https://minimalissimo.com/api/media/file/website-46.jpg",
+      "images": [
+        "https://minimalissimo.com/api/media/file/website-46.jpg"
+      ],
+      "source": "Minimalissimo",
+      "source_url": "https://minimalissimo.com",
+      "published": "2026-06-02T13:00:00+00:00"
+    },
+    {
       "id": "ecab5050f45ca910",
       "title": "PPAA designs \"discreet yet powerful\" Mexico City hotel Lamartine",
       "summary": "A central skylight naturally illuminates the interiors of this 10-key boutique hotel in Mexico City, designed by local architecture studio PPAA. Lamartine occupies a narrow lot in the city's affluent Polanco neighbourhood, so PPAA had to get creative with the spatial constraints presented as part of the new-build project. \"From the outset, the main challenge The post PPAA designs \"discreet yet powerful\" Mexico City hotel Lamartine appeared first on Dezeen .",
@@ -1494,6 +1521,24 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-31T17:00:07+00:00"
+    },
+    {
+      "id": "eab29ab92e9ff8ea",
+      "title": "Kitchen Lighting Ideas That Will Make a Big Statement",
+      "summary": "Do you think that your kitchen is missing something or hasn’t reached its full style potential? We can help with that. Lighting fixtures are the most underestimated element that can work wonders for any room’s design. Don’t be afraid to introduce bold kitchen lighting to decorate the space. Here are some helpful ideas for sprucing […] You're reading Kitchen Lighting Ideas That Will Make a Big Statement , originally posted on Decoist . If you enjoyed this post, be sure to follow Decoist on Twitter , Facebook and Pinterest .",
+      "url": "https://www.decoist.com/kitchen-lighting-ideas-that-will-make-a-big-statement/",
+      "image": "https://www.decoist.com/wp-content/uploads/sites/48/2022/01/studiomcgee_AZHomestead_130-1-scaled-1-90135.jpg",
+      "images": [
+        "https://www.decoist.com/wp-content/uploads/sites/48/2022/01/studiomcgee_AZHomestead_130-1-scaled-1-90135.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/studiomcgee_AZHomestead_130-1-scaled-1-90135-2048x1368.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/my-houzz-eclectic-kid-friendly-home-for-a-creative-couple-caroline-sharpnack-img_45010ef60c6c7e88_14-0884-1-d6972df-1-88755-2048x1368.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/breathtaking-white-on-white-traditional-kitchen-bisulk-kitchens-img_7fc16acd02d0334d_14-7757-1-df833c1-13448-2048x1360.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/ionut-vlad-idXQEOxhmvU-unsplash-30189-1265x2048.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/sidekix-media-x64WAw1TIcQ-unsplash-52123-1536x1024.jpg"
+      ],
+      "source": "Decoist",
+      "source_url": "https://www.decoist.com",
+      "published": "2026-05-30T16:36:02+00:00"
     },
     {
       "id": "eb5157fd928e9e82",
@@ -1636,6 +1681,24 @@
       "published": "2026-05-25T05:00:29+00:00"
     },
     {
+      "id": "30d9e8bea970ba52",
+      "title": "The 30-Minute Spring Cleaning Reset: How to Make Your Home Feel New in Under an Hour",
+      "summary": "Spring cleaning often carries the weight of a monumental task—ladders, heavy-duty scrubbing, and weekend-long commitments. However, in the world of modern interior design, a seasonal refresh is less about deep-cleaning and more about a visual reset. If you have 30 minutes, you can dramatically shift the energy of your home. By focusing on light, texture, […] You're reading The 30-Minute Spring Cleaning Reset: How to Make Your Home Feel New in Under an Hour , originally posted on Decoist . If you enjoyed this post, be sure to follow Decoist on Twitter , Facebook and Pinterest .",
+      "url": "https://www.decoist.com/30-minute-spring-cleaning-design-reset/",
+      "image": "https://www.decoist.com/wp-content/uploads/sites/48/2026/02/1-93790.webp",
+      "images": [
+        "https://www.decoist.com/wp-content/uploads/sites/48/2026/02/1-93790.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/1-93790-816x615.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/2-45091-816x615.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/3-66908-816x615.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/4-88091-816x615.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/5-97059-816x615.webp"
+      ],
+      "source": "Decoist",
+      "source_url": "https://www.decoist.com",
+      "published": "2026-05-24T10:30:21+00:00"
+    },
+    {
       "id": "491481562a419d6b",
       "title": "Seven boat interiors that make life on the high seas a breeze",
       "summary": "From opulent superyacht interiors to a minimalist houseboat in Hungary, Dezeen has rounded up seven interiors that showcase life aboard a sea-faring vessel. They display the specific type of functional creativity required from architects when designing for cramped, confined quarters – although for the bigger vessels, it's not too different from designing an open-plan living The post Seven boat interiors that make life on the high seas a breeze appeared first on Dezeen .",
@@ -1738,6 +1801,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-19T18:00:08+00:00"
+    },
+    {
+      "id": "bed023cb7a38d58a",
+      "title": "Azukimé Chair",
+      "summary": "The Azukimé chair is a stunning piece of contemporary furniture, crafted in France from riveted bent aluminum sheets. This innovative chair not only provides a comfortable seating experience but also features hidden storage beneath the seat. With its generous width and unique proportions, the Azukim",
+      "url": "https://minimalissimo.com/articles/azukime-chair",
+      "image": "https://minimalissimo.com/api/media/file/website-20.jpg",
+      "images": [
+        "https://minimalissimo.com/api/media/file/website-20.jpg"
+      ],
+      "source": "Minimalissimo",
+      "source_url": "https://minimalissimo.com",
+      "published": "2026-05-19T07:00:00+00:00"
     },
     {
       "id": "b3ea9784006706d0",
@@ -1857,6 +1933,19 @@
       "published": "2026-05-10T09:00:54+00:00"
     },
     {
+      "id": "04385700b39a20e3",
+      "title": "Chunk Stool",
+      "summary": "The Chunk Stool by Obscure Objects sits somewhere between sculpture and utility. Cylindrical volumes are pushed into a blunt, almost archetypal form, rendered in hand-brushed stainless steel that catches light without ever becoming shiny. Its deliberate heaviness gives the piece a quite authority. M",
+      "url": "https://minimalissimo.com/articles/chunk-stool",
+      "image": "https://minimalissimo.com/api/media/file/website.jpg",
+      "images": [
+        "https://minimalissimo.com/api/media/file/website.jpg"
+      ],
+      "source": "Minimalissimo",
+      "source_url": "https://minimalissimo.com",
+      "published": "2026-05-07T13:00:00+00:00"
+    },
+    {
       "id": "10ba5c7a3bd6f51f",
       "title": "Mary Ratcliffe Studio Presents the CARVER Collection",
       "summary": "Centered around the refined curves found in surfing and skating, Mary Ratcliffe Studio presents their newest furniture collection, CARVER.",
@@ -1883,6 +1972,19 @@
       "published": "2026-04-30T17:00:07+00:00"
     },
     {
+      "id": "c51ad4658b40fb17",
+      "title": "Тимур Иртуганов принял участие в конференции БАЗИС 2026",
+      "summary": "Компания Базис проводит в Москве 2-х дневную техническую конференцию на тему «БАЗИС 2026: автоматизация мебельного бизнеса, проверенная временем» . Мероприятие посвящено автоматизации мебельного предприятия с использованием системы БАЗИС, информационно-коммуникационных технологий, образовательным программам подготовки специалистов мебельной отрасли. Генеральный директор АМДПР Тимур Иртуганов выступил с приветственным словом и рассказал о состоянии мебельного производства. Дата проведения: 22 апреля с 09.00 до 18.00 час. 23 апреля с 09.00 до 18.00 час. Место проведения: Гостиница \"Измайлово…",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D1%82%D0%B8%D0%BC%D1%83%D1%80-%D0%B8%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2-%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81-2026.html",
+      "image": "http://amedoro.com/images/2024-content/42951.jpg",
+      "images": [
+        "http://amedoro.com/images/2024-content/42951.jpg"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-04-22T05:19:09+00:00"
+    },
+    {
       "id": "06e6e5e4115ac05e",
       "title": "Labubu-creator Kasing Lung ventures into collectible furniture with USM",
       "summary": "Illustrations of Kasing Lung's infamous Labubu character are emblazoned on classic white USM Haller cabinets as part of a collaboration unveiled by the Swiss furniture maker at Milan design week. The Beautiful Thing! collection consists of two limited-edition furniture pieces – a sideboard and shelving unit – plus a Labubu figurine sitting on a tiny The post Labubu-creator Kasing Lung ventures into collectible furniture with USM appeared first on Dezeen .",
@@ -1896,30 +1998,30 @@
       "published": "2026-04-22T05:00:48+00:00"
     },
     {
-      "id": "0ee01413a7721e12",
-      "title": "The Wall You’ve Been Ignoring Deserves Better",
-      "summary": "Coordinated with cabinet collections: Handcrafted solid maple floating shelves in 7 finishes and 6 sizes. Made in the USA. Free shipping. Shop now and transform that wall you've been ignoring. The post The Wall You’ve Been Ignoring Deserves Better appeared first on RTA Cabinet Blog .",
-      "url": "https://blog.rtacabinetstore.com/the-wall-youve-been-ignoring-deserves-better/",
-      "image": "https://blog.rtacabinetstore.com/wp-content/uploads/2026/04/Black-FS-Hero2-600x600.png",
+      "id": "42693fcae5904cfa",
+      "title": "Mr.Doors проводит глобальную цифровую трансформацию",
+      "summary": "Mr.Doors, один из ведущих российских производителей премиальных интерьерных решений с производственными площадками в Костроме и Малаховке и федеральной сетью фирменных салонов, проводит масштабную ИИ-трансформации бизнеса. Трансформация проходит в несколько этапов. На первом компания оцифровала первичный учёт — бухгалтерию, кадровое делопроизводство, финансовые операции — создав единый достоверный контур данных. На втором — построила собственную корпоративную нейросеть: внутренний ИИ, обученный на знаниях компании, который обеспечивает мгновенный доступ к экспертизе для всех сотрудников…",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/mr-doors-%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%83%D1%8E-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E.html",
+      "image": "http://amedoro.com/images/Kit474_F0_1.jpg",
       "images": [
-        "https://blog.rtacabinetstore.com/wp-content/uploads/2026/04/Black-FS-Hero2-600x600.png"
+        "http://amedoro.com/images/Kit474_F0_1.jpg"
       ],
-      "source": "RTA Cabinet Store",
-      "source_url": "https://www.rtacabinetstore.com",
-      "published": "2026-04-13T14:16:19+00:00"
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-04-21T08:40:00+00:00"
     },
     {
-      "id": "8558599ccb9c01f5",
-      "title": "Your Garage Has Been Waiting Long Enough— Introducing Garage Cabinets",
-      "summary": "Fully assembled, Made in the USA, and built to last. Ships in 7–10 days. Transform your garage this spring. The post Your Garage Has Been Waiting Long Enough— Introducing Garage Cabinets appeared first on RTA Cabinet Blog .",
-      "url": "https://blog.rtacabinetstore.com/your-garage-has-been-waiting-long-enough-introducing-garage-cabinets/",
-      "image": "https://blog.rtacabinetstore.com/wp-content/uploads/2026/04/Hero-Primary-Carousel-1_Signature-Gray-Garage-600x450.jpg",
+      "id": "f4bdd1cc48e3871c",
+      "title": "Ключевые игроки мебельного рынка соберутся 9-11 июня в Москве на WOODEX MEBEL SUMMIT",
+      "summary": "АМДПР приглашает Вас 9-11 июня на Woodex Mebel Summit, который пройдет в пятизвездочном отеле LOTTE в Москве. Мероприятие объединит ключевые компании и экспертов мебельной отрасли. Для поставщиков оборудования, комплектующих и материалов участие в Woodex Mebel Summit — это возможность представить свои решения напрямую ключевым производителям мебели, укрепить позиции бренда в профессиональной среде и выстроить новые контакты с потенциальными клиентами. Для мебельных компаний — это возможность узнать актуальную информацию о состоянии и прогнозах развития мебельной отрасли в России, а также…",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%8B%D0%B5-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%80%D1%83%D1%82%D1%81%D1%8F-9-11-%D0%B8%D1%8E%D0%BD%D1%8F-%D0%B2-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-%D0%BD%D0%B0-woodex-mebel-summit.html",
+      "image": "http://amedoro.com/images/H2Ik8.png",
       "images": [
-        "https://blog.rtacabinetstore.com/wp-content/uploads/2026/04/Hero-Primary-Carousel-1_Signature-Gray-Garage-600x450.jpg"
+        "http://amedoro.com/images/H2Ik8.png"
       ],
-      "source": "RTA Cabinet Store",
-      "source_url": "https://www.rtacabinetstore.com",
-      "published": "2026-04-06T15:07:46+00:00"
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-04-20T08:44:31+00:00"
     },
     {
       "id": "c01745515f2caf9c",
@@ -1946,19 +2048,6 @@
       "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-04-01T13:00:45+00:00"
-    },
-    {
-      "id": "bda70c6bcd08070c",
-      "title": "Meet Maren & Ashford: Two New Vanities That Set the Tone for Your Entire Bathroom",
-      "summary": "Transform your bathroom without a full renovation. Discover two new bathroom vanities built for style, storage, and lasting quality. The post Meet Maren & Ashford: Two New Vanities That Set the Tone for Your Entire Bathroom appeared first on RTA Cabinet Blog .",
-      "url": "https://blog.rtacabinetstore.com/meet-maren-ashford-two-new-vanities-that-set-the-tone-for-your-entire-bathroom/",
-      "image": "https://blog.rtacabinetstore.com/wp-content/uploads/2026/03/Whisk_0c542f5e7a9ee509361471b7af6d6328eg-600x600.png",
-      "images": [
-        "https://blog.rtacabinetstore.com/wp-content/uploads/2026/03/Whisk_0c542f5e7a9ee509361471b7af6d6328eg-600x600.png"
-      ],
-      "source": "RTA Cabinet Store",
-      "source_url": "https://www.rtacabinetstore.com",
-      "published": "2026-03-27T13:58:23+00:00"
     },
     {
       "id": "f354c7d1d37eaf93",
