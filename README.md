@@ -9,7 +9,10 @@ news from curated RSS sources and publishes them as a single JSON file:
   hardware, materials).
 
 Output feeds the **[@abakan_mebel](https://t.me/abakan_mebel)** Telegram channel
-(Abakan Furniture — Russian furniture & kitchens).
+(Abakan Furniture — Russian furniture & kitchens), whose posts then surface on
+**[abakanmebel.online](https://abakanmebel.online)** (kitchens, sliding
+wardrobes, living/bedroom sets, bathroom furniture, walk-in closets, office
+furniture — custom cabinet furniture in Abakan, Russia).
 
 A GitHub Actions workflow runs `fetch_news.py` **every hour** (at `HH:05`) and
 commits the refreshed JSON file back to the repo.
@@ -23,7 +26,7 @@ news parser), adapted for the cabinet-furniture / kitchen-design domain.
 ## How it works
 
 ```
-RSS sources (35 hand-tested feeds — curated for @abakan_mebel)
+RSS sources (56 hand-tested feeds — curated for @abakan_mebel)
         │
         ▼
    fetch_news.py        ← feedparser + requests, parallel fetch
@@ -34,7 +37,9 @@ RSS sources (35 hand-tested feeds — curated for @abakan_mebel)
         ├─► ★ quality guard — drop items with no real content photo
         ├─► ★ relevance classifier — keep only cabinet-furniture/kitchen/furniture
         │     items (English + Russian keyword sets)
-        ├─► ★ multi-photo scrape — for 21 gallery-enabled sources, fetch article
+        ├─► ★ blocklist — drop forestry/lumber-industry & recipe noise even when
+        │     material keywords (lumber/timber/hardwood) would pass relevance
+        ├─► ★ multi-photo scrape — for 39 gallery-enabled sources, fetch article
         │     page and extract up to 5 additional gallery photos
         ├─► dedup by id = sha256(url + title)
         ├─► recency filter: ≤ 90 days
@@ -50,13 +55,13 @@ RSS sources (35 hand-tested feeds — curated for @abakan_mebel)
 
 | File | Items | Sources | Multi-photo items |
 |---|---:|---:|---:|
-| `furniture-news.json` | ~140 | ~25 | ~40 |
+| `furniture-news.json` | ~200 | ~38 | ~47 |
 
 Each multi-photo item carries up to 6 distinct image URLs (lead first).
 
 ---
 
-## Sources (35 hand-tested feeds — 2026-06, curated for @abakan_mebel)
+## Sources (56 hand-tested feeds — 2026-06, curated for @abakan_mebel)
 
 All sources return RSS feeds with quality photos embedded (`media:content`,
 enclosures, or `<img>` in summary). Sources were tested 2026-06 for: working
@@ -66,9 +71,11 @@ HTTP endpoint, valid feed, embedded photos, recent relevant content.
 wooden-furniture-INDUSTRY sources (Woodworking Network, Popular Woodworking,
 Woodshop News, RTA Cabinet Store, Industry Today) were **REMOVED** — they
 published lumber-harvest / sawmill / forest-management news instead of
-furniture & kitchen DESIGN. Forestry phrases are also in `BLOCKLIST`.
+furniture & kitchen DESIGN. Forestry phrases are also in `BLOCKLIST` (broad
+EN + RU coverage — sawmill, timber harvest/export, пиломатериал, пилорама,
+лесопромышленность, ЦБК, etc.).
 
-### Russian sources (4) — for the @abakan_mebel Russian audience
+### Russian sources (6) — for the @abakan_mebel Russian audience
 
 - **АМДПР** — `amedoro.com/ru/news/novosti-otrasli.feed?type=rss` — Association
   of Furniture & Woodworking Industry Enterprises of Russia (Mr.Doors, Felix,
@@ -77,17 +84,23 @@ furniture & kitchen DESIGN. Forestry phrases are also in `BLOCKLIST`.
   (Russian furniture fair, industry digest)
 - **Archi.ru** — `archi.ru/rss.xml` — leading Russian architecture & interior
   magazine
+- **Archi.ru Projects** *(new)* — `archi.ru/projects/rss.xml` — ~30
+  interior/architecture project items with inline images (vs the 4-item main
+  feed). Same publisher, deeper content.
+- **Archi.ru News** *(new)* — `archi.ru/news/rss.xml` — Russian architecture &
+  interior news.
 - **Rmnt.ru** — `rmnt.ru/rss/news.xml` — Russian home, repair & interior portal
 
-### Design portals — broad (16, international furniture/kitchen DESIGN)
+### Design portals — broad (international, furniture/kitchen DESIGN)
 
 - **Dezeen** — main + Interiors (`dezeen.com/feed/`, `/interiors/feed/`) —
   leading global design & architecture magazine
 - **Design Milk** — main + Interiors + Architecture + Technology + Art
   (`design-milk.com/feed/` + 4 category feeds) — contemporary design
   destination with strong furniture coverage
-- **Design Boom** — `designboom.com/feed/` — design, architecture, art
-  magazine with product/furniture focus
+- **Design Boom** — `designboom.com/feed/` + **design** + **interiors** tag
+  feeds *(2 new)* — design, architecture, art magazine with product/furniture
+  focus
 - **Yanko Design** — `yankodesign.com/feed/` — industrial design & product
   concept magazine (furniture, lighting, accessories)
 - **Trendir** — `trendir.com/feed/` — modern home & furniture trends
@@ -103,21 +116,24 @@ furniture & kitchen DESIGN. Forestry phrases are also in `BLOCKLIST`.
   project galleries
 - **Apartment Therapy** — `apartmenttherapy.com/main.rss` — home & furniture
   design ideas (kitchen, furniture, small-space solutions)
+- **Remodelista** *(new)* — `remodelista.com/feed/` — sister site of Gardenista,
+  home / kitchen / bath DESIGN
+- **Yellowtrace** *(new)* — `yellowtrace.com.au/feed/` — AU design blog, strong
+  furniture/interior photography
 
-### Design portals — topic-specific, high relevance (6)
+### Design portals — topic-specific, high relevance (tag feeds)
 
-- **Design Milk tag kitchen** — `design-milk.com/tag/kitchen/feed/` — every
-  Design Milk post tagged "kitchen"
-- **Design Milk tag furniture** — every post tagged "furniture"
-- **Design Milk tag cabinets** — every post tagged "cabinets"
-- **Dezeen tag kitchens** — `dezeen.com/tag/kitchens/feed/` — every Dezeen
-  post tagged "kitchens" (modular kitchen products, kitchen design projects)
-- **Dezeen tag cabinets** — every post tagged "cabinets" (larder cupboards,
-  pantry cabinets, storage cabinets)
-- **Dezeen tag furniture** — every post tagged "furniture" (new furniture
-  collections, designer collaborations)
+Direct coverage of the abakanmebel.online product categories:
 
-### Home / lifestyle magazines (8)
+- **Design Milk tag** kitchen / furniture / cabinets + **bathroom** /
+  **bedroom** / **living room** / **office** / **wardrobe** / **lighting** /
+  **storage** *(7 new tags)* — every post tagged with that category
+- **Dezeen tag** kitchens / cabinets / furniture + **bathrooms** /
+  **lighting** / **storage** / **bedrooms** / **offices** / **wardrobes**
+  *(6 new tags)* — direct coverage of «Мебель для ванной», «Гарнитуры»,
+  «Офисная мебель», «Шкафы-купе / Гардеробные»
+
+### Home / lifestyle magazines
 
 - **Real Homes** — `realhomes.com/rss` — UK home magazine with extensive
   kitchen content
@@ -130,6 +146,11 @@ furniture & kitchen DESIGN. Forestry phrases are also in `BLOCKLIST`.
   kitchen tours & design tips
 - **Veranda** — `veranda.com/rss/all.xml` — high-end interiors magazine
 - **Ideal Home** — `idealhome.co.uk/api/rss` — UK home & kitchen magazine
+- **Country Living** *(new)* — `countryliving.com/rss/all.xml` — Hearst;
+  country interiors, kitchens, furniture (rich `media:content` photos)
+- **The Kitchn** *(new)* — `thekitchn.com/main.rss` — kitchen-focused
+  publication (tours / makeovers / cabinets); recipe noise is filtered by
+  `BLOCKLIST` so only kitchen DESIGN content reaches the channel
 
 ### Outdoor furniture (1)
 

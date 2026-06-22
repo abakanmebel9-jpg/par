@@ -1,24 +1,31 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-22T13:00:34.868182+00:00",
-  "generated_at_human": "2026-06-22 13:00 UTC",
-  "total_items": 151,
+  "generated_at": "2026-06-22T14:54:26.854217+00:00",
+  "generated_at_human": "2026-06-22 14:54 UTC",
+  "total_items": 201,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru",
+    "Archi.ru Projects",
+    "Country Living",
     "DM tag furniture",
     "Decoist",
     "Design Boom",
+    "Design Boom design",
+    "Design Boom interiors",
     "Design Milk",
     "Design Milk Art",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
-    "Dezeen tag cabinets",
+    "Dezeen tag bathrooms",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
+    "Dezeen tag lighting",
+    "Dezeen tag offices",
+    "Dezeen tag storage",
     "Elle Decor",
     "Gardenista",
     "Homedit",
@@ -27,14 +34,18 @@
     "Ideal Home",
     "Livingetc",
     "Minimalissimo",
+    "Remodelista",
+    "The Kitchn",
     "Trendir",
     "Veranda",
     "Wallpaper",
+    "Yanko Design",
+    "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 27,
-  "multi_photo_items": 41,
+  "sources_count": 38,
+  "multi_photo_items": 47,
   "items": [
     {
       "id": "122b518125836155",
@@ -43,9 +54,14 @@
       "url": "https://archi.ru/russia/102259/v-ritme-sosen",
       "image": "https://i.archi.ru/i/150/492263.jpg",
       "images": [
-        "https://i.archi.ru/i/150/492263.jpg"
+        "https://i.archi.ru/i/150/492263.jpg",
+        "https://i.archi.ru/i/150_150/310555.jpg?r=43031",
+        "https://i.archi.ru/i/1262/492263.jpg",
+        "https://i.archi.ru/news/quadratic/476404.jpg?r=32657",
+        "https://i.archi.ru/news/quadratic/476649.jpg?r=73756",
+        "https://i.archi.ru/news/main_images/280x280/476429.jpg"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -56,9 +72,14 @@
       "url": "https://archi.ru/russia/102343/nizkii-start",
       "image": "https://i.archi.ru/i/150/505751.jpg",
       "images": [
-        "https://i.archi.ru/i/150/505751.jpg"
+        "https://i.archi.ru/i/150/505751.jpg",
+        "https://i.archi.ru/i/150_150/305304.jpg?r=2978",
+        "https://i.archi.ru/i/1262/505751.jpg",
+        "https://i.archi.ru/i/756_450/505717.jpg",
+        "https://i.archi.ru/i/601_450/505716.jpg",
+        "https://i.archi.ru/i/804_450/505714.jpg"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -69,9 +90,14 @@
       "url": "https://archi.ru/russia/102341/tribyut-modernizmu",
       "image": "https://i.archi.ru/i/150/504438.jpg",
       "images": [
-        "https://i.archi.ru/i/150/504438.jpg"
+        "https://i.archi.ru/i/150/504438.jpg",
+        "https://i.archi.ru/i/1262/504438.jpg",
+        "https://i.archi.ru/news/quadratic/476128.jpg?r=16047",
+        "https://i.archi.ru/i/752_283/504424.jpg",
+        "https://i.archi.ru/i/752_286/504428.jpg",
+        "https://i.archi.ru/i/752_615/504438.jpg"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -89,6 +115,91 @@
       "published": ""
     },
     {
+      "id": "a43ffa79918d8f61",
+      "title": "We Tested (and Rated!) All the Dressers at West Elm — Here Are the Best to Suit Your Style and Space",
+      "summary": "Not enough closet space? Try one of these. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/best-west-elm-dressers-37211809?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//shopping/personal-shopper/2026/west-elm/dressers/west-elm-dressers-lead-2026",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//shopping/personal-shopper/2026/west-elm/dressers/west-elm-dressers-lead-2026"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-22T14:31:04+00:00"
+    },
+    {
+      "id": "5939a46a7e1fd78e",
+      "title": "What to expect from St. Clement, Nick Jones’ new London hotel on the Thames",
+      "summary": "Opening in September, St. Clement mixes grand riverside views, bathroom minibars, and the Soho House founder’s sharp eye for detail",
+      "url": "https://www.wallpaper.com/travel/hotels/st-clement-london-nick-jones-opening",
+      "image": "https://cdn.mos.cms.futurecdn.net/2iYWTakjNkWhRR2PwQea2Y-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/2iYWTakjNkWhRR2PwQea2Y-1280-80.jpg",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936-250-80.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-900-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-450-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-06-22T14:15:24+00:00"
+    },
+    {
+      "id": "a591c14e5d885781",
+      "title": "Living Rooms That Feel Comfortable Keep Using These Layout Ideas",
+      "summary": "Living room trends change constantly. Curved sofas replace sectionals, bold colors replace neutrals, and one decorating style gives way to another. Layout choices tend to last much longer. Looking across traditional homes, designer showhouses, contemporary interiors, and collected family spaces reveals several ideas that continue appearing regardless of style. Seating faces seating instead of walls,... The post Living Rooms That Feel Comfortable Keep Using These Layout Ideas appeared first on Homedit .",
+      "url": "https://www.homedit.com/living-rooms-that-feel-comfortable-keep-using-these-layout-ideas/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Living-Rooms-That-Feel-Comfortable-Keep-Using-These-Layout-Ideas.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Living-Rooms-That-Feel-Comfortable-Keep-Using-These-Layout-Ideas.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Narrow-Guest-Bathroom-Looked-Stuck-in-the-1970s-Before-One-Remodel-Changed-Everything-1152x2048.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Designer-Styled-Consoles-Keep-Using-These-Decorating-Formulas-1024x1536.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Bed-Design-Ideas-for-2026-That-Make-Basic-Frames-Look-Outdated-1024x857.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Fireplace-Walls-Still-Pull-Furniture-Into-Place-769x1024.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Two-Chairs-Can-Anchor-a-Room-as-Effectively-as-a-Sofa-768x1024.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-06-22T14:14:12+00:00"
+    },
+    {
+      "id": "de44d4f3535399f3",
+      "title": "The All’essenza Chair by Ton Showcases a Simplicity of Form",
+      "summary": "Designed by Alexander Gufler for Ton, this chair with a gently-shaped seat and backrest balances simplicity and comfort.",
+      "url": "https://design-milk.com/the-allessenza-chair-by-ton-showcases-a-simplicity-of-form/",
+      "image": "https://design-milk.com/images/2026/06/Ton-All-essenza-chair-Alexander-Gufler-00-810x648.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/06/Ton-All-essenza-chair-Alexander-Gufler-00-810x648.jpg",
+        "https://design-milk.com/images/2026/06/Ton-All-essenza-chair-Alexander-Gufler-21-steam-blue-1025x1536.jpg",
+        "https://design-milk.com/images/2026/06/Ton-All-essenza-chair-Alexander-Gufler-19-resin-yellow-1025x1536.jpg",
+        "https://design-milk.com/images/2026/06/Ton-All-essenza-chair-Alexander-Gufler-17-pebble-green-1025x1536.jpg",
+        "https://design-milk.com/images/2026/06/Ton-All-essenza-chair-Alexander-Gufler-15-natural-oak-1025x1536.jpg",
+        "https://design-milk.com/images/2026/06/Ton-All-essenza-chair-Alexander-Gufler-13-mocha-beige-1025x1536.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-06-22T14:00:11+00:00"
+    },
+    {
+      "id": "e077993a6b7c867b",
+      "title": "This Narrow Guest Bathroom Looked Stuck in the 1970s Before One Remodel Changed Everything",
+      "summary": "Guest bathrooms from the 1970s often share the same formula: a tub-shower combination at one end, a long vanity along one wall, dated finishes, and little visual impact. Reddit user u/TooKool4This started with exactly that type of space before deciding to rebuild almost every surface from the studs out. Instead of simply replacing fixtures, the... The post This Narrow Guest Bathroom Looked Stuck in the 1970s Before One Remodel Changed Everything appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-narrow-guest-bathroom-looked-stuck-in-the-1970s-before-one-remodel-changed-everything/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Narrow-Guest-Bathroom-Looked-Stuck-in-the-1970s-Before-One-Remodel-Changed-Everything.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Narrow-Guest-Bathroom-Looked-Stuck-in-the-1970s-Before-One-Remodel-Changed-Everything.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Designer-Styled-Consoles-Keep-Using-These-Decorating-Formulas-1024x1536.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/The-Vanity-Wall-Looks-Nothing-Like-It-Did-Before-864x1536.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Blue-Tile-Turned-the-Shower-Into-the-Focal-Point-864x1536.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Waterproofing-Prepared-the-New-Shower-Area-864x1536.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/The-Bathroom-Started-Looking-Larger-Before-Any-Finishes-Were-Added-864x1536.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-06-22T13:04:08+00:00"
+    },
+    {
       "id": "8edf7512c33269a2",
       "title": "An IKEA HEMNES Shoe Cabinet Got a Shaker-Style DIY Redo for $130",
       "summary": "\"People can’t believe it’s IKEA,\" this DIYer says of her expensive-looking \"after.\" READ MORE...",
@@ -102,8 +213,8 @@
       "published": "2026-06-22T12:00:00+00:00"
     },
     {
-      "id": "bd761be69156c9ef",
-      "title": "The 1 Outdoor Kitchen Feature Everyone Regrets Not Adding",
+      "id": "5ef3b78707d4ccb6",
+      "title": "The One Outdoor Kitchen Feature Everyone Regrets Not Adding – It Makes Prep and Cleanup So Much Easier",
       "summary": "It's about function and convenience, rather than cutting costs",
       "url": "https://www.homesandgardens.com/decor/kitchens/the-outdoor-kitchen-feature-everyone-regrets-not-adding",
       "image": "https://cdn.mos.cms.futurecdn.net/C8ZjRMZCWrZjggrGYQX6Pk-1280-80.jpg",
@@ -127,11 +238,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Decorators-Keep-Styling-Sideboards-With-These-Simple-Combinations.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Decorators-Keep-Styling-Sideboards-With-These-Simple-Combinations.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/IKEA-Shoppers-Discovered-a-Different-Use-for-This-Bamboo-Drying-Rack-1024x1024.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Narrow-Guest-Bathroom-Looked-Stuck-in-the-1970s-Before-One-Remodel-Changed-Everything-1152x2048.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Living-Rooms-That-Feel-Comfortable-Keep-Using-These-Layout-Ideas-1152x1536.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Warm-Colors-Can-Anchor-Natural-Materials-768x1152.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Mirrored-Wall-Arrangements-Create-Built-In-Symmetry-768x1152.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Statement-Furniture-Can-Become-Part-of-the-Display-768x1152.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Layered-Artwork-Creates-Depth-768x1152.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Statement-Furniture-Can-Become-Part-of-the-Display-768x1152.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -167,6 +278,24 @@
       "source": "Design Boom",
       "source_url": "https://www.designboom.com",
       "published": "2026-06-22T10:01:48+00:00"
+    },
+    {
+      "id": "fc39caf6ef1a7543",
+      "title": "If you want a stylish and whisper-quiet fan to complement your bedroom aesthetic, this Duux smart fan gets my vote",
+      "summary": "It really could not be simpler to use, too",
+      "url": "https://www.idealhome.co.uk/house-manual/air-quality/duux-whisper-flex-2-smart-fan-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/J6XskSTVJfYZ77ovgDLdQn-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/J6XskSTVJfYZ77ovgDLdQn-1280-80.jpg",
+        "https://images.fie.futurecdn.net/6whjhaqxdlwlmfmq-17764312820964-250-80.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/LvTCq5QoXWZQ66RHZSu4Vn.jpg",
+        "https://cdn.mos.cms.futurecdn.net/LvTCq5QoXWZQ66RHZSu4Vn-1920-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/LvTCq5QoXWZQ66RHZSu4Vn-1600-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/LvTCq5QoXWZQ66RHZSu4Vn-1280-80.jpg"
+      ],
+      "source": "Ideal Home",
+      "source_url": "https://www.idealhome.co.uk",
+      "published": "2026-06-22T10:00:00+00:00"
     },
     {
       "id": "8c74bb09e1868eeb",
@@ -206,12 +335,7 @@
       "url": "https://www.homedit.com/they-turned-a-dark-storage-room-into-a-dedicated-laundry-room/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Turned-a-Dark-Storage-Closet-Into-a-Dedicated-Laundry-Room.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Turned-a-Dark-Storage-Closet-Into-a-Dedicated-Laundry-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Designer-Styled-Consoles-Keep-Using-These-Decorating-Formulas-1024x1536.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/IKEA-Shoppers-Discovered-a-Different-Use-for-This-Bamboo-Drying-Rack-1024x1024.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/Bed-Design-Ideas-for-2026-That-Make-Basic-Frames-Look-Outdated-1024x857.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Shelf-Lighting-and-Storage-Finished-the-Laundry-Room-828x1024.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Wall-Panels-Started-Making-the-Room-Feel-Finished-768x1024.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Turned-a-Dark-Storage-Closet-Into-a-Dedicated-Laundry-Room.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -242,12 +366,7 @@
       "url": "https://www.homedit.com/headboards-started-taking-over-entire-bedroom-walls/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/05/30-Bed-Design-Ideas-for-2026-That-Make-Basic-Frames-Look-Outdated-homedit-interior-design.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/30-Bed-Design-Ideas-for-2026-That-Make-Basic-Frames-Look-Outdated-homedit-interior-design.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Designer-Styled-Consoles-Keep-Using-These-Decorating-Formulas-1024x1536.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/IKEA-Shoppers-Discovered-a-Different-Use-for-This-Bamboo-Drying-Rack-1024x1024.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/Electric-Blue-Upholstery-Replaces-Neutral-Bedroom-Color-Schemes-768x1152.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/Carved-Wood-Frame-Brings-Old-World-Detailing-Back-Into-Bedroom-Design-768x1152.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/Scalloped-Headboard-Turns-Traditional-Upholstery-Into-Decorative-Framing-768x1152.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/30-Bed-Design-Ideas-for-2026-That-Make-Basic-Frames-Look-Outdated-homedit-interior-design.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -301,6 +420,24 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-22T06:09:54+00:00"
+    },
+    {
+      "id": "2c934374844e3190",
+      "title": "5 Bedroom Color Trends Interior Designers Are Using in 2026 for Spaces That Are Enveloping, Restorative, and Inherently Calming",
+      "summary": "Immersive bedroom color palettes can be just as peaceful as a neutral scheme, as these expertly decorated spaces prove",
+      "url": "https://www.livingetc.com/ideas/bedroom-color-trends-2026",
+      "image": "https://cdn.mos.cms.futurecdn.net/UkYwC7du8R64eXeGMkdDw4-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/UkYwC7du8R64eXeGMkdDw4-1280-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/waSwkYBqBxhsbYw6iXZ3pj.jpg",
+        "https://cdn.mos.cms.futurecdn.net/waSwkYBqBxhsbYw6iXZ3pj-160-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/waSwkYBqBxhsbYw6iXZ3pj-80-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/t42YQqY3WKCEdXNjYYoSDd.jpg",
+        "https://cdn.mos.cms.futurecdn.net/t42YQqY3WKCEdXNjYYoSDd-160-80.jpg"
+      ],
+      "source": "Livingetc",
+      "source_url": "https://www.livingetc.com",
+      "published": "2026-06-22T06:00:00+00:00"
     },
     {
       "id": "977319f946df401c",
@@ -393,6 +530,19 @@
       "published": "2026-06-22T02:00:00+00:00"
     },
     {
+      "id": "d7d89fcbfbc17797",
+      "title": "Barack and Michelle Obama’s Kalorama Living Room Reveals the Design Secret to Elevating Simple Neutrals with Rich Accent Colors",
+      "summary": "The former First Lady’s sophisticated seating area offers inspiration for mastering the quiet luxury look using timeless earthy hues",
+      "url": "https://www.homesandgardens.com/celebrity-homes/barack-and-michelle-obama-neutral-living-room",
+      "image": "https://cdn.mos.cms.futurecdn.net/sjT663mUhghNSAFa63DaMF-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/sjT663mUhghNSAFa63DaMF-1280-80.jpg"
+      ],
+      "source": "Homes & Gardens",
+      "source_url": "https://www.homesandgardens.com",
+      "published": "2026-06-22T02:00:00+00:00"
+    },
+    {
       "id": "18e04db6356b2cf6",
       "title": "When Function Meets Design: Hygiene, Efficiency and Maintenance in Bathroom Spaces",
       "summary": "From lighting and materials to colors, textures, and forms, every design decision shapes how people perceive, experience, and interact with architecture . In contemporary interiors, these choices are no longer understood as merely aesthetic or functional, influencing comfort, behavior, mood, and even the way users evaluate the quality of a space. Bathroom design , in particular, now creates carefully curated environments with a distinct identity, where every element contributes to the overall spatial experience.",
@@ -409,6 +559,32 @@
       "source": "ArchDaily",
       "source_url": "https://www.archdaily.com",
       "published": "2026-06-22T01:30:00+00:00"
+    },
+    {
+      "id": "ac5258cdf6e117f9",
+      "title": "One Push Finally Fixes the WFH Desk Problem",
+      "summary": "One Push Finally Fixes the WFH Desk Problem Most of us never really figured out how to leave work at home because, at some point, home became work. The pandemic turned dining tables...",
+      "url": "https://www.yankodesign.com/2026/06/21/one-push-finally-fixes-the-wfh-desk-problem/?utm_source=rss&utm_medium=rss&utm_campaign=one-push-finally-fixes-the-wfh-desk-problem",
+      "image": "https://www.yankodesign.com/images/design_news/2026/06/one-push-finally-fixes-the-wfh-desk-problem/duo-shift-01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/06/one-push-finally-fixes-the-wfh-desk-problem/duo-shift-01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-06-21T22:30:55+00:00"
+    },
+    {
+      "id": "597b5f02c8f8376c",
+      "title": "2 Easy Swaps Made Her Bathroom’s Existing Features Look Brand New",
+      "summary": "Updated surroundings give the existing fixtures a lot more shine. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/green-walls-gray-patterned-tile-floors-bathroom-redo-ba-37553914?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-01/Sarah%20Abraham%20bathroom/Sarah_Abraham_before_1_tagged_horiz",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-01/Sarah%20Abraham%20bathroom/Sarah_Abraham_before_1_tagged_horiz"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-21T22:00:00+00:00"
     },
     {
       "id": "ded367c58b929a97",
@@ -435,6 +611,32 @@
       "source": "Homes & Gardens",
       "source_url": "https://www.homesandgardens.com",
       "published": "2026-06-21T20:00:00+00:00"
+    },
+    {
+      "id": "c3480030e88e5887",
+      "title": "A Tiny 10-Square-Foot Kitchen Got a Parisian-Inspired Makeover for $300",
+      "summary": "There are two focal paint colors. READ MORE...",
+      "url": "https://www.thekitchn.com/moody-paris-inspired-kitchen-ba-23787073?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/sarah-l/before-after/tours-nyc-sarah-l-before-tagged-3069",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/sarah-l/before-after/tours-nyc-sarah-l-before-tagged-3069"
+      ],
+      "source": "The Kitchn",
+      "source_url": "https://www.thekitchn.com",
+      "published": "2026-06-21T15:15:00+00:00"
+    },
+    {
+      "id": "264d18ae3b296c95",
+      "title": "Designers Say This Simple Lighting Swap Makes Small Bedrooms Feel Much Bigger",
+      "summary": "Designers swear by this trick when every inch counts.",
+      "url": "https://www.countryliving.com/home-design/decorating-ideas/a71538506/small-bedroom-lighting-trick/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/blue-and-white-bedroom-1588273628.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/blue-and-white-bedroom-1588273628.jpg"
+      ],
+      "source": "Country Living",
+      "source_url": "https://www.countryliving.com",
+      "published": "2026-06-21T15:00:00+00:00"
     },
     {
       "id": "969cbd1e130139fb",
@@ -525,19 +727,6 @@
       "published": "2026-06-21T12:00:00+00:00"
     },
     {
-      "id": "63b5100de53356a8",
-      "title": "Not Pergolas, Not BBQ Islands: Outdoor Kitchen Pavilions Are Showing Up in Backyards",
-      "summary": "Outdoor kitchens used to follow a familiar formula: a built-in grill, a stone counter, and a location close to the house. Newer designs are taking a different approach. Instead of functioning as a simple cooking station, outdoor kitchens are becoming standalone structures with their own architecture, shelter, storage, and dedicated gathering space. Some hide behind... The post Not Pergolas, Not BBQ Islands: Outdoor Kitchen Pavilions Are Showing Up in Backyards appeared first on Homedit .",
-      "url": "https://www.homedit.com/not-pergolas-not-bbq-islands-outdoor-kitchen-pavilions-are-showing-up-in-backyards/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Not-Pergolas-Not-BBQ-Islands-Outdoor-Kitchen-Pavilions-Are-Showing-Up-in-Backyards.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Not-Pergolas-Not-BBQ-Islands-Outdoor-Kitchen-Pavilions-Are-Showing-Up-in-Backyards.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-06-21T09:23:28+00:00"
-    },
-    {
       "id": "8d785c2610f5bb19",
       "title": "Eight scenic bathrooms with a window to the great outdoors",
       "summary": "A wet room surrounded by the Costa Rican jungle and a built-in tub overlooking a Japanese beach feature in our latest lookbook, which brings together bathrooms with enviable nature views. The following homes are united by their dreamy coastal settings, framed by intentionally large windows. This glazing is especially effective in the homes' bathrooms, which The post Eight scenic bathrooms with a window to the great outdoors appeared first on Dezeen .",
@@ -595,18 +784,26 @@
       "published": "2026-06-21T07:05:55+00:00"
     },
     {
+      "id": "3888edd802c9b8da",
+      "title": "IKEA Has Just Released a New Colorway for Its Iconic SKÅDIS Pegboard, Which Makes Organization Look Effortlessly Stylish",
+      "summary": "Nightstand, hallway console, desk organizer — this IKEA pegboard does it all, and looks surprisingly chic while it's at it",
+      "url": "https://www.livingetc.com/shopping/ikea-skadis-pegboard",
+      "image": "https://cdn.mos.cms.futurecdn.net/QwSeoFtnf9quGufwRjt2wd-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/QwSeoFtnf9quGufwRjt2wd-1280-80.jpg"
+      ],
+      "source": "Livingetc",
+      "source_url": "https://www.livingetc.com",
+      "published": "2026-06-21T06:30:00+00:00"
+    },
+    {
       "id": "d8d927de74581d79",
       "title": "Big News: Ninja's New Mini Espresso Machine Means You Can Enjoy the Best-Quality Coffee No Matter the Size of Your Kitchen Counter",
       "summary": "It's all the barista-quality perks of Ninja's larger espresso machines, in a new, fun-size",
       "url": "https://www.livingetc.com/shopping/ninja-luxe-cafe-mini-espresso-and-filter-coffee-machine",
       "image": "https://cdn.mos.cms.futurecdn.net/mSCEPZjWqRSHdbXfkx573N-1280-80.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/mSCEPZjWqRSHdbXfkx573N-1280-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/UStqvKuuQmZ34uXaTdsgVY-200-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mSCEPZjWqRSHdbXfkx573N.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mSCEPZjWqRSHdbXfkx573N-1920-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mSCEPZjWqRSHdbXfkx573N-1600-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mSCEPZjWqRSHdbXfkx573N-1024-80.jpg"
+        "https://cdn.mos.cms.futurecdn.net/mSCEPZjWqRSHdbXfkx573N-1280-80.jpg"
       ],
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
@@ -626,19 +823,6 @@
       "published": "2026-06-21T05:30:00+00:00"
     },
     {
-      "id": "3c6d4a0b618112f2",
-      "title": "His Wife Wanted More Kitchen Storage, So He Built a Cabinet Wall Around a Coffee Station",
-      "summary": "His wife wanted more kitchen storage, but the project quickly became larger than a few extra cabinets. Reddit user u/ThatBuilderDude started with a pair of plywood cabinet towers and a center cabinet designed to occupy an unused section of wall. Adding full-height pantry storage, drawers, pull-out trays, floating shelves, tile, and integrated lighting transformed the... The post His Wife Wanted More Kitchen Storage, So He Built a Cabinet Wall Around a Coffee Station appeared first on Homedit .",
-      "url": "https://www.homedit.com/his-wife-wanted-more-kitchen-storage-so-he-built-a-cabinet-wall-around-a-coffee-station/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/His-Wife-Wanted-More-Kitchen-Storage-So-He-Built-a-Cabinet-Wall-Around-a-Coffee-Station.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/His-Wife-Wanted-More-Kitchen-Storage-So-He-Built-a-Cabinet-Wall-Around-a-Coffee-Station.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-06-21T05:24:41+00:00"
-    },
-    {
       "id": "fdde585b03da946a",
       "title": "What to Put Behind a Sofa in a Small Living Room — 6 Genius Ways to Maximize Every Square Inch of Space",
       "summary": "Is the space behind your living room sofa going to waste? These designer-approved ideas help you transform it into a practical (and stylish) feature",
@@ -650,6 +834,32 @@
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
       "published": "2026-06-21T05:00:00+00:00"
+    },
+    {
+      "id": "04cf6d2a41f49bee",
+      "title": "Flat for One / Metrics Architecture Studio",
+      "summary": "The project was to transform a 55sqm 2-bedroom located in southern Taiwan into a suite for one, including a small work area; an opportunity to rethink an ideal space for the increasing modern single.",
+      "url": "https://www.archdaily.com/996366/flat-for-one-metrics-architecture-studio",
+      "image": "https://images.adsttc.com/media/images/63e8/8f4e/805c/6146/6772/ea90/medium_jpg/not-ready-flat-for-one-metrics-architecture-studio_1.jpg?1676185445",
+      "images": [
+        "https://images.adsttc.com/media/images/63e8/8f4e/805c/6146/6772/ea90/medium_jpg/not-ready-flat-for-one-metrics-architecture-studio_1.jpg?1676185445"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-06-21T02:00:00+00:00"
+    },
+    {
+      "id": "043357820c138295",
+      "title": "Kendall Jenner’s Living Room Pairs 18th-Century Wooden Antiques with Minimalist Decor to Perfect the All-White Aesthetic",
+      "summary": "Designed by Clements Design, Kendall's living room proves that a minimalist white palette thrives when layered with rich materials",
+      "url": "https://www.homesandgardens.com/celebrity-homes/kendall-jenner-living-room-antique-art",
+      "image": "https://cdn.mos.cms.futurecdn.net/Eb9fRE2FnNNtspgp9U6x4B-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/Eb9fRE2FnNNtspgp9U6x4B-1280-80.jpg"
+      ],
+      "source": "Homes & Gardens",
+      "source_url": "https://www.homesandgardens.com",
+      "published": "2026-06-21T02:00:00+00:00"
     },
     {
       "id": "7e2d4cc30caf5aa5",
@@ -675,24 +885,11 @@
         "https://hips.hearstapps.com/hmg-prod/images/753a1e37-51d8-41d1-a4fb-3e55355fdd76.jpeg?crop=1xw:1xh;center",
         "https://hips.hearstapps.com/hmg-prod/images/e1502234-aee8-4f55-ad4a-5d27385e838b.jpeg?crop=1xw:1xh;center",
         "https://hips.hearstapps.com/hmg-prod/images/ec676684-4409-4806-94eb-a3ef489d45db.jpeg?crop=1xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/8e81c717-7543-4c31-b135-8025b579c67a.jpeg?crop=0.664227955333xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/626e41e2-576b-4009-9f6c-2f99d91fc9d6.jpeg?crop=0.578955223881xw:1xh;center,top&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/8080f3a7-c504-4b6e-b119-82af2774f47d.jpeg?crop=0.668044077135xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/675f2d87-12d1-43e5-bec9-786ed93ad1e6.jpg?crop=0.666666666667xw:1xh;center,top&resize=360:*"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
-      "published": "2026-06-20T18:00:00+00:00"
-    },
-    {
-      "id": "b4da4db7f68dc70f",
-      "title": "I Used to Think Melamine Dinnerware Was Basic – But Drew Barrymore's New Playfully Chic Walmart Collection Is Perfect for Summer Hosting",
-      "summary": "Sardine motifs, vibrant colors, and melamine transform this dinnerware set into something stylish, outdoor-safe, and worthy of a spot on your summer tablescape",
-      "url": "https://www.homesandgardens.com/decor/hosting/drew-barrymore-walmart-melamine-dinnerware-set",
-      "image": "https://cdn.mos.cms.futurecdn.net/yHpB5VpBdZMeypxdLeDZ4j-1280-80.png",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/yHpB5VpBdZMeypxdLeDZ4j-1280-80.png"
-      ],
-      "source": "Homes & Gardens",
-      "source_url": "https://www.homesandgardens.com",
       "published": "2026-06-20T18:00:00+00:00"
     },
     {
@@ -707,6 +904,32 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-20T17:00:04+00:00"
+    },
+    {
+      "id": "c8ad8a3e8ff363e1",
+      "title": "This Neglected Victorian Living Room Took 2 Years to Restore",
+      "summary": "What a transformation! READ MORE...",
+      "url": "https://www.apartmenttherapy.com/victorian-living-room-redo-37559442?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-06/victorian-living-room-makeover/victorian-living-room-before-lead",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-06/victorian-living-room-makeover/victorian-living-room-before-lead"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-20T14:30:00+00:00"
+    },
+    {
+      "id": "2bf5da02bf6aec26",
+      "title": "How Designers Fix a Room with No Overhead Lighting (No Electrician Needed!)",
+      "summary": "I tried one in my own living room, and I’m obsessed! READ MORE...",
+      "url": "https://www.apartmenttherapy.com/no-overhead-light-lighting-37559428?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/august/sarah-b/tours-newyork-sarah-b-8M1A1106",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/august/sarah-b/tours-newyork-sarah-b-8M1A1106"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-20T14:30:00+00:00"
     },
     {
       "id": "238c29dbbcb18540",
@@ -759,12 +982,7 @@
       "url": "https://www.idealhome.co.uk/all-rooms/small-appliances/smeg-new-moonlight-collection",
       "image": "https://cdn.mos.cms.futurecdn.net/Hy6P4DkQ2EfNkFK3p7N3vN-1280-80.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/Hy6P4DkQ2EfNkFK3p7N3vN-1280-80.jpg",
-        "https://images.fie.futurecdn.net/6whjhaqxdlwlmfmq-17764312820964-250-80.jpg.webp",
-        "https://cdn.mos.cms.futurecdn.net/4qWqdeg8b5tfDnr8EiCaiS-200-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/hpYG5XQHRVSs5UucCh59zN.jpg",
-        "https://cdn.mos.cms.futurecdn.net/hpYG5XQHRVSs5UucCh59zN-1920-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/hpYG5XQHRVSs5UucCh59zN-1600-80.jpg"
+        "https://cdn.mos.cms.futurecdn.net/Hy6P4DkQ2EfNkFK3p7N3vN-1280-80.jpg"
       ],
       "source": "Ideal Home",
       "source_url": "https://www.idealhome.co.uk",
@@ -781,6 +999,19 @@
       ],
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
+      "published": "2026-06-20T06:00:00+00:00"
+    },
+    {
+      "id": "09455c53db56656a",
+      "title": "Millie Mackintosh has used this ‘safe’ shade to turn her bedroom into a calming sleep sanctuary full of character – how you can get the look too",
+      "summary": "This calming green paint shade is one of the best choices for bedrooms",
+      "url": "https://www.idealhome.co.uk/all-rooms/bedroom/millie-mackintosh-sage-green-bedroom",
+      "image": "https://cdn.mos.cms.futurecdn.net/2gZcmdGMaDjX4dJGRP55UR-1280-80.png",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/2gZcmdGMaDjX4dJGRP55UR-1280-80.png"
+      ],
+      "source": "Ideal Home",
+      "source_url": "https://www.idealhome.co.uk",
       "published": "2026-06-20T06:00:00+00:00"
     },
     {
@@ -942,18 +1173,26 @@
       "published": "2026-06-19T13:00:00+00:00"
     },
     {
+      "id": "6e3b9d465ce3d11f",
+      "title": "in paweł grunert’s world, chairs grow like vines and wicker runs free",
+      "summary": "the late polish designer transformed wicker from a traditional craft material into a living, expansive medium. The post in paweł grunert’s world, chairs grow like vines and wicker runs free appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/design/pawel-grunert-world-chairs-vines-wicker-objekt-aleksandra-krasny-interview/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/pawel-grunert-world-chairs-vines-wicker-objekt-aleksandra-krasny-designboom-700-500x400-22b08q85r862.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/06/pawel-grunert-world-chairs-vines-wicker-objekt-aleksandra-krasny-designboom-700-500x400-22b08q85r862.jpg"
+      ],
+      "source": "Design Boom design",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-06-19T10:50:54+00:00"
+    },
+    {
       "id": "316448743e3f00d5",
       "title": "'We are here to solve problems': how NM3's furniture is crafting a new contemporary language through materiality and modularity",
       "summary": "Italian design studio NM3 has established a brand based on material-led minimalism, taking high-end design to new heights. Follow along as we explore the studio's universe, following our collaboration at Milan Design Week",
       "url": "https://www.wallpaper.com/design-interiors/nm3-design-studio-profile",
       "image": "https://cdn.mos.cms.futurecdn.net/nHopzgwnTjVbozdX9tFrYF-1280-80.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/nHopzgwnTjVbozdX9tFrYF-1280-80.jpg",
-        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936-250-80.jpg.webp",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-900-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT-450-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/nHopzgwnTjVbozdX9tFrYF-1280-80.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -1034,9 +1273,9 @@
         "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/f461cc53-bdbf-4e52-a4ec-d4b0e6e8890b.jpg?crop=1xw:0.853xh;0xw",
         "https://hips.hearstapps.com/hmg-prod/images/the-container-store-elfa-horderly-house-beautiful-workroom-1572907091.png?crop=1xw:0.84375xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/3ec0af4b-a9dc-436f-b15c-d5f1532962d0.jpeg?crop=1xw:0.808xh;0xw,0.192xh&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/ver040116carter03-1612914995.jpg?crop=0.75xw:1xh;0.178xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/4771be93-3d9e-4cb1-9e5c-26d3b01c5098.jpeg?crop=0.67xw:1xh;0.126xw,0xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/35dbc859-aee3-42e6-a95c-425f48047a09.jpg?crop=1xw:0.773xh;0xw,0.2xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/meg-braff-locust-valley-living-room-1605037055.jpg?crop=0.752xw:1.00xh;0.125xw,0&resize=360:*"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1051,10 +1290,10 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/23137359-9610-4a48-b68f-a34d5cde4f59.jpg",
         "https://hips.hearstapps.com/vidthumb/images/screen-shot-2020-02-18-at-2-14-44-pm-1582053292.png?crop=1xw:0.8757405213270142xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/17b4f650-683a-4871-83f7-b0640a596974.jpeg?crop=0.667xw:1xh;0.211xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/a1kb6-cfbgl-ac-sl1500-67e2d9860ca27.jpg?crop=1.00xw:1.00xh;0,0&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/1d03d145-9cc2-425a-8f7f-8892d9cc6af4.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/f3813b97-fdcf-4922-9af7-f45f568c8f8d.jpg?crop=0.5xw:1xh;0.5xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/7298e1ff-8d7e-4f6b-8bcd-f7b5b16ab38e.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/hbx110125wh-leahoconnell-008-68e6c1cc1563e.jpg?crop=0.904xw:0.679xh;0,0.177xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/7298e1ff-8d7e-4f6b-8bcd-f7b5b16ab38e.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*"
       ],
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
@@ -1070,39 +1309,65 @@
         "https://hips.hearstapps.com/hmg-prod/images/f3813b97-fdcf-4922-9af7-f45f568c8f8d.jpg",
         "https://hips.hearstapps.com/vidthumb/images/screen-shot-2020-02-18-at-2-14-44-pm-1582053292.png?crop=1xw:0.8757405213270142xh;center",
         "https://hips.hearstapps.com/hmg-prod/images/f60c7969-6220-440e-9167-63143b6fd327.png?crop=0.667xw:1xh;0.163xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/7298e1ff-8d7e-4f6b-8bcd-f7b5b16ab38e.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/17b4f650-683a-4871-83f7-b0640a596974.jpeg?crop=0.667xw:1xh;0.211xw,0xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/193a18cc-fcec-4bc7-b2e7-ebfb2920d8f4.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/004d44fe-90ff-4e4d-bd86-7007d6ba583c.jpg?crop=1xw:1.0xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/1d03d145-9cc2-425a-8f7f-8892d9cc6af4.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/101d9fdd-1cc7-4d80-81c3-6aa110ce3f3f.jpg?crop=1xw:1.0xh;center,top&resize=360:*"
       ],
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
       "published": "2026-06-18T20:15:00+00:00"
     },
     {
-      "id": "59e88061082b43ef",
-      "title": "Feel like a guardian of the sea in a restored Italian watchtower",
-      "summary": "A historic Tuscan castle on the Romito Coast was layered in mystery; now its charm and spirit have been restored by architectural and interior design studio Tono",
-      "url": "https://www.wallpaper.com/architecture/residential/castel-sonnino-livorno-italian-castle",
-      "image": "https://cdn.mos.cms.futurecdn.net/6rpM2STba763cCchMqtQwm-1280-80.png",
+      "id": "5651195f6b81ccaf",
+      "title": "This Mistake Almost Ruined My Entire Bathroom Renovation—Here's How to Avoid It",
+      "summary": "It was a lesson on why you should never skimp on quality.",
+      "url": "https://www.housebeautiful.com/home-remodeling/a71563067/bathroom-tile-mistake-renovation/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/37e23749-17d0-4071-87af-610070182ebd.jpeg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/6rpM2STba763cCchMqtQwm-1280-80.png"
+        "https://hips.hearstapps.com/hmg-prod/images/37e23749-17d0-4071-87af-610070182ebd.jpeg"
       ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-06-18T10:06:09+00:00"
+      "source": "House Beautiful",
+      "source_url": "https://www.housebeautiful.com",
+      "published": "2026-06-18T20:00:00+00:00"
     },
     {
-      "id": "388a91320d3def3c",
-      "title": "Gary Hume’s artworks become furniture and design objects for Giobagnara",
-      "summary": "A limited-edition, marquetry-focused collection – from a cabinet to a screen – fuses the worlds of art and design for Giobagnara’s inaugural Art Edition series",
-      "url": "https://www.wallpaper.com/design-interiors/gary-hume-giobagnara-art-edition-debut",
-      "image": "https://cdn.mos.cms.futurecdn.net/3bHk9EZVqeauCLTb9X3NJ3-1280-80.png",
+      "id": "546b824256178057",
+      "title": "Solace Chain pendant light by Ross Gardam",
+      "summary": "Dezeen Showroom: sculptural mouth-blown glass shades and delicate metal links meet in this chain-hung pendant light by Australian design studio Ross Gardam. A continuation of the Solace lighting range, the Solace Chain pendant is built around the same teardrop glass form, with fluid curves based on the interplay of two intersecting circles. The pendant light features The post Solace Chain pendant light by Ross Gardam appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/18/solace-chain-pendant-light-ross-gardam-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/06/ross-gardam-solace-chain-pendant-dezeen-showroom_dezeen_2364_col_1-411x411.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/3bHk9EZVqeauCLTb9X3NJ3-1280-80.png"
+        "http://static.dezeen.com/uploads/2026/06/ross-gardam-solace-chain-pendant-dezeen-showroom_dezeen_2364_col_1-411x411.jpg"
       ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-06-18T07:00:00+00:00"
+      "source": "Dezeen tag lighting",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-18T09:30:29+00:00"
+    },
+    {
+      "id": "982720c1de7b53c4",
+      "title": "Meanwhile, on Remodelista: The Summer Bedroom",
+      "summary": "Doesn’t require much to get your bedroom ready for the warmer months. In fact, it mostly involves subtracting stuff: fewer pillows, a lighter blanket, less fussiness, minimal clutter. And sometimes, all it takes is an open window or two. Below, a few examples we spied over on Remodelista of summery, pared-down bedrooms that feel like […]",
+      "url": "https://www.gardenista.com/posts/meanwhile-remodelista-summer-bedroom/",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/05/17-bedroom-mallorca-september-moore-projects-99b7978-733x1059.jpeg",
+      "images": [
+        "https://media.gardenista.com/wp-content/uploads/2026/05/17-bedroom-mallorca-september-moore-projects-99b7978-733x1059.jpeg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-06-18T08:00:19+00:00"
+    },
+    {
+      "id": "7a566d1ae753e0b1",
+      "title": "Kitchen of the Week: An Expensive-Looking Remodel for Just $13,000",
+      "summary": "We often recommend Ikea’s kitchen cabinets as a solid, bang-for-the-buck option for those looking to remodel. And nowadays, there are so many offshoot companies offering cabinet front styles specifically tailored to fit Ikea’s base cabinets that, if being economical is a priority, there’s little reason not to at least start with an Ikea skeleton. (See […]",
+      "url": "https://www.remodelista.com/posts/kitchen-week-luke-joanne-mcclelland-ikea-kitchen-edinburgh/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2020/07/luke-joanne-mcclelland-edinburgh-ikea-kitchen-733x524.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2020/07/luke-joanne-mcclelland-edinburgh-ikea-kitchen-733x524.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-18T08:00:04+00:00"
     },
     {
       "id": "a248799fcef2eccb",
@@ -1131,17 +1396,17 @@
       "published": "2026-06-18T06:30:00+00:00"
     },
     {
-      "id": "f7e1d2485512083c",
-      "title": "Velvet walls and floors \"retain the imprint of bodies\" at Dive bar in London",
-      "summary": "Design studio Golem has completed a subterranean cocktail bar in central London featuring a glossy counter and tactile booths entirely covered in soft red velvet. Occupying the basement levels of a building in Marylebone, Dive features furniture and materials that adapt to different scenarios and celebrate signs of use. \"Dive's experience is an ongoing negotiation The post Velvet walls and floors \"retain the imprint of bodies\" at Dive bar in London appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/18/dive-bar-london-golem/",
-      "image": "http://static.dezeen.com/uploads/2026/06/golem-dive-bar-london-b_dezeen_2364_col_1-411x411.jpg",
+      "id": "1912735ef7c0bbbb",
+      "title": "Costco’s New “Executive Desk” Looks Like Real Carrara Marble—but Costs THOUSANDS Cheaper",
+      "summary": "It’s rare to find a desk this chic at this price.",
+      "url": "https://www.housebeautiful.com/shopping/best-stores/a71606056/costco-carrara-marble-executive-desk/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/11fa1677-c670-4d53-8c70-fa052c90220b.jpeg",
       "images": [
-        "http://static.dezeen.com/uploads/2026/06/golem-dive-bar-london-b_dezeen_2364_col_1-411x411.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/11fa1677-c670-4d53-8c70-fa052c90220b.jpeg"
       ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-18T05:00:48+00:00"
+      "source": "House Beautiful",
+      "source_url": "https://www.housebeautiful.com",
+      "published": "2026-06-17T21:08:27+00:00"
     },
     {
       "id": "f238f56b2c9a2589",
@@ -1157,6 +1422,24 @@
       "published": "2026-06-17T20:00:00+00:00"
     },
     {
+      "id": "87850f7ec0eb9a0c",
+      "title": "A Sydney RSL Institution Reimagined Without Losing Its Soul.",
+      "summary": "After more than 75 years of service to veterans and the Rose Bay community, Club Rose Bay has reopened following its first major transformation since 1979. Led by Merivale with architecture and interiors by Akin Atelier, the project honours the club's legacy while bringing its facilities into a new era — without losing sight of what made it matter in the first place. | The article A Sydney RSL Institution Reimagined Without Losing Its Soul. appeared first on Yellowtrace . |",
+      "url": "https://www.yellowtrace.com.au/akin-atelier-club-rose-bay-merivale-hospitality-design-sydney/",
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26143744/Yellowtrace-Akin-Atelier-Club-Rose-Bay-Merivale-Photo-Anson-Smart-25_opt80.jpg",
+      "images": [
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26143744/Yellowtrace-Akin-Atelier-Club-Rose-Bay-Merivale-Photo-Anson-Smart-25_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26143556/Yellowtrace-Akin-Atelier-Club-Rose-Bay-Merivale-Photo-Anson-Smart-04_opt80-2048x1536.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26143546/Yellowtrace-Akin-Atelier-Club-Rose-Bay-Merivale-Photo-Anson-Smart-02_opt80-2048x1536.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26143739/Yellowtrace-Akin-Atelier-Club-Rose-Bay-Merivale-Photo-Anson-Smart-24_opt80-2048x1536.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26143615/Yellowtrace-Akin-Atelier-Club-Rose-Bay-Merivale-Photo-Anson-Smart-07_opt80-1536x2048.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26143629/Yellowtrace-Akin-Atelier-Club-Rose-Bay-Merivale-Photo-Anson-Smart-10_opt80-1536x2048.jpg"
+      ],
+      "source": "Yellowtrace",
+      "source_url": "https://www.yellowtrace.com.au",
+      "published": "2026-06-17T19:30:30+00:00"
+    },
+    {
       "id": "7c340e47ebe4fe3a",
       "title": "Designers Love This Timeless Furniture Trend for Adding Pattern Without Overwhelming a Room",
       "summary": "Give your surfaces a polished upgrade.",
@@ -1168,6 +1451,24 @@
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
       "published": "2026-06-17T18:00:00+00:00"
+    },
+    {
+      "id": "957042b460cafa85",
+      "title": "9 ‘Trendy’ Bathroom Features Designers Want to Leave Behind in 2027",
+      "summary": "Design pros say these things deserve to be left in the past.",
+      "url": "https://www.veranda.com/decorating-ideas/advice-from-designers/a71165031/trendy-bathroom-features-designers-want-to-leave-behind-2027/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3ec0af4b-a9dc-436f-b15c-d5f1532962d0.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3ec0af4b-a9dc-436f-b15c-d5f1532962d0.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/d881ad14-5e49-459e-a229-4bb37f454e55.jpeg?crop=1xw:1xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/7e7dea4f-b0ac-4de0-9399-3bfc731ac1b5.jpeg?crop=1xw:1xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/d8fb41ff-0c4a-4152-b93a-5f8008e6bc1a.jpeg?crop=1xw:1xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/5e235d14-678a-4d86-9e34-5273ef9f2e50.jpeg?crop=0.936xw:0.936xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/0ca588d8-fd4b-4365-887c-143b67891a0b.jpeg?crop=1xw:1xh;0xw"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-06-17T16:14:19+00:00"
     },
     {
       "id": "a6b867033c1ffa7c",
@@ -1227,6 +1528,19 @@
       "published": "2026-06-17T08:00:47+00:00"
     },
     {
+      "id": "eb3d885b44499d2f",
+      "title": "10 Easy Pieces: Glass Water Carafes",
+      "summary": "A simple water carafe is a necessity on the nightstand—especially one with a glass that acts as carafe topper to keep water fresh and clean clean while you slumber. Here are 10 options to help you get your daily water intake morning and night. For more bedside essentials, see our posts: 10 Easy Pieces: Modern […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-bedside-water-carafes/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/08/clear-velasca-carafe-obakki-733x733.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/08/clear-velasca-carafe-obakki-733x733.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-17T08:00:00+00:00"
+    },
+    {
       "id": "a6274e38bce6a790",
       "title": "Десять будущих кладовщиков завершили практику на предприятии компании «ФЕЛИКС»",
       "summary": "Студенты ГБПОУ «Торопецкий колледж» завершили практику на крупнейшем предприятии мебельной отрасли Тверской области — фабрике компании «ФЕЛИКС». Практика стала заключительным модулем обучения по теме «Оценка эффективности работы логистических систем и контроль логистических операций» для выпускников специальности «Операционная деятельность в логистике». В течение недели десять будущих кладовщиков отрабатывали профессиональные навыки и знакомились с работой современного мебельного предприятия.",
@@ -1277,12 +1591,7 @@
       "url": "https://www.veranda.com/travel/a71605635/islas-secas-panama-review/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/e78e09d4-0e24-4b32-bf65-a1e68f5f690e.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/e78e09d4-0e24-4b32-bf65-a1e68f5f690e.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/5dbd9ea3-d4eb-4c7d-b84d-338e30abdda0.jpg?crop=1xw:0.787xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/d9d73279-d584-4a13-a891-9d1e2dd9beb4.jpg?crop=0.667xw:1xh;0.132xw",
-        "https://hips.hearstapps.com/hmg-prod/images/81609262-4980-4511-98ca-1e13031f952f.jpg?crop=0.667xw:1xh;0.229xw",
-        "https://hips.hearstapps.com/hmg-prod/images/8ba27051-3989-4b2a-92d4-d1229ec10a21.jpg?crop=1xw:0.75xh;0xw",
-        "https://hips.hearstapps.com/hmg-prod/images/c561b9ae-0f0b-458d-88c2-60f80cbdada8.jpg?crop=1xw:0.8xh;0xw"
+        "https://hips.hearstapps.com/hmg-prod/images/e78e09d4-0e24-4b32-bf65-a1e68f5f690e.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1315,6 +1624,19 @@
       "published": "2026-06-16T12:00:00+00:00"
     },
     {
+      "id": "3eecf5ed1625f807",
+      "title": "Remodelista Reconnaissance: A Handmade Ceramic Basin",
+      "summary": "A while back, I wrote about a thoughtful, eco-conscious remodel in Melbourne, Australia (see Retrofit Over Rebuild: An Architect and Interior Designer’s Sensitively Restored 1970s Home). The original home was hand-built—and so, too, were many of the elements inside the home, from the furniture-quality kitchen cabinetry to this hand-thrown ceramic basin I can’t stop thinking […]",
+      "url": "https://www.remodelista.com/posts/remodelista-reconnaissance-handmade-ceramic-basin-lindsey-wherrett/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2024/01/nuud-studio-monty-sibbel-bathroom-733x977.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2024/01/nuud-studio-monty-sibbel-bathroom-733x977.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-16T08:00:10+00:00"
+    },
+    {
       "id": "dd24c1858088e7c4",
       "title": "Sail table by Design By Them among seven new products on Dezeen Showroom",
       "summary": "Dezeen Showroom: an all-aluminium dining table with crimped sides is among seven new products featured on Dezeen Showroom. Sail table by Tom Fereday for Design By Them Designer Tom Fereday's Sail table for Australian brand Design By Them is made entirely from aluminium and its top features distinctively folded-over sides. The table comes in three sizes The post Sail table by Design By Them among seven new products on Dezeen Showroom appeared first on Dezeen .",
@@ -1339,6 +1661,19 @@
       "source": "Мебель-expo",
       "source_url": "https://www.meb-expo.ru",
       "published": "2026-06-15T06:19:54+00:00"
+    },
+    {
+      "id": "86055958abe0c7f5",
+      "title": "Charlap Hyman & Herrero adds custom workstations to futuristic LA office",
+      "summary": "US studio Charlap Hyman & Herrero has built in rows of metal workstations to create a futuristic yet comfortable work environment for an aerospace manufacturer's office in California. Charlap Hyman & Herrero was tasked with designing the space to both inspire workers of the manufacturer and create a comfortable work environment. The result is a The post Charlap Hyman & Herrero adds custom workstations to futuristic LA office appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/14/charlap-hyman-herrero-futuristic-la-office/",
+      "image": "http://static.dezeen.com/uploads/2026/06/charlap-hyman-herrero-retro-future-ofice-los-angeles_dezeen_2364_sqex-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/charlap-hyman-herrero-retro-future-ofice-los-angeles_dezeen_2364_sqex-411x411.jpg"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-14T05:00:19+00:00"
     },
     {
       "id": "d8c0e7873f61f1ef",
@@ -1492,9 +1827,22 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
+    },
+    {
+      "id": "be8964cdc92ee30a",
+      "title": "Kitchen of the Week: At Home with a Couple Who Design Kitchens of Sustainable Bamboo",
+      "summary": "When you design and produce kitchens for a living, you get to use your own quarters as a testing ground. Kine Ask Stenersen and Kristoffer Eng are the couple behind Ask og Eng, the Oslo, Norway-based workshop known for its artful Ikea hacks: they specialize in making bamboo fronts for Ikea kitchen cabinets. The duo […]",
+      "url": "https://www.remodelista.com/posts/custom-bamboo-kitchen-ask-og-eng-oslo/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2019/10/ask-og-eng-custom-bamboo-kitchen-oslo-norway-1a-733x886.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2019/10/ask-og-eng-custom-bamboo-kitchen-oslo-norway-1a-733x886.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-11T08:00:09+00:00"
     },
     {
       "id": "bdae16f6fdaa5eef",
@@ -1508,6 +1856,32 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T05:00:14+00:00"
+    },
+    {
+      "id": "f1e5641a98df58e6",
+      "title": "10 Easy Pieces: The New Nordic Sofa",
+      "summary": "A lineup of notable sofas from the successors of Scandi designers such as Børge Mogensen, Carl Hansen, Hans Wegner, Finn Juhl, and Bruno Mathsson. Here’s a look at our favorite sofas, the new Nordic edition. On the hunt for more sofas? See our posts: 10 Easy Pieces: The Perfect White Sofa 10 Easy Pieces: Midcentury-Style Sofas […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-the-new-nordic-sofa/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2016/12/feld-two-seat-side-sofa-733x977.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2016/12/feld-two-seat-side-sofa-733x977.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-10T08:00:33+00:00"
+    },
+    {
+      "id": "445ca7143bd608cd",
+      "title": "Snowman22 lighting by ILKW among 14 new products on Dezeen Showroom",
+      "summary": "Dezeen Showroom: a glass lighting collection that aims to emulate the playful look of snowmen is among 14 new products featured on Dezeen Showroom. Snowman22 lighting by ILKW Korean design brand ILKW has released a lighting collection united by playfully shaped glass shades. The Snowman22 range comprises wall, floor, table and pendant lights and comes The post Snowman22 lighting by ILKW among 14 new products on Dezeen Showroom appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/09/snowman22-lighting-ilkw-furniture-tiles-products-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/06/snowman22-lighting-ilkw-design_dezeen_2364_col_0-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/snowman22-lighting-ilkw-design_dezeen_2364_col_0-411x411.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-09T13:00:29+00:00"
     },
     {
       "id": "4657a738703438dc",
@@ -1539,6 +1913,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-07T17:00:40+00:00"
+    },
+    {
+      "id": "acd19189e2183e37",
+      "title": "Quick Takes With: Ella Quittner",
+      "summary": "You’ve probably seen Ella’s buzzy new book, Obsessed with the Best, on prominent display in bookstores and around the cooler corners of the Internet. But did you know she first started writing for Remodelista? (It’s true.) We’re happy to have that small claim to her fame, especially now that Ella’s cookbook is flying off shelves. […]",
+      "url": "https://www.remodelista.com/posts/ella-quittner-quick-takes/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/ella-quittner-obsessed-with-the-best-portrait-733x916.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/06/ella-quittner-obsessed-with-the-best-portrait-733x916.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-07T08:00:27+00:00"
     },
     {
       "id": "3b8e4ecfaac517ad",
@@ -1660,6 +2047,19 @@
       "published": "2026-06-04T18:59:28+00:00"
     },
     {
+      "id": "0a9cefe4bd8d4db4",
+      "title": "27 Bedroom Rug Placement Ideas That Make You Realize Placement Was Always More Important Than the Rug Itself",
+      "summary": "Where a rug lands says more about a bedroom than the bed itself. Slide it under the bottom third, float it sideways past the nightstands, layer two and let the smaller one carry the pattern — every choice rewrites the way the floor reads. These 27 bedroom rug placement ideas pull from real rooms where […] The post 27 Bedroom Rug Placement Ideas That Make You Realize Placement Was Always More Important Than the Rug Itself appeared first on Trendir .",
+      "url": "https://www.trendir.com/bedroom-rug-placement-ideas/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-06-04T16:45:00+00:00"
+    },
+    {
       "id": "a631a45cf6afb80a",
       "title": "25 Boho Bedding Room Ideas That Make the Gap Between a Styled Bedroom and a Soulful One Very Clear",
       "summary": "Boho bedrooms have never been about following rules. They’re about layering what feels good, what was loved long before it landed in your room, and what makes the space feel less like furniture and more like a soft place to land. These 25 boho bedding room ideas lean into texture, color, and the kind of […] The post 25 Boho Bedding Room Ideas That Make the Gap Between a Styled Bedroom and a Soulful One Very Clear appeared first on Trendir .",
@@ -1671,6 +2071,19 @@
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-06-04T16:00:00+00:00"
+    },
+    {
+      "id": "353c7eabd65f30ea",
+      "title": "Kings Cross Apartment by Mathieson",
+      "summary": "Set within Sydney’s Altair Apartments, Mathieson’s Kings Cross Apartment transforms a compact one-bedroom residence into a deeply restrained urban retreat. Designed by studio founder Phillip Mathieson as his own home, the project distills the practice’s architectural language into a quieter, more pe",
+      "url": "https://minimalissimo.com/articles/kings-cross-apartment-by-mathieson",
+      "image": "https://minimalissimo.com/api/media/file/website-47.jpg",
+      "images": [
+        "https://minimalissimo.com/api/media/file/website-47.jpg"
+      ],
+      "source": "Minimalissimo",
+      "source_url": "https://minimalissimo.com",
+      "published": "2026-06-04T12:00:00+00:00"
     },
     {
       "id": "fe484876c3c81be5",
@@ -1686,6 +2099,32 @@
       "published": "2026-06-04T08:00:36+00:00"
     },
     {
+      "id": "3fff842a1f07bac4",
+      "title": "Kitchen(s) of the Week: Freestanding Cabinetry by Loose Parts in Upstate NY",
+      "summary": "Jennifer June creates kitchens that are purpose-built, great-looking, and made to last. And those are but a few of the reasons to admire what she does. June is both an interior designer and a cabinetmaker, a useful if uncommon combination. She’s also a teacher at Parsons School of Design, her alma mater—she co-leads the MFA […]",
+      "url": "https://www.remodelista.com/posts/loose-parts-american-made-custom-kitchen-designs-jennifer-june/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/loose-parts-composition-kitchen-wide-credit-black-steil-1a-1-733x917.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/loose-parts-composition-kitchen-wide-credit-black-steil-1a-1-733x917.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-04T08:00:27+00:00"
+    },
+    {
+      "id": "07ffeb6ed028b12e",
+      "title": "‘tradition contains generations of knowledge’: natura futura builds with ecuadorian wisdom",
+      "summary": "the ecuador-based studio has built a practice that begins with what is already present: heat, timber, local craft, and the social ties that hold a place together. The post ‘tradition contains generations of knowledge’: natura futura builds with ecuadorian wisdom appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/tradition-contains-generations-of-knowledge-natura-futura-builds-with-ecuadorian-wisdom/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/natura-futura-radical-softness-ecuador-designboom-700-500x400-22b08q85r169.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/06/natura-futura-radical-softness-ecuador-designboom-700-500x400-22b08q85r169.jpg"
+      ],
+      "source": "Design Boom interiors",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-06-04T07:37:29+00:00"
+    },
+    {
       "id": "e000827e698e457f",
       "title": "This New Restaurant in Arizona Takes its Cues From Italian Modernism",
       "summary": "Designed by MMaison Interiors, il Bracco brings Italian flair to Arizona, with diverse materials from cork to travertine.",
@@ -1697,6 +2136,19 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-06-03T16:00:15+00:00"
+    },
+    {
+      "id": "3d5c0005bbd6a40b",
+      "title": "10 Easy Pieces: Dining Tables on Wheels",
+      "summary": "An idea worth considering: a dining table on wheels, especially if you’re lucky enough to have an indoor/outdoor situation. You could DIY a version or go with one of the 10 options we’ve sourced here, many of which take cues from restaurant kitchens, science labs, classrooms, and Shaker prep tables. For more tables, see our […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-dining-tables-on-wheels-casters/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/roseland-kitchen-island-733x978.jpeg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/06/roseland-kitchen-island-733x978.jpeg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-03T08:00:33+00:00"
     },
     {
       "id": "e33289417fac6c70",
@@ -1743,6 +2195,63 @@
       "published": "2026-06-02T13:00:00+00:00"
     },
     {
+      "id": "8587ca4e95082625",
+      "title": "A Poetic Tea Room in Taipei Designed By Homework Studio",
+      "summary": "Homework Studio of Taipei, Taiwan, creates interiors that evoke intriguing, hard-to-pinpoint earlier eras: see, for instance, the Homework Photo Studio and A Childhood Apartment Updated. Wolf Tea’s new location in Taipei’s historic Dadaocheng district is another standout. Located on the ground floor of a tiled, multi-story building that only dates to the 1970s, the salon […]",
+      "url": "https://www.remodelista.com/posts/wolf-tea-tea-room-dadaocheng-taipei-taiwan-homework-studio-design/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/wolf-tea-da-dao-cheng-taipei-1-3-733x489.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/wolf-tea-da-dao-cheng-taipei-1-3-733x489.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-02T10:00:46+00:00"
+    },
+    {
+      "id": "aee5460e2a7117ab",
+      "title": "Remodelista Reconnaissance: Streetwear-Inspired Striped Linens in a City Flat",
+      "summary": "Nothing says summer like throwing some striped sheets on the bed. Like these, for example, spotted recently in a Barcelona flat, more oversized-men’s-button-down than twee cottage, cool enough for a city summer. The Sighting The Source For more favorites, sourced, see: Remodelista Reconnaissance: A Ghostly Cloth Pendant Light Remodelista Reconnaissance: A Shiny Scalloped Sconce (Most […]",
+      "url": "https://www.remodelista.com/posts/striped-summer-sheets-reconnaissance/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/conti-cert-mitre-bedroom2-733x489.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/conti-cert-mitre-bedroom2-733x489.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-02T08:00:52+00:00"
+    },
+    {
+      "id": "da7d25689e8ab736",
+      "title": "William McRoberts and Joseph Gardner Bring Serious Design Cred to Swop South Melbourne.",
+      "summary": "Forget what you think you know about second-hand shopping. Conceived in collaboration with designer William McRoberts and Joseph Gardner of Studio Gardner, Swop South Melbourne draws on New York warehouse energy and a furniture edit that reads like a design history lesson. | The article William McRoberts and Joseph Gardner Bring Serious Design Cred to Swop South Melbourne. appeared first on Yellowtrace . |",
+      "url": "https://www.yellowtrace.com.au/william-mcroberts-joseph-gardner-swop-south-melbourne-store-circular-fashion/",
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/20114339/Yellowtrace-Swop-South-Melbourne-William-McRoberts-and-Joseph-Gardner-of-Studio-Gardner-05_opt80.jpg",
+      "images": [
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/20114339/Yellowtrace-Swop-South-Melbourne-William-McRoberts-and-Joseph-Gardner-of-Studio-Gardner-05_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/20114350/Yellowtrace-Swop-South-Melbourne-William-McRoberts-and-Joseph-Gardner-of-Studio-Gardner-08_opt80-1536x2048.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/20114422/Yellowtrace-Swop-South-Melbourne-William-McRoberts-and-Joseph-Gardner-of-Studio-Gardner-14_opt80-1536x2048.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/20114411/Yellowtrace-Swop-South-Melbourne-William-McRoberts-and-Joseph-Gardner-of-Studio-Gardner-12_opt80-2048x1536.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/20114452/Yellowtrace-Swop-South-Melbourne-William-McRoberts-and-Joseph-Gardner-of-Studio-Gardner-20_opt80-1536x2048.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/20114437/Yellowtrace-Swop-South-Melbourne-William-McRoberts-and-Joseph-Gardner-of-Studio-Gardner-17_opt80-1536x2048.jpg"
+      ],
+      "source": "Yellowtrace",
+      "source_url": "https://www.yellowtrace.com.au",
+      "published": "2026-06-01T19:30:36+00:00"
+    },
+    {
+      "id": "6430c15ae7135ec5",
+      "title": "A Sculptural Micro-Volume Apartment in Paris by Studio Pauline Borgia",
+      "summary": "In Paris’ 5th arrondissement, architect Pauline Borgia has reimagined a 230-square-foot studio apartment on Rue de la Bûcherie for a pair of young Americans studying in Paris. Known for her sculptural approach to small spaces, Borgia transformed the one-room apartment into a series of distinct yet fluid areas: a kitchen, bathroom, office, library, bedroom, and […]",
+      "url": "https://www.remodelista.com/posts/studio-pauline-borgia-micro-volume-apartment-renovation-paris/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/studio-pauline-borgia-notre-dame-paris-6-733x1100.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/06/studio-pauline-borgia-notre-dame-paris-6-733x1100.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-01T08:00:13+00:00"
+    },
+    {
       "id": "ecab5050f45ca910",
       "title": "PPAA designs \"discreet yet powerful\" Mexico City hotel Lamartine",
       "summary": "A central skylight naturally illuminates the interiors of this 10-key boutique hotel in Mexico City, designed by local architecture studio PPAA. Lamartine occupies a narrow lot in the city's affluent Polanco neighbourhood, so PPAA had to get creative with the spatial constraints presented as part of the new-build project. \"From the outset, the main challenge The post PPAA designs \"discreet yet powerful\" Mexico City hotel Lamartine appeared first on Dezeen .",
@@ -1754,6 +2263,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-31T17:00:07+00:00"
+    },
+    {
+      "id": "52fa614b0e6ef7ae",
+      "title": "Grid Desk Organizer by Orbitkey",
+      "summary": "The Orbitkey Grid Desk Organizer is built around a simple premise: organisation should adapt to the user, not the other way around. Conceived as a modular system rather than a fixed arrangement, its movable dividers allow layouts to be continuously reconfigured, accommodating changing needs while ma",
+      "url": "https://minimalissimo.com/articles/grid-desk-organizer-by-orbitkey",
+      "image": "https://minimalissimo.com/api/media/file/website-45.jpg",
+      "images": [
+        "https://minimalissimo.com/api/media/file/website-45.jpg"
+      ],
+      "source": "Minimalissimo",
+      "source_url": "https://minimalissimo.com",
+      "published": "2026-05-31T10:00:00+00:00"
     },
     {
       "id": "eab29ab92e9ff8ea",
@@ -1782,7 +2304,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -1798,6 +2320,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-29T10:00:54+00:00"
+    },
+    {
+      "id": "65cf0c38f36479cb",
+      "title": "The Editors’ Cut: 9 Finds for a Portable Summer",
+      "summary": "Welcome to The Editors’ Cut, our monthly column dedicated to beautiful and useful finds for all over the house. In this installment: In summer, we’re big proponents of keeping a beach chair in the trunk and a swimsuit in our tote bags, just in case the moment presents itself. In that spirit, here are 9 […]",
+      "url": "https://www.remodelista.com/posts/portable-indoor-outdoor-summer-essentials/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/underwater-weaving-bike-basket-733x916.jpeg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/underwater-weaving-bike-basket-733x916.jpeg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-05-29T08:00:36+00:00"
     },
     {
       "id": "35964afdcd85547c",
@@ -1826,6 +2361,19 @@
       "published": "2026-05-29T08:00:11+00:00"
     },
     {
+      "id": "3330195808e3bd37",
+      "title": "The Art House in New Delhi is defined by \"intense level of customisation\"",
+      "summary": "Fluid forms and curved geometries define this art-filled residence in New Delhi, designed by architecture practice Spaces Architects Ka. The 9,000-square-foot (836-square-metre) house is located in the upscale residential neighbourhood of Ashok Vihar. Named The Art House, the four-bedroom family home was built for a client who desired \"something that no one has ever seen The post The Art House in New Delhi is defined by \"intense level of customisation\" appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/29/art-house-new-delhi-residence-intense-customisation/",
+      "image": "http://static.dezeen.com/uploads/2026/05/the-art-house-spaces-architects-ka-residence-delhi-india-interiors-sq_dezeen_2364_col_0-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/the-art-house-spaces-architects-ka-residence-delhi-india-interiors-sq_dezeen_2364_col_0-411x411.jpg"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-29T05:00:27+00:00"
+    },
+    {
       "id": "97bd2a8250c4e341",
       "title": "Eighteen weird, wonderful and well-made objects from NYCxDesign 2026",
       "summary": "From shows featuring dozens of nightlights to conceptual furniture and innovative student work, NYCxDesign 2026 was a dazzling mix. Dezeen US editor Ben Dreith and US reporter Ellen Eberhardt pick out objects that show the scope of the busy week. New York's year design week has wrapped up, and the tenor of the event was The post Eighteen weird, wonderful and well-made objects from NYCxDesign 2026 appeared first on Dezeen .",
@@ -1834,7 +2382,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -1893,6 +2441,19 @@
       "published": "2026-05-24T10:30:21+00:00"
     },
     {
+      "id": "fa95e78f26c9307f",
+      "title": "QuadroDesign sends Salone booth to Zambia to become public bathroom",
+      "summary": "The Salone del Mobile fair stand of Italian tapware brand QuadroDesign is on its way to Masala, Zambia, having been designed by Giacomo Moor to have a second life as a public bathroom. The stand will be transformed into a permanent piece of architecture, providing what QuadroDesign says will be the area's first public bathroom. The post QuadroDesign sends Salone booth to Zambia to become public bathroom appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/22/giacomo-moor-quadrodesign-salone-del-mobile-2026/",
+      "image": "http://static.dezeen.com/uploads/2026/05/giacomo-moor-quadrodesign-salone-del-mobile-2026-design_dezeen_1704_sq-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/giacomo-moor-quadrodesign-salone-del-mobile-2026-design_dezeen_1704_sq-411x411.jpg"
+      ],
+      "source": "Dezeen tag bathrooms",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-22T08:00:56+00:00"
+    },
+    {
       "id": "29e6e448f55a7134",
       "title": "Julio Torres makes design debut with \"coming to New York\" collection for Sabai",
       "summary": "Actor Julio Torres worked with US furniture company Sabai to create a collection of furniture informed by the act of moving to New York City, including a screen with a curtain motif pulled from JFK Terminal 4. The All Other Passports collection marks Torres' first foray into design, though the actor and director is known The post Julio Torres makes design debut with \"coming to New York\" collection for Sabai appeared first on Dezeen .",
@@ -1914,7 +2475,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -1930,6 +2491,19 @@
       "source": "DM tag furniture",
       "source_url": "https://design-milk.com",
       "published": "2026-05-20T13:02:02+00:00"
+    },
+    {
+      "id": "fe7b79fe22d4dc6b",
+      "title": "Fung+Bedford folds origami lighting from eight-metre-long sheet",
+      "summary": "Design studio Fung+Bedford has used its signature paper-folding technique to create a trio of twisted pendant lights, suspended in the nave of a historic church for Clerkenwell Design Week. Set in one of London's oldest churches, St Bartholomew the Great, the Resonance installation was designed by Ashley Bedford and Angela Fung to reference the space's The post Fung+Bedford folds origami lighting from eight-metre-long sheet appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/20/fung-and-bedford-resonance-origami-lighting/",
+      "image": "http://static.dezeen.com/uploads/2026/05/fung-and-bedford-resonance-lightingsq_dezeen_1704_ss_1-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/fung-and-bedford-resonance-lightingsq_dezeen_1704_ss_1-411x411.jpg"
+      ],
+      "source": "Dezeen tag lighting",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-20T09:00:11+00:00"
     },
     {
       "id": "94c4f9a2188d8bd6",
@@ -1984,6 +2558,32 @@
       "published": "2026-05-18T18:00:09+00:00"
     },
     {
+      "id": "fbec2223a408282b",
+      "title": "Natural Material Studio crafts lighting from leftover seaweed at Sticks n Sushi restaurant",
+      "summary": "Copenhagen-based Natural Material Studio has created speckled pendant lighting out of kelp waste, salvaged from miso soup that would otherwise be thrown away at Sticks n Sushi in Lyngby, Denmark. The lighting is made from layers of bespoke biotextiles, crafted using seaweed and spirulina algae leftover from dishes prepared in the kitchen at the Lyngby The post Natural Material Studio crafts lighting from leftover seaweed at Sticks n Sushi restaurant appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/18/natural-material-studio-lighting-leftover-seaweed-sticks-n-sushi-restaurant/",
+      "image": "http://static.dezeen.com/uploads/2026/05/stick-n-sushi-natural-material-studio-lighting-sqjpg-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/stick-n-sushi-natural-material-studio-lighting-sqjpg-411x411.jpg"
+      ],
+      "source": "Dezeen tag lighting",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-18T08:00:14+00:00"
+    },
+    {
+      "id": "b98d7b3c084f2857",
+      "title": "KWK promes’ yaw house follows the contours of poland’s mountain terrain",
+      "summary": "KWK promes embeds this grass-topped house into the polish mountains with a rotating geometry shaping circular interiors. The post KWK promes’ yaw house follows the contours of poland’s mountain terrain appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/kwk-promes-yaw-house-contours-poland-mountain-terrain/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/05/yaw-house-kwk-promes-poland-designboom-700-500x400-22b08q85r121.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/05/yaw-house-kwk-promes-poland-designboom-700-500x400-22b08q85r121.jpg"
+      ],
+      "source": "Design Boom interiors",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-05-15T20:00:21+00:00"
+    },
+    {
       "id": "d8e2d2e00d3f6a97",
       "title": "Ten products that make for design-forward bathrooms and kitchens",
       "summary": "Dezeen Showroom: perfume bottle-informed tapware and an extractor fan controlled using physical dials are among recent kitchen and bathroom products listed on Dezeen Showroom. Recently we've published a broad array of cooking appliances, kitchen units, sanitaryware and furnishings on our furniture section, which are all designed to enhance both the look and feel of kitchens The post Ten products that make for design-forward bathrooms and kitchens appeared first on Dezeen .",
@@ -2018,7 +2618,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -2044,7 +2644,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ihp612-larder-cabinet-inglis-hall-design_dezeen_2364_sq2-411x411.jpg"
       ],
-      "source": "Dezeen tag cabinets",
+      "source": "Dezeen tag storage",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T09:30:35+00:00"
     },
@@ -2075,6 +2675,19 @@
       "published": "2026-05-11T16:00:04+00:00"
     },
     {
+      "id": "20d68d47199e6a25",
+      "title": "Heirloom pendant light by Buoyant among latest products on Dezeen Showroom",
+      "summary": "Dezeen Showroom: a pendant light comprising hand-worked leather straps, glass and brass is among five new products featured on Dezeen Showroom. Heirloom pendant light by Josh Neretin for Buoyant Brass, leather and glass come together in this characterful pendant light by designer Josh Neretin for US-based brand Buoyant. Heirloom comprises an extruded cruciform-shaped cast glass The post Heirloom pendant light by Buoyant among latest products on Dezeen Showroom appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/11/heirloom-pendant-light-buoyant-lighting-furniture-beds-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/05/heirloom-pendant-buoyant-dezeen-showroom_dezeen_2364_col_1-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/heirloom-pendant-buoyant-dezeen-showroom_dezeen_2364_col_1-411x411.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-11T07:00:41+00:00"
+    },
+    {
       "id": "316810f7df3eb78b",
       "title": "Eight living spaces where statement sofas make a splash",
       "summary": "A vintage three-seater settee and a purple conversation pit feature in our latest lookbook of living rooms anchored by statement sofas. Designers are constantly innovating the humble sofa. As usual, last month's annual Milan design week platformed many of the latest seating designs, from IKEA revisiting inflatables to furniture by Moroso that looked like 3D The post Eight living spaces where statement sofas make a splash appeared first on Dezeen .",
@@ -2086,6 +2699,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-10T09:00:54+00:00"
+    },
+    {
+      "id": "ee95902cef62f181",
+      "title": "Heirloom pendant light by Buoyant",
+      "summary": "Dezeen Showroom: cast glass, metal and leather meet in this handcrafted pendant light created by American designer Josh Neretin for his company Buoyant. The Heirloom pendant centres on a sculptural, cross-shaped piece of clear glass that hangs suspended in leather straps slung under a square-edged metal rod. Light shines from the bottom of the rod The post Heirloom pendant light by Buoyant appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/08/heirloom-pendant-light-buoyant-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/05/heirloom-pendant-buoyant-dezeen-showroom_dezeen_2364_col_0-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/heirloom-pendant-buoyant-dezeen-showroom_dezeen_2364_col_0-411x411.jpg"
+      ],
+      "source": "Dezeen tag lighting",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-08T09:30:28+00:00"
     },
     {
       "id": "04385700b39a20e3",
@@ -2114,6 +2740,19 @@
       "published": "2026-05-06T15:00:55+00:00"
     },
     {
+      "id": "1cd70cd79a55fdf9",
+      "title": "Dezeen's favourite furniture and lighting from Milan design week 2026",
+      "summary": "Stackable drawers, anthropomorphic lamps and a pillowy PVC coffee table are among the standout products spotted by the Dezeen team last week during Milan's Salone del Mobile furniture fair and the city-wide design festival that surrounds it. Inflatable Table 001 by Jabez Bartlett chosen by Jane Englefield, design and interiors reporter \"Inflatable furniture created by The post Dezeen's favourite furniture and lighting from Milan design week 2026 appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/02/favourite-furniture-lighting-milan-design-week-2026/",
+      "image": "http://static.dezeen.com/uploads/2026/04/f-milan-design-week-independent-shows-c_dezeen_2364_col_0-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/04/f-milan-design-week-independent-shows-c_dezeen_2364_col_0-411x411.jpg"
+      ],
+      "source": "Dezeen tag lighting",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-02T09:00:23+00:00"
+    },
+    {
       "id": "fac79b9867963970",
       "title": "Ephemeral by Design: Carlo Ratti Associati x Mutti",
       "summary": "A temporary pavilion of 20,000 Muuti tomato cans transforms pantry staple into a participatory architecture—blending sensory storytelling with circular design as visitors dismantle the structure one can at a time.",
@@ -2125,6 +2764,45 @@
       "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-04-30T17:00:07+00:00"
+    },
+    {
+      "id": "615a9ee643a48fef",
+      "title": "Ten young designers and studios to watch from Salone Satellite 2026",
+      "summary": "Textiles composed like music and vessels made with the help of a sensitive robot feature in our round-up of the most exciting emerging designers and studios from Salone Satellite – Milan's annual showcase for under-35s. When the heaving halls of furniture fair Salone del Mobile get overwhelming, Salone Satellite provides a retreat, bursting with innovative The post Ten young designers and studios to watch from Salone Satellite 2026 appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/04/29/designers-to-watch-salone-satellite-2026/",
+      "image": "http://static.dezeen.com/uploads/2026/04/satellite_aya_kawabata-dezeen-2364_sq-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/04/satellite_aya_kawabata-dezeen-2364_sq-411x411.jpg"
+      ],
+      "source": "Dezeen tag lighting",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-04-29T09:00:41+00:00"
+    },
+    {
+      "id": "58867325fcf2586e",
+      "title": "Didi Ng Wing Yin adds \"humorous approach\" to furniture made from construction lumber",
+      "summary": "A pair of apple-sized fruit bowls were built into Helsinki designer Didi Ng Wing Yin's latest coffee table, which was on display at Spazio Rosanna Orlandi during Milan design week. The coffee table forms part of Ng's latest furniture and lighting collection, In Between Wood and Fire. Known for his experiments with timber, the designer The post Didi Ng Wing Yin adds \"humorous approach\" to furniture made from construction lumber appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/04/28/didi-ng-wing-yin-timber-furniture-milan-design-week/",
+      "image": "http://static.dezeen.com/uploads/2026/04/didi-ng-wing-yin-furniture-sq-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/04/didi-ng-wing-yin-furniture-sq-411x411.jpg"
+      ],
+      "source": "Dezeen tag lighting",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-04-28T08:00:39+00:00"
+    },
+    {
+      "id": "0d174645edd81c62",
+      "title": "6AM glass furniture and objects reignite abandoned Milanese pool house",
+      "summary": "Murano glass studio 6AM has installed its creations, including candy-like glass cubes made for a Bottega Veneta fashion show, in Milan's rationalist Piscina Guido Romano for the city's design week. The range of furniture and objects forms Over and Over and Over and Over, an exhibition titled to emphasise the importance of repetition in artisanal The post 6AM glass furniture and objects reignite abandoned Milanese pool house appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/04/22/6am-glass-furniture-objects-abandoned-pool-house-milan-design-week/",
+      "image": "http://static.dezeen.com/uploads/2026/04/6am-over-and-over-and-over-and-over-sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/04/6am-over-and-over-and-over-and-over-sq.jpg"
+      ],
+      "source": "Dezeen tag lighting",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-04-22T08:00:17+00:00"
     },
     {
       "id": "c51ad4658b40fb17",
@@ -2148,7 +2826,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/04/sq-usm-kasing-lung-wonderland-of-the-monsters_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag cabinets",
+      "source": "Dezeen tag storage",
       "source_url": "https://www.dezeen.com",
       "published": "2026-04-22T05:00:48+00:00"
     },
@@ -2177,6 +2855,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "65843b929e4ec3b5",
+      "title": "Ste Marie \"reimagines Chicago's corporate landscape\" at The Bell",
+      "summary": "Canadian studio Ste Marie has crafted interiors for amenity spaces within a renovated 1960s tower in Chicago, which echo the \"glamour and confidence of the mid-century office\". Recently overhauled by SCB and Onni Group to welcome new office tenants, the 32-storey building at 225 West Randolph Street in Chicago's Loop was originally constructed in 1966 The post Ste Marie \"reimagines Chicago's corporate landscape\" at The Bell appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/04/05/the-bell-office-tower-amenity-interiors-chicago-ste-marie/",
+      "image": "http://static.dezeen.com/uploads/2026/04/the-bell_ste-marie_dezeen_sq1-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/04/the-bell_ste-marie_dezeen_sq1-411x411.jpg"
+      ],
+      "source": "Dezeen tag offices",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-04-05T17:00:11+00:00"
     },
     {
       "id": "c01745515f2caf9c",

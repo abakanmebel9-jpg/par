@@ -174,6 +174,58 @@ SOURCES: list[dict[str, Any]] = [
 
     # ── Gardenista (sister site of Remodelista, outdoor furniture) ───────────
     {"name": "Gardenista",               "url": "https://www.gardenista.com/feed/"},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # EXPANDED SOURCES (2026-06) — hand-tested HTTP 200 + valid feed + photos.
+    # Added to broaden coverage of the abakanmebel.online product categories:
+    # kitchens, sliding wardrobes, living/bedroom sets, bathroom furniture,
+    # walk-in closets, office furniture. See worklog for test results.
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    # ── Extra Russian sources — interior / architecture projects (RU audience) ──
+    # Archi.ru projects feed returns ~30 interior/architecture items with inline
+    # images (vs the 4-item main feed). Same publisher, deeper content.
+    {"name": "Archi.ru Projects",        "url": "https://archi.ru/projects/rss.xml",                "scrape_gallery": True},
+    {"name": "Archi.ru News",            "url": "https://archi.ru/news/rss.xml"},
+
+    # ── Remodelista — sister site of Gardenista, home/kitchen/bath DESIGN ─────
+    {"name": "Remodelista",              "url": "https://www.remodelista.com/feed/",                "scrape_gallery": True},
+
+    # ── International home / kitchen / interior magazines ──────────────────────
+    # Country Living — Hearst; country interiors, kitchens, furniture (media:content)
+    {"name": "Country Living",           "url": "https://www.countryliving.com/rss/all.xml"},
+    # The Kitchn — kitchen-focused publication (tours/makeovers/cabinets); recipe
+    # noise is filtered out by the relevance classifier.
+    {"name": "The Kitchn",               "url": "https://www.thekitchn.com/main.rss",               "scrape_gallery": True},
+    # Yellowtrace — AU design blog, strong furniture/interior photography.
+    {"name": "Yellowtrace",              "url": "https://www.yellowtrace.com.au/feed/",             "scrape_gallery": True},
+
+    # ── Design Boom — topic-specific subsets (furniture/interior DESIGN only) ──
+    {"name": "Design Boom design",       "url": "https://www.designboom.com/design/feed/"},
+    {"name": "Design Boom interiors",    "url": "https://www.designboom.com/category/interiors/feed/"},
+
+    # ── Dezeen tag feeds — direct coverage of site product categories ──────────
+    # Bathrooms → «Мебель для ванной»; Lighting → kitchen/wardrobe/bath; Storage →
+    # cabinets/shelving/wardrobes; Bedrooms → «Гарнитуры»; Offices → «Офисная
+    # мебель»; Wardrobes → «Шкафы-купе / Гардеробные». All return media:content.
+    {"name": "Dezeen tag bathrooms",     "url": "https://www.dezeen.com/tag/bathrooms/feed/",       "scrape_gallery": True},
+    {"name": "Dezeen tag lighting",      "url": "https://www.dezeen.com/tag/lighting/feed/",        "scrape_gallery": True},
+    {"name": "Dezeen tag storage",       "url": "https://www.dezeen.com/tag/storage/feed/",         "scrape_gallery": True},
+    {"name": "Dezeen tag bedrooms",      "url": "https://www.dezeen.com/tag/bedrooms/feed/",        "scrape_gallery": True},
+    {"name": "Dezeen tag offices",       "url": "https://www.dezeen.com/tag/offices/feed/",         "scrape_gallery": True},
+    {"name": "Dezeen tag wardrobes",     "url": "https://www.dezeen.com/tag/wardrobes/feed/",       "scrape_gallery": True},
+
+    # ── Design Milk tag feeds — direct coverage of site product categories ─────
+    # bathroom → «Мебель для ванной»; bedroom/living room → «Гарнитуры»; office →
+    # «Офисная мебель»; wardrobe → «Шкафы-купе / Гардеробные»; lighting & storage
+    # → kitchen/wardrobe/bath fittings and cabinetry.
+    {"name": "DM tag bathroom",          "url": "https://design-milk.com/tag/bathroom/feed/",       "scrape_gallery": True},
+    {"name": "DM tag bedroom",           "url": "https://design-milk.com/tag/bedroom/feed/",        "scrape_gallery": True},
+    {"name": "DM tag living room",       "url": "https://design-milk.com/tag/living-room/feed/",   "scrape_gallery": True},
+    {"name": "DM tag office",            "url": "https://design-milk.com/tag/office/feed/",         "scrape_gallery": True},
+    {"name": "DM tag wardrobe",          "url": "https://design-milk.com/tag/wardrobe/feed/",       "scrape_gallery": True},
+    {"name": "DM tag lighting",          "url": "https://design-milk.com/tag/lighting/feed/",       "scrape_gallery": True},
+    {"name": "DM tag storage",           "url": "https://design-milk.com/tag/storage/feed/",        "scrape_gallery": True},
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -208,13 +260,36 @@ STRONG_KEYWORDS_EN: list[str] = [
     "cabinetmaker", "cabinet maker", "woodworker", "woodworking",
     "cabinet hardware", "cabinet knob", "cabinet pull",
     "interior design", "interiors",
+    # ── 2026-06 expansion — coverage for abakanmebel.online categories ──
+    # Bathroom furniture («Мебель для ванной»)
+    "bathroom", "bathrooms",  # site sells bathroom furniture; Dezeen/DM tag feeds
+    "bathroom cabinet", "bathroom cabinets", "bathroom furniture",
+    "bath vanity", "washstand", "washbasin cabinet",
+    "medicine cabinet", "mirror cabinet",
+    # Bedroom / living-room sets («Гарнитуры»)
+    "bedroom", "bedrooms", "bed frame", "headboard", "nightstand", "nightstands",
+    "bedside table", "wardrobe closet",
+    "living room", "media console", "tv unit", "entertainment center",
+    # Office furniture («Офисная мебель»)
+    "office furniture", "desk", "desks", "workstation", "workstations",
+    "filing cabinet", "bookcase desk", "executive desk",
+    # Lighting & storage (kitchen/wardrobe/bath fittings & cabinetry)
+    "pendant light", "pendant lights", "cabinet lighting", "under-cabinet",
+    "storage cabinet", "storage cabinets", "storage system",
+    "linen closet", "wardrobe system", "closet system",
+    # Walk-in closets («Гардеробные»)
+    "walk-in closet", "walk in closet", "dressing room",
+    # Sliding-door wardrobes («Шкафы-купе»)
+    "sliding wardrobe", "sliding-door wardrobe", "sliding closet",
 ]
 
 STRONG_KEYWORDS_RU: list[str] = [
     "кухн",          # кухня, кухни, кухонный, кухонь
+    "кухо",          # кухни/кухонь/кухонный — "кухн" misses "кухонь" (gen.pl.)
     "корпусн",       # корпусная, корпусного
     "шкаф",          # шкаф, шкафы, шкафчик
-    "гардероб",      # гардероб, гардеробная
+    "шкаф-купе", "шкафы-купе",  # «Шкафы-купе» (sliding wardrobes)
+    "гардероб",      # гардероб, гардеробная → «Гардеробные»
     "стеллаж",       # стеллаж
     "полк",          # полка, полки
     "мебел",         # мебель, мебельный
@@ -241,6 +316,26 @@ STRONG_KEYWORDS_RU: list[str] = [
     "мебельный щит",
     "встроенн",      # встроенная мебель
     "модульн",       # модульная мебель
+    # ── 2026-06 expansion — coverage for abakanmebel.online categories ──
+    # «Мебель для ванной» (bathroom furniture)
+    "мебель для ванной", "мебель в ванную",
+    "тумба под раковин", "тумба с раковин",
+    "зеркало с полк",  # mirror cabinet
+    # «Гарнитуры» (bedroom / living-room sets)
+    "спальн",        # спальня, спальный гарнитур
+    "гостин",        # гостиная, мебель для гостиной
+    "прихож",        # прихожая (hall furniture)
+    "кровать",       # кровать
+    "изголовь",      # headboard
+    "тумба прикроватн",  # nightstand
+    # «Офисная мебель» (office furniture)
+    "офисная мебель", "мебель для офиса",
+    "рабочее место", "компьютерный стол",
+    # «Гардеробные» (walk-in closets)
+    "гардеробная комнат", "система хранен",
+    # General storage / lighting
+    "системы хранения", "хранение вещей",
+    "подсветка", "освещение кухн",  # kitchen/wardrobe lighting
 ]
 
 # Loose patterns — used as secondary signal (need ≥2 distinct matches)
@@ -259,6 +354,15 @@ LOOSE_PATTERNS: list[re.Pattern] = [
     re.compile(r"\b(?:built-?in|fitted|modular)\s+furniture\b", re.I),
     re.compile(r"\b(?:woodworking|woodworker|cabinetmaker)\b", re.I),
     re.compile(r"\b(?:hinge|drawer\s+slide|soft-close|cabinet\s+hardware)\b", re.I),
+    # ── 2026-06 expansion — bathroom / bedroom / office / lighting / storage ──
+    re.compile(r"\b(?:bathroom|bath)\s+(?:vanity|cabinet|furniture|cabinets)\b", re.I),
+    re.compile(r"\b(?:medicine|mirror)\s+cabinet\b", re.I),
+    re.compile(r"\b(?:bedroom|bedrooms|nightstand|headboard|bed\s+frame)\b", re.I),
+    re.compile(r"\b(?:living\s+room|media\s+console|entertainment\s+center)\b", re.I),
+    re.compile(r"\b(?:office\s+furniture|workstation|filing\s+cabinet|executive\s+desk)\b", re.I),
+    re.compile(r"\b(?:walk-?in\s+closet|dressing\s+room|wardrobe\s+system|closet\s+system)\b", re.I),
+    re.compile(r"\b(?:pendant\s+light|cabinet\s+lighting|under-?cabinet)\b", re.I),
+    re.compile(r"\b(?:storage\s+cabinet|linen\s+closet|storage\s+system)\b", re.I),
     # Russian
     re.compile(r"кухн", re.I),
     re.compile(r"корпусн", re.I),
@@ -269,6 +373,12 @@ LOOSE_PATTERNS: list[re.Pattern] = [
     re.compile(r"фасад", re.I),
     re.compile(r"фурнитур", re.I),
     re.compile(r"дизайн\s+интерьер", re.I),
+    # ── Russian expansion ──
+    re.compile(r"шкаф-?купе", re.I),
+    re.compile(r"спальн|гостин|прихож", re.I),
+    re.compile(r"офисная\s+мебель|мебель\s+для\s+офиса|компьютерный\s+стол", re.I),
+    re.compile(r"мебель\s+для\s+ванной|тумба\s+(?:под\s+)?раковин", re.I),
+    re.compile(r"систем[ыа]\s+хранен|гардеробная\s+комнат", re.I),
 ]
 
 
@@ -328,11 +438,45 @@ BLOCKLIST: list[str] = [
     # industry press, NOT design): keep design articles, drop factory-news.
     "furniture factory fire", "factory closure", "layoff", "union vote",
     "AWI Chicago", "IWF Atlanta", "AWFS",  # trade-association event chatter
+    # ── 2026-06 expansion — broader forestry / wood-industry noise ──
+    # Sawmill / timber-harvest machinery & industry press:
+    "sawmill industry", "sawmill capacity", "sawmill expansion",
+    "timber frame", "timber frame home", "timber harvest permit",
+    "timber supply", "timber quota", "timber export", "timber import",
+    "lumber yard", "lumber distributor", "lumber tariff", "lumber duty",
+    "wood pellet plant", "biomass fuel", "biomass energy",
+    "pulp and paper", "paper mill", "cardboard mill",
+    "logging equipment", "harvester machine", "forwarder machine",
+    "reforestation program", "carbon credits forest",
+    # Wooden-furniture manufacturing industry press (factory/supply chain, not design):
+    "furniture manufacturer earnings", "furniture industry shipments",
+    "furniture market report", "furniture trade deficit",
+    "case goods imports", "upholstery fabric supplier",
+    "woodworking machinery", "edge bander", "panel saw", "CNC router",  # machinery not design
     # Russian — лесная промышленность / деревообработка как отрасль:
     "лесная промышленность", "лесной отрасли", "лесной промышленности",
     "лесозаготов", "лесопил", "лесхоз", "вырубка лес", "сплав леса",
     "древесные пеллеты", "целлюлозный комбинат", "бумажная фабрика",
     "лесной пожар", "тушение лес",
+    # ── Russian expansion — лесопромышленность / деревообработка (отрасль) ──
+    "лесопромышлен", "деревообрабатывающая промышленность",
+    "деревообрабатывающая отрасль", "лесопереработ",
+    "лесной экспорт", "лесной квот", "лесной аукцион",
+    "пиломатериал", "пилорама", "лесопилка",
+    "круглый лес", "деловая древесина", "баланс березовый",
+    "древесная пеллета", "древесная мука", "древесная щепа",
+    "ЦБК",  # целлюлозно-бумажный комбинат
+    "древесно-стружечная плита производство",  # ДСП production (industry)
+    "мебельная фабрика производство объём",  # furniture factory output stats
+    "лесной сертификат", "FSC сертификат",  # forest certification
+    # ── Recipe / food noise (slips in from The Kitchn and similar food-heavy feeds) ──
+    # The Kitchn is kitchen-focused but ~half recipes; drop pure-recipe titles so
+    # only kitchen DESIGN / cabinet / renovation content remains.
+    "recipe", "recipes", "ingredient", "ingredients",
+    "baking", "bake", "baked", "roast", "roasted", "grill", "grilled",
+    "salad dressing", "soup recipe", "pasta recipe", "chicken recipe",
+    "dessert", "cocktail", "smoothie", "marinade", "sauce recipe",
+    "calories", "nutrition", "dietitian",
 ]
 
 
