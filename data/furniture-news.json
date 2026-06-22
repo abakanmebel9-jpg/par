@@ -1,21 +1,20 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-22T21:11:59.540438+00:00",
-  "generated_at_human": "2026-06-22 21:11 UTC",
+  "generated_at": "2026-06-22T23:41:03.771211+00:00",
+  "generated_at_human": "2026-06-22 23:41 UTC",
   "total_items": 198,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
-    "Archi.ru",
     "Archi.ru Projects",
+    "Country Living",
     "DM tag furniture",
     "Decoist",
     "Design Boom",
     "Design Boom design",
     "Design Boom interiors",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Art",
     "Design Milk Interiors",
     "Dezeen",
@@ -44,8 +43,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 38,
-  "multi_photo_items": 46,
+  "sources_count": 37,
+  "multi_photo_items": 48,
   "items": [
     {
       "id": "122b518125836155",
@@ -55,10 +54,10 @@
       "image": "https://i.archi.ru/i/150/492263.jpg",
       "images": [
         "https://i.archi.ru/i/150/492263.jpg",
-        "https://i.archi.ru/i/150_150/310555.jpg?r=73120",
+        "https://i.archi.ru/i/150_150/310555.jpg?r=31206",
         "https://i.archi.ru/i/1262/492263.jpg",
-        "https://i.archi.ru/news/quadratic/476404.jpg?r=41736",
-        "https://i.archi.ru/news/quadratic/476649.jpg?r=18942",
+        "https://i.archi.ru/news/quadratic/476404.jpg?r=61425",
+        "https://i.archi.ru/news/quadratic/476649.jpg?r=7387",
         "https://i.archi.ru/news/main_images/280x280/476429.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -73,7 +72,7 @@
       "image": "https://i.archi.ru/i/150/505751.jpg",
       "images": [
         "https://i.archi.ru/i/150/505751.jpg",
-        "https://i.archi.ru/i/150_150/305304.jpg?r=50918",
+        "https://i.archi.ru/i/150_150/305304.jpg?r=58636",
         "https://i.archi.ru/i/1262/505751.jpg",
         "https://i.archi.ru/i/756_450/505717.jpg",
         "https://i.archi.ru/i/601_450/505716.jpg",
@@ -92,7 +91,7 @@
       "images": [
         "https://i.archi.ru/i/150/504438.jpg",
         "https://i.archi.ru/i/1262/504438.jpg",
-        "https://i.archi.ru/news/quadratic/476128.jpg?r=40664",
+        "https://i.archi.ru/news/quadratic/476128.jpg?r=11078",
         "https://i.archi.ru/i/752_283/504424.jpg",
         "https://i.archi.ru/i/752_286/504428.jpg",
         "https://i.archi.ru/i/752_615/504438.jpg"
@@ -102,17 +101,17 @@
       "published": ""
     },
     {
-      "id": "2ee642f02b2939d8",
-      "title": "Синтез дизайна и технологий",
-      "summary": "Во главу угла современных офисов ставятся удобство и легкость коммуникации между сотрудниками, что, по мнению ученых, дает синергетический эффект. Примером может служить интерьер Центра новых технологий «Норникеля» от бюро «АРХИСТРА», уже получивший Премию «Офисы Нового Поколения» / Best Office Awards 2026 в номинации «Бренд и имидж».",
-      "url": "https://archi.ru/russia/102301/sintez-dizaina-i-tekhnologii",
-      "image": "https://i.archi.ru/i/150/500250.jpg",
+      "id": "571fb77fb9d05013",
+      "title": "This Haphazard Kitchen Went from Being Almost Functional to Bright and Airy",
+      "summary": "This kitchen went from drab to dreamy. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/before-and-after-a-lackluster-kitchen-gets-a-bright-and-breezy-transformation-for-6000-ba-37553936?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-06/b%2Ba:%20karlin%20reed%20kitchen%20/kitchenn_before_2_tagged",
       "images": [
-        "https://i.archi.ru/i/150/500250.jpg"
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-06/b%2Ba:%20karlin%20reed%20kitchen%20/kitchenn_before_2_tagged"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-22T22:00:00+00:00"
     },
     {
       "id": "fc0b2ac4e43d43fe",
@@ -835,6 +834,19 @@
       "published": "2026-06-21T15:15:00+00:00"
     },
     {
+      "id": "264d18ae3b296c95",
+      "title": "Designers Say This Simple Lighting Swap Makes Small Bedrooms Feel Much Bigger",
+      "summary": "Designers swear by this trick when every inch counts.",
+      "url": "https://www.countryliving.com/home-design/decorating-ideas/a71538506/small-bedroom-lighting-trick/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/blue-and-white-bedroom-1588273628.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/blue-and-white-bedroom-1588273628.jpg"
+      ],
+      "source": "Country Living",
+      "source_url": "https://www.countryliving.com",
+      "published": "2026-06-21T15:00:00+00:00"
+    },
+    {
       "id": "969cbd1e130139fb",
       "title": "Kris Jenner's Sumptuous Outdoor Furniture Reinvents The Gray Patio – It Proves The Stony Shade is Anything But Dull",
       "summary": "Gray can still be interesting in 2026, and Kris demonstrates exactly how to use it in a stylish and inviting outdoor space – her porch is so cozy",
@@ -1012,19 +1024,6 @@
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
       "published": "2026-06-21T05:00:00+00:00"
-    },
-    {
-      "id": "043357820c138295",
-      "title": "Kendall Jenner’s Living Room Pairs 18th-Century Wooden Antiques with Minimalist Decor to Perfect the All-White Aesthetic",
-      "summary": "Designed by Clements Design, Kendall's living room proves that a minimalist white palette thrives when layered with rich materials",
-      "url": "https://www.homesandgardens.com/celebrity-homes/kendall-jenner-living-room-antique-art",
-      "image": "https://cdn.mos.cms.futurecdn.net/Eb9fRE2FnNNtspgp9U6x4B-1280-80.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/Eb9fRE2FnNNtspgp9U6x4B-1280-80.jpg"
-      ],
-      "source": "Homes & Gardens",
-      "source_url": "https://www.homesandgardens.com",
-      "published": "2026-06-21T02:00:00+00:00"
     },
     {
       "id": "646e0f59e7dc4050",
@@ -1347,7 +1346,12 @@
       "url": "https://www.veranda.com/decorating-ideas/advice-from-designers/a71631684/fake-gustavian-furniture-antiques/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg"
+        "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/f461cc53-bdbf-4e52-a4ec-d4b0e6e8890b.jpg?crop=1xw:0.853xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/the-container-store-elfa-horderly-house-beautiful-workroom-1572907091.png?crop=1xw:0.84375xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/ver040116carter03-1612914995.jpg?crop=0.75xw:1xh;0.178xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/35dbc859-aee3-42e6-a95c-425f48047a09.jpg?crop=1xw:0.773xh;0xw,0.2xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/meg-braff-locust-valley-living-room-1605037055.jpg?crop=0.752xw:1.00xh;0.125xw,0&resize=360:*"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1495,7 +1499,12 @@
       "url": "https://www.veranda.com/decorating-ideas/advice-from-designers/a71165031/trendy-bathroom-features-designers-want-to-leave-behind-2027/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/3ec0af4b-a9dc-436f-b15c-d5f1532962d0.jpeg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3ec0af4b-a9dc-436f-b15c-d5f1532962d0.jpeg"
+        "https://hips.hearstapps.com/hmg-prod/images/3ec0af4b-a9dc-436f-b15c-d5f1532962d0.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/d881ad14-5e49-459e-a229-4bb37f454e55.jpeg?crop=1xw:1xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/7e7dea4f-b0ac-4de0-9399-3bfc731ac1b5.jpeg?crop=1xw:1xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/d8fb41ff-0c4a-4152-b93a-5f8008e6bc1a.jpeg?crop=1xw:1xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/5e235d14-678a-4d86-9e34-5273ef9f2e50.jpeg?crop=0.936xw:0.936xh;0xw",
+        "https://hips.hearstapps.com/hmg-prod/images/0ca588d8-fd4b-4365-887c-143b67891a0b.jpeg?crop=1xw:1xh;0xw"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1510,7 +1519,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03-810x540.jpeg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
