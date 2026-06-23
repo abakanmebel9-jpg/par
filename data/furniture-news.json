@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-23T21:48:43.857993+00:00",
-  "generated_at_human": "2026-06-23 21:48 UTC",
-  "total_items": 199,
+  "generated_at": "2026-06-23T23:18:11.248563+00:00",
+  "generated_at_human": "2026-06-23 23:18 UTC",
+  "total_items": 201,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -15,6 +15,7 @@
     "Design Boom design",
     "Design Boom interiors",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Art",
     "Design Milk Interiors",
     "Dezeen",
@@ -44,8 +45,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 38,
-  "multi_photo_items": 44,
+  "sources_count": 39,
+  "multi_photo_items": 45,
   "items": [
     {
       "id": "122b518125836155",
@@ -55,10 +56,10 @@
       "image": "https://i.archi.ru/i/150/492263.jpg",
       "images": [
         "https://i.archi.ru/i/150/492263.jpg",
-        "https://i.archi.ru/i/150_150/310555.jpg?r=9242",
+        "https://i.archi.ru/i/150_150/310555.jpg?r=29941",
         "https://i.archi.ru/i/1262/492263.jpg",
-        "https://i.archi.ru/news/quadratic/476404.jpg?r=15527",
-        "https://i.archi.ru/news/quadratic/476649.jpg?r=67720",
+        "https://i.archi.ru/news/quadratic/476404.jpg?r=24099",
+        "https://i.archi.ru/news/quadratic/476649.jpg?r=45203",
         "https://i.archi.ru/news/main_images/280x280/476429.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -73,7 +74,7 @@
       "image": "https://i.archi.ru/i/150/505751.jpg",
       "images": [
         "https://i.archi.ru/i/150/505751.jpg",
-        "https://i.archi.ru/i/150_150/305304.jpg?r=58770",
+        "https://i.archi.ru/i/150_150/305304.jpg?r=61352",
         "https://i.archi.ru/i/1262/505751.jpg",
         "https://i.archi.ru/i/756_450/505717.jpg",
         "https://i.archi.ru/i/601_450/505716.jpg",
@@ -92,7 +93,7 @@
       "images": [
         "https://i.archi.ru/i/150/504438.jpg",
         "https://i.archi.ru/i/1262/504438.jpg",
-        "https://i.archi.ru/news/quadratic/476128.jpg?r=7033",
+        "https://i.archi.ru/news/quadratic/476128.jpg?r=12709",
         "https://i.archi.ru/i/752_283/504424.jpg",
         "https://i.archi.ru/i/752_286/504428.jpg",
         "https://i.archi.ru/i/752_615/504438.jpg"
@@ -100,6 +101,32 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "b53ef09487322f34",
+      "title": "This 38-Square-Metre Cabin in East Sussex Is Wrapped in Charred Timber and Built Entirely Around Yoga",
+      "summary": "This 38-Square-Metre Cabin in East Sussex Is Wrapped in Charred Timber and Built Entirely Around Yoga Some buildings are designed to be seen. Yogi’s Cabin, the latest project from UK studio Built Works, is designed to be felt. Nestled within the...",
+      "url": "https://www.yankodesign.com/2026/06/23/this-38-square-metre-cabin-in-east-sussex-is-wrapped-in-charred-timber-and-built-entirely-around-yoga/?utm_source=rss&utm_medium=rss&utm_campaign=this-38-square-metre-cabin-in-east-sussex-is-wrapped-in-charred-timber-and-built-entirely-around-yoga",
+      "image": "https://www.yankodesign.com/images/design_news/2026/06/yogis-cabin/yogis_cabin_yanko_design_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/06/yogis-cabin/yogis_cabin_yanko_design_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-06-23T22:30:06+00:00"
+    },
+    {
+      "id": "0915e870bd3e008d",
+      "title": "She Added Vintage Wicker Baskets to Her Family Bathroom — So Much Storage!",
+      "summary": "Mary Zenker, founder of Shaker Home Studio, put off renovating her family bathroom for as long as possible. But plumbing issues forced the family to say goodbye to the butter yellow tiles and hello to a calming retreat. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/calming-blue-antique-bathroom-ba-37559947?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-06/mary-z-bathroom/mary-z-bathroom-before-lead",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-06/mary-z-bathroom/mary-z-bathroom-before-lead"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-23T22:00:00+00:00"
     },
     {
       "id": "c7b5661f9c7982f9",
@@ -134,7 +161,12 @@
       "url": "https://www.housebeautiful.com/shopping/best-stores/a71681879/booktok-reading-chair-amazon-prime-day-2026/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/39a5d70f-793b-4b7a-8a62-88d171d2e42d.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/39a5d70f-793b-4b7a-8a62-88d171d2e42d.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/39a5d70f-793b-4b7a-8a62-88d171d2e42d.jpg",
+        "https://hips.hearstapps.com/vidthumb/images/screen-shot-2020-02-18-at-2-14-44-pm-1582053292.png?crop=1xw:0.8757405213270142xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/819956bb-26e7-40fc-9038-c9d7b4aceaf7.jpg?crop=0.5xw:1xh;0xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/a1vat81mpml-ac-sl1500-686e8c500633c.jpg?crop=1.00xw:1.00xh;0,0&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/amazon-furniture-689e4f75802e8.jpg?crop=0.5xw:1xh;0.251xw,0xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/2018-0910-hhm-21788-68506de510003.jpg?crop=1.00xw:0.812xh;0,0.188xh&resize=360:*"
       ],
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
@@ -1183,19 +1215,6 @@
       "published": "2026-06-22T06:00:00+00:00"
     },
     {
-      "id": "2848b772451f73d2",
-      "title": "Designers Say That Once-Dated ‘Millennial’ Mint Green Is Back for 2026 – 16 Pieces That Changed My Mind About the Trend",
-      "summary": "I haven’t touched mint green in over a decade, but Chanel plus a new crop of interiors collections have me styling it again",
-      "url": "https://www.homesandgardens.com/collection/decor/mint-green-color-trend",
-      "image": "https://cdn.mos.cms.futurecdn.net/RwSHWH3Riw4TnQaE3wAFwQ-1280-80.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/RwSHWH3Riw4TnQaE3wAFwQ-1280-80.jpg"
-      ],
-      "source": "Homes & Gardens",
-      "source_url": "https://www.homesandgardens.com",
-      "published": "2026-06-22T05:00:00+00:00"
-    },
-    {
       "id": "977319f946df401c",
       "title": "This Small Space Sofa Bed Gives Grown-Up Chic When It's a Chair, but Wait Until You See It Unfurled as a Double Bed",
       "summary": "This stylish clic-clac sofa bed proves that you don't have to compromise on style just because you have limited square footage",
@@ -1206,6 +1225,19 @@
       ],
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
+      "published": "2026-06-22T05:00:00+00:00"
+    },
+    {
+      "id": "2848b772451f73d2",
+      "title": "Designers Say That Once-Dated ‘Millennial’ Mint Green Is Back for 2026 – 16 Pieces That Changed My Mind About the Trend",
+      "summary": "I haven’t touched mint green in over a decade, but Chanel plus a new crop of interiors collections have me styling it again",
+      "url": "https://www.homesandgardens.com/collection/decor/mint-green-color-trend",
+      "image": "https://cdn.mos.cms.futurecdn.net/RwSHWH3Riw4TnQaE3wAFwQ-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/RwSHWH3Riw4TnQaE3wAFwQ-1280-80.jpg"
+      ],
+      "source": "Homes & Gardens",
+      "source_url": "https://www.homesandgardens.com",
       "published": "2026-06-22T05:00:00+00:00"
     },
     {
@@ -1282,7 +1314,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/big-sur-field-architecture-bathroom-411x411.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-21T09:00:33+00:00"
     },
@@ -1373,7 +1405,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/cc-residence_plan-plan_dezeen_sq2ex-411x411.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-20T17:00:04+00:00"
     },
@@ -1570,7 +1602,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03-810x540.jpeg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -1856,7 +1888,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2289,7 +2321,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2354,7 +2386,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -2447,7 +2479,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -2590,7 +2622,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9-411x411.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
