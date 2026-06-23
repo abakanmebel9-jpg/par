@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-23T12:14:07.410147+00:00",
-  "generated_at_human": "2026-06-23 12:14 UTC",
-  "total_items": 183,
+  "generated_at": "2026-06-23T16:05:52.990698+00:00",
+  "generated_at_human": "2026-06-23 16:05 UTC",
+  "total_items": 202,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -34,6 +34,7 @@
     "Ideal Home",
     "Livingetc",
     "Minimalissimo",
+    "Remodelista",
     "Sunset",
     "The Kitchn",
     "Trendir",
@@ -44,8 +45,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 38,
-  "multi_photo_items": 46,
+  "sources_count": 39,
+  "multi_photo_items": 45,
   "items": [
     {
       "id": "122b518125836155",
@@ -55,10 +56,10 @@
       "image": "https://i.archi.ru/i/150/492263.jpg",
       "images": [
         "https://i.archi.ru/i/150/492263.jpg",
-        "https://i.archi.ru/i/150_150/310555.jpg?r=63998",
+        "https://i.archi.ru/i/150_150/310555.jpg?r=43639",
         "https://i.archi.ru/i/1262/492263.jpg",
-        "https://i.archi.ru/news/quadratic/476404.jpg?r=71415",
-        "https://i.archi.ru/news/quadratic/476649.jpg?r=94639",
+        "https://i.archi.ru/news/quadratic/476404.jpg?r=85530",
+        "https://i.archi.ru/news/quadratic/476649.jpg?r=50364",
         "https://i.archi.ru/news/main_images/280x280/476429.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -73,7 +74,7 @@
       "image": "https://i.archi.ru/i/150/505751.jpg",
       "images": [
         "https://i.archi.ru/i/150/505751.jpg",
-        "https://i.archi.ru/i/150_150/305304.jpg?r=16986",
+        "https://i.archi.ru/i/150_150/305304.jpg?r=84861",
         "https://i.archi.ru/i/1262/505751.jpg",
         "https://i.archi.ru/i/756_450/505717.jpg",
         "https://i.archi.ru/i/601_450/505716.jpg",
@@ -92,7 +93,7 @@
       "images": [
         "https://i.archi.ru/i/150/504438.jpg",
         "https://i.archi.ru/i/1262/504438.jpg",
-        "https://i.archi.ru/news/quadratic/476128.jpg?r=24942",
+        "https://i.archi.ru/news/quadratic/476128.jpg?r=58752",
         "https://i.archi.ru/i/752_283/504424.jpg",
         "https://i.archi.ru/i/752_286/504428.jpg",
         "https://i.archi.ru/i/752_615/504438.jpg"
@@ -102,6 +103,151 @@
       "published": ""
     },
     {
+      "id": "5571795d93a07ec4",
+      "title": "6 Easy Ways to Keep Rabbits Away from Your Plants and Flowers",
+      "summary": "Don’t let them turn your yard into an all-you-can-eat buffet.",
+      "url": "https://www.housebeautiful.com/lifestyle/gardening/a71630662/how-to-keep-rabbits-away-from-plants-flowers/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1367692156-6491bab335af3.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/gettyimages-1367692156-6491bab335af3.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/347981a3-aa6b-482f-8834-be7838a3f5b1.jpeg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/0d6224d6-74b7-44fe-af8f-b9f750a5283e.jpeg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/1400fb22-4f25-4450-b34f-dea68129be69.jpeg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/4d675741-c6cb-4f83-bb78-7bdc62c8d75f.jpeg?crop=1xw:1xh;center",
+        "https://hips.hearstapps.com/hmg-prod/images/7e899f23-fa10-4b05-bdfc-4ea2af77dd9c.jpeg?crop=1xw:1xh;center"
+      ],
+      "source": "House Beautiful",
+      "source_url": "https://www.housebeautiful.com",
+      "published": "2026-06-23T15:30:00+00:00"
+    },
+    {
+      "id": "67e1119bc8f446d5",
+      "title": "The Prettiest Prime Day Furniture Deals for Every Room in the House",
+      "summary": "Snag hundreds off bed frames, accent seating, storage furniture, and so much more.",
+      "url": "https://www.countryliving.com/shopping/deals-sales/a71559338/amazon-prime-day-furniture-deals/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/248ac9cd-cde7-47e0-9ff7-1f1072110f38.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/248ac9cd-cde7-47e0-9ff7-1f1072110f38.jpg"
+      ],
+      "source": "Country Living",
+      "source_url": "https://www.countryliving.com",
+      "published": "2026-06-23T15:00:00+00:00"
+    },
+    {
+      "id": "3e04d1c486c14940",
+      "title": "This National Park Is the Only Place in the World You Can See This Tiny Wild Fox",
+      "summary": "A short boat ride from the California coast leads to one of America’s most secluded national parks—and the only place on earth where you can see the tiny Channel Island fox in the wild.",
+      "url": "https://www.countryliving.com/life/travel/a71495994/channel-islands-national-park-fox/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2d2a7608-f97e-4689-bdf8-74d264dd3376.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2d2a7608-f97e-4689-bdf8-74d264dd3376.jpg"
+      ],
+      "source": "Country Living",
+      "source_url": "https://www.countryliving.com",
+      "published": "2026-06-23T15:00:00+00:00"
+    },
+    {
+      "id": "12e06e55358e3874",
+      "title": "Air conditioning doesn't have to be an eye-sore — experts reveal the tricks to achieve a more stylish finish, so it doesn't ruin your interiors",
+      "summary": "Do you have to sacrifice style in the name of comfort this summer? Not necessarily",
+      "url": "https://www.idealhome.co.uk/renovation/heating-and-cooling/does-air-conditioning-have-to-be-an-eyesore",
+      "image": "https://cdn.mos.cms.futurecdn.net/iS4tdnbKH9reb8xtaruEVg-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/iS4tdnbKH9reb8xtaruEVg-1280-80.jpg",
+        "https://images.fie.futurecdn.net/6whjhaqxdlwlmfmq-17764312820964-250-80.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/KWpPtytZGT3E55nCJMhztk-200-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/nrpK5RDp2TJg3ptfKaDUVg.jpg",
+        "https://cdn.mos.cms.futurecdn.net/nrpK5RDp2TJg3ptfKaDUVg-1920-80.jpg",
+        "https://cdn.mos.cms.futurecdn.net/nrpK5RDp2TJg3ptfKaDUVg-1600-80.jpg"
+      ],
+      "source": "Ideal Home",
+      "source_url": "https://www.idealhome.co.uk",
+      "published": "2026-06-23T14:00:00+00:00"
+    },
+    {
+      "id": "2e2d744f4c48995b",
+      "title": "This Ceramic Mixing Bowl Set Looks Like It Came Straight from the Pioneer Woman’s Kitchen (and It’s on Sale!)",
+      "summary": "It looks like the Pioneer Woman designed it. READ MORE...",
+      "url": "https://www.thekitchn.com/dowan-ceramic-mixing-bowl-set-amazon-prime-day-deal-2026-23787862?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-June/katie-f/tours-los-angeles-katie-f-40",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-June/katie-f/tours-los-angeles-katie-f-40"
+      ],
+      "source": "The Kitchn",
+      "source_url": "https://www.thekitchn.com",
+      "published": "2026-06-23T14:00:00+00:00"
+    },
+    {
+      "id": "fbc244066717c6fa",
+      "title": "One Wire Rack Handled the Entire Pantry Until Every Wall Started Working",
+      "summary": "Want a pantry that stores more without filling the floor with shelving units? In many homes, storage problems come from how the space is organized rather than how much space is available. Freestanding racks concentrate everything in one place, corners sit unused, and large appliances compete with food storage for the same shelves. This project,... The post One Wire Rack Handled the Entire Pantry Until Every Wall Started Working appeared first on Homedit .",
+      "url": "https://www.homedit.com/one-wire-rack-handled-the-entire-pantry-until-every-wall-started-working/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/One-Wire-Rack-Handled-the-Entire-Pantry-Until-Every-Wall-Started-Working.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/One-Wire-Rack-Handled-the-Entire-Pantry-Until-Every-Wall-Started-Working.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Finished-Pantry-Combined-Open-Shelving-Pull-Out-Storage-and-Appliance-Space-800x1066.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Now-there-is-a-pantry-with-lots-of-spaces-800x1066.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Lower-Shelves-Added-Dedicated-Storage-Zones-800x1066.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/First-Wraparound-Shelf-Tested-the-New-Layout-800x1066.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Pantry-Supplies-Took-Over-the-Kitchen-During-Construction-800x1066.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-06-23T13:59:55+00:00"
+    },
+    {
+      "id": "660d181cc3f2fa0f",
+      "title": "I'm Watching Patio Furniture Prices During Prime Day—These Are The Best Deals So Far",
+      "summary": "Save big on seating and dining sets, umbrellas, and more.",
+      "url": "https://www.housebeautiful.com/shopping/best-stores/a71589919/amazon-prime-day-patio-furniture-deals-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/18ebdfdc-3857-4efd-9ba5-e159f68c8a85.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/18ebdfdc-3857-4efd-9ba5-e159f68c8a85.jpg"
+      ],
+      "source": "House Beautiful",
+      "source_url": "https://www.housebeautiful.com",
+      "published": "2026-06-23T13:59:00+00:00"
+    },
+    {
+      "id": "6af5944b67fa52c4",
+      "title": "8 No-Drill IKEA Bathroom Storage Gems for Under $15",
+      "summary": "Your landlord will thank you. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/ikea-no-drill-bathroom-storage-37559860?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/june/katy-m/ours-newyork-katy-m-26",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/june/katy-m/ours-newyork-katy-m-26"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-23T13:15:00+00:00"
+    },
+    {
+      "id": "556d54e69cd2f068",
+      "title": "Bosque seating by Lawson Fenning",
+      "summary": "Dezeen Showroom: US studio Lawson Fenning looked to Japan's 1960s Metabolism design movement when designing this seating range, which features a low, grounded sofa and chairs. \"Bosque started with this idea of furniture as built form – pieces that feel grounded, almost architectural, but still really liveable,\" said Lawson Fenning co-founder and chief design officer The post Bosque seating by Lawson Fenning appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/23/bosque-seating-lawson-fenning-design-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/06/bosque-seating-lawson-fennig-design_dezeen_2364_sq-411x411.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/bosque-seating-lawson-fennig-design_dezeen_2364_sq-411x411.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-23T13:00:57+00:00"
+    },
+    {
+      "id": "b64db88346703b5a",
+      "title": "I Had No Towel Storage in My Tiny Bathroom Until I Found This $22 Solution",
+      "summary": "It has a clever bonus feature! READ MORE...",
+      "url": "https://www.apartmenttherapy.com/liuoud-towel-rack-review-amazon-prime-day-deal-2026-37560088?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2020-02/Alexandra%20Gater/alex7",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2020-02/Alexandra%20Gater/alex7"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-23T13:00:00+00:00"
+    },
+    {
       "id": "39a63a50f1933028",
       "title": "Furniture Designers Keep Turning Everyday Objects Into Statement Pieces",
       "summary": "Furniture design does not always begin with lumber, upholstery, or cabinet parts. Bicycles, musical instruments, industrial equipment, shipping crates, farm wagons, and vintage luggage continue appearing in collections that blur the line between furniture, art, and salvage. Each piece starts with an object designed for a completely different purpose. Instead of hiding that origin, designers... The post Furniture Designers Keep Turning Everyday Objects Into Statement Pieces appeared first on Homedit .",
@@ -109,15 +255,28 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Furniture-Designers-Keep-Turning-Everyday-Objects-Into-Statement-Pieces.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Furniture-Designers-Keep-Turning-Everyday-Objects-Into-Statement-Pieces.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Living-Rooms-That-Feel-Comfortable-Keep-Using-These-Layout-Ideas-1152x1536.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Machine-Wheel-Became-a-Pedestal-Table-768x1152.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Stage-Spotlights-Became-Floor-Lamps-768x1152.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Shipping-Crates-Became-Storage-Furniture-768x1152.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Ships-Porthole-Became-a-Side-Table-768x1152.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Ships-Porthole-Became-a-Side-Table-768x1152.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Vintage-Suitcase-Became-a-Console-768x1152.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-23T12:10:33+00:00"
+    },
+    {
+      "id": "3b652138a42fccee",
+      "title": "His Dark ’90s Kitchen Got a Fresh New Look Thanks to One Paint Color",
+      "summary": "Here's proof that paint can change the whole vibe of a kitchen. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/green-white-painted-kitchen-geometric-tile-backsplash-redo-ba-37553945?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-08/b%2Ba%20mike%20groner%20kitchen/mike_g_kitchen_before_1_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-08/b%2Ba%20mike%20groner%20kitchen/mike_g_kitchen_before_1_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-23T12:00:00+00:00"
     },
     {
       "id": "affaf05b010db1f8",
@@ -199,11 +358,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/This-IKEA-Sofa-Tray-Ended-Up-Looking-Like-a-Designer-Side-Table.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/06/This-IKEA-Sofa-Tray-Ended-Up-Looking-Like-a-Designer-Side-Table.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Narrow-Guest-Bathroom-Looked-Stuck-in-the-1970s-Before-One-Remodel-Changed-Everything-1152x2048.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Living-Rooms-That-Feel-Comfortable-Keep-Using-These-Layout-Ideas-1152x1536.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Before-and-after-IKEA-hack-fluted-side-table-1024x917.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/SNUDDA-Lazy-Susan-Became-the-Top-1024x911.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Bamboo-Wrapped-Around-the-Planter-1024x910.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Bamboo-Wrapped-Around-the-Planter-1024x910.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Single-Wire-Rack-Handled-the-Entire-Pantry-800x1066.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Furniture-Designers-Keep-Turning-Everyday-Objects-Into-Statement-Pieces-in-2026-1024x683.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -254,18 +413,26 @@
       "published": "2026-06-23T10:15:50+00:00"
     },
     {
+      "id": "ee229fe2913baaef",
+      "title": "Our Curated Abode: A Hardware to Housewares DIY Store in Kent, England",
+      "summary": "If only all towns had a version of Emma Jane Palin’s Our Curated Abode. Trained in graphic design and illustration, Emma is an all-around creative type: she’s worked in digital marketing for brands like Apple and the London Design Festival, blogged about interiors and life in a rental, and has become a stylist and interior […]",
+      "url": "https://www.remodelista.com/posts/our-curated-abode-diy-store-emma-jane-palin-kent-england/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/emma-jane-palin-our-curated-abode-1b-1-733x978.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/emma-jane-palin-our-curated-abode-1b-1-733x978.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-23T10:00:25+00:00"
+    },
+    {
       "id": "98a63a445398383e",
       "title": "They Replaced the Maple Cabinets and the Kitchen Stopped Looking Builder Grade",
       "summary": "Maple cabinets, granite countertops, tile floors, and black appliances had defined this kitchen since the early 2000s. Nothing about the layout was broken, but after years of daily use, the room started feeling dated compared to newer custom kitchens. Rather than moving walls or expanding the footprint, homeowner u/MrsStink chose a full gut renovation that... The post They Replaced the Maple Cabinets and the Kitchen Stopped Looking Builder Grade appeared first on Homedit .",
       "url": "https://www.homedit.com/they-replaced-the-maple-cabinets-and-the-kitchen-stopped-looking-builder-grade/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Dark-Walnut-Cabinets-Replaced-the-Maple-Kitchen-and-Changed-the-Entire-Room.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Dark-Walnut-Cabinets-Replaced-the-Maple-Kitchen-and-Changed-the-Entire-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Narrow-Guest-Bathroom-Looked-Stuck-in-the-1970s-Before-One-Remodel-Changed-Everything-1152x2048.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Living-Rooms-That-Feel-Comfortable-Keep-Using-These-Layout-Ideas-1152x1536.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Quartzite-And-Stainless-Steel-Brightened-The-Room-1024x768.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Walnut-Cabinets-Took-Storage-To-The-Ceiling-1024x768.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Island-Plumbing-Wall-Survived-The-Renovation-1024x768.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Dark-Walnut-Cabinets-Replaced-the-Maple-Kitchen-and-Changed-the-Entire-Room.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -288,6 +455,19 @@
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-06-23T08:49:38+00:00"
+    },
+    {
+      "id": "eed5ffbc83373edc",
+      "title": "Remodelista Reconnaissance: A Stainless Steel Teapot at a Surprising Price Point",
+      "summary": "All of us on the edit team are enamored with the handmade, movable kitchen components by Jennifer June of Loose Parts (see: Kitchen(s) of the Week: Freestanding Cabinetry by Loose Parts in Upstate NY). But something else caught our eye while we were poring over all the details: a great-looking stainless steel teapot (or coffee […]",
+      "url": "https://www.remodelista.com/posts/stainless-steel-teapot-budget-sources/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/loose-parts-hh-house-kitchen-install-nook-credit-jonathan-hokklo-6-733x978.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/loose-parts-hh-house-kitchen-install-nook-credit-jonathan-hokklo-6-733x978.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-23T08:00:32+00:00"
     },
     {
       "id": "343b3d7c69488e2f",
@@ -505,12 +685,7 @@
       "url": "https://www.housebeautiful.com/room-decorating/kitchens/g623/beautiful-designer-kitchens/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/hbx070125alibudd-004-68c19c688fbf3.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/hbx070125alibudd-004-68c19c688fbf3.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/hbx050125betsywentz-004-68c188b86a974.jpg?crop=0.869xw:1.00xh;0.0221xw,0",
-        "https://hips.hearstapps.com/hmg-prod/images/hbx050125sarahstacey-011-68c18b0acd91e.jpg?crop=0.478xw:1.00xh;0.284xw,0",
-        "https://hips.hearstapps.com/hmg-prod/images/hbx050125sawyerdesign-010-68c19bdae0cc3.jpg?crop=0.515xw:1.00xh;0.361xw,0",
-        "https://hips.hearstapps.com/hmg-prod/images/alibuddxbuckingham3132-68c1a99f4071a.jpg?crop=0.835xw:1.00xh;0.0867xw,0",
-        "https://hips.hearstapps.com/hmg-prod/images/hbx070125allisonwilson-011-68c19d79a43df.jpg?crop=0.502xw:1.00xh;0.248xw,0"
+        "https://hips.hearstapps.com/hmg-prod/images/hbx070125alibudd-004-68c19c688fbf3.jpg"
       ],
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
@@ -523,12 +698,7 @@
       "url": "https://www.housebeautiful.com/lifestyle/a71663058/anne-hathaways-viral-pregnancy-announcement/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/cc511499-08d9-427f-ba7c-91b5e4b0bc63.jpeg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/cc511499-08d9-427f-ba7c-91b5e4b0bc63.jpeg",
-        "https://hips.hearstapps.com/vidthumb/images/cottage-by-the-water-airbnb-1606838586.jpg?crop=0.7094547964113181xw:1xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/hbx110125wh-leahoconnell-008-68e6c1cc1563e.jpg?crop=0.904xw:0.679xh;0,0.177xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/books-and-antiques-arranged-in-shelf-at-home-royalty-free-image-1725030899.jpg?crop=0.521xw:0.776xh;0.255xw,0.224xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/a68ef5fd-b6c4-47e3-bb67-7da3d6380ec5.jpeg?crop=0.667147865539xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/6fdae0ec-830d-4658-a399-6b91e8140ec7.jpeg?crop=0.763xw:1xh;0.043xw,0xh&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/cc511499-08d9-427f-ba7c-91b5e4b0bc63.jpeg"
       ],
       "source": "House Beautiful",
       "source_url": "https://www.housebeautiful.com",
@@ -789,7 +959,7 @@
         "https://sunset.com/wp-content/uploads/2026/06/dining-area-sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
         "https://sunset.com/wp-content/uploads/2026/06/laundry-sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
         "https://sunset.com/wp-content/uploads/2026/06/stove-sf-kitchen-makeover-front-of-house-design-pc-jessica-brydson-photography.jpg",
-        "https://sunset.com/wp-content/uploads/amazon-paper-bag-doorstep.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/CasaBlanca-Phoenix-courtyard-DSC4684.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -815,12 +985,7 @@
       "url": "https://www.idealhome.co.uk/house-manual/air-quality/duux-whisper-flex-2-smart-fan-review",
       "image": "https://cdn.mos.cms.futurecdn.net/J6XskSTVJfYZ77ovgDLdQn-1280-80.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/J6XskSTVJfYZ77ovgDLdQn-1280-80.jpg",
-        "https://images.fie.futurecdn.net/6whjhaqxdlwlmfmq-17764312820964-250-80.jpg.webp",
-        "https://cdn.mos.cms.futurecdn.net/LvTCq5QoXWZQ66RHZSu4Vn.jpg",
-        "https://cdn.mos.cms.futurecdn.net/LvTCq5QoXWZQ66RHZSu4Vn-1920-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/LvTCq5QoXWZQ66RHZSu4Vn-1600-80.jpg",
-        "https://cdn.mos.cms.futurecdn.net/LvTCq5QoXWZQ66RHZSu4Vn-1280-80.jpg"
+        "https://cdn.mos.cms.futurecdn.net/J6XskSTVJfYZ77ovgDLdQn-1280-80.jpg"
       ],
       "source": "Ideal Home",
       "source_url": "https://www.idealhome.co.uk",
@@ -851,19 +1016,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-22T08:45:29+00:00"
-    },
-    {
-      "id": "a6581c88d3fb8e1a",
-      "title": "They Turned a Dark Storage Room Into a Dedicated Laundry Room",
-      "summary": "Storage rooms often become places where boxes, tools, seasonal decorations, and household supplies accumulate over time, leaving valuable square footage dedicated to items that are rarely used. Behind the shelving and storage bins, however, many of these spaces already contain everything needed for a more practical purpose. Imgur user dasbrutalz saw that potential in a... The post They Turned a Dark Storage Room Into a Dedicated Laundry Room appeared first on Homedit .",
-      "url": "https://www.homedit.com/they-turned-a-dark-storage-room-into-a-dedicated-laundry-room/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Turned-a-Dark-Storage-Closet-Into-a-Dedicated-Laundry-Room.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Turned-a-Dark-Storage-Closet-Into-a-Dedicated-Laundry-Room.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-06-22T08:32:17+00:00"
     },
     {
       "id": "9bcaa09cdd56374b",
@@ -923,19 +1075,6 @@
       "published": "2026-06-22T06:00:00+00:00"
     },
     {
-      "id": "2848b772451f73d2",
-      "title": "Designers Say That Once-Dated ‘Millennial’ Mint Green Is Back for 2026 – 16 Pieces That Changed My Mind About the Trend",
-      "summary": "I haven’t touched mint green in over a decade, but Chanel plus a new crop of interiors collections have me styling it again",
-      "url": "https://www.homesandgardens.com/collection/decor/mint-green-color-trend",
-      "image": "https://cdn.mos.cms.futurecdn.net/RwSHWH3Riw4TnQaE3wAFwQ-1280-80.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/RwSHWH3Riw4TnQaE3wAFwQ-1280-80.jpg"
-      ],
-      "source": "Homes & Gardens",
-      "source_url": "https://www.homesandgardens.com",
-      "published": "2026-06-22T05:00:00+00:00"
-    },
-    {
       "id": "977319f946df401c",
       "title": "This Small Space Sofa Bed Gives Grown-Up Chic When It's a Chair, but Wait Until You See It Unfurled as a Double Bed",
       "summary": "This stylish clic-clac sofa bed proves that you don't have to compromise on style just because you have limited square footage",
@@ -946,6 +1085,19 @@
       ],
       "source": "Livingetc",
       "source_url": "https://www.livingetc.com",
+      "published": "2026-06-22T05:00:00+00:00"
+    },
+    {
+      "id": "2848b772451f73d2",
+      "title": "Designers Say That Once-Dated ‘Millennial’ Mint Green Is Back for 2026 – 16 Pieces That Changed My Mind About the Trend",
+      "summary": "I haven’t touched mint green in over a decade, but Chanel plus a new crop of interiors collections have me styling it again",
+      "url": "https://www.homesandgardens.com/collection/decor/mint-green-color-trend",
+      "image": "https://cdn.mos.cms.futurecdn.net/RwSHWH3Riw4TnQaE3wAFwQ-1280-80.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/RwSHWH3Riw4TnQaE3wAFwQ-1280-80.jpg"
+      ],
+      "source": "Homes & Gardens",
+      "source_url": "https://www.homesandgardens.com",
       "published": "2026-06-22T05:00:00+00:00"
     },
     {
@@ -1069,32 +1221,6 @@
       "source": "Ideal Home",
       "source_url": "https://www.idealhome.co.uk",
       "published": "2026-06-21T13:00:00+00:00"
-    },
-    {
-      "id": "531ec7d5b6c39491",
-      "title": "I Put a Kitchen Drawer Organizer in My Bedroom (It’s So Functional!)",
-      "summary": "Now I want one in every room. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/space-aid-kitchen-drawer-dividers-37559576?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-06/kitchen-organizer-in-nightstand/drawer-organizer-8668",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-06/kitchen-organizer-in-nightstand/drawer-organizer-8668"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-06-21T12:30:00+00:00"
-    },
-    {
-      "id": "6259ec4e26db70b5",
-      "title": "IKEA Cabinets Saved This Falling Apart 44-Square-Foot Kitchen",
-      "summary": "After four months and $15,000, this kitchen looks like a work of art. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/white-kitchen-44-square-feet-ikea-cabinets-redo-ba-37553908?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/style/2022-03/Lily%20Kesselman%20kitchen/Lily-Kesselman-before4",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/style/2022-03/Lily%20Kesselman%20kitchen/Lily-Kesselman-before4"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-06-21T12:00:00+00:00"
     },
     {
       "id": "8d785c2610f5bb19",
@@ -1345,9 +1471,9 @@
         "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/f461cc53-bdbf-4e52-a4ec-d4b0e6e8890b.jpg?crop=1xw:0.853xh;0xw",
         "https://hips.hearstapps.com/hmg-prod/images/the-container-store-elfa-horderly-house-beautiful-workroom-1572907091.png?crop=1xw:0.84375xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/ver040116carter03-1612914995.jpg?crop=0.75xw:1xh;0.178xw,0xh&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/35dbc859-aee3-42e6-a95c-425f48047a09.jpg?crop=1xw:0.773xh;0xw,0.2xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/meg-braff-locust-valley-living-room-1605037055.jpg?crop=0.752xw:1.00xh;0.125xw,0&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/3ec0af4b-a9dc-436f-b15c-d5f1532962d0.jpeg?crop=1xw:0.808xh;0xw,0.192xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/ver040116carter03-1612914995.jpg?crop=0.75xw:1xh;0.178xw,0xh&resize=360:*"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1419,17 +1545,17 @@
       "published": "2026-06-18T08:00:19+00:00"
     },
     {
-      "id": "1912735ef7c0bbbb",
-      "title": "Costco’s New “Executive Desk” Looks Like Real Carrara Marble—but Costs THOUSANDS Cheaper",
-      "summary": "It’s rare to find a desk this chic at this price.",
-      "url": "https://www.housebeautiful.com/shopping/best-stores/a71606056/costco-carrara-marble-executive-desk/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/11fa1677-c670-4d53-8c70-fa052c90220b.jpeg",
+      "id": "7a566d1ae753e0b1",
+      "title": "Kitchen of the Week: An Expensive-Looking Remodel for Just $13,000",
+      "summary": "We often recommend Ikea’s kitchen cabinets as a solid, bang-for-the-buck option for those looking to remodel. And nowadays, there are so many offshoot companies offering cabinet front styles specifically tailored to fit Ikea’s base cabinets that, if being economical is a priority, there’s little reason not to at least start with an Ikea skeleton. (See […]",
+      "url": "https://www.remodelista.com/posts/kitchen-week-luke-joanne-mcclelland-ikea-kitchen-edinburgh/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2020/07/luke-joanne-mcclelland-edinburgh-ikea-kitchen-733x524.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/11fa1677-c670-4d53-8c70-fa052c90220b.jpeg"
+        "http://www.remodelista.com/wp-content/uploads/2020/07/luke-joanne-mcclelland-edinburgh-ikea-kitchen-733x524.jpg"
       ],
-      "source": "House Beautiful",
-      "source_url": "https://www.housebeautiful.com",
-      "published": "2026-06-17T21:08:27+00:00"
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-18T08:00:04+00:00"
     },
     {
       "id": "87850f7ec0eb9a0c",
@@ -1507,6 +1633,19 @@
       "published": "2026-06-17T08:00:47+00:00"
     },
     {
+      "id": "eb3d885b44499d2f",
+      "title": "10 Easy Pieces: Glass Water Carafes",
+      "summary": "A simple water carafe is a necessity on the nightstand—especially one with a glass that acts as carafe topper to keep water fresh and clean clean while you slumber. Here are 10 options to help you get your daily water intake morning and night. For more bedside essentials, see our posts: 10 Easy Pieces: Modern […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-bedside-water-carafes/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/08/clear-velasca-carafe-obakki-733x733.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/08/clear-velasca-carafe-obakki-733x733.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-17T08:00:00+00:00"
+    },
+    {
       "id": "a6274e38bce6a790",
       "title": "Десять будущих кладовщиков завершили практику на предприятии компании «ФЕЛИКС»",
       "summary": "Студенты ГБПОУ «Торопецкий колледж» завершили практику на крупнейшем предприятии мебельной отрасли Тверской области — фабрике компании «ФЕЛИКС». Практика стала заключительным модулем обучения по теме «Оценка эффективности работы логистических систем и контроль логистических операций» для выпускников специальности «Операционная деятельность в логистике». В течение недели десять будущих кладовщиков отрабатывали профессиональные навыки и знакомились с работой современного мебельного предприятия.",
@@ -1570,6 +1709,19 @@
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
       "published": "2026-06-16T12:00:00+00:00"
+    },
+    {
+      "id": "3eecf5ed1625f807",
+      "title": "Remodelista Reconnaissance: A Handmade Ceramic Basin",
+      "summary": "A while back, I wrote about a thoughtful, eco-conscious remodel in Melbourne, Australia (see Retrofit Over Rebuild: An Architect and Interior Designer’s Sensitively Restored 1970s Home). The original home was hand-built—and so, too, were many of the elements inside the home, from the furniture-quality kitchen cabinetry to this hand-thrown ceramic basin I can’t stop thinking […]",
+      "url": "https://www.remodelista.com/posts/remodelista-reconnaissance-handmade-ceramic-basin-lindsey-wherrett/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2024/01/nuud-studio-monty-sibbel-bathroom-733x977.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2024/01/nuud-studio-monty-sibbel-bathroom-733x977.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-16T08:00:10+00:00"
     },
     {
       "id": "dd24c1858088e7c4",
@@ -1754,6 +1906,19 @@
       "published": "2026-06-11T09:00:14+00:00"
     },
     {
+      "id": "be8964cdc92ee30a",
+      "title": "Kitchen of the Week: At Home with a Couple Who Design Kitchens of Sustainable Bamboo",
+      "summary": "When you design and produce kitchens for a living, you get to use your own quarters as a testing ground. Kine Ask Stenersen and Kristoffer Eng are the couple behind Ask og Eng, the Oslo, Norway-based workshop known for its artful Ikea hacks: they specialize in making bamboo fronts for Ikea kitchen cabinets. The duo […]",
+      "url": "https://www.remodelista.com/posts/custom-bamboo-kitchen-ask-og-eng-oslo/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2019/10/ask-og-eng-custom-bamboo-kitchen-oslo-norway-1a-733x886.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2019/10/ask-og-eng-custom-bamboo-kitchen-oslo-norway-1a-733x886.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-11T08:00:09+00:00"
+    },
+    {
       "id": "bdae16f6fdaa5eef",
       "title": "Studio Elèn Letort completes \"expressive and characterful\" renovation of historic Amsterdam apartment",
       "summary": "Vintage furniture and palette of richly toned materials bring a sense of warmth and personality to this renovated maisonette in Amsterdam, which interiors firm Studio Elèn Letort designed to reference the Dutch Golden Age. The house on the Dutch city's historic Herenmarkt was designed for a couple who wanted a home where they could showcase The post Studio Elèn Letort completes \"expressive and characterful\" renovation of historic Amsterdam apartment appeared first on Dezeen .",
@@ -1765,6 +1930,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T05:00:14+00:00"
+    },
+    {
+      "id": "f1e5641a98df58e6",
+      "title": "10 Easy Pieces: The New Nordic Sofa",
+      "summary": "A lineup of notable sofas from the successors of Scandi designers such as Børge Mogensen, Carl Hansen, Hans Wegner, Finn Juhl, and Bruno Mathsson. Here’s a look at our favorite sofas, the new Nordic edition. On the hunt for more sofas? See our posts: 10 Easy Pieces: The Perfect White Sofa 10 Easy Pieces: Midcentury-Style Sofas […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-the-new-nordic-sofa/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2016/12/feld-two-seat-side-sofa-733x977.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2016/12/feld-two-seat-side-sofa-733x977.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-10T08:00:33+00:00"
     },
     {
       "id": "445ca7143bd608cd",
@@ -1809,6 +1987,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-07T17:00:40+00:00"
+    },
+    {
+      "id": "acd19189e2183e37",
+      "title": "Quick Takes With: Ella Quittner",
+      "summary": "You’ve probably seen Ella’s buzzy new book, Obsessed with the Best, on prominent display in bookstores and around the cooler corners of the Internet. But did you know she first started writing for Remodelista? (It’s true.) We’re happy to have that small claim to her fame, especially now that Ella’s cookbook is flying off shelves. […]",
+      "url": "https://www.remodelista.com/posts/ella-quittner-quick-takes/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/ella-quittner-obsessed-with-the-best-portrait-733x916.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/06/ella-quittner-obsessed-with-the-best-portrait-733x916.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-07T08:00:27+00:00"
     },
     {
       "id": "3b8e4ecfaac517ad",
@@ -1964,6 +2155,19 @@
       "published": "2026-06-04T08:00:36+00:00"
     },
     {
+      "id": "3fff842a1f07bac4",
+      "title": "Kitchen(s) of the Week: Freestanding Cabinetry by Loose Parts in Upstate NY",
+      "summary": "Jennifer June creates kitchens that are purpose-built, great-looking, and made to last. And those are but a few of the reasons to admire what she does. June is both an interior designer and a cabinetmaker, a useful if uncommon combination. She’s also a teacher at Parsons School of Design, her alma mater—she co-leads the MFA […]",
+      "url": "https://www.remodelista.com/posts/loose-parts-american-made-custom-kitchen-designs-jennifer-june/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/loose-parts-composition-kitchen-wide-credit-black-steil-1a-1-733x917.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/loose-parts-composition-kitchen-wide-credit-black-steil-1a-1-733x917.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-04T08:00:27+00:00"
+    },
+    {
       "id": "07ffeb6ed028b12e",
       "title": "‘tradition contains generations of knowledge’: natura futura builds with ecuadorian wisdom",
       "summary": "the ecuador-based studio has built a practice that begins with what is already present: heat, timber, local craft, and the social ties that hold a place together. The post ‘tradition contains generations of knowledge’: natura futura builds with ecuadorian wisdom appeared first on designboom | architecture & design magazine .",
@@ -1977,17 +2181,17 @@
       "published": "2026-06-04T07:37:29+00:00"
     },
     {
-      "id": "e000827e698e457f",
-      "title": "This New Restaurant in Arizona Takes its Cues From Italian Modernism",
-      "summary": "Designed by MMaison Interiors, il Bracco brings Italian flair to Arizona, with diverse materials from cork to travertine.",
-      "url": "https://design-milk.com/this-new-restaurant-in-arizona-takes-its-cues-from-italian-modernism/",
-      "image": "https://design-milk.com/images/2026/06/il-Bracco-Scottsdale-Maison-Interiors-00-810x608.jpg",
+      "id": "3d5c0005bbd6a40b",
+      "title": "10 Easy Pieces: Dining Tables on Wheels",
+      "summary": "An idea worth considering: a dining table on wheels, especially if you’re lucky enough to have an indoor/outdoor situation. You could DIY a version or go with one of the 10 options we’ve sourced here, many of which take cues from restaurant kitchens, science labs, classrooms, and Shaker prep tables. For more tables, see our […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-dining-tables-on-wheels-casters/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/roseland-kitchen-island-733x978.jpeg",
       "images": [
-        "https://design-milk.com/images/2026/06/il-Bracco-Scottsdale-Maison-Interiors-00-810x608.jpg"
+        "http://www.remodelista.com/wp-content/uploads/2026/06/roseland-kitchen-island-733x978.jpeg"
       ],
-      "source": "Design Milk Interiors",
-      "source_url": "https://design-milk.com",
-      "published": "2026-06-03T16:00:15+00:00"
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-03T08:00:33+00:00"
     },
     {
       "id": "f7c5783b4db3d864",
@@ -2021,6 +2225,32 @@
       "published": "2026-06-02T13:00:00+00:00"
     },
     {
+      "id": "8587ca4e95082625",
+      "title": "A Poetic Tea Room in Taipei Designed By Homework Studio",
+      "summary": "Homework Studio of Taipei, Taiwan, creates interiors that evoke intriguing, hard-to-pinpoint earlier eras: see, for instance, the Homework Photo Studio and A Childhood Apartment Updated. Wolf Tea’s new location in Taipei’s historic Dadaocheng district is another standout. Located on the ground floor of a tiled, multi-story building that only dates to the 1970s, the salon […]",
+      "url": "https://www.remodelista.com/posts/wolf-tea-tea-room-dadaocheng-taipei-taiwan-homework-studio-design/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/wolf-tea-da-dao-cheng-taipei-1-3-733x489.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/wolf-tea-da-dao-cheng-taipei-1-3-733x489.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-02T10:00:46+00:00"
+    },
+    {
+      "id": "aee5460e2a7117ab",
+      "title": "Remodelista Reconnaissance: Streetwear-Inspired Striped Linens in a City Flat",
+      "summary": "Nothing says summer like throwing some striped sheets on the bed. Like these, for example, spotted recently in a Barcelona flat, more oversized-men’s-button-down than twee cottage, cool enough for a city summer. The Sighting The Source For more favorites, sourced, see: Remodelista Reconnaissance: A Ghostly Cloth Pendant Light Remodelista Reconnaissance: A Shiny Scalloped Sconce (Most […]",
+      "url": "https://www.remodelista.com/posts/striped-summer-sheets-reconnaissance/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/conti-cert-mitre-bedroom2-733x489.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/05/conti-cert-mitre-bedroom2-733x489.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-02T08:00:52+00:00"
+    },
+    {
       "id": "da7d25689e8ab736",
       "title": "William McRoberts and Joseph Gardner Bring Serious Design Cred to Swop South Melbourne.",
       "summary": "Forget what you think you know about second-hand shopping. Conceived in collaboration with designer William McRoberts and Joseph Gardner of Studio Gardner, Swop South Melbourne draws on New York warehouse energy and a furniture edit that reads like a design history lesson. | The article William McRoberts and Joseph Gardner Bring Serious Design Cred to Swop South Melbourne. appeared first on Yellowtrace . |",
@@ -2037,6 +2267,19 @@
       "source": "Yellowtrace",
       "source_url": "https://www.yellowtrace.com.au",
       "published": "2026-06-01T19:30:36+00:00"
+    },
+    {
+      "id": "6430c15ae7135ec5",
+      "title": "A Sculptural Micro-Volume Apartment in Paris by Studio Pauline Borgia",
+      "summary": "In Paris’ 5th arrondissement, architect Pauline Borgia has reimagined a 230-square-foot studio apartment on Rue de la Bûcherie for a pair of young Americans studying in Paris. Known for her sculptural approach to small spaces, Borgia transformed the one-room apartment into a series of distinct yet fluid areas: a kitchen, bathroom, office, library, bedroom, and […]",
+      "url": "https://www.remodelista.com/posts/studio-pauline-borgia-micro-volume-apartment-renovation-paris/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/studio-pauline-borgia-notre-dame-paris-6-733x1100.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/06/studio-pauline-borgia-notre-dame-paris-6-733x1100.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-01T08:00:13+00:00"
     },
     {
       "id": "ecab5050f45ca910",
