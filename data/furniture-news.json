@@ -1,20 +1,20 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-24T20:01:55.090268+00:00",
-  "generated_at_human": "2026-06-24 20:01 UTC",
-  "total_items": 199,
+  "generated_at": "2026-06-24T21:41:50.285501+00:00",
+  "generated_at_human": "2026-06-24 21:41 UTC",
+  "total_items": 196,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
-    "Country Living",
     "DM tag furniture",
     "Decoist",
     "Design Boom",
     "Design Boom design",
     "Design Boom interiors",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Art",
     "Design Milk Interiors",
     "Dezeen",
@@ -35,6 +35,7 @@
     "Minimalissimo",
     "Remodelista",
     "Sunset",
+    "The Kitchn",
     "Trendir",
     "Veranda",
     "Wallpaper",
@@ -43,7 +44,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 37,
+  "sources_count": 38,
   "multi_photo_items": 46,
   "items": [
     {
@@ -54,10 +55,10 @@
       "image": "https://i.archi.ru/i/150/492263.jpg",
       "images": [
         "https://i.archi.ru/i/150/492263.jpg",
-        "https://i.archi.ru/i/150_150/310555.jpg?r=86435",
+        "https://i.archi.ru/i/150_150/310555.jpg?r=99180",
         "https://i.archi.ru/i/1262/492263.jpg",
-        "https://i.archi.ru/news/quadratic/476404.jpg?r=65986",
-        "https://i.archi.ru/news/quadratic/476649.jpg?r=70098",
+        "https://i.archi.ru/news/quadratic/476404.jpg?r=67634",
+        "https://i.archi.ru/news/quadratic/476649.jpg?r=31440",
         "https://i.archi.ru/news/main_images/280x280/476429.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -72,7 +73,7 @@
       "image": "https://i.archi.ru/i/150/505751.jpg",
       "images": [
         "https://i.archi.ru/i/150/505751.jpg",
-        "https://i.archi.ru/i/150_150/305304.jpg?r=44271",
+        "https://i.archi.ru/i/150_150/305304.jpg?r=26831",
         "https://i.archi.ru/i/1262/505751.jpg",
         "https://i.archi.ru/i/756_450/505717.jpg",
         "https://i.archi.ru/i/601_450/505716.jpg",
@@ -91,7 +92,7 @@
       "images": [
         "https://i.archi.ru/i/150/504438.jpg",
         "https://i.archi.ru/i/1262/504438.jpg",
-        "https://i.archi.ru/news/quadratic/476128.jpg?r=49327",
+        "https://i.archi.ru/news/quadratic/476128.jpg?r=4002",
         "https://i.archi.ru/i/752_283/504424.jpg",
         "https://i.archi.ru/i/752_286/504428.jpg",
         "https://i.archi.ru/i/752_615/504438.jpg"
@@ -99,6 +100,32 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "0389e2af28a8b88f",
+      "title": "Your Tent Folds, Your Outdoor Chair Packs Flat, Your Solar Charger Should Too",
+      "summary": "Your Tent Folds, Your Outdoor Chair Packs Flat, Your Solar Charger Should Too Portability is the invisible hero of outdoor design. It’s why a multitool can replace a drawer full of hardware, why a folding chair feels like...",
+      "url": "https://www.yankodesign.com/2026/06/24/your-tent-folds-your-outdoor-chair-packs-flat-your-solar-charger-should-too/?utm_source=rss&utm_medium=rss&utm_campaign=your-tent-folds-your-outdoor-chair-packs-flat-your-solar-charger-should-too",
+      "image": "https://www.yankodesign.com/images/design_news/2026/06/auto-draft/nestout_solar_panels_1.jpeg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/06/auto-draft/nestout_solar_panels_1.jpeg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-06-24T20:30:19+00:00"
+    },
+    {
+      "id": "308010760c86f7f4",
+      "title": "We Found 37 Kitchen Deals This Week That Are Even Better Than (or Just as Good as) Prime Day",
+      "summary": "See what to buy at Wayfair, KitchenAid, and Le Creuset. READ MORE...",
+      "url": "https://www.thekitchn.com/best-kitchen-deals-not-amazon-prime-day-23788039?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//shopping/tk/2026/2026-05/ikea-memorial-day-sale/ikea-kitchen",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//shopping/tk/2026/2026-05/ikea-memorial-day-sale/ikea-kitchen"
+      ],
+      "source": "The Kitchn",
+      "source_url": "https://www.thekitchn.com",
+      "published": "2026-06-24T20:21:54+00:00"
     },
     {
       "id": "eecf86bae1a6ca2a",
@@ -119,17 +146,17 @@
       "published": "2026-06-24T20:00:00+00:00"
     },
     {
-      "id": "cae90b735de14804",
-      "title": "7 Antique Finds that Add Storage, Seating, and Charm to Any Small Space",
-      "summary": "Furniture built to fold, stack, and roll away when not in use",
-      "url": "https://www.countryliving.com/shopping/antiques/a71710381/antique-furniture-for-small-spaces/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/6c1bf603-8e46-4e21-adf1-ad34276ba1f1.jpeg",
+      "id": "b5f068d93c4a45ba",
+      "title": "The “Stylish” Gem My Mom Swears By for Keeping Bathroom Counters Dry",
+      "summary": "They blend right in! READ MORE...",
+      "url": "https://www.apartmenttherapy.com/niuyichee-water-absorbent-trays-amazon-prime-deal-2026-37560536?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/october/neah-h/tours-seattle-neah-h-31",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/6c1bf603-8e46-4e21-adf1-ad34276ba1f1.jpeg"
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/october/neah-h/tours-seattle-neah-h-31"
       ],
-      "source": "Country Living",
-      "source_url": "https://www.countryliving.com",
-      "published": "2026-06-24T19:00:13+00:00"
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-24T20:00:00+00:00"
     },
     {
       "id": "31c213ab96478896",
@@ -153,7 +180,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/azteca-stadium-interior-renovation-mexico-_dezeen_2364_sq1-411x411.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-24T17:00:31+00:00"
     },
@@ -587,7 +614,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/wilde-vienna-fleischmarkt-aparthotels-interiors-stephanie-barba-mendoza_dezeen_sq-1-411x411.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-24T05:00:25+00:00"
     },
@@ -693,19 +720,6 @@
       "published": "2026-06-23T20:15:00+00:00"
     },
     {
-      "id": "3aaa1ae754b66483",
-      "title": "3 Quick and Easy Ways to Get Your Bedroom Ready for Summer",
-      "summary": "FYI: Your bedroom might be making summer heat feel worse. Here’s how to fix it.",
-      "url": "https://www.countryliving.com/home-design/decorating-ideas/a71593804/summer-bedroom-refresh/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/del-mar-california-beach-cottage-bedroom-6633df994f9bd.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/del-mar-california-beach-cottage-bedroom-6633df994f9bd.jpg"
-      ],
-      "source": "Country Living",
-      "source_url": "https://www.countryliving.com",
-      "published": "2026-06-23T18:55:19+00:00"
-    },
-    {
       "id": "ccdd1963d7e0faa9",
       "title": "The Best Amazon Prime Day Furniture Deals We're Seeing THIS Very Moment",
       "summary": "You just got your excuse to redecorate.",
@@ -732,10 +746,10 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/7d0c3ef7-c5b5-4c7d-8384-c294c571268a.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/0a210738-9faf-48c6-ba7e-fd87b3950012.jpg?crop=0.667xw:1xh;0.293xw",
-        "https://hips.hearstapps.com/hmg-prod/images/0e4d4f42-8265-49bb-84f5-842cc0b93523.jpg?crop=0.643269230769xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/565d0b04-5544-4ee5-934d-dc26d19ff906.jpg?crop=0.5xw:1xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/b0dea4a5-b9de-409a-8d2f-2f940c178f3f.jpeg?crop=1xw:0.87xh;center,top&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/ver-best-rugs-online-67d892a872a59.png?crop=0.502xw:1.00xh;0.250xw,0&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/f6a6e2b3-540d-4950-80f7-1dff77573a18.jpg?crop=0.5xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/ffc156b7-b1e4-4282-9cc1-a1e242b2c084.jpg?crop=0.5xw:1xh;center,top&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/ver030122wellchadduck-010-6973c7d0dc9f6.jpg?crop=1.00xw:0.668xh;0,0.272xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/nantucket-island-harbor-684769012d1c3.jpg?crop=0.668xw:1.00xh;0.101xw,0&resize=360:*"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -804,19 +818,6 @@
       "published": "2026-06-23T16:33:13+00:00"
     },
     {
-      "id": "b6e4b730d24309c5",
-      "title": "How Often Should You Really Rotate Your Couch Cushions? Design Experts Weigh In",
-      "summary": "We have bad news for couch potatoes.",
-      "url": "https://www.housebeautiful.com/lifestyle/cleaning-tips/a71667845/designer-advice-rotating-couch-cushions/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/67f07dcf-30d3-46a3-84b1-5c27f4b1a97f.jpeg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/67f07dcf-30d3-46a3-84b1-5c27f4b1a97f.jpeg"
-      ],
-      "source": "House Beautiful",
-      "source_url": "https://www.housebeautiful.com",
-      "published": "2026-06-23T16:30:00+00:00"
-    },
-    {
       "id": "8ae804c013108e6c",
       "title": "24 Kitchen Utensil Storage Finds That Make Countertops, Drawers, and Cabinets Look Instantly Neater (And Chicer)",
       "summary": "From hidden drawer organizers to pretty pots and caddies, these stylish finds will instantly elevate your utensil storage – starting from $12",
@@ -827,6 +828,19 @@
       ],
       "source": "Homes & Gardens",
       "source_url": "https://www.homesandgardens.com",
+      "published": "2026-06-23T16:30:00+00:00"
+    },
+    {
+      "id": "b6e4b730d24309c5",
+      "title": "How Often Should You Really Rotate Your Couch Cushions? Design Experts Weigh In",
+      "summary": "We have bad news for couch potatoes.",
+      "url": "https://www.housebeautiful.com/lifestyle/cleaning-tips/a71667845/designer-advice-rotating-couch-cushions/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/67f07dcf-30d3-46a3-84b1-5c27f4b1a97f.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/67f07dcf-30d3-46a3-84b1-5c27f4b1a97f.jpeg"
+      ],
+      "source": "House Beautiful",
+      "source_url": "https://www.housebeautiful.com",
       "published": "2026-06-23T16:30:00+00:00"
     },
     {
@@ -861,32 +875,6 @@
       "published": "2026-06-23T15:30:00+00:00"
     },
     {
-      "id": "67e1119bc8f446d5",
-      "title": "The Prettiest Prime Day Furniture Deals for Every Room in the House",
-      "summary": "Snag hundreds off bed frames, accent seating, storage furniture, and so much more.",
-      "url": "https://www.countryliving.com/shopping/deals-sales/a71559338/amazon-prime-day-furniture-deals/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/248ac9cd-cde7-47e0-9ff7-1f1072110f38.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/248ac9cd-cde7-47e0-9ff7-1f1072110f38.jpg"
-      ],
-      "source": "Country Living",
-      "source_url": "https://www.countryliving.com",
-      "published": "2026-06-23T15:00:00+00:00"
-    },
-    {
-      "id": "3e04d1c486c14940",
-      "title": "This National Park Is the Only Place in the World You Can See This Tiny Wild Fox",
-      "summary": "A short boat ride from the California coast leads to one of America’s most secluded national parks—and the only place on earth where you can see the tiny Channel Island fox in the wild.",
-      "url": "https://www.countryliving.com/life/travel/a71495994/channel-islands-national-park-fox/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/3fc5928f-0e82-4dd0-a6b4-c669c82ea3e8.jpeg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/3fc5928f-0e82-4dd0-a6b4-c669c82ea3e8.jpeg"
-      ],
-      "source": "Country Living",
-      "source_url": "https://www.countryliving.com",
-      "published": "2026-06-23T15:00:00+00:00"
-    },
-    {
       "id": "12e06e55358e3874",
       "title": "Air conditioning doesn't have to be an eye-sore — experts reveal the tricks to achieve a more stylish finish, so it doesn't ruin your interiors",
       "summary": "Do you have to sacrifice style in the name of comfort this summer? Not necessarily",
@@ -911,19 +899,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-23T13:59:55+00:00"
-    },
-    {
-      "id": "6af5944b67fa52c4",
-      "title": "8 No-Drill IKEA Bathroom Storage Gems for Under $15",
-      "summary": "Your landlord will thank you. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/ikea-no-drill-bathroom-storage-37559860?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/june/katy-m/ours-newyork-katy-m-26",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/june/katy-m/ours-newyork-katy-m-26"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-06-23T13:15:00+00:00"
     },
     {
       "id": "556d54e69cd2f068",
@@ -1374,19 +1349,6 @@
       "published": "2026-06-22T04:00:00+00:00"
     },
     {
-      "id": "264d18ae3b296c95",
-      "title": "Designers Say This Simple Lighting Swap Makes Small Bedrooms Feel Much Bigger",
-      "summary": "Designers swear by this trick when every inch counts.",
-      "url": "https://www.countryliving.com/home-design/decorating-ideas/a71538506/small-bedroom-lighting-trick/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/blue-and-white-bedroom-1588273628.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/blue-and-white-bedroom-1588273628.jpg"
-      ],
-      "source": "Country Living",
-      "source_url": "https://www.countryliving.com",
-      "published": "2026-06-21T15:00:00+00:00"
-    },
-    {
       "id": "0330090fcb92ccb1",
       "title": "The Textile Designers Behind Some of Jacqueline Kennedy Onassis’s Most Memorable Interiors",
       "summary": "Previously unpublished letters shed light on the decades-long relationship between Kennedy and textile designers D.D. and Leslie Tillett.",
@@ -1544,9 +1506,9 @@
         "https://hips.hearstapps.com/hmg-prod/images/d26aea11-66aa-4565-8ac2-6ba84d505a35.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/f461cc53-bdbf-4e52-a4ec-d4b0e6e8890b.jpg?crop=1xw:0.853xh;0xw",
         "https://hips.hearstapps.com/hmg-prod/images/the-container-store-elfa-horderly-house-beautiful-workroom-1572907091.png?crop=1xw:0.84375xh;center",
-        "https://hips.hearstapps.com/hmg-prod/images/ver040116carter03-1612914995.jpg?crop=0.75xw:1xh;0.178xw,0xh&resize=360:*",
         "https://hips.hearstapps.com/hmg-prod/images/35dbc859-aee3-42e6-a95c-425f48047a09.jpg?crop=1xw:0.773xh;0xw,0.2xh&resize=360:*",
-        "https://hips.hearstapps.com/hmg-prod/images/meg-braff-locust-valley-living-room-1605037055.jpg?crop=0.752xw:1.00xh;0.125xw,0&resize=360:*"
+        "https://hips.hearstapps.com/hmg-prod/images/3ec0af4b-a9dc-436f-b15c-d5f1532962d0.jpeg?crop=1xw:0.808xh;0xw,0.192xh&resize=360:*",
+        "https://hips.hearstapps.com/hmg-prod/images/redd-kaihoi-dallas-home-living-room-67f04162d8aa6.jpg?crop=0.54425xw:1xh;center,top&resize=360:*"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1631,7 +1593,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03-810x540.jpeg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
