@@ -385,6 +385,72 @@ SOURCES: list[dict[str, Any]] = [
     # with step-by-step photos ("6-Drawer Storage Cabinet", "Flip-Top Tool Cart").
     # More focused than the main Popular Woodworking feed (which had 40% affiliate).
     {"name": "Popular Woodworking projects", "url": "https://www.popularwoodworking.com/category/projects/feed/"},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # EXPANDED SOURCES (2026-06 batch 4) — international design magazines
+    # Tested 2026-06: each returns HTTP 200 + valid feed + embedded photos + on-
+    # topic furniture/interior content. Added to broaden international coverage
+    # beyond English-language sources.
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    # ── Italian design magazine — Interni is Italy's leading design monthly,
+    # covering furniture fairs, kitchen/bath products, interior projects.
+    # Sample photos: 768x512 (upgraded by upgrade_image_url on WP suffix strip).
+    {"name": "Interni magazine",          "url": "https://www.internimagazine.it/rss",                "scrape_gallery": True},
+
+    # ── Nordic/Scandinavian interior design blog — 6/8 furniture relevance.
+    # Covers Scandinavian bedrooms, kitchens, furniture design. Photos 800x1067+.
+    # NOTE: REMOVED 2026-06 after testing — feed produces 0 items after the
+    # MIN_SUMMARY_LEN=100 filter (most summaries are <90 chars: "Some of the most
+    # dreamy bedrooms featured on the blog last year" = 64 chars). The titles
+    # match only "design" (not "interior design"), which isn't a strong keyword.
+    # {"name": "Nordic Design", "url": "https://nordicdesign.ca/feed/", "scrape_gallery": True},
+
+    # ── Hospitality design magazine — covers hotel/restaurant interiors with
+    # strong cabinet/millwork/furniture photography (1920x1280). 4/8 relevance.
+    {"name": "Sleeper magazine",          "url": "https://sleepermagazine.com/feed/",                  "scrape_gallery": True},
+
+    # ── French interior decoration magazine — covers Parisian apartments,
+    # design exhibitions, furniture. 3/8 relevance (French titles with design
+    # keywords). Photos load via WP media library.
+    {"name": "MilK Decoration",           "url": "https://www.milkdecoration.com/feed/",               "scrape_gallery": True},
+
+    # ── South African home & garden magazine — 3/8 relevance, 1920x1280 photos.
+    # Covers kitchen/bathroom renovations, furniture, decor.
+    {"name": "Garden & Home SA",          "url": "https://gardenandhome.co.za/feed/"},
+
+    # ── Japanese culture/design blog — 2/8 relevance but covers Japanese
+    # furniture designers, craft, traditional cabinetry. Photos 200x167 (small
+    # but content-rich for the @abakan_mebel audience interested in Japandi style).
+    # {"name": "Spoon & Tamago", "url": "https://www.spoon-tamago.com/feed/"},  # too small photos
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # EXPANDED SOURCES (2026-06 batch 5) — interior-design category feeds
+    # Tested 2026-06: each returns HTTP 200 + valid feed + embedded photos + on-
+    # topic interior/furniture content. Added to deepen interior-design project
+    # coverage with category-specific feeds (vs. general magazine main feeds).
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    # ── Dezeen Lookbooks — 8/8 furniture relevance! 50 items of interior
+    # lookbooks (bathrooms with windows, colourful tapware, boat interiors,
+    # statement sofas). Photo-rich design inspiration posts. Lead image 411x411
+    # (Dezeen square crop — upgrade_image_url strips -411x411 suffix → 2364x2364).
+    {"name": "Dezeen Lookbooks",        "url": "https://www.dezeen.com/lookbooks/feed/"},
+
+    # ── Homedit furniture category — 8/8 furniture relevance! Cabinet/shelving/
+    # sideboard/furniture-design articles with 1000x1500 photos. Direct cabinet-
+    # furniture focus, complements the main Homedit feed (which is broader).
+    {"name": "Homedit furniture",       "url": "https://www.homedit.com/category/furniture/feed/"},
+
+    # ── Trendir interiors category — 7/8 furniture relevance! Interior design
+    # ideas (camel sofas, bedding/curtain pairings, bedroom rug placement).
+    # Complements the existing Trendir main + Trendir furniture feeds.
+    {"name": "Trendir interiors",       "url": "https://www.trendir.com/category/interiors/feed/", "scrape_gallery": True},
+
+    # ── Yanko Design home category — 4/8 furniture relevance, 1280x960 photos.
+    # Covers tiny homes with dedicated offices, A-frame retreats, mini houses.
+    # Complements the existing Yanko Design main + Yanko Design furniture feeds.
+    {"name": "Yanko Design home",       "url": "https://www.yankodesign.com/category/home/feed/"},
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -495,6 +561,35 @@ STRONG_KEYWORDS_RU: list[str] = [
     # General storage / lighting
     "системы хранения", "хранение вещей",
     "подсветка", "освещение кухн",  # kitchen/wardrobe lighting
+
+    # ── 2026-06 batch 4 — Italian/French/German keywords for new intl sources ──
+    # Italian (Interni magazine): cucina=cabinet, armadio=wardrobe, mobile=furniture,
+    # bagno=bathroom, camera=bedroom, soggiorno=living room, scaffale=shelf, libreria=bookcase
+    "cucina", "cucine",            # kitchen(s)
+    "armadio", "armadi",           # wardrobe(s)
+    "mobile", "mobili",            # furniture(s)
+    "credenza", "comodino",        # sideboard / nightstand
+    "libreria", "scaffale",        # bookcase / shelf
+    "bagno", "bagni",              # bathroom(s)
+    "camera", "camere",            # bedroom(s)
+    "soggiorno", "salotto",        # living room
+    "arredamento", "arred",        # furniture/interior design
+    # French (MilK Decoration): cuisine=kitchen, meuble=furniture, chambre=bedroom,
+    # salon=living room, salle de bain=bathroom, bibliothèque=bookcase
+    "cuisine", "cuisines",
+    "meuble", "meubles",
+    "chambre", "chambres",
+    "salon", "salons",
+    "salle de bain",
+    "bibliothèque",
+    "armoire", "armoires",
+    "intérieur", "décoration",     # interior / decoration
+    # German (Schöner Wohnen, Häuser): Küche=kitchen, Bad=bathroom, Zimmer=room,
+    # Schrank=cabinet, Möbel=furniture
+    "küche", "küchen",
+    "schrank", "schränke",
+    "möbel", "bad ", "badezimmer",
+    "wohnzimmer", "schlafzimmer",
 ]
 
 # Loose patterns — used as secondary signal (need ≥2 distinct matches)
