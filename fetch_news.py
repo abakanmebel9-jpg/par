@@ -101,6 +101,10 @@ OUTPUT_CAP = 800                   # max items in furniture-news.json
 REQUIRE_IMAGE = True               # drop items with no real content photo (quality
                                   # requirement: "качественные источники с качественными
                                   # фотографиями")
+MIN_TITLE_LEN = 20                 # drop items with title shorter than this (catches
+                                  # terse product-name-only titles like "Sacha Chair")
+MIN_SUMMARY_LEN = 100              # drop items with summary shorter than this (catches
+                                  # clickbait listicles with no real excerpt)
 
 # ─────────────────────────────────────────────────────────────────────────────
 # Curated source list — hand-tested 2026-06
@@ -149,7 +153,10 @@ SOURCES: list[dict[str, Any]] = [
     # ★ added — international design magazine, strong furniture/interiors
     {"name": "Wallpaper",                "url": "https://www.wallpaper.com/rss.xml",                "scrape_gallery": True},
     # ★ added — minimalist product/furniture/lighting design
-    {"name": "Minimalissimo",            "url": "https://minimalissimo.com/feed"},
+    # NOTE: Minimalissimo REMOVED 2026-06 — feed produces terse product-name-only
+    # titles ("Sacha Chair", "Azukimé Chair", "Chunk Stool") that fail the new
+    # MIN_TITLE_LEN filter. Content is real but too sparse for the channel.
+    # {"name": "Minimalissimo", "url": "https://minimalissimo.com/feed"},
     # ★ added — architecture + interiors, rich project galleries
     {"name": "ArchDaily",                "url": "https://www.archdaily.com/feed",                   "scrape_gallery": True},
     # ★ added — home & furniture design ideas
@@ -166,14 +173,19 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Dezeen tag furniture",     "url": "https://www.dezeen.com/tag/furniture/feed/"},
 
     # ── Home / lifestyle magazines (kitchen tours, furniture, interiors) ─────
+    # NOTE: Homes & Gardens, House Beautiful, Ideal Home, The Kitchn, Bob Vila were
+    # REMOVED 2026-06 (affiliate/shopping-deal noise: Amazon picks, Prime Day,
+    # "% off", Martha Stewart gadget pushes). Even with the new BLOCKLIST patterns
+    # filtering individual deal posts, these sources' editorial mix was too
+    # shopping-heavy to keep — they polluted the channel with non-design content.
+    # Kept: Real Homes, Livingetc, Sunset, Elle Decor, Veranda (more editorial).
     {"name": "Real Homes",               "url": "https://www.realhomes.com/rss",                    "scrape_gallery": True},
-    {"name": "Homes & Gardens",          "url": "https://www.homesandgardens.com/rss",              "scrape_gallery": True},
-    {"name": "Livingetc",                "url": "https://www.livingetc.com/rss",                    "scrape_gallery": True},
+    # NOTE: Livingetc REMOVED 2026-06 — 29% bad (affiliate/clickbait). Replaced by
+    # higher-quality kitchen-design sources (DM tag kitchen, Trendir furniture).
+    # {"name": "Livingetc", "url": "https://www.livingetc.com/rss", "scrape_gallery": True},
     {"name": "Sunset",                   "url": "https://www.sunset.com/rss",                       "scrape_gallery": True},
     {"name": "Elle Decor",               "url": "https://www.elledecor.com/rss/all.xml",            "scrape_gallery": True},
-    {"name": "House Beautiful",          "url": "https://www.housebeautiful.com/rss/all.xml",       "scrape_gallery": True},
     {"name": "Veranda",                  "url": "https://www.veranda.com/rss/all.xml",              "scrape_gallery": True},
-    {"name": "Ideal Home",               "url": "https://www.idealhome.co.uk/api/rss",              "scrape_gallery": True},
 
     # ── Gardenista (sister site of Remodelista, outdoor furniture) ───────────
     {"name": "Gardenista",               "url": "https://www.gardenista.com/feed/"},
@@ -195,11 +207,13 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Remodelista",              "url": "https://www.remodelista.com/feed/",                "scrape_gallery": True},
 
     # ── International home / kitchen / interior magazines ──────────────────────
-    # Country Living — Hearst; country interiors, kitchens, furniture (media:content)
-    {"name": "Country Living",           "url": "https://www.countryliving.com/rss/all.xml"},
-    # The Kitchn — kitchen-focused publication (tours/makeovers/cabinets); recipe
-    # noise is filtered out by the relevance classifier.
-    {"name": "The Kitchn",               "url": "https://www.thekitchn.com/main.rss",               "scrape_gallery": True},
+    # NOTE: Country Living REMOVED 2026-06 — 80% bad (Prime Day affiliate +
+    # summary-short listicles). The feed is dominated by Amazon-shopping content
+    # during sale events, not furniture/interior DESIGN.
+    # {"name": "Country Living", "url": "https://www.countryliving.com/rss/all.xml"},
+    # NOTE: The Kitchn REMOVED 2026-06 — feed was 100% affiliate/recipe noise
+    # (Prime Day food deals, gadget lists). Even with BLOCKLIST patterns, every
+    # recent item was shopping/recipe, not kitchen DESIGN.
     # Yellowtrace — AU design blog, strong furniture/interior photography.
     {"name": "Yellowtrace",              "url": "https://www.yellowtrace.com.au/feed/",             "scrape_gallery": True},
 
@@ -238,12 +252,12 @@ SOURCES: list[dict[str, Any]] = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     # ── Premium interior / home tours (strong project photography) ──────────────
-    # Architectural Digest — premium home tours, celebrity homes, kitchen/bath
-    # features. Sample photos: 2880x1921, 4531x3022, 4350x2870 (very high-res).
-    {"name": "Architectural Digest",     "url": "https://www.architecturaldigest.com/feed/rss",     "scrape_gallery": True},
-    # House Beautiful UK — UK edition of Hearst home magazine. Sample photos:
-    # 2241x1500, 4000x2667. Strong kitchen/furniture coverage.
-    {"name": "House Beautiful UK",       "url": "https://www.housebeautiful.com/uk/rss/all.xml"},
+    # NOTE: Architectural Digest REMOVED 2026-06 — 67% bad (Prime Day affiliate,
+    # "Best Coffee Tables" shopping listicles). Despite high-res photos, the
+    # editorial content is dominated by shopping/deals, not design projects.
+    # {"name": "Architectural Digest", "url": "https://www.architecturaldigest.com/feed/rss", "scrape_gallery": True},
+    # NOTE: House Beautiful UK REMOVED 2026-06 — 56% bad (clickbait + summary-short).
+    # {"name": "House Beautiful UK", "url": "https://www.housebeautiful.com/uk/rss/all.xml"},
     # Hunker — interiors/furniture design. Sample photos: 1600x899.
     {"name": "Hunker",                   "url": "https://www.hunker.com/feed",                       "scrape_gallery": True},
 
@@ -259,8 +273,11 @@ SOURCES: list[dict[str, Any]] = [
     # Case Furniture UK — furniture designer's project case studies (restaurants,
     # colleges, installations). 8/8 furniture relevance, photos 1280x560+.
     {"name": "Case Furniture UK",        "url": "https://www.casefurniture.com/blogs/news.atom"},
-    # RTA Cabinet Store — cabinet project blog, 8/8 cabinet relevance. Photos 600x600.
-    {"name": "RTA Cabinet Store",        "url": "https://www.rtacabinetstore.com/blog/feed/"},
+    # NOTE: RTA Cabinet Store REMOVED 2026-06 — 50% bad (affiliate marketing
+    # content like "The Wall You've Been Ignoring Deserves Better" is a sales
+    # pitch, not a design article). Cabinet topic is well-covered by Popular
+    # Woodworking + Woodshop News + Wood Whisperer instead.
+    # {"name": "RTA Cabinet Store", "url": "https://www.rtacabinetstore.com/blog/feed/"},
     # Core77 — industrial/furniture design magazine, 7/8 furniture relevance.
     # Photos 400x400 (square crops, but content-rich).
     {"name": "Core77",                   "url": "https://www.core77.com/rss.xml"},
@@ -288,10 +305,13 @@ SOURCES: list[dict[str, Any]] = [
     # ═══════════════════════════════════════════════════════════════════════════
 
     # ── More UK home / interior magazines (kitchen tours, furniture, interiors) ──
-    # NOTE: House & Garden UK REMOVED 2026-06 — all RSS paths return 404
-    # (the site discontinued its RSS feed; homepage works but no feed endpoint).
-    {"name": "Country Living UK",        "url": "https://www.countryliving.com/uk/rss/all.xml"},
-    {"name": "Good Housekeeping UK",     "url": "https://www.goodhousekeeping.com/uk/rss/all.xml"},
+    # NOTE: House & Garden UK REMOVED 2026-06 — all RSS paths return 404.
+    # NOTE: Country Living UK REMOVED 2026-06 — 100% bad (garden-furniture-sales +
+    # summary-short). The feed is lifestyle/garden content, not furniture DESIGN.
+    # NOTE: Good Housekeeping UK REMOVED 2026-06 — 100% bad (summary-short
+    # clickbait, lifestyle content, no furniture/interior focus).
+    # {"name": "Country Living UK", "url": "https://www.countryliving.com/uk/rss/all.xml"},
+    # {"name": "Good Housekeeping UK", "url": "https://www.goodhousekeeping.com/uk/rss/all.xml"},
 
     # ── Australian interior magazines (strong kitchen/furniture project photos) ──
     # ★ Interiors Addict AU scored 8/8 furniture-relevance in testing — direct
@@ -303,11 +323,11 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Better Homes & Gardens AU","url": "https://www.bhg.com.au/rss"},
     # NOTE: Belle Magazine AU REMOVED 2026-06 — all RSS paths return 404.
     # NOTE: The Design Files AU REMOVED 2026-06 — HTTP 403 (bot-blocked).
-    # Inside Out AU + Real Living AU — Are Media properties; DNS may fail from
-    # some networks but resolves from GitHub Actions runner. Parser skips with
-    # a warning if unreachable, so kept for when the network cooperates.
-    {"name": "Inside Out AU",            "url": "https://www.insideout.com.au/rss"},
-    {"name": "Real Living AU",           "url": "https://www.realliving.com.au/rss"},
+    # NOTE: Inside Out AU + Real Living AU REMOVED 2026-06 — DNS resolution fails
+    # from sandbox AND GitHub Actions runner (Are Media properties are geo-blocked
+    # to AU/NZ IPs). Produced 0 items in every test run.
+    # {"name": "Inside Out AU", "url": "https://www.insideout.com.au/rss"},
+    # {"name": "Real Living AU", "url": "https://www.realliving.com.au/rss"},
 
     # ── Kitchen & bath trade / period homes (cabinet furniture in situ) ──────────
     {"name": "Period Homes",             "url": "https://www.period-homes.com/feed/"},
@@ -347,6 +367,24 @@ SOURCES: list[dict[str, Any]] = [
     # preschool reconfigurations). Art + technology tags were tested but produced
     # 0 furniture-relevant items after the classifier, so they were not added.
     {"name": "Design Boom architecture", "url": "https://www.designboom.com/architecture/feed/"},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # EXPANDED SOURCES (2026-06 batch 3) — added after quality audit found that
+    # many general home magazines (Homes & Gardens, Ideal Home, Country Living,
+    # House Beautiful, The Kitchn, Architectural Digest) produce 50-100%
+    # affiliate/shopping content. These category feeds are more focused on
+    # furniture DESIGN with real project photography.
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    # ── Trendir furniture category — 8/8 furniture relevance! Cabinet/wardrobe/
+    # nightstand/console/dresser design ideas with photos. Direct cabinet-furniture
+    # focus — exactly what @abakan_mebel needs.
+    {"name": "Trendir furniture",         "url": "https://www.trendir.com/category/furniture/feed/",  "scrape_gallery": True},
+
+    # ── Popular Woodworking projects category — cabinet/furniture build projects
+    # with step-by-step photos ("6-Drawer Storage Cabinet", "Flip-Top Tool Cart").
+    # More focused than the main Popular Woodworking feed (which had 40% affiliate).
+    {"name": "Popular Woodworking projects", "url": "https://www.popularwoodworking.com/category/projects/feed/"},
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -598,6 +636,31 @@ BLOCKLIST: list[str] = [
     "salad dressing", "soup recipe", "pasta recipe", "chicken recipe",
     "dessert", "cocktail", "smoothie", "marinade", "sauce recipe",
     "calories", "nutrition", "dietitian",
+
+    # ── Affiliate / shopping-deal noise (2026-06 quality overhaul) ──────────
+    # The @abakan_mebel channel wants furniture & kitchen DESIGN, not affiliate
+    # marketing posts (Amazon picks, Prime Day deals, "% off" shopping lists).
+    # These slipped through from Homes & Gardens, House Beautiful, The Kitchn,
+    # Architectural Digest, Elle Decor, Ideal Home, Country Living, Bob Vila.
+    # Even when the source is editorial-quality, individual deal posts are NOT
+    # design content — block them so the JSON only carries real articles.
+    "prime day", "prime deal", "prime day deal",
+    "black friday", "cyber monday", "way day",
+    "% off", "percent off", "discount code", "promo code", "coupon code",
+    "amazon prime", "amazon deal", "amazon sale", "amazon pick",
+    "best price", "lowest price", "price drop", "price cut",
+    "clearance sale", "flash sale", "limited-time deal", "limited time offer",
+    "free shipping", "buy now", "shop now", "add to cart",
+    "was $", "now $", "under $", "save up to", "save $",
+    "best prime day", "prime day furniture", "prime day kitchen",
+    "prime day deals under", "deals under $",
+    # celebrity-gossip homes (not design-focused)
+    "haaland", "sienna miller", "stallone", "kardashian", "jenner",
+    "jennifer garner", "martha stewart says", "jennifer lopez",
+    "kate middleton", "princess", "royal family",
+    # tool-deal posts (tool brands pushing Prime Day on tools, not furniture)
+    "dewalt deal", "makita deal", "milwaukee deal", "dremel deal",
+    "greenworks deal", "lawn mower deal", "trimmer deal",
 ]
 
 
@@ -1051,6 +1114,15 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
 
         combined = f"{title} {summary}".lower()
         if any(bl in combined for bl in BLOCKLIST):
+            continue
+
+        # ── Minimum text-length guard (2026-06 quality overhaul) ──────────
+        # Drops terse product-name-only titles ("Sacha Chair", "Chunk Stool")
+        # and clickbait listicles with no real summary excerpt. These pass the
+        # relevance classifier but are too sparse for a furniture-design feed.
+        if len(title) < MIN_TITLE_LEN:
+            continue
+        if len(summary) < MIN_SUMMARY_LEN:
             continue
 
         # ── Garbage-photo guard ────────────────────────────────────────────
