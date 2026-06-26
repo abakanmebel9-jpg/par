@@ -1,14 +1,15 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-26T13:05:21.446775+00:00",
+  "generated_at": "2026-06-26T13:05:28.740694+00:00",
   "generated_at_human": "2026-06-26 13:05 UTC",
-  "total_items": 207,
+  "total_items": 202,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
+    "Bob Vila",
     "Core77",
     "DIY Candy",
     "DM tag furniture",
@@ -32,7 +33,6 @@
     "Home Adore",
     "Home Beautiful AU",
     "Homedit",
-    "Homes To Love AU",
     "Hunker",
     "Interiors Addict AU",
     "Lost Art Press",
@@ -56,7 +56,7 @@
     "АМДПР"
   ],
   "sources_count": 49,
-  "multi_photo_items": 48,
+  "multi_photo_items": 45,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -66,7 +66,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=34315",
+        "http://i.archi.ru/i/1262/405309.jpg?r=59304",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -608,24 +608,6 @@
       "published": "2026-06-25T07:44:23+00:00"
     },
     {
-      "id": "dd1f785c03dd4cf1",
-      "title": "10 ways to clean with vinegar in every room of the house",
-      "summary": "Put this pantry staple to work The post 10 ways to clean with vinegar in every room of the house appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/lifestyle/cleaning/cleaning-vinegar-10734/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/01/hero-crop-2026-06-25t163000.010-6a3ccb030610c.png",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/01/hero-crop-2026-06-25t163000.010-6a3ccb030610c.png",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/01/hero-crop-2026-06-25t163000.010-6a3ccb030610c.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/09/hero-crop-2026-06-26t144233.199-6a3e033dee89f.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/10/sienna-miller-cottage-for-sale-2-68f1e60af256e.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-26t102348.526-6a3dc698d3978.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/eco-friendly-cleaning-products-6a054106ad8ea.png?resize=1950%2C1462"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-06-25T07:29:45+00:00"
-    },
-    {
       "id": "7edcf3f21f535b33",
       "title": "This towel-folding trick saves the most space in your linen cupboard",
       "summary": "Maximise space with this hack. The post This towel-folding trick saves the most space in your linen cupboard appeared first on Better Homes & Gardens Australia .",
@@ -694,24 +676,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-06-25T00:22:37+00:00"
-    },
-    {
-      "id": "e2508fba908d5273",
-      "title": "The space-saving new bathroom layout making shower-over-baths feel outdated",
-      "summary": "Make the most of a small bathroom with this wet room design The post The space-saving new bathroom layout making shower-over-baths feel outdated appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/rooms/bathrooms-laundry/small-bathroom-wet-zone-design-ideas/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t104038.402-6a39d772055b1.png",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t104038.402-6a39d772055b1.png",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t104038.402-6a39d772055b1.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/09/hero-crop-2026-06-26t144233.199-6a3e033dee89f.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/10/sienna-miller-cottage-for-sale-2-68f1e60af256e.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-26t102348.526-6a3dc698d3978.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/04/round-bath-682ec3512d0b3.png?resize=1950%2C1462"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-06-24T23:18:58+00:00"
     },
     {
       "id": "6f29250f2c3a2338",
@@ -911,24 +875,6 @@
       "published": "2026-06-24T05:00:25+00:00"
     },
     {
-      "id": "7c0ce179005d84aa",
-      "title": "The reason built-in bath or freestanding bath still splits opinion",
-      "summary": "Experts weigh in The post The reason built-in bath or freestanding bath still splits opinion appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/rooms/bathrooms-laundry/built-in-bath-or-freestanding-bath/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-06-24t121441.951-6a3b3d9a820bd.png",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-06-24t121441.951-6a3b3d9a820bd.png",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-06-24t121441.951-6a3b3d9a820bd.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/09/hero-crop-2026-06-26t144233.199-6a3e033dee89f.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/10/sienna-miller-cottage-for-sale-2-68f1e60af256e.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-26t102348.526-6a3dc698d3978.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/saskia-neacsu-689e8764955b1.jpg?w=1979"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-06-24T03:45:15+00:00"
-    },
-    {
       "id": "918100aacef2c5d7",
       "title": "Inside Dakota Johnson’s viral ‘lime house’ that is selling for $6 million",
       "summary": "The internet’s favourite green kitchen has found a new owner, but its design legacy is only just beginning. The post Inside Dakota Johnson’s viral ‘lime house’ that is selling for $6 million appeared first on Home Beautiful .",
@@ -1083,32 +1029,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-06-23T08:00:32+00:00"
-    },
-    {
-      "id": "ee225b2569e4f9b3",
-      "title": "A termite-ridden bungalow turned rural sanctuary in Kangaroo Ground, Vic",
-      "summary": "With reclaimed timber and stonework poised to capture those idyllic valley views The post A termite-ridden bungalow turned rural sanctuary in Kangaroo Ground, Vic appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/home-tours/barn-style-family-home-kangaroo-ground-victoria/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/kangaroo-ground-victoria-country-style-house--6a3a136231521.jpg",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/kangaroo-ground-victoria-country-style-house--6a3a136231521.jpg"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-06-23T05:49:29+00:00"
-    },
-    {
-      "id": "a0cc2ad33f830d71",
-      "title": "29 kitchen splashback ideas that go beyond beige",
-      "summary": "From subways to stainless, you'll want to steal these designs for yourself. The post 29 kitchen splashback ideas that go beyond beige appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/renovating/kitchen-renovations/kitchen-splashback-ideas-17258/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t142403.218-6a3a0a685da55.png",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t142403.218-6a3a0a685da55.png"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-06-23T04:26:10+00:00"
     },
     {
       "id": "43426959fe02e0e8",
@@ -1368,19 +1288,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-06-19T13:30:00+00:00"
-    },
-    {
-      "id": "2909b71658e6e643",
-      "title": "The best Japandi furniture for a home that feels like a retreat",
-      "summary": "Refresh your home with these Japandi interiors The post The best Japandi furniture for a home that feels like a retreat appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/shopping/best-japandi-furniture/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-19t171417.740-6a34ec4d916f4.png",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-19t171417.740-6a34ec4d916f4.png"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-06-19T07:21:27+00:00"
     },
     {
       "id": "c91ff40c2f4c9667",
@@ -2639,7 +2546,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag kitchens",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
