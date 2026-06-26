@@ -1,15 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-26T13:05:28.740694+00:00",
-  "generated_at_human": "2026-06-26 13:05 UTC",
-  "total_items": 202,
+  "generated_at": "2026-06-26T14:31:39.507827+00:00",
+  "generated_at_human": "2026-06-26 14:31 UTC",
+  "total_items": 249,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
-    "Bob Vila",
     "Core77",
     "DIY Candy",
     "DM tag furniture",
@@ -35,6 +34,8 @@
     "Home Adore",
     "Home Beautiful AU",
     "Homedit",
+    "Homedit furniture",
+    "Homes To Love AU",
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
@@ -62,8 +63,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 49,
-  "multi_photo_items": 45,
+  "sources_count": 57,
+  "multi_photo_items": 58,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -73,7 +74,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=59304",
+        "http://i.archi.ru/i/1262/405309.jpg?r=54340",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -753,6 +754,24 @@
       "published": "2026-06-25T07:44:23+00:00"
     },
     {
+      "id": "dd1f785c03dd4cf1",
+      "title": "10 ways to clean with vinegar in every room of the house",
+      "summary": "Put this pantry staple to work The post 10 ways to clean with vinegar in every room of the house appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/lifestyle/cleaning/cleaning-vinegar-10734/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/01/hero-crop-2026-06-25t163000.010-6a3ccb030610c.png",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/01/hero-crop-2026-06-25t163000.010-6a3ccb030610c.png",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/01/hero-crop-2026-06-25t163000.010-6a3ccb030610c.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/09/hero-crop-2026-06-26t144233.199-6a3e033dee89f.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/10/sienna-miller-cottage-for-sale-2-68f1e60af256e.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-26t102348.526-6a3dc698d3978.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/eco-friendly-cleaning-products-6a054106ad8ea.png?resize=1950%2C1462"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-06-25T07:29:45+00:00"
+    },
+    {
       "id": "7edcf3f21f535b33",
       "title": "This towel-folding trick saves the most space in your linen cupboard",
       "summary": "Maximise space with this hack. The post This towel-folding trick saves the most space in your linen cupboard appeared first on Better Homes & Gardens Australia .",
@@ -808,6 +827,24 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-06-25T00:22:37+00:00"
+    },
+    {
+      "id": "e2508fba908d5273",
+      "title": "The space-saving new bathroom layout making shower-over-baths feel outdated",
+      "summary": "Make the most of a small bathroom with this wet room design The post The space-saving new bathroom layout making shower-over-baths feel outdated appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/rooms/bathrooms-laundry/small-bathroom-wet-zone-design-ideas/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t104038.402-6a39d772055b1.png",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t104038.402-6a39d772055b1.png",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t104038.402-6a39d772055b1.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/09/hero-crop-2026-06-26t144233.199-6a3e033dee89f.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/10/sienna-miller-cottage-for-sale-2-68f1e60af256e.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-26t102348.526-6a3dc698d3978.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/04/round-bath-682ec3512d0b3.png?resize=1950%2C1462"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-06-24T23:18:58+00:00"
     },
     {
       "id": "6f29250f2c3a2338",
@@ -1005,6 +1042,24 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-24T05:00:25+00:00"
+    },
+    {
+      "id": "7c0ce179005d84aa",
+      "title": "The reason built-in bath or freestanding bath still splits opinion",
+      "summary": "Experts weigh in The post The reason built-in bath or freestanding bath still splits opinion appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/rooms/bathrooms-laundry/built-in-bath-or-freestanding-bath/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-06-24t121441.951-6a3b3d9a820bd.png",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-06-24t121441.951-6a3b3d9a820bd.png",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-06-24t121441.951-6a3b3d9a820bd.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/09/hero-crop-2026-06-26t144233.199-6a3e033dee89f.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/10/sienna-miller-cottage-for-sale-2-68f1e60af256e.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-26t102348.526-6a3dc698d3978.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/saskia-neacsu-689e8764955b1.jpg?w=1979"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-06-24T03:45:15+00:00"
     },
     {
       "id": "918100aacef2c5d7",
@@ -1228,6 +1283,50 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-06-23T08:00:32+00:00"
+    },
+    {
+      "id": "ee225b2569e4f9b3",
+      "title": "A termite-ridden bungalow turned rural sanctuary in Kangaroo Ground, Vic",
+      "summary": "With reclaimed timber and stonework poised to capture those idyllic valley views The post A termite-ridden bungalow turned rural sanctuary in Kangaroo Ground, Vic appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/home-tours/barn-style-family-home-kangaroo-ground-victoria/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/kangaroo-ground-victoria-country-style-house--6a3a136231521.jpg",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/kangaroo-ground-victoria-country-style-house--6a3a136231521.jpg"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-06-23T05:49:29+00:00"
+    },
+    {
+      "id": "a0cc2ad33f830d71",
+      "title": "29 kitchen splashback ideas that go beyond beige",
+      "summary": "From subways to stainless, you'll want to steal these designs for yourself. The post 29 kitchen splashback ideas that go beyond beige appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/renovating/kitchen-renovations/kitchen-splashback-ideas-17258/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t142403.218-6a3a0a685da55.png",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-23t142403.218-6a3a0a685da55.png"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-06-23T04:26:10+00:00"
+    },
+    {
+      "id": "841189c1bc215b99",
+      "title": "Anatomia del relax estivo: i mobili outdoor che conquistano l’estate",
+      "summary": "Divani isola che favoriscono la convivialità, lettini prendisole di nuova generazione e poltrone dalla seduta ampia: gli arredi outdoor che fanno dimenticare le rigide posture dell'inverno The post Anatomia del relax estivo: i mobili outdoor che conquistano l’estate appeared first on Interni Magazine .",
+      "url": "https://www.internimagazine.it/design/arredo/esterni/anatomia-del-relax-estivo-i-mobili-outdoor-che-conquistano-lestate/",
+      "image": "https://www.internimagazine.it/content/uploads/2026/06/nSGtQFU2-Roche-Bobois_20251118_Baptiste-Le-Quiniou_SCENETTE_04-HD.jpg?imbypass=true",
+      "images": [
+        "https://www.internimagazine.it/content/uploads/2026/06/nSGtQFU2-Roche-Bobois_20251118_Baptiste-Le-Quiniou_SCENETTE_04-HD.jpg?imbypass=true",
+        "https://www.internimagazine.it/content/uploads/2026/06/Desiree_Milos.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Nardi_Net-Lounge_24_0374_Hr-b.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Unopiu_Amanda_amaca_1_ph.-Thomas-Pagani.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Flexform-Margheri_2.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/raccoglierefiori.jpg"
+      ],
+      "source": "Interni magazine",
+      "source_url": "https://www.internimagazine.it",
+      "published": "2026-06-23T04:00:09+00:00"
     },
     {
       "id": "43426959fe02e0e8",
@@ -1547,6 +1646,32 @@
       "published": "2026-06-19T13:30:00+00:00"
     },
     {
+      "id": "38835d0eb95c49e4",
+      "title": "Two Steps Forward, One Step Back",
+      "summary": "There’s good news about two recent fires, and bad news about another. Reports of lumberyard or production shop fires affect us deeply and emotionally, even when we live nowhere near... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/two-steps-forward-one-step-back/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/17104808/fire-copy.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/06/17104808/fire-copy.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-06-19T11:45:52+00:00"
+    },
+    {
+      "id": "2909b71658e6e643",
+      "title": "The best Japandi furniture for a home that feels like a retreat",
+      "summary": "Refresh your home with these Japandi interiors The post The best Japandi furniture for a home that feels like a retreat appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/shopping/best-japandi-furniture/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-19t171417.740-6a34ec4d916f4.png",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/06/hero-crop-2026-06-19t171417.740-6a34ec4d916f4.png"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-06-19T07:21:27+00:00"
+    },
+    {
       "id": "c91ff40c2f4c9667",
       "title": "New Book: ‘17th-Century Essex County Cupboard’",
       "summary": "Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...",
@@ -1725,7 +1850,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -3100,7 +3225,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag kitchens",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
