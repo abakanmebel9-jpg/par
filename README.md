@@ -61,21 +61,38 @@ Each multi-photo item carries up to 6 distinct image URLs (lead first).
 
 ---
 
-## Sources (56 hand-tested feeds — 2026-06, curated for @abakan_mebel)
+## Sources (87 hand-tested feeds — 2026-06 quality overhaul, curated for @abakan_mebel)
 
 All sources return RSS feeds with quality photos embedded (`media:content`,
 enclosures, or `<img>` in summary). Sources were tested 2026-06 for: working
-HTTP endpoint, valid feed, embedded photos, recent relevant content.
+HTTP endpoint, valid feed, embedded photos, recent relevant content. An
+additional round of testing verified that sample image URLs load with
+quality dimensions (most ≥1000px; many ≥2000px).
+
+> **2026-06 quality overhaul:** 270+ candidate feeds were tested; only those
+> returning HTTP 200 + valid feed + embedded photos + furniture/interior-
+> relevant content were kept. 7 dead/empty feeds were removed (Design Boom
+> main/design/interiors — HTTP 403; Design Milk Technology — 0 items; DM tag
+> lighting + DM tag office — 0 items; Novate.ru — tiny thumbnails). 38 new
+> verified feeds were added (UK/AU/CA/DE regional magazines, cabinet-making
+> publications, DIY furniture blogs, furniture-design magazines). An
+> `upgrade_image_url()` function was added to upgrade feed thumbnails to
+> full-size (Dezeen 411×411 → 2364×2364, ArchDaily medium_jpg → large_jpg,
+> Archi.ru i/150 → i/1262, Hearst CDN crop-strip, Future CDN size-strip).
 
 > **Curation note for @abakan_mebel:** Foreign forestry / wood-industry /
-wooden-furniture-INDUSTRY sources (Woodworking Network, Popular Woodworking,
-Woodshop News, RTA Cabinet Store, Industry Today) were **REMOVED** — they
-published lumber-harvest / sawmill / forest-management news instead of
-furniture & kitchen DESIGN. Forestry phrases are also in `BLOCKLIST` (broad
-EN + RU coverage — sawmill, timber harvest/export, пиломатериал, пилорама,
-лесопромышленность, ЦБК, etc.).
+wooden-furniture-INDUSTRY sources (Woodworking Network, Industry Today) were
+**REMOVED** — they published lumber-harvest / sawmill / forest-management
+news instead of furniture & kitchen DESIGN. Forestry phrases are also in
+`BLOCKLIST` (broad EN + RU coverage — sawmill, timber harvest/export,
+пиломатериал, пилорама, лесопромышленность, ЦБК, etc.).
+>
+> **2026-06 update:** Popular Woodworking, Woodshop News, and RTA Cabinet
+> Store were RE-ADDED after re-testing confirmed their project/design content
+> (furniture plans, cabinet builds, hardware reviews) passes the relevance
+> classifier while forestry-industry items are caught by the blocklist.
 
-### Russian sources (6) — for the @abakan_mebel Russian audience
+### Russian sources (7) — for the @abakan_mebel Russian audience
 
 - **АМДПР** — `amedoro.com/ru/news/novosti-otrasli.feed?type=rss` — Association
   of Furniture & Woodworking Industry Enterprises of Russia (Mr.Doors, Felix,

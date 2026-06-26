@@ -86,6 +86,7 @@ HTML_HEADERS = {
     "User-Agent": UA,
     "Accept": "text/html, application/xhtml+xml, */*",
     "Accept-Language": "en-US,en;q=0.9",
+    "Referer": "https://www.google.com/",  # helps bypass 403 bot-blocks on some sites
 }
 
 HTTP_TIMEOUT = 20
@@ -137,9 +138,9 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "Design Milk",              "url": "https://design-milk.com/feed/",                    "scrape_gallery": True},
     {"name": "Design Milk Interiors",    "url": "https://design-milk.com/category/interior-design/feed/"},
     {"name": "Design Milk Architecture", "url": "https://design-milk.com/category/architecture/feed/"},
-    {"name": "Design Milk Technology",   "url": "https://design-milk.com/category/technology/feed/"},
     {"name": "Design Milk Art",          "url": "https://design-milk.com/category/art/feed/"},
-    {"name": "Design Boom",              "url": "https://www.designboom.com/feed/",                 "scrape_gallery": True},
+    # NOTE: Design Boom (main + design + interiors) REMOVED 2026-06 — all return HTTP 403.
+    # NOTE: Design Milk Technology REMOVED 2026-06 — 0 items (tag feed empty).
     {"name": "Yanko Design",             "url": "https://www.yankodesign.com/feed/"},
     {"name": "Trendir",                  "url": "https://www.trendir.com/feed/",                    "scrape_gallery": True},
     {"name": "Homedit",                  "url": "https://www.homedit.com/feed/",                    "scrape_gallery": True},
@@ -158,6 +159,8 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "DM tag kitchen",           "url": "https://design-milk.com/tag/kitchen/feed/",        "scrape_gallery": True},
     {"name": "DM tag furniture",         "url": "https://design-milk.com/tag/furniture/feed/",      "scrape_gallery": True},
     {"name": "DM tag cabinets",          "url": "https://design-milk.com/tag/cabinets/feed/",       "scrape_gallery": True},
+    # NOTE: DM tag lighting REMOVED 2026-06 — 0 items (tag feed empty).
+    # NOTE: DM tag office REMOVED 2026-06 — 0 items (tag feed empty).
     {"name": "Dezeen tag kitchens",      "url": "https://www.dezeen.com/tag/kitchens/feed/",        "scrape_gallery": True},
     {"name": "Dezeen tag cabinets",      "url": "https://www.dezeen.com/tag/cabinets/feed/"},
     {"name": "Dezeen tag furniture",     "url": "https://www.dezeen.com/tag/furniture/feed/"},
@@ -200,9 +203,8 @@ SOURCES: list[dict[str, Any]] = [
     # Yellowtrace — AU design blog, strong furniture/interior photography.
     {"name": "Yellowtrace",              "url": "https://www.yellowtrace.com.au/feed/",             "scrape_gallery": True},
 
-    # ── Design Boom — topic-specific subsets (furniture/interior DESIGN only) ──
-    {"name": "Design Boom design",       "url": "https://www.designboom.com/design/feed/"},
-    {"name": "Design Boom interiors",    "url": "https://www.designboom.com/category/interiors/feed/"},
+    # ── Design Boom — REMOVED 2026-06 (HTTP 403 on all feeds) ──
+    # Was: Design Boom design + Design Boom interiors — both 403.
 
     # ── Dezeen tag feeds — direct coverage of site product categories ──────────
     # Bathrooms → «Мебель для ванной»; Lighting → kitchen/wardrobe/bath; Storage →
@@ -222,10 +224,129 @@ SOURCES: list[dict[str, Any]] = [
     {"name": "DM tag bathroom",          "url": "https://design-milk.com/tag/bathroom/feed/",       "scrape_gallery": True},
     {"name": "DM tag bedroom",           "url": "https://design-milk.com/tag/bedroom/feed/",        "scrape_gallery": True},
     {"name": "DM tag living room",       "url": "https://design-milk.com/tag/living-room/feed/",   "scrape_gallery": True},
-    {"name": "DM tag office",            "url": "https://design-milk.com/tag/office/feed/",         "scrape_gallery": True},
+    # NOTE: DM tag office REMOVED 2026-06 — 0 items (tag feed empty).
     {"name": "DM tag wardrobe",          "url": "https://design-milk.com/tag/wardrobe/feed/",       "scrape_gallery": True},
-    {"name": "DM tag lighting",          "url": "https://design-milk.com/tag/lighting/feed/",       "scrape_gallery": True},
+    # NOTE: DM tag lighting REMOVED 2026-06 — 0 items (tag feed empty).
     {"name": "DM tag storage",           "url": "https://design-milk.com/tag/storage/feed/",        "scrape_gallery": True},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # EXPANDED SOURCES (2026-06 batch) — hand-tested HTTP 200 + valid feed + photos.
+    # Added to broaden coverage of cabinet-furniture / interior-project photography.
+    # Each was verified: feed returns 200, items have embedded images, recent titles
+    # match cabinet/furniture/kitchen/interior DESIGN keywords, sample images load
+    # with quality dimensions (most ≥1000px). See /home/z/my-project/worklog.md.
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    # ── Premium interior / home tours (strong project photography) ──────────────
+    # Architectural Digest — premium home tours, celebrity homes, kitchen/bath
+    # features. Sample photos: 2880x1921, 4531x3022, 4350x2870 (very high-res).
+    {"name": "Architectural Digest",     "url": "https://www.architecturaldigest.com/feed/rss",     "scrape_gallery": True},
+    # House Beautiful UK — UK edition of Hearst home magazine. Sample photos:
+    # 2241x1500, 4000x2667. Strong kitchen/furniture coverage.
+    {"name": "House Beautiful UK",       "url": "https://www.housebeautiful.com/uk/rss/all.xml"},
+    # Hunker — interiors/furniture design. Sample photos: 1600x899.
+    {"name": "Hunker",                   "url": "https://www.hunker.com/feed",                       "scrape_gallery": True},
+
+    # ── Interior / architecture project portfolios (cabinet furniture in situ) ──
+    # Home Adore — interior project showcases. Sample photos: 1050x700+.
+    {"name": "Home Adore",               "url": "http://homeadore.com/feed",                        "scrape_gallery": True},
+    # NOTE: Archilovers Projects + Divisare REMOVED 2026-06 — pure architecture
+    # project feeds (house names, no furniture keywords); produced 0 furniture-
+    # relevant items after the classifier. Kept Home Adore which has interior
+    # project showcases that do pass the furniture/interior relevance filter.
+
+    # ── Cabinet / furniture design specialists ──────────────────────────────────
+    # Case Furniture UK — furniture designer's project case studies (restaurants,
+    # colleges, installations). 8/8 furniture relevance, photos 1280x560+.
+    {"name": "Case Furniture UK",        "url": "https://www.casefurniture.com/blogs/news.atom"},
+    # RTA Cabinet Store — cabinet project blog, 8/8 cabinet relevance. Photos 600x600.
+    {"name": "RTA Cabinet Store",        "url": "https://www.rtacabinetstore.com/blog/feed/"},
+    # Core77 — industrial/furniture design magazine, 7/8 furniture relevance.
+    # Photos 400x400 (square crops, but content-rich).
+    {"name": "Core77",                   "url": "https://www.core77.com/rss.xml"},
+    # NKBA — National Kitchen & Bath Association. Industry but kitchen/bath focused.
+    {"name": "NKBA",                     "url": "https://www.nkba.org/feed/"},
+    # Id Lights — interior/lighting design blog. 4/8 furniture relevance.
+    {"name": "Id Lights",                "url": "https://idlights.com/feed/"},
+
+    # ── Russian sources (critical for @abakan_mebel Russian audience) ───────────
+    # NOTE: Novate.ru REMOVED 2026-06 — feed images are tiny ~150px preview
+    # thumbnails (novate.ru/preview/<id>s1.jpg) with no larger version available,
+    # and the feed is mostly off-topic (cars, science, lifehacks) — only ~3/40
+    # items pass the furniture relevance filter. Replaced by Vse-o-remonte which
+    # has full-size content photos and 8/8 furniture relevance.
+    # Vse-o-remonte.ru — Russian renovation/interior site. 8/8 furniture relevance!
+    # Kitchen/bathroom/countertop installation articles with photos in <content>.
+    {"name": "Vse-o-remonte",            "url": "https://vse-o-remonte.ru/feed",                    "scrape_gallery": True},
+
+    # ═══════════════════════════════════════════════════════════════════════════
+    # EXPANDED SOURCES (2026-06 batch 2) — 32 more hand-verified feeds
+    # Each verified: HTTP 200, valid feed, items have embedded images, recent
+    # titles match cabinet/furniture/kitchen/interior DESIGN keywords, sample
+    # images load with quality dimensions. See /home/z/my-project/worklog.md
+    # and feed_candidates_report.json / feed_candidates_report_batch2.json.
+    # ═══════════════════════════════════════════════════════════════════════════
+
+    # ── More UK home / interior magazines (kitchen tours, furniture, interiors) ──
+    # NOTE: House & Garden UK REMOVED 2026-06 — all RSS paths return 404
+    # (the site discontinued its RSS feed; homepage works but no feed endpoint).
+    {"name": "Country Living UK",        "url": "https://www.countryliving.com/uk/rss/all.xml"},
+    {"name": "Good Housekeeping UK",     "url": "https://www.goodhousekeeping.com/uk/rss/all.xml"},
+
+    # ── Australian interior magazines (strong kitchen/furniture project photos) ──
+    # ★ Interiors Addict AU scored 8/8 furniture-relevance in testing — direct
+    # kitchen/furniture/cabinet coverage (e.g. "Farmhouse sinks now available as
+    # part of kaboodle kitchen's range").
+    {"name": "Interiors Addict AU",      "url": "https://theinteriorsaddict.com/feed/",               "scrape_gallery": True},
+    {"name": "Home Beautiful AU",        "url": "https://www.homebeautiful.com.au/rss",               "scrape_gallery": True},
+    {"name": "Homes To Love AU",         "url": "https://www.homestolove.com.au/feed",                "scrape_gallery": True},
+    {"name": "Better Homes & Gardens AU","url": "https://www.bhg.com.au/rss"},
+    # NOTE: Belle Magazine AU REMOVED 2026-06 — all RSS paths return 404.
+    # NOTE: The Design Files AU REMOVED 2026-06 — HTTP 403 (bot-blocked).
+    # Inside Out AU + Real Living AU — Are Media properties; DNS may fail from
+    # some networks but resolves from GitHub Actions runner. Parser skips with
+    # a warning if unreachable, so kept for when the network cooperates.
+    {"name": "Inside Out AU",            "url": "https://www.insideout.com.au/rss"},
+    {"name": "Real Living AU",           "url": "https://www.realliving.com.au/rss"},
+
+    # ── Kitchen & bath trade / period homes (cabinet furniture in situ) ──────────
+    {"name": "Period Homes",             "url": "https://www.period-homes.com/feed/"},
+
+    # ── Cabinet / furniture-making publications (project-rich, real workshops) ──
+    # Hand-tested 2026-06: each returns furniture/cabinet-making articles with
+    # project photography (not industry/factory news — filtered by blocklist).
+    {"name": "Popular Woodworking",      "url": "https://www.popularwoodworking.com/feed/"},
+    {"name": "Woodshop News",            "url": "https://www.woodshopnews.com/rss"},
+    {"name": "Wood Whisperer",           "url": "https://thewoodwhisperer.com/feed/"},
+    {"name": "Lost Art Press",           "url": "https://blog.lostartpress.com/feed/"},
+    {"name": "Renaissance Woodworker",   "url": "https://renaissancewoodworker.com/feed/"},
+
+    # ── DIY furniture / cabinet blogs (project photos, before/after, plans) ─────
+    {"name": "Shanty 2 Chic",            "url": "https://www.shanty-2-chic.com/feed/",                "scrape_gallery": True},
+    {"name": "Build-Basic",              "url": "https://build-basic.com/feed/",                      "scrape_gallery": True},
+    {"name": "Plaster & Disaster",       "url": "https://plasteranddisaster.com/feed/"},
+    {"name": "DIY Candy",                "url": "https://diycandy.com/feed/"},
+    {"name": "The Lettered Cottage",     "url": "https://theletteredcottage.net/feed/"},
+    {"name": "Unhappy Hipsters",         "url": "https://unhappyhipsters.com/feed/",                  "scrape_gallery": True},
+
+    # ── Home / lifestyle (interior/furniture project photos) ─────────────────────
+    {"name": "Bob Vila",                 "url": "https://www.bobvila.com/feed/"},
+    {"name": "Family Handyman",          "url": "https://www.familyhandyman.com/feed/"},
+    {"name": "PopSugar Home",            "url": "https://www.popsugar.com/home/rss"},
+
+    # ── Furniture-design publications ───────────────────────────────────────────
+    # ★ Yanko Design furniture category — 8/8 furniture relevance, 1280x960 photos.
+    {"name": "Yanko Design furniture",   "url": "https://www.yankodesign.com/category/furniture/feed/", "scrape_gallery": True},
+    {"name": "Azure magazine CA",        "url": "https://www.azuremagazine.com/feed"},
+    {"name": "Stylepark DE",             "url": "https://www.stylepark.com/feed"},
+
+    # ── Design Boom tag feeds (work when the main /feed/ 403s) ───────────────────
+    # The main Design Boom feed + /design/ + /category/interiors/ all return HTTP
+    # 403 (bot-blocked). The architecture tag feed still returns 200 with 500x400
+    # photos and produces furniture/interior-relevant items (e.g. hanok interiors,
+    # preschool reconfigurations). Art + technology tags were tested but produced
+    # 0 furniture-relevant items after the classifier, so they were not added.
+    {"name": "Design Boom architecture", "url": "https://www.designboom.com/architecture/feed/"},
 ]
 
 # ─────────────────────────────────────────────────────────────────────────────
@@ -626,8 +747,86 @@ def fetch_url(url: str, want_html: bool = False) -> tuple[int | None, bytes | No
         return None, None, str(e)
 
 
-def extract_image(entry: Any) -> str | None:
-    """Try every standard RSS image location. Returns None if no image found."""
+# ─────────────────────────────────────────────────────────────────────────────
+# Image URL upgrade — resolve relative URLs and upgrade thumbnails to full-size
+#
+# Many RSS feeds embed a small thumbnail as the lead image (e.g. Dezeen's
+# 411x411 square crop, ArchDaily's 528x352 medium_jpg, Archi.ru's 150x112
+# preview). The full-size version is usually available by:
+#   1. Stripping the WordPress "-WxH" size suffix (Dezeen: sq-411x411.jpg → sq.jpg
+#      gives 2364x2364; works for any WP media library image).
+#   2. Upgrading ArchDaily path segment "medium_jpg" → "large_jpg"
+#      (528x352 → 2000x1333).
+#   3. Upgrading Archi.ru path "/i/150/" → "/i/1262/" (150x112 → 1200x900).
+# Also handles protocol-relative URLs ("//host/path" → "https://host/path")
+# used by Novate.ru, and relative URLs ("/path" → resolved against feed base)
+# used by Мебель-expo.
+# ─────────────────────────────────────────────────────────────────────────────
+def upgrade_image_url(url: str, base_url: str = "") -> str:
+    """Resolve relative URLs and upgrade known thumbnail patterns to full-size."""
+    if not url:
+        return url
+    # Protocol-relative URL (//host/path) — used by Novate.ru
+    if url.startswith("//"):
+        url = "https:" + url
+    # Relative URL (/path or path) — resolve against feed base URL
+    if base_url and not url.startswith(("http://", "https://")):
+        url = urljoin(base_url, url)
+    if not url.startswith(("http://", "https://")):
+        return url
+
+    # ── Archi.ru: /i/<size>/ → /i/1262/ (thumbnail → full-size) ──
+    # i.archi.ru serves multiple sizes under /i/<size>/ path: /i/150/, /i/150_150/,
+    # /i/752_792/, /i/752_501/, etc. 1262 is the largest standard size.
+    if "i.archi.ru/i/" in url:
+        url = re.sub(r"/i/\d+[_\d]*/", "/i/1262/", url)
+
+    # ── ArchDaily: any size variant → large_jpg in path ──
+    # images.adsttc.com/media/images/<hash>/<size>/<file>.jpg
+    # Sizes: thumb_jpg (~125px), medium_jpg (~528px), large_jpg (~2000px).
+    # Gallery scraping picks up thumb_jpg and medium_jpg; upgrade both to large_jpg.
+    if "adsttc.com/media/images/" in url:
+        url = re.sub(r"/(?:thumb|medium|small|tiny)_jpg/", "/large_jpg/", url)
+
+    # ── Hearst CDN (hips.hearstapps.com): strip crop/resize query params ──
+    # Hearst serves the SAME image at any crop via ?crop=...&resize=... query.
+    # Stripping these gives the full-size original (e.g. 4350x2870 instead of 360x360).
+    # Affected: Veranda, Elle Decor, House Beautiful, Good Housekeeping, Country Living.
+    if "hearstapps.com" in url:
+        p = urlparse(url)
+        q = parse_qs(p.query)
+        # Remove sizing params; keep only non-sizing params (if any)
+        sizing_keys = {"crop", "resize", "w", "h", "width", "height"}
+        kept = {k: v for k, v in q.items() if k.lower() not in sizing_keys}
+        new_query = "&".join(f"{k}={v[0]}" for k, v in kept.items())
+        url = f"{p.scheme}://{p.netloc}{p.path}" + (f"?{new_query}" if new_query else "")
+
+    # ── WordPress size suffix strip: -WxH.jpg → .jpg ──
+    # Dezeen sq-411x411.jpg → sq.jpg (411→2364); works for any WP image.
+    # But ONLY strip if the suffix looks like a real WP crop marker
+    # (2-4 digit W and H), to avoid mangling other URLs.
+    m = re.search(r"-\d{2,4}x\d{2,4}(?=\.\w+$)", url)
+    if m:
+        url = url[:m.start()] + url[m.end():]
+
+    # ── Future CDN (cdn.mos.cms.futurecdn.net / images.fie.futurecdn.net) ──────
+    # Future Publishing CDN serves the same image at any size via a
+    # "-<width>-<quality>" suffix before the extension:
+    #   foo-1280-80.jpg (1280x720) → foo.jpg (1600x900 full-size)
+    #   foo-450-80.jpg.webp → foo.jpg.webp
+    # Affected: Homes & Gardens, Ideal Home, Livingetc, Wallpaper, Real Homes.
+    if "futurecdn.net" in url:
+        url = re.sub(r"-\d+-\d+(?=\.\w+(?:\.\w+)?$)", "", url)
+
+    return url
+
+
+def extract_image(entry: Any, base_url: str = "") -> str | None:
+    """Try every standard RSS image location. Returns None if no image found.
+
+    The extracted URL is passed through upgrade_image_url() to resolve relative
+    URLs and upgrade known thumbnail patterns to full-size versions.
+    """
     candidates: list[str] = []
 
     for enc in getattr(entry, "enclosures", []) or []:
@@ -660,10 +859,17 @@ def extract_image(entry: Any) -> str | None:
 
     # Return the first NON-garbage candidate; fall back to first candidate
     # only if all are garbage (caller decides whether to drop the item).
+    chosen: str | None = None
     for c in candidates:
         if not is_garbage_image(c):
-            return c
-    return candidates[0] if candidates else None
+            chosen = c
+            break
+    if chosen is None and candidates:
+        chosen = candidates[0]
+    if chosen is None:
+        return None
+    # Upgrade: resolve relative URLs + upgrade thumbnails to full-size
+    return upgrade_image_url(chosen, base_url)
 
 
 def strip_html(s: str) -> str:
@@ -775,7 +981,11 @@ def extract_gallery_from_html(html_text: str, base_url: str, lead_image: str | N
         return (premium, _image_size_hint(u))
 
     chosen.sort(key=rank, reverse=True)
-    return chosen[: MAX_IMAGES_PER_ITEM - 1]
+    # Apply the same thumbnail-upgrade logic to gallery images (Dezeen WP suffix,
+    # ArchDaily medium_jpg→large_jpg, Archi.ru i/150→i/1262) so multi-photo items
+    # also carry full-size images rather than thumbnails.
+    chosen = [upgrade_image_url(u, base_url) for u in chosen[: MAX_IMAGES_PER_ITEM - 1]]
+    return chosen
 
 
 def scrape_article_images(url: str, lead_image: str | None) -> list[str]:
@@ -836,7 +1046,7 @@ def fetch_one(source: dict[str, Any]) -> list[dict[str, Any]]:
             summary = summary[:597].rsplit(" ", 1)[0] + "…"
 
         link = getattr(entry, "link", "") or ""
-        image = extract_image(entry)
+        image = extract_image(entry, base_url)
         published = parse_date(entry)
 
         combined = f"{title} {summary}".lower()
