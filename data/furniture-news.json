@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-26T22:21:31.917570+00:00",
-  "generated_at_human": "2026-06-26 22:21 UTC",
-  "total_items": 238,
+  "generated_at": "2026-06-27T00:18:32.389806+00:00",
+  "generated_at_human": "2026-06-27 00:18 UTC",
+  "total_items": 239,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DIY Candy",
@@ -32,6 +31,7 @@
     "Family Handyman",
     "Garden & Home SA",
     "Gardenista",
+    "Home Adore",
     "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
@@ -54,7 +54,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -62,8 +61,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 54,
+  "sources_count": 55,
+  "multi_photo_items": 57,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -73,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=36698",
+        "http://i.archi.ru/i/1262/405309.jpg?r=35125",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -81,6 +80,19 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "4d9b9c6f25550cde",
+      "title": "A Peninsula Counter Nearly Doubled the Storage in This 1950s Kitchen",
+      "summary": "Knocking out a wall makes it feel way bigger, too, though the footprint stayed pretty much the same. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/blue-white-diy-kitchen-renovation-more-storage-ba-37554034?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-12/KB_1_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-12/KB_1_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-26T22:00:00+00:00"
     },
     {
       "id": "202ceffc2c5fcc61",
@@ -352,9 +364,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/how-a-korean-dowry-chest-inspired-a-smarter-modular-furniture-system/aend-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/paper-tube/paper_tube_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/5-portable-outdoor-furniture-pieces-that-transform-the-first-is-an-umbrella-chair/Portable-Outdoor-Furniture_Folding_28.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/02/24/duo.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/04/ssd_chair_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/fels-stool/fels_stool_out_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/09/herman-miller-gaming-x-faile-artistic-gaming-chairs-and-character-joysticks-are-impressive/Herman-Miller-Gaming-x-FAILE-12.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -426,9 +438,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/haworth-just-gave-its-most-loved-office-chair-a-softer-side/hello-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/01_thefurnicloud_illumika_modularfurnituresystem.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/10/13/crossover_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/top-10-furniture-for-your-living-room/top_10_furniture_designs_living_room_yanko_design_hero.jpeg"
+        "https://www.yankodesign.com/images/design_news/2012/09/05/frames_wall_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/04/this-ultra-minimal-desk-hides-its-modular-nature-in-plain-sight/desk-design-elements.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/09/folding_wall_chair_with_stroage_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -757,6 +769,24 @@
       "published": "2026-06-25T12:27:26+00:00"
     },
     {
+      "id": "7922fa13e5b3edfb",
+      "title": "Lovingcolors Opens a 1960s Apartment by Martina Pozzi",
+      "summary": "Lovingcolors is a 2021 apartment renovation in Bergamo, Italy, designed by Martina Pozzi. Reworking a typical 1960s plan, the project combines the kitchen, dining area, and living room into a single open day space while cutting back the long, narrow corridor. Just as important, it uses storage and color with unusual precision, giving each room […] The post Lovingcolors Opens a 1960s Apartment by Martina Pozzi first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/06/25/lovingcolors-opens-a-1960s-apartment-by-martina-pozzi/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/06/001-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/004-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/006-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/007-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/008-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/009-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-06-25T12:06:37+00:00"
+    },
+    {
       "id": "2e8efba9ff995ae5",
       "title": "Forget Traditional Towel Rings: A Piece Of Brass Wire Creates Bathroom Storage",
       "summary": "Store-bought towel rings, bars, and hooks solve the same problem in almost every bathroom. Brittney Smart took a different approach using a short piece of brass wire, a wall hook, and a few hand tools. What started as a straight length of wire became a geometric towel holder that adds storage while introducing a custom... The post Forget Traditional Towel Rings: A Piece Of Brass Wire Creates Bathroom Storage appeared first on Homedit .",
@@ -890,6 +920,24 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-25T05:00:28+00:00"
+    },
+    {
+      "id": "62772074c0555db2",
+      "title": "PR 27 Sets a Black Facade Against Warm Rooms",
+      "summary": "PR 27 is a house in Madrid, Spain, designed by Iñigo Iriarte. Conceived for clients with a distinct personal style, it sets a dark, sharply profiled exterior against interiors that feel warmer, softer, and more closely tied to everyday life. About PR 27 PR 27 takes contrast as its clearest architectural instrument. Designed by Iñigo […] The post PR 27 Sets a Black Facade Against Warm Rooms first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/06/25/pr-27-sets-a-black-facade-against-warm-rooms/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-pr-27-sets-a-black-facade-against-warm-rooms.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/06/001-pr-27-sets-a-black-facade-against-warm-rooms.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/003-pr-27-sets-a-black-facade-against-warm-rooms.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/005-pr-27-sets-a-black-facade-against-warm-rooms.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/006-pr-27-sets-a-black-facade-against-warm-rooms.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/007-pr-27-sets-a-black-facade-against-warm-rooms.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/009-pr-27-sets-a-black-facade-against-warm-rooms.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-06-25T00:22:37+00:00"
     },
     {
       "id": "e2508fba908d5273",
@@ -1208,19 +1256,6 @@
       "published": "2026-06-23T13:00:38+00:00"
     },
     {
-      "id": "1479f30d3f85b1f5",
-      "title": "Get Ready for Furniture to Start Matching Sports Drinks",
-      "summary": "Supersaturated hues like “Fierce Grape” have moved out of the locker room and into the living room. The post Get Ready for Furniture to Start Matching Sports Drinks appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/milan-design-week-colour-trends-2026-sports-drinks/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-06-23T13:00:00+00:00"
-    },
-    {
       "id": "39a63a50f1933028",
       "title": "Furniture Designers Keep Turning Everyday Objects Into Statement Pieces",
       "summary": "Furniture design does not always begin with lumber, upholstery, or cabinet parts. Bicycles, musical instruments, industrial equipment, shipping crates, farm wagons, and vintage luggage continue appearing in collections that blur the line between furniture, art, and salvage. Each piece starts with an object designed for a completely different purpose. Instead of hiding that origin, designers... The post Furniture Designers Keep Turning Everyday Objects Into Statement Pieces appeared first on Homedit .",
@@ -1512,6 +1547,24 @@
       "published": "2026-06-21T14:00:00+00:00"
     },
     {
+      "id": "3b24abdbf6fad5ab",
+      "title": "Private Ocean Front Home Opens to the Atlantic Edge",
+      "summary": "Private Ocean Front Home stands on the coast in Óbidos, Portugal, where Jorge Sousa Santos shapes a house around the experience of the sea. Completed in 2026, the project places long facade windows, a terrace, and a large living room at the center of daily life. Inside, minimalist rooms by Studio Forma 96 carry the […] The post Private Ocean Front Home Opens to the Atlantic Edge first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/06/21/private-ocean-front-home-opens-to-the-atlantic-edge/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-private-ocean-front-home-opens-to-the-atlantic-edge.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/06/001-private-ocean-front-home-opens-to-the-atlantic-edge.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/002-private-ocean-front-home-opens-to-the-atlantic-edge.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/009-private-ocean-front-home-opens-to-the-atlantic-edge.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/001-private-ocean-front-home-opens-to-the-atlantic-edge.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/004-private-ocean-front-home-opens-to-the-atlantic-edge.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/006-private-ocean-front-home-opens-to-the-atlantic-edge.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-06-21T13:32:15+00:00"
+    },
+    {
       "id": "8d785c2610f5bb19",
       "title": "Eight scenic bathrooms with a window to the great outdoors",
       "summary": "A wet room surrounded by the Costa Rican jungle and a built-in tub overlooking a Japanese beach feature in our latest lookbook, which brings together bathrooms with enviable nature views. The following homes are united by their dreamy coastal settings, framed by intentionally large windows. This glazing is especially effective in the homes' bathrooms, which The post Eight scenic bathrooms with a window to the great outdoors appeared first on Dezeen .",
@@ -1645,19 +1698,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-18T13:19:36+00:00"
-    },
-    {
-      "id": "b0c46d17e9d1361b",
-      "title": "Q&A: Yves Béhar on Office Design, the Tech Industry and Being a Burning Man Board Member",
-      "summary": "We caught up with the Fuseproject founder in Chicago to hear about his latest furniture design, Peaks — and how it relates to the ever-evolving workplace (and world). The post Q&A: Yves Béhar on Office Design, the Tech Industry and Being a Burning Man Board Member appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/interview-yves-behar-peaks-tech-offices-burning-man/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-YvesBehar-Peaks-portrait.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-YvesBehar-Peaks-portrait.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-06-18T13:17:42+00:00"
     },
     {
       "id": "320dfbc0ce41932e",
@@ -1799,7 +1839,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -2150,7 +2190,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2712,7 +2752,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2769,7 +2809,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -2987,7 +3027,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3104,7 +3144,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3341,19 +3381,6 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
-    },
-    {
-      "id": "d2ebf1c95182cff8",
-      "title": "Custom Built-In Desk, Huge Transformation",
-      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
