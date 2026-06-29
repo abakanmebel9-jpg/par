@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-29T11:22:28.163462+00:00",
-  "generated_at_human": "2026-06-29 11:22 UTC",
-  "total_items": 251,
+  "generated_at": "2026-06-29T16:06:25.423540+00:00",
+  "generated_at_human": "2026-06-29 16:06 UTC",
+  "total_items": 240,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -39,12 +39,10 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
     "Popular Woodworking",
-    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -63,7 +61,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 57,
+  "sources_count": 55,
   "multi_photo_items": 59,
   "items": [
     {
@@ -74,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=5272",
+        "http://i.archi.ru/i/1262/405309.jpg?r=97899",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -82,6 +80,119 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "a2a3b47a5b811f21",
+      "title": "IKEA Has A New Storage Solution That's A Sleek Alternative To The BILLY Bookcase",
+      "summary": "This new bookshelf from IKEA reflects more recent design trends compared to the ever-popular BILLY bookcase. It features wooden legs and a brass rail.",
+      "url": "https://www.hunker.com/2201640/ikea-farjkarl-billy-bookcase-alternative-storage-rail/",
+      "image": "https://www.hunker.com/img/gallery/ikea-has-a-new-storage-solution-thats-a-sleek-alternative-to-the-billy-bookcase/l-intro-1782402533.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ikea-has-a-new-storage-solution-thats-a-sleek-alternative-to-the-billy-bookcase/l-intro-1782402533.jpg",
+        "https://www.hunker.com/img/gallery/ikea-has-a-new-storage-solution-thats-a-sleek-alternative-to-the-billy-bookcase/intro-1782402533.jpg",
+        "https://www.hunker.com/img/gallery/ikea-has-a-new-storage-solution-thats-a-sleek-alternative-to-the-billy-bookcase/the-frjkarl-bookcase-is-an-elevated-ikea-shelving-unit-1782402536.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-06-29T14:30:00+00:00"
+    },
+    {
+      "id": "c3da8dbf86611c41",
+      "title": "This $28 Keychain Camera Has a Flip Screen to Take Better Selfies",
+      "summary": "This $28 Keychain Camera Has a Flip Screen to Take Better Selfies The bridge between digital and analog has been continually growing over the years. 2026 in particular has seen a lot of analog-first or analog-only products...",
+      "url": "https://www.yankodesign.com/2026/06/29/this-28-keychain-camera-has-a-flip-screen-to-take-better-selfies/?utm_source=rss&utm_medium=rss&utm_campaign=this-28-keychain-camera-has-a-flip-screen-to-take-better-selfies",
+      "image": "https://www.yankodesign.com/images/design_news/2026/06/this-28-keychain-camera-has-a-flip-screen-to-take-better-selfies/yashica-01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/06/this-28-keychain-camera-has-a-flip-screen-to-take-better-selfies/yashica-01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-06-29T14:20:21+00:00"
+    },
+    {
+      "id": "f5e4e318a4a962c3",
+      "title": "reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living",
+      "summary": "the main structural concept for the reconstruction is described as ‘four parallel walls and a roof.’ The post reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/reclaimed-stone-timber-basque-farmhouse-contemporary-living-zu-studio/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/reclaimed-stone-timber-basque-farm-zu-studio-designboom-700-500x400-22b08q85r111.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/06/reclaimed-stone-timber-basque-farm-zu-studio-designboom-700-500x400-22b08q85r111.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-06-29T14:00:44+00:00"
+    },
+    {
+      "id": "07faadfd39f8339d",
+      "title": "A Nifty, More Functional Alternative to the Countertop Access Flap",
+      "summary": "At cafes and bars, a portion of the countertop often flips up to provide a pass-through for workers. Common though this solution is, it has a flaw: People tend to place objects on horizontal surfaces, and the flap must be cleared of objects before you can raise it. Cambodian architecture firm Khoan + Partners designed something more functional for the Lagràce Café Koh Norea in Phnom Penh:",
+      "url": "https://www.core77.com/posts/144613/A-Nifty-More-Functional-Alternative-to-the-Countertop-Access-Flap",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1839825_lead_400_144613_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1839825_lead_400_144613_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-06-29T14:00:00+00:00"
+    },
+    {
+      "id": "e5d87cf6389d6d95",
+      "title": "Empty Pantry Alcove Turned Into a Floor-to-Ceiling Cabinet With Pull-Out Drawers",
+      "summary": "Deep pantry shelves often waste storage because items at the back become difficult to reach. Builder-grade alcoves can present the same problem, leaving valuable space underused despite having enough room for full-height cabinetry. Reddit user Pyratess approached the space from a different angle by building a custom floor-to-ceiling pantry cabinet filled with full-extension pull-out drawers... The post Empty Pantry Alcove Turned Into a Floor-to-Ceiling Cabinet With Pull-Out Drawers appeared first on Homedit .",
+      "url": "https://www.homedit.com/empty-pantry-alcove-turned-into-a-floor-to-ceiling-cabinet-with-pull-out-drawers/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Empty-Pantry-Alcove-Turned-Into-a-Floor-to-Ceiling-Cabinet-With-Pull-Out-Drawers.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Empty-Pantry-Alcove-Turned-Into-a-Floor-to-Ceiling-Cabinet-With-Pull-Out-Drawers.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Pull-Out-Drawers-Replaced-Deep-Fixed-Shelves.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/full-height-shaker-doors.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Interior-Divider-Created-Two-Independent-Storage-Bays.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Unused-Alcove-Offered-Room-for-a-Full-Height-Pantry.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Plywood-Panels-Established-the-Cabinet-Footprint.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-06-29T13:13:53+00:00"
+    },
+    {
+      "id": "9e71baf6e87ff56a",
+      "title": "Not Wicker Or Wrought Iron: The Patio Furniture That's Dating Your Yard In 2026",
+      "summary": "This patio furniture trend was never going to last into 2026 - literally. It's far from durable and considered rather subpar by modern designers.",
+      "url": "https://www.hunker.com/2200423/wood-pallet-furniture-outdated-2026/",
+      "image": "https://www.hunker.com/img/gallery/not-wicker-or-wrought-iron-the-patio-furniture-thats-dating-your-yard-in-2026/l-intro-1782290666.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/not-wicker-or-wrought-iron-the-patio-furniture-thats-dating-your-yard-in-2026/l-intro-1782290666.jpg",
+        "https://www.hunker.com/img/gallery/not-wicker-or-wrought-iron-the-patio-furniture-thats-dating-your-yard-in-2026/intro-1782290666.jpg",
+        "https://www.hunker.com/img/gallery/not-wicker-or-wrought-iron-the-patio-furniture-thats-dating-your-yard-in-2026/skip-pallet-patio-furniture-in-2026-for-a-cozier-style-1782290668.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
+      "id": "cdd8c63e2c122467",
+      "title": "The Swerv: A Three-Wheeled Vehicle Designed Purely to Provide Thrills",
+      "summary": "The mobility space focuses on moving people around for practical purposes. But as a student at Imperial College London's Dyson School of Design Engineering, Kerim Taskin designed a vehicle purely to provide a thrilling experience for the rider. His Swerv electric trike has a quite unusual riding position: So what's the point of this? Taskin explains, and it sounds like more of a mental health aid than a vehicle: Do you ever feel like your mind is going through a thick fog? Or like you just want your racing thoughts to stand still? Or maybe like the walls are closing in and your internal…",
+      "url": "https://www.core77.com/posts/144605/The-Swerv-A-Three-Wheeled-Vehicle-Designed-Purely-to-Provide-Thrills",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1839762_lead_400_144605_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1839762_lead_400_144605_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
     },
     {
       "id": "c3a5adf8cccf6aba",
@@ -92,10 +203,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Dark-Kitchens-Are-Starting-to-Mix-Black-Stone-With-Reclaimed-Wood.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Reclaimed-Wood-Cabinets-Break-Up-the-Black-Palette-1.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Empty-Pantry-Alcove-Turned-Into-a-Floor-to-Ceiling-Cabinet-With-Pull-Out-Drawers.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/IKEA-Cabinets-Became-Custom-White-Oak-Millwork-and-the-Kitchen-Looks-Nothing-Like-Before.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Pine-Panel-Ended-Up-Looking-Like-a-Designer-Coffee-Table.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Not-A-Single-Groundcover-Mixed-Planting-Borders-Are-Reshaping-Modern-Gardens.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Patriotic-Tablescapes-Are-Mixing-Classic-Americana-With-Everyday-Dinnerware-in-2026.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Not-A-Single-Groundcover-Mixed-Planting-Borders-Are-Reshaping-Modern-Gardens.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -187,8 +298,8 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Reclaimed-Timber-Inspired-the-Design.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Wabi-Sabi-Details-Completed-the-Design.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Dark-Stain-Brought-Out-the-Carved-Grain.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Custom-Color-Deepened-the-Finish.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/IKEA-Cabinets-Became-Custom-White-Oak-Millwork-and-the-Kitchen-Looks-Nothing-Like-Before.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Empty-Pantry-Alcove-Turned-Into-a-Floor-to-Ceiling-Cabinet-With-Pull-Out-Drawers.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Custom-Color-Deepened-the-Finish.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -203,7 +314,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/fabio-fantolino-leve-office-bar-turin_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
     },
@@ -227,12 +338,7 @@
       "url": "https://www.homedit.com/ikea-cabinets-became-custom-white-oak-millwork-and-the-kitchen-looks-nothing-like-before/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/IKEA-Cabinets-Became-Custom-White-Oak-Millwork-and-the-Kitchen-Looks-Nothing-Like-Before.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/IKEA-Cabinets-Became-Custom-White-Oak-Millwork-and-the-Kitchen-Looks-Nothing-Like-Before.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Fluted-Oak-Made-the-Island-Stand-Apart-From-the-Cabinets.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Checkerboard-Tile-Pulled-Attention-Across-the-Entire-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/White-Oak-Turned-IKEA-Cabinets-Into-Built-In-Millwork.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Sage-Green-Stools-Broke-Up-the-Wood-Palette.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/White-Cabinets-Disappeared-Behind-White-Oak-Veneer.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/IKEA-Cabinets-Became-Custom-White-Oak-Millwork-and-the-Kitchen-Looks-Nothing-Like-Before.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -280,8 +386,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/salvatori-showroom-milano-MDW26-7.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/salvatori-showroom-milano-MDW26-7.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Kerakoll-Colors_VideoVilloresi_01-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -307,9 +413,7 @@
       "url": "https://www.hunker.com/2202585/upcycle-old-pickle-jars-countertop-storage-napkin-decoupage/",
       "image": "https://www.hunker.com/img/gallery/transform-old-pickle-jars-into-high-end-countertop-storage-in-a-few-easy-steps/l-intro-1782491445.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/transform-old-pickle-jars-into-high-end-countertop-storage-in-a-few-easy-steps/l-intro-1782491445.jpg",
-        "https://www.hunker.com/img/gallery/transform-old-pickle-jars-into-high-end-countertop-storage-in-a-few-easy-steps/intro-1782491445.jpg",
-        "https://www.hunker.com/img/gallery/transform-old-pickle-jars-into-high-end-countertop-storage-in-a-few-easy-steps/how-to-give-a-pickle-jar-a-glow-up-1782491447.jpg"
+        "https://www.hunker.com/img/gallery/transform-old-pickle-jars-into-high-end-countertop-storage-in-a-few-easy-steps/l-intro-1782491445.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -322,9 +426,7 @@
       "url": "https://www.hunker.com/2202468/dishware-brand-new-york-stoneware-company-thrift-store/",
       "image": "https://www.hunker.com/img/gallery/dishware-brand-new-york-stoneware-company-thrift-store/l-intro-1782511796.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/dishware-brand-new-york-stoneware-company-thrift-store/l-intro-1782511796.jpg",
-        "https://www.hunker.com/img/gallery/dishware-brand-new-york-stoneware-company-thrift-store/intro-1782511796.jpg",
-        "https://www.hunker.com/img/gallery/dishware-brand-new-york-stoneware-company-thrift-store/how-to-identify-new-york-stoneware-company-pieces-1782511798.jpg"
+        "https://www.hunker.com/img/gallery/dishware-brand-new-york-stoneware-company-thrift-store/l-intro-1782511796.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -340,9 +442,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/04/this-emotion-controlling-wearable-gives-you-black-mirror-iron-man-feels/Hapee_first_wearable_that_lets_you_feel_calm.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/12/espresso-portable-displays-bring-elegance-to-productivity/worlds_thinnest_portable_touch_display_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/11/kitcht/kitcht_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/07/g3/g3strap_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/11/with-5-lenses-and-108-megapixels-the-xiaomi-mi-cc9-pro-has-the-best-camera-on-a-smartphone/xiaomi_mi_cc9_pro_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/03/18/telepathy_one.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -380,58 +482,6 @@
       "published": "2026-06-28T21:00:00+00:00"
     },
     {
-      "id": "0efc18e03c9cd673",
-      "title": "AI Generates Thousands of Product Renders a Day. Almost None Ship.",
-      "summary": "AI Generates Thousands of Product Renders a Day. Almost None Ship. In April 2024, a design page called Inspiring Designs posted a few images of a gorilla-shaped couch. The gorilla’s arms curved into armrests. Its chest...",
-      "url": "https://www.yankodesign.com/2026/06/28/ai-generates-thousands-of-product-renders-a-day-almost-none-ship/?utm_source=rss&utm_medium=rss&utm_campaign=ai-generates-thousands-of-product-renders-a-day-almost-none-ship",
-      "image": "https://www.yankodesign.com/images/design_news/2026/06/ai-generates-thousands-of-product-renders-a-day-almost-none-ship/fake_ai_products_1.jpeg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/06/ai-generates-thousands-of-product-renders-a-day-almost-none-ship/fake_ai_products_1.jpeg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-06-28T17:20:08+00:00"
-    },
-    {
-      "id": "862b0923cce2aea3",
-      "title": "The Best Places To Buy Furniture Online Without Spending A Fortune",
-      "summary": "No one loves lugging new furniture back home from the store, so why not shop online instead? You mght just get a great deal on your next find.",
-      "url": "https://www.hunker.com/2202261/best-places-to-buy-furniture-online-affordable-budget/",
-      "image": "https://www.hunker.com/img/gallery/the-best-places-to-buy-furniture-online-without-spending-a-fortune/l-intro-1782475910.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/the-best-places-to-buy-furniture-online-without-spending-a-fortune/l-intro-1782475910.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-28T17:00:00+00:00"
-    },
-    {
-      "id": "89096ee485c01c67",
-      "title": "Ditch The Towel Rack: The Clever Storage Idea That Makes Bathrooms Look Beautiful",
-      "summary": "Looking for better bathroom organization? Explore a creative storage setup that keeps fresh towels handy while giving your space a clean, orderly feel.",
-      "url": "https://www.hunker.com/2200555/ditch-the-towel-rack-clever-bathroom-storage-idea-lattice/",
-      "image": "https://www.hunker.com/img/gallery/ditch-the-towel-rack-the-clever-storage-idea-that-makes-bathrooms-look-beautiful/l-intro-1782247778.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ditch-the-towel-rack-the-clever-storage-idea-that-makes-bathrooms-look-beautiful/l-intro-1782247778.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-28T16:00:00+00:00"
-    },
-    {
-      "id": "4077f896dd2f35fe",
-      "title": "What Is Sabbath Mode On A Refrigerator?",
-      "summary": "You might have seen a setting called Sabbath Mode on your refrigerator. Here's everything you need to know about this helpful kitchen appliance.",
-      "url": "https://www.hunker.com/2201884/what-is-sabbath-mode-refrigerator/",
-      "image": "https://www.hunker.com/img/gallery/what-is-sabbath-mode-on-a-refrigerator/l-intro-1782411943.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/what-is-sabbath-mode-on-a-refrigerator/l-intro-1782411943.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-28T15:30:00+00:00"
-    },
-    {
       "id": "e71a43752c16db3b",
       "title": "How a Soccer Stance Solved One of Furniture’s Oldest Problems",
       "summary": "How a Soccer Stance Solved One of Furniture’s Oldest Problems If you’ve ever hosted a dinner party and counted chairs two hours before guests arrived, you know the panic. Do you have enough? Do you...",
@@ -441,26 +491,13 @@
         "https://www.yankodesign.com/images/design_news/2026/06/how-a-soccer-stance-solved-one-of-furnitures-oldest-problems/spielbein-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/soft-furniture-concept-lets-you-place-comfort-on-a-pedestal/solo-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/346144/01_square2square_kyungseonnam_versatilefurniture.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/06/21/table_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/04/chair-with-extended-arms-to-help-elderly-sit-and-stand-without-assistance/extended-chair_senior-citizens_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/12/28/zen01.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/04/22/kauri_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-06-28T15:20:09+00:00"
-    },
-    {
-      "id": "7a50d47e9f0e6d38",
-      "title": "Skip Sliding Shelves: There's A Better Way To Organize Overhead Cabinets",
-      "summary": "Unreachable storage just isn't practical, so take this nifty cabinet organization idea to make the items in your highest cabinets easier to access.",
-      "url": "https://www.hunker.com/2200933/organize-overhead-cabinets-turn-into-drawers-use-bins/",
-      "image": "https://www.hunker.com/img/gallery/skip-sliding-shelves-theres-a-better-way-to-organize-overhead-cabinets/l-intro-1782326975.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-sliding-shelves-theres-a-better-way-to-organize-overhead-cabinets/l-intro-1782326975.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-28T15:00:00+00:00"
     },
     {
       "id": "6f3fcc6287dbd15b",
@@ -622,19 +659,6 @@
       "published": "2026-06-27T18:00:57+00:00"
     },
     {
-      "id": "47625c0d63057fce",
-      "title": "Free Plans for Our Clamshell Bookcase",
-      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
-      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-27T17:46:58+00:00"
-    },
-    {
       "id": "78246bff9235c823",
       "title": "Limoeiro House / Mana arquitetura",
       "summary": "This project began with the purchase of a charming 1940s house in Jardim Luzitânia—a long-held dream for the family. The client approached me with the desire to preserve the soul of the house, honoring its original spirit and restoring the atmosphere of an old, lived-in home where she, her husband, their twin sons, and their dog, Amora, could live comfortably. Right at the beginning, we removed a structural wall that divided the living room, expanding the space and creating a more natural connection between the living area, the staircase, and the kitchen. This opening strategy completely…",
@@ -672,7 +696,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/la-casa-del-pirata-house-interiors-spain-raul-sanchez-architects_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-27T09:00:47+00:00"
     },
@@ -808,9 +832,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/12/a-little-better-laundry-basket/justlook_laundrybasket_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/03/multifunctional-planter-designs-that-combine-your-love-of-plants-with-the-modern-millennial-lifestyle/1_Eva-aquaponics-furniture_Francois-Hurtaud_garden-planting-chair.jpeg",
-        "https://www.yankodesign.com/images/design_news/2023/02/seating/homework_seating_collection_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/05/king-livings-triple-red-dot-win-when-australian-furniture-design-goes-global/full-set-of-haven.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/05/tailor-armchair/tailor_armchair_yanko_design_02.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/10/29/aepe_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -908,7 +932,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/house-of-baby-banh-banh-brixton_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-26T08:00:09+00:00"
     },
@@ -1167,19 +1191,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-06-25T12:06:37+00:00"
-    },
-    {
-      "id": "b194e20026f5f8d3",
-      "title": "A former railway site in Zurich is now a social hot spot clad in rosy pink timber",
-      "summary": "Budapest studio Hello Wood makes its mark on Zurich with a permanent, hot-pink complex that is part hospitality destination, part architectural statement",
-      "url": "https://www.wallpaper.com/architecture/remise-rosa-zurich-hello-wood",
-      "image": "https://cdn.mos.cms.futurecdn.net/mfwwvjUKHUUxrSjQxk8dLN.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/mfwwvjUKHUUxrSjQxk8dLN.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-06-25T11:00:00+00:00"
     },
     {
       "id": "cddba30ab34372c1",
@@ -1511,19 +1522,6 @@
       "published": "2026-06-23T13:38:29+00:00"
     },
     {
-      "id": "c9d0390328898584",
-      "title": "How to clean, protect and care for your outdoor furniture",
-      "summary": "Garden furniture that has been well-maintained through several seasons still looks purposeful and cared for. Garden furniture that has been neglected tends to show every one of its outdoor years simultaneously. The difference is not usually a significant effort; it is consistent, season-appropriate attention applied at the right moments across the year. With winter now […] The post How to clean, protect and care for your outdoor furniture appeared first on SA Garden and Home .",
-      "url": "https://www.gardenandhome.co.za/decor/outdoor-living/outdoor-furniture-care-guide-south-africa/",
-      "image": "https://www.gardenandhome.co.za/wp-content/uploads/2026/06/Blog-Banners-84.jpg",
-      "images": [
-        "https://www.gardenandhome.co.za/wp-content/uploads/2026/06/Blog-Banners-84.jpg"
-      ],
-      "source": "Garden & Home SA",
-      "source_url": "https://gardenandhome.co.za",
-      "published": "2026-06-23T13:00:38+00:00"
-    },
-    {
       "id": "1479f30d3f85b1f5",
       "title": "Get Ready for Furniture to Start Matching Sports Drinks",
       "summary": "Supersaturated hues like “Fierce Grape” have moved out of the locker room and into the living room. The post Get Ready for Furniture to Start Matching Sports Drinks appeared first on Azure Magazine .",
@@ -1667,19 +1665,6 @@
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
       "published": "2026-06-23T04:00:09+00:00"
-    },
-    {
-      "id": "5dc75642c16d8236",
-      "title": "ShopNotes Podcast Episode 275 — Let’s Just Talk About Gas Stations Again",
-      "summary": "Phil and Logan discuss the latest woodworking news from Woodsmith and Popular Woodworking. They also get into some non-woodworking things again. Head to the Woodsmith website for more info about... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-275-lets-just-talk-about-gas-stations-again/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/22095904/screenshot-2026-06-22-at-8.55.48am.png",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/22095904/screenshot-2026-06-22-at-8.55.48am.png"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-22T13:59:44+00:00"
     },
     {
       "id": "fa61e033f9e2e5da",
@@ -1827,19 +1812,6 @@
       "published": "2026-06-20T14:00:00+00:00"
     },
     {
-      "id": "d97ff0d906f09464",
-      "title": "LAP Open Wire, June 20, 2026",
-      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
-      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-20T12:00:00+00:00"
-    },
-    {
       "id": "e3722e01889eb440",
       "title": "F5: Amanda Martocchio Talks the Rockies, Her Jens Risom Stool, a Joan Snyder Painting + More",
       "summary": "Architect Amanda Martoccchio shares some of her favorites in nature, from Hawthorn trees to the Rocky Mountains, and more.",
@@ -1851,19 +1823,6 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-19T18:00:09+00:00"
-    },
-    {
-      "id": "3dd6950b3f95ebc2",
-      "title": "For Sale: Nice Machines from Kelly Mehler’s Workshop",
-      "summary": "When woodworker and instructor Kelly Mehler died unexpectedly last year, he left behind a shop full of meticulously maintained woodworking machines that he used in his personal work after he closed his woodworking school. The Mehler family is trying to find new homes for these machines, avoiding the chaos and unpredictability of an auction. These...",
-      "url": "https://blog.lostartpress.com/2026/06/19/for-sale-nice-machines-from-kelly-mehlers-workshop/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-19T16:46:51+00:00"
     },
     {
       "id": "1ac18c74e23008bc",
@@ -1879,45 +1838,6 @@
       "published": "2026-06-19T15:30:00+00:00"
     },
     {
-      "id": "65ed4eba37a5dbfd",
-      "title": "The Splinter Report: June 19th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at multitools, a close call, and... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-june-19th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/19105725/splinter-report-6-19.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/19105725/splinter-report-6-19.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-19T15:01:27+00:00"
-    },
-    {
-      "id": "ce0084d30220583f",
-      "title": "The 2026 Core77 Design Awards Consumer Technology Winners",
-      "summary": "Taking the 2026 Professional honors in the Consumer Technology category is KARRI Messenger , designed by Pentagram for KARRI. The KARRI Messenger is a child-friendly alternative to smartphones designed for kids aged 5–13, enabling voice messaging between a parent's companion app and the device—as well as between Messengers—with GPS tracking, a built-in flashlight, and a simple LED matrix display that provides feedback without distraction. With no browser, app store, camera, or exposure to spam or social media, the pocket-sized device gives children a safe and fun way to build independence…",
-      "url": "https://www.core77.com/posts/144498/The-2026-Core77-Design-Awards-Consumer-Technology-Winners",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1838855_title__144498_iibKFTJMt.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1838855_title__144498_iibKFTJMt.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-06-19T13:30:00+00:00"
-    },
-    {
-      "id": "c91ff40c2f4c9667",
-      "title": "New Book: ‘17th-Century Essex County Cupboard’",
-      "summary": "Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...",
-      "url": "https://blog.lostartpress.com/2026/06/18/new-book-17th-century-essex-county-cupboard/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-18T21:11:15+00:00"
-    },
-    {
       "id": "bcfca73d7828d49c",
       "title": "These Furniture Pieces Look Like Thrift Store Finds, but They’re Brand New",
       "summary": "Many of these furniture pieces look like they came from a thrift store, antique mall, or flea market. Distressed paint, reclaimed wood, worn finishes, and vintage hardware create the impression of furniture that has spent decades changing hands before arriving in a home. Surprisingly, none of these pieces are secondhand finds. They were part of... The post These Furniture Pieces Look Like Thrift Store Finds, but They’re Brand New appeared first on Homedit .",
@@ -1929,19 +1849,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-18T13:19:36+00:00"
-    },
-    {
-      "id": "b0c46d17e9d1361b",
-      "title": "Q&A: Yves Béhar on Office Design, the Tech Industry and Being a Burning Man Board Member",
-      "summary": "We caught up with the Fuseproject founder in Chicago to hear about his latest furniture design, Peaks — and how it relates to the ever-evolving workplace (and world). The post Q&A: Yves Béhar on Office Design, the Tech Industry and Being a Burning Man Board Member appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/interview-yves-behar-peaks-tech-offices-burning-man/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-YvesBehar-Peaks-portrait.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-YvesBehar-Peaks-portrait.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-06-18T13:17:42+00:00"
     },
     {
       "id": "320dfbc0ce41932e",
@@ -2088,19 +1995,6 @@
       "published": "2026-06-17T16:00:53+00:00"
     },
     {
-      "id": "1f5186f258a724a9",
-      "title": "LAP Open Wire on Saturday (June 20)",
-      "summary": "We’re cooking up answers for Open Wire this Saturday (June 20) on the Lost Art Press blog – so if you have a woodworking question, you’ll have until 5 p.m. Eastern to ask it in the comments section on the Open Wire post, which will go live at 8 a.m. Chris and I will do...",
-      "url": "https://blog.lostartpress.com/2026/06/17/lap-open-wire-on-saturday-june-20/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-17T15:16:43+00:00"
-    },
-    {
       "id": "5a32b1b1b7bc6f6f",
       "title": "Studio NRG designs Lilium Chair out of recycled metal car rims",
       "summary": "Colombian designer Nicolas Riano Guerrero of Studio NRG has unveiled the Lilium chair made using aluminium salvaged from car rims. The limited-edition furnishing reflects the soft shape of a flower petal with the aim of revealing how metal and other industrial materials can become approachable. \"The idea came from wanting to take one of the The post Studio NRG designs Lilium Chair out of recycled metal car rims appeared first on Dezeen .",
@@ -2203,19 +2097,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-06-15T03:12:53+00:00"
-    },
-    {
-      "id": "358468cea1e7e3f3",
-      "title": "Video: D.R. Dimes Reborn",
-      "summary": "D.R. Dimes was one of those famous furniture making companies that was so ubiquitous that you couldn’t imagine it ever going out of business. But it did. What I didn’t know is that it has recently been reborn as a one-person shop run by Douglas P. Dimes, the son of the founder. The story of...",
-      "url": "https://blog.lostartpress.com/2026/06/14/video-d-r-dimes-reborn/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/d-r-dimes-chair-maker-6894bcac1d591.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/d-r-dimes-chair-maker-6894bcac1d591.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-14T17:01:38+00:00"
     },
     {
       "id": "86055958abe0c7f5",
@@ -2463,19 +2344,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-06-10T08:00:33+00:00"
-    },
-    {
-      "id": "055495b02245a4dd",
-      "title": "New Books Update (aka Printer Delays)",
-      "summary": "Our printer is a bit more than a month behind right now, so the three new books that are gestating are overdue. They are, in order expected, Peter Follansbee’s “17th-century Essex County Cupboard,” our “Smalls” pocket book, and volume four of “The Stick Chair Journal.” We do not know when they will be in …...",
-      "url": "https://blog.lostartpress.com/2026/06/09/new-books-update-aka-printer-delays/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2945.jpg?resize=640%2C385&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2945.jpg?resize=640%2C385&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-09T15:36:28+00:00"
     },
     {
       "id": "445ca7143bd608cd",
@@ -3404,19 +3272,6 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-08T09:30:28+00:00"
-    },
-    {
-      "id": "0a1c0cc7b0a7941d",
-      "title": "Harlem Spice Chest Part II: Corbels, Molding & Drawers",
-      "summary": "This piece is inspired by period spice chests and offers a great way to practice traditional hand tool techniques. In the last issue of Popular Woodworking, we started building this... Source",
-      "url": "https://www.popularwoodworking.com/projects/harlem-spice-chest-part-ii-corbels-molding-drawers/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/05/06122659/spicechest-149-edited.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/05/06122659/spicechest-149-edited.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-05-06T18:13:35+00:00"
     },
     {
       "id": "10ba5c7a3bd6f51f",
