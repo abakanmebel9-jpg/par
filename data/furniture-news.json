@@ -1,14 +1,16 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-30T17:11:17.870128+00:00",
-  "generated_at_human": "2026-06-30 17:11 UTC",
-  "total_items": 235,
+  "generated_at": "2026-06-30T20:13:36.857122+00:00",
+  "generated_at_human": "2026-06-30 20:13 UTC",
+  "total_items": 238,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
+    "Bob Vila",
     "Core77",
     "DIY Candy",
     "DM tag furniture",
@@ -52,14 +54,15 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
-  "multi_photo_items": 55,
+  "sources_count": 55,
+  "multi_photo_items": 56,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -69,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=66302",
+        "http://i.archi.ru/i/1262/405309.jpg?r=76337",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -77,6 +80,50 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "275e38b9811f80e0",
+      "title": "6 Kitchen Reno Materials You Can Get Secondhand to Save Money and Add Instant Character",
+      "summary": "Experts recommend these cost-saving items when upgrading your kitchen on a budget. The post 6 Kitchen Reno Materials You Can Get Secondhand to Save Money and Add Instant Character appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/diy/secondhand-kitchen-renovation-materials/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/06/shutterstock_1825872026-e1782849798636.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/06/shutterstock_1825872026-e1782849798636.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-06-30T20:05:16+00:00"
+    },
+    {
+      "id": "6366ae3237b7cf8c",
+      "title": "hoshino hotel opens within the historic, radiating structure of japan’s former nara prison",
+      "summary": "the adaptive reuse keeps the prison’s radial plan, hand-laid brick, and vaulted interiors visible within a new hotel program. The post hoshino hotel opens within the historic, radiating structure of japan’s former nara prison appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/hoshino-hotel-openshistoric-radiating-japan-former-nara-prison/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/hoshinoya-nara-prison-hotel-restoration-completion-designboom-700-500x400-22b08q85r168.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/06/hoshinoya-nara-prison-hotel-restoration-completion-designboom-700-500x400-22b08q85r168.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-06-30T19:00:46+00:00"
+    },
+    {
+      "id": "1bb88ae4c4f1febf",
+      "title": "DailyObjects and LAYER Reimagine Everyday Charging",
+      "summary": "Node and Loft transform everyday charging into sculptural objects designed for the desk, bedside, and beyond.",
+      "url": "https://design-milk.com/dailyobjects-layer-node-loft-charging-collections/",
+      "image": "https://design-milk.com/images/2026/06/12-1280x900-1.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/06/12-1280x900-1.jpg",
+        "https://design-milk.com/images/2026/06/13-1280x1600-2.jpg",
+        "https://design-milk.com/images/2026/06/2-1280x1600-2.jpg",
+        "https://design-milk.com/images/2026/06/14-1280x1600-1.jpg",
+        "https://design-milk.com/images/2026/06/13-1280x1600-1.jpg",
+        "https://design-milk.com/images/2026/06/DO_NODE_10-1280x1600-1.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-06-30T18:33:08+00:00"
     },
     {
       "id": "f5294ce6867b97cd",
@@ -316,7 +363,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/nikolaj-mentze-cobe-studio-architecture-bookshop_dezeen_2364_sq_2.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-30T09:45:15+00:00"
     },
@@ -620,6 +667,19 @@
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
       "id": "c3a5adf8cccf6aba",
       "title": "Dark Kitchens Are Starting to Mix Black Stone With Reclaimed Wood",
       "summary": "Black stone, matte cabinetry, and industrial finishes continue shaping contemporary kitchens, but reclaimed wood is beginning to change the formula. Rough grain, knots, saw marks, and weathered textures introduce contrast that polished surfaces alone cannot provide. Rather than relying on bright colors or decorative details, designs like this create interest through materials. Reclaimed wood, black... The post Dark Kitchens Are Starting to Mix Black Stone With Reclaimed Wood appeared first on Homedit .",
@@ -701,7 +761,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/fabio-fantolino-leve-office-bar-turin_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
     },
@@ -773,8 +833,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Kerakoll-Colors_VideoVilloresi_01-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/salvatori-showroom-milano-MDW26-7.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -803,9 +863,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/auto-draft/muddycap_low_battery_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/577852/pokemon_poke_nade_monster_ball_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/cat_furniture_ds_yanko_design-07.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/04/21/toolpen_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/11/steam-deck-oled-drops-in-limited-edition-white-costs-30-more-than-black-variant/Steam-Deck-OLED-Limited-Edition-White-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/10/16/relieved_transfusion.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -839,9 +899,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/how-a-soccer-stance-solved-one-of-furnitures-oldest-problems/spielbein-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/06/24/origin_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/10/noho-move-chair/noho_move_dining_chair_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/11/scroll-like-seats-combine-minimalism-and-brutalism-in-a-mind-bending-design/scroll-like-seats-04.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/02/kissing-chair/kissing_chair_yanko_design_07.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/02/14/animal01.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/07/26/aero_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -926,22 +986,9 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/la-casa-del-pirata-house-interiors-spain-raul-sanchez-architects_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-27T09:00:47+00:00"
-    },
-    {
-      "id": "af05f2877ca4233c",
-      "title": "This week Frank Gehry's design for a Saadiyat Island arts centre was unveiled",
-      "summary": "This week on Dezeen, we published visuals of a rippling performing arts centre currently under construction in Abu Dhabi, designed by the architect Frank Gehry before his death. Named Dar al Funoon Abu Dhabi, the theatre complex will emulate swathes of flowing fabric on a site close to Gehry's Guggenheim Abu Dhabi, which is nearing The post This week Frank Gehry's design for a Saadiyat Island arts centre was unveiled appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/27/this-week-frank-gehry-arts-centre/",
-      "image": "http://static.dezeen.com/uploads/2026/06/dar-al-funoon-abu-dhabi-frank-gehry_dezeen_2364_sq_1-1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/dar-al-funoon-abu-dhabi-frank-gehry_dezeen_2364_sq_1-1.jpg"
-      ],
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
-      "published": "2026-06-27T05:00:19+00:00"
+      "published": "2026-06-27T09:00:47+00:00"
     },
     {
       "id": "b3f70a2db9ed907b",
@@ -997,9 +1044,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/03/03/misko_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/minimal-furniture-designs/top_10_minimal_furniture_designs_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/this-italian-designer-just-made-a-coat-rack-you-take-on-walks/walking-rack-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/12/loop/180530_01_306-180530_LOOP_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/03/27/froc_01.png",
+        "https://www.yankodesign.com/images/design_news/2020/02/10-of-our-favorite-furniture-design-projects-from-the-a-design-awards-2019/top_adesign_award_furnitures.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1100,19 +1147,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-26T07:17:47+00:00"
-    },
-    {
-      "id": "44846a7121848b18",
-      "title": "inside a century-old hanok, urban sophistication seoul flagship is organized like a home",
-      "summary": "the 140-square-meter project builds its retail experience around the home’s original circulation, courtyard, and timber structure. The post inside a century-old hanok, urban sophistication seoul flagship is organized like a home appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/century-old-hanok-urban-sophistication-seoul-flagship-organized-home/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/06/century-old-hanok-urban-sophistication-seoul-flagship-logic-domestic-life-designboom-700-500x400-22b08q85r872.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/06/century-old-hanok-urban-sophistication-seoul-flagship-logic-domestic-life-designboom-700-500x400-22b08q85r872.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-06-26T06:30:28+00:00"
     },
     {
       "id": "61f55f00d0d4e4d9",
@@ -1543,6 +1577,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-06-23T13:38:29+00:00"
+    },
+    {
+      "id": "1479f30d3f85b1f5",
+      "title": "Get Ready for Furniture to Start Matching Sports Drinks",
+      "summary": "Supersaturated hues like “Fierce Grape” have moved out of the locker room and into the living room. The post Get Ready for Furniture to Start Matching Sports Drinks appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/milan-design-week-colour-trends-2026-sports-drinks/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-23T13:00:00+00:00"
     },
     {
       "id": "39a63a50f1933028",
@@ -2146,19 +2193,6 @@
       "published": "2026-06-12T15:32:37+00:00"
     },
     {
-      "id": "7a6c322175ee8139",
-      "title": "F5: Lidia Valdivia Talks Her Partner’s Art, Nights in Cairo, a Greek Island + More",
-      "summary": "Designer-builder Lidia Valdivia shares some of her favorite destinations, from Egypt to Greece, and more.",
-      "url": "https://design-milk.com/f5-lidia-valdivia-talks-her-partners-art-nights-in-cairo-a-greek-island-more/",
-      "image": "https://design-milk.com/images/2026/06/F5-Lidia-Valdivia-Moonstone-Design-Build-works-01-kitchen-with-orange.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/06/F5-Lidia-Valdivia-Moonstone-Design-Build-works-01-kitchen-with-orange.jpg"
-      ],
-      "source": "Design Milk Interiors",
-      "source_url": "https://design-milk.com",
-      "published": "2026-06-12T14:00:27+00:00"
-    },
-    {
       "id": "b8d28eaf6038a435",
       "title": "Eight products that debuted at 3 Days of Design 2026",
       "summary": "Dezeen Showroom: following this year's edition of 3 Days of Design in Copenhagen, we've rounded up eight furnishings and surfaces that were launched during the event. Over 400 brands from around the world congregated in the Danish capital for the 13th edition of the annual design week, which took place on 10, 11 and 12 The post Eight products that debuted at 3 Days of Design 2026 appeared first on Dezeen .",
@@ -2271,7 +2305,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2794,7 +2828,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2819,11 +2853,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/04/DIY-Bench-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/10/DIY-Dollhouse-Bookcase.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2838,7 +2872,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3043,7 +3077,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3160,7 +3194,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3332,6 +3366,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
