@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-30T11:49:44.570468+00:00",
-  "generated_at_human": "2026-06-30 11:49 UTC",
-  "total_items": 237,
+  "generated_at": "2026-06-30T14:39:44.470961+00:00",
+  "generated_at_human": "2026-06-30 14:39 UTC",
+  "total_items": 236,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DIY Candy",
@@ -52,14 +53,15 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
-  "multi_photo_items": 54,
+  "sources_count": 54,
+  "multi_photo_items": 55,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -69,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=16036",
+        "http://i.archi.ru/i/1262/405309.jpg?r=99422",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -77,6 +79,50 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "4d15e5dc35cd6010",
+      "title": "diagonal timber wall installation becomes furniture, shelter, and landscape frame in spain",
+      "summary": "un obradoiro emerges from a hands-on design-build workshop led by erazo pugliese with first-year architecture students at cesuga. The post diagonal timber wall installation becomes furniture, shelter, and landscape frame in spain appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/diagonal-timber-wall-installation-furniture-shelter-landscape-frame-spain-a-coruna-cesuga-erazo-pugliese/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/un-obradoiro-hands-on-design-build-workshop-wood-fabric-cesuga-erazo-pugliese-a-coruna-spain-designboom-700-500x400-22b08q85r212.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/06/un-obradoiro-hands-on-design-build-workshop-wood-fabric-cesuga-erazo-pugliese-a-coruna-spain-designboom-700-500x400-22b08q85r212.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-06-30T13:00:00+00:00"
+    },
+    {
+      "id": "64fb29853b9d2399",
+      "title": "Casa AT by Unode Estudio",
+      "summary": "Casa AT reworks a row house in Aravaca, Madrid, as a calmer and more connected domestic interior. Designed by Unode Estudio, the 2026 house renovation reshapes the ground floor into a single bright sequence from entry to garden, using a curved central element and custom oak furniture to bring circulation, storage, and daily use into […] The post Casa AT by Unode Estudio first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/06/30/casa-at-by-unode-estudio/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-casa-at-by-unode-estudio.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/06/001-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/006-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/010-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/009-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/012-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/003-casa-at-by-unode-estudio.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-06-30T12:25:36+00:00"
+    },
+    {
+      "id": "c129f0d7c6a9be34",
+      "title": "She Created the Ultimate IKEA Toy Storage — Her Basement Is Clutter-Free",
+      "summary": "\"There are still a few stray big toy items that cannot fit in the drawers or cabinets, but overall it has the perfect mix of functionality, open space, and design I was craving,\" the homeowner says of the \"After.\" READ MORE...",
+      "url": "https://www.apartmenttherapy.com/white-ikea-basement-built-in-hack-2000-dollars-ba-37560564?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-11/stephanie_b_before_correct_1_horiz_tagged_copy",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-11/stephanie_b_before_correct_1_horiz_tagged_copy"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-06-30T12:00:00+00:00"
     },
     {
       "id": "9cab7b45b88e81ea",
@@ -133,7 +179,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/nikolaj-mentze-cobe-studio-architecture-bookshop_dezeen_2364_sq_2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-30T09:45:15+00:00"
     },
@@ -211,6 +257,24 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-30T07:44:40+00:00"
+    },
+    {
+      "id": "3bd2b2b9e2e5bfe6",
+      "title": "From Quarry to Countertop: Tracing the Origins of Natural Stone in Architecture",
+      "summary": "For some time now, it has become common for us to ask where what we consume comes from . We check labels, look for local producers, and investigate supply chains in an attempt to understand the impact of our habits—on our own health and on the planet.",
+      "url": "https://www.archdaily.com/1042445/from-quarry-to-countertop-tracing-the-origins-of-natural-stone-in-architecture",
+      "image": "https://images.adsttc.com/media/images/6a2b/2bca/aa48/ad01/89b7/c46d/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_5.jpg?1781214167",
+      "images": [
+        "https://images.adsttc.com/media/images/6a2b/2bca/aa48/ad01/89b7/c46d/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_5.jpg?1781214167",
+        "https://images.adsttc.com/media/images/6a2b/2e97/aa48/ad01/89b7/c486/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_17.jpg?1781214922",
+        "https://images.adsttc.com/media/images/6a2b/2bcf/6341/424b/115d/d720/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_12.jpg?1781214200",
+        "https://images.adsttc.com/media/images/6a2b/2bc9/6341/4201/8a2c/3559/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_4.jpg?1781214161",
+        "https://images.adsttc.com/media/images/6a2b/2bd1/aa48/ad01/89b7/c474/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_13.jpg?1781214182",
+        "https://images.adsttc.com/media/images/6a2b/2e99/aa48/ad01/89b7/c487/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_18.jpg?1781214936"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-06-30T07:30:00+00:00"
     },
     {
       "id": "2083f2a6e1de056a",
@@ -423,19 +487,6 @@
       "published": "2026-06-29T18:30:00+00:00"
     },
     {
-      "id": "a26eb6111dfad079",
-      "title": "Turn Bathroom Clutter Into Stylish Countertop Storage With A Smart Dollar Tree DIY",
-      "summary": "A chic suite of bathroom storage products is only a DIY away. Try this hack with Dollar Tree supplies to clean up and store your countertop clutter.",
-      "url": "https://www.hunker.com/2201831/dollar-tree-diy-vanity-set-stylish-bathroom-countertop-storage/",
-      "image": "https://www.hunker.com/img/gallery/dollar-tree-diy-vanity-set-stylish-bathroom-countertop-storage/l-intro-1782722581.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/dollar-tree-diy-vanity-set-stylish-bathroom-countertop-storage/l-intro-1782722581.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-29T16:30:00+00:00"
-    },
-    {
       "id": "f5e4e318a4a962c3",
       "title": "reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living",
       "summary": "the main structural concept for the reconstruction is described as ‘four parallel walls and a roof.’ The post reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living appeared first on designboom | architecture & design magazine .",
@@ -485,6 +536,19 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
@@ -569,7 +633,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/fabio-fantolino-leve-office-bar-turin_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
     },
@@ -671,9 +735,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/the-bendy-phones-are-coming/lenovo_bendphone_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/11/auto-draft/ember_ceramic_mug_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/07/this-key-fob-is-like-a-universal-remote-for-all-your-smart-devices/omnifob_worlds_smartest_key_fob2_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/04/an-ergonomic-zero-gravity-chair-that-works-for-wfh-and-netflix-binge/01-balans_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/12/13/delight_tubelight.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/07/ecothermo/ecothermo_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -707,9 +771,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/how-a-soccer-stance-solved-one-of-furnitures-oldest-problems/spielbein-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/12/bobo/bobo_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/11/draft-mizu/mizu_table_installation_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/02/auto-draft/pet_furniture_ds_yanko_design-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/10/12/cor_sofa.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/02/wardrobe/hero_wardrobe_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/12/draft-yodeeza/yodeeza_stool_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -763,19 +827,6 @@
       "published": "2026-06-28T08:00:00+00:00"
     },
     {
-      "id": "554976d70b44653d",
-      "title": "Picture Rail Molding Made Their 140-Square-Foot Bedroom Feel Taller",
-      "summary": "Inspired by her client’s project and her dark green IKEA curtains, photographer Meghan Beierle-O’Brien decided to finally make her and her husband’s primary bedroom a place she wanted to be. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/moody-green-picture-rail-bedroom-ba-37560457?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-06/meghan-b-primary-bedroom/meghan-b-bedroom-before-lead",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-06/meghan-b-primary-bedroom/meghan-b-bedroom-before-lead"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-06-27T19:45:00+00:00"
-    },
-    {
       "id": "f3fb6f23990abd36",
       "title": "Textiles promoting emotional wellbeing among Lucerne School of Design, Film and Art projects",
       "summary": "Dezeen School Shows: a textile collection designed to promote emotional wellbeing is among the projects from the Lucerne School of Design, Film and Art. Also featured is a project that uses weaving techniques to explore community connection and a fabric collection for car interiors, which provides a sustainable alternative to fossil-based options. Lucerne School of The post Textiles promoting emotional wellbeing among Lucerne School of Design, Film and Art projects appeared first on Dezeen .",
@@ -823,7 +874,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/la-casa-del-pirata-house-interiors-spain-raul-sanchez-architects_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-27T09:00:47+00:00"
     },
@@ -857,19 +908,6 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-06-26T18:00:38+00:00"
-    },
-    {
-      "id": "9f15e095d9328483",
-      "title": "Ten products and furnishings infused with Italian style",
-      "summary": "Dezeen Showroom: a headboard topped with oversized ceramic beads is among the pieces on Dezeen Showroom by Italian design brands. From speakers set atop marble plinths to chairs informed by the process of hand-sketching, the following pieces demonstrate the continuation of Italy's long-standing design and craft heritage. Products by brands found up and down the The post Ten products and furnishings infused with Italian style appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/26/ten-furnishings-products-tiles-seating-italian-brands-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/06/italian-design-special-feature-showroom_dezeen_2364_col_0-2.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/italian-design-special-feature-showroom_dezeen_2364_col_0-2.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-26T18:00:23+00:00"
     },
     {
       "id": "fa91e6c91706e378",
@@ -920,9 +958,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/multifunctional-furniture-designs/multifunction_furniture_designs_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2026/06/how-pasta-became-interior-designs-most-playful-muse/Pasta_furniture_product_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/these-lightweight-foam-chairs-could-finally-fix-public-seating/foam-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/02/14/mamba.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/09/easy-to-carry-basketball-holder-for-small-handed-players-is-a-must-have-sports-accessory/CLAW-Basketball-Ballholder-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/07/this-pill-shaped-furniture-combines-a-full-length-mirror-and-storage-shelf-in-one/04-Orte_shelf_mirror_furniture_modern.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1036,19 +1074,6 @@
       "source": "Design Boom architecture",
       "source_url": "https://www.designboom.com",
       "published": "2026-06-26T06:30:28+00:00"
-    },
-    {
-      "id": "c03a963da38000e9",
-      "title": "This traditional adobe home survived a fire – and found a new life as a midcentury-inspired California hacienda",
-      "summary": "Designer Kirsten Blazek rebuilt around a single surviving wall, blending Native American-influenced objects, midcentury furniture and a palette drawn straight from the San Gabriel Mountains",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/midcentury-california-home",
-      "image": "https://cdn.mos.cms.futurecdn.net/dRkTrsV5iGGftkyrNiBwZm.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/dRkTrsV5iGGftkyrNiBwZm.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-06-26T06:00:00+00:00"
     },
     {
       "id": "61f55f00d0d4e4d9",
@@ -1212,12 +1237,7 @@
       "url": "https://homeadore.com/2026/06/25/lovingcolors-opens-a-1960s-apartment-by-martina-pozzi/",
       "image": "https://homeadore.com/wp-content/uploads/2026/06/001-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/06/001-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/004-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/006-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/007-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/008-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/009-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/06/001-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -1512,6 +1532,19 @@
       "published": "2026-06-23T13:38:29+00:00"
     },
     {
+      "id": "1479f30d3f85b1f5",
+      "title": "Get Ready for Furniture to Start Matching Sports Drinks",
+      "summary": "Supersaturated hues like “Fierce Grape” have moved out of the locker room and into the living room. The post Get Ready for Furniture to Start Matching Sports Drinks appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/milan-design-week-colour-trends-2026-sports-drinks/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-23T13:00:00+00:00"
+    },
+    {
       "id": "39a63a50f1933028",
       "title": "Furniture Designers Keep Turning Everyday Objects Into Statement Pieces",
       "summary": "Furniture design does not always begin with lumber, upholstery, or cabinet parts. Bicycles, musical instruments, industrial equipment, shipping crates, farm wagons, and vintage luggage continue appearing in collections that blur the line between furniture, art, and salvage. Each piece starts with an object designed for a completely different purpose. Instead of hiding that origin, designers... The post Furniture Designers Keep Turning Everyday Objects Into Statement Pieces appeared first on Homedit .",
@@ -1774,19 +1807,6 @@
       "published": "2026-06-19T16:46:51+00:00"
     },
     {
-      "id": "1ac18c74e23008bc",
-      "title": "The 2026 Core77 Design Awards Home & Living Winners",
-      "summary": "The 2026 Home & Living Professional winner is Tin Can , a modern take on the landline designed specifically for kids—a screen-free, ad-free, text-free phone that operates on a fully private network where only approved callers can reach the device, offering voice communication stripped back to its most essential form. With no browser, app store, camera, or spam exposure, Tin Can gives parents peace of mind while giving children a more intentional, independent way to stay connected to friends and family. The jury \"loved the connection between the form, the brand name and its purpose.\" In…",
-      "url": "https://www.core77.com/posts/144508/The-2026-Core77-Design-Awards-Home-n-Living-Winners",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1838849_title__144508_Zqv0SjluI.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1838849_title__144508_Zqv0SjluI.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-06-19T15:30:00+00:00"
-    },
-    {
       "id": "c91ff40c2f4c9667",
       "title": "New Book: ‘17th-Century Essex County Cupboard’",
       "summary": "Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...",
@@ -1939,7 +1959,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -3262,32 +3282,6 @@
       "published": "2026-04-30T17:00:07+00:00"
     },
     {
-      "id": "615a9ee643a48fef",
-      "title": "Ten young designers and studios to watch from Salone Satellite 2026",
-      "summary": "Textiles composed like music and vessels made with the help of a sensitive robot feature in our round-up of the most exciting emerging designers and studios from Salone Satellite – Milan's annual showcase for under-35s. When the heaving halls of furniture fair Salone del Mobile get overwhelming, Salone Satellite provides a retreat, bursting with innovative The post Ten young designers and studios to watch from Salone Satellite 2026 appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/04/29/designers-to-watch-salone-satellite-2026/",
-      "image": "http://static.dezeen.com/uploads/2026/04/satellite_aya_kawabata-dezeen-2364_sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/04/satellite_aya_kawabata-dezeen-2364_sq.jpg"
-      ],
-      "source": "Dezeen tag lighting",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-04-29T09:00:41+00:00"
-    },
-    {
-      "id": "b82148e1fc485a64",
-      "title": "The kitchen's rejuvenation",
-      "summary": "As the leading trade fair for kitchen design, EuroCucina is, as ever, pulling out all the stops – yet behind the spectacular installations, a clear shift is emerging: kitchens are becoming brighter, more serene and more organic. A quiet transformation in turbulent times.",
-      "url": "https://www.stylepark.com/en/news/eurocucina-milan-design-week-salone-del-mobile-kitchen-design-stylepark-magazine",
-      "image": "https://www.stylepark.com/assets/articles/TS_QF_2_EurocucinaReview26.jpg",
-      "images": [
-        "https://www.stylepark.com/assets/articles/TS_QF_2_EurocucinaReview26.jpg"
-      ],
-      "source": "Stylepark DE",
-      "source_url": "https://www.stylepark.com",
-      "published": "2026-04-28T22:00:00+00:00"
-    },
-    {
       "id": "c51ad4658b40fb17",
       "title": "Тимур Иртуганов принял участие в конференции БАЗИС 2026",
       "summary": "Компания Базис проводит в Москве 2-х дневную техническую конференцию на тему «БАЗИС 2026: автоматизация мебельного бизнеса, проверенная временем» . Мероприятие посвящено автоматизации мебельного предприятия с использованием системы БАЗИС, информационно-коммуникационных технологий, образовательным программам подготовки специалистов мебельной отрасли. Генеральный директор АМДПР Тимур Иртуганов выступил с приветственным словом и рассказал о состоянии мебельного производства. Дата проведения: 22 апреля с 09.00 до 18.00 час. 23 апреля с 09.00 до 18.00 час. Место проведения: Гостиница \"Измайлово…",
@@ -3340,6 +3334,19 @@
       "published": "2026-04-20T08:44:31+00:00"
     },
     {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
+    },
+    {
       "id": "1133d9f81d41eec5",
       "title": "The Y2K Teen Bedroom Is Back, Baby",
       "summary": "Courtesy of Kara Pavlik When I was designing my childhood bedroom in the early 2000s, I had a clear vision: periwinkle walls, a canopy bed with tie-dye bedding, a lava lamp, and a carefully curated corkboard collage pinned with Hannah Montana posters, photos with friends, and Tiger Beat magazine cutouts.",
@@ -3377,19 +3384,6 @@
       "source": "DM tag furniture",
       "source_url": "https://design-milk.com",
       "published": "2026-04-02T14:00:39+00:00"
-    },
-    {
-      "id": "7b8da7273f84aa5f",
-      "title": "The Cedric Mitchell x JOOPITER Collaboration Is True Memphis with Modern Funk",
-      "summary": "Colorful and contemporary, this collaboration from Cedric Mitchell and JOOPITER spans fashion, furniture, and most importantly, fun.",
-      "url": "https://design-milk.com/the-cedric-mitchell-x-joopiter-collaboration-is-true-memphis-with-modern-funk/",
-      "image": "https://design-milk.com/images/2026/03/Cedric-Mitchell-Joopiter-0.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/03/Cedric-Mitchell-Joopiter-0.jpg"
-      ],
-      "source": "Design Milk Art",
-      "source_url": "https://design-milk.com",
-      "published": "2026-04-01T13:00:45+00:00"
     }
   ]
 }
