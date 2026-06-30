@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-06-30T20:13:36.857122+00:00",
-  "generated_at_human": "2026-06-30 20:13 UTC",
+  "generated_at": "2026-06-30T22:22:40.523732+00:00",
+  "generated_at_human": "2026-06-30 22:22 UTC",
   "total_items": 238,
   "sources_used": [
     "Apartment Therapy",
@@ -28,6 +28,7 @@
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
     "Dezeen tag offices",
+    "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
     "Gardenista",
@@ -61,8 +62,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 56,
+  "sources_count": 56,
+  "multi_photo_items": 57,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -72,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=76337",
+        "http://i.archi.ru/i/1262/405309.jpg?r=72252",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -80,6 +81,55 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "37e1572f35ccb99a",
+      "title": "Raes’ latest venue is a place to gather, dine and stay in Byron",
+      "summary": "Raes have opened the doors to their new The Bonobo hotel on Jonson Street, Byron Bay. The Bonobo by Raes offers 74 beautifully appointed hotel rooms alongside a Lobby Lounge for all-day dining and drinks, a rooftop pool, a holistic… The post Raes’ latest venue is a place to gather, dine and stay in Byron appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/raes-latest-venue-is-a-place-to-gather-dine-and-stay-in-byron",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Courtyard-4.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Courtyard-4.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Hotel-Room.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Hotel-Residence-6.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Hotel-Residence-9.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Rooftop-pool-1.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Rooftop-pool-2.jpg"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-06-30T21:00:00+00:00"
+    },
+    {
+      "id": "bcf12aee3a6f8fe8",
+      "title": "Olivia Rodrigo’s New LEGO Collection Hides Loads of Easter Eggs, Just Like Her Music Videos",
+      "summary": "Olivia Rodrigo’s New LEGO Collection Hides Loads of Easter Eggs, Just Like Her Music Videos Heartbreak made Olivia Rodrigo famous, then rage made her interesting. SOUR arrived as a teenage gut-punch of betrayal and longing, all trembling ballads and bedroom...",
+      "url": "https://www.yankodesign.com/2026/06/30/olivia-rodrigos-new-lego-collection-hides-loads-of-easter-eggs-just-like-her-music-videos/?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigos-new-lego-collection-hides-loads-of-easter-eggs-just-like-her-music-videos",
+      "image": "https://www.yankodesign.com/images/design_news/2026/06/auto-draft/olivia_rodrigo_lego_1.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/06/auto-draft/olivia_rodrigo_lego_1.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-06-30T20:30:48+00:00"
+    },
+    {
+      "id": "2e94f64a6211ac61",
+      "title": "The Biggest Kitchen Color Trends of 2026, According to Designers",
+      "summary": "“This look is surprising and delighting me after all of the white kitchens I’ve done the last 10 years.”",
+      "url": "https://www.elledecor.com/design-decorate/trends/a70062151/kitchen-paint-color-trends-2026/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/30454208-2b0a-4ed8-91a1-537490290eaf.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/30454208-2b0a-4ed8-91a1-537490290eaf.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/d1d63960-5fd3-43ca-8340-2d1bef6695d3.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/edc050125wmontanalabelle-005-681cd8db6c91f.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/bz3-kitchen-002-68a4d09819dc6.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/edc090124yovanovitch-009-66d87d630c1cb.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/abc6a4dc-1f64-4f0f-b05b-60e347bd03f5.jpg"
+      ],
+      "source": "Elle Decor",
+      "source_url": "https://www.elledecor.com",
+      "published": "2026-06-30T20:20:00+00:00"
     },
     {
       "id": "275e38b9811f80e0",
@@ -106,6 +156,21 @@
       "source": "Design Boom architecture",
       "source_url": "https://www.designboom.com",
       "published": "2026-06-30T19:00:46+00:00"
+    },
+    {
+      "id": "7d87d9808783b4ef",
+      "title": "Ditch Traditional Cabinets — IKEA Has A New Solution That Makes Storage Look Stylish",
+      "summary": "IKEA's new storage solution is perfect for anyone who loves pink and is looking to spruce up their home in the newest styles, from maximalism to '80s-inspired.",
+      "url": "https://www.hunker.com/2202667/ikea-has-a-new-ps-storage-solution-ditch-traditional-cabinets/",
+      "image": "https://www.hunker.com/img/gallery/ditch-traditional-cabinets-ikea-has-a-new-solution-that-makes-storage-look-stylish/l-intro-1782494930.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-traditional-cabinets-ikea-has-a-new-solution-that-makes-storage-look-stylish/l-intro-1782494930.jpg",
+        "https://www.hunker.com/img/gallery/ditch-traditional-cabinets-ikea-has-a-new-solution-that-makes-storage-look-stylish/intro-1782494930.jpg",
+        "https://www.hunker.com/img/gallery/ditch-traditional-cabinets-ikea-has-a-new-solution-that-makes-storage-look-stylish/the-ikea-ps-2026-glass-door-cabinet-is-a-playful-statement-piece-1782494932.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-06-30T19:00:00+00:00"
     },
     {
       "id": "1bb88ae4c4f1febf",
@@ -255,12 +320,7 @@
       "url": "https://www.hunker.com/2203404/new-dollar-tree-items-july-2026-home/",
       "image": "https://www.hunker.com/img/gallery/8-exciting-dollar-tree-home-finds-hitting-shelves-in-july-2026/l-intro-1782685560.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/8-exciting-dollar-tree-home-finds-hitting-shelves-in-july-2026/l-intro-1782685560.jpg",
-        "https://www.hunker.com/img/gallery/8-exciting-dollar-tree-home-finds-hitting-shelves-in-july-2026/intro-1782685560.jpg",
-        "https://www.hunker.com/img/gallery/8-exciting-dollar-tree-home-finds-hitting-shelves-in-july-2026/tool-bench-hardware-soft-grip-utility-knives-1782685562.jpg",
-        "https://www.hunker.com/img/gallery/8-exciting-dollar-tree-home-finds-hitting-shelves-in-july-2026/essentials-clear-plastic-3-compartment-storage-trays-with-lids-1782685562.jpg",
-        "https://www.hunker.com/img/gallery/8-exciting-dollar-tree-home-finds-hitting-shelves-in-july-2026/locker-bin-with-handles-1782685562.jpg",
-        "https://www.hunker.com/img/gallery/8-exciting-dollar-tree-home-finds-hitting-shelves-in-july-2026/floating-shelf-1782685563.jpg"
+        "https://www.hunker.com/img/gallery/8-exciting-dollar-tree-home-finds-hitting-shelves-in-july-2026/l-intro-1782685560.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -363,7 +423,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/nikolaj-mentze-cobe-studio-architecture-bookshop_dezeen_2364_sq_2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-30T09:45:15+00:00"
     },
@@ -492,19 +552,6 @@
       "published": "2026-06-30T05:24:51+00:00"
     },
     {
-      "id": "9cd3da55724aaa0e",
-      "title": "Not Coffee Grounds Or Teabags: This Kitchen Scrap Makes A Budget-Friendly Wood Stain",
-      "summary": "You don't need to go to the hardware store and spend big bucks to dye wood. You can use one household staple to make a pleasant stain at home.",
-      "url": "https://www.hunker.com/2200196/onion-skins-diy-wood-stain-budget-friendly/",
-      "image": "https://www.hunker.com/img/gallery/onion-skins-diy-wood-stain-budget-friendly/l-intro-1782832002.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/onion-skins-diy-wood-stain-budget-friendly/l-intro-1782832002.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-30T03:00:00+00:00"
-    },
-    {
       "id": "4ba37d72e274011e",
       "title": "Stylish bathroom storage ideas to keep clutter at bay",
       "summary": "Create order from the chaos The post Stylish bathroom storage ideas to keep clutter at bay appeared first on Homes To Love .",
@@ -525,7 +572,7 @@
     {
       "id": "b886852f9020ec8f",
       "title": "Classic terrace reinterpreted in a contemporary manner",
-      "summary": "Located in Melbourne’s Clifton Hill, the Northside Terrace by IF Architecture, responds to the classic model of the traditional terrace, reinterpreting its enduring presence in a contemporary manner. The approach gives the terrace a renewed expression, reshaping its spaces while… The post Classic terrace reinterpreted in a contemporary manner appeared first on The Interiors Addict .",
+      "summary": "Located in Melbourne’s Clifton Hill, the Northside Terrace by IF Architecture, responds to the classic model of the traditional terrace,… The post Classic terrace reinterpreted in a contemporary manner appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/classic-terrace-reinterpreted-in-a-contemporary-manner",
       "image": "https://files.theinteriorsaddict.com/uploads/2026/06/01_IFArchitecture_Hodgkinson-St_02.jpg",
       "images": [
@@ -539,32 +586,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-06-30T01:00:00+00:00"
-    },
-    {
-      "id": "2424f3fed729f918",
-      "title": "This Japanese Can Opener Removes the Entire Top and Makes Your Beer Taste Like Draft",
-      "summary": "This Japanese Can Opener Removes the Entire Top and Makes Your Beer Taste Like Draft Some can openers live at the back of a kitchen drawer, pulled out once a year and quickly forgotten. The DraftPro Top Can Opener belongs...",
-      "url": "https://www.yankodesign.com/2026/06/29/this-japanese-can-opener-removes-the-entire-top-and-makes-your-beer-taste-like-draft/?utm_source=rss&utm_medium=rss&utm_campaign=this-japanese-can-opener-removes-the-entire-top-and-makes-your-beer-taste-like-draft",
-      "image": "https://www.yankodesign.com/images/design_news/2026/06/draftpro-top-can-opener/draftpro_top_can_opener_yanko_design_02.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/06/draftpro-top-can-opener/draftpro_top_can_opener_yanko_design_02.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-06-29T23:30:45+00:00"
-    },
-    {
-      "id": "155063e80172ce5e",
-      "title": "Turn A Dated Honey Oak Hutch From The Thrift Store Into A Gorgeous Kitchen Island",
-      "summary": "Don't pass up that old honey oak hutch in the thrift shop! With a little elbow grease, this piece can be turned into a solid kitchen island for less than new.",
-      "url": "https://www.hunker.com/2202593/thrift-store-dated-honey-oak-hutch-diy-kitchen-island/",
-      "image": "https://www.hunker.com/img/gallery/turn-a-dated-honey-oak-hutch-from-the-thrift-store-into-a-gorgeous-kitchen-island/l-intro-1782491974.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/turn-a-dated-honey-oak-hutch-from-the-thrift-store-into-a-gorgeous-kitchen-island/l-intro-1782491974.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-29T23:00:00+00:00"
     },
     {
       "id": "3c229e8529fc960a",
@@ -761,7 +782,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/fabio-fantolino-leve-office-bar-turin_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
     },
@@ -863,9 +884,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/04/21/toolpen_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/11/steam-deck-oled-drops-in-limited-edition-white-costs-30-more-than-black-variant/Steam-Deck-OLED-Limited-Edition-White-2.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/10/16/relieved_transfusion.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/04/can-liquid-geology-collection-showcases-tables-with-contrasting/CAN-Liquid-Geology-Table-Collection-Design.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/10/10/tbike_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/09/578436/xiaomi_redmi_k80_ultra_rumor_1.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -878,12 +899,7 @@
       "url": "https://theinteriorsaddict.com/franca-studio-launch-new-plug-in-versions-of-3d-printed-lights",
       "image": "https://files.theinteriorsaddict.com/uploads/2026/06/Copy-of-KF_20260217-Franca-052_0121.jpg",
       "images": [
-        "https://files.theinteriorsaddict.com/uploads/2026/06/Copy-of-KF_20260217-Franca-052_0121.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/Leylak.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/Copy-of-KF_20260217-Franca-039_0091.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/Copy-of-KF_20260217-Franca-030_0055.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/Copy-of-KF_20260217-Franca-114_0265.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/Copy-of-KF_20260217-Franca-061_0143.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/06/Copy-of-KF_20260217-Franca-052_0121.jpg"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -899,9 +915,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/how-a-soccer-stance-solved-one-of-furnitures-oldest-problems/spielbein-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/kissing-chair/kissing_chair_yanko_design_07.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/02/14/animal01.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/07/26/aero_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/01/19/dp_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/02/08/kit_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/modern-seating-that-doubles-as-stylish-lighting-for-contemporary-homes/Lumen_chair_furniture_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -986,7 +1002,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/la-casa-del-pirata-house-interiors-spain-raul-sanchez-architects_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-27T09:00:47+00:00"
     },
@@ -1044,9 +1060,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/12/loop/180530_01_306-180530_LOOP_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/03/27/froc_01.png",
-        "https://www.yankodesign.com/images/design_news/2020/02/10-of-our-favorite-furniture-design-projects-from-the-a-design-awards-2019/top_adesign_award_furnitures.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/05/draft-z-lounger/Z_LOUNGER_Ultra_Tough_Airseat_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/02/draft/ofis_collection_chmara_rosinke_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/04/ultra-minimalist-folding-chair-tries-to-redeem-the-notchs-tarnished-reputation/notch-chair-6.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2006,7 +2022,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -2113,19 +2129,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-15T06:48:30+00:00"
-    },
-    {
-      "id": "3a98545ae324497a",
-      "title": "Updating existing homes a trend in this year’s Houses Awards",
-      "summary": "Updating an existing house rather than replacing it was one of the trends judges spotted in this year’s Houses Awards… The post Updating existing homes a trend in this year’s Houses Awards appeared first on The Interiors Addict .",
-      "url": "https://theinteriorsaddict.com/updating-existing-homes-a-trend-in-this-years-houses-awards",
-      "image": "https://files.theinteriorsaddict.com/uploads/2026/06/LowRes-Image-8-5W92A60O0ZK-Crescent-House-by-Studio-Bright-Photography-by-Gavin-Green.jpg",
-      "images": [
-        "https://files.theinteriorsaddict.com/uploads/2026/06/LowRes-Image-8-5W92A60O0ZK-Crescent-House-by-Studio-Bright-Photography-by-Gavin-Green.jpg"
-      ],
-      "source": "Interiors Addict AU",
-      "source_url": "https://theinteriorsaddict.com",
-      "published": "2026-06-15T03:12:53+00:00"
     },
     {
       "id": "358468cea1e7e3f3",
@@ -2305,7 +2308,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2828,7 +2831,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2853,11 +2856,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/04/DIY-Bench-by-Shanty2Chic.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/10/DIY-Dollhouse-Bookcase.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/04/DIY-Planter-Box.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2872,7 +2875,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3077,7 +3080,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3194,7 +3197,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
