@@ -1,17 +1,19 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-01T16:36:30.275509+00:00",
-  "generated_at_human": "2026-07-01 16:36 UTC",
-  "total_items": 242,
+  "generated_at": "2026-07-01T19:06:57.072587+00:00",
+  "generated_at_human": "2026-07-01 19:06 UTC",
+  "total_items": 245,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
     "DIY Candy",
+    "DM tag cabinets",
     "DM tag furniture",
     "Decoist",
     "Design Boom architecture",
@@ -54,14 +56,15 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 60,
+  "sources_count": 57,
+  "multi_photo_items": 61,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -71,7 +74,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=33233",
+        "http://i.archi.ru/i/1262/405309.jpg?r=44880",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -89,12 +92,30 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=36207",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=39601",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "56ef8137f6189358",
+      "title": "7 Soft Sleepy-Time Essentials to Consider for Well-Designed Rest",
+      "summary": "From responsive mattresses and breathable bedding to warm light and tactile bedside pieces, these sleep-minded designs show how softness can shape a more restorative bedroom.",
+      "url": "https://design-milk.com/7-soft-sleepy-time-essentials-to-consider-for-well-designed-rest/",
+      "image": "https://design-milk.com/images/2026/06/1-Violette-Bed-KLN-Studio.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/06/1-Violette-Bed-KLN-Studio.jpg",
+        "https://design-milk.com/images/2026/06/5-Bedding-by-HOMMEY.jpg",
+        "https://design-milk.com/images/2026/06/7-Ready-to-hang.jpg",
+        "https://design-milk.com/images/2026/06/4-Flos-Bellhop-Unplugged-white.jpg",
+        "https://design-milk.com/images/2026/06/3-Model-01-Side-Table-KOBA.jpg",
+        "https://design-milk.com/images/2026/06/6-Hatch-Restore-3.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-07-01T18:03:06+00:00"
     },
     {
       "id": "783a6cd103188a18",
@@ -121,21 +142,6 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-01T15:20:00+00:00"
-    },
-    {
-      "id": "2392e39d4945e734",
-      "title": "Woman Turns Simple Wood Rounds Into A High-End Coffee Table",
-      "summary": "With some creativity, humble wood rounds become a statement piece. This easy, highly customizable DIY delivers designer looks right to your living room.",
-      "url": "https://www.hunker.com/2204733/diy-coffee-table-round-wood-discs/",
-      "image": "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/l-intro-1782818511.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/l-intro-1782818511.jpg",
-        "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/intro-1782818511.jpg",
-        "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/construct-a-wood-round-coffee-table-1782818512.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-01T15:00:00+00:00"
     },
     {
       "id": "9a3319b1e1913f60",
@@ -179,21 +185,6 @@
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
-      "published": "2026-07-01T13:00:00+00:00"
-    },
-    {
-      "id": "e176fc3928c43647",
-      "title": "Goodbye Black Hole: Here's A Better Way To Organize Overhead Cabinets Using Vertical Storage",
-      "summary": "Save time organizing those hard-to-reach overhead cabinets by adding vertical storage, a simple and low-cost addition offering long-term convenience.",
-      "url": "https://www.hunker.com/2202711/organize-overhead-cabinets-use-vertical-storage-dividers-amazon/",
-      "image": "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/l-intro-1782496954.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/l-intro-1782496954.jpg",
-        "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/intro-1782496954.jpg",
-        "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/vertical-dividers-boost-storage-and-access-in-high-cabinets-1782496955.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
       "published": "2026-07-01T13:00:00+00:00"
     },
     {
@@ -254,6 +245,24 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-01T10:30:02+00:00"
+    },
+    {
+      "id": "187dadc17df87956",
+      "title": "Inside a Kitchen Makeover That Proves Green Really Is a Neutral",
+      "summary": "This outdated kitchen was made over with green cabinets and natural materials, which celebrates its woodsy environment outside.",
+      "url": "https://sunset.com/home-garden/home-tours/green-kitchen-makeover",
+      "image": "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1200&h=600&crop=1",
+      "images": [
+        "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/06/stove-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg",
+        "https://sunset.com/wp-content/uploads/2026/06/shelving-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg",
+        "https://sunset.com/wp-content/uploads/2026/06/stone-fruit-cobbler-almond-spoon-cake-59603-0818.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/06/before-and-after-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1024",
+        "https://sunset.com/wp-content/uploads/2026/06/before-and-after-window-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1024"
+      ],
+      "source": "Sunset",
+      "source_url": "https://www.sunset.com",
+      "published": "2026-07-01T10:21:39+00:00"
     },
     {
       "id": "2231d69059e86209",
@@ -418,7 +427,9 @@
       "url": "https://www.hunker.com/2202607/keep-kitchen-towels-off-floor-simply-folding-solution/",
       "image": "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/l-intro-1782492818.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/l-intro-1782492818.jpg"
+        "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/l-intro-1782492818.jpg",
+        "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/intro-1782492818.jpg",
+        "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/how-to-neatly-fold-dish-cloths-and-towels-1782492820.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -449,7 +460,9 @@
       "url": "https://www.hunker.com/2199480/vintage-doilies-beautiful-countertop-storage-fruit-tray/",
       "image": "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/l-intro-1782204040.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/l-intro-1782204040.jpg"
+        "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/l-intro-1782204040.jpg",
+        "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/intro-1782204040.jpg",
+        "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/tips-for-styling-lacy-doilies-on-countertops-1782204042.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -605,6 +618,19 @@
       "published": "2026-06-30T15:41:15+00:00"
     },
     {
+      "id": "2cafddbcc43a620f",
+      "title": "Ditch The Pot Rack: A More Creative Way To Hang Pots & Pans From The Ceiling",
+      "summary": "One way to free up cabinet space is to hang your pots and pans on a pot rack, but they can be expensive. For a cheaper alternative, try this creative DIY.",
+      "url": "https://www.hunker.com/2200209/creative-way-to-hang-pots-pans-ladder-rack-alternative/",
+      "image": "https://www.hunker.com/img/gallery/creative-way-to-hang-pots-pans-ladder-rack-alternative/l-intro-1782410398.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/creative-way-to-hang-pots-pans-ladder-rack-alternative/l-intro-1782410398.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-06-30T15:30:00+00:00"
+    },
+    {
       "id": "923c2b97c8acd4c7",
       "title": "The Design Drop: 11 new launches for your wish list",
       "summary": "In our latest Design Drop, craft heritage meets democratic design, artisan jewellery and flat-pack furniture. Read on to discover the most compelling objects to cross our desks this month",
@@ -631,6 +657,19 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-30T15:00:29+00:00"
+    },
+    {
+      "id": "7e5dee6a6dff7758",
+      "title": "Don't Toss Empty Cans — Turn Them Into Cute Countertop Storage",
+      "summary": "Cans are super sturdy and all sorts of embellishments adhere easily to the metal, so why not take advantage of those features by turning them into chic storage?",
+      "url": "https://www.hunker.com/2199731/reuse-empty-cans-countertop-storage-box/",
+      "image": "https://www.hunker.com/img/gallery/dont-toss-empty-cans-turn-them-into-cute-countertop-storage/l-intro-1782221532.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/dont-toss-empty-cans-turn-them-into-cute-countertop-storage/l-intro-1782221532.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-06-30T15:00:00+00:00"
     },
     {
       "id": "ebf6f980377b21a6",
@@ -755,7 +794,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/nikolaj-mentze-cobe-studio-architecture-bookshop_dezeen_2364_sq_2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-30T09:45:15+00:00"
     },
@@ -823,19 +862,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-30T07:44:40+00:00"
-    },
-    {
-      "id": "3bd2b2b9e2e5bfe6",
-      "title": "From Quarry to Countertop: Tracing the Origins of Natural Stone in Architecture",
-      "summary": "For some time now, it has become common for us to ask where what we consume comes from . We check labels, look for local producers, and investigate supply chains in an attempt to understand the impact of our habits—on our own health and on the planet.",
-      "url": "https://www.archdaily.com/1042445/from-quarry-to-countertop-tracing-the-origins-of-natural-stone-in-architecture",
-      "image": "https://images.adsttc.com/media/images/6a2b/2bca/aa48/ad01/89b7/c46d/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_5.jpg?1781214167",
-      "images": [
-        "https://images.adsttc.com/media/images/6a2b/2bca/aa48/ad01/89b7/c46d/large_jpg/da-pedreira-a-bancada-qual-a-origem-do-que-estamos-tocando_5.jpg?1781214167"
-      ],
-      "source": "ArchDaily",
-      "source_url": "https://www.archdaily.com",
-      "published": "2026-06-30T07:30:00+00:00"
     },
     {
       "id": "2083f2a6e1de056a",
@@ -931,24 +957,6 @@
       "published": "2026-06-29T20:00:41+00:00"
     },
     {
-      "id": "187dadc17df87956",
-      "title": "Inside a Kitchen Makeover That Proves Green Really Is a Neutral",
-      "summary": "This outdated kitchen was made over with green cabinets and natural materials, which celebrates its woodsy environment outside.",
-      "url": "https://sunset.com/home-garden/home-tours/green-kitchen-makeover",
-      "image": "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1200&h=600&crop=1",
-      "images": [
-        "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/stove-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg",
-        "https://sunset.com/wp-content/uploads/2026/06/shelving-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg",
-        "https://sunset.com/wp-content/uploads/2026/06/stone-fruit-cobbler-almond-spoon-cake-59603-0818.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/before-and-after-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1024",
-        "https://sunset.com/wp-content/uploads/2026/06/before-and-after-window-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1024"
-      ],
-      "source": "Sunset",
-      "source_url": "https://www.sunset.com",
-      "published": "2026-06-29T14:08:57+00:00"
-    },
-    {
       "id": "f5e4e318a4a962c3",
       "title": "reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living",
       "summary": "the main structural concept for the reconstruction is described as ‘four parallel walls and a roof.’ The post reclaimed stone and timber reshape a basque farmhouse adapted for contemporary living appeared first on designboom | architecture & design magazine .",
@@ -998,6 +1006,19 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
@@ -1056,7 +1077,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/fabio-fantolino-leve-office-bar-turin_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
     },
@@ -1142,9 +1163,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/01/auto-draft/alfaromero_c18_8.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/08/10/other_side.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/04/auto-draft/bin_8_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/06/25/pixel_clock_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/03/a-french-press-minus-the-mess/rite_press_coffee_maker_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/sonys-ps6-could-triple-the-ps5s-power-it-could-also-cost-800-and-land-in-2029/sony_ps6_ddr7_delay_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1173,9 +1194,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/how-a-soccer-stance-solved-one-of-furnitures-oldest-problems/spielbein-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/04/15/boardstories01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/faye-toogood-and-italian-craftsmanship-unite-in-the-squash-collection/Image-23.jpeg",
-        "https://www.yankodesign.com/images/design_news/2017/04/park-your-rear-on-this-porsche-chair/stool_911_4.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/02/auto-draft/thenewraw_ermis_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/06/this-side-table-is-a-sideshow-of-its-own/seron_table_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/04/22/walking_chair_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1292,9 +1313,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/11/candy-like-cylindrical-tables-change-color-when-you-nest-them/candy-table-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/this-smart-stretching-device-tracks-your-stretching-activity-to-keep-you-moving-even-when-youre-working-from-home/01_root_erickim_smartpen_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/kelp-chair/kelp_chair_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/01/22/maple_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/07/epic-workouts-anywhere-and-everywhere/monkii_cover2.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/06/06/zip_up.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1314,7 +1335,7 @@
         "https://design-milk.com/images/2026/06/Katrien-Van-Der-Schueren-Onna-House-15.jpg",
         "https://design-milk.com/images/2026/06/Katrien-Van-Der-Schueren-Onna-House-14.jpg"
       ],
-      "source": "Design Milk",
+      "source": "DM tag cabinets",
       "source_url": "https://design-milk.com",
       "published": "2026-06-26T13:00:57+00:00"
     },
@@ -1791,6 +1812,19 @@
       "published": "2026-06-23T13:38:29+00:00"
     },
     {
+      "id": "1479f30d3f85b1f5",
+      "title": "Get Ready for Furniture to Start Matching Sports Drinks",
+      "summary": "Supersaturated hues like “Fierce Grape” have moved out of the locker room and into the living room. The post Get Ready for Furniture to Start Matching Sports Drinks appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/milan-design-week-colour-trends-2026-sports-drinks/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-23T13:00:00+00:00"
+    },
+    {
       "id": "39a63a50f1933028",
       "title": "Furniture Designers Keep Turning Everyday Objects Into Statement Pieces",
       "summary": "Furniture design does not always begin with lumber, upholstery, or cabinet parts. Bicycles, musical instruments, industrial equipment, shipping crates, farm wagons, and vintage luggage continue appearing in collections that blur the line between furniture, art, and salvage. Each piece starts with an object designed for a completely different purpose. Instead of hiding that origin, designers... The post Furniture Designers Keep Turning Everyday Objects Into Statement Pieces appeared first on Homedit .",
@@ -2153,7 +2187,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -2956,11 +2990,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/04/DIY-Planter-Box.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3271,7 +3305,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag kitchens",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
@@ -3456,6 +3490,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
