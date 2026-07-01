@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-01T13:39:34.362806+00:00",
-  "generated_at_human": "2026-07-01 13:39 UTC",
-  "total_items": 245,
+  "generated_at": "2026-07-01T16:36:30.275509+00:00",
+  "generated_at_human": "2026-07-01 16:36 UTC",
+  "total_items": 242,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -55,15 +54,14 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 61,
+  "sources_count": 54,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -73,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=34285",
+        "http://i.archi.ru/i/1262/405309.jpg?r=33233",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -91,12 +89,66 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=64679",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=36207",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "783a6cd103188a18",
+      "title": "This Family Reimagined Every Room in Their Apartment to Fit Their Life",
+      "summary": "From a closet-turned-nursery to a dressing room that used to be a bedroom, this colorful apartment proves every space can be designed around the way you actually live. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/kansas-city-apartment-tour-with-clever-room-ideas-37558427?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/amanda-h/tours-kansas-city-amanda-h-1743",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/amanda-h/tours-kansas-city-amanda-h-1743"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-01T16:00:00+00:00"
+    },
+    {
+      "id": "6609f5c46a7a1a70",
+      "title": "Lenovo’s AI Student Phone prioritizes learning over entertainment with smart parental controls",
+      "summary": "Lenovo’s AI Student Phone prioritizes learning over entertainment with smart parental controls Lenovo has introduced a smartphone with a very different purpose from the devices that dominate today’s gadget landscape. Instead of chasing higher performance, better cameras,...",
+      "url": "https://www.yankodesign.com/2026/07/01/lenovos-ai-student-phone-prioritizes-learning-over-entertainment-with-smart-parental-controls/?utm_source=rss&utm_medium=rss&utm_campaign=lenovos-ai-student-phone-prioritizes-learning-over-entertainment-with-smart-parental-controls",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/lenovos-ai-student-phone-prioritizes-learning-over-entertainment-with-smart-parental-controls/Lenovo-AI-Student-Phone-4.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/lenovos-ai-student-phone-prioritizes-learning-over-entertainment-with-smart-parental-controls/Lenovo-AI-Student-Phone-4.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-01T15:20:00+00:00"
+    },
+    {
+      "id": "2392e39d4945e734",
+      "title": "Woman Turns Simple Wood Rounds Into A High-End Coffee Table",
+      "summary": "With some creativity, humble wood rounds become a statement piece. This easy, highly customizable DIY delivers designer looks right to your living room.",
+      "url": "https://www.hunker.com/2204733/diy-coffee-table-round-wood-discs/",
+      "image": "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/l-intro-1782818511.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/l-intro-1782818511.jpg",
+        "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/intro-1782818511.jpg",
+        "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/construct-a-wood-round-coffee-table-1782818512.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-01T15:00:00+00:00"
+    },
+    {
+      "id": "9a3319b1e1913f60",
+      "title": "The $99 Gadget That Clears 3 Devices Off Your Nightstand",
+      "summary": "The $99 Gadget That Clears 3 Devices Off Your Nightstand The nightstand has become a staging ground for technology. Between a phone, a white noise machine, a lamp, and whatever book you’re pretending to read...",
+      "url": "https://www.yankodesign.com/2026/07/01/the-99-gadget-that-clears-3-devices-off-your-nightstand/?utm_source=rss&utm_medium=rss&utm_campaign=the-99-gadget-that-clears-3-devices-off-your-nightstand",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/the-99-gadget-that-clears-3-devices-off-your-nightstand/divoom-flowtoo-bedside-speaker-alarm-clock-05.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/the-99-gadget-that-clears-3-devices-off-your-nightstand/divoom-flowtoo-bedside-speaker-alarm-clock-05.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-01T14:20:55+00:00"
     },
     {
       "id": "c6426737a2cbb567",
@@ -107,7 +159,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/adinne-chair-leonardo-rossano-true-design_dezeen_2364_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-01T13:00:25+00:00"
     },
@@ -127,6 +179,21 @@
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
+      "published": "2026-07-01T13:00:00+00:00"
+    },
+    {
+      "id": "e176fc3928c43647",
+      "title": "Goodbye Black Hole: Here's A Better Way To Organize Overhead Cabinets Using Vertical Storage",
+      "summary": "Save time organizing those hard-to-reach overhead cabinets by adding vertical storage, a simple and low-cost addition offering long-term convenience.",
+      "url": "https://www.hunker.com/2202711/organize-overhead-cabinets-use-vertical-storage-dividers-amazon/",
+      "image": "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/l-intro-1782496954.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/l-intro-1782496954.jpg",
+        "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/intro-1782496954.jpg",
+        "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/vertical-dividers-boost-storage-and-access-in-high-cabinets-1782496955.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
       "published": "2026-07-01T13:00:00+00:00"
     },
     {
@@ -351,9 +418,7 @@
       "url": "https://www.hunker.com/2202607/keep-kitchen-towels-off-floor-simply-folding-solution/",
       "image": "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/l-intro-1782492818.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/l-intro-1782492818.jpg",
-        "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/intro-1782492818.jpg",
-        "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/how-to-neatly-fold-dish-cloths-and-towels-1782492820.jpg"
+        "https://www.hunker.com/img/gallery/keep-kitchen-towels-off-the-floor-with-a-simple-folding-solution/l-intro-1782492818.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -384,9 +449,7 @@
       "url": "https://www.hunker.com/2199480/vintage-doilies-beautiful-countertop-storage-fruit-tray/",
       "image": "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/l-intro-1782204040.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/l-intro-1782204040.jpg",
-        "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/intro-1782204040.jpg",
-        "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/tips-for-styling-lacy-doilies-on-countertops-1782204042.jpg"
+        "https://www.hunker.com/img/gallery/vintage-doilies-beautiful-countertop-storage-fruit-tray/l-intro-1782204040.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -435,19 +498,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-06-30T21:00:00+00:00"
-    },
-    {
-      "id": "bcf12aee3a6f8fe8",
-      "title": "Olivia Rodrigo’s New LEGO Collection Hides Loads of Easter Eggs, Just Like Her Music Videos",
-      "summary": "Olivia Rodrigo’s New LEGO Collection Hides Loads of Easter Eggs, Just Like Her Music Videos Heartbreak made Olivia Rodrigo famous, then rage made her interesting. SOUR arrived as a teenage gut-punch of betrayal and longing, all trembling ballads and bedroom...",
-      "url": "https://www.yankodesign.com/2026/06/30/olivia-rodrigos-new-lego-collection-hides-loads-of-easter-eggs-just-like-her-music-videos/?utm_source=rss&utm_medium=rss&utm_campaign=olivia-rodrigos-new-lego-collection-hides-loads-of-easter-eggs-just-like-her-music-videos",
-      "image": "https://www.yankodesign.com/images/design_news/2026/06/auto-draft/olivia_rodrigo_lego_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/06/auto-draft/olivia_rodrigo_lego_1.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-06-30T20:30:48+00:00"
     },
     {
       "id": "2e94f64a6211ac61",
@@ -555,19 +605,6 @@
       "published": "2026-06-30T15:41:15+00:00"
     },
     {
-      "id": "2cafddbcc43a620f",
-      "title": "Ditch The Pot Rack: A More Creative Way To Hang Pots & Pans From The Ceiling",
-      "summary": "One way to free up cabinet space is to hang your pots and pans on a pot rack, but they can be expensive. For a cheaper alternative, try this creative DIY.",
-      "url": "https://www.hunker.com/2200209/creative-way-to-hang-pots-pans-ladder-rack-alternative/",
-      "image": "https://www.hunker.com/img/gallery/creative-way-to-hang-pots-pans-ladder-rack-alternative/l-intro-1782410398.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/creative-way-to-hang-pots-pans-ladder-rack-alternative/l-intro-1782410398.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-30T15:30:00+00:00"
-    },
-    {
       "id": "923c2b97c8acd4c7",
       "title": "The Design Drop: 11 new launches for your wish list",
       "summary": "In our latest Design Drop, craft heritage meets democratic design, artisan jewellery and flat-pack furniture. Read on to discover the most compelling objects to cross our desks this month",
@@ -594,19 +631,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-30T15:00:29+00:00"
-    },
-    {
-      "id": "7e5dee6a6dff7758",
-      "title": "Don't Toss Empty Cans — Turn Them Into Cute Countertop Storage",
-      "summary": "Cans are super sturdy and all sorts of embellishments adhere easily to the metal, so why not take advantage of those features by turning them into chic storage?",
-      "url": "https://www.hunker.com/2199731/reuse-empty-cans-countertop-storage-box/",
-      "image": "https://www.hunker.com/img/gallery/dont-toss-empty-cans-turn-them-into-cute-countertop-storage/l-intro-1782221532.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/dont-toss-empty-cans-turn-them-into-cute-countertop-storage/l-intro-1782221532.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-06-30T15:00:00+00:00"
     },
     {
       "id": "ebf6f980377b21a6",
@@ -731,7 +755,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/nikolaj-mentze-cobe-studio-architecture-bookshop_dezeen_2364_sq_2.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-30T09:45:15+00:00"
     },
@@ -977,19 +1001,6 @@
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
-      "id": "7a5f6f2ae8ef6774",
-      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
-      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-06-29T13:00:00+00:00"
-    },
-    {
       "id": "41094b33ea6d3012",
       "title": "Apartment IN2 Opens a Continuous Living Space in Milan",
       "summary": "Apartment IN2 reworks an anonymous apartment in Milano, Italy, into a home with a clearer sense of character and use. Designed by Nicola Maglione in 2025, the project treats the apartment as a continuous interior, where oak parquet, dark wood paneling, and carefully placed lighting give the living areas, kitchen, and bath a steady visual […] The post Apartment IN2 Opens a Continuous Living Space in Milan first appeared on HomeAdore .",
@@ -1045,7 +1056,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/fabio-fantolino-leve-office-bar-turin_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
     },
@@ -1102,7 +1113,7 @@
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Kerakoll-Colors_VideoVilloresi_01-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/salvatori-showroom-milano-MDW26-7.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1131,9 +1142,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/top-5-note-taking-accessories/top_5_note_taking_accessories_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/draft-spinnx/SPINNX_Magnetic_Modular_Fidget_Pen_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/10/01/grain_audio.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/01/auto-draft/alfaromero_c18_8.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/08/10/other_side.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/04/auto-draft/bin_8_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1162,9 +1173,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/how-a-soccer-stance-solved-one-of-furnitures-oldest-problems/spielbein-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/01/how-to-maximize-vertical-storage-to-minimize-clutter/00-vertical.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/daniel-arshams-new-drafting-table-has-brass-gears-and-cup-holders-built-in/drafting-table-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/09/cuddle_bed_04.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/04/15/boardstories01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/06/faye-toogood-and-italian-craftsmanship-unite-in-the-squash-collection/Image-23.jpeg",
+        "https://www.yankodesign.com/images/design_news/2017/04/park-your-rear-on-this-porsche-chair/stool_911_4.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1281,9 +1292,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/12/foro-table/foro_table_yanko_design_11-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/this-table-tries-to-cure-your-smartphone-addiction-with-a-safe-for-gadgets/unhooked_box.webp",
-        "https://www.yankodesign.com/images/design_news/2012/10/29/toojo_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/11/candy-like-cylindrical-tables-change-color-when-you-nest-them/candy-table-03.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/06/this-smart-stretching-device-tracks-your-stretching-activity-to-keep-you-moving-even-when-youre-working-from-home/01_root_erickim_smartpen_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/04/kelp-chair/kelp_chair_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1438,24 +1449,6 @@
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
       "published": "2026-06-25T20:12:00+00:00"
-    },
-    {
-      "id": "5415252ea690f811",
-      "title": "Downsizing Your Kitchen Is the Best Thing About an Empty Nest",
-      "summary": "Here’s how one food writer downsized his oven and rediscovered the joy of cooking for two. The secret? The Breville Smart Oven Air Fryer.",
-      "url": "https://sunset.com/food-wine/breville-smart-oven-air-fryer",
-      "image": "https://sunset.com/wp-content/uploads/2026/06/breville-air-fryer-croissants-pr-0626.jpg?w=1200&h=600&crop=1",
-      "images": [
-        "https://sunset.com/wp-content/uploads/2026/06/breville-air-fryer-croissants-pr-0626.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/breville-air-fryer-casserole-pr-0626.jpg?crop=13px%2C0px%2C2948px%2C2213px&resize=1200%2C900",
-        "https://sunset.com/wp-content/uploads/2026/06/downtown-san-diego-skyline-pc-f11photo-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/golden-gate-bridge-traffic-pc-capturized-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/breville-air-fryer-accessories-pr-0626.jpg?w=1024",
-        "https://sunset.com/wp-content/uploads/2026/06/breville-air-fryer-with-frying-rack-pr-0626.jpg?w=1024"
-      ],
-      "source": "Sunset",
-      "source_url": "https://www.sunset.com",
-      "published": "2026-06-25T16:38:55+00:00"
     },
     {
       "id": "33365ccfed71c4a8",
@@ -1796,19 +1789,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-06-23T13:38:29+00:00"
-    },
-    {
-      "id": "1479f30d3f85b1f5",
-      "title": "Get Ready for Furniture to Start Matching Sports Drinks",
-      "summary": "Supersaturated hues like “Fierce Grape” have moved out of the locker room and into the living room. The post Get Ready for Furniture to Start Matching Sports Drinks appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/milan-design-week-colour-trends-2026-sports-drinks/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-06-23T13:00:00+00:00"
     },
     {
       "id": "39a63a50f1933028",
@@ -2173,7 +2153,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -3291,7 +3271,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag kitchens",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
@@ -3478,19 +3458,6 @@
       "published": "2026-04-20T08:44:31+00:00"
     },
     {
-      "id": "d2ebf1c95182cff8",
-      "title": "Custom Built-In Desk, Huge Transformation",
-      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-04-17T15:12:56+00:00"
-    },
-    {
       "id": "1133d9f81d41eec5",
       "title": "The Y2K Teen Bedroom Is Back, Baby",
       "summary": "Courtesy of Kara Pavlik When I was designing my childhood bedroom in the early 2000s, I had a clear vision: periwinkle walls, a canopy bed with tie-dye bedding, a lava lamp, and a carefully curated corkboard collage pinned with Hannah Montana posters, photos with friends, and Tiger Beat magazine cutouts.",
@@ -3515,19 +3482,6 @@
       "source": "Dezeen tag offices",
       "source_url": "https://www.dezeen.com",
       "published": "2026-04-05T17:00:11+00:00"
-    },
-    {
-      "id": "c01745515f2caf9c",
-      "title": "Studio OSKLO Translates Trousdale’s Architecture Into Furniture Form",
-      "summary": "Studio OSKLO's reverence for 1960s architecture unfolds through plush textiles, sculptural silhouettes, and deeply personal design.",
-      "url": "https://design-milk.com/the-trousdale-collection-from-studio-osklo-creates-structure/",
-      "image": "https://design-milk.com/images/2026/04/Trousdale-Collection-Studio-Osklo-00-Giorgio-Sofa.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/04/Trousdale-Collection-Studio-Osklo-00-Giorgio-Sofa.jpg"
-      ],
-      "source": "DM tag furniture",
-      "source_url": "https://design-milk.com",
-      "published": "2026-04-02T14:00:39+00:00"
     }
   ]
 }
