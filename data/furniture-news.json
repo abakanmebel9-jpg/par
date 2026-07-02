@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-02T04:17:15.148288+00:00",
-  "generated_at_human": "2026-07-02 04:17 UTC",
-  "total_items": 240,
+  "generated_at": "2026-07-02T08:21:13.863532+00:00",
+  "generated_at_human": "2026-07-02 08:21 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -40,6 +41,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -54,14 +56,15 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 61,
+  "sources_count": 57,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "ce1e963dd499bb8a",
@@ -71,7 +74,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=46503",
+        "http://i.archi.ru/i/1262/405309.jpg?r=94112",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -89,12 +92,79 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=47423",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=1143",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "faa608c450311746",
+      "title": "Kitchen of the Week: A Compact, Nautical Entertaining Kitchen on Cape Cod",
+      "summary": "A few summers back, Julie and Justine stopped into a Cape Cod beach house reimagined by college roommates Tei Carpenter (an architect) and Victoria Birch (an interior designer), inspired by the Belafonte, Steve Zissou’s boat in The Life Aquatic. The kitchen is filled with design ideas to steal; let’s zoom in closer. Photography by Justine Hand […]",
+      "url": "https://www.remodelista.com/posts/kitchen-of-the-week-nautical-kitchen-cape-cod-life-aquatic/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2017/09/falmouth-beach-cottage-kitchen-2-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2017/09/falmouth-beach-cottage-kitchen-2-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-02T08:00:36+00:00"
+    },
+    {
+      "id": "3e771723151f34d7",
+      "title": "She Covered One Bathroom Wall With Peel-and-Stick Tile and the Bathroom Looks Completely Different",
+      "summary": "Many bathroom updates focus on replacing vanities, countertops, or flooring, but Instagram creator @shellychicboutique chose a different approach. Rather than remove existing fixtures, she transformed the wall behind the vanity using peel-and-stick tile designed to mimic a high-end ceramic installation. The project required no demolition, grout, or professional installation. A plain painted wall became a... The post She Covered One Bathroom Wall With Peel-and-Stick Tile and the Bathroom Looks Completely Different appeared first on Homedit .",
+      "url": "https://www.homedit.com/she-covered-one-bathroom-wall-with-peel-and-stick-tile-and-the-bathroom-looks-completely-different/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/She-Covered-One-Bathroom-Wall-With-Peel-and-Stick-Tile-and-Changed-the-Entire-Space.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/She-Covered-One-Bathroom-Wall-With-Peel-and-Stick-Tile-and-Changed-the-Entire-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Green-Vanity-Stands-Out-Against-the-New-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Sheets-Were-Marked-and-Trimmed-With-Scissors.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/More-Homeowners-Are-Building-Resort-Style-Spaces-Beside-the-Pool.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Vintage-Wine-Demijohns-Can-Become-Lamps-That-Look-Custom-Made-1.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Landscape-Designers-Keep-Layering-Front-Yard-Beds-Like-This-Instead-of-Filling-Them-With-One-Flower.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-02T07:55:13+00:00"
+    },
+    {
+      "id": "7fcffd91ba0afba7",
+      "title": "More Homeowners Are Building Resort-Style Spaces Beside the Pool",
+      "summary": "More homeowners are treating the area beside the pool as more than a place for sun loungers. Recent outdoor furniture collections reveal spaces built for long afternoons and evening gatherings, where deep sofas, oversized daybeds, sculptural lounge chairs, outdoor lighting, and dining areas work together to create the atmosphere of a private resort. Rather than... The post More Homeowners Are Building Resort-Style Spaces Beside the Pool appeared first on Homedit .",
+      "url": "https://www.homedit.com/more-homeowners-are-building-resort-style-spaces-beside-the-pool/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/More-Homeowners-Are-Building-Resort-Style-Spaces-Beside-the-Pool-in-2026.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/More-Homeowners-Are-Building-Resort-Style-Spaces-Beside-the-Pool-in-2026.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Hand-Carved-Dining-Furniture-Celebrated-Solid-Timber.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Hanging-Daybeds-Turned-Relaxation-Into-a-Destination.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Covered-Daybed-Added-Shade-Without-an-Umbrella.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Hanging-Egg-Chair-Created-a-Private-Retreat.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Woven-Sun-Lounger-Replaced-Traditional-Sling-Fabric.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-02T06:20:45+00:00"
+    },
+    {
+      "id": "69513406325e30f4",
+      "title": "He Replaced a Metal Storage Rack With a Built-In Pantry",
+      "summary": "Metal storage racks often become the default pantry solution when a kitchen lacks dedicated food storage. Small appliances, cookbooks, pet supplies, snacks, and boxed foods end up stacked on open shelves that remain visible from the dining area. Shared on Imgur by docholliday316, this project replaced a freestanding wire rack with a pantry built directly... The post He Replaced a Metal Storage Rack With a Built-In Pantry appeared first on Homedit .",
+      "url": "https://www.homedit.com/he-replaced-a-metal-storage-rack-with-a-built-in-pantry/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Replaced-a-Metal-Storage-Rack-With-a-Built-In-Pantry.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Replaced-a-Metal-Storage-Rack-With-a-Built-In-Pantry.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Unused-Wall-Became-the-Pantry-Location.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Shelves-Were-Built-to-Fit-the-Space-Exactly.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Drywall-Seams-Were-Finished-Before-Paint.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Drywall-Turned-the-Frame-Into-a-Pantry.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/More-Homeowners-Are-Building-Resort-Style-Spaces-Beside-the-Pool.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-02T05:33:54+00:00"
     },
     {
       "id": "2af40f2433ac3c38",
@@ -170,9 +240,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/07/1920-x-1080-commercial-feat-image-2-6a44aeb67bd7f.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/07/1920-x-1080-commercial-feat-image-2-6a44aeb67bd7f.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-02t124724.881-6a45d14cad39b.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-design-2026-07-01t172001.269-6a44bfba8b31b.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/copy-of-split-screen-feature-template-41-6a45c34ebbe14.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/hero-crop-2026-07-02t111704.172-6a45bdc7ee2bb.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2022/08/19/21268/Untitled-design-(3).jpg?resize=1950%2C1462"
       ],
       "source": "Homes To Love AU",
@@ -477,12 +547,7 @@
       "url": "https://www.homedit.com/couple-removed-three-walls-and-completely-changed-their-kitchen/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Removed-Three-Walls-and-Rebuilt-the-Kitchen-With-Custom-Rift-White-Oak-Cabinets.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Removed-Three-Walls-and-Rebuilt-the-Kitchen-With-Custom-Rift-White-Oak-Cabinets.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Rift-White-Oak-Cabinets-Replaced-Builder-Grade-White-Shakers.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Kitchen-countertop-island.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Oversized-Island-Anchored-the-Open-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Before-and-after-Kitchen-removal.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Quartzite-Rift-White-Oak-and-a-Pot-Filler-Defined-the-Cooking-Zone.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Removed-Three-Walls-and-Rebuilt-the-Kitchen-With-Custom-Rift-White-Oak-Cabinets.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -564,12 +629,7 @@
       "url": "https://www.homedit.com/small-bathroom-looks-twice-the-size-after-this-walk-in-shower-remodel/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Tiny-Bathroom-Gave-Way-to-a-Spa-Inspired-Walk-In-Shower.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Tiny-Bathroom-Gave-Way-to-a-Spa-Inspired-Walk-In-Shower.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/1990s-Finishes-Defined-the-Original-Bathroom.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Frameless-Glass-and-a-Linear-Drain-Changed-the-Entire-Shower.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Hidden-Services-Replaced-Surface-Plumbing.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Bathroom-Was-Reduced-to-Bare-Framing.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Waterproof-drywall-bathroom.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Tiny-Bathroom-Gave-Way-to-a-Spa-Inspired-Walk-In-Shower.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -743,23 +803,6 @@
       "published": "2026-06-30T19:00:46+00:00"
     },
     {
-      "id": "198d317e2af24422",
-      "title": "Malhaar Residence / Vaissnavi Shukl",
-      "summary": "Located on the quiet outskirts of Ahmedabad , Malhaar gathers itself inward, forming a single-storey world organized around a central court — a space that is less a void and more a living core. Here, the architecture does not simply enclose; it orbits. Daily life unfolds in slow circulation along the edges of this open centre, where movement, light, and air are constantly in dialogue.",
-      "url": "https://www.archdaily.com/1042859/malhaar-residence-vaissnavi-shukl",
-      "image": "https://images.adsttc.com/media/images/6a43/d5fd/8481/2b01/8af5/1933/large_jpg/malhaar-residence-vaissnavi-shukl_10.jpg?1782830606",
-      "images": [
-        "https://images.adsttc.com/media/images/6a43/d5fd/8481/2b01/8af5/1933/large_jpg/malhaar-residence-vaissnavi-shukl_10.jpg?1782830606",
-        "https://images.adsttc.com/media/images/6a42/d4b6/0789/c600/018c/2737/large_jpg/Malhaar-8_VS.jpg?1782764759",
-        "https://images.adsttc.com/media/images/6a42/d4b6/0789/c600/018c/273a/large_jpg/Malhaar-12_VS.jpg?1782764771",
-        "https://images.adsttc.com/media/images/6a42/d4b5/0789/c600/018c/2734/large_jpg/Malhaar-5_VS.jpg?1782764744",
-        "https://images.adsttc.com/media/images/6a42/d4b4/0789/c600/018c/2731/large_jpg/Malhaar-2_VS.jpg?1782764755"
-      ],
-      "source": "ArchDaily",
-      "source_url": "https://www.archdaily.com",
-      "published": "2026-06-30T19:00:00+00:00"
-    },
-    {
       "id": "1bb88ae4c4f1febf",
       "title": "DailyObjects and LAYER Reimagine Everyday Charging",
       "summary": "Node and Loft transform everyday charging into sculptural objects designed for the desk, bedside, and beyond.",
@@ -882,12 +925,7 @@
       "url": "https://www.homedit.com/he-turned-a-builder-grade-pantry-into-a-built-in-coffee-bar-with-ikea-cabinet-parts/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Turned-a-Builder-Grade-Pantry-Into-a-Built-In-Coffee-Bar-With-IKEA-Cabinet-Parts.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Turned-a-Builder-Grade-Pantry-Into-a-Built-In-Coffee-Bar-With-IKEA-Cabinet-Parts.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Custom-Shelving-Extended-Into-the-Space-Behind-the-Front-Shelves.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Integrated-Lighting-Changed-Every-Shelf.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Vertical-Panels-Followed-the-Sloped-Ceiling.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Wall-Repairs-Prepared-the-Built-In-Installation.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Countertop-Turned-the-Pantry-Into-a-Beverage-Station.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Turned-a-Builder-Grade-Pantry-Into-a-Built-In-Coffee-Bar-With-IKEA-Cabinet-Parts.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -959,32 +997,6 @@
       "published": "2026-06-30T08:00:38+00:00"
     },
     {
-      "id": "978c271a617809af",
-      "title": "Living Room Designers Keep Breaking Up Sofa Sets With Accent Chairs",
-      "summary": "Living room furniture once centered around matching sofa sets that included identical loveseats and armchairs. Recent interiors from furniture brands and professional designers reveal a different approach. Instead of repeating the same upholstery across every seat, designers introduce one or more accent chairs with different shapes, colors, or materials to complete the layout. Leather chairs... The post Living Room Designers Keep Breaking Up Sofa Sets With Accent Chairs appeared first on Homedit .",
-      "url": "https://www.homedit.com/living-room-designers-keep-breaking-up-sofa-sets-with-accent-chairs/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Living-Room-Designers-Keep-Breaking-Up-Sofa-Sets-With-Accent-Chairs-in-2026.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Living-Room-Designers-Keep-Breaking-Up-Sofa-Sets-With-Accent-Chairs-in-2026.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-06-30T07:44:40+00:00"
-    },
-    {
-      "id": "2083f2a6e1de056a",
-      "title": "Family Replaced Their Honey Oak Cabinets and the Kitchen Looked Custom Built",
-      "summary": "Honey oak cabinets, speckled granite countertops, and stainless steel appliances gave this family kitchen the familiar builder-grade look found in many homes from the early 2000s. Although the layout worked well, the finishes lacked the architectural detail and custom character the homeowners wanted. Reddit user u/Dry_Green_5135 shared how replacing nearly every visible surface completely transformed... The post Family Replaced Their Honey Oak Cabinets and the Kitchen Looked Custom Built appeared first on Homedit .",
-      "url": "https://www.homedit.com/family-replaced-their-honey-oak-cabinets-and-the-kitchen-looked-custom-built/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Replaced-the-Honey-Oak-Cabinets-and-Built-a-Kitchen-Around-a-Statement-Hood.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Replaced-the-Honey-Oak-Cabinets-and-Built-a-Kitchen-Around-a-Statement-Hood.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-06-30T06:15:02+00:00"
-    },
-    {
       "id": "fa88351d68777b06",
       "title": "Bathroom meets laundry: How to design a stylish combined space that works twice as hard",
       "summary": "Where good design meets hard work. The post Bathroom meets laundry: How to design a stylish combined space that works twice as hard appeared first on Home Beautiful .",
@@ -992,11 +1004,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/10/beautiful-room-ideas-laundry-bathroom-ideas-carlene-duffy-68f5c9e782da4-scaled.jpg",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/10/beautiful-room-ideas-laundry-bathroom-ideas-carlene-duffy-68f5c9e782da4-scaled.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/04/best-mattress-toppers-australia-680f25e22a940.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/ring-camera-amazon-prime-day-pet-camera-pet-monitor-6a4362bba226b.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/deborah-hutton-home-6a4601e820e6a.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/chatgpt-image-jul-2-2026-12_53_41-pm-6a45d2c1db855.png?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/06/Dream-Home-Lara-and-Peter-Belrose-laundry.jpg?w=2304",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/bianca-mastroianni-4-6a13b2a689f6b-scaled.jpg?w=2048"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/bianca-mastroianni-4-6a13b2a689f6b-scaled.jpg?w=2048",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1011,9 +1023,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2019/08/copy-of-site-feature-horizontal-1920-x-1080-2026-06-30t104447.050-6a4314c83b6ff.png",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2019/08/copy-of-site-feature-horizontal-1920-x-1080-2026-06-30t104447.050-6a4314c83b6ff.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-02t124724.881-6a45d14cad39b.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-design-2026-07-01t172001.269-6a44bfba8b31b.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/copy-of-split-screen-feature-template-41-6a45c34ebbe14.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/hero-crop-2026-07-02t111704.172-6a45bdc7ee2bb.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/saskia-neacsu-689e8764955b1.jpg?w=1979"
       ],
       "source": "Homes To Love AU",
@@ -1086,19 +1098,6 @@
       "published": "2026-06-29T14:00:00+00:00"
     },
     {
-      "id": "e5d87cf6389d6d95",
-      "title": "Empty Pantry Alcove Turned Into a Floor-to-Ceiling Cabinet With Pull-Out Drawers",
-      "summary": "Deep pantry shelves often waste storage because items at the back become difficult to reach. Builder-grade alcoves can present the same problem, leaving valuable space underused despite having enough room for full-height cabinetry. Reddit user Pyratess approached the space from a different angle by building a custom floor-to-ceiling pantry cabinet filled with full-extension pull-out drawers... The post Empty Pantry Alcove Turned Into a Floor-to-Ceiling Cabinet With Pull-Out Drawers appeared first on Homedit .",
-      "url": "https://www.homedit.com/empty-pantry-alcove-turned-into-a-floor-to-ceiling-cabinet-with-pull-out-drawers/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Empty-Pantry-Alcove-Turned-Into-a-Floor-to-Ceiling-Cabinet-With-Pull-Out-Drawers.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Empty-Pantry-Alcove-Turned-Into-a-Floor-to-Ceiling-Cabinet-With-Pull-Out-Drawers.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-06-29T13:13:53+00:00"
-    },
-    {
       "id": "cdd8c63e2c122467",
       "title": "The Swerv: A Three-Wheeled Vehicle Designed Purely to Provide Thrills",
       "summary": "The mobility space focuses on moving people around for practical purposes. But as a student at Imperial College London's Dyson School of Design Engineering, Kerim Taskin designed a vehicle purely to provide a thrilling experience for the rider. His Swerv electric trike has a quite unusual riding position: So what's the point of this? Taskin explains, and it sounds like more of a mental health aid than a vehicle: Do you ever feel like your mind is going through a thick fog? Or like you just want your racing thoughts to stand still? Or maybe like the walls are closing in and your internal…",
@@ -1109,6 +1108,19 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
@@ -1223,8 +1235,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/antoniolupi-NAZIONALE-_ceralacca_nero-04.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/antoniolupi-NAZIONALE-_ceralacca_nero-04.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1253,9 +1265,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/03/10/car_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/12/this-expandable-teardrop-camper-gives-adventure-seekers-more-room-to-play-with/Campervan-Raptor-XC-teardrop-camper-by-Hunter-Nature_Hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/6-eggo_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/04/lacoste-themed-polaroid-600-instant-film-camera-is-boxy-crocodile-you-cant-deny/Lacoste-x-Polaroid-600-instant-film-camera_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/11/yanko-design-best-of-2024/huawei-mate-xt-ultimate-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/03/this-carbon-fiber-e-bike-has-a-750w-motor-and-the-soul-of-an-atv/Best_Carbon_Fiber_All_Terrain_Electric_Bike_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1284,9 +1296,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/how-a-soccer-stance-solved-one-of-furnitures-oldest-problems/spielbein-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/duoo_desk_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/daniel-arshams-new-drafting-table-has-brass-gears-and-cup-holders-built-in/drafting-table-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/12/zilalila/Zilalila_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/07/desk/desk_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/08/this-ready-to-assemble-flat-pack-furniture-set-is-made-from-a-single-piece-of-plywood/leaning-chair-4.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/09/orbit-coffee-table/orbit_coffee_table_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1311,17 +1323,17 @@
       "published": "2026-06-28T11:13:03+00:00"
     },
     {
-      "id": "aa0373b1f9b70820",
-      "title": "A new Queensway address reimagines the London townhouse",
-      "summary": "Design and development studio Vabel brings bespoke interiors and contemporary craftsmanship to a 28-home residential project near Hyde Park",
-      "url": "https://www.wallpaper.com/architecture/residential/vabel-townhouse-london-uk",
-      "image": "https://cdn.mos.cms.futurecdn.net/oMAB7op8hm9yDebAXu57bb.jpg",
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/oMAB7op8hm9yDebAXu57bb.jpg"
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
       ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-06-28T08:00:00+00:00"
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -1390,9 +1402,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/auto-draft/Nike-Air-Max-1000-8.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/union-brings-you-side-table-and-magazine-rack-in-one/7.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/01/10/miura_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/09/nendos-reinterpretation-of-diors-medallion-chair-is-a-masterclass-in-form-and-minimalism/chaise_medallion_nendo_dior_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/04/ilhoon/ilhoon_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/afford-chair/Afford-Chair-9.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1489,11 +1501,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/04/best-mattress-toppers-australia-680f25e22a940.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/ring-camera-amazon-prime-day-pet-camera-pet-monitor-6a4362bba226b.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/deborah-hutton-home-6a4601e820e6a.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/chatgpt-image-jul-2-2026-12_53_41-pm-6a45d2c1db855.png?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/02/north-shore-boathouse-outdoor-kitchen.jpg?w=2304",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg?w=2302"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg?w=2302",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/09/Trafalgar-St-170-Annandale-Backyard-Blind0-Animated-scaled.jpg?w=2302"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1507,11 +1519,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-whites-69362bfb1b5b5-scaled.jpg",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-whites-69362bfb1b5b5-scaled.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/04/best-mattress-toppers-australia-680f25e22a940.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/ring-camera-amazon-prime-day-pet-camera-pet-monitor-6a4362bba226b.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/deborah-hutton-home-6a4601e820e6a.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/chatgpt-image-jul-2-2026-12_53_41-pm-6a45d2c1db855.png?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-teal-mustard-brown-red-colours-chrome-accents-693641c0b51a4-scaled.jpg?resize=2560%2C1706",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/08/DULUX_MUSE_06-scaled.jpg?fit=1024%2C800&resize=2560%2C1999"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/08/DULUX_MUSE_06-scaled.jpg?fit=1024%2C800&resize=2560%2C1999",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/Canberra-Cottage-Hero-2.jpg?w=2304"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1617,19 +1629,6 @@
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
       "published": "2026-06-25T12:27:26+00:00"
-    },
-    {
-      "id": "7922fa13e5b3edfb",
-      "title": "Lovingcolors Opens a 1960s Apartment by Martina Pozzi",
-      "summary": "Lovingcolors is a 2021 apartment renovation in Bergamo, Italy, designed by Martina Pozzi. Reworking a typical 1960s plan, the project combines the kitchen, dining area, and living room into a single open day space while cutting back the long, narrow corridor. Just as important, it uses storage and color with unusual precision, giving each room […] The post Lovingcolors Opens a 1960s Apartment by Martina Pozzi first appeared on HomeAdore .",
-      "url": "https://homeadore.com/2026/06/25/lovingcolors-opens-a-1960s-apartment-by-martina-pozzi/",
-      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg",
-      "images": [
-        "https://homeadore.com/wp-content/uploads/2026/06/001-lovingcolors-opens-a-1960s-apartment-by-martina-pozzi.jpg"
-      ],
-      "source": "Home Adore",
-      "source_url": "http://homeadore.com",
-      "published": "2026-06-25T12:06:37+00:00"
     },
     {
       "id": "cddba30ab34372c1",
@@ -1858,6 +1857,19 @@
       "published": "2026-06-23T14:59:59+00:00"
     },
     {
+      "id": "1479f30d3f85b1f5",
+      "title": "Get Ready for Furniture to Start Matching Sports Drinks",
+      "summary": "Supersaturated hues like “Fierce Grape” have moved out of the locker room and into the living room. The post Get Ready for Furniture to Start Matching Sports Drinks appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/milan-design-week-colour-trends-2026-sports-drinks/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Milan2026-Dooor.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-23T13:00:00+00:00"
+    },
+    {
       "id": "39a63a50f1933028",
       "title": "Furniture Designers Keep Turning Everyday Objects Into Statement Pieces",
       "summary": "Furniture design does not always begin with lumber, upholstery, or cabinet parts. Bicycles, musical instruments, industrial equipment, shipping crates, farm wagons, and vintage luggage continue appearing in collections that blur the line between furniture, art, and salvage. Each piece starts with an object designed for a completely different purpose. Instead of hiding that origin, designers... The post Furniture Designers Keep Turning Everyday Objects Into Statement Pieces appeared first on Homedit .",
@@ -1977,19 +1989,6 @@
       "published": "2026-06-22T13:00:56+00:00"
     },
     {
-      "id": "5e23bfc43ec7189b",
-      "title": "Better than beige: 6 ways to create a bold bedroom colour scheme",
-      "summary": "When it comes to colourful interiors, bedrooms might be the final frontier. The post Better than beige: 6 ways to create a bold bedroom colour scheme appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/home-ideas/best-bedroom-colour-schemes/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/06/bedroom-colour-scheme-paint-pattern-colourful-upholstery9-6a38c58563857-scaled.jpg",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/06/bedroom-colour-scheme-paint-pattern-colourful-upholstery9-6a38c58563857-scaled.jpg"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-06-22T06:52:30+00:00"
-    },
-    {
       "id": "f8fcd56f8d61184c",
       "title": "Renon: perché tutti prima poi tornano nell’Altopiano del sole",
       "summary": "In Trentino-Alto Adige, un territorio sopraelevato unisce l'efficienza della mobilità sostenibile al fascino dell'isolamento: un modello integrato di accoglienza e cultura alpina tra residenze patrizie, archeologia ferroviaria e l'eredità di Sigmund Freud The post Renon: perché tutti prima poi tornano nell’Altopiano del sole appeared first on Interni Magazine .",
@@ -2029,6 +2028,19 @@
       "published": "2026-06-20T17:00:04+00:00"
     },
     {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
+    },
+    {
       "id": "e3722e01889eb440",
       "title": "F5: Amanda Martocchio Talks the Rockies, Her Jens Risom Stool, a Joan Snyder Painting + More",
       "summary": "Architect Amanda Martoccchio shares some of her favorites in nature, from Hawthorn trees to the Rocky Mountains, and more.",
@@ -2040,6 +2052,32 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-19T18:00:09+00:00"
+    },
+    {
+      "id": "3dd6950b3f95ebc2",
+      "title": "For Sale: Nice Machines from Kelly Mehler’s Workshop",
+      "summary": "When woodworker and instructor Kelly Mehler died unexpectedly last year, he left behind a shop full of meticulously maintained woodworking machines that he used in his personal work after he closed his woodworking school. The Mehler family is trying to find new homes for these machines, avoiding the chaos and unpredictability of an auction. These...",
+      "url": "https://blog.lostartpress.com/2026/06/19/for-sale-nice-machines-from-kelly-mehlers-workshop/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-19T16:46:51+00:00"
+    },
+    {
+      "id": "c91ff40c2f4c9667",
+      "title": "New Book: ‘17th-Century Essex County Cupboard’",
+      "summary": "Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...",
+      "url": "https://blog.lostartpress.com/2026/06/18/new-book-17th-century-essex-county-cupboard/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-18T21:11:15+00:00"
     },
     {
       "id": "bcfca73d7828d49c",
@@ -2173,6 +2211,19 @@
       "published": "2026-06-17T16:00:53+00:00"
     },
     {
+      "id": "1f5186f258a724a9",
+      "title": "LAP Open Wire on Saturday (June 20)",
+      "summary": "We’re cooking up answers for Open Wire this Saturday (June 20) on the Lost Art Press blog – so if you have a woodworking question, you’ll have until 5 p.m. Eastern to ask it in the comments section on the Open Wire post, which will go live at 8 a.m. Chris and I will do...",
+      "url": "https://blog.lostartpress.com/2026/06/17/lap-open-wire-on-saturday-june-20/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-17T15:16:43+00:00"
+    },
+    {
       "id": "5a32b1b1b7bc6f6f",
       "title": "Studio NRG designs Lilium Chair out of recycled metal car rims",
       "summary": "Colombian designer Nicolas Riano Guerrero of Studio NRG has unveiled the Lilium chair made using aluminium salvaged from car rims. The limited-edition furnishing reflects the soft shape of a flower petal with the aim of revealing how metal and other industrial materials can become approachable. \"The idea came from wanting to take one of the The post Studio NRG designs Lilium Chair out of recycled metal car rims appeared first on Dezeen .",
@@ -2262,6 +2313,19 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-15T06:48:30+00:00"
+    },
+    {
+      "id": "358468cea1e7e3f3",
+      "title": "Video: D.R. Dimes Reborn",
+      "summary": "D.R. Dimes was one of those famous furniture making companies that was so ubiquitous that you couldn’t imagine it ever going out of business. But it did. What I didn’t know is that it has recently been reborn as a one-person shop run by Douglas P. Dimes, the son of the founder. The story of...",
+      "url": "https://blog.lostartpress.com/2026/06/14/video-d-r-dimes-reborn/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/d-r-dimes-chair-maker-6894bcac1d591.jpg?resize=640%2C360&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/d-r-dimes-chair-maker-6894bcac1d591.jpg?resize=640%2C360&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-14T17:01:38+00:00"
     },
     {
       "id": "86055958abe0c7f5",
@@ -2459,6 +2523,19 @@
       "published": "2026-06-11T05:00:14+00:00"
     },
     {
+      "id": "055495b02245a4dd",
+      "title": "New Books Update (aka Printer Delays)",
+      "summary": "Our printer is a bit more than a month behind right now, so the three new books that are gestating are overdue. They are, in order expected, Peter Follansbee’s “17th-century Essex County Cupboard,” our “Smalls” pocket book, and volume four of “The Stick Chair Journal.” We do not know when they will be in …...",
+      "url": "https://blog.lostartpress.com/2026/06/09/new-books-update-aka-printer-delays/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2945.jpg?resize=640%2C385&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2945.jpg?resize=640%2C385&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-09T15:36:28+00:00"
+    },
+    {
       "id": "445ca7143bd608cd",
       "title": "Snowman22 lighting by ILKW among 14 new products on Dezeen Showroom",
       "summary": "Dezeen Showroom: a glass lighting collection that aims to emulate the playful look of snowmen is among 14 new products featured on Dezeen Showroom. Snowman22 lighting by ILKW Korean design brand ILKW has released a lighting collection united by playfully shaped glass shades. The Snowman22 range comprises wall, floor, table and pendant lights and comes The post Snowman22 lighting by ILKW among 14 new products on Dezeen Showroom appeared first on Dezeen .",
@@ -2483,19 +2560,6 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-06-09T01:18:38+00:00"
-    },
-    {
-      "id": "ea52592d9d627d15",
-      "title": "I Tried the Povison Aurora-Power Sofa Bed—And It Truly Reinvents Reclining",
-      "summary": "I tested this modern motorized sectional for a month as my main sofa, movie couch and guest bed. It passed every test. The post I Tried the Povison Aurora-Power Sofa Bed—And It Truly Reinvents Reclining appeared first on Family Handyman .",
-      "url": "https://www.familyhandyman.com/article/povison-review/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/06/FHMA26_Povison-Aurora-Power-Sleeper-Sofa_Paul-Rankin_02_OTedit.jpg?w=680",
-      "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/06/FHMA26_Povison-Aurora-Power-Sleeper-Sofa_Paul-Rankin_02_OTedit.jpg?w=680"
-      ],
-      "source": "Family Handyman",
-      "source_url": "https://www.familyhandyman.com",
-      "published": "2026-06-08T22:01:56+00:00"
     },
     {
       "id": "4657a738703438dc",
@@ -2932,7 +2996,7 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/11/DIY-Dining-Table-By-Shanty2CHic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/06/DIY-Corner-Pantry-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
@@ -3432,6 +3496,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
