@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-02T20:36:02.800727+00:00",
-  "generated_at_human": "2026-07-02 20:36 UTC",
-  "total_items": 242,
+  "generated_at": "2026-07-02T22:16:15.721502+00:00",
+  "generated_at_human": "2026-07-02 22:16 UTC",
+  "total_items": 244,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -55,6 +56,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -62,7 +64,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 56,
+  "sources_count": 58,
   "multi_photo_items": 58,
   "items": [
     {
@@ -73,7 +75,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=26992",
+        "http://i.archi.ru/i/1262/405309.jpg?r=15126",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -91,12 +93,30 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=97482",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=2318",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "7c68d429bf59e136",
+      "title": "5 beautiful built-in home work space design solutions",
+      "summary": "With the rise in remote working, Australians became remarkably inventive in their search for a workspace. Kitchen tables transformed into desks, laptops were balanced on stacks of cookbooks, and spare bedrooms, patios and playrooms were repurposed into temporary offices. Homes… The post 5 beautiful built-in home work space design solutions appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/5-beautiful-built-in-home-work-space-design-solutions",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/06/Laminex_YSG_Collaboration_Pillarbox_PorcelainBlush_DanishWalnut-2.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/06/Laminex_YSG_Collaboration_Pillarbox_PorcelainBlush_DanishWalnut-2.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/Laminex-Colour-Collection-2024_Macedon-Mist_Eucalpyt.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2023/08/TPC-cottage6-1.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/LMX-Surround-July227878.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/Shot-2_0330.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/06/Laminex_YSG_Collaboration_Pillarbox_PorcelainBlush-4.jpg"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-02T21:00:00+00:00"
     },
     {
       "id": "a8500b013f698e32",
@@ -128,6 +148,35 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-07-02T20:12:16+00:00"
+    },
+    {
+      "id": "c933be78607f0ede",
+      "title": "Not Too Orange Or Red: A Better Way To Update Bright Oak Cabinets",
+      "summary": "If you've been living with honey-orange-red oak cabinets for far too long, don't fret: There's an easy way to get just the tone you want and do it yourself.",
+      "url": "https://www.hunker.com/2206467/better-way-update-bright-oak-cabinets-mixing-stains/",
+      "image": "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/l-intro-1782946265.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/l-intro-1782946265.jpg",
+        "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/intro-1782946265.jpg",
+        "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/how-to-properly-mix-stains-1782946267.jpg",
+        "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/applying-the-stain-and-clear-finish-1782946268.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-02T20:00:00+00:00"
+    },
+    {
+      "id": "8e43a184439666ad",
+      "title": "Dezeen Agenda features Frank Gehry-designed venue in Abu Dhabi",
+      "summary": "The latest edition of our weekly Dezeen Agenda newsletter features news that construction has commenced on Dar al Funoon Abu Dhabi, which was designed by Frank Gehry before his death. Subscribe to Dezeen Agenda now. Joining Gehry's Guggenheim Abu Dhabi, the performing arts venue will be located on Saadiyat Island, and is set to be The post Dezeen Agenda features Frank Gehry-designed venue in Abu Dhabi appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/02/frank-gehry-performing-arts-venue-abu-dhabi-dezeen-agenda/",
+      "image": "http://static.dezeen.com/uploads/2026/07/dar-al-funoon-abu-dhabi-frank-gehry_dezeen_2364_col_1_square.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/dar-al-funoon-abu-dhabi-frank-gehry_dezeen_2364_col_1_square.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-02T18:00:43+00:00"
     },
     {
       "id": "4ee9b145c9938328",
@@ -207,9 +256,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/obsbot-ai-cameras-are-on-sale-for-prime-day-2026-and-the-tiny-2-webcam-just-hit-its-lowest-price-ever/OBSBOT_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/12/auto-draft/04_ara_catstation_juanestebanrestrepotabares.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/apacer-as712-ssd-brings-storage-speed-and-a-whiff-of-zen-to-your-desk/apacer-as712-portable-ssd-oil-diffuser-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/09/09/bucefalosofa01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/12/sustainable_sneakers_made_from_carbon_neutral_leather_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/10/17/kiyoshidesignfuel01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/05/this-award-winning-paper-packaging-will-reduce-the-beauty-industrys-plastic-waste/01-pearl_yankodesign.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -535,7 +584,7 @@
     {
       "id": "76bf12040f8701f2",
       "title": "Children’s rooms that support development as well as look great",
-      "summary": "Many Australian parents are rethinking how they design their children’s rooms. With ‘nursery room’ searches up by nearly 50% in Australia over the last year, parents are evidently ready to invest time and thought into their children’s spaces. But what… The post Children’s rooms that support development as well as look great appeared first on The Interiors Addict .",
+      "summary": "Many Australian parents are rethinking how they design their children’s rooms. With ‘nursery room’ searches up by nearly 50% in… The post Children’s rooms that support development as well as look great appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/childrens-rooms-that-support-development-as-well-as-look-great",
       "image": "https://files.theinteriorsaddict.com/uploads/2026/06/Nash-Solid-Wood-Triple-Bunk-Bed-with-Storage-Trundle-in-Grey.jpg",
       "images": [
@@ -557,9 +606,7 @@
       "url": "https://www.hunker.com/2205036/ikea-has-a-new-husbyan-bathroom-storage-wall-cabinet-organize-clutter/",
       "image": "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/l-intro-1782835505.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/l-intro-1782835505.jpg",
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/intro-1782835505.jpg",
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/the-husbyn-wall-cabinet-adds-convenient-and-modish-storage-1782835507.jpg"
+        "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/l-intro-1782835505.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -667,19 +714,6 @@
       "published": "2026-07-01T13:00:00+00:00"
     },
     {
-      "id": "e176fc3928c43647",
-      "title": "Goodbye Black Hole: Here's A Better Way To Organize Overhead Cabinets Using Vertical Storage",
-      "summary": "Save time organizing those hard-to-reach overhead cabinets by adding vertical storage, a simple and low-cost addition offering long-term convenience.",
-      "url": "https://www.hunker.com/2202711/organize-overhead-cabinets-use-vertical-storage-dividers-amazon/",
-      "image": "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/l-intro-1782496954.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/l-intro-1782496954.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-01T13:00:00+00:00"
-    },
-    {
       "id": "3b6b4473fe825b3c",
       "title": "Strange Mobility: The Halfbike Pro, a Compact Bicycle with No Seat",
       "summary": "When Bulgarian architect Martin Angelov moved into a small apartment, storing his road bike became a hassle. He subsequently designed the Halfbike, a strange-looking bicycle with no seat: Demand was there, and Angelov got the Halfbike into production following a successful Kickstarter. That was over a decade ago, and the bike has since gone through four iterations. The latest is the Halfbike Pro , which is made of aluminum and folds in half for storage: The company says the bike provides a fun workout that feels like \"Running on air.\" It's also a bit like skiing, in that you carve to turn.…",
@@ -691,19 +725,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-07-01T13:00:00+00:00"
-    },
-    {
-      "id": "5fe40841132fc870",
-      "title": "20 Exciting IKEA Finds Hitting Shelves In July 2026",
-      "summary": "Whether you want to refresh your storage, decor, or furniture this summer, IKEA has plenty of solutions among the clever designs hitting shelves this July.",
-      "url": "https://www.hunker.com/2202199/ikea-finds-out-in-july-2026/",
-      "image": "https://www.hunker.com/img/gallery/ikea-finds-out-in-july-2026/l-intro-1782909751.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ikea-finds-out-in-july-2026/l-intro-1782909751.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-01T12:00:00+00:00"
     },
     {
       "id": "54b65892f9f6dcb5",
@@ -896,12 +917,7 @@
       "url": "https://theinteriorsaddict.com/raes-latest-venue-is-a-place-to-gather-dine-and-stay-in-byron",
       "image": "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Courtyard-4.jpg",
       "images": [
-        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Courtyard-4.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Hotel-Room.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Hotel-Residence-6.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Hotel-Residence-9.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Rooftop-pool-1.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Rooftop-pool-2.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Courtyard-4.jpg"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -1192,6 +1208,19 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
@@ -1837,19 +1866,6 @@
       "published": "2026-06-23T21:30:22+00:00"
     },
     {
-      "id": "e5609d48b3c6ceab",
-      "title": "5 upgrades Australians spend big on that don’t solve the problem",
-      "summary": "By Kate Plemper What homeowners think they’re fixing, what’s actually causing the frustration, and how to avoid spending money on… The post 5 upgrades Australians spend big on that don’t solve the problem appeared first on The Interiors Addict .",
-      "url": "https://theinteriorsaddict.com/5-upgrades-australians-spend-big-on-that-dont-solve-the-problem",
-      "image": "https://files.theinteriorsaddict.com/uploads/2026/06/Interiors-Ko-Image-03.jpg",
-      "images": [
-        "https://files.theinteriorsaddict.com/uploads/2026/06/Interiors-Ko-Image-03.jpg"
-      ],
-      "source": "Interiors Addict AU",
-      "source_url": "https://theinteriorsaddict.com",
-      "published": "2026-06-23T21:00:00+00:00"
-    },
-    {
       "id": "694d12fa01721b4a",
       "title": "Catching Up With… Palouse Chapter",
       "summary": "N NKBA Staff Posted: Jun 23, 2026 10:58 am Member + Industry News Close Race at the Annual Student Design Competition Student Design Competition winners Emily Johnson, Shelly Norsworthy, and Acacia Whitlock The Palouse Chapter gathered on June 4th at Spokane Hardware Supply for the highly-anticipated Student Design Competition. The annual event is a highlight for students at Spokane Falls Community College (SFCC) working towards their Interior Design Associate in Applied Science Degree taught by Tanja Huffman. “The students are actively involved in the chapter throughout the year, but this…",
@@ -2472,7 +2488,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2938,7 +2954,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2982,7 +2998,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3187,7 +3203,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3304,7 +3320,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3450,6 +3466,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
