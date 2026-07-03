@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-03T04:53:18.517122+00:00",
-  "generated_at_human": "2026-07-03 04:53 UTC",
-  "total_items": 244,
+  "generated_at": "2026-07-03T08:22:09.087040+00:00",
+  "generated_at_human": "2026-07-03 08:22 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -31,7 +31,6 @@
     "Family Handyman",
     "Garden & Home SA",
     "Gardenista",
-    "Home Adore",
     "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
@@ -63,9 +62,26 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 58,
+  "sources_count": 56,
+  "multi_photo_items": 59,
   "items": [
+    {
+      "id": "36fa10b6815bb0d0",
+      "title": "Прованс от KERAMA MARAZZI: тихая роскошь в камне, керамике и фаянсе",
+      "summary": "KERAMA MARAZZI выпустила коллекцию «Прованс» – полноценную систему для интерьеров и экстерьеров, объединяющую под одним именем керамогранит и настенную плитку, сантехнику и мебель, фирменные обои и панели сверхкрупных форматов.",
+      "url": "http://archi.ru/tech/news_102266.html",
+      "image": "https://i.archi.ru/i/1262/503694.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/503694.jpg",
+        "http://i.archi.ru/i/1262/405309.jpg?r=67680",
+        "http://i.archi.ru/i/1262/503403.jpg",
+        "http://i.archi.ru/i/1262/503410.jpg",
+        "http://i.archi.ru/i/1262/503405.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "ce1e963dd499bb8a",
       "title": "​Стекло тонкой настройки: ЖК High Life и Phoenix Crystalvision",
@@ -74,7 +90,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=12962",
+        "http://i.archi.ru/i/1262/405309.jpg?r=21347",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -92,12 +108,91 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=45645",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=43702",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "d0be7371178d8b11",
+      "title": "She Turned Wire Fencing Into an Entryway Bench",
+      "summary": "Need a place to sit while putting on shoes without adding another bulky piece of furniture to the entryway? Many entryways rely on narrow console tables that look nice but do very little to manage everyday clutter. Shoes collect near the door, seating remains limited, and the space starts feeling less organized as the week... The post She Turned Wire Fencing Into an Entryway Bench appeared first on Homedit .",
+      "url": "https://www.homedit.com/she-turned-wire-fencing-into-an-entryway-bench/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Building-the-Bench.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Folding-the-wire-for-the-bench.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/The-Waterfall-Shape-Added-More-Presence.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Designs.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/These-Garden-Features-Can-Make-Your-Backyard-Look-Smaller-Than-It-Really-Is.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-03T08:16:37+00:00"
+    },
+    {
+      "id": "d0e76288f4ae1e6f",
+      "title": "Designer Glenn Ban’s Refined East Hamptons Cottage",
+      "summary": "While perusing Gardenista contributor Laura Fenton’s book, The Little Book of Living Small, we were happy to see designer Glenn Ban‘s compact East Hamptons home featured. Julie wrote about his Provincetown cottage a few years ago, and it remains one of our favorite beach houses we’ve covered on our site. No surprise, Glenn’s Long Island […]",
+      "url": "https://www.remodelista.com/posts/glenn-ban-east-hampton-house-little-book-living-small/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2020/05/glenn-ban-house-little-book-living-small-laura-fenton-entrance.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2020/05/glenn-ban-house-little-book-living-small-laura-fenton-entrance.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-03T08:00:36+00:00"
+    },
+    {
+      "id": "ac5a3af328ad531a",
+      "title": "Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick",
+      "summary": "Architecture studio Cubo has unveiled the Kornmarken Campus innovation and production centre as the latest building on the Lego campus in Denmark. Located in Billund, near Lego's headquarters and the BIG-designed Lego House, the hybrid mass-timber and concrete building contains the toy brand's innovation teams. It was designed by Cubo to be easily recognisable as a The post Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/03/lego-kornmarken-campus-cubo-arkitekter/",
+      "image": "http://static.dezeen.com/uploads/2026/07/lego-kornmarken-campus-cubo-arkitekter-billund-denmark_dezeen_2364_sq_4.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/lego-kornmarken-campus-cubo-arkitekter-billund-denmark_dezeen_2364_sq_4.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-03T08:00:22+00:00"
+    },
+    {
+      "id": "97f90a18fd3c3dcc",
+      "title": "He Rebuilt This Dated Galley Kitchen With Plywood Cabinets",
+      "summary": "Many kitchen renovations begin with expensive custom cabinetry. This one began with plywood. After custom kitchen quotes came in far beyond budget, Reddit user u/j_fisher85 rebuilt a dated galley kitchen with simple materials and a clear Scandinavian-inspired design instead of settling for a standard remodel. Rather than replacing the entire kitchen with new cabinet boxes,... The post He Rebuilt This Dated Galley Kitchen With Plywood Cabinets appeared first on Homedit .",
+      "url": "https://www.homedit.com/he-rebuilt-this-dated-galley-kitchen-with-plywood-cabinets/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Rebuilt-This-Dated-Galley-Kitchen-With-Plywood-Cabinets-and-the-Result-Looks-Custom.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Rebuilt-This-Dated-Galley-Kitchen-With-Plywood-Cabinets-and-the-Result-Looks-Custom.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Terracotta-Floor-Tiles-Shifted-the-Entire-Color-Balance.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Matching-Plywood-Handles-Blend-Into-the-Doors.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Upper-Cabinets-Gave-Way-to-Open-Wall-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Olive-Wall-Tiles-Replaced-a-Traditional-Backsplash.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Exposed-Plywood-Edges-Became-a-Signature-Detail.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-03T06:03:14+00:00"
+    },
+    {
+      "id": "e180ccc952d73913",
+      "title": "Faye House / Alhumaidhi Architects",
+      "summary": "Faye House is a private urban residence meticulously crafted to respond to its unique corner plot. The generous setback condition allowed for the integration of a lush private garden, which serves as the focal point of the home's architectural composition. The ground floor is conceived as an open-plan volume, where kitchen, dining, and living areas unfold along a continuous axis and extend seamlessly into the landscape through full-height sliding glass panels. These operable glazed walls dissolve the threshold between interior and exterior, anchoring the spatial experience in natural…",
+      "url": "https://www.archdaily.com/1042973/faye-house-alhumaidhi-architects",
+      "image": "https://images.adsttc.com/media/images/6a46/7b4f/0789/c600/018c/2b86/large_jpg/02_ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_p_150525_0420_EDITED.jpg?1783004070",
+      "images": [
+        "https://images.adsttc.com/media/images/6a46/7b4f/0789/c600/018c/2b86/large_jpg/02_ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_p_150525_0420_EDITED.jpg?1783004070",
+        "https://images.adsttc.com/media/images/6a46/7b4f/0789/c600/018c/2b87/large_jpg/03_ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_p_150525_0407_EDITED.jpg?1783004056",
+        "https://images.adsttc.com/media/images/6a46/7b51/0789/c600/018c/2b92/large_jpg/ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_150525_0117_EDITED.jpg?1783004139",
+        "https://images.adsttc.com/media/images/6a46/7b51/0789/c600/018c/2b90/large_jpg/ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_150525_0098_EDITED.jpg?1783004098",
+        "https://images.adsttc.com/media/images/6a46/7b51/0789/c600/018c/2b8c/large_jpg/15_ALHUMAIDHI_ARCHITECTS_FAYE_VILLA_KUWAIT_150525_0288_EDITED.jpg?1783004045"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-07-03T02:00:00+00:00"
     },
     {
       "id": "d66ee22533162d71",
@@ -113,6 +208,23 @@
       "published": "2026-07-03T00:30:44+00:00"
     },
     {
+      "id": "919bba9e3deac5b3",
+      "title": "LAGO Italian Family Kitchen / Vari Architects",
+      "summary": "1. Intervening Between City and Lake. By the lake of Yihe Park in northern Chongqing , we transformed a waterfront pavilion into Lago, an Italian country restaurant—using breathable timber and lightweight wave-like metal. Tucked among cedar trees, the restaurant faces a bright lake. Its name comes from the Italian word for \"lake.\" We first imagined it as Thoreau's cabin by Walden Pond—crisp water, deep shade, and winding paths. But Yihe Park is \"nature within the city.\" So the question became: how to bring that Walden-like stillness and clarity into the architectural narrative.",
+      "url": "https://www.archdaily.com/1042912/lago-italian-family-kitchen-vari-architects",
+      "image": "https://images.adsttc.com/media/images/6a44/283c/bdfc/1a01/8a6a/376d/large_jpg/lago-italian-family-kitchen-vari-architects_27.jpg?1782851655",
+      "images": [
+        "https://images.adsttc.com/media/images/6a44/283c/bdfc/1a01/8a6a/376d/large_jpg/lago-italian-family-kitchen-vari-architects_27.jpg?1782851655",
+        "https://images.adsttc.com/media/images/6a44/283c/bdfc/1a01/8a6a/376e/large_jpg/lago-italian-family-kitchen-vari-architects_2.jpg?1782851654",
+        "https://images.adsttc.com/media/images/6a44/2840/8481/2b01/8af5/1a1c/large_jpg/lago-italian-family-kitchen-vari-architects_6.jpg?1782851792",
+        "https://images.adsttc.com/media/images/6a44/2841/8481/2b01/8af5/1a1d/large_jpg/lago-italian-family-kitchen-vari-architects_20.jpg?1782851791",
+        "https://images.adsttc.com/media/images/6a44/2842/bdfc/1a01/8a6a/3773/large_jpg/lago-italian-family-kitchen-vari-architects_21.jpg?1782851794"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-07-03T00:00:00+00:00"
+    },
+    {
       "id": "ee718441c2119b88",
       "title": "Monai’s New Baby Crib Monitors Heart Rate With 4K Sensors",
       "summary": "Monai’s New Baby Crib Monitors Heart Rate With 4K Sensors Baby gear has always been functional. Safe. Practical. But design, real design, has rarely been part of the conversation when it comes to infant furniture....",
@@ -122,9 +234,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/07/modular-couch-brings-comfort-calm-to-waiting-spaces/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/this-furniture-collection-was-designed-by-your-inner-5-year-old/indergarten-013.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/03/ollie_chair_24_countdown_cover.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/03/a-customizable-metal-wire-chair-for-modern-indoor-outdoor-spaces/Twain_chair_furniture_05.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/08/450067/Corsair-Platform_6-modular-desk-13.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/05/18/nort_table_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -178,6 +290,22 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-07-02T20:12:16+00:00"
+    },
+    {
+      "id": "c933be78607f0ede",
+      "title": "Not Too Orange Or Red: A Better Way To Update Bright Oak Cabinets",
+      "summary": "If you've been living with honey-orange-red oak cabinets for far too long, don't fret: There's an easy way to get just the tone you want and do it yourself.",
+      "url": "https://www.hunker.com/2206467/better-way-update-bright-oak-cabinets-mixing-stains/",
+      "image": "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/l-intro-1782946265.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/l-intro-1782946265.jpg",
+        "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/intro-1782946265.jpg",
+        "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/how-to-properly-mix-stains-1782946267.jpg",
+        "https://www.hunker.com/img/gallery/not-too-orange-or-red-a-better-way-to-update-bright-oak-cabinets/applying-the-stain-and-clear-finish-1782946268.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-02T20:00:00+00:00"
     },
     {
       "id": "8e43a184439666ad",
@@ -270,26 +398,13 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/ignite-desk-separates-work-and-personal-life-in-a-simple-yet-effective-way/Minimal_work_desk_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/nerdforge-built-a-secret-tiny-library-within-a-coffee-table/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/dozie-kanu-just-turned-his-life-story-into-tables-for-knoll/dozie-kanu-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/10/3d-printed-lamps-made-from-cornstarch-plastic-exude-cute-candy-like-vibes/alt-light-3d-printed-lamp-10.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/03/yd-design-storm-26/00-title.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/01/04/walnut_table.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-02T14:20:19+00:00"
-    },
-    {
-      "id": "e8a571576f0b815b",
-      "title": "High teak prices push buyers to alternatives",
-      "summary": "Teak remains a sought-after hardwood, but its high cost, around $80 per board foot, is driving customers towards more affordable alternatives like mahogany, sapele, and iroko. These alternatives, priced at $18-$20 per board foot, are often chosen for marine projects and moisture-prone applications, with teak sales being limited and low-volume. The post High teak prices push buyers to alternatives appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/high-teak-prices-push-buyers-to-alternatives",
-      "image": "https://www.woodshopnews.com/uploads/MTg5MDM2NTQ2NTcyMTY2NjEy/teak.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/MTg5MDM2NTQ2NTcyMTY2NjEy/teak.jpg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-07-02T14:00:00+00:00"
     },
     {
       "id": "b647b6187131433e",
@@ -302,6 +417,19 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
+      "published": "2026-07-02T14:00:00+00:00"
+    },
+    {
+      "id": "e8a571576f0b815b",
+      "title": "High teak prices push buyers to alternatives",
+      "summary": "Teak remains a sought-after hardwood, but its high cost, around $80 per board foot, is driving customers towards more affordable alternatives like mahogany, sapele, and iroko. These alternatives, priced at $18-$20 per board foot, are often chosen for marine projects and moisture-prone applications, with teak sales being limited and low-volume. The post High teak prices push buyers to alternatives appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/high-teak-prices-push-buyers-to-alternatives",
+      "image": "https://www.woodshopnews.com/uploads/MTg5MDM2NTQ2NTcyMTY2NjEy/teak.jpg",
+      "images": [
+        "https://www.woodshopnews.com/uploads/MTg5MDM2NTQ2NTcyMTY2NjEy/teak.jpg"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
       "published": "2026-07-02T14:00:00+00:00"
     },
     {
@@ -399,12 +527,7 @@
       "url": "https://www.homedit.com/couple-rebuilt-their-builder-grade-kitchen-and-it-looks-custom-built/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/they-Rebuilt-This-Builder-Grade-Kitchen-Without-Changing-the-Layout.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/they-Rebuilt-This-Builder-Grade-Kitchen-Without-Changing-the-Layout.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Globe-Pendants-Replaced-Recessed-Lighting-as-the-Visual-Anchor.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Farmhouse-Sink-Became-the-New-Center-of-the-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Heavy-Cabinet-Walls-Shaped-the-Original-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Vertical-Green-Tile-Changed-the-Entire-Backsplash.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Raised-Bar-Top-Blocked-the-View-Into-the-Kitchen.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/they-Rebuilt-This-Builder-Grade-Kitchen-Without-Changing-the-Layout.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -456,12 +579,7 @@
       "url": "https://www.homedit.com/she-covered-one-bathroom-wall-with-peel-and-stick-tile-and-the-bathroom-looks-completely-different/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/She-Covered-One-Bathroom-Wall-With-Peel-and-Stick-Tile-and-Changed-the-Entire-Space.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/She-Covered-One-Bathroom-Wall-With-Peel-and-Stick-Tile-and-Changed-the-Entire-Space.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Green-Vanity-Stands-Out-Against-the-New-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Sheets-Were-Marked-and-Trimmed-With-Scissors.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Designs.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/More-Homeowners-Are-Building-Resort-Style-Spaces-Beside-the-Pool.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/they-Rebuilt-This-Builder-Grade-Kitchen-Without-Changing-the-Layout.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/She-Covered-One-Bathroom-Wall-With-Peel-and-Stick-Tile-and-Changed-the-Entire-Space.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -558,10 +676,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/07/1920-x-1080-commercial-feat-image-2-6a44aeb67bd7f.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/07/1920-x-1080-commercial-feat-image-2-6a44aeb67bd7f.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-02t171843.140-6a4610dc8c3c7.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/edwina-bartholomew-saltash-renovation--6a4604a0ce3ce.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2022/08/19/21268/Untitled-design-(3).jpg?resize=1950%2C1462",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2023/05/03/24665/Infrared-sauna.jpg?resize=1640%2C922"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-03t162750.259-6a47566b2a5c6.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-3-6a472cef809b2.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/04/the-balmain-project-art-deco-apartment-renovation-living-room--69cc5a6c44e4d.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2022/08/19/21268/Untitled-design-(3).jpg?resize=1950%2C1462"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -620,9 +738,7 @@
       "url": "https://www.hunker.com/2205036/ikea-has-a-new-husbyan-bathroom-storage-wall-cabinet-organize-clutter/",
       "image": "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/l-intro-1782835505.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/l-intro-1782835505.jpg",
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/intro-1782835505.jpg",
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/the-husbyn-wall-cabinet-adds-convenient-and-modish-storage-1782835507.jpg"
+        "https://www.hunker.com/img/gallery/ikea-has-a-new-space-saving-solution-to-declutter-and-organize-your-bathroom/l-intro-1782835505.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -730,19 +846,6 @@
       "published": "2026-07-01T13:00:00+00:00"
     },
     {
-      "id": "e176fc3928c43647",
-      "title": "Goodbye Black Hole: Here's A Better Way To Organize Overhead Cabinets Using Vertical Storage",
-      "summary": "Save time organizing those hard-to-reach overhead cabinets by adding vertical storage, a simple and low-cost addition offering long-term convenience.",
-      "url": "https://www.hunker.com/2202711/organize-overhead-cabinets-use-vertical-storage-dividers-amazon/",
-      "image": "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/l-intro-1782496954.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/goodbye-black-hole-heres-a-better-way-to-organize-overhead-cabinets-using-vertical-storage/l-intro-1782496954.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-01T13:00:00+00:00"
-    },
-    {
       "id": "3b6b4473fe825b3c",
       "title": "Strange Mobility: The Halfbike Pro, a Compact Bicycle with No Seat",
       "summary": "When Bulgarian architect Martin Angelov moved into a small apartment, storing his road bike became a hassle. He subsequently designed the Halfbike, a strange-looking bicycle with no seat: Demand was there, and Angelov got the Halfbike into production following a successful Kickstarter. That was over a decade ago, and the bike has since gone through four iterations. The latest is the Halfbike Pro , which is made of aluminum and folds in half for storage: The company says the bike provides a fun workout that feels like \"Running on air.\" It's also a bit like skiing, in that you carve to turn.…",
@@ -754,19 +857,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-07-01T13:00:00+00:00"
-    },
-    {
-      "id": "5fe40841132fc870",
-      "title": "20 Exciting IKEA Finds Hitting Shelves In July 2026",
-      "summary": "Whether you want to refresh your storage, decor, or furniture this summer, IKEA has plenty of solutions among the clever designs hitting shelves this July.",
-      "url": "https://www.hunker.com/2202199/ikea-finds-out-in-july-2026/",
-      "image": "https://www.hunker.com/img/gallery/ikea-finds-out-in-july-2026/l-intro-1782909751.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ikea-finds-out-in-july-2026/l-intro-1782909751.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-01T12:00:00+00:00"
     },
     {
       "id": "54b65892f9f6dcb5",
@@ -878,19 +968,6 @@
       "published": "2026-07-01T08:00:15+00:00"
     },
     {
-      "id": "eac26014a7eb7ee0",
-      "title": "Small Bathroom Looks Twice the Size After This Walk-In Shower Remodel",
-      "summary": "Compact bathrooms often combine framed shower enclosures, small-format tile, and bulky fixtures that divide an already narrow footprint. Even when every fixture works, older layouts can make the room feel smaller than its actual dimensions. Shared by Reddit user u/Emotional-Check3560, this eight-week renovation stripped a 1990s bathroom back to the studs before rebuilding it with... The post Small Bathroom Looks Twice the Size After This Walk-In Shower Remodel appeared first on Homedit .",
-      "url": "https://www.homedit.com/small-bathroom-looks-twice-the-size-after-this-walk-in-shower-remodel/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Tiny-Bathroom-Gave-Way-to-a-Spa-Inspired-Walk-In-Shower.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Tiny-Bathroom-Gave-Way-to-a-Spa-Inspired-Walk-In-Shower.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-01T06:50:24+00:00"
-    },
-    {
       "id": "fe83dd9451b14165",
       "title": "Why Kangaroo Island’s best places to stay are even better in the off-season",
       "summary": "It’s the best time to spot Southern Right whales, newborn seal pups and joey kangaroos The post Why Kangaroo Island’s best places to stay are even better in the off-season appeared first on Homes To Love .",
@@ -899,10 +976,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/best-kangaroo-island-accommodation-6a446d4c222a3.png",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/best-kangaroo-island-accommodation-6a446d4c222a3.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-03t162750.259-6a47566b2a5c6.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-3-6a472cef809b2.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/04/the-balmain-project-art-deco-apartment-renovation-living-room--69cc5a6c44e4d.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-02t171843.140-6a4610dc8c3c7.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-02t124724.881-6a45d14cad39b.png?resize=1950%2C1462"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1069,24 +1146,6 @@
       "published": "2026-06-30T15:00:00+00:00"
     },
     {
-      "id": "64fb29853b9d2399",
-      "title": "Casa AT by Unode Estudio",
-      "summary": "Casa AT reworks a row house in Aravaca, Madrid, as a calmer and more connected domestic interior. Designed by Unode Estudio, the 2026 house renovation reshapes the ground floor into a single bright sequence from entry to garden, using a curved central element and custom oak furniture to bring circulation, storage, and daily use into […] The post Casa AT by Unode Estudio first appeared on HomeAdore .",
-      "url": "https://homeadore.com/2026/06/30/casa-at-by-unode-estudio/",
-      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-casa-at-by-unode-estudio.jpg",
-      "images": [
-        "https://homeadore.com/wp-content/uploads/2026/06/001-casa-at-by-unode-estudio.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/006-casa-at-by-unode-estudio.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/010-casa-at-by-unode-estudio.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/009-casa-at-by-unode-estudio.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/012-casa-at-by-unode-estudio.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/003-casa-at-by-unode-estudio.jpg"
-      ],
-      "source": "Home Adore",
-      "source_url": "http://homeadore.com",
-      "published": "2026-06-30T12:25:36+00:00"
-    },
-    {
       "id": "7e5e8c9cb59e07af",
       "title": "Nikolaj Mentze fits out Cobe's Copenhagen studio with architecture bookshop",
       "summary": "Danish architect Nikolaj Mentze has overhauled the interior of Cobe's architecture studio in Copenhagen by adding a bookshop dedicated to publications on the built environment. The bookshop, which opened during the annual festival 3 Days of Design earlier this month, features books on architecture, urbanism, landscape and design displayed on bespoke aluminium shelving and wooden display The post Nikolaj Mentze fits out Cobe's Copenhagen studio with architecture bookshop appeared first on Dezeen .",
@@ -1113,19 +1172,6 @@
       "published": "2026-06-30T09:30:06+00:00"
     },
     {
-      "id": "9b705042c616ceb3",
-      "title": "Rick Owens creates Adidas tracksuits that double as personal airconditioning",
-      "summary": "Tiny built-in fans help to circulate air around the wearer of these inflatable Adidas jogging suits, unveiled by fashion designer Rick Owens as part of his Spring Summer 27 menswear show in Paris during the city's record-breaking heatwave. The ballooning jackets, shorts and full-body tracksuits are made from Tyvek – the same durable plastic used The post Rick Owens creates Adidas tracksuits that double as personal airconditioning appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/30/rick-owens-adidas-inflatable-aircon-tracksuits/",
-      "image": "http://static.dezeen.com/uploads/2026/06/sq-rick-owens-mens-ss27_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/sq-rick-owens-mens-ss27_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-30T08:00:51+00:00"
-    },
-    {
       "id": "e0866fd360e5b544",
       "title": "Remodelista Reconnaissance: The Nautical Brass Ceiling Light",
       "summary": "Interiors stylist Brittany Albert left much well enough alone in her Connecticut kitchen, and instead deployed cost-conscious tweaks to artfully transform an uninspired space: see The Cosmetic Kitchen Upgrade, Trade Secrets Included. We originally presented Brittany’s kitchen a year ago and revisited it last month, and the queries kept coming on the one detail we […]",
@@ -1147,10 +1193,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/10/beautiful-room-ideas-laundry-bathroom-ideas-carlene-duffy-68f5c9e782da4-scaled.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/deborah-hutton-bronte-home-10-6a4709cb1e4a6.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/deborah-hutton-home-6a4601e820e6a.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/07/amazon-prime-day-high-end-brands-686f404d5b35a.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/06/Dream-Home-Lara-and-Peter-Belrose-laundry.jpg?w=2304",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/bianca-mastroianni-4-6a13b2a689f6b-scaled.jpg?w=2048"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/bianca-mastroianni-4-6a13b2a689f6b-scaled.jpg?w=2048",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1165,10 +1211,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2019/08/copy-of-site-feature-horizontal-1920-x-1080-2026-06-30t104447.050-6a4314c83b6ff.png",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2019/08/copy-of-site-feature-horizontal-1920-x-1080-2026-06-30t104447.050-6a4314c83b6ff.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-02t171843.140-6a4610dc8c3c7.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-03t162750.259-6a47566b2a5c6.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-3-6a472cef809b2.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/04/the-balmain-project-art-deco-apartment-renovation-living-room--69cc5a6c44e4d.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/saskia-neacsu-689e8764955b1.jpg?w=1979",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/07/1920-x-1080-commercial-feat-image-2-6a44aeb67bd7f.jpg?resize=1950%2C1462"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/saskia-neacsu-689e8764955b1.jpg?w=1979"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1227,19 +1273,6 @@
       "published": "2026-06-29T14:00:00+00:00"
     },
     {
-      "id": "7a5f6f2ae8ef6774",
-      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
-      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-06-29T13:00:00+00:00"
-    },
-    {
       "id": "cdd8c63e2c122467",
       "title": "The Swerv: A Three-Wheeled Vehicle Designed Purely to Provide Thrills",
       "summary": "The mobility space focuses on moving people around for practical purposes. But as a student at Imperial College London's Dyson School of Design Engineering, Kerim Taskin designed a vehicle purely to provide a thrilling experience for the rider. His Swerv electric trike has a quite unusual riding position: So what's the point of this? Taskin explains, and it sounds like more of a mental health aid than a vehicle: Do you ever feel like your mind is going through a thick fog? Or like you just want your racing thoughts to stand still? Or maybe like the walls are closing in and your internal…",
@@ -1253,22 +1286,17 @@
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
-      "id": "41094b33ea6d3012",
-      "title": "Apartment IN2 Opens a Continuous Living Space in Milan",
-      "summary": "Apartment IN2 reworks an anonymous apartment in Milano, Italy, into a home with a clearer sense of character and use. Designed by Nicola Maglione in 2025, the project treats the apartment as a continuous interior, where oak parquet, dark wood paneling, and carefully placed lighting give the living areas, kitchen, and bath a steady visual […] The post Apartment IN2 Opens a Continuous Living Space in Milan first appeared on HomeAdore .",
-      "url": "https://homeadore.com/2026/06/29/apartment-in2-opens-a-continuous-living-space-in-milan/",
-      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/06/001-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/001-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/002-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/003-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/005-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/06/006-apartment-in2-opens-a-continuous-living-space-in-milan.jpg"
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
       ],
-      "source": "Home Adore",
-      "source_url": "http://homeadore.com",
-      "published": "2026-06-29T10:06:45+00:00"
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
     },
     {
       "id": "e69d68ed29184525",
@@ -1365,9 +1393,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/09/ai-audio/ai_audio_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/09/this-sustainable-house-has-an-aquaponic-system-that-connects-a-pond-for-edible-fish-a-rooftop-garden/modern_sustainable_house_aquaponic_rooftop-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/02/03/pencil_printer.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/06/apple-unveils-new-macbook-air-with-stunning-15-3-inch-liquid-retina-display-and-18-hour-battery-life/Apple-15-inch-Macbook-Air_3.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/08/05/flower_cap.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/06/smart-stools/smart_stool_designs_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1574,10 +1602,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/deborah-hutton-bronte-home-10-6a4709cb1e4a6.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/deborah-hutton-home-6a4601e820e6a.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/07/amazon-prime-day-high-end-brands-686f404d5b35a.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/02/north-shore-boathouse-outdoor-kitchen.jpg?w=2304",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg?w=2302"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg?w=2302",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/09/Trafalgar-St-170-Annandale-Backyard-Blind0-Animated-scaled.jpg?w=2302"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1592,10 +1620,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-whites-69362bfb1b5b5-scaled.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/deborah-hutton-bronte-home-10-6a4709cb1e4a6.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/deborah-hutton-home-6a4601e820e6a.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/07/amazon-prime-day-high-end-brands-686f404d5b35a.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-teal-mustard-brown-red-colours-chrome-accents-693641c0b51a4-scaled.jpg?resize=2560%2C1706",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/08/DULUX_MUSE_06-scaled.jpg?fit=1024%2C800&resize=2560%2C1999"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/08/DULUX_MUSE_06-scaled.jpg?fit=1024%2C800&resize=2560%2C1999",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/Canberra-Cottage-Hero-2.jpg?w=2304"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
