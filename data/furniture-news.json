@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-03T08:22:09.087040+00:00",
-  "generated_at_human": "2026-07-03 08:22 UTC",
-  "total_items": 246,
+  "generated_at": "2026-07-03T11:40:21.719760+00:00",
+  "generated_at_human": "2026-07-03 11:40 UTC",
+  "total_items": 251,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -31,6 +31,7 @@
     "Family Handyman",
     "Garden & Home SA",
     "Gardenista",
+    "Home Adore",
     "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
@@ -62,8 +63,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 59,
+  "sources_count": 57,
+  "multi_photo_items": 61,
   "items": [
     {
       "id": "36fa10b6815bb0d0",
@@ -73,7 +74,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=67680",
+        "http://i.archi.ru/i/1262/405309.jpg?r=73503",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -90,7 +91,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=21347",
+        "http://i.archi.ru/i/1262/405309.jpg?r=40875",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -108,12 +109,87 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=43702",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=47034",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "4b8afba61f3ebac6",
+      "title": "Limited closet space? These clothing and shoe storage hacks will help",
+      "summary": "If opening your wardrobe feels like playing a game of Tetris, you’re not alone. Limited closet space is a challenge many of us face. With a few clever storage solutions and a little creative thinking, you can maximise every centimetre of your closet while making it easier to find exactly what you’re looking for. Start […] The post Limited closet space? These clothing and shoe storage hacks will help appeared first on SA Garden and Home .",
+      "url": "https://www.gardenandhome.co.za/decor/limited-closet-space-clothing-shoe-storage-hacks-will-help/",
+      "image": "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/pexels-fotios-photos-37002320-1.jpg",
+      "images": [
+        "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/pexels-fotios-photos-37002320-1.jpg"
+      ],
+      "source": "Garden & Home SA",
+      "source_url": "https://gardenandhome.co.za",
+      "published": "2026-07-03T11:07:48+00:00"
+    },
+    {
+      "id": "2e5241ee0a5dbc27",
+      "title": "Homes That Don’t Look Like Showrooms Often Have These Things in Common",
+      "summary": "Furniture stores make it possible to furnish an entire room in a single visit. Matching sofas, matching tables, matching storage pieces, and coordinated accessories can create a finished appearance, but many memorable homes come together through a different process. Books accumulate over years, favorite pieces move from one house to another, and furniture selections reflect... The post Homes That Don’t Look Like Showrooms Often Have These Things in Common appeared first on Homedit .",
+      "url": "https://www.homedit.com/homes-that-dont-look-like-showrooms-often-have-these-things-in-common/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Graphic-Accent-Pieces-Break-Up-Neutral-Rooms.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Matching-Artwork-Creates-Consistency-Without-Repetition.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Statement-Chairs-Often-Replace-Matching-Sets.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Display-Storage-Works-Harder-Than-Blank-Walls.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-03T11:00:25+00:00"
+    },
+    {
+      "id": "bd4bc354f1b9ff02",
+      "title": "BIG arranges circular Dymak HQ around stepped courtyard",
+      "summary": "Architecture studio BIG has completed the headquarters for Danish material supplier Dymak in Odense, Denmark, sheltering its rounded mass-timber structure with a roof evoking a Möbius strip. Perched on a verdant site overlooking the city's Glisholm Lake, the 2,800-square-metre circular building combines offices and showrooms around an open-air courtyard. BIG's design aimed to be low carbon, The post BIG arranges circular Dymak HQ around stepped courtyard appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/03/big-dymak-headquarters-denmark/",
+      "image": "http://static.dezeen.com/uploads/2026/07/big-dymak-headquarters-denmark-sq_dezeen_2364_col_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/big-dymak-headquarters-denmark-sq_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-03T10:30:17+00:00"
+    },
+    {
+      "id": "8e995fcaf10fff71",
+      "title": "5 Favorites: The New Rattan Daybed",
+      "summary": "I grew up in a roomy, shingled house outside of Boston, but come summer, the five of us migrated to our screened porch. Perfumed by the garden, this small, hidden back space was furnished with a white-painted Swedish dining table and a rattan daybed, two pieces so beloved—and durable—that when my mother downsized to an […]",
+      "url": "https://www.remodelista.com/posts/7-favorite-rattan-daybeds-for-summer-living/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2018/03/rattan-daybed-1960s-atelier-vime.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2018/03/rattan-daybed-1960s-atelier-vime.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-03T10:00:22+00:00"
+    },
+    {
+      "id": "1428a8d5ae1f6960",
+      "title": "They Built This Custom Laundry Wall Instead of Upper Cabinets",
+      "summary": "Upper cabinets never made it into this laundry room. Instead, Imgur user DtownNola covered the entire wall behind the washer and dryer with a floor-to-ceiling slat feature, then added open shelving for storage. Plywood sheets, trim boards, stain, paint, and a pair of shelves transformed a blank niche into a custom storage wall. Dark “Midnight... The post They Built This Custom Laundry Wall Instead of Upper Cabinets appeared first on Homedit .",
+      "url": "https://www.homedit.com/they-built-this-custom-laundry-wall-instead-of-upper-cabinets/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Upper-Cabinets-Were-Replaced-With-Something-Simpler-in-This-Laundry-Room.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Upper-Cabinets-Were-Replaced-With-Something-Simpler-in-This-Laundry-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common-in-2026.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Open-Shelves-Finished-the-Storage-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gold-Shelf-Brackets-Replaced-Upper-Cabinets.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Floor-to-Ceiling-Panels-Became-the-Focal-Point.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-03T09:31:32+00:00"
     },
     {
       "id": "d0be7371178d8b11",
@@ -123,11 +199,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common-in-2026.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/05/Building-the-Bench.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/05/Folding-the-wire-for-the-bench.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/05/The-Waterfall-Shape-Added-More-Presence.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Designs.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/These-Garden-Features-Can-Make-Your-Backyard-Look-Smaller-Than-It-Really-Is.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Designs.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -149,7 +225,7 @@
     {
       "id": "ac5a3af328ad531a",
       "title": "Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick",
-      "summary": "Architecture studio Cubo has unveiled the Kornmarken Campus innovation and production centre as the latest building on the Lego campus in Denmark. Located in Billund, near Lego's headquarters and the BIG-designed Lego House, the hybrid mass-timber and concrete building contains the toy brand's innovation teams. It was designed by Cubo to be easily recognisable as a The post Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick appeared first on Dezeen .",
+      "summary": "Architecture studio Cubo has unveiled the Kornmarken Campus manufacturing innovation centre as the latest building on the Lego campus in Denmark. Located in Billund, near Lego's headquarters and the BIG-designed Lego House, the hybrid mass-timber and concrete building contains the toy brand's innovation and manufacturing teams. It was designed by Cubo to be easily recognisable as a The post Cubo arranges \"unmistakably Lego\" innovation centre around 25‑tonne brick appeared first on Dezeen .",
       "url": "https://www.dezeen.com/2026/07/03/lego-kornmarken-campus-cubo-arkitekter/",
       "image": "http://static.dezeen.com/uploads/2026/07/lego-kornmarken-campus-cubo-arkitekter-billund-denmark_dezeen_2364_sq_4.jpg",
       "images": [
@@ -160,18 +236,30 @@
       "published": "2026-07-03T08:00:22+00:00"
     },
     {
+      "id": "585359608506ceb4",
+      "title": "Coco Beans House / Aamir and Hameeda",
+      "summary": "At its heart, Coco Beans is a home about coexistence. With the land. With the trees. With light, atmosphere, and the rhythms of everyday living. Rather than imposing itself onto the site, the architecture adapts to it with sensitivity and intention, creating a residence that feels inseparable from its surroundings. Set on a rocky 700 sq. yd. site in Hyderabad , the 6,000 sq. ft. residence unfolds across three levels, designed for a family deeply connected to nature and the life unfolding around it. Named after the family's cat, Coco Beans, the home carries a sense of familiarity and warmth…",
+      "url": "https://www.archdaily.com/1042942/coco-beans-house-aamir-and-hameeda",
+      "image": "https://images.adsttc.com/media/images/6a45/2f4f/bdfc/1a01/8a6a/3bed/large_jpg/coco-beans-house-aamir-and-hameeda_26.jpg?1782919005",
+      "images": [
+        "https://images.adsttc.com/media/images/6a45/2f4f/bdfc/1a01/8a6a/3bed/large_jpg/coco-beans-house-aamir-and-hameeda_26.jpg?1782919005",
+        "https://images.adsttc.com/media/images/6a45/2cca/19a6/0501/7f75/47bf/large_jpg/coco-beans-house-aamir-and-hameeda_6.jpg?1782918404",
+        "https://images.adsttc.com/media/images/6a45/2cf4/8481/2b01/8af5/1e3d/large_jpg/coco-beans-house-aamir-and-hameeda_23.jpg?1782918443",
+        "https://images.adsttc.com/media/images/6a45/2cd2/8481/2b01/8af5/1e38/large_jpg/coco-beans-house-aamir-and-hameeda_8.jpg?1782918408",
+        "https://images.adsttc.com/media/images/6a45/2cdf/bdfc/1a01/8a6a/3be3/large_jpg/coco-beans-house-aamir-and-hameeda_12.jpg?1782918425"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-07-03T07:00:00+00:00"
+    },
+    {
       "id": "97f90a18fd3c3dcc",
       "title": "He Rebuilt This Dated Galley Kitchen With Plywood Cabinets",
       "summary": "Many kitchen renovations begin with expensive custom cabinetry. This one began with plywood. After custom kitchen quotes came in far beyond budget, Reddit user u/j_fisher85 rebuilt a dated galley kitchen with simple materials and a clear Scandinavian-inspired design instead of settling for a standard remodel. Rather than replacing the entire kitchen with new cabinet boxes,... The post He Rebuilt This Dated Galley Kitchen With Plywood Cabinets appeared first on Homedit .",
       "url": "https://www.homedit.com/he-rebuilt-this-dated-galley-kitchen-with-plywood-cabinets/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Rebuilt-This-Dated-Galley-Kitchen-With-Plywood-Cabinets-and-the-Result-Looks-Custom.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Rebuilt-This-Dated-Galley-Kitchen-With-Plywood-Cabinets-and-the-Result-Looks-Custom.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Terracotta-Floor-Tiles-Shifted-the-Entire-Color-Balance.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Matching-Plywood-Handles-Blend-Into-the-Doors.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Upper-Cabinets-Gave-Way-to-Open-Wall-Space.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Olive-Wall-Tiles-Replaced-a-Traditional-Backsplash.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Exposed-Plywood-Edges-Became-a-Signature-Detail.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Rebuilt-This-Dated-Galley-Kitchen-With-Plywood-Cabinets-and-the-Result-Looks-Custom.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -234,9 +322,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/a-customizable-metal-wire-chair-for-modern-indoor-outdoor-spaces/Twain_chair_furniture_05.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/08/450067/Corsair-Platform_6-modular-desk-13.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/05/18/nort_table_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/04/27/bordus_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/03/auto-draft/wave_bookshelf_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/01/this-sustainable-folding-stool-turns-wasteful-pet-bottles-into-a-tool-for-an-agile-lifestyle/takeoseat-folding-stool_felt_sustainable-design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -334,9 +422,9 @@
       "published": "2026-07-02T17:00:44+00:00"
     },
     {
-      "id": "523290b9488acb1c",
-      "title": "kilometer-long garden ring shapes carlo ratti associati’s ‘hospital of the future’",
-      "summary": "the new campus in italy includes glazed wings and a garden-filled hybrid timber structure. The post kilometer-long garden ring shapes carlo ratti associati’s ‘hospital of the future’ appeared first on designboom | architecture & design magazine .",
+      "id": "fe8f3c26d4d8f7ee",
+      "title": "kilometer-long garden ring wraps carlo ratti and park associati’s ‘hospital of the future’",
+      "summary": "the new campus in italy includes glazed wings and a garden-filled hybrid timber structure. The post kilometer-long garden ring wraps carlo ratti and park associati’s ‘hospital of the future’ appeared first on designboom | architecture & design magazine .",
       "url": "https://www.designboom.com/architecture/garden-ring-carlo-ratti-hospital-future-park-associati-brescia-italy/",
       "image": "https://www.designboom.com/wp-content/uploads/2026/07/carlo-ratti-associati-hospital-future-brescia-italy-designboom-700-500x400-22b08q85r529.jpg",
       "images": [
@@ -398,9 +486,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/3d-printed-lamps-made-from-cornstarch-plastic-exude-cute-candy-like-vibes/alt-light-3d-printed-lamp-10.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/03/yd-design-storm-26/00-title.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/01/04/walnut_table.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/FAULD-CHAIR-Image.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/02/pepe-stool/pepe_stool_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/02/liquid-windows/liquid_windows_squid_inspired_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -465,29 +553,11 @@
       "url": "https://www.homedit.com/gallery-walls-that-look-collected-keep-following-these-design-ideas/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Design-Ideas.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Design-Ideas.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Hallways-Often-Benefit-From-More-Artwork-Than-Expected.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Symmetry-Continues-Appearing-in-Dining-Rooms.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Artwork-Often-Reinforces-the-Rooms-Existing-Palette.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Floor-to-Ceiling-Arrangements-Draw-Attention-Upward.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Small-Collections-Can-Function-as-One-Composition.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Design-Ideas.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-02T11:44:32+00:00"
-    },
-    {
-      "id": "9b3e87c252ee855b",
-      "title": "BIG completes dymak’s HQ as a full-scale showcase of natural materials in denmark",
-      "summary": "timber, clay, cork, and eelgrass shape a workplace where material performance is experienced through everyday use. The post BIG completes dymak’s HQ as a full-scale showcase of natural materials in denmark appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/07/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark-designboom-700-1-500x400-22b08q85r533.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/07/big-bjarke-ingels-group-dymak-headquarters-full-scale-showcase-natural-materials-denmark-designboom-700-1-500x400-22b08q85r533.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-07-02T10:31:52+00:00"
     },
     {
       "id": "aedd3d99ac8eb860",
@@ -512,8 +582,8 @@
         "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/06/stove-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg",
         "https://sunset.com/wp-content/uploads/2026/06/shelving-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg",
-        "https://sunset.com/wp-content/uploads/2026/07/sunset-garden-golden-hour-dusk-pc-George-Pachantouris-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/07/article-altra-outdoor-dining-table.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/06/catalina-aerial-pc-erick-morales-oyola-AlorO0oHMR0-unsplash.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/06/exterior-lake-view-pnw-lake-house-philpotts-interiors-pc-matthew-millman.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/06/before-and-after-sf-kitchen-makeover-alter-interiors-pc-suzanna-scott.jpg?w=1024"
       ],
       "source": "Sunset",
@@ -610,23 +680,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-02T05:33:54+00:00"
-    },
-    {
-      "id": "65c53641cd095fd6",
-      "title": "Beyond Movable Walls: Acoustic Flexibility for Multi-Purpose Spaces",
-      "summary": "One of the defining qualities of contemporary interiors is flexibility. Offices, education facilities, hotels, and cultural venues need to be adaptable. They require spaces that can expand, divide, open, and close according to different activities, without sacrificing comfort, or accoustics. How a space is subdivided, then, is no longer a secondary decision, but a central component of architectural performance.",
-      "url": "https://www.archdaily.com/1038020/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces",
-      "image": "https://images.adsttc.com/media/images/6a35/a731/6c38/4816/a744/199d/large_jpg/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces_6.jpg?1781901128",
-      "images": [
-        "https://images.adsttc.com/media/images/6a35/a731/6c38/4816/a744/199d/large_jpg/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces_6.jpg?1781901128",
-        "https://images.adsttc.com/media/images/6a35/a732/6c38/4816/a744/199e/large_jpg/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces_5.jpg?1781901129",
-        "https://images.adsttc.com/media/images/6a35/a730/6c38/4816/a744/199b/large_jpg/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces_8.jpg?1781901124",
-        "https://images.adsttc.com/media/images/6a35/a730/8576/0e01/8921/b5b5/large_jpg/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces_7.jpg?1781901131",
-        "https://images.adsttc.com/media/images/6a35/a733/6c38/4816/a744/199f/large_jpg/beyond-movable-walls-acoustic-flexibility-for-multi-purpose-spaces_3.jpg?1781901149"
-      ],
-      "source": "ArchDaily",
-      "source_url": "https://www.archdaily.com",
-      "published": "2026-07-02T01:30:00+00:00"
     },
     {
       "id": "2af40f2433ac3c38",
@@ -903,19 +956,6 @@
       "published": "2026-07-01T10:00:00+00:00"
     },
     {
-      "id": "2aa5ec4bd67489ba",
-      "title": "Couple Removed Three Walls and Completely Changed Their Kitchen",
-      "summary": "Three interior walls divided this kitchen from the dining and living rooms, making the entire first floor feel more enclosed than its actual size. Builder-grade white shaker cabinets, gray quartz counters, and subway tile completed the original layout. Shared on Reddit by u/Due_Pop_4938, the couple removed all three walls before rebuilding the kitchen with rift... The post Couple Removed Three Walls and Completely Changed Their Kitchen appeared first on Homedit .",
-      "url": "https://www.homedit.com/couple-removed-three-walls-and-completely-changed-their-kitchen/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Removed-Three-Walls-and-Rebuilt-the-Kitchen-With-Custom-Rift-White-Oak-Cabinets.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/They-Removed-Three-Walls-and-Rebuilt-the-Kitchen-With-Custom-Rift-White-Oak-Cabinets.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-01T09:31:13+00:00"
-    },
-    {
       "id": "e67de8ffd98c1277",
       "title": "Velo chair by Layer for Andreu World",
       "summary": "Dezeen Showroom: British designer Benjamin Hubert and his studio Layer have created a task chair for flexible working named Velo, manufactured by Andreu World. The Velo chair first task chair from the Spanish brand, and was designed to be responsive and ergonomic while also having a compact, minimal form that sits as comfortably in the The post Velo chair by Layer for Andreu World appeared first on Dezeen .",
@@ -1146,6 +1186,37 @@
       "published": "2026-06-30T15:00:00+00:00"
     },
     {
+      "id": "4d15e5dc35cd6010",
+      "title": "diagonal timber wall installation becomes furniture, shelter, and landscape frame in spain",
+      "summary": "un obradoiro emerges from a hands-on design-build workshop led by erazo pugliese with first-year architecture students at cesuga. The post diagonal timber wall installation becomes furniture, shelter, and landscape frame in spain appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/diagonal-timber-wall-installation-furniture-shelter-landscape-frame-spain-a-coruna-cesuga-erazo-pugliese/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/06/un-obradoiro-hands-on-design-build-workshop-wood-fabric-cesuga-erazo-pugliese-a-coruna-spain-designboom-700-500x400-22b08q85r212.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/06/un-obradoiro-hands-on-design-build-workshop-wood-fabric-cesuga-erazo-pugliese-a-coruna-spain-designboom-700-500x400-22b08q85r212.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-06-30T13:00:00+00:00"
+    },
+    {
+      "id": "64fb29853b9d2399",
+      "title": "Casa AT by Unode Estudio",
+      "summary": "Casa AT reworks a row house in Aravaca, Madrid, as a calmer and more connected domestic interior. Designed by Unode Estudio, the 2026 house renovation reshapes the ground floor into a single bright sequence from entry to garden, using a curved central element and custom oak furniture to bring circulation, storage, and daily use into […] The post Casa AT by Unode Estudio first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/06/30/casa-at-by-unode-estudio/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-casa-at-by-unode-estudio.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/06/001-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/006-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/010-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/009-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/012-casa-at-by-unode-estudio.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/003-casa-at-by-unode-estudio.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-06-30T12:25:36+00:00"
+    },
+    {
       "id": "7e5e8c9cb59e07af",
       "title": "Nikolaj Mentze fits out Cobe's Copenhagen studio with architecture bookshop",
       "summary": "Danish architect Nikolaj Mentze has overhauled the interior of Cobe's architecture studio in Copenhagen by adding a bookshop dedicated to publications on the built environment. The bookshop, which opened during the annual festival 3 Days of Design earlier this month, features books on architecture, urbanism, landscape and design displayed on bespoke aluminium shelving and wooden display The post Nikolaj Mentze fits out Cobe's Copenhagen studio with architecture bookshop appeared first on Dezeen .",
@@ -1157,19 +1228,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-30T09:45:15+00:00"
-    },
-    {
-      "id": "60a3c6c0d7d7beb9",
-      "title": "Collective RailLock ceiling system by The Collective",
-      "summary": "Dezeen Showroom: British company The Collective has released a modular ceiling system for workplaces that combines acoustic functionality and aesthetic appeal. Collective RailLock was designed as an alternative to conventional workplace ceilings, which The Collective identified as being often overlooked when it comes to designing offices. \"While workplace interiors have become increasingly refined at eye level, The post Collective RailLock ceiling system by The Collective appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/30/collective-raillock-the-collective-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/06/collective-raillock-the-collective-dezeen-showroom_dezeen_2364_col_1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/collective-raillock-the-collective-dezeen-showroom_dezeen_2364_col_1.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-30T09:30:06+00:00"
     },
     {
       "id": "e0866fd360e5b544",
@@ -1299,6 +1357,24 @@
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
+      "id": "41094b33ea6d3012",
+      "title": "Apartment IN2 Opens a Continuous Living Space in Milan",
+      "summary": "Apartment IN2 reworks an anonymous apartment in Milano, Italy, into a home with a clearer sense of character and use. Designed by Nicola Maglione in 2025, the project treats the apartment as a continuous interior, where oak parquet, dark wood paneling, and carefully placed lighting give the living areas, kitchen, and bath a steady visual […] The post Apartment IN2 Opens a Continuous Living Space in Milan first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/06/29/apartment-in2-opens-a-continuous-living-space-in-milan/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/06/001-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/06/001-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/001-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/002-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/003-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/005-apartment-in2-opens-a-continuous-living-space-in-milan.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/06/006-apartment-in2-opens-a-continuous-living-space-in-milan.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-06-29T10:06:45+00:00"
+    },
+    {
       "id": "e69d68ed29184525",
       "title": "Kitchens by Cabbonet",
       "summary": "Dezeen Showroom: bespoke kitchens crafted with deluxe materials are the speciality of British brand Cabbonet, founded by designer Andrew Hays. Cabbonet's kitchens are designed by Arteim, Hays' studio started with Kimm Kovac, and are known for their sense of depth, luxuriousness and drama – features that are rooted in the founders' backgrounds in set and The post Kitchens by Cabbonet appeared first on Dezeen .",
@@ -1364,7 +1440,7 @@
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/antoniolupi-NAZIONALE-_ceralacca_nero-04.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Kerakoll-Colors_VideoVilloresi_01-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1393,9 +1469,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/apple-unveils-new-macbook-air-with-stunning-15-3-inch-liquid-retina-display-and-18-hour-battery-life/Apple-15-inch-Macbook-Air_3.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/08/05/flower_cap.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/smart-stools/smart_stool_designs_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/02/logitech-powerplay-2-mousepad-charges-your-mouse-while-you-play/logitech-powerplay-2-wireless-chargng-mousepad-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/graduation-gifts-for-2026-grads-that-solve-the-first-apartment-shuffle/10_best_graduation_gifts_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/08/deep_neck_muscle_strengthener_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2514,7 +2590,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2980,7 +3056,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3024,7 +3100,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3229,7 +3305,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3346,7 +3422,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
