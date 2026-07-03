@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-03T11:40:21.719760+00:00",
-  "generated_at_human": "2026-07-03 11:40 UTC",
-  "total_items": 251,
+  "generated_at": "2026-07-03T14:29:09.204293+00:00",
+  "generated_at_human": "2026-07-03 14:29 UTC",
+  "total_items": 250,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -19,6 +19,7 @@
     "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -63,8 +64,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 61,
+  "sources_count": 58,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "36fa10b6815bb0d0",
@@ -74,7 +75,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=73503",
+        "http://i.archi.ru/i/1262/405309.jpg?r=24796",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -91,7 +92,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=40875",
+        "http://i.archi.ru/i/1262/405309.jpg?r=97900",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -109,12 +110,61 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=47034",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=67634",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "4048bc1d29c5c478",
+      "title": "Exciting Storage Finds Hitting Costco Shelves In July 2026",
+      "summary": "Costco is well-known for their bulk goods offers. But that doesn't mean you should skip the storage isle because this July, they've got interesting arrivals.",
+      "url": "https://www.hunker.com/2204971/costco-storage-finds-out-july-2026/",
+      "image": "https://www.hunker.com/img/gallery/exciting-storage-finds-hitting-costco-shelves-in-july-2026/l-intro-1782831878.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/exciting-storage-finds-hitting-costco-shelves-in-july-2026/l-intro-1782831878.jpg",
+        "https://www.hunker.com/img/gallery/exciting-storage-finds-hitting-costco-shelves-in-july-2026/intro-1782831878.jpg",
+        "https://www.hunker.com/img/gallery/exciting-storage-finds-hitting-costco-shelves-in-july-2026/sterilite-clearview-latch-boxes-1782831880.jpg",
+        "https://www.hunker.com/img/gallery/exciting-storage-finds-hitting-costco-shelves-in-july-2026/sterilite-gasket-seal-latch-totes-1782831881.jpg",
+        "https://www.hunker.com/img/gallery/exciting-storage-finds-hitting-costco-shelves-in-july-2026/clear-stackable-shoebox-organizer-1782831881.jpg",
+        "https://www.hunker.com/img/gallery/exciting-storage-finds-hitting-costco-shelves-in-july-2026/clevermade-foldable-tote-bag-1782831882.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-03T12:00:00+00:00"
+    },
+    {
+      "id": "4d09b4c8c420a9f3",
+      "title": "First Look: Fairmont Cheshire, The Mere",
+      "summary": "Bergman Design House has completed the interiors for Fairmont Cheshire, The Mere, marking the studio’s largest UK hospitality project to […] The post First Look: Fairmont Cheshire, The Mere appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/first-look-fairmont-cheshire-the-mere/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Fairmont-The-Mere-2.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Fairmont-The-Mere-2.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2023/02/Fairmont-Morocco-Restaurant-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2022/02/House-Hotel-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2022/02/Fairmont-Hanoi-Lobby-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Fairmont-The-Mere-4.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Fairmont-The-Mere.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-03T11:42:33+00:00"
+    },
+    {
+      "id": "a5042ae83198d722",
+      "title": "8 Best Remote Work Essentials in 2026 That Make Your Home Office Actually Worth Showing on Camera",
+      "summary": "8 Best Remote Work Essentials in 2026 That Make Your Home Office Actually Worth Showing on Camera The home office had its reckoning. Somewhere between the fourth video call of the morning and the moment you noticed your own face in the...",
+      "url": "https://www.yankodesign.com/2026/07/03/8-best-remote-work-essentials-in-2026-that-make-your-home-office-actually-worth-showing-on-camera/?utm_source=rss&utm_medium=rss&utm_campaign=8-best-remote-work-essentials-in-2026-that-make-your-home-office-actually-worth-showing-on-camera",
+      "image": "https://www.yankodesign.com/images/design_news/2026/06/remote-work-essentials-in-2026-that-make-your-home-office-actually-worth-showing-on-camera/8_best_remote_work_essentials_yanko_design_hero.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/06/remote-work-essentials-in-2026-that-make-your-home-office-actually-worth-showing-on-camera/8_best_remote_work_essentials_yanko_design_hero.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-03T11:40:57+00:00"
     },
     {
       "id": "4b8afba61f3ebac6",
@@ -313,6 +363,22 @@
       "published": "2026-07-03T00:00:00+00:00"
     },
     {
+      "id": "dd0563572db32111",
+      "title": "Ditch Expensive Duvets: The Sizing Trick Behind Every Luxury Catalog Bedroom",
+      "summary": "There's nothing quite like a beautifully layered, fluffy bed. Turns out, achieving that look is all about changing the way you shop for the top layer.",
+      "url": "https://www.hunker.com/2204107/designer-coded-bed-size-professional-staging-trick/",
+      "image": "https://www.hunker.com/img/gallery/designer-coded-bed-size-professional-staging-trick/l-intro-1782763019.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/designer-coded-bed-size-professional-staging-trick/l-intro-1782763019.jpg",
+        "https://www.hunker.com/img/gallery/designer-coded-bed-size-professional-staging-trick/intro-1782763019.jpg",
+        "https://www.hunker.com/img/gallery/designer-coded-bed-size-professional-staging-trick/why-sizing-up-the-bedding-helps-create-a-plush-high-end-look-1782763020.jpg",
+        "https://www.hunker.com/img/gallery/designer-coded-bed-size-professional-staging-trick/assembling-the-luxe-layered-bed-when-to-size-up-the-bedding-1782763021.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-02T23:00:00+00:00"
+    },
+    {
       "id": "ee718441c2119b88",
       "title": "Monai’s New Baby Crib Monitors Heart Rate With 4K Sensors",
       "summary": "Monai’s New Baby Crib Monitors Heart Rate With 4K Sensors Baby gear has always been functional. Safe. Practical. But design, real design, has rarely been part of the conversation when it comes to infant furniture....",
@@ -322,9 +388,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/04/27/bordus_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/03/auto-draft/wave_bookshelf_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/01/this-sustainable-folding-stool-turns-wasteful-pet-bottles-into-a-tool-for-an-agile-lifestyle/takeoseat-folding-stool_felt_sustainable-design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/03/12/nomade_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/03/auto-draft/w_chair_2.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/08_deskfromthefuture_enchoenchev_moderndesk.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -347,19 +413,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-02T21:00:00+00:00"
-    },
-    {
-      "id": "a8500b013f698e32",
-      "title": "Polaroid Just Upgraded the Tiny Camera Collectors Love",
-      "summary": "Polaroid Just Upgraded the Tiny Camera Collectors Love There was a time when the only people you would see carrying around Polaroid cameras were the hipster film or art students or the always-on-a-nostalgic-trip...",
-      "url": "https://www.yankodesign.com/2026/07/02/polaroid-just-upgraded-the-tiny-camera-collectors-love/?utm_source=rss&utm_medium=rss&utm_campaign=polaroid-just-upgraded-the-tiny-camera-collectors-love",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/polaroid-just-upgraded-the-tiny-camera-collectors-love/polaroid-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/polaroid-just-upgraded-the-tiny-camera-collectors-love/polaroid-01.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-02T20:30:45+00:00"
     },
     {
       "id": "7b4dcb9f7e183e91",
@@ -454,10 +507,7 @@
       "url": "https://www.hunker.com/2202906/sams-club-storage-finds-out-july-2026/",
       "image": "https://www.hunker.com/img/gallery/exciting-sams-club-storage-finds-hitting-shelves-in-july-2026/l-intro-1782485185.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/exciting-sams-club-storage-finds-hitting-shelves-in-july-2026/l-intro-1782485185.jpg",
-        "https://www.hunker.com/img/gallery/exciting-sams-club-storage-finds-hitting-shelves-in-july-2026/intro-1782485185.jpg",
-        "https://www.hunker.com/img/gallery/exciting-sams-club-storage-finds-hitting-shelves-in-july-2026/cubbies-and-bins-to-tackle-toy-clutter-1782485186.jpg",
-        "https://www.hunker.com/img/gallery/exciting-sams-club-storage-finds-hitting-shelves-in-july-2026/storage-items-to-get-your-kitchen-sorted-1782485186.jpg"
+        "https://www.hunker.com/img/gallery/exciting-sams-club-storage-finds-hitting-shelves-in-july-2026/l-intro-1782485185.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -486,9 +536,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/FAULD-CHAIR-Image.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/pepe-stool/pepe_stool_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/liquid-windows/liquid_windows_squid_inspired_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/09/this-wall-mounted-desk-has-a-revolving-drawer-inspired-by-a-matryoshka-doll/revolver-11.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/06/remote-work-essentials-in-2026-that-make-your-home-office-actually-worth-showing-on-camera/8_best_remote_work_essentials_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/summer-outdoor-gadgets-with-design-good-enough-to-keep-forever/7_best_summer_outdoor_gadgets_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -745,9 +795,7 @@
       "url": "https://www.hunker.com/2203517/dollar-tree-diy-hook-rack-outdoor-storage/",
       "image": "https://www.hunker.com/img/gallery/not-a-deck-box-or-shelves-a-smart-dollar-tree-diy-for-easy-outdoor-storage/l-intro-1782671681.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-a-deck-box-or-shelves-a-smart-dollar-tree-diy-for-easy-outdoor-storage/l-intro-1782671681.jpg",
-        "https://www.hunker.com/img/gallery/not-a-deck-box-or-shelves-a-smart-dollar-tree-diy-for-easy-outdoor-storage/intro-1782671681.jpg",
-        "https://www.hunker.com/img/gallery/not-a-deck-box-or-shelves-a-smart-dollar-tree-diy-for-easy-outdoor-storage/get-your-outdoor-space-cleaned-up-with-a-dollar-tree-hanging-rack-1782671683.jpg"
+        "https://www.hunker.com/img/gallery/not-a-deck-box-or-shelves-a-smart-dollar-tree-diy-for-easy-outdoor-storage/l-intro-1782671681.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -840,32 +888,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-07-01T16:00:00+00:00"
-    },
-    {
-      "id": "ac191a47682a3568",
-      "title": "The Rare Le Creuset Dish Collectors Would Be Thrilled To Find At The Thrift Store",
-      "summary": "Not every sought-after Le Creuset find is decades old. This surprisingly rare piece has collectors keeping a close eye on thrift store shelves.",
-      "url": "https://www.hunker.com/2204755/rare-le-creuset-limited-edition-soire-find-thrift-stores-estate-sales/",
-      "image": "https://www.hunker.com/img/gallery/rare-le-creuset-limited-edition-soire-find-thrift-stores-estate-sales/l-intro-1782954637.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/rare-le-creuset-limited-edition-soire-find-thrift-stores-estate-sales/l-intro-1782954637.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-01T16:00:00+00:00"
-    },
-    {
-      "id": "2392e39d4945e734",
-      "title": "Woman Turns Simple Wood Rounds Into A High-End Coffee Table",
-      "summary": "With some creativity, humble wood rounds become a statement piece. This easy, highly customizable DIY delivers designer looks right to your living room.",
-      "url": "https://www.hunker.com/2204733/diy-coffee-table-round-wood-discs/",
-      "image": "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/l-intro-1782818511.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/woman-turns-simple-wood-rounds-into-a-high-end-coffee-table/l-intro-1782818511.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-01T15:00:00+00:00"
     },
     {
       "id": "c6426737a2cbb567",
@@ -1143,21 +1165,6 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-06-30T15:41:15+00:00"
-    },
-    {
-      "id": "923c2b97c8acd4c7",
-      "title": "The Design Drop: 11 new launches for your wish list",
-      "summary": "In our latest Design Drop, craft heritage meets democratic design, artisan jewellery and flat-pack furniture. Read on to discover the most compelling objects to cross our desks this month",
-      "url": "https://www.wallpaper.com/design-interiors/best-design-launches-june-2026",
-      "image": "https://cdn.mos.cms.futurecdn.net/c4SMXjwTQpjgzchvwWHpKm.png",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/c4SMXjwTQpjgzchvwWHpKm.png",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-06-30T15:13:34+00:00"
     },
     {
       "id": "d74296df2891b77a",
@@ -1439,8 +1446,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/antoniolupi-NAZIONALE-_ceralacca_nero-04.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/2026-07-03-10_49_41-Addio-ad-Aldo-Spinelli-fondatore-di-Poliform.-Imprenditore-straordinario-e-vis.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1469,9 +1476,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/logitech-powerplay-2-mousepad-charges-your-mouse-while-you-play/logitech-powerplay-2-wireless-chargng-mousepad-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/graduation-gifts-for-2026-grads-that-solve-the-first-apartment-shuffle/10_best_graduation_gifts_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/deep_neck_muscle_strengthener_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/10/11/ballare_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/04/superbe_thinnest_hybrid_watch_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/03/modern-iphone-4-concept-shows-what-the-iconic-smartphone-would-look-like-if-it-were-released-today/modern_iphone_4_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2100,19 +2107,6 @@
       "published": "2026-06-22T13:00:56+00:00"
     },
     {
-      "id": "f8fcd56f8d61184c",
-      "title": "Renon: perché tutti prima poi tornano nell’Altopiano del sole",
-      "summary": "In Trentino-Alto Adige, un territorio sopraelevato unisce l'efficienza della mobilità sostenibile al fascino dell'isolamento: un modello integrato di accoglienza e cultura alpina tra residenze patrizie, archeologia ferroviaria e l'eredità di Sigmund Freud The post Renon: perché tutti prima poi tornano nell’Altopiano del sole appeared first on Interni Magazine .",
-      "url": "https://www.internimagazine.it/viaggi/renon-perche-tutti-prima-poi-tornano-nellaltopiano-del-sole/",
-      "image": "https://www.internimagazine.it/content/uploads/2026/06/3_Fruhling_Wiese_Schlern_%C2%A9TVRitten_FranziskaUnterholzner.jpg",
-      "images": [
-        "https://www.internimagazine.it/content/uploads/2026/06/3_Fruhling_Wiese_Schlern_%C2%A9TVRitten_FranziskaUnterholzner.jpg"
-      ],
-      "source": "Interni magazine",
-      "source_url": "https://www.internimagazine.it",
-      "published": "2026-06-21T15:00:31+00:00"
-    },
-    {
       "id": "8d785c2610f5bb19",
       "title": "Eight scenic bathrooms with a window to the great outdoors",
       "summary": "A wet room surrounded by the Costa Rican jungle and a built-in tub overlooking a Japanese beach feature in our latest lookbook, which brings together bathrooms with enviable nature views. The following homes are united by their dreamy coastal settings, framed by intentionally large windows. This glazing is especially effective in the homes' bathrooms, which The post Eight scenic bathrooms with a window to the great outdoors appeared first on Dezeen .",
@@ -2241,11 +2235,7 @@
       "url": "https://www.sleepermagazine.com/stories/projects/first-look-waldorf-astoria-london-admiralty-arch/",
       "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/06/WA-Admiralty-Arch-3.jpg",
       "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/06/WA-Admiralty-Arch-3.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2022/04/waldorf-astoria-sydney-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2017/10/Admiralty-Arch-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/351269-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/06/WA-Admiralty-Arch-2.jpg"
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/06/WA-Admiralty-Arch-3.jpg"
       ],
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
@@ -2317,7 +2307,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -2590,7 +2580,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3056,7 +3046,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3100,7 +3090,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3305,7 +3295,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3422,7 +3412,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
