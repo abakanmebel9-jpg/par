@@ -1,12 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-04T16:13:17.257747+00:00",
-  "generated_at_human": "2026-07-04 16:13 UTC",
-  "total_items": 231,
+  "generated_at": "2026-07-04T18:11:41.542828+00:00",
+  "generated_at_human": "2026-07-04 18:11 UTC",
+  "total_items": 232,
   "sources_used": [
     "ArchDaily",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -24,7 +25,6 @@
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
-    "Dezeen tag offices",
     "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
@@ -52,6 +52,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -59,7 +60,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
+  "sources_count": 54,
   "multi_photo_items": 58,
   "items": [
     {
@@ -70,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=3221",
+        "http://i.archi.ru/i/1262/405309.jpg?r=88304",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -87,7 +88,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=76670",
+        "http://i.archi.ru/i/1262/405309.jpg?r=95340",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -105,7 +106,7 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=38369",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=78443",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -506,9 +507,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/03/12/nomade_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/10/organize-and-showcase-your-personality-through-your-books-and-enhance-your-love-for-reading/ORDO_book_sidetable_01-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/05/24/takeaseat01.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/10/this-lego-inspired-concept-lets-you-to-custom-build-your-seating-arrangement/1_Blok_Markus-Melcher_seating-blocks-furniture.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/08/auto-draft/10_artdecogarden_andrefu_artdecointerior.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/11/04/deskguard01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -625,9 +626,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/mosevic-denim-sunglasses-upcycles-thigh-wear-to-eyewear/demin_recycled_sunglasses_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/a-golf-bench-and-chair-combines-sustainable-craftsmanship-and-stylish-ergonomic-comfort/golf_folding_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/these-4-solar-pavilions-prove-that-public-cooling-can-be-free/cool-retreats-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/03/four-speakers-masquerade-as-table-legs-for-a-tidier-living-room/verre-desk-builtin-speakers-concept-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/04/this-3d-printed-house-is-made-from-a-mix-of-soil-straw-sand-and-other-sustainable-materials/00-casacovida_yankodesign_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/05/philips-fixables-3d-printed-parts-make-repairs-a-breeze/philips-fixables-3d-printed-parts-04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1243,6 +1244,19 @@
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
       "id": "41094b33ea6d3012",
       "title": "Apartment IN2 Opens a Continuous Living Space in Milan",
       "summary": "Apartment IN2 reworks an anonymous apartment in Milano, Italy, into a home with a clearer sense of character and use. Designed by Nicola Maglione in 2025, the project treats the apartment as a continuous interior, where oak parquet, dark wood paneling, and carefully placed lighting give the living areas, kitchen, and bath a steady visual […] The post Apartment IN2 Opens a Continuous Living Space in Milan first appeared on HomeAdore .",
@@ -1355,9 +1369,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/dream-bed-has-a-built-in-43-inch-tv-for-your-gaming-and-viewing-pleasure/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/09/06/tag_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/01/13/Phillu.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/09/fresh-matcha-latte-is-now-literally-just-a-button-press-away/Cuzen_Matcha_enjoy_organic_matcha_from_your_countertop_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/12/auto-draft/sweet_deer_cookie_cutter_ototo_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/08/wonderfully-muted-wooden-products-designed-that-add-trendiness-to-your-space/Wooden-Furniture_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2368,7 +2382,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2808,7 +2822,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2836,8 +2850,8 @@
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/10/DIY-Thankful-Sign.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2852,7 +2866,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3044,7 +3058,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3135,7 +3149,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag kitchens",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
@@ -3161,7 +3175,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3309,6 +3323,19 @@
       "published": "2026-04-20T08:44:31+00:00"
     },
     {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
+    },
+    {
       "id": "1133d9f81d41eec5",
       "title": "The Y2K Teen Bedroom Is Back, Baby",
       "summary": "Courtesy of Kara Pavlik When I was designing my childhood bedroom in the early 2000s, I had a clear vision: periwinkle walls, a canopy bed with tie-dye bedding, a lava lamp, and a carefully curated corkboard collage pinned with Hannah Montana posters, photos with friends, and Tiger Beat magazine cutouts.",
@@ -3320,19 +3347,6 @@
       "source": "PopSugar Home",
       "source_url": "https://www.popsugar.com",
       "published": "2026-04-15T13:05:02+00:00"
-    },
-    {
-      "id": "65843b929e4ec3b5",
-      "title": "Ste Marie \"reimagines Chicago's corporate landscape\" at The Bell",
-      "summary": "Canadian studio Ste Marie has crafted interiors for amenity spaces within a renovated 1960s tower in Chicago, which echo the \"glamour and confidence of the mid-century office\". Recently overhauled by SCB and Onni Group to welcome new office tenants, the 32-storey building at 225 West Randolph Street in Chicago's Loop was originally constructed in 1966 The post Ste Marie \"reimagines Chicago's corporate landscape\" at The Bell appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/04/05/the-bell-office-tower-amenity-interiors-chicago-ste-marie/",
-      "image": "http://static.dezeen.com/uploads/2026/04/the-bell_ste-marie_dezeen_sq1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/04/the-bell_ste-marie_dezeen_sq1.jpg"
-      ],
-      "source": "Dezeen tag offices",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-04-05T17:00:11+00:00"
     }
   ]
 }
