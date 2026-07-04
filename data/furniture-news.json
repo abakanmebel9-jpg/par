@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-04T08:00:21.221656+00:00",
-  "generated_at_human": "2026-07-04 08:00 UTC",
+  "generated_at": "2026-07-04T10:22:24.835711+00:00",
+  "generated_at_human": "2026-07-04 10:22 UTC",
   "total_items": 245,
   "sources_used": [
     "ArchDaily",
@@ -18,6 +18,7 @@
     "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -53,6 +54,7 @@
     "Trendir furniture",
     "Trendir interiors",
     "Veranda",
+    "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
@@ -61,8 +63,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 59,
+  "sources_count": 57,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "36fa10b6815bb0d0",
@@ -72,7 +74,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=48803",
+        "http://i.archi.ru/i/1262/405309.jpg?r=33680",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -89,7 +91,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=73654",
+        "http://i.archi.ru/i/1262/405309.jpg?r=16035",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -107,12 +109,64 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=41409",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=45603",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "6388284c2edd041b",
+      "title": "Fiat thinks small with the Multiplina Concept as well as some beach-ready micromobility",
+      "summary": "Fiat has doubled-down on its focus on micromobility, taking the cultish Topolino into new sectors and thinking about future forms for ultra-compact urban travel",
+      "url": "https://www.wallpaper.com/transportation/fiat-multiplina-concept",
+      "image": "https://cdn.mos.cms.futurecdn.net/hjr4utgvcQa33u5fWSfP68.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/hjr4utgvcQa33u5fWSfP68.jpg",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-07-04T10:00:00+00:00"
+    },
+    {
+      "id": "1258ba9037e5c96c",
+      "title": "This Builder-Grade Laundry Room Took on a Custom-Built Look",
+      "summary": "Builder-grade laundry rooms often prioritize function over appearance. This remodel improved both without changing the room’s footprint. Instead of a full renovation, Imgur creator HomeDIYDan updated the existing space with a hand-stenciled floor, white shiplap wall, black Samsung appliances, wall cabinets, an industrial pipe drying rack, and a hidden utility niche. Each upgrade solved a... The post This Builder-Grade Laundry Room Took on a Custom-Built Look appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-builder-grade-laundry-room-took-on-a-custom-built-look/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Open-Shelves-Werent-the-Only-Problem.-This-Laundry-Room-Needed-Drying-Space-Too.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Open-Shelves-Werent-the-Only-Problem.-This-Laundry-Room-Needed-Drying-Space-Too.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common-in-2026.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Stencil-Pattern-and-Shiplap-Changed-the-Room-at-the-Same-Time.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Finished-Shelf-Connects-Function-and-Design.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Floor-Pattern-Became-the-Focal-Point.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/New-Samsung-Appliances-Introduced-Contrast.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-04T09:50:31+00:00"
+    },
+    {
+      "id": "d2a995930572acbc",
+      "title": "He Spray Painted These Oak Cabinets White Instead of Replacing Them",
+      "summary": "Many kitchen renovations begin by replacing oak cabinets, along with new countertops and weeks of construction. This kitchen took a different approach. Instead of replacing the existing cabinets, Reddit user u/Kevinsmith1987 spray painted them white using a Graco X5 sprayer and a Renner 2K water-based lacquer system. The layout, countertops, backsplash, flooring, and appliances all... The post He Spray Painted These Oak Cabinets White Instead of Replacing Them appeared first on Homedit .",
+      "url": "https://www.homedit.com/he-spray-painted-these-oak-cabinets-white-instead-of-replacing-them/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Most-People-Would-Replace-These-Oak-Cabinets.-He-Painted-Them-Instead.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Most-People-Would-Replace-These-Oak-Cabinets.-He-Painted-Them-Instead.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common-in-2026.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Existing-Countertops-and-Backsplash-Took-on-a-Different-Role.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/White-Paint-Shifted-the-Focus-Away-From-the-Cabinetry.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Spray-Equipment-Replaced-Brushes-and-Rollers.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/How-the-kitchen-looks-before-a-massive-spraying-process.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-04T08:17:03+00:00"
     },
     {
       "id": "4eb5b3f375e22449",
@@ -123,8 +177,8 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Garden-Seating-Areas-Started-Looking-More-Like-Outdoor-Retreats.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common-in-2026.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/More-Homeowners-Are-Replacing-Patio-Umbrellas-With-Shade-Sails.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Most-People-Would-Replace-These-Oak-Cabinets.-He-Painted-Them-Instead.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Forget-Basic-Towel-Hooks.-These-Striped-Designs-Look-Like-Art-on-the-Wall.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Upper-Cabinets-Were-Replaced-With-Something-Simpler-in-This-Laundry-Room.jpg"
       ],
@@ -139,16 +193,24 @@
       "url": "https://www.homedit.com/forget-basic-towel-hooks-these-striped-designs-look-more-like-wall-decor/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/These-Anthropologie-Hooks-Look-More-Like-Wall-Decor-Than-Towel-Storage.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/These-Anthropologie-Hooks-Look-More-Like-Wall-Decor-Than-Towel-Storage.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common-in-2026.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Functional-Details-Completed-the-Transformation.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Placement-Balanced-Accessibility-and-Heat-Clearance.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Decorative-Hardware-Replaced-a-Standard-Towel-Bar.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/These-Anthropologie-Hooks-Look-More-Like-Wall-Decor-Than-Towel-Storage.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-04T07:23:42+00:00"
+    },
+    {
+      "id": "551b6eb85e7cbd3b",
+      "title": "This week Rick Owens created air-conditioned tracksuits",
+      "summary": "This week on Dezeen, we reported on Paris Fashion Week where fashion designer Rick Owens showed inflatable Adidas jogging suits. Complete with tiny built-in fans that circulate air around the wearer, the jogging suits formed part of Owens' Spring Summer 27 menswear show, which took place during the city's record-breaking heatwave. Described by Owens as a The post This week Rick Owens created air-conditioned tracksuits appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/04/rick-owens-air-conditioned-tracksuits-this-week/",
+      "image": "http://static.dezeen.com/uploads/2026/07/rick-owens-mens-ss27_dezeen_2364_sq_1-1704x2556-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/rick-owens-mens-ss27_dezeen_2364_sq_1-1704x2556-1.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-04T05:00:52+00:00"
     },
     {
       "id": "a3970e4fab203e6d",
@@ -260,12 +322,7 @@
       "url": "https://www.homedit.com/more-homeowners-are-replacing-patio-umbrellas-with-shade-sails/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Nobody-Wanted-Another-Patio-Umbrella.-These-Shade-Sails-Started-Showing-Up-Instead.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Nobody-Wanted-Another-Patio-Umbrella.-These-Shade-Sails-Started-Showing-Up-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common-in-2026.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/Most-People-Use-Wire-Fencing-Outside-But-She-Built-An-Entryway-Bench-With-It.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Timber-Posts-Supported-a-Floating-Canopy.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Large-Shade-Sail-Covered-the-Full-Patio-Footprint.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/String-Lights-and-Shade-Sail-Shared-the-Same-Space.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Nobody-Wanted-Another-Patio-Umbrella.-These-Shade-Sails-Started-Showing-Up-Instead.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -493,9 +550,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/this-e289-add-on-turns-your-e49-billy-bookcase-into-a-standing-desk/ikea-billy-plug-in-standing-desk-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/315267/1-balance_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/auto-draft/meditation_seat_6.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/10/auto-draft/varier_ekstrem_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/haragana_lounge_chair_7.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/09/aka/akami_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -638,9 +695,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/the-3d-printed-chair-that-moves-with-you-not-against-you/flow-chair-08.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/11/yd-spotlight-nicholas-bakers-chair-sketch-challenge-pt-3/nickschair_sketches_3_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/04/muji-elevates-common-paper-bag-by-adding-washi-paper-into-the-mix/washi-bag-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/09/nightingale-house/nightingale_house_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/02/this-wooden-basket-becomes-a-low-table-when-you-flip-it-upside-down/convertible-basket-table-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/01/biopermit-ciid/biopermit_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -686,19 +743,6 @@
       "published": "2026-07-02T13:00:00+00:00"
     },
     {
-      "id": "37e4b00e526b2608",
-      "title": "Gallery Walls That Look Collected Keep Following These Design Ideas",
-      "summary": "Gallery walls rarely succeed because of the artwork alone. Frame placement, spacing, scale, and the relationship between the art and surrounding furniture often determine whether a wall feels curated or cluttered. Looking across living rooms, dining rooms, hallways, and entryways reveals several approaches that appear again and again. Some rely on matching frames and strict... The post Gallery Walls That Look Collected Keep Following These Design Ideas appeared first on Homedit .",
-      "url": "https://www.homedit.com/gallery-walls-that-look-collected-keep-following-these-design-ideas/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Design-Ideas.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Gallery-Walls-That-Look-Collected-Keep-Following-These-Design-Ideas.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-02T11:44:32+00:00"
-    },
-    {
       "id": "aedd3d99ac8eb860",
       "title": "SpaceDNA arranges split levels of Indian home around rust-orange staircase",
       "summary": "Perforated steel screens filter light into this multi-generational house in Coimbatore, India, which architecture studio SpaceDNA completed with an oxide-coated staircase that steps around a triple-height void. Named Splitscape Residence, the house occupies a 113-square-metre site and is organised across split-level floors and mezzanines around a triple-height living space. SpaceDNA designed the three-bedroom family home for The post SpaceDNA arranges split levels of Indian home around rust-orange staircase appeared first on Dezeen .",
@@ -728,19 +772,6 @@
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
       "published": "2026-07-02T09:52:51+00:00"
-    },
-    {
-      "id": "35e02c40852ec5c4",
-      "title": "Couple Rebuilt Their Builder-Grade Kitchen and It Looks Custom-Built",
-      "summary": "Builder kitchens often come with plenty of cabinets but leave little thought for how those cabinets work. This remodel shows how small layout changes can improve storage, workflow, and appearance without changing the room’s footprint. Shared by Reddit user u/DulySwamped, the project pushed both peninsulas forward, created a pantry from part of a closet, relocated... The post Couple Rebuilt Their Builder-Grade Kitchen and It Looks Custom-Built appeared first on Homedit .",
-      "url": "https://www.homedit.com/couple-rebuilt-their-builder-grade-kitchen-and-it-looks-custom-built/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/they-Rebuilt-This-Builder-Grade-Kitchen-Without-Changing-the-Layout.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/they-Rebuilt-This-Builder-Grade-Kitchen-Without-Changing-the-Layout.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-02T09:33:05+00:00"
     },
     {
       "id": "efcf423dc86844f8",
@@ -1137,19 +1168,6 @@
       "published": "2026-06-30T15:41:15+00:00"
     },
     {
-      "id": "d74296df2891b77a",
-      "title": "Proposal for Polish embassy in Chicago among projects from the Bartlett School of Architecture",
-      "summary": "Dezeen School Shows: a Polish embassy located next to Chicago's Kennedy Expressway is among the student projects by The Bartlett School of Architecture. Also featured is a London-based Latin American media agency for migrant communities and a centre dedicated to fishing on the island of Nkombo in Rwanda. University College London School: The Bartlett School The post Proposal for Polish embassy in Chicago among projects from the Bartlett School of Architecture appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/30/polish-embassy-projects-from-the-bartlett-school-of-architecture-schoolshows/",
-      "image": "http://static.dezeen.com/uploads/2026/06/The-Bartlett-School-of-Architecture-Dezeen_dezeen_2364_col_1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/The-Bartlett-School-of-Architecture-Dezeen_dezeen_2364_col_1.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-30T15:00:29+00:00"
-    },
-    {
       "id": "ebf6f980377b21a6",
       "title": "Table Legs that Use Spring Tension Rather than Joinery",
       "summary": "These Oak Shock Absorber tables are by Austrian furniture company RIOF . The legs-to-table joinery method is highly unusual: They include two little L-shaped pieces that you use to spread the legs for installation: With our spring-loaded leg system, we've solved one of the oldest challenges in furniture making: how to connect a tabletop and legs securely without using glue or metal screws? Our answer lies in nature itself. We utilize the spring force of partially split wood to create a strong, purely mechanical connection. This is what makes the strut system special: - Monomaterial: A…",
@@ -1404,7 +1422,7 @@
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/2026-07-03-10_49_41-Addio-ad-Aldo-Spinelli-fondatore-di-Poliform.-Imprenditore-straordinario-e-vis.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Kerakoll-Colors_VideoVilloresi_01-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1433,9 +1451,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/gustaf-westman-gives-cat-furniture-a-playful-upgrade/Chunky_cat_tree_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/04/12/primo_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/what-if/1-what_if_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/07/top-5-a-i-features-every-3d-rendering-software-needs-asap/top_5_ai_tools_for_3d_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/04/japanese-designed-mothers-day-gifts-that-become-part-of-her-home-not-the-donation-pile/5_japanese_mothers_day_gifts_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/06/17/woodb_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/06/13-years-later-this-is-still-the-best-ipad-stand-available-today-and-it-just-got-an-upgrade/Tablift_MaxPro_Universal_Stand_for_Tablets_and_Smartphones_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2251,7 +2269,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -2825,19 +2843,6 @@
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-06-04T09:00:00+00:00"
-    },
-    {
-      "id": "fe484876c3c81be5",
-      "title": "11 Iconic Mid-century Outdoor Chair Designs You Should Know",
-      "summary": "Design classics aren’t just for interiors. In fact, a crop of notable mid-century designers made dining and lounge chairs for the outdoors (and/or their designs were later reworked for outdoor use). Here are our 11 favorite classic outdoor chair designs from the likes of Jens Risom, Willy Guhl, the Eameses and other design icons. N.B.: […]",
-      "url": "https://www.gardenista.com/posts/10-easy-pieces-classic-outdoor-chair-designs/",
-      "image": "https://media.gardenista.com/wp-content/uploads/2019/04/ernest-race-antelope-standard-chair-1951.jpg",
-      "images": [
-        "https://media.gardenista.com/wp-content/uploads/2019/04/ernest-race-antelope-standard-chair-1951.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-06-04T08:00:36+00:00"
     },
     {
       "id": "3543f1a5d293241f",
