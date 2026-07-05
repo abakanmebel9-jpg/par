@@ -1,24 +1,23 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-05T00:10:45.775621+00:00",
-  "generated_at_human": "2026-07-05 00:10 UTC",
-  "total_items": 234,
+  "generated_at": "2026-07-05T05:06:03.195523+00:00",
+  "generated_at_human": "2026-07-05 05:06 UTC",
+  "total_items": 240,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
-    "DIY Candy",
     "DM tag cabinets",
     "DM tag furniture",
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -54,13 +53,15 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
-    "Yellowtrace"
+    "Yellowtrace",
+    "АМДПР"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 59,
   "items": [
     {
@@ -71,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=31882",
+        "http://i.archi.ru/i/1262/405309.jpg?r=48356",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -88,7 +89,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=52847",
+        "http://i.archi.ru/i/1262/405309.jpg?r=27874",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -106,12 +107,27 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=35565",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=81037",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "396ff1fa300205de",
+      "title": "Ditch Baskets And Bins: This Clever Hack Turns A Towel Into Kitchen Storage",
+      "summary": "The best storage solutions are sometimes already in your home. This clever hack uses something you already own, so there's nothing extra to buy.",
+      "url": "https://www.hunker.com/2205775/ditch-baskets-and-bins-turn-tea-towel-into-bread-bowl-storage/",
+      "image": "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/l-intro-1782911462.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/l-intro-1782911462.jpg",
+        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/intro-1782911462.jpg",
+        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/making-your-kitchen-towel-basket-1782911464.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-05T03:00:00+00:00"
     },
     {
       "id": "69c5e0c65e28a86d",
@@ -125,6 +141,21 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-04T23:30:57+00:00"
+    },
+    {
+      "id": "b9b1e0bcc4670b21",
+      "title": "DIYers Turn Outdoor Planters Into Elegant Coffee Table That Looks Expensive",
+      "summary": "With some modifications that make them functional - and with the help of a home improvement store essential - planters can be upcycled into a chic coffee table.",
+      "url": "https://www.hunker.com/2205687/diy-coffee-table-outdoor-planters/",
+      "image": "https://www.hunker.com/img/gallery/diy-coffee-table-outdoor-planters/l-intro-1782916094.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/diy-coffee-table-outdoor-planters/l-intro-1782916094.jpg",
+        "https://www.hunker.com/img/gallery/diy-coffee-table-outdoor-planters/intro-1782916094.jpg",
+        "https://www.hunker.com/img/gallery/diy-coffee-table-outdoor-planters/planters-and-wood-make-a-solid-diy-coffee-table-1782916096.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-04T22:30:00+00:00"
     },
     {
       "id": "c0113ed1626f15b3",
@@ -149,9 +180,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-kneeling-chair-from-1979-finally-gets-its-color-moment/variable-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/genesis-x-dog-concept-has-every-luxury-your-pooch-needs-before-during-and-after-travel/Genesis-X-Dog-concept-4.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/03/15/s03_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/this-uber-luxury-nft-collectibles-furniture-collection-oscillates-between-reality-and-metaverse/NFT-Furniture_monde-singulier_8.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/09/09/bucefalosofa01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/08/modular-stool-concept-is-designed-for-people-who-love-sitting-cross-legged/modular-stool-concept-cross-legged-11.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/10/auto-draft/sho_chair_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -209,9 +240,7 @@
       "url": "https://www.hunker.com/2207078/dated-closet-upgrade-ikea-has-a-new-modern-sliding-door/",
       "image": "https://www.hunker.com/img/gallery/goodbye-dated-closet-doors-ikea-has-a-new-item-thats-sleek-and-modern/l-intro-1783015031.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/goodbye-dated-closet-doors-ikea-has-a-new-item-thats-sleek-and-modern/l-intro-1783015031.jpg",
-        "https://www.hunker.com/img/gallery/goodbye-dated-closet-doors-ikea-has-a-new-item-thats-sleek-and-modern/intro-1783015031.jpg",
-        "https://www.hunker.com/img/gallery/goodbye-dated-closet-doors-ikea-has-a-new-item-thats-sleek-and-modern/upgrade-your-closet-into-a-confidence-zone-with-ikeas-sliding-door-1783015033.jpg"
+        "https://www.hunker.com/img/gallery/goodbye-dated-closet-doors-ikea-has-a-new-item-thats-sleek-and-modern/l-intro-1783015031.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -224,9 +253,7 @@
       "url": "https://www.hunker.com/2205671/overlooked-basket-shoe-storage-small-spaces-not-cabinets/",
       "image": "https://www.hunker.com/img/gallery/not-cabinets-the-overlooked-basket-solution-for-small-space-shoe-storage/l-intro-1782831013.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-cabinets-the-overlooked-basket-solution-for-small-space-shoe-storage/l-intro-1782831013.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-the-overlooked-basket-solution-for-small-space-shoe-storage/intro-1782831013.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-the-overlooked-basket-solution-for-small-space-shoe-storage/using-baskets-for-shoe-storage-1782831016.jpg"
+        "https://www.hunker.com/img/gallery/not-cabinets-the-overlooked-basket-solution-for-small-space-shoe-storage/l-intro-1782831013.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -340,19 +367,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-04T05:00:52+00:00"
-    },
-    {
-      "id": "a3970e4fab203e6d",
-      "title": "IKEA Has A New Storage Solution For Kitchens Without Pantries",
-      "summary": "If you don't have a pantry, you may be struggling to find storage. Luckily, IKEA has an item that can give you a convenient spot for snacks and canned goods.",
-      "url": "https://www.hunker.com/2206945/kitchen-without-pantry-storage-ikea-has-a-new-utility-cart/",
-      "image": "https://www.hunker.com/img/gallery/ikea-has-a-new-storage-solution-for-kitchens-without-pantries/l-intro-1783010483.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-storage-solution-for-kitchens-without-pantries/l-intro-1783010483.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-04T01:00:00+00:00"
     },
     {
       "id": "a68bcaa86f7f3707",
@@ -555,9 +569,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/this-side-table-has-no-legs-its-two-storage-units-are-the-structure/torque-side-table-concept-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/flexible-table-can-be-work-space-and-storage-area/10.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/11/18/stella01.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/01/12/octopus_chair.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/04/30/wss_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/11/the-urban-campfire/ignis_radiator_integrated_coffee_table_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -674,9 +688,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/san_table_chair_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/this-doughnut-chair-has-one-bite-missing-and-thats-your-seat/chunk-chair-concept-07.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/07/dedas-sofas-bring-a-touch-of-hungarian-bauhaus-to-public-spaces/Burnt-geometry-collection.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/04/this-side-table-tricks-you-into-thinking-books-are-holding-it-up/delusion-table-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/04/auto-draft/drop_leaf_table_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/06/auto-draft/nestout_solar_panels_1.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -984,19 +998,6 @@
       "published": "2026-07-01T08:30:44+00:00"
     },
     {
-      "id": "a809d37397dbdbf8",
-      "title": "alaïa clads first miami boutique in pink mosaic tiles, from interior to facade",
-      "summary": "designed by halleroed, alaïa’s boutique combines mosaic architecture, living greenery by patrick blanc, and collectible furniture. The post alaïa clads first miami boutique in pink mosaic tiles, from interior to facade appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/pink-mosaic-surface-alaia-first-miami-boutique-halleroed/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/07/pink-mosaic-surface-alaia-first-miami-boutique-halleroed-designboom-700-1-500x400-22b08q85r701.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/07/pink-mosaic-surface-alaia-first-miami-boutique-halleroed-designboom-700-1-500x400-22b08q85r701.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-07-01T08:00:35+00:00"
-    },
-    {
       "id": "0f598b5d1871ccd6",
       "title": "Richard Parr Associates crowns Suffolk boathouse with thatched roof",
       "summary": "British studio Richard Parr Associates has created a timber boathouse for a family in Suffolk, England, topping its pitched roof with reed thatch. Situated on the Alde-Ore Estuary, Richard Parr Associates drew upon waterfront structures and local agricultural buildings when designing the Alde Boathouse. Supported on a foundation of 12 ground screws, the boathouse's structure The post Richard Parr Associates crowns Suffolk boathouse with thatched roof appeared first on Dezeen .",
@@ -1292,6 +1293,19 @@
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
       "id": "41094b33ea6d3012",
       "title": "Apartment IN2 Opens a Continuous Living Space in Milan",
       "summary": "Apartment IN2 reworks an anonymous apartment in Milano, Italy, into a home with a clearer sense of character and use. Designed by Nicola Maglione in 2025, the project treats the apartment as a continuous interior, where oak parquet, dark wood paneling, and carefully placed lighting give the living areas, kitchen, and bath a steady visual […] The post Apartment IN2 Opens a Continuous Living Space in Milan first appeared on HomeAdore .",
@@ -1374,8 +1388,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/antoniolupi-NAZIONALE-_ceralacca_nero-04.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/2026-07-03-10_49_41-Addio-ad-Aldo-Spinelli-fondatore-di-Poliform.-Imprenditore-straordinario-e-vis.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Kerakoll-Colors_VideoVilloresi_01-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1535,6 +1549,19 @@
       "published": "2026-06-26T10:07:49+00:00"
     },
     {
+      "id": "16bc0274f40cae6b",
+      "title": "АМДПР приглашает российские компании в бизнес-миссию на CIFF Shanghai и WMF 2026",
+      "summary": "С 5 по 8 сентября 2026 года в Шанхае пройдут 58-я Китайская международная мебельная выставка CIFF Shanghai и Международная выставка оборудования для мебельного производства и деревообработки WMF 2026. АМДПР совместно с китайскими партнерами формирует российскую делегацию и приглашает предприятия мебельной и деревообрабатывающей промышленности принять участие в бизнес-миссии.",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B0%D0%BC%D0%B4%D0%BF%D1%80-%D0%BF%D1%80%D0%B8%D0%B3%D0%BB%D0%B0%D1%88%D0%B0%D0%B5%D1%82-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8E-%D0%BD%D0%B0-ciff-shanghai-%D0%B8-wmf-2026.html",
+      "image": "http://amedoro.com/images/2026-06-26__162911.png",
+      "images": [
+        "http://amedoro.com/images/2026-06-26__162911.png"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-06-26T09:44:55+00:00"
+    },
+    {
       "id": "7311482e50984d3f",
       "title": "Haworth Just Gave Its Most-Loved Office Chair a Softer Side",
       "summary": "Haworth Just Gave Its Most-Loved Office Chair a Softer Side The original Hello lounge chair launched in 2002. Over two decades later, it’s back, and Patricia Urquiola has had her way with it. The result...",
@@ -1665,19 +1692,6 @@
       "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-06-25T16:02:00+00:00"
-    },
-    {
-      "id": "20ce445173350c4c",
-      "title": "Industrial Pipe Shelving DIY: Custom Look for Less",
-      "summary": "Learn how to build beautiful pipe shelving DIY style using black iron pipe and wood. This budget-friendly industrial bookshelf costs about $475 and is easy to customize. Updated June 2026 If you’ve priced industrial pipe shelving lately, you already know it isn’t cheap. A single bookshelf can cost hundreds of dollars—and a full wall of... The post Industrial Pipe Shelving DIY: Custom Look for Less appeared first on DIY Candy .",
-      "url": "https://diycandy.com/diy-industrial-pipe-shelving/",
-      "image": "https://diycandy.b-cdn.net/wp-content/uploads/2018/03/Industrial-Pipe-Shelving.jpg",
-      "images": [
-        "https://diycandy.b-cdn.net/wp-content/uploads/2018/03/Industrial-Pipe-Shelving.jpg"
-      ],
-      "source": "DIY Candy",
-      "source_url": "https://diycandy.com",
-      "published": "2026-06-25T15:13:00+00:00"
     },
     {
       "id": "61ada9d596077c4b",
@@ -2204,7 +2218,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -2259,6 +2273,19 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-06-17T08:00:00+00:00"
+    },
+    {
+      "id": "a6274e38bce6a790",
+      "title": "Десять будущих кладовщиков завершили практику на предприятии компании «ФЕЛИКС»",
+      "summary": "Студенты ГБПОУ «Торопецкий колледж» завершили практику на крупнейшем предприятии мебельной отрасли Тверской области — фабрике компании «ФЕЛИКС». Практика стала заключительным модулем обучения по теме «Оценка эффективности работы логистических систем и контроль логистических операций» для выпускников специальности «Операционная деятельность в логистике». В течение недели десять будущих кладовщиков отрабатывали профессиональные навыки и знакомились с работой современного мебельного предприятия.",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D1%8C-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D1%85-%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BB%D0%B8-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%C2%AB%D1%84%D0%B5%D0%BB%D0%B8%D0%BA%D1%81%C2%BB.html",
+      "image": "http://amedoro.com/images/2026-06-17__123342.png",
+      "images": [
+        "http://amedoro.com/images/2026-06-17__123342.png"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-06-17T06:30:20+00:00"
     },
     {
       "id": "3eecf5ed1625f807",
@@ -2464,7 +2491,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2904,7 +2931,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2948,7 +2975,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3140,7 +3167,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3257,7 +3284,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3353,6 +3380,19 @@
       "published": "2026-05-02T09:00:23+00:00"
     },
     {
+      "id": "c51ad4658b40fb17",
+      "title": "Тимур Иртуганов принял участие в конференции БАЗИС 2026",
+      "summary": "Компания Базис проводит в Москве 2-х дневную техническую конференцию на тему «БАЗИС 2026: автоматизация мебельного бизнеса, проверенная временем» . Мероприятие посвящено автоматизации мебельного предприятия с использованием системы БАЗИС, информационно-коммуникационных технологий, образовательным программам подготовки специалистов мебельной отрасли. Генеральный директор АМДПР Тимур Иртуганов выступил с приветственным словом и рассказал о состоянии мебельного производства. Дата проведения: 22 апреля с 09.00 до 18.00 час. 23 апреля с 09.00 до 18.00 час. Место проведения: Гостиница \"Измайлово…",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D1%82%D0%B8%D0%BC%D1%83%D1%80-%D0%B8%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2-%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81-2026.html",
+      "image": "http://amedoro.com/images/2024-content/42951.jpg",
+      "images": [
+        "http://amedoro.com/images/2024-content/42951.jpg"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-04-22T05:19:09+00:00"
+    },
+    {
       "id": "06e6e5e4115ac05e",
       "title": "Labubu-creator Kasing Lung ventures into collectible furniture with USM",
       "summary": "Illustrations of Kasing Lung's infamous Labubu character are emblazoned on classic white USM Haller cabinets as part of a collaboration unveiled by the Swiss furniture maker at Milan design week. The Beautiful Thing! collection consists of two limited-edition furniture pieces – a sideboard and shelving unit – plus a Labubu figurine sitting on a tiny The post Labubu-creator Kasing Lung ventures into collectible furniture with USM appeared first on Dezeen .",
@@ -3364,6 +3404,45 @@
       "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-04-22T05:00:48+00:00"
+    },
+    {
+      "id": "42693fcae5904cfa",
+      "title": "Mr.Doors проводит глобальную цифровую трансформацию",
+      "summary": "Mr.Doors, один из ведущих российских производителей премиальных интерьерных решений с производственными площадками в Костроме и Малаховке и федеральной сетью фирменных салонов, проводит масштабную ИИ-трансформации бизнеса. Трансформация проходит в несколько этапов. На первом компания оцифровала первичный учёт — бухгалтерию, кадровое делопроизводство, финансовые операции — создав единый достоверный контур данных. На втором — построила собственную корпоративную нейросеть: внутренний ИИ, обученный на знаниях компании, который обеспечивает мгновенный доступ к экспертизе для всех сотрудников…",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/mr-doors-%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%83%D1%8E-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E.html",
+      "image": "http://amedoro.com/images/Kit474_F0_1.jpg",
+      "images": [
+        "http://amedoro.com/images/Kit474_F0_1.jpg"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-04-21T08:40:00+00:00"
+    },
+    {
+      "id": "f4bdd1cc48e3871c",
+      "title": "Ключевые игроки мебельного рынка соберутся 9-11 июня в Москве на WOODEX MEBEL SUMMIT",
+      "summary": "АМДПР приглашает Вас 9-11 июня на Woodex Mebel Summit, который пройдет в пятизвездочном отеле LOTTE в Москве. Мероприятие объединит ключевые компании и экспертов мебельной отрасли. Для поставщиков оборудования, комплектующих и материалов участие в Woodex Mebel Summit — это возможность представить свои решения напрямую ключевым производителям мебели, укрепить позиции бренда в профессиональной среде и выстроить новые контакты с потенциальными клиентами. Для мебельных компаний — это возможность узнать актуальную информацию о состоянии и прогнозах развития мебельной отрасли в России, а также…",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%8B%D0%B5-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%80%D1%83%D1%82%D1%81%D1%8F-9-11-%D0%B8%D1%8E%D0%BD%D1%8F-%D0%B2-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-%D0%BD%D0%B0-woodex-mebel-summit.html",
+      "image": "http://amedoro.com/images/H2Ik8.png",
+      "images": [
+        "http://amedoro.com/images/H2Ik8.png"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
