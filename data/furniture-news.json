@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-05T17:23:58.193339+00:00",
-  "generated_at_human": "2026-07-05 17:23 UTC",
-  "total_items": 239,
+  "generated_at": "2026-07-05T19:39:52.211646+00:00",
+  "generated_at_human": "2026-07-05 19:39 UTC",
+  "total_items": 235,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -18,6 +18,7 @@
     "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -37,7 +38,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -72,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=22184",
+        "http://i.archi.ru/i/1262/405309.jpg?r=2746",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -89,7 +89,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=95463",
+        "http://i.archi.ru/i/1262/405309.jpg?r=80268",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -107,12 +107,60 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=48045",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=94656",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "8af51695e1cad525",
+      "title": "L’hotel Pitrizza dimostra che il lusso migliore è quello che scompare",
+      "summary": "Architettura, ospitalità e cucina dialogano con il paesaggio in un albergo destinato a diventare Cheval Blanc nel 2027 The post L’hotel Pitrizza dimostra che il lusso migliore è quello che scompare appeared first on Interni Magazine .",
+      "url": "https://www.internimagazine.it/interior/alberghi/lhotel-pitrizza-dimostra-che-il-lusso-migliore-e-quello-che-scompare/",
+      "image": "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
+      "images": [
+        "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
+        "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/04/RH-Milan-The-Gallery-il-nuovo-hotel-in-corso-venezia1.png",
+        "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg"
+      ],
+      "source": "Interni magazine",
+      "source_url": "https://www.internimagazine.it",
+      "published": "2026-07-05T16:34:30+00:00"
+    },
+    {
+      "id": "fd83f854e0ce94e8",
+      "title": "Forget Cabinets: This Thrift Store Find Is A Cuter Way To Store Toilet Paper",
+      "summary": "Though folks once used this vintage item for storage of a different kind, it has the perfect shape to hold toilet paper. Plus, it's made of high-quality metal.",
+      "url": "https://www.hunker.com/2201648/thrift-store-find-iron-towel-hanger-cuter-way-to-store-toilet-paper/",
+      "image": "https://www.hunker.com/img/gallery/forget-cabinets-this-thrift-store-find-is-a-cuter-way-to-store-toilet-paper/l-intro-1782402616.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/forget-cabinets-this-thrift-store-find-is-a-cuter-way-to-store-toilet-paper/l-intro-1782402616.jpg",
+        "https://www.hunker.com/img/gallery/forget-cabinets-this-thrift-store-find-is-a-cuter-way-to-store-toilet-paper/intro-1782402616.jpg",
+        "https://www.hunker.com/img/gallery/forget-cabinets-this-thrift-store-find-is-a-cuter-way-to-store-toilet-paper/keep-toilet-paper-accessible-on-a-thrifted-towel-hanger-1782402618.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-05T16:30:00+00:00"
+    },
+    {
+      "id": "199eed6ed0ff0c58",
+      "title": "Ditch The Towel Rack: A Smarter, More Stylish Way To Save Space In The Bathroom",
+      "summary": "There are many ways to store bathroom towels, including the standard rack or bar. However, this method is more stylish and allows for more versatility.",
+      "url": "https://www.hunker.com/2205900/ditch-the-towel-rack-stylish-space-saving-bathroom-storage/",
+      "image": "https://www.hunker.com/img/gallery/ditch-the-towel-rack-a-smarter-more-stylish-way-to-save-space-in-the-bathroom/l-intro-1782917117.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-the-towel-rack-a-smarter-more-stylish-way-to-save-space-in-the-bathroom/l-intro-1782917117.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-towel-rack-a-smarter-more-stylish-way-to-save-space-in-the-bathroom/intro-1782917117.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-towel-rack-a-smarter-more-stylish-way-to-save-space-in-the-bathroom/suction-cup-hooks-are-flexible-stylish-and-space-saving-1782917119.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-05T16:00:00+00:00"
     },
     {
       "id": "b930577044c8c7c4",
@@ -149,9 +197,7 @@
       "url": "https://www.hunker.com/2200571/not-cabinets-shelves-dollar-tree-diy-rotating-bathroom-storage/",
       "image": "https://www.hunker.com/img/gallery/not-cabinets-not-shelves-a-smart-dollar-tree-diy-for-elegant-bathroom-storage/l-intro-1782308285.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-cabinets-not-shelves-a-smart-dollar-tree-diy-for-elegant-bathroom-storage/l-intro-1782308285.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-not-shelves-a-smart-dollar-tree-diy-for-elegant-bathroom-storage/intro-1782308285.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-not-shelves-a-smart-dollar-tree-diy-for-elegant-bathroom-storage/how-to-assemble-this-classy-bathroom-storage-solution-1782308287.jpg"
+        "https://www.hunker.com/img/gallery/not-cabinets-not-shelves-a-smart-dollar-tree-diy-for-elegant-bathroom-storage/l-intro-1782308285.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -277,9 +323,7 @@
       "url": "https://www.hunker.com/2205775/ditch-baskets-and-bins-turn-tea-towel-into-bread-bowl-storage/",
       "image": "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/l-intro-1782911462.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/l-intro-1782911462.jpg",
-        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/intro-1782911462.jpg",
-        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/making-your-kitchen-towel-basket-1782911464.jpg"
+        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-clever-hack-turns-a-towel-into-kitchen-storage/l-intro-1782911462.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -352,9 +396,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-kneeling-chair-from-1979-finally-gets-its-color-moment/variable-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/11/this-lounge-chair-ottoman-and-sliding-table-trio-create-a-safe-haven-for-you-in-your-office/privacylounge-3.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/this-tiny-home-on-wheels-is-net-zero-and-powered-by-solar-energy-to-minimize-its-impact-on-the-environment/00_ohariu_architect-designed_tinyhomeonwheels.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/fluff-stack-is-a-fluffy-furniture-set-made-from-denim-waste/FLuffy-denim-furniture_rcycled_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/08/15/mola_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/04/2-in-1-transforming-furniture-concept-offers-a-smart-solution-for-versatile-spaces/chameleon-furniture-concept-08.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/02/this-umbrella-shaped-chair-may-just-be-the-most-innovative-furniture-design-of-the-year/hide_and_seek_umbrella_chair_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -629,9 +673,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/532404/Convertible-Design_Future-of-Flexible-living_19.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/06/21/table_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/yellow_brick_01_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/01/audi-rocks/audi_rocking_horse_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/this-crib-can-become-a-couch-when-your-kid-is-all-grown-up/evolvie-crib-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/07/22/tandem.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -748,9 +792,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/08/25/ghepardo_detomaso01.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/11/prague/prague_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/top-10-styles-of-open-shelving-for-maximizing-storage/00-open-shelving-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/CyanoFabbrica-Cyanobacteria-Biomineralized-Frame-Advantage.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/04/the-worlds-largest-algae-growth-pond-uses-nature-based-technology-to-capture-co2-emissions/01_algaedesert_brilliantplanet_sustainabledesign_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/forest-lets-students-create-interactive-bubble-to-help-them-focus/11.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -983,7 +1027,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/92dccab3-8812-426f-9b13-bb3268121dbf.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/702cad4a-015b-4380-b882-04855faac20f.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/1548e770-7abe-402c-a009-cee4884f78a7.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/431937d5-26f5-46a4-ae11-15b09b1b9675.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/10c9d0bd-da55-46b9-86ea-2654dd8b2562.jpeg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1467,19 +1511,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-06-28T15:20:09+00:00"
-    },
-    {
-      "id": "47625c0d63057fce",
-      "title": "Free Plans for Our Clamshell Bookcase",
-      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
-      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2014,12 +2045,7 @@
       "url": "https://www.internimagazine.it/design/arredo/esterni/anatomia-del-relax-estivo-i-mobili-outdoor-che-conquistano-lestate/",
       "image": "https://www.internimagazine.it/content/uploads/2026/06/nSGtQFU2-Roche-Bobois_20251118_Baptiste-Le-Quiniou_SCENETTE_04-HD.jpg?imbypass=true",
       "images": [
-        "https://www.internimagazine.it/content/uploads/2026/06/nSGtQFU2-Roche-Bobois_20251118_Baptiste-Le-Quiniou_SCENETTE_04-HD.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/06/Desiree_Milos.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Nardi_Net-Lounge_24_0374_Hr-b.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Unopiu_Amanda_amaca_1_ph.-Thomas-Pagani.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Flexform-Margheri_2.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/raccoglierefiori.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/nSGtQFU2-Roche-Bobois_20251118_Baptiste-Le-Quiniou_SCENETTE_04-HD.jpg?imbypass=true"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2065,19 +2091,6 @@
       "published": "2026-06-20T17:00:04+00:00"
     },
     {
-      "id": "d97ff0d906f09464",
-      "title": "LAP Open Wire, June 20, 2026",
-      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
-      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-20T12:00:00+00:00"
-    },
-    {
       "id": "e3722e01889eb440",
       "title": "F5: Amanda Martocchio Talks the Rockies, Her Jens Risom Stool, a Joan Snyder Painting + More",
       "summary": "Architect Amanda Martoccchio shares some of her favorites in nature, from Hawthorn trees to the Rocky Mountains, and more.",
@@ -2089,32 +2102,6 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-19T18:00:09+00:00"
-    },
-    {
-      "id": "3dd6950b3f95ebc2",
-      "title": "For Sale: Nice Machines from Kelly Mehler’s Workshop",
-      "summary": "When woodworker and instructor Kelly Mehler died unexpectedly last year, he left behind a shop full of meticulously maintained woodworking machines that he used in his personal work after he closed his woodworking school. The Mehler family is trying to find new homes for these machines, avoiding the chaos and unpredictability of an auction. These...",
-      "url": "https://blog.lostartpress.com/2026/06/19/for-sale-nice-machines-from-kelly-mehlers-workshop/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-19T16:46:51+00:00"
-    },
-    {
-      "id": "c91ff40c2f4c9667",
-      "title": "New Book: ‘17th-Century Essex County Cupboard’",
-      "summary": "Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...",
-      "url": "https://blog.lostartpress.com/2026/06/18/new-book-17th-century-essex-county-cupboard/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-18T21:11:15+00:00"
     },
     {
       "id": "bcfca73d7828d49c",
@@ -2239,22 +2226,9 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
-    },
-    {
-      "id": "1f5186f258a724a9",
-      "title": "LAP Open Wire on Saturday (June 20)",
-      "summary": "We’re cooking up answers for Open Wire this Saturday (June 20) on the Lost Art Press blog – so if you have a woodworking question, you’ll have until 5 p.m. Eastern to ask it in the comments section on the Open Wire post, which will go live at 8 a.m. Chris and I will do...",
-      "url": "https://blog.lostartpress.com/2026/06/17/lap-open-wire-on-saturday-june-20/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-17T15:16:43+00:00"
     },
     {
       "id": "5a32b1b1b7bc6f6f",
@@ -2333,19 +2307,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-15T06:48:30+00:00"
-    },
-    {
-      "id": "358468cea1e7e3f3",
-      "title": "Video: D.R. Dimes Reborn",
-      "summary": "D.R. Dimes was one of those famous furniture making companies that was so ubiquitous that you couldn’t imagine it ever going out of business. But it did. What I didn’t know is that it has recently been reborn as a one-person shop run by Douglas P. Dimes, the son of the founder. The story of...",
-      "url": "https://blog.lostartpress.com/2026/06/14/video-d-r-dimes-reborn/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/d-r-dimes-chair-maker-6894bcac1d591.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/d-r-dimes-chair-maker-6894bcac1d591.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-14T17:01:38+00:00"
     },
     {
       "id": "86055958abe0c7f5",
@@ -2515,19 +2476,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T05:00:14+00:00"
-    },
-    {
-      "id": "055495b02245a4dd",
-      "title": "New Books Update (aka Printer Delays)",
-      "summary": "Our printer is a bit more than a month behind right now, so the three new books that are gestating are overdue. They are, in order expected, Peter Follansbee’s “17th-century Essex County Cupboard,” our “Smalls” pocket book, and volume four of “The Stick Chair Journal.” We do not know when they will be in …...",
-      "url": "https://blog.lostartpress.com/2026/06/09/new-books-update-aka-printer-delays/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2945.jpg?resize=640%2C385&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2945.jpg?resize=640%2C385&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-09T15:36:28+00:00"
     },
     {
       "id": "445ca7143bd608cd",
