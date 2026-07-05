@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-04T22:07:59.294355+00:00",
-  "generated_at_human": "2026-07-04 22:07 UTC",
-  "total_items": 239,
+  "generated_at": "2026-07-05T00:10:45.775621+00:00",
+  "generated_at_human": "2026-07-05 00:10 UTC",
+  "total_items": 234,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -55,14 +54,13 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
-    "Yellowtrace",
-    "АМДПР"
+    "Yellowtrace"
   ],
-  "sources_count": 56,
+  "sources_count": 54,
   "multi_photo_items": 59,
   "items": [
     {
@@ -73,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=23121",
+        "http://i.archi.ru/i/1262/405309.jpg?r=31882",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -90,7 +88,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=8360",
+        "http://i.archi.ru/i/1262/405309.jpg?r=52847",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -108,12 +106,25 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=31238",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=35565",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "69c5e0c65e28a86d",
+      "title": "5 Pieces of Outdoor Gear That Work Better Than Anything in Your Closet",
+      "summary": "5 Pieces of Outdoor Gear That Work Better Than Anything in Your Closet Outdoor equipment has moved beyond endurance-based use and is now expected to integrate comfort, adaptability, and everyday usability. This shift is shaping a new design...",
+      "url": "https://www.yankodesign.com/2026/07/04/5-pieces-of-outdoor-gear-that-work-better-than-anything-in-your-closet/?utm_source=rss&utm_medium=rss&utm_campaign=5-pieces-of-outdoor-gear-that-work-better-than-anything-in-your-closet",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/634538/Outdoor-Gear_Camping_Tents_26.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/634538/Outdoor-Gear_Camping_Tents_26.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-04T23:30:57+00:00"
     },
     {
       "id": "c0113ed1626f15b3",
@@ -138,9 +149,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-kneeling-chair-from-1979-finally-gets-its-color-moment/variable-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/auto-draft/karekla_chair_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/star-wars-hoth-kamino-inspired-desk-may-the-work-force-be-with-you/Star-Wars-Inspired-Workbench-from-an-Old-Ikea-Table-17.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/03/308292/01_fp7_fursys_acousticpanel.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/05/genesis-x-dog-concept-has-every-luxury-your-pooch-needs-before-during-and-after-travel/Genesis-X-Dog-concept-4.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/03/15/s03_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/06/this-uber-luxury-nft-collectibles-furniture-collection-oscillates-between-reality-and-metaverse/NFT-Furniture_monde-singulier_8.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -177,6 +188,19 @@
       "source": "ArchDaily",
       "source_url": "https://www.archdaily.com",
       "published": "2026-07-04T16:00:00+00:00"
+    },
+    {
+      "id": "f7c0b9bf4eac6110",
+      "title": "Drawings of ritual-hosting interiors among projects by Hong Kong Polytechnic University",
+      "summary": "Dezeen School Shows: architectural drawings depicting \"a narrative-driven exploration of religious ritual\" are among the projects by students at Hong Kong Polytechnic University. Also featured is a spatial learning tool for children that incorporates the traditional Chinese lion dance, and a project developing workshops to promote poetry in Hong Kong Sign Language (HKSL). The Hong The post Drawings of ritual-hosting interiors among projects by Hong Kong Polytechnic University appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/04/drawings-of-ritual-hosting-interiors-among-projects-by-hong-kong-polytechnic-university-schoolshows/",
+      "image": "http://static.dezeen.com/uploads/2026/06/hong-kong-polytechnic-university-schoolshow_dezeen_2364_col_4.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/hong-kong-polytechnic-university-schoolshow_dezeen_2364_col_4.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-04T15:00:45+00:00"
     },
     {
       "id": "35d30aec76ebebe7",
@@ -531,9 +555,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/05/10/green_chair_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/08/27/hook7_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/08/office-furniture-tries-to-find-balance-between-rest-and-productivity/1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/04/this-side-table-has-no-legs-its-two-storage-units-are-the-structure/torque-side-table-concept-03.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/flexible-table-can-be-work-space-and-storage-area/10.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/11/18/stella01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -885,7 +909,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/92dccab3-8812-426f-9b13-bb3268121dbf.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/702cad4a-015b-4380-b882-04855faac20f.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/1548e770-7abe-402c-a009-cee4884f78a7.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/e4de9967-a9e3-4752-a6ed-a52fdebb1e66.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/431937d5-26f5-46a4-ae11-15b09b1b9675.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1268,19 +1292,6 @@
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
-      "id": "7a5f6f2ae8ef6774",
-      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
-      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-06-29T13:00:00+00:00"
-    },
-    {
       "id": "41094b33ea6d3012",
       "title": "Apartment IN2 Opens a Continuous Living Space in Milan",
       "summary": "Apartment IN2 reworks an anonymous apartment in Milano, Italy, into a home with a clearer sense of character and use. Designed by Nicola Maglione in 2025, the project treats the apartment as a continuous interior, where oak parquet, dark wood paneling, and carefully placed lighting give the living areas, kitchen, and bath a steady visual […] The post Apartment IN2 Opens a Continuous Living Space in Milan first appeared on HomeAdore .",
@@ -1522,19 +1533,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-06-26T10:07:49+00:00"
-    },
-    {
-      "id": "16bc0274f40cae6b",
-      "title": "АМДПР приглашает российские компании в бизнес-миссию на CIFF Shanghai и WMF 2026",
-      "summary": "С 5 по 8 сентября 2026 года в Шанхае пройдут 58-я Китайская международная мебельная выставка CIFF Shanghai и Международная выставка оборудования для мебельного производства и деревообработки WMF 2026. АМДПР совместно с китайскими партнерами формирует российскую делегацию и приглашает предприятия мебельной и деревообрабатывающей промышленности принять участие в бизнес-миссии.",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B0%D0%BC%D0%B4%D0%BF%D1%80-%D0%BF%D1%80%D0%B8%D0%B3%D0%BB%D0%B0%D1%88%D0%B0%D0%B5%D1%82-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8E-%D0%BD%D0%B0-ciff-shanghai-%D0%B8-wmf-2026.html",
-      "image": "http://amedoro.com/images/2026-06-26__162911.png",
-      "images": [
-        "http://amedoro.com/images/2026-06-26__162911.png"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-06-26T09:44:55+00:00"
     },
     {
       "id": "7311482e50984d3f",
@@ -2263,19 +2261,6 @@
       "published": "2026-06-17T08:00:00+00:00"
     },
     {
-      "id": "a6274e38bce6a790",
-      "title": "Десять будущих кладовщиков завершили практику на предприятии компании «ФЕЛИКС»",
-      "summary": "Студенты ГБПОУ «Торопецкий колледж» завершили практику на крупнейшем предприятии мебельной отрасли Тверской области — фабрике компании «ФЕЛИКС». Практика стала заключительным модулем обучения по теме «Оценка эффективности работы логистических систем и контроль логистических операций» для выпускников специальности «Операционная деятельность в логистике». В течение недели десять будущих кладовщиков отрабатывали профессиональные навыки и знакомились с работой современного мебельного предприятия.",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D1%8C-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D1%85-%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BB%D0%B8-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%C2%AB%D1%84%D0%B5%D0%BB%D0%B8%D0%BA%D1%81%C2%BB.html",
-      "image": "http://amedoro.com/images/2026-06-17__123342.png",
-      "images": [
-        "http://amedoro.com/images/2026-06-17__123342.png"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-06-17T06:30:20+00:00"
-    },
-    {
       "id": "3eecf5ed1625f807",
       "title": "Remodelista Reconnaissance: A Handmade Ceramic Basin",
       "summary": "A while back, I wrote about a thoughtful, eco-conscious remodel in Melbourne, Australia (see Retrofit Over Rebuild: An Architect and Interior Designer’s Sensitively Restored 1970s Home). The original home was hand-built—and so, too, were many of the elements inside the home, from the furniture-quality kitchen cabinetry to this hand-thrown ceramic basin I can’t stop thinking […]",
@@ -2479,7 +2464,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2919,7 +2904,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2963,7 +2948,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3155,7 +3140,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3246,7 +3231,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag kitchens",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
@@ -3272,7 +3257,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3368,19 +3353,6 @@
       "published": "2026-05-02T09:00:23+00:00"
     },
     {
-      "id": "c51ad4658b40fb17",
-      "title": "Тимур Иртуганов принял участие в конференции БАЗИС 2026",
-      "summary": "Компания Базис проводит в Москве 2-х дневную техническую конференцию на тему «БАЗИС 2026: автоматизация мебельного бизнеса, проверенная временем» . Мероприятие посвящено автоматизации мебельного предприятия с использованием системы БАЗИС, информационно-коммуникационных технологий, образовательным программам подготовки специалистов мебельной отрасли. Генеральный директор АМДПР Тимур Иртуганов выступил с приветственным словом и рассказал о состоянии мебельного производства. Дата проведения: 22 апреля с 09.00 до 18.00 час. 23 апреля с 09.00 до 18.00 час. Место проведения: Гостиница \"Измайлово…",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D1%82%D0%B8%D0%BC%D1%83%D1%80-%D0%B8%D1%80%D1%82%D1%83%D0%B3%D0%B0%D0%BD%D0%BE%D0%B2-%D0%BF%D1%80%D0%B8%D0%BD%D1%8F%D0%BB-%D1%83%D1%87%D0%B0%D1%81%D1%82%D0%B8%D0%B5-%D0%B2-%D0%BA%D0%BE%D0%BD%D1%84%D0%B5%D1%80%D0%B5%D0%BD%D1%86%D0%B8%D0%B8-%D0%B1%D0%B0%D0%B7%D0%B8%D1%81-2026.html",
-      "image": "http://amedoro.com/images/2024-content/42951.jpg",
-      "images": [
-        "http://amedoro.com/images/2024-content/42951.jpg"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-04-22T05:19:09+00:00"
-    },
-    {
       "id": "06e6e5e4115ac05e",
       "title": "Labubu-creator Kasing Lung ventures into collectible furniture with USM",
       "summary": "Illustrations of Kasing Lung's infamous Labubu character are emblazoned on classic white USM Haller cabinets as part of a collaboration unveiled by the Swiss furniture maker at Milan design week. The Beautiful Thing! collection consists of two limited-edition furniture pieces – a sideboard and shelving unit – plus a Labubu figurine sitting on a tiny The post Labubu-creator Kasing Lung ventures into collectible furniture with USM appeared first on Dezeen .",
@@ -3392,45 +3364,6 @@
       "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-04-22T05:00:48+00:00"
-    },
-    {
-      "id": "42693fcae5904cfa",
-      "title": "Mr.Doors проводит глобальную цифровую трансформацию",
-      "summary": "Mr.Doors, один из ведущих российских производителей премиальных интерьерных решений с производственными площадками в Костроме и Малаховке и федеральной сетью фирменных салонов, проводит масштабную ИИ-трансформации бизнеса. Трансформация проходит в несколько этапов. На первом компания оцифровала первичный учёт — бухгалтерию, кадровое делопроизводство, финансовые операции — создав единый достоверный контур данных. На втором — построила собственную корпоративную нейросеть: внутренний ИИ, обученный на знаниях компании, который обеспечивает мгновенный доступ к экспертизе для всех сотрудников…",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/mr-doors-%D0%BF%D1%80%D0%BE%D0%B2%D0%BE%D0%B4%D0%B8%D1%82-%D0%B3%D0%BB%D0%BE%D0%B1%D0%B0%D0%BB%D1%8C%D0%BD%D1%83%D1%8E-%D1%86%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D1%83%D1%8E-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8E.html",
-      "image": "http://amedoro.com/images/Kit474_F0_1.jpg",
-      "images": [
-        "http://amedoro.com/images/Kit474_F0_1.jpg"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-04-21T08:40:00+00:00"
-    },
-    {
-      "id": "f4bdd1cc48e3871c",
-      "title": "Ключевые игроки мебельного рынка соберутся 9-11 июня в Москве на WOODEX MEBEL SUMMIT",
-      "summary": "АМДПР приглашает Вас 9-11 июня на Woodex Mebel Summit, который пройдет в пятизвездочном отеле LOTTE в Москве. Мероприятие объединит ключевые компании и экспертов мебельной отрасли. Для поставщиков оборудования, комплектующих и материалов участие в Woodex Mebel Summit — это возможность представить свои решения напрямую ключевым производителям мебели, укрепить позиции бренда в профессиональной среде и выстроить новые контакты с потенциальными клиентами. Для мебельных компаний — это возможность узнать актуальную информацию о состоянии и прогнозах развития мебельной отрасли в России, а также…",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%BA%D0%BB%D1%8E%D1%87%D0%B5%D0%B2%D1%8B%D0%B5-%D0%B8%D0%B3%D1%80%D0%BE%D0%BA%D0%B8-%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B3%D0%BE-%D1%80%D1%8B%D0%BD%D0%BA%D0%B0-%D1%81%D0%BE%D0%B1%D0%B5%D1%80%D1%83%D1%82%D1%81%D1%8F-9-11-%D0%B8%D1%8E%D0%BD%D1%8F-%D0%B2-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B5-%D0%BD%D0%B0-woodex-mebel-summit.html",
-      "image": "http://amedoro.com/images/H2Ik8.png",
-      "images": [
-        "http://amedoro.com/images/H2Ik8.png"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-04-20T08:44:31+00:00"
-    },
-    {
-      "id": "d2ebf1c95182cff8",
-      "title": "Custom Built-In Desk, Huge Transformation",
-      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
