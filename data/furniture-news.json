@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-05T09:20:09.945646+00:00",
-  "generated_at_human": "2026-07-05 09:20 UTC",
+  "generated_at": "2026-07-05T11:45:12.937415+00:00",
+  "generated_at_human": "2026-07-05 11:45 UTC",
   "total_items": 239,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -52,6 +53,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -59,8 +61,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 60,
+  "sources_count": 55,
+  "multi_photo_items": 61,
   "items": [
     {
       "id": "36fa10b6815bb0d0",
@@ -70,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=13657",
+        "http://i.archi.ru/i/1262/405309.jpg?r=98062",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -87,7 +89,7 @@
       "image": "https://i.archi.ru/i/1262/506386.jpg",
       "images": [
         "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=56662",
+        "http://i.archi.ru/i/1262/405309.jpg?r=68967",
         "http://i.archi.ru/i/1262/506386.jpg",
         "http://i.archi.ru/i/1262/454313.jpg",
         "http://i.archi.ru/i/1262/506385.jpg"
@@ -105,12 +107,46 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=82870",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=8026",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "312f68ed3ded31bb",
+      "title": "How Thom Browne created fashion’s most distinctive uniform",
+      "summary": "First conceived in a one-bedroom New York apartment, Thom Browne’s shrunken grey suit has helped him forge a $500 million empire. Speaking to Jack Moss, he breaks down this great American success story",
+      "url": "https://www.wallpaper.com/fashion-beauty/thom-browne-interview",
+      "image": "https://cdn.mos.cms.futurecdn.net/S4V83J8bPc8obCSopvDMUT.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/S4V83J8bPc8obCSopvDMUT.jpg",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-07-05T11:00:00+00:00"
+    },
+    {
+      "id": "bbf33d4da9464d5d",
+      "title": "He Transformed This Pantry Without Expanding It",
+      "summary": "From the doorway, this pantry looked organized, but everyday use told a different story. Cereal boxes didn’t fit, food disappeared behind deep baskets, upper shelves went largely unused, and poor lighting made it difficult to see what was actually in stock. Instead of expanding the pantry, Imgur user Cubswinfllclssic focused on making the existing space... The post He Transformed This Pantry Without Expanding It appeared first on Homedit .",
+      "url": "https://www.homedit.com/he-transformed-this-pantry-without-expanding-it/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Pantry-Looked-Organized-Until-He-Changed-the-Shelves.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Pantry-Looked-Organized-Until-He-Changed-the-Shelves.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Pantry-after-full-renovation-and-led-light-installation.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Clear-Containers-Replaced-Stacked-Packaging-1.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Clear-Containers-Replaced-Stacked-Packaging.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Door-Storage-Turned-Empty-Space-Into-Usable-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Cereal-Boxes-Deep-Baskets-and-Dark-Shelves-Created-Daily-Frustrations.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-05T09:31:28+00:00"
     },
     {
       "id": "174418bdb5e61840",
@@ -122,9 +158,9 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Brass-Sink-Stands-Out-Against-White-Surfaces.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/03/Desks-That-Face-the-Window-Instead-of-the-Wall.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Years-of-Dirt-Disappeared-From-These-Stone-Paths-and-Patios-After-One-Deep-Cleaning.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Pantry-Looked-Organized-Until-He-Changed-the-Shelves.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/05/She-Turned-a-Basic-Wire-Basket-Into-Hanging-Storage-That-Looks-Straight-Out-of-a-Design-Store.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Open-Shelves-Werent-the-Only-Problem.-This-Laundry-Room-Needed-Drying-Space-Too.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Most-People-Would-Replace-These-Oak-Cabinets.-He-Painted-Them-Instead.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Open-Shelves-Werent-the-Only-Problem.-This-Laundry-Room-Needed-Drying-Space-Too.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -162,18 +198,30 @@
       "published": "2026-07-05T07:22:48+00:00"
     },
     {
+      "id": "186baa6a46248ab7",
+      "title": "The Silo Parking House / Antonelli + Herry Architectes",
+      "summary": "The Silo is the natural continuation of the Campus Vert—the broader transformation of the Crédit Mutuel Wacken headquarters—standing at the threshold of future changes yet to come. As earlier projects within the campus reworked individual buildings, the Silo turns to the site itself: it signals the de-materialization of paved surfaces across the grounds and the disappearance of the existing surface-level parking lot. More than a functional piece of infrastructure, it accompanies a profound shift in mobility patterns across Strasbourg . Electric vehicles, power-assisted bikes, scooters, and…",
+      "url": "https://www.archdaily.com/1042928/the-silo-parking-house-antonelli-plus-herry-architectes",
+      "image": "https://images.adsttc.com/media/images/6a44/e133/0789/c600/018c/29b6/large_jpg/2-DSC_0163.jpg?1782899034",
+      "images": [
+        "https://images.adsttc.com/media/images/6a44/e133/0789/c600/018c/29b6/large_jpg/2-DSC_0163.jpg?1782899034",
+        "https://images.adsttc.com/media/images/6a44/e133/0789/c600/018c/29bf/large_jpg/9-DSC_0200.jpg?1782899146",
+        "https://images.adsttc.com/media/images/6a44/e133/0789/c600/018c/29b8/large_jpg/3-DSC_1490.jpg?1782899042",
+        "https://images.adsttc.com/media/images/6a44/e133/0789/c600/018c/29ba/large_jpg/5-DSC_0170-P-Mjpg_copie.jpg?1782899056",
+        "https://images.adsttc.com/media/images/6a44/e133/0789/c600/018c/29c4/large_jpg/23-DSC_6587.jpg?1782899113"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-07-05T06:00:00+00:00"
+    },
+    {
       "id": "7d2db7444dddd28a",
       "title": "She Turned a Basic Wire Basket Into Stylish Wall Storage",
       "summary": "Wire baskets usually end up organizing closets, pantries, or garages. DIY creator Chelsea Mohrman gave one a completely different purpose by turning it into compact wall storage with a stained wood shelf and hanging hooks. Instead of using the basket as a floor container, she mounted it sideways on the wall, added a stained wood... The post She Turned a Basic Wire Basket Into Stylish Wall Storage appeared first on Homedit .",
       "url": "https://www.homedit.com/she-turned-a-basic-wire-basket-into-stylish-wall-storage/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/05/She-Turned-a-Basic-Wire-Basket-Into-Hanging-Storage-That-Looks-Straight-Out-of-a-Design-Store.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/She-Turned-a-Basic-Wire-Basket-Into-Hanging-Storage-That-Looks-Straight-Out-of-a-Design-Store.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/Before-and-after-wire-storage-recycle.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/03/Desks-That-Face-the-Window-Instead-of-the-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/The-Same-Basket-Could-Be-Used-for-More-Than-One-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/The-Hooks-Added-Another-Layer-of-Storage.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Years-of-Dirt-Disappeared-From-These-Stone-Paths-and-Patios-After-One-Deep-Cleaning.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/She-Turned-a-Basic-Wire-Basket-Into-Hanging-Storage-That-Looks-Straight-Out-of-a-Design-Store.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -263,9 +311,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-kneeling-chair-from-1979-finally-gets-its-color-moment/variable-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/07/cone-shaped-stool-made-from-stainless-steel-gives-a-flexible-stable-seat/stool.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/these-cinema-seats-were-designed-to-isolate-movie-goers-in-a-post-covid-world/layer_sequel_seat_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/01/smart-feng-shui-devices-will-release-positive-qi-for-this-new-year/capturing-qi.jpeg"
+        "https://www.yankodesign.com/images/design_news/2023/04/task-chair-uses-70-recycled-materials-and-is-comfortable-to-sit-on-for-hours/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/sling_leather_hanging_chair_studio_stirling_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -328,19 +376,6 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-07-04T14:30:00+00:00"
-    },
-    {
-      "id": "9947da5b405ec2da",
-      "title": "Not Cabinets: The Overlooked Basket Solution For Small Space Shoe Storage",
-      "summary": "When floor space is limited, smarter storage wins. This simple-to-implement solution keeps shoes organized without relying on bulky cabinets.",
-      "url": "https://www.hunker.com/2205671/overlooked-basket-shoe-storage-small-spaces-not-cabinets/",
-      "image": "https://www.hunker.com/img/gallery/not-cabinets-the-overlooked-basket-solution-for-small-space-shoe-storage/l-intro-1782831013.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-cabinets-the-overlooked-basket-solution-for-small-space-shoe-storage/l-intro-1782831013.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-04T13:00:00+00:00"
     },
     {
       "id": "4f376f01b8fb2234",
@@ -520,19 +555,6 @@
       "published": "2026-07-03T11:07:48+00:00"
     },
     {
-      "id": "2e5241ee0a5dbc27",
-      "title": "Homes That Don’t Look Like Showrooms Often Have These Things in Common",
-      "summary": "Furniture stores make it possible to furnish an entire room in a single visit. Matching sofas, matching tables, matching storage pieces, and coordinated accessories can create a finished appearance, but many memorable homes come together through a different process. Books accumulate over years, favorite pieces move from one house to another, and furniture selections reflect... The post Homes That Don’t Look Like Showrooms Often Have These Things in Common appeared first on Homedit .",
-      "url": "https://www.homedit.com/homes-that-dont-look-like-showrooms-often-have-these-things-in-common/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Homes-That-Dont-Look-Like-Showrooms-Often-Have-These-Things-in-Common.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-03T11:00:25+00:00"
-    },
-    {
       "id": "bd4bc354f1b9ff02",
       "title": "BIG arranges circular Dymak HQ around stepped courtyard",
       "summary": "Architecture studio BIG has completed the headquarters for Danish material supplier Dymak in Odense, Denmark, sheltering its rounded mass-timber structure with a roof evoking a Möbius strip. Perched on a verdant site overlooking the city's Glisholm Lake, the 2,800-square-metre circular building combines offices and showrooms around an open-air courtyard. BIG's design aimed to be low carbon, The post BIG arranges circular Dymak HQ around stepped courtyard appeared first on Dezeen .",
@@ -585,23 +607,6 @@
       "published": "2026-07-03T08:00:22+00:00"
     },
     {
-      "id": "585359608506ceb4",
-      "title": "Coco Beans House / Aamir and Hameeda",
-      "summary": "At its heart, Coco Beans is a home about coexistence. With the land. With the trees. With light, atmosphere, and the rhythms of everyday living. Rather than imposing itself onto the site, the architecture adapts to it with sensitivity and intention, creating a residence that feels inseparable from its surroundings. Set on a rocky 700 sq. yd. site in Hyderabad , the 6,000 sq. ft. residence unfolds across three levels, designed for a family deeply connected to nature and the life unfolding around it. Named after the family's cat, Coco Beans, the home carries a sense of familiarity and warmth…",
-      "url": "https://www.archdaily.com/1042942/coco-beans-house-aamir-and-hameeda",
-      "image": "https://images.adsttc.com/media/images/6a45/2f4f/bdfc/1a01/8a6a/3bed/large_jpg/coco-beans-house-aamir-and-hameeda_26.jpg?1782919005",
-      "images": [
-        "https://images.adsttc.com/media/images/6a45/2f4f/bdfc/1a01/8a6a/3bed/large_jpg/coco-beans-house-aamir-and-hameeda_26.jpg?1782919005",
-        "https://images.adsttc.com/media/images/6a45/2cca/19a6/0501/7f75/47bf/large_jpg/coco-beans-house-aamir-and-hameeda_6.jpg?1782918404",
-        "https://images.adsttc.com/media/images/6a45/2cf4/8481/2b01/8af5/1e3d/large_jpg/coco-beans-house-aamir-and-hameeda_23.jpg?1782918443",
-        "https://images.adsttc.com/media/images/6a45/2cd2/8481/2b01/8af5/1e38/large_jpg/coco-beans-house-aamir-and-hameeda_8.jpg?1782918408",
-        "https://images.adsttc.com/media/images/6a45/2cdf/bdfc/1a01/8a6a/3be3/large_jpg/coco-beans-house-aamir-and-hameeda_12.jpg?1782918425"
-      ],
-      "source": "ArchDaily",
-      "source_url": "https://www.archdaily.com",
-      "published": "2026-07-03T07:00:00+00:00"
-    },
-    {
       "id": "ee718441c2119b88",
       "title": "Monai’s New Baby Crib Monitors Heart Rate With 4K Sensors",
       "summary": "Monai’s New Baby Crib Monitors Heart Rate With 4K Sensors Baby gear has always been functional. Safe. Practical. But design, real design, has rarely been part of the conversation when it comes to infant furniture....",
@@ -611,9 +616,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/07/22/embodyingethics01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/12/243336/handrail_bookcase-yankodesign01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/furniture_made_for_riding_and_hiding_your_stationary_bike.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/11/design-your-own-workspace-with-this-modular-desktop-it-might-be-the-last-desk-youll-ever-need/01_LastDesk_FrameCPH_ModularDesk_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/12/auto-draft/eames_lounge_chair_skateboard_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/02/a-sustainable-and-multipurpose-crib-design-that-can-be-used-even-after-the-baby-grows-older/Accompany_sustainable_crib_01-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -730,9 +735,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/thailand-just-turned-food-delivery-waste-into-actual-furniture/reup-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/the-outdated-sofa-colors-everyone-regrets-and-the-smarter-picks-replacing-them/pink-couch.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/09/this-cabin-can-easily-transported-to-remote-places-reduces-construction-carbon-emissions/modern_cabin_design_to_reduce_waste-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/this-stackable-portable-fiberglass-table-chair-combo-takes-convenience-of-home-office-to-the-garden/uuma-portable-table-and-chair_8.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/11/19/zero_chair2.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/02/17/shair01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/01/auto-draft/01_TripodStandingDesk_IntensionDesign_LaptopStandingDesk.png"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1012,32 +1017,6 @@
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
       "published": "2026-07-01T10:00:00+00:00"
-    },
-    {
-      "id": "e67de8ffd98c1277",
-      "title": "Velo chair by Layer for Andreu World",
-      "summary": "Dezeen Showroom: British designer Benjamin Hubert and his studio Layer have created a task chair for flexible working named Velo, manufactured by Andreu World. The Velo chair first task chair from the Spanish brand, and was designed to be responsive and ergonomic while also having a compact, minimal form that sits as comfortably in the The post Velo chair by Layer for Andreu World appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/01/velo-layer-andreu-world-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/06/velo-chair-layer-andreu-world-showroom_dezeen_2364_col_6.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/velo-chair-layer-andreu-world-showroom_dezeen_2364_col_6.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-01T09:30:26+00:00"
-    },
-    {
-      "id": "8f5ebd3c5d24c010",
-      "title": "Sinaldaba organises Cecebre House in Spain around crescent-shaped courtyard",
-      "summary": "A crescent-shaped courtyard creates a \"domestic refuge\" at the heart of this minimalist house in Galicia, Spain, designed by local architecture studio Sinaldaba. Named Cecebre House after the municipality in which it is located, the three-bedroom dwelling sits partially sunk into a sloping, rural site. According to Sinaldaba, the design is an attempt to \"recover The post Sinaldaba organises Cecebre House in Spain around crescent-shaped courtyard appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/01/sinaldaba-cecebre-house/",
-      "image": "http://static.dezeen.com/uploads/2026/06/cecebre-house-sinaldaba-studio-architecture-residential-spain-courtyard_dezeen_2364_sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/cecebre-house-sinaldaba-studio-architecture-residential-spain-courtyard_dezeen_2364_sq.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-01T08:30:44+00:00"
     },
     {
       "id": "fe83dd9451b14165",
@@ -1322,6 +1301,19 @@
       "published": "2026-06-29T13:00:00+00:00"
     },
     {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
       "id": "41094b33ea6d3012",
       "title": "Apartment IN2 Opens a Continuous Living Space in Milan",
       "summary": "Apartment IN2 reworks an anonymous apartment in Milano, Italy, into a home with a clearer sense of character and use. Designed by Nicola Maglione in 2025, the project treats the apartment as a continuous interior, where oak parquet, dark wood paneling, and carefully placed lighting give the living areas, kitchen, and bath a steady visual […] The post Apartment IN2 Opens a Continuous Living Space in Milan first appeared on HomeAdore .",
@@ -1404,8 +1396,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/antoniolupi-NAZIONALE-_ceralacca_nero-04.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/2026-07-03-10_49_41-Addio-ad-Aldo-Spinelli-fondatore-di-Poliform.-Imprenditore-straordinario-e-vis.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Kerakoll-Colors_VideoVilloresi_01-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/antoniolupi-NAZIONALE-_ceralacca_nero-04.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2494,7 +2486,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2934,7 +2926,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2978,7 +2970,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3170,7 +3162,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3287,7 +3279,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3433,6 +3425,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
