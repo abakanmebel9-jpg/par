@@ -1,12 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-06T04:24:09.327422+00:00",
-  "generated_at_human": "2026-07-06 04:24 UTC",
-  "total_items": 245,
+  "generated_at": "2026-07-06T09:08:50.568151+00:00",
+  "generated_at_human": "2026-07-06 09:08 UTC",
+  "total_items": 241,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
+    "Archi.ru",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
@@ -18,6 +19,7 @@
     "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -61,9 +63,27 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 55,
+  "sources_count": 57,
   "multi_photo_items": 62,
   "items": [
+    {
+      "id": "7705af987cc2d7ae",
+      "title": "Ингмар Витвицкий: «Сегодня стекло полноценно формирует эргономику здания»",
+      "summary": "Когда архитектор выбирает остекление, он работает сразу на двух уровнях: создаёт выразительный силуэт и продумывает будущую эксплуатацию фасада. Как эстетика и функционал стекла складываются в цельный замысел, рассказывает основатель и руководитель архитектурно-строительного бюро «Ингмар» – Ингмар Витвицкий.",
+      "url": "http://archi.ru/tech/news_102399.html",
+      "image": "https://i.archi.ru/i/1262/507557.png",
+      "images": [
+        "https://i.archi.ru/i/1262/507557.png",
+        "http://i.archi.ru/i/1262/507557.png",
+        "http://i.archi.ru/i/1262/507545.png",
+        "http://i.archi.ru/i/1262/507548.png",
+        "http://i.archi.ru/i/1262/507546.png",
+        "http://i.archi.ru/i/1262/507547.png"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "36fa10b6815bb0d0",
       "title": "Прованс от KERAMA MARAZZI: тихая роскошь в камне, керамике и фаянсе",
@@ -72,27 +92,10 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=69817",
+        "http://i.archi.ru/i/1262/405309.jpg?r=94084",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "ce1e963dd499bb8a",
-      "title": "​Стекло тонкой настройки: ЖК High Life и Phoenix Crystalvision",
-      "summary": "Стекло в архитектуре – не только символ прозрачности и свободы, но прежде всего сложный инженерный материал с четко заданными свойствами. Чем масштабнее проект и выразительнее пластика фасадов, тем более индивидуальным становится подход к остеклению. ЖК High Life – пример такой точной настройки стекла под архитектурную задачу.",
-      "url": "http://archi.ru/tech/news_102376.html",
-      "image": "https://i.archi.ru/i/1262/506386.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=61653",
-        "http://i.archi.ru/i/1262/506386.jpg",
-        "http://i.archi.ru/i/1262/454313.jpg",
-        "http://i.archi.ru/i/1262/506385.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -107,12 +110,75 @@
       "images": [
         "https://i.archi.ru/i/1262/507258.jpg",
         "https://i.archi.ru/i/1262/507254.jpg",
-        "https://i.archi.ru/news/quadratic/474141.jpg?r=66331",
+        "https://i.archi.ru/news/quadratic/474141.jpg?r=85606",
         "https://i.archi.ru/i/1262/507255.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "ce1e963dd499bb8a",
+      "title": "​Стекло тонкой настройки: ЖК High Life и Phoenix Crystalvision",
+      "summary": "Стекло в архитектуре – не только символ прозрачности и свободы, но прежде всего сложный инженерный материал с четко заданными свойствами. Чем масштабнее проект и выразительнее пластика фасадов, тем более индивидуальным становится подход к остеклению. ЖК High Life – пример такой точной настройки стекла под архитектурную задачу.",
+      "url": "http://archi.ru/tech/news_102376.html",
+      "image": "https://i.archi.ru/i/1262/506386.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/506386.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "c82e638d6303e443",
+      "title": "The Dean Munich unveils Jugendstil-inspired interiors by Tatjana von Stein",
+      "summary": "The Dean has opened its doors in Munich, marking the Irish-born lifestyle brand’s second outpost in Germany. Located in the […] The post The Dean Munich unveils Jugendstil-inspired interiors by Tatjana von Stein appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/the-dean-munich-unveils-jugendstil-inspired-interiors-by-tatjana-von-stein/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Dean-Munich-3.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Dean-Munich-3.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2023/10/Rosewood-Munich-Winter-Garden-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2023/09/Rosewood-Munich-Lounge-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/09/Munich-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Dean-Munich-4.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-06T08:46:08+00:00"
+    },
+    {
+      "id": "7d2566eb50ba16d7",
+      "title": "Une sublime maison de vacances à louer dans la campagne toscane",
+      "summary": "En ouvrant les portes de la Cenerentola, la créative Isabella Van Marle renoue avec le décor des étés de son enfance passés entre Florence et Sienne. Au cœur de cette maison, elle compose un intérieur mêlant architecture toscane, pièces iconiques, artisanat contemporain, objets aimés et anonymes.Il en résulte un lieu incarné, hors du temps et baigné de lumière.",
+      "url": "https://www.milkdecoration.com/une-sublime-maison-de-vacances-a-louer-dans-la-campagne-toscane/",
+      "image": "https://www.milkdecoration.com/wp-content/uploads/2026/06/251110-cenerentola-hr-64.jpg",
+      "images": [
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/251110-cenerentola-hr-64.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/251110-cenerentola-hr-74.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/251110-cenerentola-hr-72.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/251110-cenerentola-hr-62.jpg"
+      ],
+      "source": "MilK Decoration",
+      "source_url": "https://www.milkdecoration.com",
+      "published": "2026-07-06T05:00:00+00:00"
+    },
+    {
+      "id": "7f590420eea1c122",
+      "title": "Nanhai Buddha Pavilion / DoDesign",
+      "summary": "At the confluence of the Tiaodeng River and the Yangtze in Chongqing's Dadukou District lies Little Nanhai, a turtle-shaped island once home to a temple dedicated to Nanhai Guanyin during the Tang and Song dynasties. Overlooking the Yangtze and the distant Yunzhuan Mountains, the Nanhai Buddha Pavilion sits on a cliff surrounded by bamboo and camphor trees.",
+      "url": "https://www.archdaily.com/1042914/nanhai-buddha-pavilion-dodesign",
+      "image": "https://images.adsttc.com/media/images/6a44/4785/0789/c600/018c/2922/large_jpg/03_DoDesign.jpg?1782859696",
+      "images": [
+        "https://images.adsttc.com/media/images/6a44/4785/0789/c600/018c/2922/large_jpg/03_DoDesign.jpg?1782859696",
+        "https://images.adsttc.com/media/images/6a44/4785/0789/c600/018c/2928/large_jpg/09_DoDesign.jpg?1782859729",
+        "https://images.adsttc.com/media/images/6a44/4786/0789/c600/018c/292e/large_jpg/15_DoDesign.jpg?1782859701",
+        "https://images.adsttc.com/media/images/6a44/4785/0789/c600/018c/2926/large_jpg/07_DoDesign.jpg?1782859731",
+        "https://images.adsttc.com/media/images/6a44/4785/0789/c600/018c/2927/large_jpg/08_DoDesign.jpg?1782859698"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-07-06T00:00:00+00:00"
     },
     {
       "id": "5e523b8e44e90b59",
@@ -124,9 +190,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/gang-studios-flip-chair-was-born-from-a-sheet-of-korean-craft-paper/flip-chair-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/concrete-never-looked-this-good-ronan-bouroullecs-ancora-tables/ancora-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/01/528813/Office-Pods_pros-and-cons_design_17.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/pinntorp/ikea_pinntorp_yanko_design_05.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/06/23/frnkwz-stool01.jpg",
+        "https://www.yankodesign.com/images/design_news/2008/11/13/chairssmall.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/JEROME-Kids-Adjustable-Desk.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -196,9 +262,9 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/Fruhling2-Karlheinz-Sollbauer.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -333,10 +399,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Brass-Sink-Stands-Out-Against-White-Surfaces.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/03/Desks-That-Face-the-Window-Instead-of-the-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Years-of-Dirt-Disappeared-From-These-Stone-Paths-and-Patios-After-One-Deep-Cleaning.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Rebuilt-His-Pantry-With-Custom-Shelves-and-It-Stopped-Looking-Like-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Woman-Smashed-Travertine-Tiles-Into-Random-Pieces-and-Created-a-Stone-Floor-That-Looks-Centuries-Old.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/This-Pantry-Looked-Organized-Until-He-Changed-the-Shelves.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/She-Turned-a-Basic-Wire-Basket-Into-Hanging-Storage-That-Looks-Straight-Out-of-a-Design-Store.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Open-Shelves-Werent-the-Only-Problem.-This-Laundry-Room-Needed-Drying-Space-Too.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/She-Turned-a-Basic-Wire-Basket-Into-Hanging-Storage-That-Looks-Straight-Out-of-a-Design-Store.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -457,9 +523,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-kneeling-chair-from-1979-finally-gets-its-color-moment/variable-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/03/bifrost-gaming-desk-lets-you-build-your-dream-battle-station/gaming_desk_that_lets_you_build_your_dream_battle_station_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/Nicola-Stäubli-Reversible-Chair-Features.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/tejo-seating/tejo_seating_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/08/strap-outdoor-seating/strap_outdoor_seating_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/03/12/meditation_seat.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/05/20/slope_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -472,11 +538,7 @@
       "url": "https://www.archdaily.com/1042999/rosso-listening-bar-naso",
       "image": "https://images.adsttc.com/media/images/6a47/5e27/b477/e200/0107/a95f/large_jpg/DSC06167_1.jpg?1783062070",
       "images": [
-        "https://images.adsttc.com/media/images/6a47/5e27/b477/e200/0107/a95f/large_jpg/DSC06167_1.jpg?1783062070",
-        "https://images.adsttc.com/media/images/6a47/5e28/b477/e200/0107/a962/large_jpg/DSC06593.jpg?1783062075",
-        "https://images.adsttc.com/media/images/6a47/5e28/b477/e200/0107/a963/large_jpg/DSC06629.jpg?1783062081",
-        "https://images.adsttc.com/media/images/6a47/5e28/b477/e200/0107/a966/large_jpg/DSC06139_1.jpg?1783062132",
-        "https://images.adsttc.com/media/images/6a47/5e27/b477/e200/0107/a960/large_jpg/DSC06215_1.jpg?1783062083"
+        "https://images.adsttc.com/media/images/6a47/5e27/b477/e200/0107/a95f/large_jpg/DSC06167_1.jpg?1783062070"
       ],
       "source": "ArchDaily",
       "source_url": "https://www.archdaily.com",
@@ -551,32 +613,6 @@
       "published": "2026-07-04T08:17:03+00:00"
     },
     {
-      "id": "4eb5b3f375e22449",
-      "title": "Garden Designers Are Turning Seating Areas Into Outdoor Retreats",
-      "summary": "Garden seating areas are evolving beyond a few chairs and a table. More designers are creating outdoor retreats that combine planting, water features, sculptural seating, and carefully planned layouts to encourage relaxation as much as entertaining. This landscape takes that approach with curved paths, bamboo screens, ornamental grasses, agapanthus, and a circular garden room centered... The post Garden Designers Are Turning Seating Areas Into Outdoor Retreats appeared first on Homedit .",
-      "url": "https://www.homedit.com/garden-designers-are-turning-seating-areas-into-outdoor-retreats/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Garden-Seating-Areas-Started-Looking-More-Like-Outdoor-Retreats.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Garden-Seating-Areas-Started-Looking-More-Like-Outdoor-Retreats.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-04T07:41:57+00:00"
-    },
-    {
-      "id": "b3784acd63f2358a",
-      "title": "Forget Basic Towel Hooks. These Striped Designs Look More Like Wall Decor",
-      "summary": "Bathroom towel hooks are usually chosen for function, not appearance. These black-and-white striped designs take a different approach, looking more like decorative wall accents than everyday hardware. Combining curved brass arms with bold ceramic stripes, the Anthropologie hooks provide towel storage while adding pattern, contrast, and vintage-inspired character. Installed against a white board-and-batten wall, they... The post Forget Basic Towel Hooks. These Striped Designs Look More Like Wall Decor appeared first on Homedit .",
-      "url": "https://www.homedit.com/forget-basic-towel-hooks-these-striped-designs-look-more-like-wall-decor/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/These-Anthropologie-Hooks-Look-More-Like-Wall-Decor-Than-Towel-Storage.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/These-Anthropologie-Hooks-Look-More-Like-Wall-Decor-Than-Towel-Storage.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-04T07:23:42+00:00"
-    },
-    {
       "id": "551b6eb85e7cbd3b",
       "title": "This week Rick Owens created air-conditioned tracksuits",
       "summary": "This week on Dezeen, we reported on Paris Fashion Week where fashion designer Rick Owens showed inflatable Adidas jogging suits. Complete with tiny built-in fans that circulate air around the wearer, the jogging suits formed part of Owens' Spring Summer 27 menswear show, which took place during the city's record-breaking heatwave. Described by Owens as a The post This week Rick Owens created air-conditioned tracksuits appeared first on Dezeen .",
@@ -627,19 +663,6 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-03T15:08:55+00:00"
-    },
-    {
-      "id": "722207ca26ec6080",
-      "title": "More Homeowners Are Replacing Patio Umbrellas With Shade Sails",
-      "summary": "Patio umbrellas have long been the default choice for backyard shade, but more homeowners are now replacing them with shade sails. Unlike umbrellas, shade sails don’t require a center pole, cover much larger areas, and leave more flexibility for furniture placement. Suspended between walls, posts, trees, and other structures, shade sails create generous shaded zones... The post More Homeowners Are Replacing Patio Umbrellas With Shade Sails appeared first on Homedit .",
-      "url": "https://www.homedit.com/more-homeowners-are-replacing-patio-umbrellas-with-shade-sails/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Nobody-Wanted-Another-Patio-Umbrella.-These-Shade-Sails-Started-Showing-Up-Instead.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Nobody-Wanted-Another-Patio-Umbrella.-These-Shade-Sails-Started-Showing-Up-Instead.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-03T14:37:51+00:00"
     },
     {
       "id": "4d09b4c8c420a9f3",
@@ -734,9 +757,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/monais-new-baby-crib-monitors-heart-rate-with-4k-sensors/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/laser-engravers-need-a-workshop-this-one-fits-in-a-backpack/Hanboost_T1_Pocket_Size_Laser_Engraver_for_DIY_Enthusiast_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/dont-let-bad-tasting-tap-water-ruin-your-dinner-party-save-up-to-700-this-prime-day-with-waterdrop-filter/Waterdrop_prime_day_hero_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/pony-seat-and-table-lets-you-saddle-up-for-creative-work/pony-seat-table-05.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/porsche-designed-a-2000-gaming-chair-for-people-who-cant-afford-the-real-deal/recaro_porsche_gaming_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/12/29/pratt01.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/01/19/smart_square_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/04/anyways-concept-furniture-can-transform-into-a-lounge-chair-table-and-storage/ANYWAYS-Multipurpose-Furniture.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/01/11/270degree_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1067,7 +1090,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/adinne-chair-leonardo-rossano-true-design_dezeen_2364_sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-01T13:00:25+00:00"
     },
@@ -1101,19 +1124,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-07-01T13:00:00+00:00"
-    },
-    {
-      "id": "3631d670e2eeb7e4",
-      "title": "Mold Architects carves stepped retreat into rocky hillside overlooking the Aegean Sea",
-      "summary": "Greek studio Mold Architects has completed a hospitality retreat on the island of Serifos, using stone excavated from the rugged terrain to create five guest residences overlooking the Aegean Sea. Named Perma, the project occupies a sloping coastal site facing the small island of Vous. Stone-clad accommodation units are arranged across a series of stepped The post Mold Architects carves stepped retreat into rocky hillside overlooking the Aegean Sea appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/01/perma-guest-retreat-mold-architects-serifos-island-aegean-sea/",
-      "image": "http://static.dezeen.com/uploads/2026/06/perma-guest-retreat-mold-architects-serifos-island-aegean-sea-sq-exclusive_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/perma-guest-retreat-mold-architects-serifos-island-aegean-sea-sq-exclusive_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-01T10:30:02+00:00"
     },
     {
       "id": "2231d69059e86209",
@@ -1321,10 +1331,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/10/beautiful-room-ideas-laundry-bathroom-ideas-carlene-duffy-68f5c9e782da4-scaled.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/12/taylor-6a4a0da8bce24.jpg?w=2729",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/07/amazon-prime-day-high-end-brands-686f404d5b35a.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/06/Dream-Home-Lara-and-Peter-Belrose-laundry.jpg?w=2304",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/bianca-mastroianni-4-6a13b2a689f6b-scaled.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/27676/stylish-laundry-design-ideas.jpg?resize=1950%2C1462"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1484,21 +1494,6 @@
       "published": "2026-06-29T08:00:43+00:00"
     },
     {
-      "id": "e43073a74668e98a",
-      "title": "Marseille : l’agence ARCHIK dévoile un cabanon solaire entièrement revampé",
-      "summary": "Installée entre Marseille, Paris et la Cote Ouest, l’agence ARCHIK révèle sa dernière réalisation nommée Aldo : un cabanon entièrement repensé et idéalement situé au bord du port de la Madrague à Marseille. Disponible à la vente, cette architecture prête à vivre illustre parfaitement les différentes activités d’ARCHIK, à la croisée de l’immobilier, de l’architecture et de l’édition.",
-      "url": "https://www.milkdecoration.com/marseille-lagence-archik-devoile-un-cabanon-solaire-entierement-revampe/",
-      "image": "https://www.milkdecoration.com/wp-content/uploads/2026/06/dsf3656.jpg",
-      "images": [
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/dsf3656.jpg",
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/dsf3701.jpg",
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/dsf3291.jpg"
-      ],
-      "source": "MilK Decoration",
-      "source_url": "https://www.milkdecoration.com",
-      "published": "2026-06-29T05:00:00+00:00"
-    },
-    {
       "id": "ba7867ac25a5f7fa",
       "title": "L’arte della modulazione: disegnare lo spazio attraverso l’arredo",
       "summary": "In un attico caratterizzato da volumi ampi, luce naturale e aperture scenografiche, lo spazio è valorizzato da una selezione mirata di arredi Living Divani The post L’arte della modulazione: disegnare lo spazio attraverso l’arredo appeared first on Interni Magazine .",
@@ -1509,8 +1504,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Kerakoll-Colors_VideoVilloresi_01-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Talenti_FDM-14.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/USM_Showroom_Shanghai_B0018210-HDR.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1730,10 +1725,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/12/taylor-6a4a0da8bce24.jpg?w=2729",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/07/amazon-prime-day-high-end-brands-686f404d5b35a.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/02/north-shore-boathouse-outdoor-kitchen.jpg?w=2304",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/outdoor-kitchen-design-ideas-alfresco-bbq-barbecue-alfresco-dining-cactus-696ecbe8e4ec8.jpg?w=2302",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/09/Trafalgar-St-170-Annandale-Backyard-Blind0-Animated-scaled.jpg?w=2302"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/09/Trafalgar-St-170-Annandale-Backyard-Blind0-Animated-scaled.jpg?w=2302",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/11/Teneal_Zuvela_1.jpg?w=2048"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1748,10 +1743,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-whites-69362bfb1b5b5-scaled.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/12/taylor-6a4a0da8bce24.jpg?w=2729",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/07/amazon-prime-day-high-end-brands-686f404d5b35a.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-teal-mustard-brown-red-colours-chrome-accents-693641c0b51a4-scaled.jpg?resize=2560%2C1706",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/08/DULUX_MUSE_06-scaled.jpg?fit=1024%2C800&resize=2560%2C1999",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/Canberra-Cottage-Hero-2.jpg?w=2304"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/Canberra-Cottage-Hero-2.jpg?w=2304",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Hanna-Marton.jpg?w=2048"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -2095,19 +2090,6 @@
       "published": "2026-06-23T08:00:32+00:00"
     },
     {
-      "id": "841189c1bc215b99",
-      "title": "Anatomia del relax estivo: i mobili outdoor che conquistano l’estate",
-      "summary": "Divani isola che favoriscono la convivialità, lettini prendisole di nuova generazione e poltrone dalla seduta ampia: gli arredi outdoor che fanno dimenticare le rigide posture dell'inverno The post Anatomia del relax estivo: i mobili outdoor che conquistano l’estate appeared first on Interni Magazine .",
-      "url": "https://www.internimagazine.it/design/arredo/esterni/anatomia-del-relax-estivo-i-mobili-outdoor-che-conquistano-lestate/",
-      "image": "https://www.internimagazine.it/content/uploads/2026/06/nSGtQFU2-Roche-Bobois_20251118_Baptiste-Le-Quiniou_SCENETTE_04-HD.jpg?imbypass=true",
-      "images": [
-        "https://www.internimagazine.it/content/uploads/2026/06/nSGtQFU2-Roche-Bobois_20251118_Baptiste-Le-Quiniou_SCENETTE_04-HD.jpg?imbypass=true"
-      ],
-      "source": "Interni magazine",
-      "source_url": "https://www.internimagazine.it",
-      "published": "2026-06-23T04:00:09+00:00"
-    },
-    {
       "id": "fa61e033f9e2e5da",
       "title": "Meridian rugs by Armadillo among six new products on Dezeen Showroom",
       "summary": "Dezeen Showroom: a series of rugs that foreground weaving patterns and fibres over colour and print are among six new products featured on Dezeen Showroom. Meridian rugs by Armadillo Rug brand Armadillo has released a collection of rugs named Meridian, which celebrate the tactile effects created by different weave styles, construction methods and fibre types. The post Meridian rugs by Armadillo among six new products on Dezeen Showroom appeared first on Dezeen .",
@@ -2218,12 +2200,7 @@
       "url": "https://www.sleepermagazine.com/stories/products/duravit-introduces-embossed-bathroom-collections/",
       "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/06/Duravit-3.jpg",
       "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/06/Duravit-3.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/06/Duravit-1-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2025/11/Duravit-bathroom-furniture-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2023/01/Duravit-Luv-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2021/12/Duravit-DNEO-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/06/Duravit-2.jpg"
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/06/Duravit-3.jpg"
       ],
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
@@ -2321,7 +2298,7 @@
       "images": [
         "https://design-milk.com/images/2026/06/Archiwave_The-Green-Box-View-03.jpeg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
     },
@@ -2363,19 +2340,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-17T08:00:47+00:00"
-    },
-    {
-      "id": "eb3d885b44499d2f",
-      "title": "10 Easy Pieces: Glass Water Carafes",
-      "summary": "A simple water carafe is a necessity on the nightstand—especially one with a glass that acts as carafe topper to keep water fresh and clean clean while you slumber. Here are 10 options to help you get your daily water intake morning and night. For more bedside essentials, see our posts: 10 Easy Pieces: Modern […]",
-      "url": "https://www.remodelista.com/posts/10-easy-pieces-bedside-water-carafes/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2025/08/clear-velasca-carafe-obakki.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2025/08/clear-velasca-carafe-obakki.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-06-17T08:00:00+00:00"
     },
     {
       "id": "a6274e38bce6a790",
@@ -3033,11 +2997,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/12/How-to-build-a-planter-box.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3390,19 +3354,6 @@
       "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T09:30:35+00:00"
-    },
-    {
-      "id": "bc084dec73d48fb0",
-      "title": "\"I have a lot of sympathy\" for young designers says Jasper Morrison",
-      "summary": "The increasing prominence of craft in design amid dwindling commercial opportunities has echoes of the scene in 1980s London, British industrial designer Jasper Morrison tells Dezeen in this interview. Despite pondering the wider industry \"as little as possible\", Morrison says that the current rise of craft-based, bespoke furniture reminds him of shifting conditions that he experienced The post \"I have a lot of sympathy\" for young designers says Jasper Morrison appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/05/12/jasper-morrison-interview-london-craft/",
-      "image": "http://static.dezeen.com/uploads/2024/04/dezeen-awards-2024-Jasper-Morrison-judge-sq-1.png",
-      "images": [
-        "http://static.dezeen.com/uploads/2024/04/dezeen-awards-2024-Jasper-Morrison-judge-sq-1.png"
-      ],
-      "source": "Dezeen tag furniture",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-05-12T09:15:19+00:00"
     },
     {
       "id": "e9bfcf7fb386b2ba",
