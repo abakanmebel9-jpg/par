@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-07T12:07:51.576115+00:00",
-  "generated_at_human": "2026-07-07 12:07 UTC",
+  "generated_at": "2026-07-07T15:49:05.491768+00:00",
+  "generated_at_human": "2026-07-07 15:49 UTC",
   "total_items": 243,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -53,13 +54,14 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
+  "sources_count": 55,
   "multi_photo_items": 60,
   "items": [
     {
@@ -106,7 +108,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=49607",
+        "http://i.archi.ru/i/1262/405309.jpg?r=63451",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -140,6 +142,105 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "5088175a24a80d60",
+      "title": "Woodworking in America: Christina Vincent",
+      "summary": "We’re interviewing makers from across the country. Today we’re featuring Christina Vincent, a designer, furniture maker, and artist from Maine. How did you get started woodworking? Who were your mentors?... Source",
+      "url": "https://www.popularwoodworking.com/interviews/woodworking-in-america-christina-vincent/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/07103754/cmvshop-copy.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/07/07103754/cmvshop-copy.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-07T15:48:21+00:00"
+    },
+    {
+      "id": "8d0502530489ce64",
+      "title": "Richelieu Debuts New Products at Closets Expo",
+      "summary": "Richelieu Hardware introduced its latest solutions for creating stylish and functional custom closets at the Closets Conference & Expo, June 30 through July 2, at the Palm Beach County Convention... The post Richelieu Debuts New Products at Closets Expo appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/richelieu-debuts-new-products-at-closets-expo",
+      "image": "https://www.woodshopnews.com/uploads/2026/07/richelieulogo500x280_WSN.jpg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/07/richelieulogo500x280_WSN.jpg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-07-07T15:33:10+00:00"
+    },
+    {
+      "id": "5e3afbab44430871",
+      "title": "Top Knobs Unveils the Bayridge, Califon and Lavington Suites",
+      "summary": "Top Knobs, a manufacturer of decorative kitchen and bath hardware, has introduced the Bayridge, Califon and Lavington Suites within the Pemberton Collection. Designed to embody the collection’s modern heritage influences,... The post Top Knobs Unveils the Bayridge, Califon and Lavington Suites appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/top-knobs-unveils-the-bayridge-califon-and-lavington-suites",
+      "image": "https://www.woodshopnews.com/uploads/2026/07/topknobs500x280_WSN.jpg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/07/topknobs500x280_WSN.jpg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-07-07T15:31:02+00:00"
+    },
+    {
+      "id": "fad20d9b775f38a3",
+      "title": "Underground community hub among projects from students at Pratt Institute",
+      "summary": "Dezeen School Shows: a proposal to transform a subway station into a community hotspot for art and culture is among the projects from interior design students at Pratt Institute. Also featured is a wildlife centre for children that encourages environmental awareness and a bathhouse that highlights issues of global water insecurity and contamination. Pratt Institute The post Underground community hub among projects from students at Pratt Institute appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/07/communuty-transport-hub-pratt-institute-schoolshows/",
+      "image": "http://static.dezeen.com/uploads/2026/06/Pratt_dezeen_2364_col_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/Pratt_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-07T15:00:05+00:00"
+    },
+    {
+      "id": "0db544d6452be7f0",
+      "title": "Modern Kitchens Started Hiding Everyday Clutter Behind Better Design",
+      "summary": "Modern kitchens no longer depend on displaying every appliance, utensil, or storage shelf. More designers are concealing everyday functions behind flush cabinetry, appliance walls, pocket doors, integrated lighting, and uninterrupted stone surfaces. The result feels calmer, even though these kitchens often contain more storage than traditional layouts. These kitchens show how hidden pantries, furniture-style islands,... The post Modern Kitchens Started Hiding Everyday Clutter Behind Better Design appeared first on Homedit .",
+      "url": "https://www.homedit.com/modern-kitchens-started-hiding-everyday-clutter-behind-better-design/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Storage-Started-Disappearing-Into-the-Design.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Storage-Started-Disappearing-Into-the-Design.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Functional-Zones-Replace-Continuous-Cabinet-Runs.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Wall-Storage-Expands-Beyond-Cabinets.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Pocket-Storage-Hides-Everyday-Appliances.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Appliance-Walls-Hide-the-Working-Kitchen.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Decorative-Range-Hoods-Become-Architectural-Features.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-07T13:06:19+00:00"
+    },
+    {
+      "id": "eed9db505470e90f",
+      "title": "The Smart Way To Rebuild Your Closet So It Stops Looking Like Storage",
+      "summary": "Our expert says that successfully rebuilding a closet is all about intention, paying attention to aesthetics, and utilizing the right storage additions.",
+      "url": "https://www.hunker.com/2208254/smart-way-rebuild-closet-stop-looking-like-storage/",
+      "image": "https://www.hunker.com/img/gallery/smart-way-rebuild-closet-stop-looking-like-storage/l-intro-1783434996.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/smart-way-rebuild-closet-stop-looking-like-storage/l-intro-1783434996.jpg",
+        "https://www.hunker.com/img/gallery/smart-way-rebuild-closet-stop-looking-like-storage/intro-1783434996.jpg",
+        "https://www.hunker.com/img/gallery/smart-way-rebuild-closet-stop-looking-like-storage/how-to-make-your-closet-look-more-stylish-on-a-budget-1783434998.jpg",
+        "https://www.hunker.com/img/gallery/smart-way-rebuild-closet-stop-looking-like-storage/how-to-make-a-small-closet-look-more-unique-and-lived-in-1783434999.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-07T13:00:00+00:00"
+    },
+    {
+      "id": "a5e93c59cd1d64eb",
+      "title": "Kokuyo's Minimal Energy Line Power Strip",
+      "summary": "Believe it or not, this is a power strip: It's meant to be an easy-on-the-eyes alternative to power strips. Designed by Japanese office furniture company Kokuyo, the Energy Line clamps to your desktop. The slits running through the face accept up to five two-pronged plugs, anywhere along the slits. As you can see, it won't take grounded (three-prong) plugs; it's meant for laptops and peripherals.",
+      "url": "https://www.core77.com/posts/144664/Kokuyos-Minimal-Energy-Line-Power-Strip",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1840565_lead_400_144664_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1840565_lead_400_144664_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-07-07T13:00:00+00:00"
     },
     {
       "id": "1630ec50f7a20e9c",
@@ -201,11 +302,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Spaces-Are-Trading-Matching-Sets-for-Individual-Pieces-in-2026.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Spaces-Are-Trading-Matching-Sets-for-Individual-Pieces-in-2026.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Old-Shipping-Pallet-Turned-Into-Vertical-Craft-Storage-That-Freed-Up-an-Entire-Wall.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Umbrella-Combines-Shade-and-Casual-Seating.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Mixed-Chair-Styles-Gather-Around-a-Single-Table.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Chair-Collections-Highlight-Growing-Variety.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Rope-Wrapped-Furniture-Introduces-Texture-and-Contrast.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Rope-Wrapped-Furniture-Introduces-Texture-and-Contrast.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/High-Back-Lounge-Chair-Creates-a-Private-Retreat.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -218,12 +319,7 @@
       "url": "https://www.homedit.com/he-built-a-walk-in-pantry-with-a-coffee-station-and-freed-up-his-kitchen-counters/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Built-a-Walk-In-Pantry-With-a-Coffee-Station-and-Freed-Up-His-Kitchen-Counters.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Built-a-Walk-In-Pantry-With-a-Coffee-Station-and-Freed-Up-His-Kitchen-Counters.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Old-Shipping-Pallet-Turned-Into-Vertical-Craft-Storage-That-Freed-Up-an-Entire-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Base-Cabinet-Defined-the-Future-Workstation.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Finished-pantry-walk-in-no-doors.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Custom-Pantry-Started-Working-Before-the-Finishing-Touches.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Shelves-on-the-new-walk-in-pantry.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Built-a-Walk-In-Pantry-With-a-Coffee-Station-and-Freed-Up-His-Kitchen-Counters.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -394,13 +490,24 @@
       "url": "https://www.hunker.com/2205053/cheaper-granite-quartz-countertop-alternative-recycled-aluminum/",
       "image": "https://www.hunker.com/img/gallery/ditch-quartz-and-granite-theres-a-cheaper-more-eco-friendly-countertop-option/l-intro-1782835921.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ditch-quartz-and-granite-theres-a-cheaper-more-eco-friendly-countertop-option/l-intro-1782835921.jpg",
-        "https://www.hunker.com/img/gallery/ditch-quartz-and-granite-theres-a-cheaper-more-eco-friendly-countertop-option/intro-1782835921.jpg",
-        "https://www.hunker.com/img/gallery/ditch-quartz-and-granite-theres-a-cheaper-more-eco-friendly-countertop-option/maintaining-eco-friendly-aluminum-surfaces-is-surprisingly-simple-1782835923.jpg"
+        "https://www.hunker.com/img/gallery/ditch-quartz-and-granite-theres-a-cheaper-more-eco-friendly-countertop-option/l-intro-1782835921.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "15d1b501d09c7863",
+      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
+      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-06T23:25:23+00:00"
     },
     {
       "id": "b1e95b23af2c7cc4",
@@ -432,6 +539,19 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-07-06T22:30:00+00:00"
+    },
+    {
+      "id": "6c7643791ee96fc1",
+      "title": "Planning without limits",
+      "summary": "“BetteUltra Space” by Bette expands the possibilities for bathroom design in existing homes: The ultra-flat shower tray combines flexible installation solutions, a wide range of design options, and top-quality materials for customized designs.",
+      "url": "https://www.stylepark.com/en/news/bette-ultra-space-bathroom-architecture-shower-tray-design-stylepark-magazine",
+      "image": "https://www.stylepark.com/assets/articles/TS_QF_Bette_UltraSpace_2026-07-07-142007_imjq.jpg",
+      "images": [
+        "https://www.stylepark.com/assets/articles/TS_QF_Bette_UltraSpace_2026-07-07-142007_imjq.jpg"
+      ],
+      "source": "Stylepark DE",
+      "source_url": "https://www.stylepark.com",
+      "published": "2026-07-06T22:00:00+00:00"
     },
     {
       "id": "74e0d8bcb1f67e2e",
@@ -550,9 +670,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/omnibites-screwless-joint-wants-you-to-build-with-raw-branches/omnibite-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/11/auto-draft/standable_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/07/roll/roll_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/this-floating-bench-defies-gravity-and-your-expectations/floatingbench-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/10/this-wooden-stool-offers-a-sustainable-replacement-for-a-common-household-product/plastic-wood-stool-9.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/youtuber-custom-builds-coffee-table-with-functional-star-system-around-an-exploding-sun/custom-builds-coffee-table-with-functional-star-system-around-an-exploding-sun-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2008/11/13/chairssmall.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -570,19 +690,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-07-06T16:10:00+00:00"
-    },
-    {
-      "id": "a0e190bcbef090d2",
-      "title": "Neither A Shed Nor A Deck Box: Costco Has A New Solution For Chic Outdoor Storage",
-      "summary": "Sheds and deck boxes may be practical, but this Costco item offers smart storage and neat features in a chic design to fit right in with your outdoor furniture.",
-      "url": "https://www.hunker.com/2205173/new-costco-stylecraft-outdoor-storage-table-chic-not-shed-deck-box/",
-      "image": "https://www.hunker.com/img/gallery/new-costco-stylecraft-outdoor-storage-table-chic-not-shed-deck-box/l-intro-1782841869.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/new-costco-stylecraft-outdoor-storage-table-chic-not-shed-deck-box/l-intro-1782841869.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-06T16:00:00+00:00"
     },
     {
       "id": "a4df0d789bf8385d",
@@ -611,19 +718,6 @@
       "published": "2026-07-06T15:24:28+00:00"
     },
     {
-      "id": "d16354976bf73ac4",
-      "title": "Move Over, Paint & Stain: A Better Way To Update Maple Cabinets",
-      "summary": "Your maple cabinets don't need a color makeover - they need the right finish, one that naturally enhances the wood's grain and provides better protection.",
-      "url": "https://www.hunker.com/2208231/update-maple-cabinets-without-paint-stain-hardwax-oil/",
-      "image": "https://www.hunker.com/img/gallery/move-over-paint-stain-a-better-way-to-update-maple-cabinets/l-intro-1783331255.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/move-over-paint-stain-a-better-way-to-update-maple-cabinets/l-intro-1783331255.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-06T15:00:00+00:00"
-    },
-    {
       "id": "0e5303c7ab8af113",
       "title": "These Decorative Objects Turn Sideboards Into Statement Pieces",
       "summary": "Sideboards have become display surfaces instead of places reserved only for storage. Large ceramics, layered artwork, decorative lighting, plants, and sculptural accessories now shape the character of the furniture as much as the cabinet itself. Rather than filling every available inch, these arrangements rely on scale, texture, and balance to create displays that feel curated... The post These Decorative Objects Turn Sideboards Into Statement Pieces appeared first on Homedit .",
@@ -635,19 +729,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-06T14:33:04+00:00"
-    },
-    {
-      "id": "46a90f9c4edb8e4b",
-      "title": "The Kitchen Furniture To Look For At Thrift Stores & Estate Sales That's Worth The Hunt",
-      "summary": "This furniture piece is synonymous with mid-century modern aesthetics and has a designer label to boot. If you thrift one, it could be worth thousands.",
-      "url": "https://www.hunker.com/2206651/valuable-kitchen-furniture-table-look-for-thrift-stores-estate-sales/",
-      "image": "https://www.hunker.com/img/gallery/the-kitchen-furniture-to-look-for-at-thrift-stores-estate-sales-thats-worth-the-hunt/l-intro-1782997692.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/the-kitchen-furniture-to-look-for-at-thrift-stores-estate-sales-thats-worth-the-hunt/l-intro-1782997692.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-06T14:30:00+00:00"
     },
     {
       "id": "27bde4748e0d99f3",
@@ -698,19 +779,6 @@
       "published": "2026-07-06T11:34:00+00:00"
     },
     {
-      "id": "bb59f3bfd911d045",
-      "title": "Spa-Like Bathrooms Are Replacing Traditional Designs",
-      "summary": "Bathrooms once focused almost entirely on function. A vanity, shower, toilet, and bright overhead lighting defined the space, while decorative elements remained limited. Many of today’s premium bathroom collections take a different direction. Freestanding tubs become sculptural centerpieces, lighting shifts toward a softer atmosphere, natural materials replace glossy finishes, and furniture-inspired vanities make the room... The post Spa-Like Bathrooms Are Replacing Traditional Designs appeared first on Homedit .",
-      "url": "https://www.homedit.com/spa-like-bathrooms-are-replacing-traditional-designs/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Spa-Like-Bathrooms-Are-Replacing-Traditional-Designs-in-2026-Homedit.com-.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Spa-Like-Bathrooms-Are-Replacing-Traditional-Designs-in-2026-Homedit.com-.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-06T11:29:55+00:00"
-    },
-    {
       "id": "232148cf215cb98c",
       "title": "Oltre la funzione: il design come sistema narrativo",
       "summary": "Le novità Mara presentate al Salone del Mobile di Milano raccontano un design che unisce funzione e linguaggio progettuale. Sistemi e collezioni interpretano lo spazio contemporaneo attraverso flessibilità, identità e coerenza formale The post Oltre la funzione: il design come sistema narrativo appeared first on Interni Magazine .",
@@ -722,7 +790,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_MARA__AERA_04_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_MARA__OTTO__Christophe-Pillet__03_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_©MARA__ARGO-LIBRO__LIMITED-EDITION_LR_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Y1DAdpXt-Zanotta_tavolo-Vertebra2333_IP06.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/USM_Showroom_Shanghai_B0018210-HDR.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -784,9 +852,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/gang-studios-flip-chair-was-born-from-a-sheet-of-korean-craft-paper/flip-chair-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/cocoon-chair/cocoon_chair_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/08/18/brigham_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/02/frankie/Frankie_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/08/02/escape_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/11/stool-designs/top_10_stool_designs_hero_yanko_design.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/11/draft-mizu/mizu_table_installation_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -829,7 +897,7 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg"
       ],
       "source": "Interni magazine",
@@ -886,8 +954,8 @@
       "image": "https://sunset.com/wp-content/uploads/2026/05/sabai-outdoor-bacana-armchair.jpg?w=1200&h=600&crop=1",
       "images": [
         "https://sunset.com/wp-content/uploads/2026/05/sabai-outdoor-bacana-armchair.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/07/la-bahia-santa-cruz-ocean-queen-view.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/artwork-living-room-Kirk-Riley-Design_PC_Julie-Mannell.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/06/living-room-rug-Re-Find_PC_Syd-Fuller.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/disneyland-castle-1.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/05/polywood-furniture-modern-curveback-adirondack-chair.jpg?resize=800,617",
         "https://sunset.com/wp-content/uploads/2026/05/outer-concrete-fire-pit.jpg?resize=800,545",
         "https://sunset.com/wp-content/uploads/2026/05/business-and-pleasure-resort-market-umbrella.jpg?resize=800,800"
@@ -895,19 +963,6 @@
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
       "published": "2026-07-04T23:04:57+00:00"
-    },
-    {
-      "id": "c0113ed1626f15b3",
-      "title": "A Basically All-Wood Paneled '70s Bathroom Got an Americana Folk Makeover",
-      "summary": "This bathroom was straight out of the '70s, but after two architects completely DIYed the space, it’s now accessible with custom Americana-style tile flooring. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/rustic-quilted-tile-bathroom-ba-37561971?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-07/lauren-f-bathroom/bathroom-before-lead",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-07/lauren-f-bathroom/bathroom-before-lead"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-04T19:45:00+00:00"
     },
     {
       "id": "77dcd5861826efd3",
@@ -919,9 +974,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-kneeling-chair-from-1979-finally-gets-its-color-moment/variable-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/pepe-stool/pepe_stool_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/draft-shell-sofa/shell_sofa_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/s1-stool-and-side-table/s1_sidetable_stool_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/02/5-product-designs-that-brought-the-moon-indoors-theyre-all-stunning/Lunar-Desings_moon-inspired_19.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/05/25/smile_stool_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/04/25/Screen-shot-2011-04-25-at-4.32.44-PM.png"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -952,19 +1007,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-04T10:00:56+00:00"
-    },
-    {
-      "id": "6388284c2edd041b",
-      "title": "Fiat thinks small with the Multiplina Concept as well as some beach-ready micromobility",
-      "summary": "Fiat has doubled-down on its focus on micromobility, taking the cultish Topolino into new sectors and thinking about future forms for ultra-compact urban travel",
-      "url": "https://www.wallpaper.com/transportation/fiat-multiplina-concept",
-      "image": "https://cdn.mos.cms.futurecdn.net/hjr4utgvcQa33u5fWSfP68.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/hjr4utgvcQa33u5fWSfP68.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-07-04T10:00:00+00:00"
     },
     {
       "id": "551b6eb85e7cbd3b",
@@ -1151,19 +1193,6 @@
       "published": "2026-07-02T20:12:16+00:00"
     },
     {
-      "id": "8e43a184439666ad",
-      "title": "Dezeen Agenda features Frank Gehry-designed venue in Abu Dhabi",
-      "summary": "The latest edition of our weekly Dezeen Agenda newsletter features news that construction has commenced on Dar al Funoon Abu Dhabi, which was designed by Frank Gehry before his death. Subscribe to Dezeen Agenda now. Joining Gehry's Guggenheim Abu Dhabi, the performing arts venue will be located on Saadiyat Island, and is set to be The post Dezeen Agenda features Frank Gehry-designed venue in Abu Dhabi appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/02/frank-gehry-performing-arts-venue-abu-dhabi-dezeen-agenda/",
-      "image": "http://static.dezeen.com/uploads/2026/07/dar-al-funoon-abu-dhabi-frank-gehry_dezeen_2364_col_1_square.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/dar-al-funoon-abu-dhabi-frank-gehry_dezeen_2364_col_1_square.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-02T18:00:43+00:00"
-    },
-    {
       "id": "fe8f3c26d4d8f7ee",
       "title": "kilometer-long garden ring wraps carlo ratti and park associati’s ‘hospital of the future’",
       "summary": "the new campus in italy includes glazed wings and a garden-filled hybrid timber structure. The post kilometer-long garden ring wraps carlo ratti and park associati’s ‘hospital of the future’ appeared first on designboom | architecture & design magazine .",
@@ -1242,19 +1271,6 @@
       "published": "2026-07-02T14:00:00+00:00"
     },
     {
-      "id": "77dd8a485b93b132",
-      "title": "Building momentum in the Rockies",
-      "summary": "Colorado cabinet shop blends custom furniture with production runs. The post Building momentum in the Rockies appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/building-momentum-in-the-rockies",
-      "image": "https://www.woodshopnews.com/uploads/2026/07/BUILTIN-Large.jpeg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/07/BUILTIN-Large.jpeg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-07-02T13:00:00+00:00"
-    },
-    {
       "id": "187dadc17df87956",
       "title": "Inside a Kitchen Makeover That Proves Green Really Is a Neutral",
       "summary": "This outdated kitchen was made over with green cabinets and natural materials, which celebrates its woodsy environment outside.",
@@ -1284,32 +1300,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-07-02T08:00:36+00:00"
-    },
-    {
-      "id": "2af40f2433ac3c38",
-      "title": "Northtech Machine Named Finalist for IWF 2026 Challengers Award",
-      "summary": "Northtech Machine’s iGlueSRCD, an automatic glue applicator for cabinet door construction, is a finalist for the IWF 2026 Challengers Award. This recognition highlights Northtech’s commitment to innovation, as the company has previously won the award in 2022 and 2024. The post Northtech Machine Named Finalist for IWF 2026 Challengers Award appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/northtech-machine-named-finalist-for-iwf-2026-challengers-award",
-      "image": "https://www.woodshopnews.com/uploads/2026/07/Northtech.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/07/Northtech.jpg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-07-02T01:14:56+00:00"
-    },
-    {
-      "id": "835c48407dd10dc0",
-      "title": "Stiles to bring mass timber and off-site construction solutions to new IWF showcase",
-      "summary": "Stiles Machinery will participate in the International Woodworking Fair’s new Mass Timber & Pre-Fab Showcase, highlighting technologies for mass timber and off-site construction. Partnering with HOMAG Group companies, Stiles will demonstrate solutions for manufacturing glulam beams, CLT panels, and prefabricated construction elements. The post Stiles to bring mass timber and off-site construction solutions to new IWF showcase appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/stiles-to-bring-mass-timber-and-off-site-construction-solutions-to-new-iwf-showcase",
-      "image": "https://www.woodshopnews.com/uploads/2026/07/Stiles-Kallesoe-RF-Press.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/07/Stiles-Kallesoe-RF-Press.jpg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-07-02T01:01:49+00:00"
     },
     {
       "id": "7d4d442d4790e47e",
@@ -1641,22 +1631,22 @@
       "published": "2026-06-29T20:00:41+00:00"
     },
     {
-      "id": "07faadfd39f8339d",
-      "title": "A Nifty, More Functional Alternative to the Countertop Access Flap",
-      "summary": "At cafes and bars, a portion of the countertop often flips up to provide a pass-through for workers. Common though this solution is, it has a flaw: People tend to place objects on horizontal surfaces, and the flap must be cleared of objects before you can raise it. Cambodian architecture firm Khoan + Partners designed something more functional for the Lagràce Café Koh Norea in Phnom Penh:",
-      "url": "https://www.core77.com/posts/144613/A-Nifty-More-Functional-Alternative-to-the-Countertop-Access-Flap",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1839825_lead_400_144613_.jpg",
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
       "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1839825_lead_400_144613_.jpg"
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
       ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-06-29T14:00:00+00:00"
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
     },
     {
       "id": "e69d68ed29184525",
       "title": "Kitchens by Cabbonet",
-      "summary": "Dezeen Showroom: bespoke kitchens crafted with deluxe materials are the speciality of British brand Cabbonet, founded by designer Andrew Hays. Cabbonet's kitchens are designed by Arteim, Hays' studio started with Kimm Kovac, and are known for their sense of depth, luxuriousness and drama – features that are rooted in the founders' backgrounds in set and The post Kitchens by Cabbonet appeared first on Dezeen .",
+      "summary": "Dezeen Showroom: bespoke kitchens crafted with deluxe materials are the speciality of British brand Cabbonet, founded by designer Andrew Hays. The creative vision for Cabbonet's kitchens is devised by Arteim, Hays' studio started with Kimm Kovac, and are known for their sense of depth, luxuriousness and drama – features that are rooted in the founders' The post Kitchens by Cabbonet appeared first on Dezeen .",
       "url": "https://www.dezeen.com/2026/06/29/kitchens-cabbonet-dezeen-showroom/",
       "image": "http://static.dezeen.com/uploads/2026/06/cabbonet-kitchens-design_dezeen_2364_sq2.jpg",
       "images": [
@@ -1703,8 +1693,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Y1DAdpXt-Zanotta_tavolo-Vertebra2333_IP06.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/USM_Showroom_Shanghai_B0018210-HDR.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/MARA_ARENA__SDM-2026__HR__13.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2633,7 +2623,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3021,7 +3011,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3046,11 +3036,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/03/DIY-Craft-Cabinet.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/DIY-Round-COffee-Table-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/12/DIY-4-Poster-Bed.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3065,7 +3055,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3244,7 +3234,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3361,7 +3351,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3481,6 +3471,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
