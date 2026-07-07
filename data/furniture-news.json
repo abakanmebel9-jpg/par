@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-07T20:56:24.612757+00:00",
-  "generated_at_human": "2026-07-07 20:56 UTC",
-  "total_items": 240,
+  "generated_at": "2026-07-07T22:20:20.274736+00:00",
+  "generated_at_human": "2026-07-07 22:20 UTC",
+  "total_items": 239,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -61,7 +61,7 @@
     "АМДПР"
   ],
   "sources_count": 54,
-  "multi_photo_items": 59,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "91afde426b10abf4",
@@ -107,7 +107,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=14352",
+        "http://i.archi.ru/i/1262/405309.jpg?r=25023",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -288,6 +288,23 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-07T15:00:05+00:00"
+    },
+    {
+      "id": "c7fa50b92ea1345f",
+      "title": "Casa Co / Aagnes studio + JDEstudio",
+      "summary": "Casa CO, designed by JDEstudio with interiors by Aagnes Studio, is conceived around the pursuit of beauty as a fundamental architectural principle. Rather than treating beauty as a purely aesthetic quality, the project explores it as an organizing force: one that shapes space, materiality, and experience, allowing architecture to become a vessel for reason, spirit, and the sublime.",
+      "url": "https://www.archdaily.com/1042991/casa-co",
+      "image": "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91a/large_jpg/_DSC7818.jpg?1783061104",
+      "images": [
+        "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91a/large_jpg/_DSC7818.jpg?1783061104",
+        "https://images.adsttc.com/media/images/6a47/597b/b477/e200/0107/a92b/large_jpg/JDE_19008_EC3_RP_006.jpg?1783060967",
+        "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a913/large_jpg/_DSC2755.jpg?1783060900",
+        "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91c/large_jpg/_DSC7869.jpg?1783060914",
+        "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a919/large_jpg/_DSC7764.jpg?1783061059"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-07-07T15:00:00+00:00"
     },
     {
       "id": "0db544d6452be7f0",
@@ -591,19 +608,6 @@
       "published": "2026-07-07T01:20:25+00:00"
     },
     {
-      "id": "0e54d6bb662ddc01",
-      "title": "Ditch Quartz And Granite — There's A Cheaper, More Eco-Friendly Countertop Option",
-      "summary": "Looking for a sustainable kitchen upgrade? Discover the durable, budget-friendly, and eco-friendly countertop material to elevate your space.",
-      "url": "https://www.hunker.com/2205053/cheaper-granite-quartz-countertop-alternative-recycled-aluminum/",
-      "image": "https://www.hunker.com/img/gallery/ditch-quartz-and-granite-theres-a-cheaper-more-eco-friendly-countertop-option/l-intro-1782835921.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ditch-quartz-and-granite-theres-a-cheaper-more-eco-friendly-countertop-option/l-intro-1782835921.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-07T00:00:00+00:00"
-    },
-    {
       "id": "15d1b501d09c7863",
       "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
       "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
@@ -847,7 +851,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/sq-jasmine-fischer-london-office_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-06T09:30:39+00:00"
     },
@@ -1915,19 +1919,6 @@
       "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-06-25T16:02:00+00:00"
-    },
-    {
-      "id": "61ada9d596077c4b",
-      "title": "Di cosa si è discusso al 12simo Design Pambianco-Interni Summit",
-      "summary": "Imprenditori, CEO, architetti e designer si sono confrontati su design, industria e geopolitica per analizzare insieme come stanno cambiando mercati, filiere e strategie di crescita dell’arredo. Sul palco anche il direttore di Interni Gilda Bojardi The post Di cosa si è discusso al 12simo Design Pambianco-Interni Summit appeared first on Interni Magazine .",
-      "url": "https://www.internimagazine.it/agenda/agenda-eventi/di-cosa-si-e-discusso-al-12simo-design-pambianco-interni-summit/",
-      "image": "https://www.internimagazine.it/content/uploads/2026/06/12%C2%B0-Pambianco-Design-Summit_Gilda-Bojardi_AALE9190.jpg",
-      "images": [
-        "https://www.internimagazine.it/content/uploads/2026/06/12%C2%B0-Pambianco-Design-Summit_Gilda-Bojardi_AALE9190.jpg"
-      ],
-      "source": "Interni magazine",
-      "source_url": "https://www.internimagazine.it",
-      "published": "2026-06-25T12:27:26+00:00"
     },
     {
       "id": "cddba30ab34372c1",
