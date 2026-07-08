@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-08T04:26:16.866899+00:00",
-  "generated_at_human": "2026-07-08 04:26 UTC",
-  "total_items": 238,
+  "generated_at": "2026-07-08T07:39:20.850521+00:00",
+  "generated_at_human": "2026-07-08 07:39 UTC",
+  "total_items": 232,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
@@ -27,7 +27,6 @@
     "Dezeen tag lighting",
     "Elle Decor",
     "Family Handyman",
-    "Garden & Home SA",
     "Gardenista",
     "Home Adore",
     "Home Beautiful AU",
@@ -40,8 +39,6 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
-    "Popular Woodworking",
-    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -59,8 +56,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 58,
+  "sources_count": 50,
+  "multi_photo_items": 59,
   "items": [
     {
       "id": "91afde426b10abf4",
@@ -106,7 +103,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=17458",
+        "http://i.archi.ru/i/1262/405309.jpg?r=86721",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -140,6 +137,56 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "ed5cf204b43bbc7f",
+      "title": "No More Boring Backyards: Gardens Started Creating Experiences Instead of Just Lawns",
+      "summary": "Backyards no longer revolve around a patch of grass, a dining table, and shrubs around the fence. Many new garden designs divide the landscape into destinations connected by planting, texture, and movement. Backyards no longer revolve around a patch of grass, a dining table, and shrubs around the fence. Many new garden designs divide the... The post No More Boring Backyards: Gardens Started Creating Experiences Instead of Just Lawns appeared first on Homedit .",
+      "url": "https://www.homedit.com/no-more-boring-backyards-gardens-started-creating-experiences-instead-of-just-lawns/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/No-More-Boring-Backyards-Gardens-Started-Creating-Experiences-Instead-of-Just-Lawns-in-2026.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/No-More-Boring-Backyards-Gardens-Started-Creating-Experiences-Instead-of-Just-Lawns-in-2026.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Natural-Materials-Started-Defining-Garden-Structure.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Water-Features-Started-Looking-Like-Living-Trees.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Black-Cabinets-Turned-This-Basic-Laundry-Nook-Into-a-Built-In-Utility-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Modern-Kitchens-Started-Hiding-Everyday-Clutter-Behind-Better-Design.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Spaces-Are-Trading-Matching-Sets-for-Individual-Pieces.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-08T06:47:32+00:00"
+    },
+    {
+      "id": "6b0109004b623f50",
+      "title": "Saint-Paul-de-Vence : une exposition revient sur les recherches visionnaires de Jean Prouvé",
+      "summary": "Chez Jean Prouvé, architecture et mobilier répondent à une même logique constructive. Présentée à la Fondation CAB jusqu'au 31 octobre prochain, l’exposition « Jean Prouvé. Inventeur de maisons » s'intéresse à cette réflexion avant-gardiste.",
+      "url": "https://www.milkdecoration.com/saint-paul-de-vence-une-exposition-revient-sur-les-recherches-visionnaires-de-jean-prouve/",
+      "image": "https://www.milkdecoration.com/wp-content/uploads/2026/05/jean-prouve-daybed-cite.jpg",
+      "images": [
+        "https://www.milkdecoration.com/wp-content/uploads/2026/05/jean-prouve-daybed-cite.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/05/jean-prouve-aerator.jpg"
+      ],
+      "source": "MilK Decoration",
+      "source_url": "https://www.milkdecoration.com",
+      "published": "2026-07-08T05:00:00+00:00"
+    },
+    {
+      "id": "314bc4e92e45bf5d",
+      "title": "10 guest bathroom decor ideas that create a luxe, welcoming ambience",
+      "summary": "Make your guests feel a million dollars. The post 10 guest bathroom decor ideas that create a luxe, welcoming ambience appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/bathroom-ideas/guest-bathroom-decor-ideas/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2020/11/guest-bathroom-decor-ideas.jpg",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2020/11/guest-bathroom-decor-ideas.jpg",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/byron-bay-beach-house-timber-bathroom.jpg",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/10/hamptons-coastal-style-powder-room-green-wallpaper.jpg",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/02/Brisbane-contemporary-cottage-checkered-hallway.jpg",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/02/Classic-Brisbane-bungalow-bathroom-casement-windows-1.jpg",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2020/11/guest-bathroom-decor-ideas.jpg?w=2730"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-08T04:51:50+00:00"
     },
     {
       "id": "944cca6bafc5c894",
@@ -229,9 +276,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/a-1960s-lounge-chair-that-still-feels-like-a-future-artifact/GUBI_lounge_chair_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/01/draft-lost/lego_ideas_lost_tv_series_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/04/rail/rail_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/01/bio-cement-a-potential-material-that-may-replace-regular-cement/Reef_rocket_biomimicry_01-hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/10/09/noize_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/12/how-ai-will-be-different-at-ces-2026-on-device-processing-and-actual-agentic-productivity/ces_2026_artificial_intelligence_improvements_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2011/05/05/hangoo_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -339,24 +386,12 @@
       "url": "https://www.apartmenttherapy.com/100-year-old-queens-rental-makeover-37562055?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
       "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/madeline-s/tours-newyork-madeline-s-10",
       "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/madeline-s/tours-newyork-madeline-s-10"
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/madeline-s/tours-newyork-madeline-s-10",
+        "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,w_300/at/house%20tours/2022-05/Christine%20H/apartment-therapy-christine-han-house-tour-christine-han-photography-106.jpg"
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-07-07T16:00:00+00:00"
-    },
-    {
-      "id": "5088175a24a80d60",
-      "title": "Woodworking in America: Christina Vincent",
-      "summary": "We’re interviewing makers from across the country. Today we’re featuring Christina Vincent, a designer, furniture maker, and artist from Maine. How did you get started woodworking? Who were your mentors?... Source",
-      "url": "https://www.popularwoodworking.com/interviews/woodworking-in-america-christina-vincent/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/07103754/cmvshop-copy.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/07103754/cmvshop-copy.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-07T15:48:21+00:00"
     },
     {
       "id": "5e3afbab44430871",
@@ -437,19 +472,6 @@
       "published": "2026-07-07T13:00:00+00:00"
     },
     {
-      "id": "eed9db505470e90f",
-      "title": "The Smart Way To Rebuild Your Closet So It Stops Looking Like Storage",
-      "summary": "Our expert says that successfully rebuilding a closet is all about intention, paying attention to aesthetics, and utilizing the right storage additions.",
-      "url": "https://www.hunker.com/2208254/smart-way-rebuild-closet-stop-looking-like-storage/",
-      "image": "https://www.hunker.com/img/gallery/smart-way-rebuild-closet-stop-looking-like-storage/l-intro-1783434996.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/smart-way-rebuild-closet-stop-looking-like-storage/l-intro-1783434996.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-07T13:00:00+00:00"
-    },
-    {
       "id": "a5e93c59cd1d64eb",
       "title": "Kokuyo's Minimal Energy Line Power Strip",
       "summary": "Believe it or not, this is a power strip: It's meant to be an easy-on-the-eyes alternative to power strips. Designed by Japanese office furniture company Kokuyo, the Energy Line clamps to your desktop. The slits running through the face accept up to five two-pronged plugs, anywhere along the slits. As you can see, it won't take grounded (three-prong) plugs; it's meant for laptops and peripherals.",
@@ -521,12 +543,7 @@
       "url": "https://www.homedit.com/matching-patio-furniture-is-giving-way-to-mixed-outdoor-seating/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Spaces-Are-Trading-Matching-Sets-for-Individual-Pieces-in-2026.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Spaces-Are-Trading-Matching-Sets-for-Individual-Pieces-in-2026.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Umbrella-Combines-Shade-and-Casual-Seating.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Mixed-Chair-Styles-Gather-Around-a-Single-Table.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Chair-Collections-Highlight-Growing-Variety.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Rope-Wrapped-Furniture-Introduces-Texture-and-Contrast.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/High-Back-Lounge-Chair-Creates-a-Private-Retreat.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Outdoor-Spaces-Are-Trading-Matching-Sets-for-Individual-Pieces-in-2026.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -650,7 +667,7 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/new-build-queen-slander-bangalow-695b1450389c4-scaled.jpg",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/new-build-queen-slander-bangalow-695b1450389c4-scaled.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/03/amazon-prime-day-sales-2026-australia-price-tracking-6a434b6d9bf01.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2020/11/guest-bathroom-decor-ideas.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/11/Teneal_Zuvela_1.jpg?w=2048",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/bathroom-trends-bathroom-ideas-bathroom-designs-ensuite-luxury-bathroom-4-6a15360e6a1c6.jpg?crop=53px%2C0px%2C1710px%2C1283px&resize=1950%2C1462&format=auto",
@@ -694,7 +711,7 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-genevieve-smart-1-6a4b4ed4ed816.jpg",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-genevieve-smart-1-6a4b4ed4ed816.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/03/amazon-prime-day-sales-2026-australia-price-tracking-6a434b6d9bf01.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2020/11/guest-bathroom-decor-ideas.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-genevieve-smart-1-6a4b4ed4ed816.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/genevieve-smart-at-waverly-mills-via-instagram-6a4b47014b7fe.jpg?w=2048",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
@@ -779,9 +796,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/omnibites-screwless-joint-wants-you-to-build-with-raw-branches/omnibite-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/this-one-mold-stool-just-made-modular-furniture-playful-again/uno-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/05/auto-draft/balkonzept_desk_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/11/26/slate_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/06/this-aint-your-grandmas-papasan-chair/galaktika_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/12/this-graceful-coffee-table-will-make-you-want-to-wrap-yourself-up-in-a-comfy-blanket/cocoon-coffee-table-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/11/03/setu_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -814,19 +831,6 @@
       "published": "2026-07-06T15:38:59+00:00"
     },
     {
-      "id": "5f4910eb8165b216",
-      "title": "ShopNotes Podcast Episode 277 — Iowa Tourism Board Tackles Woodworking",
-      "summary": "Could Iowa be America’s next woodworking destination? In this episode of the ShopNotes Podcast, the crew dreams up the ultimate Iowa woodworking road trip, complete with legendary tool makers, historic... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-277-iowa-tourism-board-tackles-woodworking/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/06112401/screenshot-2026-07-06-at-10.23.42am.png",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/06112401/screenshot-2026-07-06-at-10.23.42am.png"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-06T15:24:28+00:00"
-    },
-    {
       "id": "0e5303c7ab8af113",
       "title": "These Decorative Objects Turn Sideboards Into Statement Pieces",
       "summary": "Sideboards have become display surfaces instead of places reserved only for storage. Large ceramics, layered artwork, decorative lighting, plants, and sculptural accessories now shape the character of the furniture as much as the cabinet itself. Rather than filling every available inch, these arrangements rely on scale, texture, and balance to create displays that feel curated... The post These Decorative Objects Turn Sideboards Into Statement Pieces appeared first on Homedit .",
@@ -856,19 +860,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-07-06T14:01:41+00:00"
-    },
-    {
-      "id": "cc0cda46b39ffd9b",
-      "title": "She Turned a Formal Dining Room Into a Murphy Bed Hidden Inside Custom Built-Ins",
-      "summary": "Formal dining rooms often become some of the least-used spaces in older homes. That was exactly the case in this 100-year-old condo, where one large room offered plenty of square footage but little flexibility beyond accommodating a dining table. Empty walls, minimal storage, and an unused layout left much of the room’s potential untapped. Instead... The post She Turned a Formal Dining Room Into a Murphy Bed Hidden Inside Custom Built-Ins appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-turned-a-formal-dining-room-into-a-murphy-bed-hidden-inside-custom-built-ins/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Turned-a-Formal-Dining-Room-Into-a-Murphy-Bed-Hidden-Inside-Custom-Built-Ins.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Turned-a-Formal-Dining-Room-Into-a-Murphy-Bed-Hidden-Inside-Custom-Built-Ins.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-06T13:00:20+00:00"
     },
     {
       "id": "58d6b58cd8cd9d32",
@@ -961,9 +952,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/gang-studios-flip-chair-was-born-from-a-sheet-of-korean-craft-paper/flip-chair-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/04/ssd_chair_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/380719/The-Arch-Chair-Design.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/5-ways-the-libernovo-omni-dynamic-ergonomic-chair-is-changing-how-we-sit/LiberNovo_Omni_Dynamic_Ergonomic_Chair_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/09/walking-wooden-coffee-table-is-equal-parts-mesmerizing-and-unsettling/carpentopod-walking-coffee-table-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/07/31/hunger_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/01/22/maple_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1005,9 +996,9 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1149,19 +1140,6 @@
       "published": "2026-07-03T17:00:55+00:00"
     },
     {
-      "id": "10e6e444fd72aec1",
-      "title": "The Splinter Report: July 3rd",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at George Washington, eagle carving, and... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-july-3rd/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/03093617/splinter-report-7-3.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/03093617/splinter-report-7-3.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-03T15:08:55+00:00"
-    },
-    {
       "id": "4d09b4c8c420a9f3",
       "title": "First Look: Fairmont Cheshire, The Mere",
       "summary": "Bergman Design House has completed the interiors for Fairmont Cheshire, The Mere, marking the studio’s largest UK hospitality project to […] The post First Look: Fairmont Cheshire, The Mere appeared first on Sleeper .",
@@ -1178,19 +1156,6 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-07-03T11:42:33+00:00"
-    },
-    {
-      "id": "4b8afba61f3ebac6",
-      "title": "Limited closet space? These clothing and shoe storage hacks will help",
-      "summary": "If opening your wardrobe feels like playing a game of Tetris, you’re not alone. Limited closet space is a challenge many of us face. With a few clever storage solutions and a little creative thinking, you can maximise every centimetre of your closet while making it easier to find exactly what you’re looking for. Start […] The post Limited closet space? These clothing and shoe storage hacks will help appeared first on SA Garden and Home .",
-      "url": "https://www.gardenandhome.co.za/decor/limited-closet-space-clothing-shoe-storage-hacks-will-help/",
-      "image": "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/pexels-fotios-photos-37002320-1.jpg",
-      "images": [
-        "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/pexels-fotios-photos-37002320-1.jpg"
-      ],
-      "source": "Garden & Home SA",
-      "source_url": "https://gardenandhome.co.za",
-      "published": "2026-07-03T11:07:48+00:00"
     },
     {
       "id": "bd4bc354f1b9ff02",
@@ -1279,19 +1244,6 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-07-02T20:12:16+00:00"
-    },
-    {
-      "id": "3224703ff730fa9e",
-      "title": "Impossible Dovetails",
-      "summary": "Baffle your friends with perplexing joints Press a dovetailed board into another board with matching sockets, and you’ve created woodworking’s most iconic joint. The dovetails and sockets wedge the boards... Source",
-      "url": "https://www.popularwoodworking.com/techniques/impossible-dovetails/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2020/11/02124633/aw_14362_016_fade-copy.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2020/11/02124633/aw_14362_016_fade-copy.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-02T16:28:19+00:00"
     },
     {
       "id": "25e1c87a1bb2bff0",
@@ -1458,10 +1410,7 @@
       "url": "https://www.milkdecoration.com/minorque-lartiste-rashid-johnson-orchestre-une-exposition-collective-a-la-galerie-hauser-wirth/",
       "image": "https://www.milkdecoration.com/wp-content/uploads/2026/06/hurha146111-sm-260422-hires.jpg",
       "images": [
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/hurha146111-sm-260422-hires.jpg",
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/johnr146207-nb-260616-view04-hires.jpg",
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/lhe-a079449-604024.jpg",
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/rashid-johnson-joshua-woods-05-web-hires.jpg"
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/hurha146111-sm-260422-hires.jpg"
       ],
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
@@ -1583,12 +1532,7 @@
       "url": "https://www.homebeautiful.com.au/bathroom-ideas/bathroom-meets-laundry/",
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/10/beautiful-room-ideas-laundry-bathroom-ideas-carlene-duffy-68f5c9e782da4-scaled.jpg",
       "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/10/beautiful-room-ideas-laundry-bathroom-ideas-carlene-duffy-68f5c9e782da4-scaled.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/03/amazon-prime-day-sales-2026-australia-price-tracking-6a434b6d9bf01.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/06/Dream-Home-Lara-and-Peter-Belrose-laundry.jpg?w=2304",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/bianca-mastroianni-4-6a13b2a689f6b-scaled.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/27676/stylish-laundry-design-ideas.jpg?resize=1950%2C1462"
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/10/beautiful-room-ideas-laundry-bathroom-ideas-carlene-duffy-68f5c9e782da4-scaled.jpg"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1696,8 +1640,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Y1DAdpXt-Zanotta_tavolo-Vertebra2333_IP06.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/MARA_ARENA__SDM-2026__HR__13.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/USM_Showroom_Shanghai_B0018210-HDR.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1870,19 +1814,6 @@
       "published": "2026-06-26T03:40:11+00:00"
     },
     {
-      "id": "496d5f3137bf9927",
-      "title": "8 home decorating trends that officially ended in 2026",
-      "summary": "Elevate your interiors with our take on what’s hot and not for 2026 and beyond. The post 8 home decorating trends that officially ended in 2026 appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/home-ideas/dated-decorating-trends-on-the-way-out/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-whites-69362bfb1b5b5-scaled.jpg",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/05/2026-interior-decorating-trends-dulux-whites-69362bfb1b5b5-scaled.jpg"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-06-26T00:53:18+00:00"
-    },
-    {
       "id": "747c17576a78de30",
       "title": "Influencer Hannah Beaden’s home feels perfectly authentic",
       "summary": "California-born Hannah Beaden’s home is well known to her followers for its instantly recognisable plywood shelving that plays house to… The post Influencer Hannah Beaden’s home feels perfectly authentic appeared first on The Interiors Addict .",
@@ -1894,19 +1825,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-06-25T21:00:00+00:00"
-    },
-    {
-      "id": "97729d8b1bf067d3",
-      "title": "6-Drawer Storage Cabinet",
-      "summary": "Organize your workspace with a handsome six-drawer cabinet. This handsome little cabinet just might solve the universal problem of never having enough drawer space. Small enough to tuck under a... Source",
-      "url": "https://www.popularwoodworking.com/projects/office-cabinet/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-25T16:02:00+00:00"
     },
     {
       "id": "cddba30ab34372c1",
@@ -2956,10 +2874,10 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/03/DIY-Craft-Cabinet.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/08/DIY-Rustic-Modern-Nightstand-by-Shanty2Chic-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
@@ -3245,7 +3163,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag kitchens",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
