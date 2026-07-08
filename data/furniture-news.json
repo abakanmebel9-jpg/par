@@ -1,15 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-08T15:30:49.942149+00:00",
-  "generated_at_human": "2026-07-08 15:30 UTC",
-  "total_items": 233,
+  "generated_at": "2026-07-08T17:49:02.190373+00:00",
+  "generated_at_human": "2026-07-08 17:49 UTC",
+  "total_items": 227,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -51,7 +50,6 @@
     "Trendir furniture",
     "Trendir interiors",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -59,8 +57,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 59,
+  "sources_count": 51,
+  "multi_photo_items": 58,
   "items": [
     {
       "id": "91afde426b10abf4",
@@ -106,7 +104,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=39142",
+        "http://i.archi.ru/i/1262/405309.jpg?r=63268",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -142,6 +140,42 @@
       "published": ""
     },
     {
+      "id": "29e2d10fa7ad87a6",
+      "title": "A Former Fashion Designer Is Opening the Market of Our Dreams in the Berkshires",
+      "summary": "This weekend in Lenox, Massachusetts, Matthew Ames unveils Walker Street Market, an emporium of handmade works from over 70 artisans that includes furniture, art, home goods, and even sculptural brooms.",
+      "url": "https://www.elledecor.com/life-culture/a71858881/walker-street-market-lenox/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/3619a329-c9a1-4b6c-bb14-44c08ee5753c.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/3619a329-c9a1-4b6c-bb14-44c08ee5753c.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/7238f5c0-8ca1-4aed-90b5-e02726797019.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/c956d884-f98a-4a9b-a69c-ccb5c4da8e47.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/fe33ce1e-6f10-49d7-b870-8677f893c012.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/3246e8a6-7bf8-4e80-947a-8316b8f99f61.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/446c8139-ca3c-43e7-b44d-d7d642fcd671.jpeg"
+      ],
+      "source": "Elle Decor",
+      "source_url": "https://www.elledecor.com",
+      "published": "2026-07-08T17:04:17+00:00"
+    },
+    {
+      "id": "db47af1dc5850ec4",
+      "title": "The Corner 99.5% of Wardrobes Ignore Finally Has a Rack for It",
+      "summary": "The Corner 99.5% of Wardrobes Ignore Finally Has a Rack for It The wardrobe is one of those household objects that seems like it has plenty of room until it doesn’t. Most people eventually find themselves pushing...",
+      "url": "https://www.yankodesign.com/2026/07/08/the-corner-99-5-of-wardrobes-ignore-finally-has-a-rack-for-it/?utm_source=rss&utm_medium=rss&utm_campaign=the-corner-99-5-of-wardrobes-ignore-finally-has-a-rack-for-it",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/the-corner-99-5-of-wardrobes-ignore-finally-has-a-rack-for-it/concept-ii-wardrobe-rack-concept-02.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/the-corner-99-5-of-wardrobes-ignore-finally-has-a-rack-for-it/concept-ii-wardrobe-rack-concept-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/04/21/zenbench01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/02/the-boop-chair-looks-inflated-but-its-completely-solid/boop-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/06/the-chair-that-isnt-there/tango_chair_1.jpg"
+      ],
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-08T16:20:59+00:00"
+    },
+    {
       "id": "6ce0e41c0b0851a4",
       "title": "This German habit can make a real difference to indoor air quality in winter",
       "summary": "When winter arrives, and windows stay shut tight for weeks at a time, the air inside a home quietly accumulates what the outside air flushes away: excess carbon dioxide, moisture, volatile organic compounds from cleaning products and furniture, dust and allergens. The air does not smell stale at first. It rarely does. But the effects […] The post This German habit can make a real difference to indoor air quality in winter appeared first on SA Garden and Home .",
@@ -153,6 +187,21 @@
       "source": "Garden & Home SA",
       "source_url": "https://gardenandhome.co.za",
       "published": "2026-07-08T15:00:57+00:00"
+    },
+    {
+      "id": "7c3fb40c702b9a85",
+      "title": "The Versatile IKEA Organizer That Declutters Kitchen Countertops In An Instant",
+      "summary": "Kitchen counters are a hub of activity in many houses, and can quickly get cluttered. This two-tiered IKEA storage option is versatile and customizable.",
+      "url": "https://www.hunker.com/2207897/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/",
+      "image": "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/l-intro-1783344821.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/l-intro-1783344821.jpg",
+        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/intro-1783344821.jpg",
+        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/the-two-tier-kanelmott-basket-offers-versatile-storage-1783344822.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-08T15:00:00+00:00"
     },
     {
       "id": "3493b70e08d7c36e",
@@ -303,21 +352,21 @@
       "published": "2026-07-08T06:47:32+00:00"
     },
     {
-      "id": "bf91531c3acb6524",
-      "title": "Movement as a Design Principle for Workplace Seating",
-      "summary": "For decades, professionals have accepted an uncomfortable reality: hours spent at a desk often result in stiff backs, constant shifting, and creeping mental fatigue. While conventional ergonomic seating has sought to improve comfort through adjustable mechanisms, it has largely continued to assume that effective sitting depends on maintaining a stable posture. Growing understanding of the relationship between movement, physical well-being, and cognitive performance suggests a different approach, one in which motion becomes an integral part of the seating experience rather than something to…",
-      "url": "https://www.archdaily.com/1042755/movement-as-a-design-principle-for-workplace-seating",
-      "image": "https://images.adsttc.com/media/images/6a3c/e51c/3e62/7a01/88a6/1e9c/large_jpg/movement-as-a-design-principle-for-workplace-seating_15.jpg?1782375776",
+      "id": "43d977b3159fae52",
+      "title": "Timber Studio / Koichi Takada Architects",
+      "summary": "Located less than one kilometre from Shibuya Crossing, Timber Studio is a five-storey commercial building conceived as a creative oasis within one of Tokyo's most energetic urban neighbourhoods. Designed for an international technology client, the studio provides emerging creatives with a place to learn, collaborate and bring ideas to life through access to advanced technology and shared spaces.",
+      "url": "https://www.archdaily.com/1092329/timber-studio-koichi-takada-architects",
+      "image": "https://images.adsttc.com/media/images/6a4e/6765/5d2a/a935/af1f/5993/large_jpg/timber-studio-koichi-takada-architects_1.jpg?1783523196",
       "images": [
-        "https://images.adsttc.com/media/images/6a3c/e51c/3e62/7a01/88a6/1e9c/large_jpg/movement-as-a-design-principle-for-workplace-seating_15.jpg?1782375776",
-        "https://images.adsttc.com/media/images/6a3c/e209/ddd9/3801/8a4a/40c2/large_jpg/movement-as-a-design-principle-for-workplace-seating_13.jpg?1782375031",
-        "https://images.adsttc.com/media/images/6a3c/e20f/ddd9/3801/8a4a/40c7/large_jpg/movement-as-a-design-principle-for-workplace-seating_6.jpg?1782375046",
-        "https://images.adsttc.com/media/images/6a3c/e213/ddd9/3801/8a4a/40cb/large_jpg/movement-as-a-design-principle-for-workplace-seating_19.jpg?1782375044",
-        "https://images.adsttc.com/media/images/6a3c/e213/3e62/7a01/88a6/1e7b/large_jpg/movement-as-a-design-principle-for-workplace-seating_21.jpg?1782374990"
+        "https://images.adsttc.com/media/images/6a4e/6765/5d2a/a935/af1f/5993/large_jpg/timber-studio-koichi-takada-architects_1.jpg?1783523196",
+        "https://images.adsttc.com/media/images/6a4e/675b/66eb/7b48/7e9f/b369/large_jpg/timber-studio-koichi-takada-architects_3.jpg?1783523184",
+        "https://images.adsttc.com/media/images/6a4e/675f/66eb/7b48/7e9f/b36b/large_jpg/timber-studio-koichi-takada-architects_7.jpg?1783523190",
+        "https://images.adsttc.com/media/images/6a4e/6763/948e/de2c/6675/4a4c/large_jpg/timber-studio-koichi-takada-architects_10.jpg?1783523193",
+        "https://images.adsttc.com/media/images/6a4e/675b/5d2a/a935/af1f/5990/large_jpg/timber-studio-koichi-takada-architects_5.jpg?1783523193"
       ],
       "source": "ArchDaily",
       "source_url": "https://www.archdaily.com",
-      "published": "2026-07-08T06:45:00+00:00"
+      "published": "2026-07-08T06:30:24+00:00"
     },
     {
       "id": "6b0109004b623f50",
@@ -350,23 +399,6 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-07-08T04:51:50+00:00"
-    },
-    {
-      "id": "4ebd1c96178c5a74",
-      "title": "The Inheritance Problem: Urban Planning and Community Engagement in U.S. Cities",
-      "summary": "Urban planning is often confused with adjacent disciplines: urban design, environmental policy, civic strategy, local politics, and data analytics. Truthfully, the overlap makes the field difficult to define clearly. In practice, it is often easier to recognize bad planning than to articulate what good planning is. When planning works well, it disappears. It removes friction from daily life so completely that people rarely think to credit a planner at all. At its core, urban planning is the relationship people have with their environments , and when that relationship is functioning, the…",
-      "url": "https://www.archdaily.com/1042911/the-inheritance-problem-urban-planning-and-community-engagement-in-us-cities",
-      "image": "https://images.adsttc.com/media/images/6a44/14e3/8481/2b01/8af5/19e5/large_jpg/the-inheritance-problem-state-of-urban-planning-in-american-cities_1.jpg?1782846697",
-      "images": [
-        "https://images.adsttc.com/media/images/6a44/14e3/8481/2b01/8af5/19e5/large_jpg/the-inheritance-problem-state-of-urban-planning-in-american-cities_1.jpg?1782846697",
-        "https://images.adsttc.com/media/images/6a44/14ab/8481/2b01/8af5/19e1/large_jpg/the-inheritance-problem-state-of-urban-planning-in-american-cities_2.jpg?1782846643",
-        "https://images.adsttc.com/media/images/6a44/1480/8481/2b01/8af5/19df/large_jpg/the-inheritance-problem-state-of-urban-planning-in-american-cities_2.jpg?1782846624",
-        "https://images.adsttc.com/media/images/6a44/14e3/8481/2b22/5077/6703/large_jpg/the-inheritance-problem-state-of-urban-planning-in-american-cities_3.jpg?1782846696",
-        "https://images.adsttc.com/media/images/6a44/147f/8481/2b22/5077/6702/large_jpg/the-inheritance-problem-state-of-urban-planning-in-american-cities_1.jpg?1782846603"
-      ],
-      "source": "ArchDaily",
-      "source_url": "https://www.archdaily.com",
-      "published": "2026-07-08T04:00:00+00:00"
     },
     {
       "id": "944cca6bafc5c894",
@@ -456,9 +488,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/a-1960s-lounge-chair-that-still-feels-like-a-future-artifact/GUBI_lounge_chair_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/fold_lamp_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/smart_headboard_with_air_purification_system_eliminates_all_contaminants_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/09/ultra-portable-wind-turbine-generator-lets-you-fast-charge-your-devices-anywhere-with-green-energy/Shine_2_0_Fast_Charge_Your_Devices_with_Wind_Power_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/oleg_virus_furniture_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/01/auto-draft/hable_one_braille_keyboard_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/08/28/phalanx_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -525,9 +557,7 @@
       "url": "https://www.hunker.com/2208738/does-laundry-detergent-disinfect-clothes-kill-bacteria/",
       "image": "https://www.hunker.com/img/gallery/most-laundry-detergents-arent-actually-disinfecting-your-clothes/l-intro-1783354505.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/most-laundry-detergents-arent-actually-disinfecting-your-clothes/l-intro-1783354505.jpg",
-        "https://www.hunker.com/img/gallery/most-laundry-detergents-arent-actually-disinfecting-your-clothes/intro-1783354505.jpg",
-        "https://www.hunker.com/img/gallery/most-laundry-detergents-arent-actually-disinfecting-your-clothes/getting-rid-of-as-many-germs-from-your-clothing-as-possible-1783354507.jpg"
+        "https://www.hunker.com/img/gallery/most-laundry-detergents-arent-actually-disinfecting-your-clothes/l-intro-1783354505.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -599,23 +629,6 @@
       "published": "2026-07-07T15:00:05+00:00"
     },
     {
-      "id": "c7fa50b92ea1345f",
-      "title": "Casa Co / Aagnes studio + JDEstudio",
-      "summary": "Casa CO, designed by JDEstudio with interiors by Aagnes Studio, is conceived around the pursuit of beauty as a fundamental architectural principle. Rather than treating beauty as a purely aesthetic quality, the project explores it as an organizing force: one that shapes space, materiality, and experience, allowing architecture to become a vessel for reason, spirit, and the sublime.",
-      "url": "https://www.archdaily.com/1042991/casa-co",
-      "image": "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91a/large_jpg/_DSC7818.jpg?1783061104",
-      "images": [
-        "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91a/large_jpg/_DSC7818.jpg?1783061104",
-        "https://images.adsttc.com/media/images/6a47/597b/b477/e200/0107/a92b/large_jpg/JDE_19008_EC3_RP_006.jpg?1783060967",
-        "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a913/large_jpg/_DSC2755.jpg?1783060900",
-        "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a91c/large_jpg/_DSC7869.jpg?1783060914",
-        "https://images.adsttc.com/media/images/6a47/597a/b477/e200/0107/a919/large_jpg/_DSC7764.jpg?1783061059"
-      ],
-      "source": "ArchDaily",
-      "source_url": "https://www.archdaily.com",
-      "published": "2026-07-07T15:00:00+00:00"
-    },
-    {
       "id": "0db544d6452be7f0",
       "title": "Modern Kitchens Started Hiding Everyday Clutter Behind Better Design",
       "summary": "Modern kitchens no longer depend on displaying every appliance, utensil, or storage shelf. More designers are concealing everyday functions behind flush cabinetry, appliance walls, pocket doors, integrated lighting, and uninterrupted stone surfaces. The result feels calmer, even though these kitchens often contain more storage than traditional layouts. These kitchens show how hidden pantries, furniture-style islands,... The post Modern Kitchens Started Hiding Everyday Clutter Behind Better Design appeared first on Homedit .",
@@ -627,19 +640,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-07T13:06:19+00:00"
-    },
-    {
-      "id": "bbd5f6efe4993e87",
-      "title": "Ouriques House / Ultra Arquitetura",
-      "summary": "Transforming an existing residence into a contemporary ensemble, the project expands its spaces, integrates architecture, interiors, and landscape, and bestows a new identity upon the house without losing its essence. The proposal is premised on the client's request for a complete renovation of the existing home, significantly expanding the built areas and modernizing the spaces to breathe new life into the house.",
-      "url": "https://www.archdaily.com/1054038/ouriques-house-ultra-arquitetura",
-      "image": "https://images.adsttc.com/media/images/6a4b/baba/062b/6500/019a/ab8b/large_jpg/NOV_CASA_OURIQUES_ULTRA_ARQ-DSC00915__2.jpg?1783348575",
-      "images": [
-        "https://images.adsttc.com/media/images/6a4b/baba/062b/6500/019a/ab8b/large_jpg/NOV_CASA_OURIQUES_ULTRA_ARQ-DSC00915__2.jpg?1783348575"
-      ],
-      "source": "ArchDaily",
-      "source_url": "https://www.archdaily.com",
-      "published": "2026-07-07T13:00:00+00:00"
     },
     {
       "id": "a5e93c59cd1d64eb",
@@ -814,19 +814,6 @@
       "published": "2026-07-07T01:20:25+00:00"
     },
     {
-      "id": "15d1b501d09c7863",
-      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
-      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-06T23:25:23+00:00"
-    },
-    {
       "id": "b1e95b23af2c7cc4",
       "title": "From Zimmermann to Ginger & Smart: Inside Genevieve Smart’s creative world",
       "summary": "Now airline uniforms and hotel wardrobes PLUS the design details behind her new collaboration. The post From Zimmermann to Ginger & Smart: Inside Genevieve Smart’s creative world appeared first on Home Beautiful .",
@@ -897,19 +884,6 @@
       "published": "2026-07-06T17:31:49+00:00"
     },
     {
-      "id": "d5d4859659f7cd03",
-      "title": "How The Vale brought architectural ambition to Formula 1 hospitality at Silverstone",
-      "summary": "Designed around movement, The Vale placed Michelin-starred food, art installations and premium views directly against the British Grand Prix circuit",
-      "url": "https://www.wallpaper.com/travel/the-vale-silverstone-british-grand-prix-interior-design",
-      "image": "https://cdn.mos.cms.futurecdn.net/56LKJoZkFT94ZWwiJH7s86.png",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/56LKJoZkFT94ZWwiJH7s86.png"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-07-06T16:54:19+00:00"
-    },
-    {
       "id": "5f51bed63fb67026",
       "title": "Omnibite’s Screwless Joint Wants You to Build With Raw Branches",
       "summary": "Omnibite’s Screwless Joint Wants You to Build With Raw Branches Most design projects start with the finished object. You picture a chair, sketch it out, source the materials, and figure out how to put it...",
@@ -919,9 +893,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/omnibites-screwless-joint-wants-you-to-build-with-raw-branches/omnibite-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/yd_sofa_designs_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/ash-furniture/goldfinch_ash_furniture_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/402966/Herman-Miller-x-Logitech-G-Vantum-Gaming-Chair-12.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/12/10/equilino_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/10/this-abstract-clock-completely-redefines-how-we-tell-time/O-Clock_2.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/this-lucky-four-leaf-stool-transforms-into-whatever-you-need/clover-08.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1013,7 +987,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_MARA__AERA_04_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_MARA__OTTO__Christophe-Pillet__03_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_©MARA__ARGO-LIBRO__LIMITED-EDITION_LR_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Y1DAdpXt-Zanotta_tavolo-Vertebra2333_IP06.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1072,12 +1046,7 @@
       "url": "https://www.yankodesign.com/2026/07/05/gang-studios-flip-chair-was-born-from-a-sheet-of-korean-craft-paper/?utm_source=rss&utm_medium=rss&utm_campaign=gang-studios-flip-chair-was-born-from-a-sheet-of-korean-craft-paper",
       "image": "https://www.yankodesign.com/images/design_news/2026/07/gang-studios-flip-chair-was-born-from-a-sheet-of-korean-craft-paper/flip-chair-05.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/gang-studios-flip-chair-was-born-from-a-sheet-of-korean-craft-paper/flip-chair-05.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/11/this-cute-chair-transforms-waste-into-beauty-using-recycled-plastic-bottles/xox-chair-4.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/playground-inspired-chair-concept-brings-memories-and-playful-design-to-modern-spaces/moopi-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/auto-draft/ivation_ez_bed_7.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/gang-studios-flip-chair-was-born-from-a-sheet-of-korean-craft-paper/flip-chair-05.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1106,9 +1075,9 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1369,19 +1338,6 @@
       "published": "2026-07-02T14:00:00+00:00"
     },
     {
-      "id": "e8a571576f0b815b",
-      "title": "High teak prices push buyers to alternatives",
-      "summary": "Teak remains a sought-after hardwood, but its high cost, around $80 per board foot, is driving customers towards more affordable alternatives like mahogany, sapele, and iroko. These alternatives, priced at $18-$20 per board foot, are often chosen for marine projects and moisture-prone applications, with teak sales being limited and low-volume. The post High teak prices push buyers to alternatives appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/high-teak-prices-push-buyers-to-alternatives",
-      "image": "https://www.woodshopnews.com/uploads/MTg5MDM2NTQ2NTcyMTY2NjEy/teak.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/MTg5MDM2NTQ2NTcyMTY2NjEy/teak.jpg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-07-02T14:00:00+00:00"
-    },
-    {
       "id": "187dadc17df87956",
       "title": "Inside a Kitchen Makeover That Proves Green Really Is a Neutral",
       "summary": "This outdated kitchen was made over with green cabinets and natural materials, which celebrates its woodsy environment outside.",
@@ -1636,19 +1592,6 @@
       "published": "2026-06-29T20:00:41+00:00"
     },
     {
-      "id": "7a5f6f2ae8ef6774",
-      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
-      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-06-29T13:00:00+00:00"
-    },
-    {
       "id": "e69d68ed29184525",
       "title": "Kitchens by Cabbonet",
       "summary": "Dezeen Showroom: bespoke kitchens crafted with deluxe materials are the speciality of British brand Cabbonet, founded by designer Andrew Hays. The creative vision for Cabbonet's kitchens is devised by Arteim, Hays' studio started with Kimm Kovac, and are known for their sense of depth, luxuriousness and drama – features that are rooted in the founders' The post Kitchens by Cabbonet appeared first on Dezeen .",
@@ -1698,8 +1641,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Y1DAdpXt-Zanotta_tavolo-Vertebra2333_IP06.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/USM_Showroom_Shanghai_B0018210-HDR.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/MARA_ARENA__SDM-2026__HR__13.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1787,19 +1730,6 @@
       "source": "DM tag furniture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-26T18:00:38+00:00"
-    },
-    {
-      "id": "8b945f5dfdd89ba1",
-      "title": "IKEA Just Built 18 World Cup Flags Out of Furniture",
-      "summary": "IKEA Just Built 18 World Cup Flags Out of Furniture Every few years, the FIFA World Cup does what few things can: it makes the whole planet pay attention to the same thing at the...",
-      "url": "https://www.yankodesign.com/2026/06/26/ikea-just-built-18-world-cup-flags-out-of-furniture/?utm_source=rss&utm_medium=rss&utm_campaign=ikea-just-built-18-world-cup-flags-out-of-furniture",
-      "image": "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/06/ikea-just-built-18-world-cup-flags-out-of-furniture/ikea-011.jpg"
-      ],
-      "source": "Yanko Design furniture",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-06-26T13:20:40+00:00"
     },
     {
       "id": "c06d2e4452bd2f97",
@@ -2532,7 +2462,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2894,7 +2824,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2906,11 +2836,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Wood-Bed-copy.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/how-to-build-a-round-table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/11/DIY-Turned-Leg-Dining-Table-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2925,7 +2855,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3104,7 +3034,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3221,7 +3151,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3328,19 +3258,6 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
-    },
-    {
-      "id": "d2ebf1c95182cff8",
-      "title": "Custom Built-In Desk, Huge Transformation",
-      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
