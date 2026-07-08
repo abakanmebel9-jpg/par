@@ -1,14 +1,15 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-08T17:49:02.190373+00:00",
-  "generated_at_human": "2026-07-08 17:49 UTC",
-  "total_items": 227,
+  "generated_at": "2026-07-08T19:49:58.056887+00:00",
+  "generated_at_human": "2026-07-08 19:49 UTC",
+  "total_items": 229,
   "sources_used": [
     "Apartment Therapy",
     "ArchDaily",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -50,6 +51,7 @@
     "Trendir furniture",
     "Trendir interiors",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -57,8 +59,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
-  "multi_photo_items": 58,
+  "sources_count": 53,
+  "multi_photo_items": 59,
   "items": [
     {
       "id": "91afde426b10abf4",
@@ -104,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/503694.jpg",
       "images": [
         "https://i.archi.ru/i/1262/503694.jpg",
-        "http://i.archi.ru/i/1262/405309.jpg?r=63268",
+        "http://i.archi.ru/i/1262/405309.jpg?r=51165",
         "http://i.archi.ru/i/1262/503403.jpg",
         "http://i.archi.ru/i/1262/503410.jpg",
         "http://i.archi.ru/i/1262/503405.jpg"
@@ -140,6 +142,19 @@
       "published": ""
     },
     {
+      "id": "e4541bbb7cd7dd42",
+      "title": "SCM at IWF: Advanced Technology, Automation and a Stronger North American Organization to Support Customer Growth",
+      "summary": "SCM will showcase a comprehensive range of woodworking technologies, automation solutions, and digital services at IWF 2026. Highlights include the Lean Cell, a high-speed nesting solution, and the Accord 500 Edge, a CNC machining center. SCM will also participate in the Mass Timber & Pre-Fab Showcase, highlighting its expertise in supporting the mass timber construction sector. The post SCM at IWF: Advanced Technology, Automation and a Stronger North American Organization to Support Customer Growth appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/scm-at-iwf-advanced-technology-automation-and-a-stronger-north-american-organization-to-support-customer-growth",
+      "image": "https://www.woodshopnews.com/uploads/2026/07/SCM-Lean-Cell.jpeg",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/07/SCM-Lean-Cell.jpeg"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-07-08T17:55:00+00:00"
+    },
+    {
       "id": "29e2d10fa7ad87a6",
       "title": "A Former Fashion Designer Is Opening the Market of Our Dreams in the Berkshires",
       "summary": "This weekend in Lenox, Massachusetts, Matthew Ames unveils Walker Street Market, an emporium of handmade works from over 70 artisans that includes furniture, art, home goods, and even sculptural brooms.",
@@ -150,8 +165,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/7238f5c0-8ca1-4aed-90b5-e02726797019.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/c956d884-f98a-4a9b-a69c-ccb5c4da8e47.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/fe33ce1e-6f10-49d7-b870-8677f893c012.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/3246e8a6-7bf8-4e80-947a-8316b8f99f61.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/446c8139-ca3c-43e7-b44d-d7d642fcd671.jpeg"
+        "https://hips.hearstapps.com/hmg-prod/images/91164b8f-2bf0-4195-9c90-ced98d46d990.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/3246e8a6-7bf8-4e80-947a-8316b8f99f61.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -167,9 +182,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-corner-99-5-of-wardrobes-ignore-finally-has-a-rack-for-it/concept-ii-wardrobe-rack-concept-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/04/21/zenbench01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/the-boop-chair-looks-inflated-but-its-completely-solid/boop-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/06/the-chair-that-isnt-there/tango_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/12/21/wall_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/01/this-sustainable-furniture-set-is-minimal-modern-and-made-from-manufacturing-waste/04-Dot_Collection_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/edc-designs-of-july/8_best_edc_july_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -196,8 +211,8 @@
       "image": "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/l-intro-1783344821.jpg",
       "images": [
         "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/l-intro-1783344821.jpg",
-        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/intro-1783344821.jpg",
-        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/the-two-tier-kanelmott-basket-offers-versatile-storage-1783344822.jpg"
+        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/intro-1783540130.jpg",
+        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/the-two-tier-kanelmott-basket-offers-versatile-storage-1783540131.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -352,17 +367,34 @@
       "published": "2026-07-08T06:47:32+00:00"
     },
     {
-      "id": "43d977b3159fae52",
-      "title": "Timber Studio / Koichi Takada Architects",
-      "summary": "Located less than one kilometre from Shibuya Crossing, Timber Studio is a five-storey commercial building conceived as a creative oasis within one of Tokyo's most energetic urban neighbourhoods. Designed for an international technology client, the studio provides emerging creatives with a place to learn, collaborate and bring ideas to life through access to advanced technology and shared spaces.",
-      "url": "https://www.archdaily.com/1092329/timber-studio-koichi-takada-architects",
-      "image": "https://images.adsttc.com/media/images/6a4e/6765/5d2a/a935/af1f/5993/large_jpg/timber-studio-koichi-takada-architects_1.jpg?1783523196",
+      "id": "2509e441d45e7d93",
+      "title": "Renovation of Shell Theatre in Beijing Chaoyang Park / DUTS design",
+      "summary": "Nestled on the three-sided lakefront central island of Beijing's Chaoyang Park, the 2008 Olympic-era outdoor Shell Theatre has completed its renewal by DUTS design. Aligned with the Liangma River cultural waterfront masterplan, the project adopts a low-intervention \"10% interface renewal\" strategy, eschewing full demolition to redefine the symbiosis between performance venue, public park and waterfront landscape.",
+      "url": "https://www.archdaily.com/1042980/renovation-of-shell-theatre-in-beijing-chaoyang-park-duts-design",
+      "image": "https://images.adsttc.com/media/images/6a46/f9de/b477/e200/0107/a8a5/large_jpg/012______Shan-jian_images.jpg?1783036434",
       "images": [
-        "https://images.adsttc.com/media/images/6a4e/6765/5d2a/a935/af1f/5993/large_jpg/timber-studio-koichi-takada-architects_1.jpg?1783523196",
-        "https://images.adsttc.com/media/images/6a4e/675b/66eb/7b48/7e9f/b369/large_jpg/timber-studio-koichi-takada-architects_3.jpg?1783523184",
-        "https://images.adsttc.com/media/images/6a4e/675f/66eb/7b48/7e9f/b36b/large_jpg/timber-studio-koichi-takada-architects_7.jpg?1783523190",
-        "https://images.adsttc.com/media/images/6a4e/6763/948e/de2c/6675/4a4c/large_jpg/timber-studio-koichi-takada-architects_10.jpg?1783523193",
-        "https://images.adsttc.com/media/images/6a4e/675b/5d2a/a935/af1f/5990/large_jpg/timber-studio-koichi-takada-architects_5.jpg?1783523193"
+        "https://images.adsttc.com/media/images/6a46/f9de/b477/e200/0107/a8a5/large_jpg/012______Shan-jian_images.jpg?1783036434",
+        "https://images.adsttc.com/media/images/6a46/f9dd/b477/e200/0107/a899/large_jpg/001______Shan-jian_images.jpg?1783036419",
+        "https://images.adsttc.com/media/images/6a46/f9dd/b477/e200/0107/a89b/large_jpg/002______Shan-jian_images.jpg?1783036401",
+        "https://images.adsttc.com/media/images/6a46/f9de/b477/e200/0107/a8a7/large_jpg/014_______Shan-jian_images.jpg?1783036447",
+        "https://images.adsttc.com/media/images/6a46/f9de/b477/e200/0107/a8b0/large_jpg/016_______Shan-jian_images.jpg?1783036475"
+      ],
+      "source": "ArchDaily",
+      "source_url": "https://www.archdaily.com",
+      "published": "2026-07-08T06:30:24+00:00"
+    },
+    {
+      "id": "9ecb6a005bc4da79",
+      "title": "House Tenjin / atelier yoo",
+      "summary": "House Tenjin is located in Tenjinmae-cho, Shimogyo Ward, Kyoto , Japan. Operated by the hotel brand Keiyuugyo, the building was originally a timber machiya townhouse constructed in the early Showa period. In this renovation, we took the spatial typology of the machiya as a guiding framework, clarified the house's structural logic, and reorganized its spatial composition. Through a restrained architectural language, the project reweaves its functions, spaces, and living experience.",
+      "url": "https://www.archdaily.com/1042853/house-tenjin-atelier-yoo",
+      "image": "https://images.adsttc.com/media/images/6a42/a611/0789/c600/018c/26ae/large_jpg/japanese_room_towards_garden.jpg?1782752870",
+      "images": [
+        "https://images.adsttc.com/media/images/6a42/a611/0789/c600/018c/26ae/large_jpg/japanese_room_towards_garden.jpg?1782752870",
+        "https://images.adsttc.com/media/images/6a42/a60e/0789/c600/018c/2696/large_jpg/elevation2.jpg?1782752799",
+        "https://images.adsttc.com/media/images/6a42/a611/0789/c600/018c/26af/large_jpg/kitchen_and_dining1.jpg?1782752860",
+        "https://images.adsttc.com/media/images/6a42/a60f/0789/c600/018c/269c/large_jpg/2F_lounge2.jpg?1782752825",
+        "https://images.adsttc.com/media/images/6a42/a610/0789/c600/018c/269e/large_jpg/2F_room_towards_lounge.jpg?1782752825"
       ],
       "source": "ArchDaily",
       "source_url": "https://www.archdaily.com",
@@ -417,19 +449,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-08T02:13:59+00:00"
-    },
-    {
-      "id": "51fcd20166e658f4",
-      "title": "Google, Amazon, and Sonos All Redesigned Their Smart Speakers, Except Apple",
-      "summary": "Google, Amazon, and Sonos All Redesigned Their Smart Speakers, Except Apple Between 2017 and 2021, Amazon’s devices division burned through over $25 billion, with Alexa and Echo hardware at the center of almost every bad quarter....",
-      "url": "https://www.yankodesign.com/2026/07/07/google-amazon-and-sonos-all-redesigned-their-smart-speakers-except-apple/?utm_source=rss&utm_medium=rss&utm_campaign=google-amazon-and-sonos-all-redesigned-their-smart-speakers-except-apple",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/google-amazon-and-sonos-all-redesigned-their-smart-speakers-except-apple/google_sonos_apple_speakers_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/google-amazon-and-sonos-all-redesigned-their-smart-speakers-except-apple/google_sonos_apple_speakers_1.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-08T00:30:33+00:00"
     },
     {
       "id": "cba545e2381f2ca7",
@@ -549,19 +568,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-07T18:00:25+00:00"
-    },
-    {
-      "id": "2f9df7cd2a959345",
-      "title": "Most Laundry Detergents Aren't Actually Disinfecting Your Clothes",
-      "summary": "It's important to understand cleaning vs. disinfecting laundry, as a particularly bad virus, for instance, may still remain on your freshly laundered clothes.",
-      "url": "https://www.hunker.com/2208738/does-laundry-detergent-disinfect-clothes-kill-bacteria/",
-      "image": "https://www.hunker.com/img/gallery/most-laundry-detergents-arent-actually-disinfecting-your-clothes/l-intro-1783354505.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/most-laundry-detergents-arent-actually-disinfecting-your-clothes/l-intro-1783354505.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-07T18:00:00+00:00"
     },
     {
       "id": "d348ad4b8b6461d5",
@@ -814,6 +820,19 @@
       "published": "2026-07-07T01:20:25+00:00"
     },
     {
+      "id": "15d1b501d09c7863",
+      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
+      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-06T23:25:23+00:00"
+    },
+    {
       "id": "b1e95b23af2c7cc4",
       "title": "From Zimmermann to Ginger & Smart: Inside Genevieve Smart’s creative world",
       "summary": "Now airline uniforms and hotel wardrobes PLUS the design details behind her new collaboration. The post From Zimmermann to Ginger & Smart: Inside Genevieve Smart’s creative world appeared first on Home Beautiful .",
@@ -893,9 +912,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/omnibites-screwless-joint-wants-you-to-build-with-raw-branches/omnibite-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/12/10/equilino_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/10/this-abstract-clock-completely-redefines-how-we-tell-time/O-Clock_2.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/this-lucky-four-leaf-stool-transforms-into-whatever-you-need/clover-08.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/03/desertscape-coffee-table-blends-harshness-and-gentleness-in-beautiful-harmony/desertscape-coffee-table-06.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/wasted-collection-by-max-lamb-for-potato-head-brings-bold-sustainable-design/wasted-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/04/ilhoon/ilhoon_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1152,19 +1171,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-04T15:00:45+00:00"
-    },
-    {
-      "id": "4f376f01b8fb2234",
-      "title": "Ricardo Leal perches hempcrete chicken coop alongside Portuguese home",
-      "summary": "Hempcrete and timber were used to create this compact chicken coop in Portugal, designed by local architect Ricardo Leal to demonstrate that \"even the most modest structures deserve careful thought\". Named Pestana Chicken Coop, the structure is perched atop timber columns on a gently sloping site in São Pedro do Sul and provides a sleeping The post Ricardo Leal perches hempcrete chicken coop alongside Portuguese home appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/04/ricardo-leal-pestana-chicken-coop/",
-      "image": "http://static.dezeen.com/uploads/2026/06/pestana-chicken-coop-ricardo-leal-architecture-birds-animals-hempcrete-timber-wood_dezeen_2364_sq-1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/pestana-chicken-coop-ricardo-leal-architecture-birds-animals-hempcrete-timber-wood_dezeen_2364_sq-1.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-04T10:00:56+00:00"
     },
     {
       "id": "a68bcaa86f7f3707",
@@ -1590,6 +1596,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T20:00:41+00:00"
+    },
+    {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
     },
     {
       "id": "e69d68ed29184525",
@@ -2462,7 +2481,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2824,7 +2843,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2836,8 +2855,8 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/how-to-build-a-round-table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/11/DIY-Turned-Leg-Dining-Table-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/07/How-to-build-a-nighstand-with-a-drawer.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/DIY-Dry-Erase-Board.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
@@ -2855,7 +2874,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3034,7 +3053,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3151,7 +3170,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
@@ -3258,6 +3277,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
