@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-09T18:57:27.853444+00:00",
-  "generated_at_human": "2026-07-09 18:57 UTC",
-  "total_items": 237,
+  "generated_at": "2026-07-09T20:54:44.419394+00:00",
+  "generated_at_human": "2026-07-09 20:54 UTC",
+  "total_items": 233,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -37,7 +37,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -60,8 +59,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 56,
+  "sources_count": 53,
+  "multi_photo_items": 58,
   "items": [
     {
       "id": "4528daec33993603",
@@ -71,8 +70,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=72954",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=23403",
+        "https://i.archi.ru/i/1262/310555.jpg?r=75581",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=90508",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -89,7 +88,7 @@
       "image": "https://i.archi.ru/i/1262/507363.jpg",
       "images": [
         "https://i.archi.ru/i/1262/507363.jpg",
-        "http://i.archi.ru/i/1262/306723.jpg?r=7977",
+        "http://i.archi.ru/i/1262/306723.jpg?r=70455",
         "http://i.archi.ru/i/1262/507366.jpg",
         "http://i.archi.ru/i/1262/507364.jpg",
         "http://i.archi.ru/i/1262/507362.jpg",
@@ -170,6 +169,39 @@
       "published": ""
     },
     {
+      "id": "e6a498d4b99e4a0b",
+      "title": "Studio Varey Gives a Victorian London Flat Gallery-Like Calm",
+      "summary": "A Marylebone pied-à-terre makes room for art, enhanced light, and a barely-there kitchen that almost never was.",
+      "url": "https://design-milk.com/studio-varey-moraine-house-london-flat-renovation/",
+      "image": "https://design-milk.com/images/2026/07/Design-Milk-VAREY-Moraine-House-7.jpeg",
+      "images": [
+        "https://design-milk.com/images/2026/07/Design-Milk-VAREY-Moraine-House-7.jpeg",
+        "https://design-milk.com/images/2026/07/Design-Milk-VAREY-Moraine-House-8.jpeg",
+        "https://design-milk.com/images/2026/07/Design-Milk-VAREY-Moraine-House-12.jpeg",
+        "https://design-milk.com/images/2026/07/Design-Milk-VAREY-Moraine-House-5.jpeg",
+        "https://design-milk.com/images/2026/07/Design-Milk-VAREY-Moraine-House-13.jpeg",
+        "https://design-milk.com/images/2026/07/Design-Milk-Studio-Varey_Montagu-Mansions_web-22.jpeg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-07-09T19:00:23+00:00"
+    },
+    {
+      "id": "fe66626536ab3b73",
+      "title": "Ditch Regular WD-40: There's A Smarter Way To Fix Your Squeaky Door Hinge",
+      "summary": "The main purpose of WD-40 isn't ideal for squeaky doors, but this alternative works because it enables hinges to slide easily by preventing friction.",
+      "url": "https://www.hunker.com/2209431/fix-squeaky-door-hinge-ditch-wd-40-silicone-spray/",
+      "image": "https://www.hunker.com/img/gallery/ditch-regular-wd-40-theres-a-smarter-way-to-fix-your-squeaky-door-hinge/l-intro-1783430114.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-regular-wd-40-theres-a-smarter-way-to-fix-your-squeaky-door-hinge/l-intro-1783430114.jpg",
+        "https://www.hunker.com/img/gallery/ditch-regular-wd-40-theres-a-smarter-way-to-fix-your-squeaky-door-hinge/intro-1783430114.jpg",
+        "https://www.hunker.com/img/gallery/ditch-regular-wd-40-theres-a-smarter-way-to-fix-your-squeaky-door-hinge/how-to-stop-squeaks-for-good-1783430116.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-09T19:00:00+00:00"
+    },
+    {
       "id": "8d3c2f99b1f10b02",
       "title": "Dezeen Agenda features Theodore Roosevelt Presidential Library by Snøhetta",
       "summary": "The latest edition of our weekly Dezeen Agenda newsletter features the Theodore Roosevelt Presidential Library in North Dakota. Located outside Medora, North Dakota, the 95,000-square-foot library blends into its surroundings with a hill-like green roof and mass timber and earthen walls. This week's newsletter also included the news that an office-to-residential development in New York The post Dezeen Agenda features Theodore Roosevelt Presidential Library by Snøhetta appeared first on Dezeen .",
@@ -181,6 +213,36 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-09T18:00:29+00:00"
+    },
+    {
+      "id": "ce102fc38d76aa68",
+      "title": "The Affordable Dollar Tree DIY That Makes Pantry Organization Look High-End",
+      "summary": "Surprisingly chic, these simple Dollar Tree staples can be transformed with a clever little addition that'll ensure you never lose anything in your pantry.",
+      "url": "https://www.hunker.com/2210339/affordable-dollar-tree-diy-glass-jars-organize-pantry-high-end/",
+      "image": "https://www.hunker.com/img/gallery/the-affordable-dollar-tree-diy-that-makes-pantry-organization-look-high-end/l-intro-1783508411.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-affordable-dollar-tree-diy-that-makes-pantry-organization-look-high-end/l-intro-1783508411.jpg",
+        "https://www.hunker.com/img/gallery/the-affordable-dollar-tree-diy-that-makes-pantry-organization-look-high-end/intro-1783508411.jpg",
+        "https://www.hunker.com/img/gallery/the-affordable-dollar-tree-diy-that-makes-pantry-organization-look-high-end/use-beautifully-labeled-glass-jars-in-your-pantry-to-boost-the-look-1783508413.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-09T17:00:00+00:00"
+    },
+    {
+      "id": "2c06c877e609a0aa",
+      "title": "The Popular Home Service Brand That's Owned By IKEA",
+      "summary": "From furniture assembly to home repairs, this IKEA-owned service platform has grown into a one-stop source for homeowners needing everyday household help.",
+      "url": "https://www.hunker.com/2210858/home-service-brand-task-rabbit-owned-by-ikea/",
+      "image": "https://www.hunker.com/img/gallery/the-popular-home-service-brand-thats-owned-by-ikea/l-intro-1783536944.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-popular-home-service-brand-thats-owned-by-ikea/l-intro-1783536944.jpg",
+        "https://www.hunker.com/img/gallery/the-popular-home-service-brand-thats-owned-by-ikea/intro-1783536944.jpg",
+        "https://www.hunker.com/img/gallery/the-popular-home-service-brand-thats-owned-by-ikea/taskrabbit-services-are-available-for-ikea-furniture-assembly-and-other-to-do-projects-1783536946.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-09T16:00:00+00:00"
     },
     {
       "id": "67025e3ae20d01ee",
@@ -202,9 +264,7 @@
       "url": "https://www.hunker.com/2205156/cuter-way-to-fold-hang-bathroom-towels-pocket/",
       "image": "https://www.hunker.com/img/gallery/ditch-messy-towel-hooks-a-cuter-way-to-fold-hang-bathroom-towels/l-intro-1782840328.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ditch-messy-towel-hooks-a-cuter-way-to-fold-hang-bathroom-towels/l-intro-1782840328.jpg",
-        "https://www.hunker.com/img/gallery/ditch-messy-towel-hooks-a-cuter-way-to-fold-hang-bathroom-towels/intro-1782840328.jpg",
-        "https://www.hunker.com/img/gallery/ditch-messy-towel-hooks-a-cuter-way-to-fold-hang-bathroom-towels/tips-for-folding-and-storing-your-cuffed-towels-1782840330.jpg"
+        "https://www.hunker.com/img/gallery/ditch-messy-towel-hooks-a-cuter-way-to-fold-hang-bathroom-towels/l-intro-1782840328.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -559,7 +619,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/the-alan/the_alan_yanko_design_01.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-08T23:30:24+00:00"
     },
@@ -635,9 +695,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-corner-99-5-of-wardrobes-ignore-finally-has-a-rack-for-it/concept-ii-wardrobe-rack-concept-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/hug-embraces-nature-with-a-more-sustainable-way-to-make-and-assemble-furniture/pmstudio-hug-2.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/08/02/daddylonglegs02.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/03/auto-draft/06_plato_yelimkim_foladabledesk.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/05/14/stools_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/02/french/french_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/02/coffee-table-ds/02_SOLE_MikolajNicerJakubMaciejczykGrzegorzSzczupal_PocketGarden.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -663,9 +723,7 @@
       "url": "https://www.hunker.com/2207897/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/",
       "image": "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/l-intro-1783540130.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/l-intro-1783540130.jpg",
-        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/intro-1783540130.jpg",
-        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/the-two-tier-kanelmott-basket-offers-versatile-storage-1783540131.jpg"
+        "https://www.hunker.com/img/gallery/ikea-kanelmott-basket-organizer-declutter-kitchen-countertops-instant/l-intro-1783540130.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -1303,19 +1361,6 @@
       "published": "2026-07-05T22:30:29+00:00"
     },
     {
-      "id": "38e81c3be4f832bf",
-      "title": "Coming in 2027: A New Woodworking School in Covington",
-      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
-      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-05T19:03:02+00:00"
-    },
-    {
       "id": "8af51695e1cad525",
       "title": "L’hotel Pitrizza dimostra che il lusso migliore è quello che scompare",
       "summary": "Architettura, ospitalità e cucina dialogano con il paesaggio in un albergo destinato a diventare Cheval Blanc nel 2027 The post L’hotel Pitrizza dimostra che il lusso migliore è quello che scompare appeared first on Interni Magazine .",
@@ -1376,19 +1421,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-04T19:15:52+00:00"
-    },
-    {
-      "id": "a68bcaa86f7f3707",
-      "title": "This Tiny Home Has No Loft, No Ladder, and No Compromises",
-      "summary": "This Tiny Home Has No Loft, No Ladder, and No Compromises Most tiny homes solve the space problem by going vertical. Justine disagrees. Stack a loft above the kitchen, add a ladder, and call it a...",
-      "url": "https://www.yankodesign.com/2026/07/03/this-tiny-home-has-no-loft-no-ladder-and-no-compromises/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-home-has-no-loft-no-ladder-and-no-compromises",
-      "image": "https://www.yankodesign.com/images/design_news/2026/06/draft-the-justine/justine_yanko_design_01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/06/draft-the-justine/justine_yanko_design_01.jpg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-03T17:20:00+00:00"
     },
     {
       "id": "10e6e444fd72aec1",
@@ -1814,19 +1846,6 @@
       "published": "2026-06-28T15:20:09+00:00"
     },
     {
-      "id": "47625c0d63057fce",
-      "title": "Free Plans for Our Clamshell Bookcase",
-      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
-      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-27T17:46:58+00:00"
-    },
-    {
       "id": "a5d2244bed225c30",
       "title": "Eight inspiring homes with bookmaxxed interiors",
       "summary": "For our latest lookbook, we explore how bookmaxxing can add interest to an interior, looking at examples ranging from a penthouse in Germany to the home of Radiohead singer Thom Yorke. The tongue-in-cheek term bookmaxxing is used to describe the current trend of showcasing books in a myriad of different ways, as seen in these The post Eight inspiring homes with bookmaxxed interiors appeared first on Dezeen .",
@@ -2185,19 +2204,6 @@
       "published": "2026-06-20T17:00:04+00:00"
     },
     {
-      "id": "d97ff0d906f09464",
-      "title": "LAP Open Wire, June 20, 2026",
-      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
-      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-20T12:00:00+00:00"
-    },
-    {
       "id": "e3722e01889eb440",
       "title": "F5: Amanda Martocchio Talks the Rockies, Her Jens Risom Stool, a Joan Snyder Painting + More",
       "summary": "Architect Amanda Martoccchio shares some of her favorites in nature, from Hawthorn trees to the Rocky Mountains, and more.",
@@ -2209,32 +2215,6 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-19T18:00:09+00:00"
-    },
-    {
-      "id": "3dd6950b3f95ebc2",
-      "title": "For Sale: Nice Machines from Kelly Mehler’s Workshop",
-      "summary": "When woodworker and instructor Kelly Mehler died unexpectedly last year, he left behind a shop full of meticulously maintained woodworking machines that he used in his personal work after he closed his woodworking school. The Mehler family is trying to find new homes for these machines, avoiding the chaos and unpredictability of an auction. These...",
-      "url": "https://blog.lostartpress.com/2026/06/19/for-sale-nice-machines-from-kelly-mehlers-workshop/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-19T16:46:51+00:00"
-    },
-    {
-      "id": "c91ff40c2f4c9667",
-      "title": "New Book: ‘17th-Century Essex County Cupboard’",
-      "summary": "Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...",
-      "url": "https://blog.lostartpress.com/2026/06/18/new-book-17th-century-essex-county-cupboard/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-18T21:11:15+00:00"
     },
     {
       "id": "bcfca73d7828d49c",
@@ -2346,19 +2326,6 @@
       "published": "2026-06-17T16:00:53+00:00"
     },
     {
-      "id": "1f5186f258a724a9",
-      "title": "LAP Open Wire on Saturday (June 20)",
-      "summary": "We’re cooking up answers for Open Wire this Saturday (June 20) on the Lost Art Press blog – so if you have a woodworking question, you’ll have until 5 p.m. Eastern to ask it in the comments section on the Open Wire post, which will go live at 8 a.m. Chris and I will do...",
-      "url": "https://blog.lostartpress.com/2026/06/17/lap-open-wire-on-saturday-june-20/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-17T15:16:43+00:00"
-    },
-    {
       "id": "5a32b1b1b7bc6f6f",
       "title": "Studio NRG designs Lilium Chair out of recycled metal car rims",
       "summary": "Colombian designer Nicolas Riano Guerrero of Studio NRG has unveiled the Lilium chair made using aluminium salvaged from car rims. The limited-edition furnishing reflects the soft shape of a flower petal with the aim of revealing how metal and other industrial materials can become approachable. \"The idea came from wanting to take one of the The post Studio NRG designs Lilium Chair out of recycled metal car rims appeared first on Dezeen .",
@@ -2422,19 +2389,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-15T06:48:30+00:00"
-    },
-    {
-      "id": "358468cea1e7e3f3",
-      "title": "Video: D.R. Dimes Reborn",
-      "summary": "D.R. Dimes was one of those famous furniture making companies that was so ubiquitous that you couldn’t imagine it ever going out of business. But it did. What I didn’t know is that it has recently been reborn as a one-person shop run by Douglas P. Dimes, the son of the founder. The story of...",
-      "url": "https://blog.lostartpress.com/2026/06/14/video-d-r-dimes-reborn/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/d-r-dimes-chair-maker-6894bcac1d591.jpg?resize=640%2C360&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/d-r-dimes-chair-maker-6894bcac1d591.jpg?resize=640%2C360&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-14T17:01:38+00:00"
     },
     {
       "id": "86055958abe0c7f5",
@@ -2575,7 +2529,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2937,7 +2891,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2949,11 +2903,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/02/IMG_2703.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/10/DIY-Console-Table-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/04/DIY-Bench-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2968,7 +2922,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3147,7 +3101,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3238,7 +3192,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag kitchens",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
@@ -3264,7 +3218,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
