@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-10T00:15:24.602370+00:00",
-  "generated_at_human": "2026-07-10 00:15 UTC",
-  "total_items": 240,
+  "generated_at": "2026-07-10T05:03:12.156375+00:00",
+  "generated_at_human": "2026-07-10 05:03 UTC",
+  "total_items": 243,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -61,7 +61,7 @@
     "АМДПР"
   ],
   "sources_count": 54,
-  "multi_photo_items": 57,
+  "multi_photo_items": 58,
   "items": [
     {
       "id": "4528daec33993603",
@@ -71,8 +71,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=22360",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=40880",
+        "https://i.archi.ru/i/1262/310555.jpg?r=93009",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=43751",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -89,7 +89,7 @@
       "image": "https://i.archi.ru/i/1262/507363.jpg",
       "images": [
         "https://i.archi.ru/i/1262/507363.jpg",
-        "http://i.archi.ru/i/1262/306723.jpg?r=17353",
+        "http://i.archi.ru/i/1262/306723.jpg?r=25620",
         "http://i.archi.ru/i/1262/507366.jpg",
         "http://i.archi.ru/i/1262/507364.jpg",
         "http://i.archi.ru/i/1262/507362.jpg",
@@ -168,6 +168,71 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "6506cdcac7e21902",
+      "title": "Voici 11 auberges où poser ses valises aux quatre coins de la France",
+      "summary": "Longtemps lieux de halte pour les voyageurs, les auberges connaissent aujourd’hui un nouveau souffle. Partout en France, des adresses réinventent ce modèle historique en mêlant hospitalité, cuisine de terroir et décor soigné. Voici 11 d'entres elles où s’attabler et passer la nuit.",
+      "url": "https://www.milkdecoration.com/voici-11-auberges-ou-poser-ses-valises-aux-quatre-coins-de-la-france/",
+      "image": "https://www.milkdecoration.com/wp-content/uploads/2026/06/auberge-du-vert-mont-c-celia-swaenepoel.jpg",
+      "images": [
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/auberge-du-vert-mont-c-celia-swaenepoel.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/auberge-du-pere-bise.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/comete-c-anne-claire-heraud.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/auberge-du-pere-bise-c-franck-juery.jpg"
+      ],
+      "source": "MilK Decoration",
+      "source_url": "https://www.milkdecoration.com",
+      "published": "2026-07-10T05:00:00+00:00"
+    },
+    {
+      "id": "5ef69571775b7065",
+      "title": "Every unexpected place to add a skylight: bathrooms, closets, hallways and more",
+      "summary": "Be inspired by these stylish skylights The post Every unexpected place to add a skylight: bathrooms, closets, hallways and more appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/interiors/skylight-ideas-home-design/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-10t141204.582-6a50713cd234d.png",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-10t141204.582-6a50713cd234d.png",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-10t141204.582-6a50713cd234d.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/amazon-prime-day-is-it-actually-a-deal-6a5062ffe8f52.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/best-regional-boutiques-australia-peregrine-store-6a505b4ac6cc2.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/best-amazon-prime-day-sales-6a4de198ed83f.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/03/500x500-shopping-42-6a4f31ba62687.png?w=2048"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-10T04:16:40+00:00"
+    },
+    {
+      "id": "322ffd7806806941",
+      "title": "No more fighting: 16 family bathroom ideas to get you ready in peace",
+      "summary": "Maximise the potential of the busiest zone in your home. The post No more fighting: 16 family bathroom ideas to get you ready in peace appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/bathroom-ideas/family-bathroom-ideas/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/11/rhys-stanley-geelong-cats-modern-farmhouse-christmas-bathroom-690a9a8a90a2f-scaled.jpg",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/11/rhys-stanley-geelong-cats-modern-farmhouse-christmas-bathroom-690a9a8a90a2f-scaled.jpg",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/02/best-digital-calendars-australia-2026-best-alternative-to-skylight-calendars-6a504737085c7.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/07/best-electric-throw-blankets-australia-2026-69cdf578f0a7a.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/mop-6a50431fbf3e2.jpg?w=2729",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/19463/kylie-jackes-scaled.jpg?w=2048",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/08/Brittany-Smith.png?w=2048"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-10T03:01:48+00:00"
+    },
+    {
+      "id": "e1f578b54457e9e8",
+      "title": "Son transforms a Unitree robot dog into an all-terrain mobility chair for his disabled father",
+      "summary": "Son transforms a Unitree robot dog into an all-terrain mobility chair for his disabled father Some inventions are meant to push the boundaries of technology, while others are built to break the barriers people face every day. This remarkable all-terrain...",
+      "url": "https://www.yankodesign.com/2026/07/09/son-transforms-a-unitree-robot-dog-into-an-all-terrain-mobility-chair-for-his-disabled-father/?utm_source=rss&utm_medium=rss&utm_campaign=son-transforms-a-unitree-robot-dog-into-an-all-terrain-mobility-chair-for-his-disabled-father",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/son-transforms-a-quadruped-robot-into-an-all-terrain-mobility-chair-for-his-disabled-father/Jake-Laser-DIY-Bionic-Legs-Wheelchair-4.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/son-transforms-a-quadruped-robot-into-an-all-terrain-mobility-chair-for-his-disabled-father/Jake-Laser-DIY-Bionic-Legs-Wheelchair-4.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-10T00:30:50+00:00"
     },
     {
       "id": "9552fe41e797f026",
@@ -334,19 +399,6 @@
       "published": "2026-07-09T14:00:29+00:00"
     },
     {
-      "id": "beb0bbc41f196809",
-      "title": "This Pixel 11 Pro Concept Makes the Camera Bump Its Best Feature",
-      "summary": "This Pixel 11 Pro Concept Makes the Camera Bump Its Best Feature The back of a smartphone has historically been the least interesting real estate on the device. A logo, some camera lenses, and a flat slab...",
-      "url": "https://www.yankodesign.com/2026/07/09/this-pixel-11-pro-concept-makes-the-camera-bump-its-best-feature/?utm_source=rss&utm_medium=rss&utm_campaign=this-pixel-11-pro-concept-makes-the-camera-bump-its-best-feature",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/this-pixel-11-pro-concept-makes-the-camera-bump-its-best-feature/google-pixel-11-pro-concept-03.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/this-pixel-11-pro-concept-makes-the-camera-bump-its-best-feature/google-pixel-11-pro-concept-03.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-09T13:20:45+00:00"
-    },
-    {
       "id": "4cd238767739696b",
       "title": "A Porthole to the Sea by Atelier NIMA",
       "summary": "A Porthole to the Sea looks out over the Gulf of Tigullio in Zoagli, Italy, where Atelier NIMA reworks a 1970s apartment into a bright Mediterranean retreat. The interior renovation balances sea-washed minimalism with the client’s African roots, translating memory into color, texture, and carefully chosen objects. Across living spaces, bedrooms, and bathrooms, the design […] The post A Porthole to the Sea by Atelier NIMA first appeared on HomeAdore .",
@@ -497,9 +549,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/12/borradale-homestead-verandah-692fceaa16005.png",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/12/borradale-homestead-verandah-692fceaa16005.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2022/09/hero-crop-2026-07-09t172004.344-6a4f4ba84ce40.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2019/01/copy-of-site-feature-horizontal-1920-x-1080-2026-07-09t154329.579-6a4f3533efa08.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-09t155155.294-6a4f36fde9e63.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-10t141204.582-6a50713cd234d.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/amazon-prime-day-is-it-actually-a-deal-6a5062ffe8f52.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/best-regional-boutiques-australia-peregrine-store-6a505b4ac6cc2.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2017/09/MicrosoftTeams-image-33.jpg?w=2304"
       ],
       "source": "Homes To Love AU",
@@ -558,11 +610,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/06/mcp_cds_bss_1225_001_w1920-6a2a13b9a258c-scaled.jpg",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/06/mcp_cds_bss_1225_001_w1920-6a2a13b9a258c-scaled.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/07/best-electric-throw-blankets-australia-2026-69cdf578f0a7a.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/best-robot-vacuums-under-500-australia-2026-6a4f3f85af014.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/bieber-6a503551835f3.jpg?w=2729",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/02/best-digital-calendars-australia-2026-best-alternative-to-skylight-calendars-6a504737085c7.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/mop-6a50431fbf3e2.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/10/rebecca-mitchell-68e59cc98bd0c-scaled.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/05/timber-family-home-17-68214a9a379f0-scaled.jpg?crop=0px%2C671px%2C1704px%2C1281px&resize=1950%2C1462&format=auto"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -620,9 +672,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/04/weighted-blanket-on-an-arm-chair-67d256315a7e6.png",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2023/04/oodie-weighted-blanket.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-10t141204.582-6a50713cd234d.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/best-regional-boutiques-australia-peregrine-store-6a505b4ac6cc2.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/12/borradale-homestead-verandah-692fceaa16005.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2022/09/hero-crop-2026-07-09t172004.344-6a4f4ba84ce40.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2019/01/copy-of-site-feature-horizontal-1920-x-1080-2026-07-09t154329.579-6a4f3533efa08.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/grace-flynn-content-producer.jpg?w=2048"
       ],
       "source": "Homes To Love AU",
@@ -714,9 +766,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-corner-99-5-of-wardrobes-ignore-finally-has-a-rack-for-it/concept-ii-wardrobe-rack-concept-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/auto-draft/hanging_stool_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/08/origami/origami_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/plenum-cabin/plenum_cabin_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/09/hiko_side_table_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/08/my_old_new_series_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/09/277392/Projectable_smartphone-projector_SideTable_YankoDesign-2.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -906,13 +958,13 @@
       "published": "2026-07-08T02:13:59+00:00"
     },
     {
-      "id": "bc480e8da6884ed3",
-      "title": "Yinka Ilori and Dunelm’s new furniture collection is colourful, accessible and tells a hidden story about community",
-      "summary": "Launching today, the artist and designer’s 40-piece collaboration with Dunelm pairs his signature vibrant patterns with a story about Leicester’s textile past",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/yinka-ilori-dunelm",
-      "image": "https://cdn.mos.cms.futurecdn.net/cX3HQDSxVfiLfvmJuNKtG9.jpg",
+      "id": "cba545e2381f2ca7",
+      "title": "Faye Toogood unveils ‘Bone, Roll, Slump’, a swollen, sculptural furniture collection that feels ‘excavated’",
+      "summary": "Launched today, the British designer's new furniture range brings together dining tables carved like fossils, weighty timber consoles and lounge chairs that collapse in on themselves",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/faye-toogood-bone-roll-slump",
+      "image": "https://cdn.mos.cms.futurecdn.net/DSJprjyzCuNb5XNRKALKYU.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/cX3HQDSxVfiLfvmJuNKtG9.jpg",
+        "https://cdn.mos.cms.futurecdn.net/DSJprjyzCuNb5XNRKALKYU.jpg",
         "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
         "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
         "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
@@ -922,13 +974,13 @@
       "published": "2026-07-07T23:01:00+00:00"
     },
     {
-      "id": "cba545e2381f2ca7",
-      "title": "Faye Toogood unveils ‘Bone, Roll, Slump’, a swollen, sculptural furniture collection that feels ‘excavated’",
-      "summary": "Launched today, the British designer's new furniture range brings together dining tables carved like fossils, weighty timber consoles and lounge chairs that collapse in on themselves",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/faye-toogood-bone-roll-slump",
-      "image": "https://cdn.mos.cms.futurecdn.net/DSJprjyzCuNb5XNRKALKYU.jpg",
+      "id": "bc480e8da6884ed3",
+      "title": "Yinka Ilori and Dunelm’s new furniture collection is colourful, accessible and tells a hidden story about community",
+      "summary": "Launching today, the artist and designer’s 40-piece collaboration with Dunelm pairs his signature vibrant patterns with a story about Leicester’s textile past",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/yinka-ilori-dunelm",
+      "image": "https://cdn.mos.cms.futurecdn.net/cX3HQDSxVfiLfvmJuNKtG9.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/DSJprjyzCuNb5XNRKALKYU.jpg"
+        "https://cdn.mos.cms.futurecdn.net/cX3HQDSxVfiLfvmJuNKtG9.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -944,9 +996,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/a-1960s-lounge-chair-that-still-feels-like-a-future-artifact/GUBI_lounge_chair_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/12/auto-draft/breo_idream5_6.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/03/cilo/cilo_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/04/auto-draft/pull_me_drawer_2.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/02/25/spacetime_watch_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/04/outdoor-furniture/top_10_outdoor_furniture_designs_yanko_design_hero.jpeg",
+        "https://www.yankodesign.com/images/design_news/2010/07/28/drymate.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1115,8 +1167,7 @@
       "url": "https://www.milkdecoration.com/paris-un-appartement-haussmannien-avec-une-grande-verriere-rempli-de-mobilier-design/",
       "image": "https://www.milkdecoration.com/wp-content/uploads/2026/06/gubi-house-paris-01-the-boutique-hotel-milk-decoration.jpg",
       "images": [
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/gubi-house-paris-01-the-boutique-hotel-milk-decoration.jpg",
-        "https://www.milkdecoration.com/wp-content/uploads/2026/06/gubi-house-paris-03.jpg"
+        "https://www.milkdecoration.com/wp-content/uploads/2026/06/gubi-house-paris-01-the-boutique-hotel-milk-decoration.jpg"
       ],
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
@@ -1129,12 +1180,7 @@
       "url": "https://www.homebeautiful.com.au/bathroom-ideas/striped-bathroom-trend/",
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/new-build-queen-slander-bangalow-695b1450389c4-scaled.jpg",
       "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/new-build-queen-slander-bangalow-695b1450389c4-scaled.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/07/best-electric-throw-blankets-australia-2026-69cdf578f0a7a.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/bieber-6a503551835f3.jpg?w=2729",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/11/Teneal_Zuvela_1.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2020/11/guest-bathroom-decor-ideas.jpg?resize=1950%2C1462"
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/new-build-queen-slander-bangalow-695b1450389c4-scaled.jpg"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1228,9 +1274,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/omnibites-screwless-joint-wants-you-to-build-with-raw-branches/omnibite-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/ripple-shelfs-wavy-wooden-sides-are-actually-a-tool-free-height-system/ripple-shelf-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/a-revolutionary-cane-chair-challenging-history-hierarchy-and-how-we-choose-to-sit/Charu_chair_furniture_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/multifunctional-standing-desk-concept-keeps-you-from-overworking-yourself/boundary-desk-16.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/04/the-hidden-step-in-chair-design-nobody-ever-shows-you/chair-buck-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/09/mosaic-like-stools-are-made-from-the-soles-of-discarded-rubber-shoes/wu-stool-recycled-rubber-soles-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/cat_furniture_ds_yanko_design-07.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1317,7 +1363,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_MARA__AERA_04_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_MARA__OTTO__Christophe-Pillet__03_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_©MARA__ARGO-LIBRO__LIMITED-EDITION_LR_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/USM_Showroom_Shanghai_B0018210-HDR.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Y1DAdpXt-Zanotta_tavolo-Vertebra2333_IP06.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1402,9 +1448,9 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1813,8 +1859,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/02_Living-Divani_Mobilificio-Marchese-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/03_Living-Divani_Mobilificio-Marchese-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/04_Living-Divani_Mobilificio-Marchese-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Y1DAdpXt-Zanotta_tavolo-Vertebra2333_IP06.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/MARA_ARENA__SDM-2026__HR__13.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2621,7 +2667,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2978,7 +3024,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2990,7 +3036,7 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/02/IMG_2703.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2019/12/Photo-Nov-13-7-47-20-AM.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
@@ -3009,7 +3055,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3188,7 +3234,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3305,7 +3351,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-roundup_dezeen_2364_col_9.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-13T10:01:17+00:00"
     },
