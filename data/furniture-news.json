@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-12T07:35:37.379923+00:00",
-  "generated_at_human": "2026-07-12 07:35 UTC",
-  "total_items": 237,
+  "generated_at": "2026-07-12T09:59:58.129834+00:00",
+  "generated_at_human": "2026-07-12 09:59 UTC",
+  "total_items": 236,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -50,6 +51,7 @@
     "Trendir furniture",
     "Trendir interiors",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -57,7 +59,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
+  "sources_count": 53,
   "multi_photo_items": 57,
   "items": [
     {
@@ -68,8 +70,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=75554",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=99567",
+        "https://i.archi.ru/i/1262/310555.jpg?r=84149",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=73043",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -86,7 +88,7 @@
       "image": "https://i.archi.ru/i/1262/507363.jpg",
       "images": [
         "https://i.archi.ru/i/1262/507363.jpg",
-        "http://i.archi.ru/i/1262/306723.jpg?r=97843",
+        "http://i.archi.ru/i/1262/306723.jpg?r=5571",
         "http://i.archi.ru/i/1262/507366.jpg",
         "http://i.archi.ru/i/1262/507364.jpg",
         "http://i.archi.ru/i/1262/507362.jpg",
@@ -104,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=91864",
+        "https://i.archi.ru/i/1262/378886.jpg?r=15523",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -176,7 +178,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Cabinetry-Turned-the-Laundry-Room-Into-Built-In-Furniture.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Finished-Room-Functions-Beyond-Laundry.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Utility-Wall-Became-Part-of-the-Built-In.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Early-2000s-Cherry-Kitchen-Lost-Its-Walls-and-Gained-a-Whole-New-Layout.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Spent-7000-Turning-the-Space-Under-His-Deck-Into-a-Flagstone-Patio.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -248,13 +250,26 @@
         "https://www.yankodesign.com/images/design_news/2026/07/when-tokyos-fallen-branches-become-furniture-you-cant-ignore/uneri-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/10/28/UrbanChaoticRespite01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/top-10-outdoor-furniture/top_10_outdoor_furniture_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/03/flipp_chair_cover.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/09/how-to-choose-the-best-ergonomic-chair-top-features-you-cant-ignore/01-height-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/01/this-modular-wall-storage-concept-is-perfect-for-tiny-homes/wall-it-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/08/alien-like-metal-stool-concept-inspires-awe-rather-than-fear/alien-like-metal-stool-9.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-11T17:20:57+00:00"
+    },
+    {
+      "id": "a51dddd016519305",
+      "title": "BoND designs \"dark and enveloping\" private sauna in New York",
+      "summary": "Architecture studio BoND has used \"the logic of a bento box\" to organise spaces within a compact, atmospheric sauna in Chelsea, New York. BoND was enlisted to design the interiors and identity for Saint by co-founders Alex Feldman and Amanda Taylor-Hensen in 2024, even before a site was identified. Now open on West 29th Street, The post BoND designs \"dark and enveloping\" private sauna in New York appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/11/bond-saint-private-sauna-chelsea-new-york/",
+      "image": "http://static.dezeen.com/uploads/2026/07/saint_bond_dezeen_sq1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/saint_bond_dezeen_sq1.jpg"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-11T17:00:51+00:00"
     },
     {
       "id": "a573b6aa00ce3e93",
@@ -350,14 +365,27 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Designers-Started-Shrinking-One-Living-Room-Essential.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Reading-Chairs-Need-Only-a-Small-Surface.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Spent-7000-Turning-the-Space-Under-His-Deck-Into-a-Flagstone-Patio.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Early-2000s-Cherry-Kitchen-Lost-Its-Walls-and-Gained-a-Whole-New-Layout.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Walk-In-Pantry-Turned-Into-Built-In-Cabinets-That-Look-Original-to-the-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Laundry-Room-Stopped-Looking-Like-a-Utility-Space-After-One-Layout-Change.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Backyard-Started-Replacing-Empty-Lawn-With-Places-to-Play.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Laundry-Room-Stopped-Looking-Like-a-Utility-Space-After-One-Layout-Change.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-11T10:35:59+00:00"
+    },
+    {
+      "id": "b01f9c3aa8753e87",
+      "title": "Wright Office creates \"distinctive yet quiet\" apartments on triangular infill site in London",
+      "summary": "London architecture studio Wright Office has completed Radnor Road, a compact development of two apartments on an infill site in Peckham finished with a textural palette of rough bricks and lime-washed plaster. Situated on a triangular site flanked by mid-century residential buildings, the 130-square-metre building contains a pair of two-bedroom apartments across three floors. It The post Wright Office creates \"distinctive yet quiet\" apartments on triangular infill site in London appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/11/wright-office-radnor-road/",
+      "image": "http://static.dezeen.com/uploads/2026/06/radnor-road-wright-office-infill-house-architecture-residential-london-england-uk_dezeen_2364_sq2.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/radnor-road-wright-office-infill-house-architecture-residential-london-england-uk_dezeen_2364_sq2.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-11T10:00:31+00:00"
     },
     {
       "id": "f37b5e5a75df2f6e",
@@ -505,9 +533,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-chair-that-came-from-a-single-obsessive-question/stitch-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/10/06/frida_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/09/lula_nap_furniture_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/11/draft-wobble/wobble_up_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/07/hideaway-swing-desk/hideaway_swing_desk_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/11/06/knox_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/06/a-table-for-urban-nomads/city_table_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1034,9 +1062,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-corner-99-5-of-wardrobes-ignore-finally-has-a-rack-for-it/concept-ii-wardrobe-rack-concept-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/stool-designs/top_10_stool_designs_hero_yanko_design.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/07/11/alis_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/12/the-sliding-design-of-this-thermal-foot-rest-keeps-your-legs-resting-and-cramping-at-bay/1_OFF-REE_Hoyeon-Kim_Mungyeong-Kim_thermal-foot-rest-office_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/03/turk/turk_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/06/23/need_not_arrange.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/06/virus/virus_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1077,7 +1105,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/yinka-ilori-dunelm-collection-chair-lamp-bed_dezeen_2364_sq_4.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-08T10:00:50+00:00"
     },
@@ -1156,45 +1184,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-07T22:30:58+00:00"
-    },
-    {
-      "id": "6718cb86a144df0e",
-      "title": "Award-winning student projects from Interior Educators spotlight regenerative practice",
-      "summary": "Dezeen School Shows: a project informed by the structure of ant colony interiors is among the award-winning Interior Educators' projects. Also included is a project that explores how material choices can create meaningful interior experiences and a proposal to reimagine the former Harbour Mills at Deepwater Quay into a vibrant centre for environmental research. Interior The post Award-winning student projects from Interior Educators spotlight regenerative practice appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/07/interior-educators-regenerative-practice-schoolshows/",
-      "image": "http://static.dezeen.com/uploads/2026/07/Interior-educators-square_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/Interior-educators-square_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-07T20:00:17+00:00"
-    },
-    {
-      "id": "f25e89a1ff6821d1",
-      "title": "Dezeen Debate features \"intensely geometric\" headquarters by BIG",
-      "summary": "The latest edition of our Dezeen Debate newsletter features the Dymak headquarters in Odense, Denmark, designed by BIG to resemble a Möbius strip. Subscribe to Dezeen Debate now. Overlooking the city's Glisholm Lake, the 2,800-square-metre circular, mass-timber building joins offices and showrooms together around a central courtyard. Readers were impressed by the design, with one calling The post Dezeen Debate features \"intensely geometric\" headquarters by BIG appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/07/dezeen-debate-big-dymak-headquarters-denmark/",
-      "image": "http://static.dezeen.com/uploads/2026/07/big-dymak-headquarters-denmark_dezeen_2364_col_24_square.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/big-dymak-headquarters-denmark_dezeen_2364_col_24_square.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-07T18:30:48+00:00"
-    },
-    {
-      "id": "55bf7bc2679a7d28",
-      "title": "Nitsche Arquitetos integrates timber kiosks into São Paulo metro station renovations",
-      "summary": "Local studio Nitsche Arquitetos has updated two stations on São Paulo's Line 4-Yellow metro, paring back prior additions to reveal the structural elements and adding standardised timber elements. Seeing that years of accumulated signage and commercial elements had cluttered Pinheiros and Faria Lima stations, Nitsche Arquitetos set out to reorganise and streamline the visual language The post Nitsche Arquitetos integrates timber kiosks into São Paulo metro station renovations appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/07/nitsche-arquitetos-sao-paulo-metro-station-retrofit/",
-      "image": "http://static.dezeen.com/uploads/2026/07/nitsche-arquitetos-sao-paolo-yellow-line-stations_dezeen_2364_sqex.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/nitsche-arquitetos-sao-paolo-yellow-line-stations_dezeen_2364_sqex.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-07T18:00:25+00:00"
     },
     {
       "id": "5088175a24a80d60",
@@ -1312,6 +1301,19 @@
       "source": "Better Homes & Gardens AU",
       "source_url": "https://www.bhg.com.au",
       "published": "2026-07-07T01:20:25+00:00"
+    },
+    {
+      "id": "15d1b501d09c7863",
+      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
+      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-06T23:25:23+00:00"
     },
     {
       "id": "b1e95b23af2c7cc4",
@@ -1545,8 +1547,8 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1829,6 +1831,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T20:00:41+00:00"
+    },
+    {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
     },
     {
       "id": "e69d68ed29184525",
@@ -2156,19 +2171,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-23T12:10:33+00:00"
-    },
-    {
-      "id": "ee229fe2913baaef",
-      "title": "Our Curated Abode: A Hardware to Housewares DIY Store in Kent, England",
-      "summary": "If only all towns had a version of Emma Jane Palin’s Our Curated Abode. Trained in graphic design and illustration, Emma is an all-around creative type: she’s worked in digital marketing for brands like Apple and the London Design Festival, blogged about interiors and life in a rental, and is now a stylist and interior […]",
-      "url": "https://www.remodelista.com/posts/our-curated-abode-diy-store-emma-jane-palin-kent-england/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/05/emma-jane-palin-our-curated-abode-1b-1.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/05/emma-jane-palin-our-curated-abode-1b-1.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-06-23T10:00:25+00:00"
     },
     {
       "id": "baa37f9b04d424c6",
@@ -2584,19 +2586,6 @@
       "published": "2026-06-11T18:10:33+00:00"
     },
     {
-      "id": "b0aa10bdbfd31d41",
-      "title": "New York's art deco icons inform revamped restaurant at The Edge",
-      "summary": "Design studio Journey and Tao Hospitality Group have refreshed the interiors of dining venues at The Edge, the triangular observation deck at New York's Hudson Yards. The team has completely redesigned Peak with Priceless, the restaurant located on the 101th floor of the KPF-designed 30 Hudson Yards skyscraper. The overhaul also includes the addition of The post New York's art deco icons inform revamped restaurant at The Edge appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/11/peak-avenue-sky-lounge-the-edge-new-york-city/",
-      "image": "http://static.dezeen.com/uploads/2026/06/peak_avenue_the-edge_dezeen_sq1ex.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/peak_avenue_the-edge_dezeen_sq1ex.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-11T14:30:49+00:00"
-    },
-    {
       "id": "2ed9db500c44fa06",
       "title": "Modular kitchens by Vermland",
       "summary": "Dezeen Showroom: oak surfaces with a timeless appearance define interior design studio Vermland's modular kitchens, which are handmade in Denmark. Founded in Copenhagen by cabinetmakers Joakim Tolf Vulpius and Anton Bak, Vermland aims to make kitchens that are long-lasting in terms of both durability and style. The modular kitchens are suitable for homes and commercial interiors, designed The post Modular kitchens by Vermland appeared first on Dezeen .",
@@ -2618,22 +2607,9 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
-    },
-    {
-      "id": "bdae16f6fdaa5eef",
-      "title": "Studio Elèn Letort completes \"expressive and characterful\" renovation of historic Amsterdam apartment",
-      "summary": "Vintage furniture and palette of richly toned materials bring a sense of warmth and personality to this renovated maisonette in Amsterdam, which interiors firm Studio Elèn Letort designed to reference the Dutch Golden Age. The house on the Dutch city's historic Herenmarkt was designed for a couple who wanted a home where they could showcase The post Studio Elèn Letort completes \"expressive and characterful\" renovation of historic Amsterdam apartment appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/11/studio-elen-letort-amsterdam-apartment/",
-      "image": "http://static.dezeen.com/uploads/2026/06/studio-elen-letort-amsterdam-apartment_dezeen_2364_sq_7.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/studio-elen-letort-amsterdam-apartment_dezeen_2364_sq_7.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-11T05:00:14+00:00"
     },
     {
       "id": "445ca7143bd608cd",
@@ -2962,7 +2938,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2974,11 +2950,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/05/DIY-Full-Sized-Bed-Plans-1.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2024/06/casing-a-walkway.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2993,7 +2969,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3172,7 +3148,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
@@ -3383,6 +3359,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
