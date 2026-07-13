@@ -1,12 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-13T07:32:43.412884+00:00",
-  "generated_at_human": "2026-07-13 07:32 UTC",
-  "total_items": 212,
+  "generated_at": "2026-07-13T11:25:59.467147+00:00",
+  "generated_at_human": "2026-07-13 11:25 UTC",
+  "total_items": 239,
   "sources_used": [
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -20,6 +21,7 @@
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
     "Dezeen tag cabinets",
+    "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
     "Elle Decor",
@@ -34,6 +36,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -47,6 +50,7 @@
     "Trendir furniture",
     "Trendir interiors",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -54,9 +58,27 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 48,
+  "sources_count": 52,
   "multi_photo_items": 57,
   "items": [
+    {
+      "id": "50ced7a4258ad654",
+      "title": "ЖК «Регенбоген»: как история места определила выбор фасадных материалов",
+      "summary": "В концепции проекта ЖК «Регенбоген» на Васильевском острове (архитектор Сергей Шустерман, бюро Astragal) промышленное наследие района стало отправной точкой. В дизайн-коде фасадов нашла отражение азбука Морзе, а сами фасады выполнены из полноформатного кирпича и плитки: такое решение позволило реализовать сложный объект в условиях исторического центра Петербурга.",
+      "url": "http://archi.ru/tech/news_102415.html",
+      "image": "https://i.archi.ru/i/1262/507768.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/507768.jpg",
+        "http://i.archi.ru/i/1262/507768.jpg",
+        "http://i.archi.ru/i/1262/507766.jpg",
+        "http://i.archi.ru/i/507765.jpg",
+        "http://i.archi.ru/i/1262/507771.jpg",
+        "http://i.archi.ru/i/1262/507769.png"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "4528daec33993603",
       "title": "Партитура для 12-й линии",
@@ -65,29 +87,11 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=7476",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=50745",
+        "https://i.archi.ru/i/1262/310555.jpg?r=69459",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=36172",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "7ce07fabe0b5f0ae",
-      "title": "Оттенки квартала: клинкер ModFormat на фасадах СберСити",
-      "summary": "Квартал В17 в Рублево-Архангельском – один из первых реализованных фрагментов нового московского района, который Сбер строит с нуля. Архитектурное бюро МЛА+ выбрало для облицовки периметральных корпусов клинкерную плитку ModFormat завода «КС Керамик». Три цвета, один формат и большая работа по подбору оттенков – разбираемся, как это решение работает в масштабе квартала.",
-      "url": "http://archi.ru/tech/news_102396.html",
-      "image": "https://i.archi.ru/i/1262/507363.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/507363.jpg",
-        "http://i.archi.ru/i/1262/306723.jpg?r=37289",
-        "http://i.archi.ru/i/1262/507366.jpg",
-        "http://i.archi.ru/i/1262/507364.jpg",
-        "http://i.archi.ru/i/1262/507362.jpg",
-        "http://i.archi.ru/i/1262/507361.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -101,11 +105,24 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=91132",
+        "https://i.archi.ru/i/1262/378886.jpg?r=77985",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
       "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "7ce07fabe0b5f0ae",
+      "title": "Оттенки квартала: клинкер ModFormat на фасадах СберСити",
+      "summary": "Квартал В17 в Рублево-Архангельском – один из первых реализованных фрагментов нового московского района, который Сбер строит с нуля. Архитектурное бюро МЛА+ выбрало для облицовки периметральных корпусов клинкерную плитку ModFormat завода «КС Керамик». Три цвета, один формат и большая работа по подбору оттенков – разбираемся, как это решение работает в масштабе квартала.",
+      "url": "http://archi.ru/tech/news_102396.html",
+      "image": "https://i.archi.ru/i/1262/507363.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/507363.jpg"
+      ],
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -160,6 +177,81 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "4505f8051438c6c4",
+      "title": "He Glued Together Oak Boards and Built His Own Countertops",
+      "summary": "Laundry machines sat beneath a basic shelf while an aging pedestal-style vanity occupied the bathroom nearby. Rather than replacing each surface with store-bought alternatives, Imgur user u/RyJa64 decided to build matching wood countertops from scratch. Oak boards, glue, clamps, weights, and sanding tools gradually turned individual pieces of lumber into solid wood slabs. One became... The post He Glued Together Oak Boards and Built His Own Countertops appeared first on Homedit .",
+      "url": "https://www.homedit.com/he-glued-together-oak-boards-and-built-his-own-countertops/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Glued-Together-a-Stack-of-Oak-Boards-and-Built-His-Own-Countertops-From-Scratch.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Glued-Together-a-Stack-of-Oak-Boards-and-Built-His-Own-Countertops-From-Scratch.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Finished-Vanity-Replaced-the-Original-Cabinet.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Faucet-and-Sink-Transformed-the-Countertop-Into-a-Vanity.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Matching-Countertops-Changed-Both-Spaces.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Wood-countertop-sink-replacement.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Sink-Opening-Was-Cut-Into-the-Wood-Surface.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-13T11:03:01+00:00"
+    },
+    {
+      "id": "b9d57f878e344ee4",
+      "title": "Will Gamble Architects adds \"explicitly tropical\" extension to Grade-II listed English cottage",
+      "summary": "A timber-framed glazed link and courtyard garden connect old and new parts of this home in Northwood, UK, which architecture studio Will Gamble Architects designed to reference traditional Sri Lankan houses. Named Muttram Veedu after the Tamil term for a courtyard house, Will Gamble Architects completed the extension and refurbishment for clients with Sri Lankan The post Will Gamble Architects adds \"explicitly tropical\" extension to Grade-II listed English cottage appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/13/muttram-veedu-will-gamble-architects-courtyard-extension/",
+      "image": "http://static.dezeen.com/uploads/2026/07/muttram-veedu-will-gamble-architects_dezeen_2364_sq_15.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/muttram-veedu-will-gamble-architects_dezeen_2364_sq_15.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-13T10:45:21+00:00"
+    },
+    {
+      "id": "83b3e5fbc8340edf",
+      "title": "Barrel-vaulted community greenhouse built at the Barbican",
+      "summary": "Architecture firms Studio Folk Architects and Raskl have built a timber-framed greenhouse, named The Veggery, at the Barbican Estate as part of the London Festival of Architecture. Hexagonal in shape, The Veggery was topped with a multi-arched polytunnel roof that references the barrel-vaulted roofs of the Barbican. Set to be in place next to the The post Barrel-vaulted community greenhouse built at the Barbican appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/13/veggery-barbican-studio-folk-architects-raskl/",
+      "image": "http://static.dezeen.com/uploads/2026/07/veggery-barbican-studio-folk-architects-raskl_dezeen_2364_sq_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/veggery-barbican-studio-folk-architects-raskl_dezeen_2364_sq_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-13T10:30:54+00:00"
+    },
+    {
+      "id": "ba9b3c072b6283c9",
+      "title": "This Kitchen Removed Its Island and Breakfast Bar for One Continuous Peninsula",
+      "summary": "Replacing kitchen cabinets often becomes the largest expense in a remodel, but changing the layout can transform the room even more. Reddit user u/throwawayagain4567 completely rebuilt a dated kitchen by removing the raised breakfast bar and compact center island, replacing them with one long peninsula that stretches across the room. According to the homeowner, the... The post This Kitchen Removed Its Island and Breakfast Bar for One Continuous Peninsula appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-kitchen-removed-its-island-and-breakfast-bar-for-one-continuous-peninsula/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Raised-Breakfast-Bar-Disappeared-and-the-Kitchen-Doubled-Its-Workspace.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Raised-Breakfast-Bar-Disappeared-and-the-Kitchen-Doubled-Its-Workspace.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/He-Glued-Together-a-Stack-of-Oak-Boards-and-Built-His-Own-Countertops-From-Scratch.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Before-and-After-Shows-a-Different-Floor-Plan.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Cabinets-Returned-Before-the-Countertops.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Entire-Layout-Was-Rebuilt.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Demolition-Reduced-the-Kitchen-to-Its-Essentials.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-13T09:23:23+00:00"
+    },
+    {
+      "id": "7f6ff97abfe1b850",
+      "title": "YSG draws on art deco for Sydney apartment revamp",
+      "summary": "Chamfered surfaces, warm hues and reinstated art deco features define the interiors of The Gentleman, a Sydney apartment remodelled by local interiors studio YSG. YSG carried out a complete renovation of the 95-square-meter, high-ceilinged apartment in a 1929 art deco building in the trendy suburb of Redfern, which has views of the Sydney Opera House. The post YSG draws on art deco for Sydney apartment revamp appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/13/art-deco-apartment-sydney-ysg/",
+      "image": "http://static.dezeen.com/uploads/2026/07/the-gentleman-apartment-ysg-redfern-sydney-australia-interiors_dezeen_2364_col_4.png",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/the-gentleman-apartment-ysg-redfern-sydney-australia-interiors_dezeen_2364_col_4.png"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-13T09:00:18+00:00"
     },
     {
       "id": "8d98d951fbeb04b3",
@@ -242,11 +334,11 @@
       "image": "https://www.yankodesign.com/images/design_news/2026/06/a-stool-a-bookstand-and-a-small-monument-to-stillness/bookchair_1.jpg",
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/06/a-stool-a-bookstand-and-a-small-monument-to-stillness/bookchair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/glamping-gifts-that-redefine-outdoor-living-in-2025/10_best_glamping_gear_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/03/26/halfbike_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/01/concrete-furniture-just-got-soft-5-designs-that-feel-like-art/Concrete-Furniture_Brutalism_Home-Design_11-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/12/wake-up-to-a-cup/wakefast_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/09/paris-design-week-2021-recap-here-are-our-top-favorite-designs-from-this-years-physical-maison-et-objet-event/meo_absolument_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/12/auto-draft/alps_hotel_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -383,29 +475,11 @@
       "url": "https://www.homedit.com/this-bathroom-disaster-ended-with-a-1950s-desk-becoming-the-new-vanity/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Floating-Vanity-Didnt-Stay-on-the-Wall.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Floating-Vanity-Didnt-Stay-on-the-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/New-Storage-Replaced-the-Missing-Drawers.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Drawers-Made-Room-for-Plumbing.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Paint-and-a-New-Countertop-Changed-the-Look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Original-Shape-Stayed-Intact.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Sanding-Removed-Years-of-Finish.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Floating-Vanity-Didnt-Stay-on-the-Wall.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-12T11:53:17+00:00"
-    },
-    {
-      "id": "20a1d900eed73b8d",
-      "title": "This Kia PV5 Modular Camper Kit Disappears Completely When the Weekend Is Over",
-      "summary": "This Kia PV5 Modular Camper Kit Disappears Completely When the Weekend Is Over Camper conversions usually leave a mark. Cabinets get bolted in, headroom gets swallowed by a pop top roof, and the donor vehicle spends the rest...",
-      "url": "https://www.yankodesign.com/2026/07/12/this-kia-pv5-modular-camper-kit-disappears-completely-when-the-weekend-is-over/?utm_source=rss&utm_medium=rss&utm_campaign=this-kia-pv5-modular-camper-kit-disappears-completely-when-the-weekend-is-over",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/635809/vantrack_lightcamp_1.jpeg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/635809/vantrack_lightcamp_1.jpeg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-12T11:40:04+00:00"
     },
     {
       "id": "0c3ac8fed06d7fb3",
@@ -414,12 +488,7 @@
       "url": "https://www.homedit.com/homes-started-choosing-upholstered-furniture-that-adds-color/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Homes-Started-Choosing-Upholstered-Furniture-That-Adds-Color.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Homes-Started-Choosing-Upholstered-Furniture-That-Adds-Color.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Burgundy-Sofas-Pair-Color-With-Graphic-Stitching.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Blue-Chaise-Lounges-Replace-Traditional-Accent-Chairs.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Bathroom-Disaster-Ended-With-a-1950s-Desk-Becoming-the-New-Vanity.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Spent-7000-Turning-the-Space-Under-His-Deck-Into-a-Flagstone-Patio.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Replaced-the-Fiberglass-Tub-and-the-Shower-Became-the-Entire-Bathroom.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Homes-Started-Choosing-Upholstered-Furniture-That-Adds-Color.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -474,9 +543,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/when-tokyos-fallen-branches-become-furniture-you-cant-ignore/uneri-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/12/352353/13_wfhorganizer_takuyahara_officefurniture.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/04/artu/artu_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/09/277392/Projectable_smartphone-projector_SideTable_YankoDesign-2.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/01/auto-draft/bed_ds-yankodesign05.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/12/a-stool-for-sitting-and-sweating/fitness_stool_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/top-10-wooden-furniture/top_10_wooden_furniture_designs_yanko_design_hero.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -572,32 +641,6 @@
       "published": "2026-07-11T08:00:00+00:00"
     },
     {
-      "id": "4b49125921096ef4",
-      "title": "This Early-2000s Cherry Kitchen Lost Its Walls and Gained a Whole New Layout",
-      "summary": "Dark cherry cabinets, speckled granite countertops, and a raised breakfast bar gave this early-2000s kitchen a traditional look. Shared by Reddit user u/loveofweb, the remodel replaced nearly every part of the room, from the layout and cabinetry to the structural framing that once separated the kitchen from the living space. Walls came down, structural beams... The post This Early-2000s Cherry Kitchen Lost Its Walls and Gained a Whole New Layout appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-early-2000s-cherry-kitchen-lost-its-walls-and-gained-a-whole-new-layout/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Early-2000s-Cherry-Kitchen-Lost-Its-Walls-and-Gained-a-Whole-New-Layout.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Early-2000s-Cherry-Kitchen-Lost-Its-Walls-and-Gained-a-Whole-New-Layout.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-11T07:43:58+00:00"
-    },
-    {
-      "id": "e760bab6f4b48e89",
-      "title": "Walk-In Pantry Turned Into Built-In Cabinets That Look Original to the Kitchen",
-      "summary": "Pantry closets often waste more space than they save. Deep shelves hide food behind other items, wire racks crowd the doorway, and the floor becomes a place for bulk packages instead of organized storage. Even when the pantry holds plenty, finding what you need can become frustrating. Reddit user kidguyperson removed the pantry closet instead... The post Walk-In Pantry Turned Into Built-In Cabinets That Look Original to the Kitchen appeared first on Homedit .",
-      "url": "https://www.homedit.com/walk-in-pantry-turned-into-built-in-cabinets-that-look-original-to-the-kitchen/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Walk-In-Pantry-Turned-Into-Built-In-Cabinets-That-Look-Original-to-the-Kitchen.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Walk-In-Pantry-Turned-Into-Built-In-Cabinets-That-Look-Original-to-the-Kitchen.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-11T06:25:32+00:00"
-    },
-    {
       "id": "64e551d1ae166122",
       "title": "FRESH! 2026 Decor + Design has a brand new look",
       "summary": "Australia’s definitive destination for the interior design industry, Decor + Design, returns for its 22nd edition to the Melbourne Exhibition Centre from 15–17 July 2026, co-located with the 3rd edition of the Green Design Show. 10,000+ trade visitors are expected… The post FRESH! 2026 Decor + Design has a brand new look appeared first on The Interiors Addict .",
@@ -677,9 +720,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-chair-that-came-from-a-single-obsessive-question/stitch-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/06/draft-titaner-voyager/Titaner_Voyager_Waterproof_Titanium_Carry_On_System_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/10/26/eslide01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/01/auto-draft/pocket_chair_06.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/04/19/dvision_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/Tempo_sound-wall-panels_aesthetic-acoustic-panels_textured-wall-interior-11.jpg",
+        "https://www.yankodesign.com/images/design_news/1970/01/01/IdeaBench-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/FAULD-CHAIR-Image.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -793,10 +836,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/11/rhys-stanley-geelong-cats-modern-farmhouse-christmas-bathroom-690a9a8a90a2f-scaled.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/03/eofy-front-loader-washing-machine-sales-eofy-washing-machine-deals-australia-2026-samsung-haier-6a30b7fc0a23b.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/03/amazon-prime-day-sales-2026-australia-price-tracking-6a434b6d9bf01.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/19463/kylie-jackes-scaled.jpg?w=2048",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/08/Brittany-Smith.png?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/11/studio-aem-luxury-ensuite-design-690d6cc8b665f.jpg?crop=0px%2C0px%2C1918px%2C1438px&resize=1950%2C1462&format=auto"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1015,9 +1058,9 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/06/mcp_cds_bss_1225_001_w1920-6a2a13b9a258c-scaled.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/03/eofy-front-loader-washing-machine-sales-eofy-washing-machine-deals-australia-2026-samsung-haier-6a30b7fc0a23b.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/03/amazon-prime-day-sales-2026-australia-price-tracking-6a434b6d9bf01.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/10/rebecca-mitchell-68e59cc98bd0c-scaled.jpg?w=2048",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/hedges-garden-hedging-plants-topiaries2-6a546001a6f16.jpg?crop=212px%2C0px%2C1708px%2C1281px&resize=1950%2C1462&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/05/timber-family-home-17-68214a9a379f0-scaled.jpg?crop=0px%2C671px%2C1704px%2C1281px&resize=1950%2C1462&format=auto"
       ],
       "source": "Home Beautiful AU",
@@ -1184,6 +1227,19 @@
       "published": "2026-07-08T13:00:00+00:00"
     },
     {
+      "id": "b37616f3cb4c440f",
+      "title": "Yinka Ilori's Dunelm collection aims to make good design \"a lot more accessible\"",
+      "summary": "British-Nigerian designer Yinka Ilori has brought a retro 1970s feeling to chairs, rugs, beds, lamps and cushions as part of a 40-piece collection for high-street furniture retailer Dunelm. Launched today, the Yinka Ilori x Dunelm collection is the designer's first full furniture and homeware collection. Ilori wanted the collection to be joyful, while evoking the eclectic The post Yinka Ilori's Dunelm collection aims to make good design \"a lot more accessible\" appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/08/yinka-ilori-dunelm-collection/",
+      "image": "http://static.dezeen.com/uploads/2026/07/yinka-ilori-dunelm-collection-chair-lamp-bed_dezeen_2364_sq_4.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/yinka-ilori-dunelm-collection-chair-lamp-bed_dezeen_2364_sq_4.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-08T10:00:50+00:00"
+    },
+    {
       "id": "34e5cf696ead6cf7",
       "title": "10 Easy Pieces: Grown-Up Guest Beds",
       "summary": "I moved from New York to a one-bedroom apartment in San Francisco a while back, and the list of friends that I’ve said “come and stay!” to has been growing and growing. The problem is I don’t like sleeper sofas—and while an air mattress is perfectly fine, there’s something very dorm-like about them. It’s a […]",
@@ -1325,6 +1381,19 @@
       "published": "2026-07-07T08:34:25+00:00"
     },
     {
+      "id": "b8ff1e4436ddaaa8",
+      "title": "Casul chair unfolds to become a children's play set",
+      "summary": "Only two moves are needed to transform this children's seat into a rudimentary castle, in a project that has earned Irish furniture designer James Murphy one of the top prizes at London's annual New Designers showcase. In its most compact form, the Casul chair resembles a miniature throne rendered in plywood. But clever timber joints The post Casul chair unfolds to become a children's play set appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/07/casul-chair-james-murphy/",
+      "image": "http://static.dezeen.com/uploads/2026/07/sq2-casul-james-murphy-chair-playset_dezeen_2364_col_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/sq2-casul-james-murphy-chair-playset_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-07T08:00:27+00:00"
+    },
+    {
       "id": "c2311230d3658702",
       "title": "Paris : un appartement haussmannien doté d’une grande verrière",
       "summary": "Pour Gubi, le mobilier se pense dans la manière dont il compose une atmosphère : une approche que la marque transpose dans un appartement parisien, où les pièces se découvrent comme dans un véritable intérieur.",
@@ -1349,6 +1418,19 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-07-07T01:28:05+00:00"
+    },
+    {
+      "id": "15d1b501d09c7863",
+      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
+      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-06T23:25:23+00:00"
     },
     {
       "id": "b1e95b23af2c7cc4",
@@ -1496,7 +1578,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_MARA__AERA_04_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_MARA__OTTO__Christophe-Pillet__03_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_©MARA__ARGO-LIBRO__LIMITED-EDITION_LR_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Y1DAdpXt-Zanotta_tavolo-Vertebra2333_IP06.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Nardi_Plano_MEN_1257.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1546,6 +1628,19 @@
       "published": "2026-07-05T22:30:29+00:00"
     },
     {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
+    },
+    {
       "id": "8af51695e1cad525",
       "title": "L’hotel Pitrizza dimostra che il lusso migliore è quello che scompare",
       "summary": "Architettura, ospitalità e cucina dialogano con il paesaggio in un albergo destinato a diventare Cheval Blanc nel 2027 The post L’hotel Pitrizza dimostra che il lusso migliore è quello che scompare appeared first on Interni Magazine .",
@@ -1555,9 +1650,9 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1725,6 +1820,19 @@
       "published": "2026-07-01T21:00:00+00:00"
     },
     {
+      "id": "c6426737a2cbb567",
+      "title": "Adinne chair by True Design among five new products on Dezeen Showroom",
+      "summary": "Dezeen Showroom: a chair made from leather and wood designed to reference hand sketches is among five new products featured on Dezeen Showroom. Adinne chair by Leonardo Rossano for True Design Solid wood and leather meet in this minimal and angular chair created by designer Leonardo Rossano for True Design. The Adinne chair draws on the The post Adinne chair by True Design among five new products on Dezeen Showroom appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/01/adinne-chair-true-design-products-lighting-seating-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/06/adinne-chair-leonardo-rossano-true-design_dezeen_2364_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/adinne-chair-leonardo-rossano-true-design_dezeen_2364_sq.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-01T13:00:25+00:00"
+    },
+    {
       "id": "c2dbce46b3ce17ec",
       "title": "Large format DIY wall panels provide stylish sound insulation",
       "summary": "As Australian interiors continue to move away from stark minimalism, walls are being reimagined as more than a painted backdrop.… The post Large format DIY wall panels provide stylish sound insulation appeared first on The Interiors Addict .",
@@ -1816,6 +1924,32 @@
       "published": "2026-06-29T21:00:00+00:00"
     },
     {
+      "id": "061c0a9086075328",
+      "title": "Keilhauer and Yabu Pushelberg detail \"softer approach to contract seating\" at NeoCon panel",
+      "summary": "Promotion: during a NeoCon panel in Chicago, furniture brand Keilhauer and design studio Yabu Pushelberg discussed their collaboration for the Etta Collection, which translates luxurious forms for healthcare and office environments. The talk, hosted in Keilhauer's new showroom at Chicago's Merchandise Mart, featured Keilhauer CEO Mike Keilhauer and creative director Maggie Keilhauer, Yabu Pushelberg founding The post Keilhauer and Yabu Pushelberg detail \"softer approach to contract seating\" at NeoCon panel appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/29/keilhauer-yabu-pushelberg-detail-softer-approach-to-contract-seating-at-neocon-panel/",
+      "image": "http://static.dezeen.com/uploads/2026/06/keilhauer-yabu-pushelberg-talk_dezeen_2364_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/keilhauer-yabu-pushelberg-talk_dezeen_2364_sq.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-29T20:00:41+00:00"
+    },
+    {
+      "id": "7a5f6f2ae8ef6774",
+      "title": "Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life",
+      "summary": "The brand’s State of the Art collection brings cooking, refrigeration and dishwashing into a coordinated kitchen ecosystem. The post Fisher & Paykel’s Appliances Are Designed for the Rituals of Domestic Life appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/fisher-paykel-state-of-the-art-minimal-style/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/06/Azure-Fisher-Paykel-State-of-the-Art-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-06-29T13:00:00+00:00"
+    },
+    {
       "id": "e69d68ed29184525",
       "title": "Kitchens by Cabbonet",
       "summary": "Dezeen Showroom: bespoke kitchens crafted with deluxe materials are the speciality of British brand Cabbonet, founded by designer Andrew Hays. The creative vision for Cabbonet's kitchens is devised by Arteim, Hays' studio started with Kimm Kovac, and are known for their sense of depth, luxuriousness and drama – features that are rooted in the founders' The post Kitchens by Cabbonet appeared first on Dezeen .",
@@ -1866,6 +2000,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-06-28T21:00:00+00:00"
+    },
+    {
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2065,19 +2212,6 @@
       "published": "2026-06-24T10:00:08+00:00"
     },
     {
-      "id": "9315ada58e01f025",
-      "title": "10 Easy Pieces: Electric Composters for the Kitchen",
-      "summary": "When I was living in San Francisco, I took for granted the robust composting program of Recology San Francisco. I became accustomed to composting all food scraps, paper products, cardboard, and even wooden chopsticks via a small kitchen bin lined with a green compostable bag. It was so easy, so simple, so satisfying! Then I […]",
-      "url": "https://www.remodelista.com/posts/electric-kitchen-composters-food-cyclers-countertop-10-easy-pieces/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2025/03/mill-food-recycler.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2025/03/mill-food-recycler.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-06-24T08:00:40+00:00"
-    },
-    {
       "id": "ba3f2395f6af4abb",
       "title": "Secessionist references weave through Vienna's Wilde aparthotel",
       "summary": "Interior design studio Stephanie Barba Mendoza looked to Vienna's artistic past to devise the communal spaces of this aparthotel, which takes over a 19th-century post office in the Austrian capital. The landmark post office building was constructed in Vienna's Fleischmarkt district in 1854 and stayed in operation for 150 years, during which the city gave The post Secessionist references weave through Vienna's Wilde aparthotel appeared first on Dezeen .",
@@ -2148,6 +2282,19 @@
       "published": "2026-06-23T08:49:38+00:00"
     },
     {
+      "id": "fa61e033f9e2e5da",
+      "title": "Meridian rugs by Armadillo among six new products on Dezeen Showroom",
+      "summary": "Dezeen Showroom: a series of rugs that foreground weaving patterns and fibres over colour and print are among six new products featured on Dezeen Showroom. Meridian rugs by Armadillo Rug brand Armadillo has released a collection of rugs named Meridian, which celebrate the tactile effects created by different weave styles, construction methods and fibre types. The post Meridian rugs by Armadillo among six new products on Dezeen Showroom appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/22/meridian-rugs-armadillo-furniture-surfaces-lighting-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/06/meridian-rugs-armadillo-dezeen-showroom_dezeen_2364_col_1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/meridian-rugs-armadillo-dezeen-showroom_dezeen_2364_col_1.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-22T13:00:56+00:00"
+    },
+    {
       "id": "8d785c2610f5bb19",
       "title": "Eight scenic bathrooms with a window to the great outdoors",
       "summary": "A wet room surrounded by the Costa Rican jungle and a built-in tub overlooking a Japanese beach feature in our latest lookbook, which brings together bathrooms with enviable nature views. The following homes are united by their dreamy coastal settings, framed by intentionally large windows. This glazing is especially effective in the homes' bathrooms, which The post Eight scenic bathrooms with a window to the great outdoors appeared first on Dezeen .",
@@ -2174,6 +2321,19 @@
       "published": "2026-06-20T17:00:04+00:00"
     },
     {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
+    },
+    {
       "id": "e3722e01889eb440",
       "title": "F5: Amanda Martocchio Talks the Rockies, Her Jens Risom Stool, a Joan Snyder Painting + More",
       "summary": "Architect Amanda Martoccchio shares some of her favorites in nature, from Hawthorn trees to the Rocky Mountains, and more.",
@@ -2185,6 +2345,32 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-19T18:00:09+00:00"
+    },
+    {
+      "id": "3dd6950b3f95ebc2",
+      "title": "For Sale: Nice Machines from Kelly Mehler’s Workshop",
+      "summary": "When woodworker and instructor Kelly Mehler died unexpectedly last year, he left behind a shop full of meticulously maintained woodworking machines that he used in his personal work after he closed his woodworking school. The Mehler family is trying to find new homes for these machines, avoiding the chaos and unpredictability of an auction. These...",
+      "url": "https://blog.lostartpress.com/2026/06/19/for-sale-nice-machines-from-kelly-mehlers-workshop/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-19T16:46:51+00:00"
+    },
+    {
+      "id": "c91ff40c2f4c9667",
+      "title": "New Book: ‘17th-Century Essex County Cupboard’",
+      "summary": "Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...",
+      "url": "https://blog.lostartpress.com/2026/06/18/new-book-17th-century-essex-county-cupboard/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-18T21:11:15+00:00"
     },
     {
       "id": "bcfca73d7828d49c",
@@ -2296,6 +2482,45 @@
       "published": "2026-06-17T16:00:53+00:00"
     },
     {
+      "id": "1f5186f258a724a9",
+      "title": "LAP Open Wire on Saturday (June 20)",
+      "summary": "We’re cooking up answers for Open Wire this Saturday (June 20) on the Lost Art Press blog – so if you have a woodworking question, you’ll have until 5 p.m. Eastern to ask it in the comments section on the Open Wire post, which will go live at 8 a.m. Chris and I will do...",
+      "url": "https://blog.lostartpress.com/2026/06/17/lap-open-wire-on-saturday-june-20/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-17T15:16:43+00:00"
+    },
+    {
+      "id": "5a32b1b1b7bc6f6f",
+      "title": "Studio NRG designs Lilium Chair out of recycled metal car rims",
+      "summary": "Colombian designer Nicolas Riano Guerrero of Studio NRG has unveiled the Lilium chair made using aluminium salvaged from car rims. The limited-edition furnishing reflects the soft shape of a flower petal with the aim of revealing how metal and other industrial materials can become approachable. \"The idea came from wanting to take one of the The post Studio NRG designs Lilium Chair out of recycled metal car rims appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/17/studio-nrg-nicolas-riano-guerrero-lilium-chair/",
+      "image": "http://static.dezeen.com/uploads/2026/06/studio-nrg-lilium-chair-car-rims_dezeen_2364-sq-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/studio-nrg-lilium-chair-car-rims_dezeen_2364-sq-1.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-17T15:00:07+00:00"
+    },
+    {
+      "id": "ef2c00f7e8451e60",
+      "title": "Seven standout seating projects from 3 Days of Design in June",
+      "summary": "Design weeks never fail to be laden with chairs. To help you separate the wheat from the chaff, our design and interiors reporter Jane Englefield has rounded up seven of the most striking seating projects from Copenhagen's 3 Days of Design festival. The annual 3 Days of Design festival concluded in the Danish capital last The post Seven standout seating projects from 3 Days of Design in June appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/17/seven-standout-seating-projects-3-days-of-design-june/",
+      "image": "http://static.dezeen.com/uploads/2026/06/crude-seating-3-days-of-design-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/crude-seating-3-days-of-design-1.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-17T08:00:47+00:00"
+    },
+    {
       "id": "a6274e38bce6a790",
       "title": "Десять будущих кладовщиков завершили практику на предприятии компании «ФЕЛИКС»",
       "summary": "Студенты ГБПОУ «Торопецкий колледж» завершили практику на крупнейшем предприятии мебельной отрасли Тверской области — фабрике компании «ФЕЛИКС». Практика стала заключительным модулем обучения по теме «Оценка эффективности работы логистических систем и контроль логистических операций» для выпускников специальности «Операционная деятельность в логистике». В течение недели десять будущих кладовщиков отрабатывали профессиональные навыки и знакомились с работой современного мебельного предприятия.",
@@ -2307,6 +2532,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-06-17T06:30:20+00:00"
+    },
+    {
+      "id": "dd24c1858088e7c4",
+      "title": "Sail table by Design By Them among seven new products on Dezeen Showroom",
+      "summary": "Dezeen Showroom: an all-aluminium dining table with crimped sides is among seven new products featured on Dezeen Showroom. Sail table by Tom Fereday for Design By Them Designer Tom Fereday's Sail table for Australian brand Design By Them is made entirely from aluminium and its top features distinctively folded-over sides. The table comes in three sizes The post Sail table by Design By Them among seven new products on Dezeen Showroom appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/15/sail-table-tom-fereday-design-by-them-furnishings-products-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/06/sail-table-tom-fereday-design-by-them-dezeen-showroom_dezeen_2364_col_0-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/sail-table-tom-fereday-design-by-them-dezeen-showroom_dezeen_2364_col_0-1.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-15T18:00:17+00:00"
     },
     {
       "id": "30136e88d7ce49ac",
@@ -2335,17 +2573,43 @@
       "published": "2026-06-14T05:00:19+00:00"
     },
     {
-      "id": "2bbc7a0ccd61354e",
-      "title": "Required Reading: Artist Robert Dash’s Garden Finally Gets Its Own Book",
-      "summary": "When I heard that there would be a book published about Madoo, the garden that artist Robert Dash created on eastern Long Island, I was both excited and nervous. I was excited because Madoo is one of the most enchanting American gardens I have visited (and I have visited it often). I was nervous because […]",
-      "url": "https://www.gardenista.com/posts/required-reading-madoo-garden-robert-dash/",
-      "image": "https://media.gardenista.com/wp-content/uploads/2026/06/madoo-cover.png",
+      "id": "b8d28eaf6038a435",
+      "title": "Eight products that debuted at 3 Days of Design 2026",
+      "summary": "Dezeen Showroom: following this year's edition of 3 Days of Design in Copenhagen, we've rounded up eight furnishings and surfaces that were launched during the event. Over 400 brands from around the world congregated in the Danish capital for the 13th edition of the annual design week, which took place on 10, 11 and 12 The post Eight products that debuted at 3 Days of Design 2026 appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/12/products-tiles-furniture-3-days-of-design-2026/",
+      "image": "http://static.dezeen.com/uploads/2026/06/vermland-modular-kitchen-square-showroom_dezeen_2364_col_0.jpg",
       "images": [
-        "https://media.gardenista.com/wp-content/uploads/2026/06/madoo-cover.png"
+        "http://static.dezeen.com/uploads/2026/06/vermland-modular-kitchen-square-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-06-12T08:00:19+00:00"
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-12T13:00:13+00:00"
+    },
+    {
+      "id": "f9fbc50b38a3c79e",
+      "title": "Five Antoni Gaudí furniture pieces that reveal the designer behind the architect",
+      "summary": "The undulating architecture of Antoni Gaudí is lauded around the world, but less known is his distinctive furniture. For our Gaudí Centenary series, we look at five of these striking pieces. Although globally celebrated as an architect, it would be remiss to consider Gaudí's legacy without mentioning his furniture, which is characterised by the same The post Five Antoni Gaudí furniture pieces that reveal the designer behind the architect appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/12/five-antoni-gaudi-furniture-pieces-gaudi-centenary/",
+      "image": "http://static.dezeen.com/uploads/2026/06/calvet-bench-antoni-gaudi-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/calvet-bench-antoni-gaudi-1.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-12T10:00:37+00:00"
+    },
+    {
+      "id": "2bbf7f88921c7b13",
+      "title": "Ukurant exhibition features squishy rubber tables and drywall vases",
+      "summary": "The Ukurant exhibition at 3 Days of Design includes craft-focussed furniture ranging from a raw branch wood stool to a vertebrate-like sun lounger rendered in gleaming plastic. Set in a former factory in the Danish capital, Ukurant Makes Room brings together pieces by 26 emerging creatives from around the world who are committed to combining The post Ukurant exhibition features squishy rubber tables and drywall vases appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/12/ukurant-exhibition-3-days-of-design-2026/",
+      "image": "http://static.dezeen.com/uploads/2026/06/ukurant-exhibition-3-days-of-design-2026-sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/ukurant-exhibition-3-days-of-design-2026-sq.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-12T08:00:03+00:00"
     },
     {
       "id": "77ab8dac26ec0fee",
@@ -2359,6 +2623,19 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-12T06:52:53+00:00"
+    },
+    {
+      "id": "0390659f1204d9d6",
+      "title": "Eleven innovative collections from Chicago Design Week",
+      "summary": "An office chair by Foster + Partners Industrial Design made with reused fishing nets and lightweight aluminium benches designed by Naoto Fukasawa were among the objects displayed at this year's Chicago Design Week. This year's Chicago Design Week, which takes part between the city's sprawling Merchandise Mart (the Mart) and a neighbourhood away in Fulton The post Eleven innovative collections from Chicago Design Week appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/11/chicago-design-week-neocon-2026-round-up/",
+      "image": "http://static.dezeen.com/uploads/2026/06/chicago-design-week_dezeen_2364_col_1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/chicago-design-week_dezeen_2364_col_1.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-11T18:10:33+00:00"
     },
     {
       "id": "2ed9db500c44fa06",
@@ -2385,6 +2662,19 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
+    },
+    {
+      "id": "445ca7143bd608cd",
+      "title": "Snowman22 lighting by ILKW among 14 new products on Dezeen Showroom",
+      "summary": "Dezeen Showroom: a glass lighting collection that aims to emulate the playful look of snowmen is among 14 new products featured on Dezeen Showroom. Snowman22 lighting by ILKW Korean design brand ILKW has released a lighting collection united by playfully shaped glass shades. The Snowman22 range comprises wall, floor, table and pendant lights and comes The post Snowman22 lighting by ILKW among 14 new products on Dezeen Showroom appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/09/snowman22-lighting-ilkw-furniture-tiles-products-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/06/snowman22-lighting-ilkw-design_dezeen_2364_col_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/snowman22-lighting-ilkw-design_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-09T13:00:29+00:00"
     },
     {
       "id": "d3b03a749b15e372",
@@ -2491,6 +2781,19 @@
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-06-04T23:00:00+00:00"
+    },
+    {
+      "id": "74b0b8bc9f75520d",
+      "title": "MillerKnoll CEO Andi Owen resigns and Herman Miller appoints new creative directors",
+      "summary": "US furniture company MillerKnoll has announced leadership changes, including the resignation of CEO Andi Owen and the appointment of Kim Colin and Sam Hecht of London studio Industrial Facility as Herman Miller creative directors. According to the company, Owen, who served as CEO for eight years, resigned and will take a leave of absence due The post MillerKnoll CEO Andi Owen resigns and Herman Miller appoints new creative directors appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/06/04/millerknoll-ceo-resigns-creative-director/",
+      "image": "http://static.dezeen.com/uploads/2024/02/andi-owen-millerknoll-sq_dezeen_1704_col_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2024/02/andi-owen-millerknoll-sq_dezeen_1704_col_0.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-06-04T18:59:28+00:00"
     },
     {
       "id": "0a9cefe4bd8d4db4",
@@ -2863,6 +3166,19 @@
       "published": "2026-05-22T08:00:56+00:00"
     },
     {
+      "id": "29e6e448f55a7134",
+      "title": "Julio Torres makes design debut with \"coming to New York\" collection for Sabai",
+      "summary": "Actor Julio Torres worked with US furniture company Sabai to create a collection of furniture informed by the act of moving to New York City, including a screen with a curtain motif pulled from JFK Terminal 4. The All Other Passports collection marks Torres' first foray into design, though the actor and director is known The post Julio Torres makes design debut with \"coming to New York\" collection for Sabai appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/21/julio-torres-sabai-all-other-passports-new-york-city/",
+      "image": "http://static.dezeen.com/uploads/2026/05/all-other-passports-julio-torres-sabai-new-york-city_dezeen_2364_sq-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/all-other-passports-julio-torres-sabai-new-york-city_dezeen_2364_sq-1.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-21T18:58:22+00:00"
+    },
+    {
       "id": "cf005a016ad6a1b3",
       "title": "Six exhibitions spotlighting designer-makers at Melbourne Design Week",
       "summary": "Playful champagne buckets, algae-made marble and over 100 chairs designed and made in Australia, feature in this year's Melbourne Design Week. As the largest design week in Australia, Melbourne Design Week presented over 400 exhibitions, talks and workshops at various venues across the city. \"Melbourne Design Week is not just about showcasing Australian design: it The post Six exhibitions spotlighting designer-makers at Melbourne Design Week appeared first on Dezeen .",
@@ -2900,6 +3216,32 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-20T09:00:11+00:00"
+    },
+    {
+      "id": "94c4f9a2188d8bd6",
+      "title": "Max Lamb's seminal Economy Chair goes into production with Hem",
+      "summary": "British designer Max Lamb has brought his most recognisable seating prototype into production for the first time, rendering it in sleek pinewood for Swedish brand Hem. The Min Chair is an iteration of the Economy Chair, a chunky design that Lamb first conceived in 2020 when he made 60 chairs by hand out of slabs of polystyrene over just three The post Max Lamb's seminal Economy Chair goes into production with Hem appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/20/max-lamb-economy-chair-min-chair-hem/",
+      "image": "http://static.dezeen.com/uploads/2026/05/hem-min-chair-max-lamb-3-days-of-design-sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/hem-min-chair-max-lamb-3-days-of-design-sq.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-20T05:00:59+00:00"
+    },
+    {
+      "id": "bbd921b9925b3b3f",
+      "title": "Dezeen Debate features \"quaint\" historic furniture by Louis Kahn and SOM",
+      "summary": "The latest edition of our Dezeen Debate newsletter features Ikonstudio's inaugural collections of historic furniture. Subscribe to Dezeen Debate now. Last week, Canadian design studio Ikonstudio launched its first collection of historic furniture designs by SOM and Louis Kahn. Commenters discussed the project, with one calling the collection \"quaint\" and another saying, \"These were good choices, The post Dezeen Debate features \"quaint\" historic furniture by Louis Kahn and SOM appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/05/19/dezeen-debate-features-quaint-historic-furniture-by-louis-kahn-and-som/",
+      "image": "http://static.dezeen.com/uploads/2026/05/ikonstudio-som-louis-kahn-furniture-releases_dezeen_2364_sq-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/05/ikonstudio-som-louis-kahn-furniture-releases_dezeen_2364_sq-1.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-05-19T18:00:08+00:00"
     },
     {
       "id": "fbec2223a408282b",
@@ -3056,6 +3398,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-04-20T08:44:31+00:00"
+    },
+    {
+      "id": "d2ebf1c95182cff8",
+      "title": "Custom Built-In Desk, Huge Transformation",
+      "summary": "There’s something deeply satisfying about taking a built-in that’s barely hanging on and replacing it with something that actually looks like real furniture. That was the mission for this project. Nicole’s old desk had seen better days. On the surface, it looked like a functional built-in, but once I started digging in, it became clear […] The post Custom Built-In Desk, Huge Transformation appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/custom-built-in-desk-huge-transformation/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/builtin-desk.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-04-17T15:12:56+00:00"
     },
     {
       "id": "1133d9f81d41eec5",
