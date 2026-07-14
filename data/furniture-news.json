@@ -1,11 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-14T18:14:08.062312+00:00",
-  "generated_at_human": "2026-07-14 18:14 UTC",
-  "total_items": 231,
+  "generated_at": "2026-07-14T20:20:27.482739+00:00",
+  "generated_at_human": "2026-07-14 20:20 UTC",
+  "total_items": 235,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
@@ -56,9 +58,128 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 50,
-  "multi_photo_items": 56,
+  "sources_count": 52,
+  "multi_photo_items": 58,
   "items": [
+    {
+      "id": "50ced7a4258ad654",
+      "title": "ЖК «Регенбоген»: как история места определила выбор фасадных материалов",
+      "summary": "В концепции проекта ЖК «Регенбоген» на Васильевском острове (архитектор Сергей Шустерман, бюро Astragal) промышленное наследие района стало отправной точкой. В дизайн-коде фасадов нашла отражение азбука Морзе, а сами фасады выполнены из полноформатного кирпича и плитки: такое решение позволило реализовать сложный объект в условиях исторического центра Петербурга.",
+      "url": "http://archi.ru/tech/news_102415.html",
+      "image": "https://i.archi.ru/i/1262/507768.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/507768.jpg",
+        "http://i.archi.ru/i/1262/507768.jpg",
+        "http://i.archi.ru/i/1262/507766.jpg",
+        "http://i.archi.ru/i/507765.jpg",
+        "http://i.archi.ru/i/1262/507771.jpg",
+        "http://i.archi.ru/i/1262/507769.png"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "4528daec33993603",
+      "title": "Партитура для 12-й линии",
+      "summary": "Дом «Амо», построенный по проекту Степана Липгарта на Васильевском острове, соединяет три мотива: курдонер, двор-пьяцетту и заимствованные у архитектуры Ренессанса образы, которые позволили сделать современный многоквартирный комплекс более гуманистичным, развивающим тему индивидуальности в жилой архитектуре. В этом помог набор в меру стандартизированных элементов – филенки, усложненные орнаментом, выполненным в технике сграффито; «линейка» карнизов и профилей, а также штучные элементы декора. Комплекс включает жилую и гостиничную части, которые обрамляют отреставрированный деревянный…",
+      "url": "https://archi.ru/russia/102084/partitura-dlya--i-linii",
+      "image": "https://i.archi.ru/i/1262/485960.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/485960.jpg",
+        "https://i.archi.ru/i/1262/310555.jpg?r=71891",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=23616",
+        "https://i.archi.ru/news/main_images/280x280/435218.jpg",
+        "https://i.archi.ru/news/main_images/280x280/314536.jpg",
+        "https://i.archi.ru/i/1262/485977.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "41f17d6e620331d5",
+      "title": "Творческие амбиции автовладельцев",
+      "summary": "Бюро OOIIO перепрофилировало заброшенную фабрику кухонной мебели в Леганесе под Мадридом в автоцентр с ярким, авторским решением.",
+      "url": "https://archi.ru/world/102422/tvorcheskie-ambicii-avtovladelcev",
+      "image": "https://i.archi.ru/i/1262/508032.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/508032.jpg",
+        "https://i.archi.ru/i/1262/378886.jpg?r=50837",
+        "https://i.archi.ru/i/1262/508051.jpg",
+        "https://i.archi.ru/i/1262/508033.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "7ce07fabe0b5f0ae",
+      "title": "Оттенки квартала: клинкер ModFormat на фасадах СберСити",
+      "summary": "Квартал В17 в Рублево-Архангельском – один из первых реализованных фрагментов нового московского района, который Сбер строит с нуля. Архитектурное бюро МЛА+ выбрало для облицовки периметральных корпусов клинкерную плитку ModFormat завода «КС Керамик». Три цвета, один формат и большая работа по подбору оттенков – разбираемся, как это решение работает в масштабе квартала.",
+      "url": "http://archi.ru/tech/news_102396.html",
+      "image": "https://i.archi.ru/i/1262/507363.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/507363.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "91afde426b10abf4",
+      "title": "Модульный стандарт фасадных решений",
+      "summary": "Модульная фасадная система МАНУФОРМ предлагает новый подход к облицовке зданий, в полной мере раскрывая потенциал технологии НВФ: вместо штучной плитки – крупноформатный блок заводской готовности. Эксклюзивные фактуры коллекций, цельные углы, элементы декора и фирменные затирочные составы сочетаются с технологическим превосходством при монтаже. Разбираемся, как это работает и что это дало архитекторам на примере пяти реализованных объектов.",
+      "url": "http://archi.ru/tech/news_102379.html",
+      "image": "https://i.archi.ru/i/1262/507519.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/507519.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "7705af987cc2d7ae",
+      "title": "Ингмар Витвицкий: «Сегодня стекло полноценно формирует эргономику здания»",
+      "summary": "Когда архитектор выбирает остекление, он работает сразу на двух уровнях: создаёт выразительный силуэт и продумывает будущую эксплуатацию фасада. Как эстетика и функционал стекла складываются в цельный замысел, рассказывает основатель и руководитель архитектурно-строительного бюро «Ингмар» – Ингмар Витвицкий.",
+      "url": "http://archi.ru/tech/news_102399.html",
+      "image": "https://i.archi.ru/i/1262/507557.png",
+      "images": [
+        "https://i.archi.ru/i/1262/507557.png"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "36fa10b6815bb0d0",
+      "title": "Прованс от KERAMA MARAZZI: тихая роскошь в камне, керамике и фаянсе",
+      "summary": "KERAMA MARAZZI выпустила коллекцию «Прованс» – полноценную систему для интерьеров и экстерьеров, объединяющую под одним именем керамогранит и настенную плитку, сантехнику и мебель, фирменные обои и панели сверхкрупных форматов.",
+      "url": "http://archi.ru/tech/news_102266.html",
+      "image": "https://i.archi.ru/i/1262/503694.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/503694.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "0ea4c8efc69db422",
+      "title": "It's Time To Dump Baskets: There's A Better Thrift Store Find For Organizing Closet Chaos",
+      "summary": "Baskets are a common go-to for organizing closets. However, these thrift store finds have benefits when it comes to protecting and storing accessories.",
+      "url": "https://www.hunker.com/2211323/basket-alternative-thrift-store-find-organizing-closet-hat-box/",
+      "image": "https://www.hunker.com/img/gallery/its-time-to-dump-baskets-theres-a-better-thrift-store-find-for-organizing-closet-chaos/l-intro-1783603177.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/its-time-to-dump-baskets-theres-a-better-thrift-store-find-for-organizing-closet-chaos/l-intro-1783603177.jpg",
+        "https://www.hunker.com/img/gallery/its-time-to-dump-baskets-theres-a-better-thrift-store-find-for-organizing-closet-chaos/intro-1783603177.jpg",
+        "https://www.hunker.com/img/gallery/its-time-to-dump-baskets-theres-a-better-thrift-store-find-for-organizing-closet-chaos/recover-thrifted-hat-boxes-for-sturdy-closet-storage-1783603179.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-14T19:00:00+00:00"
+    },
     {
       "id": "1bb304d0c6a720ce",
       "title": "DIYer Turns IKEA Metal Serving Bowls Into A Chic Coffee Table With Storage",
@@ -135,9 +256,7 @@
       "url": "https://www.hunker.com/2209393/affordable-dollar-tree-diy-chic-countertop-storage-canister-set/",
       "image": "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-countertop-storage-canister-set/l-intro-1783604901.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-countertop-storage-canister-set/l-intro-1783604901.jpg",
-        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-countertop-storage-canister-set/intro-1783604901.jpg",
-        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-countertop-storage-canister-set/customized-dollar-tree-containers-add-elegant-storage-1783604902.jpg"
+        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-countertop-storage-canister-set/l-intro-1783604901.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -211,8 +330,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/479426a9-b65b-47e8-8a2a-0f07cfaca949.png",
         "https://hips.hearstapps.com/hmg-prod/images/330dba0a-6114-42e0-b55b-aca737313719.png",
         "https://hips.hearstapps.com/hmg-prod/images/2b7aaf94-ae0f-48b2-ac51-dc16e1946d87.png",
-        "https://hips.hearstapps.com/hmg-prod/images/markham-roberts-connecticut-house-exterior-67f41ccfb2d48.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/meg-braff-nantucket-house-waterfront-6842005dae13c.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/mcgregor-nantucket-sunroom-mckendree-669181ce6d65c.png",
+        "https://hips.hearstapps.com/hmg-prod/images/nantucket-island-harbor-684769012d1c3.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -524,7 +643,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/sanctum-retreat/sanctum_retreat_yanko_design_01.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-13T23:30:54+00:00"
     },
@@ -551,39 +670,13 @@
         "https://www.yankodesign.com/images/design_news/2026/07/how-a-simple-angle-makes-outdoor-seating-feel-more-social/Takeout_wedge_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/11/this-is-projector-perfection/beam_projectorq_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/ultra-minimalist-coffee-table-concept-has-nothing-to-hide/ultra-minimalist-coffee-table-concept-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/04/20/t_t_pen.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/06/this-adaptable-good-looking-office-chair-is-made-from-recycled-fishing-nets-salvaged-from-the-ocean/Fishing-Net_chair_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/genius-camping-gadgets-that-make-you-wonder-why-you-ever-slept-in-a-normal-bed/10_best_genuis_camping_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/03/stunning-style-meets-soundproof-serenity-from-fashionable-earplugs/Functional_Earplugs_that_look_like_Fashionable_Earrings_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-13T22:30:11+00:00"
-    },
-    {
-      "id": "91cbf51d6d2677cd",
-      "title": "Is Granite Or Quartz More Eco-Friendly? This Affordable Alternative Is Greener",
-      "summary": "When it comes to kitchen countertop materials, granite and quartz are absolute favorites, but they're definitely not the most eco-friendly choices.",
-      "url": "https://www.hunker.com/2212697/is-granite-or-quartz-more-eco-friendly-affordable-alternative-bamboo-countertops/",
-      "image": "https://www.hunker.com/img/gallery/is-granite-or-quartz-more-eco-friendly-this-affordable-alternative-is-greener/l-intro-1783713484.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/is-granite-or-quartz-more-eco-friendly-this-affordable-alternative-is-greener/l-intro-1783713484.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-13T22:30:00+00:00"
-    },
-    {
-      "id": "802548b44ba64fb0",
-      "title": "Woman Turns IKEA Pet Bowls Into Cute Countertop Storage You'll Love",
-      "summary": "Transform IKEA's glazed stoneware for pets into a stylish and affordable statement piece for your countertop with this craft that comes together in minutes.",
-      "url": "https://www.hunker.com/2207733/ikea-pet-bowls-diy-fruit-countertop-storage/",
-      "image": "https://www.hunker.com/img/gallery/ikea-pet-bowls-diy-fruit-countertop-storage/l-intro-1783524137.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ikea-pet-bowls-diy-fruit-countertop-storage/l-intro-1783524137.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-13T22:00:00+00:00"
     },
     {
       "id": "6961a46d6e7ceaef",
@@ -745,7 +838,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/the-gentleman-apartment-ysg-redfern-sydney-australia-interiors_dezeen_2364_col_4.png"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-13T09:00:18+00:00"
     },
@@ -801,9 +894,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/a-stool-a-bookstand-and-a-small-monument-to-stillness/bookchair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/02/auto-draft/nazo_2.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/12/auto-draft/morrama_angle_razor-yankodesign02.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/09/how-dave-kindigs-1953-corvette-twelveair-sets-a-new-standard-for-custom-car-design/Kindigs-1953-Corvette-TwelveAir-hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/08/praying-mantis-side-table-is-minimalist-furniture-with-legs-and-arms/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/06/auto-draft/kraken_decor_nox_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/this-office-chairs-5-side-to-side-tilt-is-designed-to-support-your-posture-and-bodys-natural-movement/01-5degree_tilt_250design_swivel-office-chair.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -876,9 +969,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/when-tokyos-fallen-branches-become-furniture-you-cant-ignore/uneri-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/08/auto-draft/09_tenementh_sandesign_cubbystorage.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/10/auto-draft/painting_stool_4.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/buffalo-seating-collection/buffalo_seating_collection_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/09/27/mobile_room_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/interactive-transformation-table-concept-turns-furniture-into-playful-sculpture/interactive-transformation-table-concept-06.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/06/beautiful-amorphous-chair-is-also-a-side-table-bookcase-and-art-object-in-one/metamorfosi-chair-9.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -893,7 +986,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/saint_bond_dezeen_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-11T17:00:51+00:00"
     },
@@ -1088,22 +1181,9 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/bone-roll-slump-faye-toogood-sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-10T10:15:07+00:00"
-    },
-    {
-      "id": "411d4649241e9493",
-      "title": "\"Now that's a stairway to heaven\" says commenter",
-      "summary": "In this week's comments update, readers are discussing a weathered steel-clad kindergarten in Munich campus by Berlin studio Kéré Architecture. Complete with a three-storey playground, Kinderoase an der TUM, is an on-site childcare facility to support young professionals balancing work and family responsibilities. \"Love those slides\" \"The interiors, plans and massing are all excellent here,\" The post \"Now that's a stairway to heaven\" says commenter appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/10/kere-architecture-kinderoase-an-der-tum-munich-comments/",
-      "image": "http://static.dezeen.com/uploads/2026/07/kere-architecture-kinderoase-an-der-tum-munich-hero_dezeen_2364_col_1_square.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/kere-architecture-kinderoase-an-der-tum-munich-hero_dezeen_2364_col_1_square.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-10T09:00:54+00:00"
     },
     {
       "id": "6506cdcac7e21902",
@@ -1289,24 +1369,6 @@
       "source": "Stylepark DE",
       "source_url": "https://www.stylepark.com",
       "published": "2026-07-08T22:00:00+00:00"
-    },
-    {
-      "id": "a96d7324e4054046",
-      "title": "Saba’s Oasi Outdoor Seating Finds Its Natural Habitat",
-      "summary": "Photographed among cacti and tropical plants of Giardino Botanico La Cutura, the collection blurs the boundary between furniture and landscape.",
-      "url": "https://design-milk.com/saba-oasi-robin-rizzini-botanical-garden/",
-      "image": "https://design-milk.com/images/2026/07/Saba_EmotionalCampaign_Oasi_ph.Sorgetti1.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/07/Saba_EmotionalCampaign_Oasi_ph.Sorgetti1.jpg",
-        "https://design-milk.com/images/2026/07/Saba_EmotionalCampaign_Oasi_ph.Sorgetti10.jpg",
-        "https://design-milk.com/images/2026/07/Saba_EmotionalCampaign_Oasi_ph.Sorgetti2.jpg",
-        "https://design-milk.com/images/2026/07/Saba_EmotionalCampaign_Oasi_ph.Sorgetti11.jpg",
-        "https://design-milk.com/images/2025/12/2025-Top10-Best-10-Shield-Shelter-Lakeside-Home-Barbora-Vokac-Taylor.jpg",
-        "https://design-milk.com/images/2025/12/SBC-Apartment-Brazil-Studio-Papaya-1.jpg"
-      ],
-      "source": "Design Milk",
-      "source_url": "https://design-milk.com",
-      "published": "2026-07-08T19:54:15+00:00"
     },
     {
       "id": "e4541bbb7cd7dd42",
@@ -2905,11 +2967,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/10/How-to-build-an-entry-bench.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/02/DIY-Twin-Bed-by-Shanty2Chic.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/04/DIY-Door-Hanger.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
