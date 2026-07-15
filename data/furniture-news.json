@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-14T22:08:55.833326+00:00",
-  "generated_at_human": "2026-07-14 22:08 UTC",
-  "total_items": 218,
+  "generated_at": "2026-07-15T00:01:49.368403+00:00",
+  "generated_at_human": "2026-07-15 00:01 UTC",
+  "total_items": 237,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -27,6 +27,7 @@
     "Dezeen tag lighting",
     "Elle Decor",
     "Family Handyman",
+    "Gardenista",
     "Home Adore",
     "Home Beautiful AU",
     "Homedit",
@@ -35,10 +36,12 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "Popular Woodworking",
     "Popular Woodworking projects",
+    "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
@@ -49,13 +52,12 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 49,
+  "sources_count": 51,
   "multi_photo_items": 59,
   "items": [
     {
@@ -84,8 +86,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=78787",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=39605",
+        "https://i.archi.ru/i/1262/310555.jpg?r=14299",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=77400",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -102,7 +104,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=76845",
+        "https://i.archi.ru/i/1262/378886.jpg?r=22501",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -161,6 +163,37 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "56343108f2cdb16d",
+      "title": "The best bathroom plants that thrive on steam, humidity and low light",
+      "summary": "These lush indoor plants don't just survive in your bathroom, they absolutely love it. The post The best bathroom plants that thrive on steam, humidity and low light appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/bathroom-ideas/best-bathroom-plants/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/umb-media/27154/hamptons-bathroom-indoor-plants.jpg",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/umb-media/27154/hamptons-bathroom-indoor-plants.jpg",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/12/Diana_Moore_WEB_.png?w=3000",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2017/06/the-best-air-purifying-indoor-plants.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/07/best-electric-throw-blankets-australia-2026-69cdf578f0a7a.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/full-bleed-image-3-6a55bd5fd3e83.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-karima-hazim-1-6a5495e715566.jpg?w=2729"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-14T22:56:00+00:00"
+    },
+    {
+      "id": "935eda31ecae1fa9",
+      "title": "$10 Kmart buy solves common toilet problem",
+      "summary": "If your bathroom cupboard looks like a toilet paper avalanche waiting to happen, this is for you. The post $10 Kmart buy solves common toilet problem appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/product-reviews/kmart-toilet-roll-holder/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-14T22:22:09+00:00"
     },
     {
       "id": "aa580973c2c4a632",
@@ -508,19 +541,6 @@
       "published": "2026-07-14T10:03:54+00:00"
     },
     {
-      "id": "67fb82bcfa99cbbf",
-      "title": "Huawei Built a 200MP Camera Phone That Finally Shows Your True Colors",
-      "summary": "Huawei Built a 200MP Camera Phone That Finally Shows Your True Colors The smartphone camera arms race hasn’t let up. Most flagships are pushing harder on AI-assisted processing to compensate for the physical limits of small sensors,...",
-      "url": "https://www.yankodesign.com/2026/07/14/huawei-built-a-200mp-camera-phone-that-finally-shows-your-true-colors/?utm_source=rss&utm_medium=rss&utm_campaign=huawei-built-a-200mp-camera-phone-that-finally-shows-your-true-colors",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/huawei-built-a-200mp-camera-phone-that-finally-shows-your-true-colors/huawei-pura-90s-pro-12.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/huawei-built-a-200mp-camera-phone-that-finally-shows-your-true-colors/huawei-pura-90s-pro-12.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-14T08:45:19+00:00"
-    },
-    {
       "id": "c21047e2b2032162",
       "title": "This Family Expanded the Kitchen Across the Entire Room and Doubled the Island",
       "summary": "Replacing kitchen cabinets is often the largest expense in a remodel, but rethinking the layout can transform the room even more. Reddit user u/Responsible-Eye2739 expanded a builder-grade kitchen that occupied only half of an open-concept space into a full-room design, doubling the size of the island while adding a walk-in pantry and a dedicated beverage... The post This Family Expanded the Kitchen Across the Entire Room and Doubled the Island appeared first on Homedit .",
@@ -550,6 +570,19 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-07-14T08:03:54+00:00"
+    },
+    {
+      "id": "02b3dcad81ad6ca3",
+      "title": "Remodelista Reconnaissance: A Painted Vase in a Shelter Island Cottage",
+      "summary": "There are many things that appeal to us about the powder room in A Shelter Island Holiday Rental Where Everything Is for Sale. They are as follows: 1. the shiplap walls, 2. the vintage-y latrine with wood seat, 3. the nautical rope loo roll holder, and 4. the handy niche for reading material. And, last […]",
+      "url": "https://www.remodelista.com/posts/favorite-painted-vases-reconnaissance/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/dwr-boat-house-shelter-island-13.jpeg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/06/dwr-boat-house-shelter-island-13.jpeg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-14T08:00:21+00:00"
     },
     {
       "id": "00e2d0df4b337fc6",
@@ -690,9 +723,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/how-a-simple-angle-makes-outdoor-seating-feel-more-social/Takeout_wedge_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/03/paradigm-watches-are-a-familys-best-friend/paradigm_watch_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/01/this-1970s-kids-desk-flatpacked-before-ikea-even-existed/tobifant-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/03/draft-this-midi-controller-for-kids-turns-your-toddler-into-a-bedroom-coachella-headliner/blipblox_mytracks_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/11/27/hican_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/07/bring-your-drawings-to-life/lighttales_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/01/gundam-inspired-headphones-boast-flexible-configuration/Gundam-Headphones-7.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -989,9 +1022,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/when-tokyos-fallen-branches-become-furniture-you-cant-ignore/uneri-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/09/27/mobile_room_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/interactive-transformation-table-concept-turns-furniture-into-playful-sculpture/interactive-transformation-table-concept-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/beautiful-amorphous-chair-is-also-a-side-table-bookcase-and-art-object-in-one/metamorfosi-chair-9.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/01_officeshell_dizzconcept_privateoffice.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/11/this-electrified-trailer-expands-the-use-case-scenarios-of-your-e-bicycle/Cask-Couch-bu-Ricardo-Sa-7.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/wave-bookshelf-is-a-decorative-and-functional-piece-of-furniture/1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1244,9 +1277,9 @@
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/11/rhys-stanley-geelong-cats-modern-farmhouse-christmas-bathroom-690a9a8a90a2f-scaled.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/07/best-electric-throw-blankets-australia-2026-69cdf578f0a7a.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/full-bleed-image-3-6a55bd5fd3e83.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-karima-hazim-1-6a5495e715566.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/19463/kylie-jackes-scaled.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/08/Brittany-Smith.png?w=2048"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/08/Brittany-Smith.png?w=2048",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1333,18 +1366,26 @@
       "published": "2026-07-09T08:35:10+00:00"
     },
     {
+      "id": "7908fb6b9b5fc36b",
+      "title": "Kitchens of the Week: Chef Samin Nosrat’s Characterful Oakland Kitchens",
+      "summary": "If you, like me, were thoroughly charmed by Samin Nosrat’s whole-face smile and bottomless curiosity in her 2018 Netflix series Salt Fat Acid Heat, you’ll be delighted to discover that her home kitchen in Oakland, CA, is as warm and joyful and unpretentious as she is. The Chez Panisse-trained chef and food writer—her latest cookbook, […]",
+      "url": "https://www.remodelista.com/posts/kitchen-week-samin-nosrat-home-test-kitchens/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/11/aya-brackett-good-things-samin-nosrat-128.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/11/aya-brackett-good-things-samin-nosrat-128.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-09T08:00:00+00:00"
+    },
+    {
       "id": "a7a65efd623bf918",
       "title": "Does using your wardrobe for interior style inspiration actually work?",
       "summary": "“If you can put together an outfit, you can decorate a home.\" The post Does using your wardrobe for interior style inspiration actually work? appeared first on Home Beautiful .",
       "url": "https://www.homebeautiful.com.au/home-ideas/how-to-use-your-wardrobe-to-find-your-home-style/",
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/06/mcp_cds_bss_1225_001_w1920-6a2a13b9a258c-scaled.jpg",
       "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/06/mcp_cds_bss_1225_001_w1920-6a2a13b9a258c-scaled.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/07/best-electric-throw-blankets-australia-2026-69cdf578f0a7a.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/full-bleed-image-3-6a55bd5fd3e83.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-karima-hazim-1-6a5495e715566.jpg?w=2729",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/10/rebecca-mitchell-68e59cc98bd0c-scaled.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560"
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/06/mcp_cds_bss_1225_001_w1920-6a2a13b9a258c-scaled.jpg"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1459,6 +1500,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-08T10:00:50+00:00"
+    },
+    {
+      "id": "34e5cf696ead6cf7",
+      "title": "10 Easy Pieces: Grown-Up Guest Beds",
+      "summary": "I moved from New York to a one-bedroom apartment in San Francisco a while back, and the list of friends that I’ve said “come and stay!” to has been growing and growing. The problem is I don’t like sleeper sofas—and while an air mattress is perfectly fine, there’s something very dorm-like about them. It’s a […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-grown-guest-beds/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2019/02/martina-bautier-guest-bed.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2019/02/martina-bautier-guest-bed.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-08T08:00:10+00:00"
     },
     {
       "id": "6b0109004b623f50",
@@ -1696,6 +1750,19 @@
       "published": "2026-07-05T22:30:29+00:00"
     },
     {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
+    },
+    {
       "id": "8af51695e1cad525",
       "title": "L’hotel Pitrizza dimostra che il lusso migliore è quello che scompare",
       "summary": "Architettura, ospitalità e cucina dialogano con il paesaggio in un albergo destinato a diventare Cheval Blanc nel 2027 The post L’hotel Pitrizza dimostra che il lusso migliore è quello che scompare appeared first on Interni Magazine .",
@@ -1705,13 +1772,26 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/006MeliaWhiteHouse-Facade-Night.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
       "published": "2026-07-05T16:34:30+00:00"
+    },
+    {
+      "id": "0f52eecbb8e12b33",
+      "title": "Quick Takes With: Noam Dvir",
+      "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
+      "url": "https://www.remodelista.com/posts/quick-takes-noam-dvir/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/04/DSC_7191.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/04/DSC_7191.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-05T08:00:23+00:00"
     },
     {
       "id": "77dcd5861826efd3",
@@ -1738,6 +1818,32 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-07-03T11:42:33+00:00"
+    },
+    {
+      "id": "8e995fcaf10fff71",
+      "title": "5 Favorites: The New Rattan Daybed",
+      "summary": "I grew up in a roomy, shingled house outside of Boston, but come summer, the five of us migrated to our screened porch. Perfumed by the garden, this small, hidden back space was furnished with a white-painted Swedish dining table and a rattan daybed, two pieces so beloved—and durable—that when my mother downsized to an […]",
+      "url": "https://www.remodelista.com/posts/7-favorite-rattan-daybeds-for-summer-living/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2018/03/rattan-daybed-1960s-atelier-vime.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2018/03/rattan-daybed-1960s-atelier-vime.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-03T10:00:22+00:00"
+    },
+    {
+      "id": "d0e76288f4ae1e6f",
+      "title": "Designer Glenn Ban’s Refined East Hamptons Cottage",
+      "summary": "While perusing Gardenista contributor Laura Fenton’s book, The Little Book of Living Small, we were happy to see designer Glenn Ban‘s compact East Hamptons home featured. Julie wrote about his Provincetown cottage a few years ago, and it remains one of our favorite beach houses we’ve covered on our site. No surprise, Glenn’s Long Island […]",
+      "url": "https://www.remodelista.com/posts/glenn-ban-east-hampton-house-little-book-living-small/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2020/05/glenn-ban-house-little-book-living-small-laura-fenton-entrance.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2020/05/glenn-ban-house-little-book-living-small-laura-fenton-entrance.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-03T08:00:36+00:00"
     },
     {
       "id": "ee718441c2119b88",
@@ -1777,6 +1883,19 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-02T20:12:16+00:00"
+    },
+    {
+      "id": "faa608c450311746",
+      "title": "Kitchen of the Week: A Compact, Nautical Entertaining Kitchen on Cape Cod",
+      "summary": "A few summers back, Julie and Justine stopped into a Cape Cod beach house reimagined by college roommates Tei Carpenter (an architect) and Victoria Birch (an interior designer), inspired by the Belafonte, Steve Zissou’s boat in The Life Aquatic. The kitchen is filled with design ideas to steal; let’s zoom in closer. Photography by Justine Hand […]",
+      "url": "https://www.remodelista.com/posts/kitchen-of-the-week-nautical-kitchen-cape-cod-life-aquatic/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2017/09/falmouth-beach-cottage-kitchen-2-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2017/09/falmouth-beach-cottage-kitchen-2-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-02T08:00:36+00:00"
     },
     {
       "id": "76bf12040f8701f2",
@@ -1857,6 +1976,19 @@
       "published": "2026-06-30T09:45:15+00:00"
     },
     {
+      "id": "e0866fd360e5b544",
+      "title": "Remodelista Reconnaissance: The Nautical Brass Ceiling Light",
+      "summary": "Interiors stylist Brittany Albert left much well enough alone in her Connecticut kitchen, and instead deployed cost-conscious tweaks to artfully transform an uninspired space: see The Cosmetic Kitchen Upgrade, Trade Secrets Included. We originally presented Brittany’s kitchen a year ago and revisited it last month, and the queries kept coming on the one detail we […]",
+      "url": "https://www.remodelista.com/posts/nautical-brass-flush-mount-ceiling-light-where-to-source/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2023/02/stylist-brittany-albert-cosmetic-kitchen-remodel-ct-kate-jordan-photo-2.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2023/02/stylist-brittany-albert-cosmetic-kitchen-remodel-ct-kate-jordan-photo-2.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-30T08:00:38+00:00"
+    },
+    {
       "id": "b886852f9020ec8f",
       "title": "Classic terrace reinterpreted in a contemporary manner",
       "summary": "Located in Melbourne’s Clifton Hill, the Northside Terrace by IF Architecture, responds to the classic model of the traditional terrace,… The post Classic terrace reinterpreted in a contemporary manner appeared first on The Interiors Addict .",
@@ -1920,6 +2052,32 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
+    },
+    {
+      "id": "0f5340dbfb1e5122",
+      "title": "Coaster’s Chance: A 1760s Sea Captain’s Cottage in a Moody Palette",
+      "summary": "Lately I’ve been poring over Coaster’s Chance, a 1760s captain’s cottage on the coast of Maine, north of Acadia. The house is the newest project of Rhode Island-based Moore House Design—and their first Downeast. Available to rent, the interiors have been redone in moody hues befitting the palette of pine, rocks, and seaweed outside the […]",
+      "url": "https://www.remodelista.com/posts/moore-house-design-coasters-chance-rental-cottage-maine/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2022/09/exterior-coasters-chance-moore-house-design-maine-erin-mcginn-photo.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2022/09/exterior-coasters-chance-moore-house-design-maine-erin-mcginn-photo.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-29T08:00:43+00:00"
+    },
+    {
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2021,6 +2179,32 @@
       "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-06-25T16:02:00+00:00"
+    },
+    {
+      "id": "cddba30ab34372c1",
+      "title": "Ask the Experts: Just How Bad Are Conventional Lawn Maintenance Practices?",
+      "summary": "This is part of a series with Perfect Earth Project, a nonprofit dedicated to ecological gardening, on how you can be more sustainable in your landscapes at home. We’ve all seen the artificially “perfect” lawn, the pesticide signs, volcanos of mulch, the shrubs shorn so tightly nothing moves in the wind. This quest for order and […]",
+      "url": "https://www.gardenista.com/posts/health-risks-lawn-care-chemicals/",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/06/kids-pond.png",
+      "images": [
+        "https://media.gardenista.com/wp-content/uploads/2026/06/kids-pond.png"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-06-25T08:00:52+00:00"
+    },
+    {
+      "id": "908a2cb1b461fe3b",
+      "title": "Kitchen of the Week: A Designer’s Deconstructed Sonoma Kitchen from Reclaimed Parts",
+      "summary": "File this under When the Whole Is Greater than the Sum of its Parts: Ever since Julie first took a tour of San Francisco designer Charles de Lisle‘s reclaimed retreat in Sonoma (see: Off the Grid: A Stylish, Low-Impact Retreat in Sonoma by Charles de Lisle), we’ve been admiring how it manages to be simultaneously […]",
+      "url": "https://www.remodelista.com/posts/charles-de-lisle-sonoma-kitchen-reclaimed-off-grid/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2022/08/charles-de-lisle-sonoma-house-16-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2022/08/charles-de-lisle-sonoma-house-16-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-25T08:00:23+00:00"
     },
     {
       "id": "6919841da013825e",
@@ -2176,6 +2360,19 @@
       "published": "2026-06-20T17:00:04+00:00"
     },
     {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
+    },
+    {
       "id": "e3722e01889eb440",
       "title": "F5: Amanda Martocchio Talks the Rockies, Her Jens Risom Stool, a Joan Snyder Painting + More",
       "summary": "Architect Amanda Martoccchio shares some of her favorites in nature, from Hawthorn trees to the Rocky Mountains, and more.",
@@ -2187,6 +2384,32 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-19T18:00:09+00:00"
+    },
+    {
+      "id": "3dd6950b3f95ebc2",
+      "title": "For Sale: Nice Machines from Kelly Mehler’s Workshop",
+      "summary": "When woodworker and instructor Kelly Mehler died unexpectedly last year, he left behind a shop full of meticulously maintained woodworking machines that he used in his personal work after he closed his woodworking school. The Mehler family is trying to find new homes for these machines, avoiding the chaos and unpredictability of an auction. These...",
+      "url": "https://blog.lostartpress.com/2026/06/19/for-sale-nice-machines-from-kelly-mehlers-workshop/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2020/07/kelly-mehler-teaching-2011-2-2-1.jpg?resize=500%2C336&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-19T16:46:51+00:00"
+    },
+    {
+      "id": "c91ff40c2f4c9667",
+      "title": "New Book: ‘17th-Century Essex County Cupboard’",
+      "summary": "Peter Follansbee’s “17th-Century Essex County Cupboard” is about as close a description as we’ll ever get to how complex pieces of 17th-century furniture began in the forest and progressed through the workshop. This particular cupboard contains a multitude of operations: riving stock, insane amounts of tricky (and simple) joinery, drawboring, nailing, faceplate and spindle turning...",
+      "url": "https://blog.lostartpress.com/2026/06/18/new-book-17th-century-essex-county-cupboard/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/essex-cupboard-books-IMG_2463.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-18T21:11:15+00:00"
     },
     {
       "id": "bcfca73d7828d49c",
@@ -2241,6 +2464,19 @@
       "published": "2026-06-18T08:10:21+00:00"
     },
     {
+      "id": "982720c1de7b53c4",
+      "title": "Meanwhile, on Remodelista: The Summer Bedroom",
+      "summary": "Doesn’t require much to get your bedroom ready for the warmer months. In fact, it mostly involves subtracting stuff: fewer pillows, a lighter blanket, less fussiness, minimal clutter. And sometimes, all it takes is an open window or two. Below, a few examples we spied over on Remodelista of summery, pared-down bedrooms that feel like […]",
+      "url": "https://www.gardenista.com/posts/meanwhile-remodelista-summer-bedroom/",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/05/17-bedroom-mallorca-september-moore-projects-99b7978.jpeg",
+      "images": [
+        "https://media.gardenista.com/wp-content/uploads/2026/05/17-bedroom-mallorca-september-moore-projects-99b7978.jpeg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-06-18T08:00:19+00:00"
+    },
+    {
       "id": "c051693e05ff7f15",
       "title": "SME Corey Klassen Discusses Revamping NKBA K&B Planning Guidelines",
       "summary": "N NKBA Staff Posted: Jun 17, 2026 3:02 pm Member + Industry News K&B Subject Matter Expert Corey Klassen, RID, NCIDQ, CMKBD, reveals the evolution behind an industry standard. By NKBA Staff The NKBA’s Kitchen & Bath Planning Guidelines have been the industry’s gold standard for years, serving as an essential reference for design professionals. Published since 1992, it is the most complete collection of illustrations and planning recommendations available in one source, covering the planning and installation of beautiful, efficient, code-compliant kitchens and baths and other interior…",
@@ -2265,6 +2501,19 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-17T16:00:53+00:00"
+    },
+    {
+      "id": "1f5186f258a724a9",
+      "title": "LAP Open Wire on Saturday (June 20)",
+      "summary": "We’re cooking up answers for Open Wire this Saturday (June 20) on the Lost Art Press blog – so if you have a woodworking question, you’ll have until 5 p.m. Eastern to ask it in the comments section on the Open Wire post, which will go live at 8 a.m. Chris and I will do...",
+      "url": "https://blog.lostartpress.com/2026/06/17/lap-open-wire-on-saturday-june-20/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_3030.jpg?resize=640%2C692&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-17T15:16:43+00:00"
     },
     {
       "id": "5a32b1b1b7bc6f6f",
@@ -2431,7 +2680,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2736,7 +2985,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2767,7 +3016,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -2946,7 +3195,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
