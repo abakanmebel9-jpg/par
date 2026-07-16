@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-16T16:37:52.559707+00:00",
-  "generated_at_human": "2026-07-16 16:37 UTC",
-  "total_items": 244,
+  "generated_at": "2026-07-16T18:16:23.960045+00:00",
+  "generated_at_human": "2026-07-16 18:16 UTC",
+  "total_items": 247,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -53,13 +53,14 @@
     "Veranda",
     "Wallpaper",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
-  "multi_photo_items": 61,
+  "sources_count": 53,
+  "multi_photo_items": 63,
   "items": [
     {
       "id": "50ced7a4258ad654",
@@ -87,8 +88,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=45522",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=77296",
+        "https://i.archi.ru/i/1262/310555.jpg?r=89947",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=92166",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -105,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=11584",
+        "https://i.archi.ru/i/1262/378886.jpg?r=72341",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -151,6 +152,68 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "1f64536b0965d068",
+      "title": "Lindye Galloway Reimagines Two Upper West Side Penthouses as One Home",
+      "summary": "Thoughtful millwork, natural stone, and custom furnishings unify two pre-war Manhattan apartments into a warm, contemporary home for a young family.",
+      "url": "https://design-milk.com/lindye-galloway-upper-west-side-penthouse/",
+      "image": "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-5.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-5.jpg",
+        "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-25.jpg",
+        "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-22.jpg",
+        "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-20.jpg",
+        "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-17.jpg",
+        "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-16.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-07-16T17:52:29+00:00"
+    },
+    {
+      "id": "1e63258b05c5d592",
+      "title": "5 Best Nightstand Gadgets That Turn Your Bedroom Into the Setup You Actually Want",
+      "summary": "5 Best Nightstand Gadgets That Turn Your Bedroom Into the Setup You Actually Want The nightstand is one of the most underestimated surfaces in any home. It accumulates cables, three chargers doing the job of one, a lamp chosen...",
+      "url": "https://www.yankodesign.com/2026/07/16/5-best-nightstand-gadgets-that-turn-your-bedroom-into-the-setup-you-actually-want/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-nightstand-gadgets-that-turn-your-bedroom-into-the-setup-you-actually-want",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/nightstand-gadgets-that-turn-your-bedroom-into-the-tech-setup-you-actually-want/5_best_nightstand_gadgets_yanko_design_hero.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/nightstand-gadgets-that-turn-your-bedroom-into-the-tech-setup-you-actually-want/5_best_nightstand_gadgets_yanko_design_hero.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-16T17:20:18+00:00"
+    },
+    {
+      "id": "2b948badbd4aa5aa",
+      "title": "On the Couch with Mafalda Arrivabene",
+      "summary": "As the Venetian creative joins her father’s glassware business, she shares her go-to escapes, shopping recommendations, and favorite sofa (at the family palazzo, no less).",
+      "url": "https://www.elledecor.com/life-culture/a72076000/mafalda-arrivabene-giberto-venezia/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/22bfd071-bac2-4ac2-beb8-ac94b0864b83.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/22bfd071-bac2-4ac2-beb8-ac94b0864b83.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/e7d5061b-159b-4406-867d-7a0bfbd0dd0a.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/7fe6d03f-cb1e-4cfb-b7eb-5537e3f8062c.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/fe40540f-1e84-4866-bfea-e0a5378a511f.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/6a715dc3-5af3-47e9-a49f-de488faf3a7b.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/a941aeb0-f298-4090-89fe-744b262dc9e3.jpeg"
+      ],
+      "source": "Elle Decor",
+      "source_url": "https://www.elledecor.com",
+      "published": "2026-07-16T16:50:19+00:00"
+    },
+    {
+      "id": "bc3c990880965d5c",
+      "title": "He Gutted This 700-Square-Foot Loft — Now Every Inch Feels Intentional",
+      "summary": "Toronto-based content creator Abhishek Dekate's gut renovation turned a standard loft into a warm, artful home, but it's the dramatic Calacatta Viola marble kitchen that steals the show. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/abhishek-dekate-warm-toronto-loft-37559798?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/december/abhishek-d/tours-toronto-abhishek-d-lead-2",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/december/abhishek-d/tours-toronto-abhishek-d-lead-2"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-16T16:00:00+00:00"
     },
     {
       "id": "96a0441bd6953f58",
@@ -1328,19 +1391,6 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-13T12:23:38+00:00"
-    },
-    {
-      "id": "b9d57f878e344ee4",
-      "title": "Will Gamble Architects adds \"explicitly tropical\" extension to Grade-II listed English cottage",
-      "summary": "A timber-framed glazed link and courtyard garden connect old and new parts of this home in Northwood, UK, which architecture studio Will Gamble Architects designed to reference traditional Sri Lankan houses. Named Muttram Veedu after the Tamil term for a courtyard house, Will Gamble Architects completed the extension and refurbishment for clients with Sri Lankan The post Will Gamble Architects adds \"explicitly tropical\" extension to Grade-II listed English cottage appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/13/muttram-veedu-will-gamble-architects-courtyard-extension/",
-      "image": "http://static.dezeen.com/uploads/2026/07/muttram-veedu-will-gamble-architects_dezeen_2364_sq_15.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/muttram-veedu-will-gamble-architects_dezeen_2364_sq_15.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-13T10:45:21+00:00"
     },
     {
       "id": "7f6ff97abfe1b850",
