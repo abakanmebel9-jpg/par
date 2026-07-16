@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-15T23:09:03.035096+00:00",
-  "generated_at_human": "2026-07-15 23:09 UTC",
-  "total_items": 244,
+  "generated_at": "2026-07-16T03:31:04.259795+00:00",
+  "generated_at_human": "2026-07-16 03:31 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -88,8 +88,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=48225",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=79957",
+        "https://i.archi.ru/i/1262/310555.jpg?r=81201",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=87531",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -106,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=47311",
+        "https://i.archi.ru/i/1262/378886.jpg?r=35729",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -165,6 +165,50 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "cab30483867ddcd8",
+      "title": "Coles is releasing a Bluey-themed range, and we want the lot",
+      "summary": "Granny chair or the duck cake mould? The post Coles is releasing a Bluey-themed range, and we want the lot appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/coles-bluey-special-buys/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/bluey-best-buys-6a5832c845eb2.jpg",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/bluey-best-buys-6a5832c845eb2.jpg"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-16T03:23:15+00:00"
+    },
+    {
+      "id": "8dae90f4df5f002f",
+      "title": "The $10 Kmart storage solution taking over Aussie bathrooms",
+      "summary": "Would this work in your house? The post The $10 Kmart storage solution taking over Aussie bathrooms appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/product-reviews/kmart-toilet-roll-holder/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-16T02:48:34+00:00"
+    },
+    {
+      "id": "a14046450f3bb62a",
+      "title": "Is this small kitchen addition the ultimate luxury?",
+      "summary": "The clever tap is appearing in beautiful kitchens everywhere, but is it worth installing? The post Is this small kitchen addition the ultimate luxury? appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/kitchen-ideas/pot-filler-tap-are-they-worth-it-the-pros-and-cons/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/umb-media/28475/cast-iron-pot-on-stove-top-with-rangehood-and-pot-filler.jpg",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/umb-media/28475/cast-iron-pot-on-stove-top-with-rangehood-and-pot-filler.jpg",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/eofy-stick-vacuum-sales-dyson-lg-shark-6a30d7018389e.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/fl-1-6a44ccf63a6bb.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/print_hannah_puechmarin_clear-mountain-project_18_w1920-6a066e7dd2c33.jpg?w=2304",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/28465/cast-iron-pot-on-stove-top-with-pot-filler.jpg?w=2304",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/mcp_dgd_elw_1124_067_w1920-6a0265f5a807d.jpg?w=2304"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-16T01:58:33+00:00"
     },
     {
       "id": "ace1822ec5e52f0d",
@@ -668,19 +712,6 @@
       "published": "2026-07-14T22:30:00+00:00"
     },
     {
-      "id": "935eda31ecae1fa9",
-      "title": "$10 Kmart buy solves common toilet problem",
-      "summary": "If your bathroom cupboard looks like a toilet paper avalanche waiting to happen, this is for you. The post $10 Kmart buy solves common toilet problem appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/shopping/product-reviews/kmart-toilet-roll-holder/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-07-14T22:22:09+00:00"
-    },
-    {
       "id": "aa580973c2c4a632",
       "title": "Retrofitted homes cooler for residents in harsh desert climate",
       "summary": "A housing retrofit project launched in the APY Lands in 2023 has significantly improved indoor temperatures for residents who live… The post Retrofitted homes cooler for residents in harsh desert climate appeared first on The Interiors Addict .",
@@ -836,8 +867,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/479426a9-b65b-47e8-8a2a-0f07cfaca949.png",
         "https://hips.hearstapps.com/hmg-prod/images/330dba0a-6114-42e0-b55b-aca737313719.png",
         "https://hips.hearstapps.com/hmg-prod/images/2b7aaf94-ae0f-48b2-ac51-dc16e1946d87.png",
-        "https://hips.hearstapps.com/hmg-prod/images/mcgregor-nantucket-sunroom-mckendree-669181ce6d65c.png",
-        "https://hips.hearstapps.com/hmg-prod/images/nantucket-island-harbor-684769012d1c3.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/10bf9883-722d-4d3e-9702-2849933cd80b.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/e627f554-cb71-4ea5-92e4-b34e9339a08e.jpeg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -980,12 +1011,7 @@
       "url": "https://www.homebeautiful.com.au/podcast/sunday-kitchen-karima-hazim-the-edit-podcast/",
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-karima-hazim-1-6a5495e715566.jpg",
       "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-karima-hazim-1-6a5495e715566.jpg",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/fl-1-6a44ccf63a6bb.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-karima-hazim-1-6a5495e715566.jpg?w=2729",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/27482/timber-scandinavian-kitchen-dining-table-rug.jpg?resize=1950%2C1462",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/09/Hamptons-kitchen-open-shelving-butlers-pantry.jpg?resize=1950%2C1462"
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-karima-hazim-1-6a5495e715566.jpg"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1058,9 +1084,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/how-a-simple-angle-makes-outdoor-seating-feel-more-social/Takeout_wedge_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/10/OMEGA_worlds_first_graphene_integrated_pants.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/auto-draft/madillo_2.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/lomo-mc-a-a-real-35mm-film-camera-that-charges-with-usb-c/lomography-lomo-mc-a-35mm-film-camera-08.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/01/15/band_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/Kidear.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/02/asus/1.-Z2-Poseidon-Introduction.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1243,9 +1269,9 @@
         "https://www.yankodesign.com/images/design_news/2026/06/a-stool-a-bookstand-and-a-small-monument-to-stillness/bookchair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/03/draft-disney-camera/disney_camera_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/this_fastest_6-in-1_cable_rules_them_all_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/insultated_collapsible_mug_with_up_to_9_height_options.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/02/04/timer_cap.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/01/belkin-auto-tracking-stand-pro-swivels-iphone-360-degrees-with-your-movement-during-video-calls-recordings/Belkin-Auto-Tracking-Stand-Pro-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/12_lacoeurmoignon_mizuno_hometraining.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1318,9 +1344,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/when-tokyos-fallen-branches-become-furniture-you-cant-ignore/uneri-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-3-in-1-magsafe-charging-dock-is-the-bedside-clutter-killer-apple-never-built/ADAM_elements_Mag_3_Ultra_Qi2_25W_3_in_1_Foldable_Charger_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-presenter-remote-will-replace-your-mouse-mic-ai-translator-and-usb-c-hub/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/06/22/spaceframe_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/120-Furniture-series-by-WooSeok-Lee_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/01/12/blancowhite_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/06/iko-hanging-chair/iko_hanging_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/08/auto-draft/sofan_rolling_table_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/11/auto-draft/03_bars_joaoteixeira_desk.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1850,7 +1876,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_MARA__AERA_04_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_MARA__OTTO__Christophe-Pillet__03_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_©MARA__ARGO-LIBRO__LIMITED-EDITION_LR_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vitra_Bascule_Studio_OE_print-07.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1922,9 +1948,9 @@
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-3-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Grill-Restaurant-Gabriele-Sotgiu-2024-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Hotel-Pitrizza-Pool-Suite-Oliver-Fly-2023-6.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/DJI_0241.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Ananatara-Convento-di-Amalfi-Grand-Hotel_8-4.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/FOTO-APERTURA-Le-Fontelle-ph-mattiaaquila-000049.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
