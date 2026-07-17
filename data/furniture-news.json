@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-17T10:08:24.876562+00:00",
-  "generated_at_human": "2026-07-17 10:08 UTC",
-  "total_items": 231,
+  "generated_at": "2026-07-17T12:18:33.548283+00:00",
+  "generated_at_human": "2026-07-17 12:18 UTC",
+  "total_items": 240,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -14,7 +14,6 @@
     "DM tag cabinets",
     "DM tag furniture",
     "Decoist",
-    "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Interiors",
@@ -28,6 +27,7 @@
     "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
+    "Gardenista",
     "Home Adore",
     "Home Beautiful AU",
     "Homedit",
@@ -41,6 +41,7 @@
     "NKBA",
     "Popular Woodworking",
     "Popular Woodworking projects",
+    "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
@@ -57,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
+  "sources_count": 52,
   "multi_photo_items": 62,
   "items": [
     {
@@ -86,8 +87,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=69468",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=86308",
+        "https://i.archi.ru/i/1262/310555.jpg?r=73026",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=90453",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -104,7 +105,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=42165",
+        "https://i.archi.ru/i/1262/378886.jpg?r=69095",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -139,6 +140,37 @@
       "published": ""
     },
     {
+      "id": "70c66b1073bb2a65",
+      "title": "Living Rooms Replaced Basic TV Stands With Full Media Walls",
+      "summary": "Older TV furniture centered almost everything beneath the screen. Long entertainment centers, matching hutches, and bulky wall units stored electronics but often left the television feeling separate from the rest of the room. As screens became thinner, furniture began changing around them instead of simply supporting them. Today’s media units treat the entire wall as... The post Living Rooms Replaced Basic TV Stands With Full Media Walls appeared first on Homedit .",
+      "url": "https://www.homedit.com/living-rooms-replaced-basic-tv-stands-with-full-media-walls/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Media-Walls-Replaced-the-Standalone-TV-Console.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Media-Walls-Replaced-the-Standalone-TV-Console.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2018/04/Living-Staircase-by-Paul-Cocksedge.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Display-Cabinets-Started-Replacing-Empty-Wall-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Cabinets-Started-Moving-Above-the-Screen.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Living-Walls-Started-Sharing-Space-With-Media-Units.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-17T10:13:40+00:00"
+    },
+    {
+      "id": "697834369d9590c3",
+      "title": "ZHA 3D-prints voluptuous chair from recycled plastic",
+      "summary": "Architecture studio ZHA, formerly Zaha Hadid Architects, has worked with Spanish brand Nagami to launch the 3D-printed Echo Chair made from recycled plastic. The sculptural chair, envisioned using parametric design software, features an arching backrest that extends to the ground in one plane and a seat that scoops up at the sides to hug the sitter. The post ZHA 3D-prints voluptuous chair from recycled plastic appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/17/echo-chair-3d-printed-zha-nagami/",
+      "image": "http://static.dezeen.com/uploads/2026/07/echo-chair-3d-printed-zha-nagami_dezeen_2364_sq_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/echo-chair-3d-printed-zha-nagami_dezeen_2364_sq_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-17T10:00:34+00:00"
+    },
+    {
       "id": "b944da4899e9f48f",
       "title": "Contemporary Room Dividing Screens by Fold Studio",
       "summary": "Dezeen Showroom: Australian design brand Fold Studio has released a series of freestanding folding screens comprising hardwood frames stretched with fabric or woven cord. Fold Studio founder and in-house designer Pauline Ollmann created the brand's Woven-Fold and Fabric-Fold collections, which share American White Oak, American Black Walnut or American Ash frames and raw brass hinges. Woven-Fold The post Contemporary Room Dividing Screens by Fold Studio appeared first on Dezeen .",
@@ -161,9 +193,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ikea-finally-made-furniture-you-can-carry-out-when-you-move-apartments/ikea-kompishang-portable-furniture-collection-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/03/03/misko_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/jumbo-lounge-chair/jumbo_lounge_chair_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/07/draft-duet-furniture/duet_furniture_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/04/stackable-chair-concept-transforms-into-a-desk-for-space-saving-efficiency/sit-n-switch-8.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/08/sunny_furniture_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/12/this-portable-chair-concept-will-make-your-lungs-work-for-your-outdoor-comfort/bag-sofa-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -178,9 +210,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/5x1Cn7mW-YOOX_26°-Anniversary_Key-Visual.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg"
       ],
       "source": "Interni magazine",
@@ -196,10 +228,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Patio-Cracks-Make-the-Best-Target.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Living-Rooms-Replaced-Basic-TV-Stands-With-Full-Media-Walls.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/650-Pavers-Turned-an-Empty-Patch-of-Lawn-Into-a-Backyard-Fire-Pit-Patio.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Backyard-Borders-Started-Filling-With-Ornamental-Grass-Instead-of-Mulch.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-White-Cabinets-Olive-Green-and-the-Kitchen-Found-Its-Character-Again.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-First-Countertop-Decision-Isnt-What-Most-People-Expect.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-White-Cabinets-Olive-Green-and-the-Kitchen-Found-Its-Character-Again.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -282,9 +314,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-folding-chair-that-looks-great-and-sits-terribly/folding-chair-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/11/desk-purrrfection/ascend_desk_for_cats_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/joycon-shaped-tv-cabinets-attach-to-the-sides-of-your-television-turning-it-into-a-massive-nintendo-switch/nintendo_switch_tv_cabinet_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/01/this-minimalist-wooden-board-offers-a-interior-friendly-way-to-control-your-home-with-alexa/mui-board-smart-home-hub-hero-CES2022.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/08/if-the-eames-lounge-chair-were-a-baby-crib-this-would-be-it/argo_crib_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/nardi/nardi_furniture_yanko_design_02.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/07/01/dam_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -391,19 +423,6 @@
       "published": "2026-07-16T17:52:29+00:00"
     },
     {
-      "id": "1e63258b05c5d592",
-      "title": "5 Best Nightstand Gadgets That Turn Your Bedroom Into the Setup You Actually Want",
-      "summary": "5 Best Nightstand Gadgets That Turn Your Bedroom Into the Setup You Actually Want The nightstand is one of the most underestimated surfaces in any home. It accumulates cables, three chargers doing the job of one, a lamp chosen...",
-      "url": "https://www.yankodesign.com/2026/07/16/5-best-nightstand-gadgets-that-turn-your-bedroom-into-the-setup-you-actually-want/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-nightstand-gadgets-that-turn-your-bedroom-into-the-setup-you-actually-want",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/nightstand-gadgets-that-turn-your-bedroom-into-the-tech-setup-you-actually-want/5_best_nightstand_gadgets_yanko_design_hero.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/nightstand-gadgets-that-turn-your-bedroom-into-the-tech-setup-you-actually-want/5_best_nightstand_gadgets_yanko_design_hero.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-16T17:20:18+00:00"
-    },
-    {
       "id": "2b948badbd4aa5aa",
       "title": "On the Couch with Mafalda Arrivabene",
       "summary": "As the Venetian creative joins her father’s glassware business, she shares her go-to escapes, shopping recommendations, and favorite sofa (at the family palazzo, no less).",
@@ -473,9 +492,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-collapsible-stool-that-actually-gets-stronger-when-you-sit-on-it/kinzo-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/10/20/sittable01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/09/herman-miller-gaming-x-faile-artistic-gaming-chairs-and-character-joysticks-are-impressive/Herman-Miller-Gaming-x-FAILE-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/libernovo-omni-dynamic-ergonomic-chair-brings-back-the-joy-of-sitting/LiberNovo_Omni_Worlds_First_Dynamic_Ergonomic_Chair_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/06/heres-a-clever-way-to-organize-your-workshop-with-a-print-it-yourself-pegboard-wall/french-cleat-pegboard-wall-03.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/02/these-chairs-are-made-from-the-steel-that-holds-up-buildings/beams-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/02/samsungs-eco-friends-accessory-line-is-made-from-post-consumer-material/Samsung_eco-friendly_accessories_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -488,12 +507,7 @@
       "url": "https://www.homedit.com/the-first-countertop-decision-isnt-what-most-people-expect/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-First-Countertop-Decision-Isnt-What-Most-People-Expect.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-First-Countertop-Decision-Isnt-What-Most-People-Expect.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Angled-Island-Was-the-First-Thing-to-Go-in-This-Kitchen-Remodel.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Backyard-Borders-Started-Filling-With-Ornamental-Grass-Instead-of-Mulch.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-White-Cabinets-Olive-Green-and-the-Kitchen-Found-Its-Character-Again.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Storage-Is-Moving-From-Furniture-to-the-Walls.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-First-Countertop-Decision-Isnt-What-Most-People-Expect.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -610,6 +624,19 @@
       "published": "2026-07-16T08:14:41+00:00"
     },
     {
+      "id": "fee209f302669aaf",
+      "title": "Kitchen of the Week: A Pale Pink and Oak Cookspace by a Swedish Kitchen Company",
+      "summary": "Pale peony pink is a surprising color choice in kitchen that takes cues from Brutalism. In the hands of Swedish kitchen company Nordiska Kök, though, it’s genius, calling attention to just how soft and textured concrete can be. How did we never notice before? Join us for a tour of this oak kitchen in a […]",
+      "url": "https://www.remodelista.com/posts/pink-swedish-kitchen-nordiska-kok/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/07/nordiska-kok-pink-kitchen-kristofer-johnsson-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/07/nordiska-kok-pink-kitchen-kristofer-johnsson-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-16T08:00:01+00:00"
+    },
+    {
       "id": "8f4044814103f22d",
       "title": "A bijou forest retreat, this Blakely Island cabin offers tree living",
       "summary": "Designed by architects Wittman Estes on an island in Washington state, this guest cabin invites residents to immerse themselves in the forest canopy",
@@ -624,19 +651,6 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-07-16T08:00:00+00:00"
-    },
-    {
-      "id": "2448ab1337549183",
-      "title": "Not Just Banana Peels: 3 Kitchen Scraps That Add Nutrients to Garden Soil",
-      "summary": "Banana peels often get all the attention, but they are only one of several kitchen scraps that continue working long after a meal ends. Coffee grounds, eggshells, and banana peels each return different nutrients to the soil, which is why many gardeners save them instead of sending them to the trash. None of these scraps... The post Not Just Banana Peels: 3 Kitchen Scraps That Add Nutrients to Garden Soil appeared first on Homedit .",
-      "url": "https://www.homedit.com/not-just-banana-peels-3-kitchen-scraps-that-add-nutrients-to-garden-soil/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Just-Banana-Peels-3-Kitchen-Scraps-That-Add-Nutrients-to-Garden-Soil.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Just-Banana-Peels-3-Kitchen-Scraps-That-Add-Nutrients-to-Garden-Soil.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-16T06:55:05+00:00"
     },
     {
       "id": "35603a625c3eb191",
@@ -751,7 +765,7 @@
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_35.jpg?w=1200&h=900&crop=1",
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_33.jpg?crop=0px%2C0px%2C7289px%2C5464px&resize=1200%2C900",
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_34.jpg?crop=0px%2C2992px%2C5298px%2C3977px&resize=1200%2C900",
-        "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-gina-rachelle-design-pc-lauren-andersen-sen-creative.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/2026/07/deck-SoakePools_LuanaFox_NewPaltzNY_PhotographyBy_KelseyAnnRose.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -768,19 +782,6 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-15T16:00:00+00:00"
-    },
-    {
-      "id": "0346aff03c899152",
-      "title": "Forget Baskets: Amazon's Coffee Table Doubles As A Smart Solution To Store Blankets",
-      "summary": "Blankets bring a cozy touch to any living room, but if your blanket basket keeps overflowing, this Amazon coffee table may help tame the clutter.",
-      "url": "https://www.hunker.com/2211593/amazon-coffee-table-ottoman-storage-blankets/",
-      "image": "https://www.hunker.com/img/gallery/forget-baskets-amazons-coffee-table-doubles-as-a-smart-solution-to-store-blankets/l-intro-1783617166.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/forget-baskets-amazons-coffee-table-doubles-as-a-smart-solution-to-store-blankets/l-intro-1783617166.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
       "published": "2026-07-15T16:00:00+00:00"
     },
     {
@@ -1128,8 +1129,8 @@
       "images": [
         "https://sunset.com/wp-content/uploads/2026/06/hauslane-vent-hood-lifestyle-lead-pr-0626.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/06/hauslane-vent-hood-task-lighting-pr-0626.jpg?crop=317px%2C0px%2C3641px%2C2734px&resize=1200%2C900",
-        "https://sunset.com/wp-content/uploads/2026/06/sf-kitchen-makeover-gina-rachelle-design-pc-lauren-andersen-sen-creative.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/07/three-room-outdoor-kitchens-dining-cooking-lounging-spaces-pr-0726.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/deck-SoakePools_LuanaFox_NewPaltzNY_PhotographyBy_KelseyAnnRose.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/01_sl_gallery_02.jpeg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/06/hauslane-vent-hood-smoky-pan-pr-0626.jpg?w=1024",
         "https://sunset.com/wp-content/uploads/2026/06/hauslane-vent-hood-closeup-pr-05626.jpg?w=1024"
       ],
@@ -1161,19 +1162,6 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
-      "published": "2026-07-14T14:00:00+00:00"
-    },
-    {
-      "id": "cd2e014aba13a726",
-      "title": "a terraced timber pavilion explores circular construction for austria’s gabonsa music festival",
-      "summary": "gabonsa pavilion was designed and built by students from kaiserslautern university of applied sciences. The post a terraced timber pavilion explores circular construction for austria’s gabonsa music festival appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/terraced-timber-pavilion-circular-construction-austria-gabonsa-music-festival-students-kaiserslautern/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/07/students-Kaiserslautern-gabonsa-temporary-pavilion-gabonsa-music-festival-innsbruck-austria-designboom-700-1-1-500x400-22b08q85r742.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/07/students-Kaiserslautern-gabonsa-temporary-pavilion-gabonsa-music-festival-innsbruck-austria-designboom-700-1-1-500x400-22b08q85r742.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
       "published": "2026-07-14T14:00:00+00:00"
     },
     {
@@ -1271,6 +1259,19 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-07-14T08:03:54+00:00"
+    },
+    {
+      "id": "02b3dcad81ad6ca3",
+      "title": "Remodelista Reconnaissance: A Painted Vase in a Shelter Island Cottage",
+      "summary": "There are many things that appeal to us about the powder room in A Shelter Island Holiday Rental Where Everything Is for Sale. They are as follows: 1. the shiplap walls, 2. the vintage-y latrine with wood seat, 3. the nautical rope loo roll holder, and 4. the handy niche for reading material. And, last […]",
+      "url": "https://www.remodelista.com/posts/favorite-painted-vases-reconnaissance/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/dwr-boat-house-shelter-island-13.jpeg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/06/dwr-boat-house-shelter-island-13.jpeg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-14T08:00:21+00:00"
     },
     {
       "id": "08fc6af00050dfbf",
@@ -1706,6 +1707,19 @@
       "published": "2026-07-09T13:00:54+00:00"
     },
     {
+      "id": "7908fb6b9b5fc36b",
+      "title": "Kitchens of the Week: Chef Samin Nosrat’s Characterful Oakland Kitchens",
+      "summary": "If you, like me, were thoroughly charmed by Samin Nosrat’s whole-face smile and bottomless curiosity in her 2018 Netflix series Salt Fat Acid Heat, you’ll be delighted to discover that her home kitchen in Oakland, CA, is as warm and joyful and unpretentious as she is. The Chez Panisse-trained chef and food writer—her latest cookbook, […]",
+      "url": "https://www.remodelista.com/posts/kitchen-week-samin-nosrat-home-test-kitchens/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/11/aya-brackett-good-things-samin-nosrat-128.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/11/aya-brackett-good-things-samin-nosrat-128.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-09T08:00:00+00:00"
+    },
+    {
       "id": "582d5e3438118126",
       "title": "Lightness with class",
       "summary": "With the dynamically shaped “Little Perillo eco” chair, Züco demonstrates how sustainable thinking has become a natural part of design-conscious furniture – responsible in its use of materials and versatile in its applications.",
@@ -1774,6 +1788,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-08T10:00:50+00:00"
+    },
+    {
+      "id": "34e5cf696ead6cf7",
+      "title": "10 Easy Pieces: Grown-Up Guest Beds",
+      "summary": "I moved from New York to a one-bedroom apartment in San Francisco a while back, and the list of friends that I’ve said “come and stay!” to has been growing and growing. The problem is I don’t like sleeper sofas—and while an air mattress is perfectly fine, there’s something very dorm-like about them. It’s a […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-grown-guest-beds/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2019/02/martina-bautier-guest-bed.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2019/02/martina-bautier-guest-bed.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-08T08:00:10+00:00"
     },
     {
       "id": "944cca6bafc5c894",
@@ -1971,6 +1998,19 @@
       "published": "2026-07-05T19:03:02+00:00"
     },
     {
+      "id": "0f52eecbb8e12b33",
+      "title": "Quick Takes With: Noam Dvir",
+      "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
+      "url": "https://www.remodelista.com/posts/quick-takes-noam-dvir/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/04/DSC_7191.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/04/DSC_7191.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-05T08:00:23+00:00"
+    },
+    {
       "id": "4d09b4c8c420a9f3",
       "title": "First Look: Fairmont Cheshire, The Mere",
       "summary": "Bergman Design House has completed the interiors for Fairmont Cheshire, The Mere, marking the studio’s largest UK hospitality project to […] The post First Look: Fairmont Cheshire, The Mere appeared first on Sleeper .",
@@ -1982,6 +2022,32 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-07-03T11:42:33+00:00"
+    },
+    {
+      "id": "8e995fcaf10fff71",
+      "title": "5 Favorites: The New Rattan Daybed",
+      "summary": "I grew up in a roomy, shingled house outside of Boston, but come summer, the five of us migrated to our screened porch. Perfumed by the garden, this small, hidden back space was furnished with a white-painted Swedish dining table and a rattan daybed, two pieces so beloved—and durable—that when my mother downsized to an […]",
+      "url": "https://www.remodelista.com/posts/7-favorite-rattan-daybeds-for-summer-living/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2018/03/rattan-daybed-1960s-atelier-vime.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2018/03/rattan-daybed-1960s-atelier-vime.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-03T10:00:22+00:00"
+    },
+    {
+      "id": "d0e76288f4ae1e6f",
+      "title": "Designer Glenn Ban’s Refined East Hamptons Cottage",
+      "summary": "While perusing Gardenista contributor Laura Fenton’s book, The Little Book of Living Small, we were happy to see designer Glenn Ban‘s compact East Hamptons home featured. Julie wrote about his Provincetown cottage a few years ago, and it remains one of our favorite beach houses we’ve covered on our site. No surprise, Glenn’s Long Island […]",
+      "url": "https://www.remodelista.com/posts/glenn-ban-east-hampton-house-little-book-living-small/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2020/05/glenn-ban-house-little-book-living-small-laura-fenton-entrance.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2020/05/glenn-ban-house-little-book-living-small-laura-fenton-entrance.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-03T08:00:36+00:00"
     },
     {
       "id": "7c68d429bf59e136",
@@ -2008,6 +2074,19 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-02T20:12:16+00:00"
+    },
+    {
+      "id": "faa608c450311746",
+      "title": "Kitchen of the Week: A Compact, Nautical Entertaining Kitchen on Cape Cod",
+      "summary": "A few summers back, Julie and Justine stopped into a Cape Cod beach house reimagined by college roommates Tei Carpenter (an architect) and Victoria Birch (an interior designer), inspired by the Belafonte, Steve Zissou’s boat in The Life Aquatic. The kitchen is filled with design ideas to steal; let’s zoom in closer. Photography by Justine Hand […]",
+      "url": "https://www.remodelista.com/posts/kitchen-of-the-week-nautical-kitchen-cape-cod-life-aquatic/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2017/09/falmouth-beach-cottage-kitchen-2-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2017/09/falmouth-beach-cottage-kitchen-2-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-02T08:00:36+00:00"
     },
     {
       "id": "76bf12040f8701f2",
@@ -2088,6 +2167,19 @@
       "published": "2026-06-30T09:45:15+00:00"
     },
     {
+      "id": "e0866fd360e5b544",
+      "title": "Remodelista Reconnaissance: The Nautical Brass Ceiling Light",
+      "summary": "Interiors stylist Brittany Albert left much well enough alone in her Connecticut kitchen, and instead deployed cost-conscious tweaks to artfully transform an uninspired space: see The Cosmetic Kitchen Upgrade, Trade Secrets Included. We originally presented Brittany’s kitchen a year ago and revisited it last month, and the queries kept coming on the one detail we […]",
+      "url": "https://www.remodelista.com/posts/nautical-brass-flush-mount-ceiling-light-where-to-source/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2023/02/stylist-brittany-albert-cosmetic-kitchen-remodel-ct-kate-jordan-photo-2.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2023/02/stylist-brittany-albert-cosmetic-kitchen-remodel-ct-kate-jordan-photo-2.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-30T08:00:38+00:00"
+    },
+    {
       "id": "b886852f9020ec8f",
       "title": "Classic terrace reinterpreted in a contemporary manner",
       "summary": "Located in Melbourne’s Clifton Hill, the Northside Terrace by IF Architecture, responds to the classic model of the traditional terrace,… The post Classic terrace reinterpreted in a contemporary manner appeared first on The Interiors Addict .",
@@ -2138,6 +2230,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
+    },
+    {
+      "id": "0f5340dbfb1e5122",
+      "title": "Coaster’s Chance: A 1760s Sea Captain’s Cottage in a Moody Palette",
+      "summary": "Lately I’ve been poring over Coaster’s Chance, a 1760s captain’s cottage on the coast of Maine, north of Acadia. The house is the newest project of Rhode Island-based Moore House Design—and their first Downeast. Available to rent, the interiors have been redone in moody hues befitting the palette of pine, rocks, and seaweed outside the […]",
+      "url": "https://www.remodelista.com/posts/moore-house-design-coasters-chance-rental-cottage-maine/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2022/09/exterior-coasters-chance-moore-house-design-maine-erin-mcginn-photo.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2022/09/exterior-coasters-chance-moore-house-design-maine-erin-mcginn-photo.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-06-29T08:00:43+00:00"
     },
     {
       "id": "47625c0d63057fce",
@@ -2252,6 +2357,19 @@
       "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-06-25T16:02:00+00:00"
+    },
+    {
+      "id": "cddba30ab34372c1",
+      "title": "Ask the Experts: Just How Bad Are Conventional Lawn Maintenance Practices?",
+      "summary": "This is part of a series with Perfect Earth Project, a nonprofit dedicated to ecological gardening, on how you can be more sustainable in your landscapes at home. We’ve all seen the artificially “perfect” lawn, the pesticide signs, volcanos of mulch, the shrubs shorn so tightly nothing moves in the wind. This quest for order and […]",
+      "url": "https://www.gardenista.com/posts/health-risks-lawn-care-chemicals/",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/06/kids-pond.png",
+      "images": [
+        "https://media.gardenista.com/wp-content/uploads/2026/06/kids-pond.png"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-06-25T08:00:52+00:00"
     },
     {
       "id": "6919841da013825e",
@@ -2470,6 +2588,19 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-18T09:30:29+00:00"
+    },
+    {
+      "id": "982720c1de7b53c4",
+      "title": "Meanwhile, on Remodelista: The Summer Bedroom",
+      "summary": "Doesn’t require much to get your bedroom ready for the warmer months. In fact, it mostly involves subtracting stuff: fewer pillows, a lighter blanket, less fussiness, minimal clutter. And sometimes, all it takes is an open window or two. Below, a few examples we spied over on Remodelista of summery, pared-down bedrooms that feel like […]",
+      "url": "https://www.gardenista.com/posts/meanwhile-remodelista-summer-bedroom/",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/05/17-bedroom-mallorca-september-moore-projects-99b7978.jpeg",
+      "images": [
+        "https://media.gardenista.com/wp-content/uploads/2026/05/17-bedroom-mallorca-september-moore-projects-99b7978.jpeg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-06-18T08:00:19+00:00"
     },
     {
       "id": "c051693e05ff7f15",
@@ -2966,7 +3097,7 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/02/Rustic-Modern-Nightstand-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/11/DIY-Wall-Sign.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
@@ -3180,19 +3311,6 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-20T09:00:11+00:00"
-    },
-    {
-      "id": "94c4f9a2188d8bd6",
-      "title": "Max Lamb's seminal Economy Chair goes into production with Hem",
-      "summary": "British designer Max Lamb has brought his most recognisable seating prototype into production for the first time, rendering it in sleek pinewood for Swedish brand Hem. The Min Chair is an iteration of the Economy Chair, a chunky design that Lamb first conceived in 2020 when he made 60 chairs by hand out of slabs of polystyrene over just three The post Max Lamb's seminal Economy Chair goes into production with Hem appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/05/20/max-lamb-economy-chair-min-chair-hem/",
-      "image": "http://static.dezeen.com/uploads/2026/05/hem-min-chair-max-lamb-3-days-of-design-sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/05/hem-min-chair-max-lamb-3-days-of-design-sq.jpg"
-      ],
-      "source": "Dezeen tag furniture",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-05-20T05:00:59+00:00"
     },
     {
       "id": "fbec2223a408282b",
