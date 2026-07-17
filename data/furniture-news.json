@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-17T12:18:33.548283+00:00",
-  "generated_at_human": "2026-07-17 12:18 UTC",
+  "generated_at": "2026-07-17T14:50:41.682818+00:00",
+  "generated_at_human": "2026-07-17 14:50 UTC",
   "total_items": 240,
   "sources_used": [
     "Apartment Therapy",
@@ -14,6 +14,7 @@
     "DM tag cabinets",
     "DM tag furniture",
     "Decoist",
+    "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Interiors",
@@ -58,7 +59,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
+  "sources_count": 53,
   "multi_photo_items": 62,
   "items": [
     {
@@ -87,8 +88,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=73026",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=90453",
+        "https://i.archi.ru/i/1262/310555.jpg?r=65832",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=10446",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -105,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=69095",
+        "https://i.archi.ru/i/1262/378886.jpg?r=49064",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -140,6 +141,86 @@
       "published": ""
     },
     {
+      "id": "a96f83021449537b",
+      "title": "Splinter Report: July 17th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week Collin is away, so he asked me to... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/splinter-report-july-17th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-17T14:10:52+00:00"
+    },
+    {
+      "id": "698b26de6f518659",
+      "title": "folded yellow volume reorganizes genova apartment’s interiors like a game of tetris",
+      "summary": "bump studio reorganizes the home through color, geometry, and custom sculptural elements. The post folded yellow volume reorganizes genova apartment’s interiors like a game of tetris appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/folded-yellow-volume-genova-apartment-interiors-tetris-bump-studio/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/tetris-renovation-bump-studio-genova-italy-flexible-living-environment-designboom-700-2-500x400-22b08q85r653.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/07/tetris-renovation-bump-studio-genova-italy-flexible-living-environment-designboom-700-2-500x400-22b08q85r653.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-07-17T14:00:02+00:00"
+    },
+    {
+      "id": "074a3d706cc49475",
+      "title": "A Wooden Cable Spool Became a Spinning Coffee Table With Built-In Book Storage",
+      "summary": "Most wooden cable spools never make it past the workshop, but she turned one into a spinning coffee table with built-in book storage. A discarded cable drum, ten wooden dowels, white paint, and a rotating swivel plate transformed the industrial reel into a living room piece that stores books around the base while the tabletop... The post A Wooden Cable Spool Became a Spinning Coffee Table With Built-In Book Storage appeared first on Homedit .",
+      "url": "https://www.homedit.com/a-wooden-cable-spool-became-a-spinning-coffee-table-with-built-in-book-storage/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Cable-Spool-Becomes-the-Starting-Point.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Cable-Spool-Becomes-the-Starting-Point.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Forgotten-Piece-of-Dining-Room-Furniture-Designers-Never-Abandoned.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Living-Rooms-Replaced-Basic-TV-Stands-With-Full-Media-Walls.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/650-Pavers-Turned-an-Empty-Patch-of-Lawn-Into-a-Backyard-Fire-Pit-Patio.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Backyard-Borders-Started-Filling-With-Ornamental-Grass-Instead-of-Mulch.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-17T13:20:31+00:00"
+    },
+    {
+      "id": "8b18b7f35fe8ea9a",
+      "title": "Heechan Kim’s Loxo Chair Blurs the Line Between Sculpture and Seating",
+      "summary": "Inspired by the quiet strength of an elephant, the award-winning lounge chair balances sculptural expression with comfort and everyday functionality",
+      "url": "https://design-milk.com/heechan-kim-loxo-chair-icff/",
+      "image": "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_photo.2.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_photo.2.jpg",
+        "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_single-seater.jpg",
+        "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_photo.1.jpg",
+        "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_photo.3.jpg",
+        "https://design-milk.com/images/2026/07/051826_Bascom_SMS23143.jpg",
+        "https://design-milk.com/images/2026/07/051826_Bascom_IZ5A3144.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-07-17T13:00:12+00:00"
+    },
+    {
+      "id": "d395182f2a267a82",
+      "title": "The Forgotten Piece of Dining Room Furniture Designers Never Abandoned",
+      "summary": "For decades, the standard dining set meant a table surrounded by matching chairs. Benches gradually disappeared from many homes, becoming associated with picnic tables, entryways, or casual breakfast nooks instead of formal dining rooms. Furniture collections tell a different story. Across modern dining displays, benches appear beside rectangular, oval, and even round tables, often replacing... The post The Forgotten Piece of Dining Room Furniture Designers Never Abandoned appeared first on Homedit .",
+      "url": "https://www.homedit.com/the-forgotten-piece-of-dining-room-furniture-designers-never-abandoned/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Dining-Room-Piece-Quietly-Fell-Out-of-Favor.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Dining-Room-Piece-Quietly-Fell-Out-of-Favor.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Wooden-Cable-Spool-Became-a-Spinning-Coffee-Table-With-Built-In-Book-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Living-Rooms-Replaced-Basic-TV-Stands-With-Full-Media-Walls.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/650-Pavers-Turned-an-Empty-Patch-of-Lawn-Into-a-Backyard-Fire-Pit-Patio.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Backyard-Borders-Started-Filling-With-Ornamental-Grass-Instead-of-Mulch.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-17T12:39:03+00:00"
+    },
+    {
       "id": "70c66b1073bb2a65",
       "title": "Living Rooms Replaced Basic TV Stands With Full Media Walls",
       "summary": "Older TV furniture centered almost everything beneath the screen. Long entertainment centers, matching hutches, and bulky wall units stored electronics but often left the television feeling separate from the rest of the room. As screens became thinner, furniture began changing around them instead of simply supporting them. Today’s media units treat the entire wall as... The post Living Rooms Replaced Basic TV Stands With Full Media Walls appeared first on Homedit .",
@@ -151,7 +232,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Display-Cabinets-Started-Replacing-Empty-Wall-Space.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Cabinets-Started-Moving-Above-the-Screen.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Living-Walls-Started-Sharing-Space-With-Media-Units.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Forgotten-Piece-of-Dining-Room-Furniture-Designers-Never-Abandoned.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -193,9 +274,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ikea-finally-made-furniture-you-can-carry-out-when-you-move-apartments/ikea-kompishang-portable-furniture-collection-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/stackable-chair-concept-transforms-into-a-desk-for-space-saving-efficiency/sit-n-switch-8.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/sunny_furniture_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/12/this-portable-chair-concept-will-make-your-lungs-work-for-your-outdoor-comfort/bag-sofa-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/06/an-office-wall-that-moves-opens-and-looks-like-art/flip-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/auto-draft/zeta_electric_guitar_redesign_3.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/01/sunny-side-up-seating/yolk_chair_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -226,12 +307,7 @@
       "url": "https://www.homedit.com/the-kitchen-kettle-started-replacing-weed-killer-between-patio-pavers/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Patio-Cracks-Make-the-Best-Target.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Living-Rooms-Replaced-Basic-TV-Stands-With-Full-Media-Walls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/650-Pavers-Turned-an-Empty-Patch-of-Lawn-Into-a-Backyard-Fire-Pit-Patio.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Backyard-Borders-Started-Filling-With-Ornamental-Grass-Instead-of-Mulch.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-White-Cabinets-Olive-Green-and-the-Kitchen-Found-Its-Character-Again.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -244,12 +320,7 @@
       "url": "https://www.homedit.com/she-painted-the-white-cabinets-olive-green-and-the-kitchen-found-its-character-again/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-White-Cabinets-Olive-Green-and-the-Kitchen-Found-Its-Character-Again.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-White-Cabinets-Olive-Green-and-the-Kitchen-Found-Its-Character-Again.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kept-Its-Layout-but-Not-Its-Personality.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Simple-Shelf-Added-Warmth.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Everyday-Corners-Became-Part-of-the-Design.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Bold-Wallpaper-Framed-the-Back-Entrance.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Pink-Walls-Connected-the-Kitchen-to-the-Dining-Space.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-White-Cabinets-Olive-Green-and-the-Kitchen-Found-Its-Character-Again.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -314,9 +385,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-folding-chair-that-looks-great-and-sits-terribly/folding-chair-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/if-the-eames-lounge-chair-were-a-baby-crib-this-would-be-it/argo_crib_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/nardi/nardi_furniture_yanko_design_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/07/01/dam_00.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/06/this-modular-360-degree-seating-collection-provides-an-informal-yet-private-approach-to-coworking/D_series_furniture_yanko_design_Favaretto-Partners_Sunon_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/07/modular-couch-brings-comfort-calm-to-waiting-spaces/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/05/eget_workspace_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -353,9 +424,9 @@
       "title": "This DIYer Turned Their Ordinary Bathroom Into a Lush Secret Garden Paradise",
       "summary": "This time on DIY Diaries, follow along with a DIYer who transformed her bathroom into a truly beautiful space. The post This DIYer Turned Their Ordinary Bathroom Into a Lush Secret Garden Paradise appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/secret-garden-bathroom-diy-diaries/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_DIY-Bathroom-Upgrades_courtesy-Sandy-Lin_02_OTedit.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_DIY-Bathroom-Upgrades_courtesy-Sandy-Lin_02_OTedit.jpg?fit=700%2C1024",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_DIY-Bathroom-Upgrades_courtesy-Sandy-Lin_02_OTedit.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_DIY-Bathroom-Upgrades_courtesy-Sandy-Lin_02_OTedit.jpg?fit=700%2C1024"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -492,9 +563,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-collapsible-stool-that-actually-gets-stronger-when-you-sit-on-it/kinzo-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/heres-a-clever-way-to-organize-your-workshop-with-a-print-it-yourself-pegboard-wall/french-cleat-pegboard-wall-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/these-chairs-are-made-from-the-steel-that-holds-up-buildings/beams-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/samsungs-eco-friends-accessory-line-is-made-from-post-consumer-material/Samsung_eco-friendly_accessories_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/10/auto-draft/alone_food_waste_processor_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/08/apple_watch_strap_made_from_pineapple_leaves_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/07/social-distancing-furniture/10-clikclax_yankodesign.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -596,32 +667,6 @@
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
       "published": "2026-07-16T10:00:00+00:00"
-    },
-    {
-      "id": "b4f778142a45c8da",
-      "title": "Forget Bookcases: Cinder Blocks Built the Same Storage for Less",
-      "summary": "Bookcases often require careful measuring, flat-pack assembly, and a larger budget before they even reach the wall. This DIY project takes a different approach by combining standard cinder blocks with construction lumber to build a full-length storage unit using materials available at almost any home improvement store. TikTok creator @julesthelawyer shared the project after assembling... The post Forget Bookcases: Cinder Blocks Built the Same Storage for Less appeared first on Homedit .",
-      "url": "https://www.homedit.com/forget-bookcases-cinder-blocks-built-the-same-storage-for-less/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Forget-Bookcases-Cinder-Blocks-Built-the-Same-Storage-for-Less.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Forget-Bookcases-Cinder-Blocks-Built-the-Same-Storage-for-Less.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-16T09:40:59+00:00"
-    },
-    {
-      "id": "bdb86b86a318f846",
-      "title": "Laundry Rooms Started Taking Over the Utility Closet",
-      "summary": "Laundry room remodels often stop after new paint or replacement cabinets. Reddit user u/Boobslappy decided the room needed to solve storage problems at the same time. Existing oak cabinets stayed in place but received new paint and hardware, while the utility closet became custom built-ins for cleaning supplies, a vacuum garage, cat litter storage, and... The post Laundry Rooms Started Taking Over the Utility Closet appeared first on Homedit .",
-      "url": "https://www.homedit.com/laundry-rooms-started-taking-over-the-utility-closet/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Laundry-Rooms-Started-Taking-Over-the-Utility-Closet.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Laundry-Rooms-Started-Taking-Over-the-Utility-Closet.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-16T08:14:41+00:00"
     },
     {
       "id": "fee209f302669aaf",
@@ -770,19 +815,6 @@
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
       "published": "2026-07-15T18:03:32+00:00"
-    },
-    {
-      "id": "d85fea875470584c",
-      "title": "This 500-Square-Foot Chicago Rental Finally Found Room for a Dining Table",
-      "summary": "After years of trial and error, this Chicago renter figured out how to fit everything she wanted — including a dining table — into just 500 square feet, without sacrificing style or comfort. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/rental-decorating-ideas-in-500-square-feet-37564044?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/sarah-s/tours-chicago-sarah-s-25",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/sarah-s/tours-chicago-sarah-s-25"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-15T16:00:00+00:00"
     },
     {
       "id": "656477c1d1e63ee0",
@@ -1096,14 +1128,9 @@
       "url": "https://design-milk.com/lo-co-duet-mixed-metals-hardware/",
       "image": "https://design-milk.com/images/2026/07/Duet_Creative_255.jpg",
       "images": [
-        "https://design-milk.com/images/2026/07/Duet_Creative_255.jpg",
-        "https://design-milk.com/images/2026/07/Duet_Creative_180.jpg",
-        "https://design-milk.com/images/2026/07/Duet_Creative_273.jpg",
-        "https://design-milk.com/images/2026/07/Duet_Creative_183.jpg",
-        "https://design-milk.com/images/2026/07/Duet_Creative_140.jpg",
-        "https://design-milk.com/images/2026/07/Duet_Creative_288.jpg"
+        "https://design-milk.com/images/2026/07/Duet_Creative_255.jpg"
       ],
-      "source": "Design Milk",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-14T20:52:08+00:00"
     },
@@ -1632,19 +1659,6 @@
       "published": "2026-07-10T13:20:32+00:00"
     },
     {
-      "id": "22957052cb50abe5",
-      "title": "A Wearable Hands-Free Action Camera with Live Previewing",
-      "summary": "This MusicCam Pro is a set of waterproof bone-conducting headphones with a built-in 4K camera. Created by Chinese startup VibeLens , this is the second generation of this product, the first (a 2K version) having been Kickstarted last year. Aimed at content creators, the wearable promises hands-free POV motion-stabilized shooting--with live preview. That means you can use your phone as a real-time monitor, so you can ensure you've framed the video correctly. It can also livestream. Incredibly, the device weighs just 50g (1.8 oz) including the battery, which can provide around 2.5 hours of…",
-      "url": "https://www.core77.com/posts/144695/A-Wearable-Hands-Free-Action-Camera-with-Live-Previewing",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1840985_lead_400_144695_.jpeg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1840985_lead_400_144695_.jpeg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-07-10T13:00:00+00:00"
-    },
-    {
       "id": "88d2b4080ded9e63",
       "title": "Unearthed fossils and mudlarked bones inspire Faye Toogood's latest furniture",
       "summary": "Curved oak and dimpled upholstery feature in British designer Faye Toogood's Bone, Roll, Slump furniture collection, which includes her \"most comfortable chair\" yet. The collection brings together a selection of seating and tables under three names – Bone, Roll and Slump. Bone comprises a group of organically shaped chairs and two tables designed to recall The post Unearthed fossils and mudlarked bones inspire Faye Toogood's latest furniture appeared first on Dezeen .",
@@ -1872,9 +1886,9 @@
       "title": "I Used to Renovate for Style — Then Something Major Changed My Approach",
       "summary": "A life-changing surgery turned a routine bathroom remodel into a crash course in accessibility. The post I Used to Renovate for Style — Then Something Major Changed My Approach appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/style-vs-accessibility-home-upgrades/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_I-Thought-Home-Upgrades_Laurie-Nichols_01_YVedit.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_I-Thought-Home-Upgrades_Laurie-Nichols_01_YVedit.jpg?fit=700%2C1024",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_I-Thought-Home-Upgrades_Laurie-Nichols_01_YVedit.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_I-Thought-Home-Upgrades_Laurie-Nichols_01_YVedit.jpg?fit=700%2C1024"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -1948,7 +1962,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_MARA__AERA_04_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_MARA__OTTO__Christophe-Pillet__03_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_©MARA__ARGO-LIBRO__LIMITED-EDITION_LR_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vitra_Bascule_Studio_OE_print-07.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2145,9 +2159,9 @@
       "title": "Bad Driving Habits Put You at Risk— So We Asked Experts How to Counter Them",
       "summary": "Here’s how to avoid speeding and other driving distractions that put you at risk The post Bad Driving Habits Put You at Risk— So We Asked Experts How to Counter Them appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/driving-safety-tips/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/06/GettyImages-1832588381.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/06/GettyImages-1832588381.jpg?fit=700%2C1024",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/06/GettyImages-1832588381.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/06/GettyImages-1832588381.jpg?fit=700%2C1024"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2733,19 +2747,6 @@
       "published": "2026-06-12T08:00:03+00:00"
     },
     {
-      "id": "77ab8dac26ec0fee",
-      "title": "Furniture Isn’t Sticking to Rectangles. These Shapes Are Taking Over",
-      "summary": "Furniture design has expanded beyond straight edges and standard rectangles. Circles, hexagons, triangles, polygons, arches, and faceted forms now appear in tables, shelving, mirrors, lighting, and seating, turning functional pieces into focal points. Some designs emphasize sharp angles and geometric repetition, while others rely on rounded volumes and curved silhouettes. Materials such as wood, glass,... The post Furniture Isn’t Sticking to Rectangles. These Shapes Are Taking Over appeared first on Homedit .",
-      "url": "https://www.homedit.com/furniture-isnt-sticking-to-rectangles-these-shapes-are-taking-over/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Furniture-Isnt-Sticking-to-Rectangles.-These-Shapes-Are-Taking-Over.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Furniture-Isnt-Sticking-to-Rectangles.-These-Shapes-Are-Taking-Over.jpg"
-      ],
-      "source": "Homedit furniture",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-06-12T06:52:53+00:00"
-    },
-    {
       "id": "0390659f1204d9d6",
       "title": "Eleven innovative collections from Chicago Design Week",
       "summary": "An office chair by Foster + Partners Industrial Design made with reused fishing nets and lightweight aluminium benches designed by Naoto Fukasawa were among the objects displayed at this year's Chicago Design Week. This year's Chicago Design Week, which takes part between the city's sprawling Merchandise Mart (the Mart) and a neighbourhood away in Fulton The post Eleven innovative collections from Chicago Design Week appeared first on Dezeen .",
@@ -2780,7 +2781,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3085,7 +3086,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3116,7 +3117,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3295,7 +3296,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
