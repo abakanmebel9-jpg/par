@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-18T13:43:03.694609+00:00",
-  "generated_at_human": "2026-07-18 13:43 UTC",
-  "total_items": 246,
+  "generated_at": "2026-07-18T15:08:09.144047+00:00",
+  "generated_at_human": "2026-07-18 15:08 UTC",
+  "total_items": 245,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -59,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
+  "sources_count": 52,
   "multi_photo_items": 62,
   "items": [
     {
@@ -88,8 +87,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=57732",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=20822",
+        "https://i.archi.ru/i/1262/310555.jpg?r=14931",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=63659",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -106,7 +105,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=93452",
+        "https://i.archi.ru/i/1262/378886.jpg?r=11232",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -128,6 +127,57 @@
       "published": ""
     },
     {
+      "id": "d19c45c033289f96",
+      "title": "Not Bleach: This Bathroom Cleaning Method Started Removing Toilet Seat Stains",
+      "summary": "Most people scrub stained toilet seats where they sit or replace them once the discoloration refuses to come off. Cleaning expert and Instagram creator Nancy Birtwhistle uses a different approach. Instead of reaching for chlorine bleach, she removes the toilet seat and lets it soak in very hot water with washing soda crystals before any... The post Not Bleach: This Bathroom Cleaning Method Started Removing Toilet Seat Stains appeared first on Homedit .",
+      "url": "https://www.homedit.com/not-bleach-this-bathroom-cleaning-method-started-removing-toilet-seat-stains/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Bleach-This-Soaking-Method-Started-Removing-Toilet-Seat-Stains.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Bleach-This-Soaking-Method-Started-Removing-Toilet-Seat-Stains.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Very-Hot-Water-Does-Most-of-the-Work.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/No-Chlorine-Bleach-Required.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Toilet-Seat-Comes-Off-First.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Hinge-Area-Gets-Extra-Attention.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Laundry-Room-Wall-Turned-Into-a-Built-In-Workstation.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-18T14:41:28+00:00"
+    },
+    {
+      "id": "fa5abeadd34a308b",
+      "title": "4 Lawn Mower Models With A Bad Reputation",
+      "summary": "Customers complain that these lawn mower models required dozens of repairs, came with missing parts, were cheaply made, and wholly unreliable.",
+      "url": "https://www.hunker.com/2215491/worst-lawn-mower-models/",
+      "image": "https://www.hunker.com/img/gallery/4-lawn-mower-models-with-a-bad-reputation/l-intro-1784118408.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/4-lawn-mower-models-with-a-bad-reputation/l-intro-1784118408.jpg",
+        "https://www.hunker.com/img/gallery/4-lawn-mower-models-with-a-bad-reputation/intro-1784118408.jpg",
+        "https://www.hunker.com/img/gallery/4-lawn-mower-models-with-a-bad-reputation/how-we-arrived-at-a-list-of-mowers-to-avoid-1784118410.jpg",
+        "https://www.hunker.com/img/gallery/4-lawn-mower-models-with-a-bad-reputation/troy-bilt-pony-42-riding-lawn-mower-1784118411.jpg",
+        "https://www.hunker.com/img/gallery/4-lawn-mower-models-with-a-bad-reputation/pulsar-21-inch-gas-self-propelled-lawn-mower-1784118412.jpg",
+        "https://www.hunker.com/img/gallery/4-lawn-mower-models-with-a-bad-reputation/powersmart-21-inch-170cc-gas-self-propelled-lawn-mower-1784118413.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-18T14:30:00+00:00"
+    },
+    {
+      "id": "32e0e272a22c1276",
+      "title": "Does Home Depot Cut Wood For You?",
+      "summary": "Home Depot is a go-to location for wood and other supplies. But will the store cut lumber for you? Here's what to know about the service and how it works.",
+      "url": "https://www.hunker.com/2218007/does-home-depot-cut-wood-for-you/",
+      "image": "https://www.hunker.com/img/gallery/does-home-depot-cut-wood-for-you/l-intro-1784318386.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/does-home-depot-cut-wood-for-you/l-intro-1784318386.jpg",
+        "https://www.hunker.com/img/gallery/does-home-depot-cut-wood-for-you/intro-1784318386.jpg",
+        "https://www.hunker.com/img/gallery/does-home-depot-cut-wood-for-you/how-getting-wood-cut-at-home-depot-works-1784318388.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-18T14:00:00+00:00"
+    },
+    {
       "id": "d5c9087136f49df5",
       "title": "Eran’s Steel Furniture Displays Books Like Artifacts Worth Keeping",
       "summary": "Eran’s Steel Furniture Displays Books Like Artifacts Worth Keeping Books tend to get stacked, shelved, and forgotten in most homes. They migrate from nightstand to floor to the corner of a couch, and the...",
@@ -144,6 +194,34 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-18T13:20:30+00:00"
+    },
+    {
+      "id": "7131ed70fa5d476d",
+      "title": "New Yorkers Split Their 1-Bedroom into 2 by Lofting the Bed",
+      "summary": "This unforgettable rental is a reminder that our homes often have more potential than we realize — and that thoughtful, reversible DIY projects can completely transform the way we live. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/lofted-bed-two-bedrooms-37564298?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-June/amanda-h/tours-newyork-amanda-h-20",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-June/amanda-h/tours-newyork-amanda-h-20"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-18T13:00:00+00:00"
+    },
+    {
+      "id": "9e6e221101141f6c",
+      "title": "Not A Dresser Or Cabinet: Costco's Versatile Solution For Bedrooms Without Closets",
+      "summary": "If you're short on storage, this highly rated find proves you don't have to compromise on looks. Its chic design fits right in while pulling its weight.",
+      "url": "https://www.hunker.com/2215479/costco-bedroom-clothes-storage-rack-dresser-cabinet-alternative/",
+      "image": "https://www.hunker.com/img/gallery/costco-bedroom-clothes-storage-rack-dresser-cabinet-alternative/l-intro-1784314893.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/costco-bedroom-clothes-storage-rack-dresser-cabinet-alternative/l-intro-1784314893.jpg",
+        "https://www.hunker.com/img/gallery/costco-bedroom-clothes-storage-rack-dresser-cabinet-alternative/intro-1784314893.jpg",
+        "https://www.hunker.com/img/gallery/costco-bedroom-clothes-storage-rack-dresser-cabinet-alternative/using-costcos-trinity-garment-rack-in-place-of-a-closet-1784314895.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-18T12:00:00+00:00"
     },
     {
       "id": "8cca64f7d28119d6",
@@ -165,9 +243,7 @@
       "url": "https://www.hunker.com/2213365/diy-elegant-coffee-table-ikea-lack-silver-foil/",
       "image": "https://www.hunker.com/img/gallery/woman-diys-an-elegant-coffee-table-on-an-ikea-budget-in-no-time/l-intro-1783943813.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/woman-diys-an-elegant-coffee-table-on-an-ikea-budget-in-no-time/l-intro-1783943813.jpg",
-        "https://www.hunker.com/img/gallery/woman-diys-an-elegant-coffee-table-on-an-ikea-budget-in-no-time/intro-1783943813.jpg",
-        "https://www.hunker.com/img/gallery/woman-diys-an-elegant-coffee-table-on-an-ikea-budget-in-no-time/use-imitation-silver-leaf-to-upgrade-a-lack-coffee-table-1783943814.jpg"
+        "https://www.hunker.com/img/gallery/woman-diys-an-elegant-coffee-table-on-an-ikea-budget-in-no-time/l-intro-1783943813.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -183,9 +259,9 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Hallway-Closets-Started-Disappearing-to-Make-Room-for-Larger-Kitchen.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Framing-Defined-the-New-Island.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Pantry-Cabinets-Narrowed-the-Entrance.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Forgotten-Piece-of-Dining-Room-Furniture-Designers-Never-Abandoned.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Open-Kitchen-Changed-the-First-Impression.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Butcher-Block-Wrapped-the-Island.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Butcher-Block-Wrapped-the-Island.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Textured-Tile-Added-Depth.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -200,7 +276,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/mistovia-hfr-istebna-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-18T09:00:50+00:00"
     },
@@ -212,8 +288,8 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/More-Kitchens-Are-Skipping-Traditional-Tile-Backsplashes-Homedit.com-interior-design-ideas.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/More-Kitchens-Are-Skipping-Traditional-Tile-Backsplashes-Homedit.com-interior-design-ideas.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Forgotten-Piece-of-Dining-Room-Furniture-Designers-Never-Abandoned.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Laundry-Room-Wall-Turned-Into-a-Built-In-Workstation.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Bleach-This-Soaking-Method-Started-Removing-Toilet-Seat-Stains.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Hallway-Closets-Started-Disappearing-to-Make-Room-for-Larger-Kitchen.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Landscaper-Quoted-5000.-He-Built-the-Retaining-Wall-for-250.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Wooden-Cable-Spool-Became-a-Spinning-Coffee-Table-With-Built-In-Book-Storage.jpg"
@@ -229,12 +305,7 @@
       "url": "https://www.homedit.com/empty-laundry-room-wall-turned-into-a-built-in-workstation/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Laundry-Room-Wall-Turned-Into-a-Built-In-Workstation.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Laundry-Room-Wall-Turned-Into-a-Built-In-Workstation.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Natural-Wood-Balances-the-Dark-Green-Walls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Hand-Sketch-Became-a-Measured-Installation.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Forgotten-Piece-of-Dining-Room-Furniture-Designers-Never-Abandoned.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Floating-Shelf-Brackets-Disappeared-Inside-the-Wood.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Solid-Wood-Received-a-Durable-Finish.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Laundry-Room-Wall-Turned-Into-a-Built-In-Workstation.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -263,9 +334,7 @@
       "url": "https://www.hunker.com/2208226/upcycle-old-pickle-jars-into-bathroom-storage-countertop-clutter/",
       "image": "https://www.hunker.com/img/gallery/upcycle-old-pickle-jars-into-bathroom-storage-countertop-clutter/l-intro-1783343145.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/upcycle-old-pickle-jars-into-bathroom-storage-countertop-clutter/l-intro-1783343145.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-pickle-jars-into-bathroom-storage-countertop-clutter/intro-1783343145.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-pickle-jars-into-bathroom-storage-countertop-clutter/upgrading-pickle-jars-for-stylish-bathroom-counter-storage-1783343147.jpg"
+        "https://www.hunker.com/img/gallery/upcycle-old-pickle-jars-into-bathroom-storage-countertop-clutter/l-intro-1783343145.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -278,12 +347,7 @@
       "url": "https://www.hunker.com/2214495/herbs-to-grow-if-you-like-mexican-cuisine/",
       "image": "https://www.hunker.com/img/gallery/10-herbs-to-plant-if-you-like-mexican-cuisine/l-intro-1784032046.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/10-herbs-to-plant-if-you-like-mexican-cuisine/l-intro-1784032046.jpg",
-        "https://www.hunker.com/img/gallery/10-herbs-to-plant-if-you-like-mexican-cuisine/intro-1784032046.jpg",
-        "https://www.hunker.com/img/gallery/10-herbs-to-plant-if-you-like-mexican-cuisine/marjoram-1784032048.jpg",
-        "https://www.hunker.com/img/gallery/10-herbs-to-plant-if-you-like-mexican-cuisine/cilantro-1784032049.jpg",
-        "https://www.hunker.com/img/gallery/10-herbs-to-plant-if-you-like-mexican-cuisine/basil-1784032050.jpg",
-        "https://www.hunker.com/img/gallery/10-herbs-to-plant-if-you-like-mexican-cuisine/mexican-oregano-1784032051.jpg"
+        "https://www.hunker.com/img/gallery/10-herbs-to-plant-if-you-like-mexican-cuisine/l-intro-1784032046.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -583,19 +647,6 @@
       "published": "2026-07-17T07:33:06+00:00"
     },
     {
-      "id": "6b37a5e2f30da169",
-      "title": "The Kitchen Kettle Started Replacing Weed Killer Between Patio Pavers",
-      "summary": "Weeds have a habit of appearing where almost nothing else can grow. Thin cracks between patio pavers, driveways, and walkways often fill with stubborn shoots that return no matter how many times they are pulled. While weed killers remain the most common solution, cleaning expert Nancy Birtwhistle has shown a different approach that starts with... The post The Kitchen Kettle Started Replacing Weed Killer Between Patio Pavers appeared first on Homedit .",
-      "url": "https://www.homedit.com/the-kitchen-kettle-started-replacing-weed-killer-between-patio-pavers/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Kettle-Started-Replacing-Weed-Killer-Between-Patio-Pavers.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-17T06:49:44+00:00"
-    },
-    {
       "id": "3725edaef1f03751",
       "title": "Your room-by-room guide to 2026 interior design trends",
       "summary": "From kitchen to courtyard, these are the features, finishes and flourishes homeowners are coveting this year. The post Your room-by-room guide to 2026 interior design trends appeared first on Home Beautiful .",
@@ -641,9 +692,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-folding-chair-that-looks-great-and-sits-terribly/folding-chair-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/11/26/ys_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/03/modular-wooden-bookshelf-is-inspired-by-ryuichi-sakamotos-vision/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/05/11/nautilus_05.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/05/loopy-chair-turns-a-single-line-into-playful-sculptural-seating/loopy-chair-07.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/05/10/chaird_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/07/18/bojaki_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -676,19 +727,6 @@
       "published": "2026-07-16T19:46:56+00:00"
     },
     {
-      "id": "ea80fe2d51435de4",
-      "title": "Skip Paint: Update An Old Dresser With A Clever Wallpaper Hack",
-      "summary": "If you have an old set of drawers that are looking a little raggedy, you can give them an easy makeover with wallpaper - no paint necessary.",
-      "url": "https://www.hunker.com/2212823/update-old-dresser-wallpaper-hack-skip-paint/",
-      "image": "https://www.hunker.com/img/gallery/skip-paint-update-an-old-dresser-with-a-clever-wallpaper-hack/l-intro-1783727534.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-paint-update-an-old-dresser-with-a-clever-wallpaper-hack/l-intro-1783727534.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-16T19:00:00+00:00"
-    },
-    {
       "id": "2415d48aa87c549b",
       "title": "Mahogany Entry Table",
       "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
@@ -700,19 +738,6 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-16T18:43:10+00:00"
-    },
-    {
-      "id": "809405927a3ff12f",
-      "title": "Woman Turns Baskets & Dish Racks Into Countertop Storage With A Dollar Tree DIY",
-      "summary": "You can never have enough countertop storage, and if you're struggling to cope with clutter, then try creating some vertical space with this Dollar Tree DIY.",
-      "url": "https://www.hunker.com/2208389/dollar-tree-diy-countertop-storage-dish-rack-baskets-shelf/",
-      "image": "https://www.hunker.com/img/gallery/dollar-tree-diy-countertop-storage-dish-rack-baskets-shelf/l-intro-1783413999.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/dollar-tree-diy-countertop-storage-dish-rack-baskets-shelf/l-intro-1783413999.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-16T18:00:00+00:00"
     },
     {
       "id": "1f64536b0965d068",
@@ -749,19 +774,6 @@
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
       "published": "2026-07-16T16:50:19+00:00"
-    },
-    {
-      "id": "bc3c990880965d5c",
-      "title": "He Gutted This 700-Square-Foot Loft — Now Every Inch Feels Intentional",
-      "summary": "Toronto-based content creator Abhishek Dekate's gut renovation turned a standard loft into a warm, artful home, but it's the dramatic Calacatta Viola marble kitchen that steals the show. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/abhishek-dekate-warm-toronto-loft-37559798?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/december/abhishek-d/tours-toronto-abhishek-d-lead-2",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/december/abhishek-d/tours-toronto-abhishek-d-lead-2"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-16T16:00:00+00:00"
     },
     {
       "id": "96a0441bd6953f58",
@@ -1337,19 +1349,6 @@
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
-      "published": "2026-07-14T13:00:00+00:00"
-    },
-    {
-      "id": "5a47e85b9e306c7c",
-      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
-      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
@@ -1966,19 +1965,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-07T08:00:27+00:00"
-    },
-    {
-      "id": "15d1b501d09c7863",
-      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
-      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-06T23:25:23+00:00"
     },
     {
       "id": "6c7643791ee96fc1",
