@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-19T13:46:24.476611+00:00",
-  "generated_at_human": "2026-07-19 13:46 UTC",
-  "total_items": 240,
+  "generated_at": "2026-07-19T15:08:55.324985+00:00",
+  "generated_at_human": "2026-07-19 15:08 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -36,6 +37,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "Popular Woodworking",
@@ -57,7 +59,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
+  "sources_count": 53,
   "multi_photo_items": 62,
   "items": [
     {
@@ -86,8 +88,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=27490",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=45585",
+        "https://i.archi.ru/i/1262/310555.jpg?r=94679",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=95622",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -104,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=20890",
+        "https://i.archi.ru/i/1262/378886.jpg?r=98266",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -124,6 +126,39 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "67f9f74c005cd005",
+      "title": "Ditch The Rack: A More Creative Way To Hang Bathroom Towels With Thrifted Casket Handles",
+      "summary": "Basic towel bars and racks can be boring and overdone. However, thrifted casket handles are a unique way to hang towels that will wow your guests.",
+      "url": "https://www.hunker.com/2209979/rack-alternative-creative-way-to-hang-bathroom-towels-thrifted-casket-handles/",
+      "image": "https://www.hunker.com/img/gallery/ditch-the-rack-a-more-creative-way-to-hang-bathroom-towels-with-thrifted-casket-handles/l-intro-1783452454.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-the-rack-a-more-creative-way-to-hang-bathroom-towels-with-thrifted-casket-handles/l-intro-1783452454.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-rack-a-more-creative-way-to-hang-bathroom-towels-with-thrifted-casket-handles/intro-1783452454.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-rack-a-more-creative-way-to-hang-bathroom-towels-with-thrifted-casket-handles/upcycling-thrifted-casket-handles-as-bathroom-towel-bars-1783452456.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-19T14:00:00+00:00"
+    },
+    {
+      "id": "4172dc11b5b98685",
+      "title": "The Kids’ Room Design That Replaces Four Pieces of Furniture With One",
+      "summary": "Kids’ bedrooms tend to fill up the same way. A bed goes against one wall, a wardrobe takes another, a desk finds whatever space is left, and shelves appear later as books, toys, and school supplies begin taking over the room. Before long, most of the floor belongs to furniture instead of the child using... The post The Kids’ Room Design That Replaces Four Pieces of Furniture With One appeared first on Homedit .",
+      "url": "https://www.homedit.com/the-kids-room-design-that-replaces-four-pieces-of-furniture-with-one/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kids-Room-Design-That-Replaces-Four-Pieces-of-Furniture-With-One.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kids-Room-Design-That-Replaces-Four-Pieces-of-Furniture-With-One.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Features-Most-People-Never-Think-to-Add-Until-They-See-Them.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Wall-Shelving-Creates-Structure-Without-Closing-the-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Floating-Storage-Connects-the-Workspace-and-Seating-Area.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Display-Cubes-Break-Up-Full-Height-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Open-Shelving-Replaces-Decorative-Wall-Art.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-19T13:52:35+00:00"
     },
     {
       "id": "bc3268e1c1f799c8",
@@ -165,7 +200,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Cinder-Blocks-Built-a-Backyard-Display-That-Changes-With-Every-Season.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Sinks-Are-Starting-to-Work-Like-Toolboxes.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Demolition-Exposed-Something-No-One-Expected-Behind-the-Tile.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Bleach-This-Soaking-Method-Started-Removing-Toilet-Seat-Stains.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kids-Room-Design-That-Replaces-Four-Pieces-of-Furniture-With-One.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -196,12 +231,7 @@
       "url": "https://www.homedit.com/kitchen-sinks-are-starting-to-work-like-toolboxes/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Sinks-Are-Starting-to-Work-Like-Toolboxes.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Sinks-Are-Starting-to-Work-Like-Toolboxes.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Kitchen-Features-Most-People-Never-Think-to-Add-Until-They-See-Them.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Built-In-Organizers-Keep-Everyday-Tools-Inside-the-Sink-Zone-1.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Demolition-Exposed-Something-No-One-Expected-Behind-the-Tile.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Forget-Plant-Stands-Cinder-Blocks-Created-a-Better-Backyard-Display.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Bleach-This-Soaking-Method-Started-Removing-Toilet-Seat-Stains.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Sinks-Are-Starting-to-Work-Like-Toolboxes.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -258,9 +288,7 @@
       "url": "https://www.hunker.com/2213534/ikea-serving-bowl-hack-cuter-way-to-add-towel-storage/",
       "image": "https://www.hunker.com/img/gallery/forget-towel-holders-this-ikea-hack-is-a-cuter-way-to-add-storage/l-intro-1783950691.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/forget-towel-holders-this-ikea-hack-is-a-cuter-way-to-add-storage/l-intro-1783950691.jpg",
-        "https://www.hunker.com/img/gallery/forget-towel-holders-this-ikea-hack-is-a-cuter-way-to-add-storage/intro-1783950691.jpg",
-        "https://www.hunker.com/img/gallery/forget-towel-holders-this-ikea-hack-is-a-cuter-way-to-add-storage/the-perfect-bowl-needs-perfectly-rolled-towels-1783950693.jpg"
+        "https://www.hunker.com/img/gallery/forget-towel-holders-this-ikea-hack-is-a-cuter-way-to-add-storage/l-intro-1783950691.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -341,9 +369,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/06/18/balancing_bowls_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/03/auto-draft/leather_felt_organizer_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/09/this-ultra-portable-oxygen-concentrator-the-size-of-a-hhd-straps-on-like-its-not-even-there/OXYGIO-Oxygen-Machine_Medical_Gadgets.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/02_opa_cardboardsleepingcapsule_emergencyshelter.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/08/02/kugl_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/01/auto-draft/co_life_04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -385,9 +413,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/auto-draft/aerorondak_inflatable_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/nebula-is-a-transforming-chair-that-looks-a-tad-uncomfortable-at-first-glance/nebula-chair-4.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/week-end-outdoor-furniture/aluminum_week_end_furniture_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/05/10-best-sustainable-seating-solutions/10_best_sustainable_seating_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/09/japanese-architecture/top_10_japanese_architectural_designs_yanko_design_hero.jpeg",
+        "https://www.yankodesign.com/images/design_news/2012/05/25/fan_table_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -457,19 +485,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-18T06:50:08+00:00"
-    },
-    {
-      "id": "eb67857370c50e1b",
-      "title": "Empty Laundry Room Wall Turned Into a Built-In Workstation",
-      "summary": "Laundry rooms often rely on a single wire shelf that leaves most of the wall empty while baskets, detergent, and folded clothes compete for the same surface. Without a dedicated countertop or organized storage, even spacious rooms can feel unfinished. Reddit user u/bradleygkv rebuilt the entire wall behind the washer and dryer instead of adding... The post Empty Laundry Room Wall Turned Into a Built-In Workstation appeared first on Homedit .",
-      "url": "https://www.homedit.com/empty-laundry-room-wall-turned-into-a-built-in-workstation/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Laundry-Room-Wall-Turned-Into-a-Built-In-Workstation.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Laundry-Room-Wall-Turned-Into-a-Built-In-Workstation.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-18T05:23:36+00:00"
     },
     {
       "id": "8f00ae0f0a33a866",
@@ -1387,6 +1402,19 @@
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
+      "id": "5a47e85b9e306c7c",
+      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
+      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-14T13:00:00+00:00"
+    },
+    {
       "id": "dab2c5c829cbbc23",
       "title": "Kymora by Insigners Studio",
       "summary": "Kymora transforms a conventional house in Bucharest, Romania, into a tactile interior defined by curves, saturated color, and dramatic contrasts. Designed by Insigners Studio for young clients drawn to playful maximalism, the residence brings expressive wallcoverings, sculptural furnishings, dark wood, raw stone, and velvet into a coherent sequence. Warm lighting sharpens the material shifts while […] The post Kymora by Insigners Studio first appeared on HomeAdore .",
@@ -1989,6 +2017,19 @@
       "published": "2026-07-07T08:00:27+00:00"
     },
     {
+      "id": "15d1b501d09c7863",
+      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
+      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-06T23:25:23+00:00"
+    },
+    {
       "id": "6c7643791ee96fc1",
       "title": "Planning without limits",
       "summary": "“BetteUltra Space” by Bette expands the possibilities for bathroom design in existing homes: The ultra-flat shower tray combines flexible installation solutions, a wide range of design options, and top-quality materials for customized designs.",
@@ -2069,7 +2110,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_MARA__AERA_04_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_MARA__OTTO__Christophe-Pillet__03_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_©MARA__ARGO-LIBRO__LIMITED-EDITION_LR_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Composizione-ponte-2_.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Nardi_Plano_MEN_1257.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2104,6 +2145,19 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-07-06T08:46:08+00:00"
+    },
+    {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
     },
     {
       "id": "0f52eecbb8e12b33",
@@ -2338,6 +2392,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
+    },
+    {
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2592,6 +2659,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-21T09:00:33+00:00"
+    },
+    {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
     },
     {
       "id": "e3722e01889eb440",
