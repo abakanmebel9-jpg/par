@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-19T15:08:55.324985+00:00",
-  "generated_at_human": "2026-07-19 15:08 UTC",
-  "total_items": 246,
+  "generated_at": "2026-07-19T17:11:02.928319+00:00",
+  "generated_at_human": "2026-07-19 17:11 UTC",
+  "total_items": 240,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -37,7 +36,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "Popular Woodworking",
@@ -53,13 +51,12 @@
     "Veranda",
     "Wallpaper",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
+  "sources_count": 50,
   "multi_photo_items": 62,
   "items": [
     {
@@ -88,8 +85,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=94679",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=95622",
+        "https://i.archi.ru/i/1262/310555.jpg?r=69612",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=15927",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -106,7 +103,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=98266",
+        "https://i.archi.ru/i/1262/378886.jpg?r=23460",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -126,6 +123,37 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "75972c73b8f4e096",
+      "title": "Forget Pottery Barn And West Elm: A Cheaper Place To Buy Furniture Is Expert-Approved",
+      "summary": "Our expert says she was super surprised by the pricing and variety of items at this furniture retailer, with the store becoming a go-to for her clients.",
+      "url": "https://www.hunker.com/2215788/cheaper-place-buy-furniture-tjx-stores-designer-approved/",
+      "image": "https://www.hunker.com/img/gallery/forget-pottery-barn-and-west-elm-a-cheaper-place-to-buy-furniture-is-expert-approved/l-intro-1784131750.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/forget-pottery-barn-and-west-elm-a-cheaper-place-to-buy-furniture-is-expert-approved/l-intro-1784131750.jpg",
+        "https://www.hunker.com/img/gallery/forget-pottery-barn-and-west-elm-a-cheaper-place-to-buy-furniture-is-expert-approved/intro-1784131750.jpg",
+        "https://www.hunker.com/img/gallery/forget-pottery-barn-and-west-elm-a-cheaper-place-to-buy-furniture-is-expert-approved/how-to-select-furniture-at-homegoods-1784131752.jpg",
+        "https://www.hunker.com/img/gallery/forget-pottery-barn-and-west-elm-a-cheaper-place-to-buy-furniture-is-expert-approved/saving-money-when-buying-furniture-for-your-home-1784131753.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-19T17:00:00+00:00"
+    },
+    {
+      "id": "29bc5280a9c788eb",
+      "title": "Not Baskets, Not Shelves: A Smart Dollar Tree DIY For Storing Blankets Or Towels",
+      "summary": "Bogged down by too many linens and not enough space? Head over to Dollar Tree and DIY yourself a genius way to store your blankets and towels.",
+      "url": "https://www.hunker.com/2207076/dollar-tree-diy-storing-blankets-towels-cooling-rack-hangers/",
+      "image": "https://www.hunker.com/img/gallery/dollar-tree-diy-storing-blankets-towels-cooling-rack-hangers/l-intro-1783343713.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/dollar-tree-diy-storing-blankets-towels-cooling-rack-hangers/l-intro-1783343713.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-diy-storing-blankets-towels-cooling-rack-hangers/intro-1783343713.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-diy-storing-blankets-towels-cooling-rack-hangers/make-a-creative-solution-for-hanging-blankets-and-towels-1783343714.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-19T16:00:00+00:00"
     },
     {
       "id": "67f9f74c005cd005",
@@ -161,21 +189,6 @@
       "published": "2026-07-19T13:52:35+00:00"
     },
     {
-      "id": "bc3268e1c1f799c8",
-      "title": "Declutter Your Countertops With An Unexpected Dollar Tree Find",
-      "summary": "The next time you browse Dollar Tree, grab this clever little find. It's affordable, practical, and makes your bathroom essentials look more put together.",
-      "url": "https://www.hunker.com/2214429/declutter-countertops-dollar-tree-find-plastic-flower-holder/",
-      "image": "https://www.hunker.com/img/gallery/declutter-your-countertops-with-an-unexpected-dollar-tree-find/l-intro-1784017368.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/declutter-your-countertops-with-an-unexpected-dollar-tree-find/l-intro-1784017368.jpg",
-        "https://www.hunker.com/img/gallery/declutter-your-countertops-with-an-unexpected-dollar-tree-find/intro-1784017368.jpg",
-        "https://www.hunker.com/img/gallery/declutter-your-countertops-with-an-unexpected-dollar-tree-find/organize-your-slender-items-in-a-flower-holder-1784017370.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-19T12:00:00+00:00"
-    },
-    {
       "id": "5120d31e258f6a0d",
       "title": "Paint and a Stencil Turned Their Outdoor Patio into the Perfect Hangout Spot",
       "summary": "DIY patio redo featuring a painted concrete floor, made-over secondhand furniture, and a repainted chiminea. READ MORE...",
@@ -186,6 +199,19 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-19T12:00:00+00:00"
+    },
+    {
+      "id": "bc3268e1c1f799c8",
+      "title": "Declutter Your Countertops With An Unexpected Dollar Tree Find",
+      "summary": "The next time you browse Dollar Tree, grab this clever little find. It's affordable, practical, and makes your bathroom essentials look more put together.",
+      "url": "https://www.hunker.com/2214429/declutter-countertops-dollar-tree-find-plastic-flower-holder/",
+      "image": "https://www.hunker.com/img/gallery/declutter-your-countertops-with-an-unexpected-dollar-tree-find/l-intro-1784017368.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/declutter-your-countertops-with-an-unexpected-dollar-tree-find/l-intro-1784017368.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
       "published": "2026-07-19T12:00:00+00:00"
     },
     {
@@ -273,9 +299,7 @@
       "url": "https://www.hunker.com/2216452/valuable-vintage-drexel-roll-top-cabinet-organizing-clutter/",
       "image": "https://www.hunker.com/img/gallery/every-grandma-had-this-cabinet-now-its-a-vintage-gem-perfect-for-organizing-clutter/l-intro-1784205614.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/every-grandma-had-this-cabinet-now-its-a-vintage-gem-perfect-for-organizing-clutter/l-intro-1784205614.jpg",
-        "https://www.hunker.com/img/gallery/every-grandma-had-this-cabinet-now-its-a-vintage-gem-perfect-for-organizing-clutter/intro-1784205614.jpg",
-        "https://www.hunker.com/img/gallery/every-grandma-had-this-cabinet-now-its-a-vintage-gem-perfect-for-organizing-clutter/how-to-find-and-use-a-drexel-roll-top-cabinet-for-organizing-1784205616.jpg"
+        "https://www.hunker.com/img/gallery/every-grandma-had-this-cabinet-now-its-a-vintage-gem-perfect-for-organizing-clutter/l-intro-1784205614.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -321,32 +345,6 @@
       "published": "2026-07-18T21:00:00+00:00"
     },
     {
-      "id": "349d64df7666590e",
-      "title": "Move Over Hooks: A Cuter Way To Hang Bathroom Towels With Thrifted Keys",
-      "summary": "This clever DIY pairs a fresh idea with old-school charm, turning thrifted keys into a towel display that's equal parts practical and personality-filled.",
-      "url": "https://www.hunker.com/2205715/hang-bathroom-towels-thrifted-bent-keys-diy/",
-      "image": "https://www.hunker.com/img/gallery/hang-bathroom-towels-thrifted-bent-keys-diy/l-intro-1782911532.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/hang-bathroom-towels-thrifted-bent-keys-diy/l-intro-1782911532.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-18T20:00:00+00:00"
-    },
-    {
-      "id": "7ac2593782fe63d0",
-      "title": "Neither Wood Nor Carpet: There's A Cheaper, Eco-Friendly Flooring Alternative",
-      "summary": "There's an eco-friendly flooring alternative to wood and carpet you may not have considered. It's less expensive than hardwood, slip-resistant, and durable.",
-      "url": "https://www.hunker.com/2217500/wood-carpet-floor-alternative-recycled-rubber-eco-friendly-cheaper/",
-      "image": "https://www.hunker.com/img/gallery/wood-carpet-floor-alternative-recycled-rubber-eco-friendly-cheaper/l-intro-1784339008.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/wood-carpet-floor-alternative-recycled-rubber-eco-friendly-cheaper/l-intro-1784339008.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-18T19:00:00+00:00"
-    },
-    {
       "id": "e7fd580da7cda7a6",
       "title": "The Kitchen Features Most People Never Think to Add Until They See Them",
       "summary": "Most kitchen plans begin with cabinet colors, countertop samples, and appliance packages. The details that shape how a kitchen works each day often come later, if they make it into the design at all. That’s why many kitchens still rely on crowded countertops, unused wall space, and storage that never quite fits the way people... The post The Kitchen Features Most People Never Think to Add Until They See Them appeared first on Homedit .",
@@ -369,9 +367,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/02_opa_cardboardsleepingcapsule_emergencyshelter.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/08/02/kugl_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/01/auto-draft/co_life_04.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/04/auto-draft/genki_force_field_2_switch_2_case_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/09/19/baking_pot.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/12/the-gentlemans-e-unicycle/escis_electric_unicycle_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -413,9 +411,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/10-best-sustainable-seating-solutions/10_best_sustainable_seating_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/09/japanese-architecture/top_10_japanese_architectural_designs_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2012/05/25/fan_table_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/01/19/botanistbench_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/08/22/chair.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/11/this-chair-concept-for-fast-casual-restaurants-comes-with-a-coat-hanger-and-bag-tray/rack-chair-concept-10.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -443,7 +441,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/couch-essentials-for-the-world-cup-final/8_best_couch_essentials_yanko_design_hero.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-18T11:40:43+00:00"
     },
@@ -537,19 +535,6 @@
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
       "published": "2026-07-17T16:44:56+00:00"
-    },
-    {
-      "id": "df9fbd84108a8a1f",
-      "title": "This Bold Light Fixture Proves the Unexpected Red Theory Is Still Going Strong",
-      "summary": "One unexpected design choice completely changes the feel of this neutral bedroom — and it's proof that a pop of red still has major decorating power. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/unexpected-red-theory-in-practice-37564291?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/madeline-s/tours-newyork-madeline-s-13",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/madeline-s/tours-newyork-madeline-s-13"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-17T16:00:00+00:00"
     },
     {
       "id": "bb002378b896f27c",
@@ -691,9 +676,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ikea-finally-made-furniture-you-can-carry-out-when-you-move-apartments/ikea-kompishang-portable-furniture-collection-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/02/359822/06_ceramicbodies_jörghugo_vases.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/08/fibonacci_sideboard_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/05/19/riddle01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/04/minimal-furniture-designs/top_10_minimal_furniture_designs_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/desk_with_built-in_power_and_posture_tracking_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/12/20/totem_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -708,10 +693,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1402,19 +1387,6 @@
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
-      "id": "5a47e85b9e306c7c",
-      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
-      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-14T13:00:00+00:00"
-    },
-    {
       "id": "dab2c5c829cbbc23",
       "title": "Kymora by Insigners Studio",
       "summary": "Kymora transforms a conventional house in Bucharest, Romania, into a tactile interior defined by curves, saturated color, and dramatic contrasts. Designed by Insigners Studio for young clients drawn to playful maximalism, the residence brings expressive wallcoverings, sculptural furnishings, dark wood, raw stone, and velvet into a coherent sequence. Warm lighting sharpens the material shifts while […] The post Kymora by Insigners Studio first appeared on HomeAdore .",
@@ -2017,19 +1989,6 @@
       "published": "2026-07-07T08:00:27+00:00"
     },
     {
-      "id": "15d1b501d09c7863",
-      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
-      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-06T23:25:23+00:00"
-    },
-    {
       "id": "6c7643791ee96fc1",
       "title": "Planning without limits",
       "summary": "“BetteUltra Space” by Bette expands the possibilities for bathroom design in existing homes: The ultra-flat shower tray combines flexible installation solutions, a wide range of design options, and top-quality materials for customized designs.",
@@ -2145,19 +2104,6 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-07-06T08:46:08+00:00"
-    },
-    {
-      "id": "38e81c3be4f832bf",
-      "title": "Coming in 2027: A New Woodworking School in Covington",
-      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
-      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-05T19:03:02+00:00"
     },
     {
       "id": "0f52eecbb8e12b33",
@@ -2392,19 +2338,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
-    },
-    {
-      "id": "47625c0d63057fce",
-      "title": "Free Plans for Our Clamshell Bookcase",
-      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
-      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2659,19 +2592,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-21T09:00:33+00:00"
-    },
-    {
-      "id": "d97ff0d906f09464",
-      "title": "LAP Open Wire, June 20, 2026",
-      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
-      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-20T12:00:00+00:00"
     },
     {
       "id": "e3722e01889eb440",
@@ -3189,11 +3109,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/07/DIY-Dresser-Free-plans.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/09/Shanty2Chic-Coffee-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
