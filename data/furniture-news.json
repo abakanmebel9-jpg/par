@@ -1,15 +1,16 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-20T20:38:39.624473+00:00",
-  "generated_at_human": "2026-07-20 20:38 UTC",
-  "total_items": 246,
+  "generated_at": "2026-07-20T22:09:49.740410+00:00",
+  "generated_at_human": "2026-07-20 22:09 UTC",
+  "total_items": 247,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
+    "Bob Vila",
     "Core77",
     "DM tag cabinets",
     "DM tag furniture",
@@ -59,7 +60,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
+  "sources_count": 54,
   "multi_photo_items": 62,
   "items": [
     {
@@ -88,8 +89,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=43082",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=88708",
+        "https://i.archi.ru/i/1262/310555.jpg?r=49481",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=70535",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -106,7 +107,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=97281",
+        "https://i.archi.ru/i/1262/378886.jpg?r=89646",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -126,6 +127,52 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "be792df478b6a1f3",
+      "title": "An interior stylist’s guide to Sydney’s hidden home shopping gems",
+      "summary": "Award-winning interior stylist Lucy Gough, shares where to shop for your home in Sydney depending on what you’re looking for, how to make a day of it, tips for shopping like a stylist and much more. As an interior stylist,… The post An interior stylist’s guide to Sydney’s hidden home shopping gems appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/an-interior-stylists-guide-to-sydneys-hidden-home-shopping-gems",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/06.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/I4A1221.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/I4A1376.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/I4A1442.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/I4A1193.jpg"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-20T21:00:00+00:00"
+    },
+    {
+      "id": "77d9238b5f97974b",
+      "title": "Why a Home Inspection Isn’t a Bad Idea—Even If You Aren’t Selling",
+      "summary": "Find hidden problems and identify potential issues with a home inspection, so you can plan, budget, and complete necessary repairs and upgrades before they get really expensive. The post Why a Home Inspection Isn’t a Bad Idea—Even If You Aren’t Selling appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/diy/benefits-of-a-home-inspection/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/07/AdobeStock_293713565-home-inspector-writing-report.jpeg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/07/AdobeStock_293713565-home-inspector-writing-report.jpeg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-07-20T20:54:35+00:00"
+    },
+    {
+      "id": "91f5c358c5596e93",
+      "title": "Upgrade Your Bathroom Storage With A Clever & Affordable Dollar Tree DIY",
+      "summary": "By combining Dollar Tree decor items with dinnerware, you can create a unique, aesthetically pleasing bathroom storage solution on a budget.",
+      "url": "https://www.hunker.com/2217225/bathroom-storage-affordable-dollar-tree-diy-tiered-tray/",
+      "image": "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/l-intro-1784225599.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/l-intro-1784225599.jpg",
+        "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/intro-1784225599.jpg",
+        "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/stacking-dollar-tree-trays-for-a-chic-bathroom-organizer-1784225601.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-20T20:00:00+00:00"
     },
     {
       "id": "adb300d6f6b190f3",
@@ -208,9 +255,7 @@
       "url": "https://www.hunker.com/2216429/things-can-only-buy-in-japan-imbari-towels-luxury/",
       "image": "https://www.hunker.com/img/gallery/the-authentic-luxury-bathroom-essential-you-can-only-buy-from-japan/l-intro-1784202043.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/the-authentic-luxury-bathroom-essential-you-can-only-buy-from-japan/l-intro-1784202043.jpg",
-        "https://www.hunker.com/img/gallery/the-authentic-luxury-bathroom-essential-you-can-only-buy-from-japan/intro-1784202043.jpg",
-        "https://www.hunker.com/img/gallery/the-authentic-luxury-bathroom-essential-you-can-only-buy-from-japan/what-makes-luxury-imabari-towels-so-special-1784202045.jpg"
+        "https://www.hunker.com/img/gallery/the-authentic-luxury-bathroom-essential-you-can-only-buy-from-japan/l-intro-1784202043.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -416,7 +461,7 @@
     {
       "id": "aef125a359ff289a",
       "title": "Playful patterns, chocolate brown & quiet luxury: Kmart newness",
-      "summary": "Kmart’s new, and always highly anticipated, living collection has officially landed in stores, bringing the internet’s most viral trends straight into Aussie homes. Starting from prices as low as $1.75, the collection combines functionality with statement design details, bold silhouettes… The post Playful patterns, chocolate brown & quiet luxury: Kmart newness appeared first on The Interiors Addict .",
+      "summary": "Kmart’s new, and always highly anticipated, living collection has officially landed in stores, bringing the internet’s most viral trends straight… The post Playful patterns, chocolate brown & quiet luxury: Kmart newness appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/playful-patterns-chocolate-brown-quiet-luxury-kmart-newness",
       "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-19-at-8.42.40-pm.png",
       "images": [
@@ -440,7 +485,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/casa-magma_casacor_dezeen_sq2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T17:00:13+00:00"
     },
@@ -456,19 +501,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-19T13:52:35+00:00"
-    },
-    {
-      "id": "5120d31e258f6a0d",
-      "title": "Paint and a Stencil Turned Their Outdoor Patio into the Perfect Hangout Spot",
-      "summary": "DIY patio redo featuring a painted concrete floor, made-over secondhand furniture, and a repainted chiminea. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/blue-and-white-painted-patio-redo-ba-37562205?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-05/madison_bess_patio_before_2_tagged",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-05/madison_bess_patio_before_2_tagged"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-19T12:00:00+00:00"
     },
     {
       "id": "528f4622666a12ec",
@@ -518,7 +550,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/cinderella-house-ysg-co-working-office-redfern-sydney-interiors_dezeen_2364_col_23_square.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T05:00:14+00:00"
     },
@@ -548,9 +580,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/11/how-collaborative-tools-are-revolutionizing-the-design-pipeline-an-interview-with-keyshot/keyshot_interview_garin_gardiner_5.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/vs_convertible_backpack_05.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/gaming-furniture-designs-to-transform-you-from-an-amateur-to-professional-gamer/00-Gaming_furniture__professional_yanko_design.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/06/belyse1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/10/modular-cycling-helmet-with-a-full-face-attachment-for-motorbikes-secures-silver-at-the-yd-x-keyshot-design-challenge/yd_keyshot_envoy_helmet_antonio_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/nothing-power-1-battery-bank-brings-back-the-glyph-interface/Nothing-Power-1-power-bank-3.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -579,9 +611,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/top-10-desk-designs-every-workaholic-needs-to-amp-up-their-productivity/Top-10_work-desks_folding_yankodesign_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/09/this-outrageously-cool-steampunk-coffee-table-is-so-wantable/Steampunk-Barnwood-Coffee-Table_Machine-Age-Lamps_Furniture_Yanko-Design_3.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/06/06/two_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/08/images-enhance-your-laptop-typing-experience-with-innovative-magnetic-attachments/Typesticks_keyboard_accessory_10.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/01/296068/overtunedchair.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/the-orfo/orfo_lounge_chair_yanko_design_03.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -609,7 +641,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/mistovia-hfr-istebna-sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-18T09:00:50+00:00"
     },
@@ -1377,12 +1409,7 @@
       "url": "https://theinteriorsaddict.com/retrofitted-homes-cooler-for-residents-in-harsh-desert-climate",
       "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Overview-of-kinspan-on-house.jpg",
       "images": [
-        "https://files.theinteriorsaddict.com/uploads/2026/07/Overview-of-kinspan-on-house.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2025/04/Kip-and-Co-Ernabella-2-Adult-Bedding-4.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/Staff-applying-caulk-to-angle-for-ceiling.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/Staff-intalling-KS-on-ceiling-and-cladding.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2025/03/73121671-1.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2022/05/Jen-Bishop-headshot.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Overview-of-kinspan-on-house.jpg"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -2355,19 +2382,6 @@
       "published": "2026-07-01T01:00:00+00:00"
     },
     {
-      "id": "37e1572f35ccb99a",
-      "title": "Raes’ latest venue is a place to gather, dine and stay in Byron",
-      "summary": "Raes have opened the doors to their new The Bonobo hotel on Jonson Street, Byron Bay. The Bonobo by Raes… The post Raes’ latest venue is a place to gather, dine and stay in Byron appeared first on The Interiors Addict .",
-      "url": "https://theinteriorsaddict.com/raes-latest-venue-is-a-place-to-gather-dine-and-stay-in-byron",
-      "image": "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Courtyard-4.jpg",
-      "images": [
-        "https://files.theinteriorsaddict.com/uploads/2026/06/The-Bonobo-Courtyard-4.jpg"
-      ],
-      "source": "Interiors Addict AU",
-      "source_url": "https://theinteriorsaddict.com",
-      "published": "2026-06-30T21:00:00+00:00"
-    },
-    {
       "id": "f5294ce6867b97cd",
       "title": "Bad Driving Habits Put You at Risk— So We Asked Experts How to Counter Them",
       "summary": "Here’s how to avoid speeding and other driving distractions that put you at risk The post Bad Driving Habits Put You at Risk— So We Asked Experts How to Counter Them appeared first on Family Handyman .",
@@ -2903,7 +2917,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3190,7 +3204,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3221,7 +3235,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3400,7 +3414,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
