@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-21T07:40:44.830517+00:00",
-  "generated_at_human": "2026-07-21 07:40 UTC",
-  "total_items": 234,
+  "generated_at": "2026-07-21T10:32:17.774444+00:00",
+  "generated_at_human": "2026-07-21 10:32 UTC",
+  "total_items": 240,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -37,6 +38,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "Popular Woodworking",
@@ -58,8 +60,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
-  "multi_photo_items": 62,
+  "sources_count": 54,
+  "multi_photo_items": 63,
   "items": [
     {
       "id": "50ced7a4258ad654",
@@ -87,8 +89,8 @@
       "image": "https://i.archi.ru/i/1262/485960.jpg",
       "images": [
         "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=42750",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=36970",
+        "https://i.archi.ru/i/1262/310555.jpg?r=92325",
+        "https://i.archi.ru/news/quadratic/311201.jpg?r=42711",
         "https://i.archi.ru/news/main_images/280x280/435218.jpg",
         "https://i.archi.ru/news/main_images/280x280/314536.jpg",
         "https://i.archi.ru/i/1262/485977.jpg"
@@ -105,7 +107,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=10262",
+        "https://i.archi.ru/i/1262/378886.jpg?r=54450",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -125,6 +127,101 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "f096a7f1b503791a",
+      "title": "How To Get Rid Of Gnats And Fruit Flies Using Old Pickle Jars And A Screwdriver",
+      "summary": "Gnats and fruit flies can multiply quickly in the kitchen, but one simple DIY uses common household items to help bring their numbers under control.",
+      "url": "https://www.hunker.com/2219172/get-rid-of-fruit-flies-gnats-old-pickle-jars-diy-trap/",
+      "image": "https://www.hunker.com/img/gallery/how-to-get-rid-of-gnats-and-fruit-flies-using-old-pickle-jars-and-a-screwdriver/l-intro-1784577084.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/how-to-get-rid-of-gnats-and-fruit-flies-using-old-pickle-jars-and-a-screwdriver/l-intro-1784577084.jpg",
+        "https://www.hunker.com/img/gallery/how-to-get-rid-of-gnats-and-fruit-flies-using-old-pickle-jars-and-a-screwdriver/intro-1784577084.jpg",
+        "https://www.hunker.com/img/gallery/how-to-get-rid-of-gnats-and-fruit-flies-using-old-pickle-jars-and-a-screwdriver/steps-for-making-a-fruit-fly-and-gnat-trap-with-a-pickle-jar-1784577085.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-21T10:00:00+00:00"
+    },
+    {
+      "id": "53070af6af17b31b",
+      "title": "Australie : une ancienne fabrique de pâtes transformée en pied-à-terre au charme brut",
+      "summary": "À Hepburn Springs, près de Melbourne, une ancienne fabrique de pâtes classée au patrimoine devient le terrain d’expression de l'architecte d'intérieur Max Copolov. Entre plafonds patinés et interventions contemporaines, Pietro’s Residence propose une manière sensible d’habiter un lieu chargé d’histoire.",
+      "url": "https://www.milkdecoration.com/australie-une-ancienne-fabrique-de-pates-transformee-en-pied-a-terre-au-charme-brut/",
+      "image": "https://www.milkdecoration.com/wp-content/uploads/2026/01/pietros-annex-christine-francis-10.jpg",
+      "images": [
+        "https://www.milkdecoration.com/wp-content/uploads/2026/01/pietros-annex-christine-francis-10.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/01/pietros-annex-christine-francis-05.jpg"
+      ],
+      "source": "MilK Decoration",
+      "source_url": "https://www.milkdecoration.com",
+      "published": "2026-07-21T10:00:00+00:00"
+    },
+    {
+      "id": "87f130d271fdecc6",
+      "title": "This Kitchen Stopped Hiding the Best Parts of the House",
+      "summary": "Many kitchen remodels begin with replacing cabinets and countertops. This one began by removing a wall. After a leaking dishwasher led to a full first-floor renovation, Reddit user u/Exidor opened the kitchen to the dining room, transforming a series of divided spaces into one continuous living area while preserving the home’s original cedar ceiling and... The post This Kitchen Stopped Hiding the Best Parts of the House appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-kitchen-stopped-hiding-the-best-parts-of-the-house/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Cedar-Kitchen-Stopped-Hiding-the-House-Around-It.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Cedar-Kitchen-Stopped-Hiding-the-House-Around-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Island-Started-Organizing-the-Entire-Kitchen.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Every-Cabinet-Received-a-Plan-Before-Demolition.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Original-Kitchen-Broke-Up-the-Open-Floor-Plan.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Window-sink-and-the-farmhouse-decor.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-before-and-after-kitchen-reno.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-21T09:30:11+00:00"
+    },
+    {
+      "id": "09905a90e0d68219",
+      "title": "Bathroom Vanities Started Breaking Away From the Wall",
+      "summary": "Bathroom vanities spent decades following the same formula: one cabinet, one countertop, one wall. New bathroom collections show that layout beginning to change. Storage, countertops, mirrors, and sinks now spread across the room instead of staying inside a single cabinet. The result creates bathrooms that feel larger, hold more storage, and serve more than one... The post Bathroom Vanities Started Breaking Away From the Wall appeared first on Homedit .",
+      "url": "https://www.homedit.com/bathroom-vanities-started-breaking-away-from-the-wall/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Vanities-Started-Breaking-Away-From-the-Wall.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Vanities-Started-Breaking-Away-From-the-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Floating-Storage-Replaced-the-Full-Base-Cabinet.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Garden-Plant-That-May-Help-Keep-Mosquitoes-Away.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Cedar-Kitchen-Stopped-Hiding-the-House-Around-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Dug-a-Giant-Hole-in-the-Backyard-and-Ended-Up-With-a-Sunken-Fire-Pit-That-Looks-Professionally-Built.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Power-Tool-Started-Replacing-Hours-of-Shower-Scrubbing.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-21T08:22:45+00:00"
+    },
+    {
+      "id": "ef305fbba91dcb87",
+      "title": "Holloway Li channels 1960s glamour at Locke London Canary Wharf",
+      "summary": "Locke London Canary Wharf has opened its doors with Mid-Century interiors by Holloway Li. Drawing from the studio’s characteristic design […] The post Holloway Li channels 1960s glamour at Locke London Canary Wharf appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2025/09/house-of-gods-london-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/02/Locke-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/06/Novotelcw-1-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-3.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-21T08:00:50+00:00"
+    },
+    {
+      "id": "d864e0764a6225da",
+      "title": "Remodelista Reconnaissance: A Woven Pendant Light in a Paris Pied à Terre",
+      "summary": "Today we’re diving into the details behind the statement-making hanging light spotted in a reader favorite: Architectural Feats in a Paris Duplex. Where to source the minimal color-blocked design? Read on. The Sighting The Source The fixture is also reminiscent of another light style we love: the string lamp. (See String Theory: Four Young Designers […]",
+      "url": "https://www.remodelista.com/posts/woven-pendant-light-paris-remodelista-reconnaissance/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2022/05/heju-architecture-paris-kitchen-cover.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2022/05/heju-architecture-paris-kitchen-cover.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-07-21T08:00:09+00:00"
     },
     {
       "id": "76110dc849278b51",
@@ -158,6 +255,21 @@
       "published": "2026-07-21T06:48:01+00:00"
     },
     {
+      "id": "d666710ecf02e853",
+      "title": "Goodbye, Kitchen Chaos: IKEA Has A New Solution For Instant Countertop Storage",
+      "summary": "In addition to having the capacity to store a wide range of kitchen items - from spices to knickknacks - this IKEA storage solution is vibrant and chic.",
+      "url": "https://www.hunker.com/2215442/ikea-has-a-new-solution-instant-countertop-storage-spjutllilja-jar/",
+      "image": "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/l-intro-1784110558.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/l-intro-1784110558.jpg",
+        "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/intro-1784110558.jpg",
+        "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/ikeas-spjutlilja-jars-offer-low-priced-storage-with-style-1784110560.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-21T03:00:00+00:00"
+    },
+    {
       "id": "1565cf9e9c990049",
       "title": "“It had seen better days”: Inside a working NSW dairy farmhouse’s remarkable revival",
       "summary": "With timeless interiors against a magical backdrop, this sensitively transformed farmhouse remains true to its roots. The post “It had seen better days”: Inside a working NSW dairy farmhouse’s remarkable revival appeared first on Homes To Love .",
@@ -184,10 +296,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/wall-organizer-concept-used-mdf-boards-to-hold-your-stuff/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/03/18/sep.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/11/17/essence_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/05/20/under_the_sea.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/11/conique/conique_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/06/23/zambelli_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/04/mcdonalds-korea-just-launched-a-limited-edition-big-mac-inspired-stackable-lunchbox/mcdonalds_korea_tiffinbox_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -246,9 +358,7 @@
       "url": "https://www.hunker.com/2217225/bathroom-storage-affordable-dollar-tree-diy-tiered-tray/",
       "image": "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/l-intro-1784225599.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/l-intro-1784225599.jpg",
-        "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/intro-1784225599.jpg",
-        "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/stacking-dollar-tree-trays-for-a-chic-bathroom-organizer-1784225601.jpg"
+        "https://www.hunker.com/img/gallery/upgrade-your-bathroom-storage-with-a-clever-affordable-dollar-tree-diy/l-intro-1784225599.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -292,9 +402,7 @@
       "url": "https://www.hunker.com/2218321/cheaper-quartz-countertop-attractive-alternative-corian/",
       "image": "https://www.hunker.com/img/gallery/step-aside-quartz-countertops-this-attractive-alternative-is-cheaper-more-versatile/l-intro-1784467349.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/step-aside-quartz-countertops-this-attractive-alternative-is-cheaper-more-versatile/l-intro-1784467349.jpg",
-        "https://www.hunker.com/img/gallery/step-aside-quartz-countertops-this-attractive-alternative-is-cheaper-more-versatile/intro-1784467349.jpg",
-        "https://www.hunker.com/img/gallery/step-aside-quartz-countertops-this-attractive-alternative-is-cheaper-more-versatile/the-downsides-of-corian-countertops-1784467351.jpg"
+        "https://www.hunker.com/img/gallery/step-aside-quartz-countertops-this-attractive-alternative-is-cheaper-more-versatile/l-intro-1784467349.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -366,19 +474,6 @@
       "published": "2026-07-20T14:00:59+00:00"
     },
     {
-      "id": "282323c2b7c5e860",
-      "title": "She Styles Her Living Room With An Unexpected '50s Gem You Could Find At The Thrift Store",
-      "summary": "This content creator added a 1950s dinner staple to her living room. It definitely adds a unique vibe to her space that any thrift shopper would appreciate.",
-      "url": "https://www.hunker.com/2210073/50s-jukebox-thrift-store-living-room-decor/",
-      "image": "https://www.hunker.com/img/gallery/50s-jukebox-thrift-store-living-room-decor/l-intro-1784566711.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/50s-jukebox-thrift-store-living-room-decor/l-intro-1784566711.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-20T14:00:00+00:00"
-    },
-    {
       "id": "9f7b0e9a9bb1bdaf",
       "title": "Four small details that create a comfortable guest bedroom",
       "summary": "A guest bedroom should feel like a welcoming retreat, a place where visitors can relax, recharge, and feel at home. While decorative touches are nice, the most appreciated items are often the practical ones that make a stay more comfortable. Creating a space where visitors feel at home is essential, as you are providing a relaxing […] The post Four small details that create a comfortable guest bedroom appeared first on SA Garden and Home .",
@@ -405,31 +500,13 @@
       "published": "2026-07-20T12:00:00+00:00"
     },
     {
-      "id": "63ed21ae8d765459",
-      "title": "Woman Turns Old Wall Decor Into Countertop Storage With A Clever DIY Solution",
-      "summary": "Counters can never have enough storage, and you can create another patch of surface area by repurposing wall decorations into this DIY platform.",
-      "url": "https://www.hunker.com/2214326/countertop-storage-diy-solution-turn-wall-decor-into-shelf/",
-      "image": "https://www.hunker.com/img/gallery/countertop-storage-diy-solution-turn-wall-decor-into-shelf/l-intro-1784225022.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/countertop-storage-diy-solution-turn-wall-decor-into-shelf/l-intro-1784225022.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-20T12:00:00+00:00"
-    },
-    {
       "id": "5bea5f7b99daf0dd",
       "title": "Homeowners Spend Thousands Remodeling Bathrooms But Still Miss These Features",
       "summary": "Bathroom remodels often revolve around tile samples, vanity finishes, and plumbing fixtures. Once those decisions are made, many projects follow the same familiar formula. Yet the bathrooms that stand out usually owe their success to smaller design choices that improve how the room looks and works every day. These bathrooms take a different approach. Some... The post Homeowners Spend Thousands Remodeling Bathrooms But Still Miss These Features appeared first on Homedit .",
       "url": "https://www.homedit.com/people-spend-thousands-remodeling-bathrooms-but-still-miss-these-features/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/People-Spend-Thousands-Remodeling-Bathrooms-But-Still-Miss-These-Features.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/People-Spend-Thousands-Remodeling-Bathrooms-But-Still-Miss-These-Features.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/People-Wanted-Invisible-Cooktops-Until-Designers-Made-the-Cooking-Zone-the-Centerpiece.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Furniture-Vanities-Make-the-Bathroom-Feel-Less-Like-a-Utility-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Wallpaper-Extends-the-Design-Beyond-Tile.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Console-Sinks-Keep-Small-Bathrooms-Feeling-Open.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Vessel-Sinks-Become-the-Focal-Point-Instead-of-the-Countertop.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/People-Spend-Thousands-Remodeling-Bathrooms-But-Still-Miss-These-Features.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -442,12 +519,7 @@
       "url": "https://www.homedit.com/these-original-kitchen-cabinets-took-on-a-custom-shaker-look-without-being-replaced/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/These-Original-Kitchen-Cabinets-Took-On-a-Custom-Shaker-Look-Without-Being-Replaced.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/These-Original-Kitchen-Cabinets-Took-On-a-Custom-Shaker-Look-Without-Being-Replaced.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/People-Wanted-Invisible-Cooktops-Until-Designers-Made-the-Cooking-Zone-the-Centerpiece.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Two-Cabinet-Colors-Changed-the-Balance-of-the-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Flat-Cabinet-Doors-Became-Shaker-Doors.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Hidden-Hinges-Changed-the-Entire-Cabinet-Face.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Original-Cabinets-Filled-the-Kitchen-From-Floor-to-Ceiling.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/These-Original-Kitchen-Cabinets-Took-On-a-Custom-Shaker-Look-Without-Being-Replaced.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -519,7 +591,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/casa-magma_casacor_dezeen_sq2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T17:00:13+00:00"
     },
@@ -537,32 +609,6 @@
       "published": "2026-07-19T13:52:35+00:00"
     },
     {
-      "id": "528f4622666a12ec",
-      "title": "Forget Plant Stands: Cinder Blocks Created a Better Backyard Display",
-      "summary": "Plant stands often limit how many containers fit into a small patio or backyard corner. Once the shelves fill up, the only option is buying another stand or spreading pots across the ground. Reddit user u/Accomplished_Pen616 found a different solution by stacking ordinary cinder blocks into a modular plant wall. Each opening became its own... The post Forget Plant Stands: Cinder Blocks Created a Better Backyard Display appeared first on Homedit .",
-      "url": "https://www.homedit.com/forget-plant-stands-cinder-blocks-created-a-better-backyard-display/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Forget-Plant-Stands-Cinder-Blocks-Created-a-Better-Backyard-Display.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Forget-Plant-Stands-Cinder-Blocks-Created-a-Better-Backyard-Display.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-19T11:40:07+00:00"
-    },
-    {
-      "id": "2010b204c0c5c533",
-      "title": "Bathroom Demolition Exposed Something No One Expected Behind the Tile",
-      "summary": "Older bathrooms often hide surprises behind tile, but most homeowners expect drywall or cement board once demolition begins. This remodel uncovered something very different. Shared on Reddit by u/Snoo_53440, the bathroom looked ready for a cosmetic update until demolition exposed plywood behind every tiled wall, including the shower. The house dates to 1958, yet the... The post Bathroom Demolition Exposed Something No One Expected Behind the Tile appeared first on Homedit .",
-      "url": "https://www.homedit.com/bathroom-demolition-exposed-something-no-one-expected-behind-the-tile/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Demolition-Exposed-Something-No-One-Expected-Behind-the-Tile.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Demolition-Exposed-Something-No-One-Expected-Behind-the-Tile.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-19T09:21:17+00:00"
-    },
-    {
       "id": "254fe4c53f7de060",
       "title": "YSG evokes Mojave desert for warehouse conversion in Sydney",
       "summary": "Australian interiors studio YSG has converted a historic warehouse in Sydney into a modern co-working space. Located in the inner-city suburb of Redfern, the 387-square-metre corner property was built in the early 1900s and until recently, housed an art gallery with adjoining residential quarters. Its owner, who hails from Cape Town, named the project Cinderella The post YSG evokes Mojave desert for warehouse conversion in Sydney appeared first on Dezeen .",
@@ -571,7 +617,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/cinderella-house-ysg-co-working-office-redfern-sydney-interiors_dezeen_2364_col_23_square.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T05:00:14+00:00"
     },
@@ -599,10 +645,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/09/chairless_chair_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/08/top-20-creative-and-inspiring-ceiling-concepts/Ceiling-Designs_Top-10_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/05/06/made_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/03/19/xia_hang_watch.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/06/auto-draft/NASA-wearable-tech.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/06/11/tools_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/11/03/mars_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -630,10 +676,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/draft-sonicglass/MorningBlues_SonicGlass_A1_Lyric_Speaker_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/02/17/invasion01.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/01/12/cabinetdesk_003.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/tower-your-kids-learning-and-imagination-with-this-multipurpose-modular-bookshelf/Rotating_bookshelf_kids_01-hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/11/morpheus-nightstand-hides-a-kinetic-secret-in-sculpted-wood-and-brass/sacrebleu-morpheus-nightstand-13.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/furniture-hidden-details/furniture_hidden_details_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/08/22/chair.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/12/flow-wall-desk-transforms-from-a-work-of-art-into-a-functional-table/1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -661,7 +707,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/mistovia-hfr-istebna-sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-18T09:00:50+00:00"
     },
@@ -692,8 +738,8 @@
         "https://sunset.com/wp-content/uploads/2026/04/bar-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
         "https://sunset.com/wp-content/uploads/2026/04/pantry-doors-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
         "https://sunset.com/wp-content/uploads/2026/04/dining-table-carlsbad-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
-        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/exterior-angle-pool-house-adu-anne-holbrook-interior-design-pc-zee-wendell.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/tropical-cocktails-in-hawaii-hotel-hanalei-bay-beach-sun-4748-0825.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -710,8 +756,8 @@
         "https://sunset.com/wp-content/uploads/2026/06/before-after-sf-kitchen-makeover-gina-rachelle-design-pc-lauren-andersen-sen-creative.jpg",
         "https://sunset.com/wp-content/uploads/2026/06/dining-before-after-sf-kitchen-makeover-gina-rachelle-design-pc-lauren-andersen-sen-creative.jpg",
         "https://sunset.com/wp-content/uploads/2026/06/dining-banquette-sf-kitchen-makeover-gina-rachelle-design-pc-lauren-andersen-sen-creative.jpg",
-        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/exterior-angle-pool-house-adu-anne-holbrook-interior-design-pc-zee-wendell.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/tropical-cocktails-in-hawaii-hotel-hanalei-bay-beach-sun-4748-0825.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -725,7 +771,6 @@
       "image": "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK.jpg",
       "images": [
         "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK.jpg",
-        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
         "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
         "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
       ],
@@ -856,10 +901,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -913,19 +958,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-16T22:30:07+00:00"
-    },
-    {
-      "id": "072ba8423aefd7ec",
-      "title": "Crematorium ash scattering terrain among projects from De Montfort University",
-      "summary": "Dezeen School Shows: a proposal for a terrain located on Leicester's River Soar dedicated to ash scattering is among the student projects from De Montfort University. Also featured are private and communal living spaces in Leicester's Wolsey Island and a brewery fuelled by hop waste. De Montfort University School: Leicester School of Architecture Course: BA The post Crematorium ash scattering terrain among projects from De Montfort University appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/16/crematorium-ash-scattering-terrain-among-projects-from-de-montfort-university/",
-      "image": "http://static.dezeen.com/uploads/2026/07/De-Montfort-University-Dezeen-School-Show_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/De-Montfort-University-Dezeen-School-Show_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-16T20:00:50+00:00"
     },
     {
       "id": "a92b8eb174912de4",
@@ -1142,7 +1174,7 @@
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_35.jpg?w=1200&h=900&crop=1",
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_33.jpg?crop=0px%2C0px%2C7289px%2C5464px&resize=1200%2C900",
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_34.jpg?crop=0px%2C2992px%2C5298px%2C3977px&resize=1200%2C900",
-        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/tropical-cocktails-in-hawaii-hotel-hanalei-bay-beach-sun-4748-0825.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -1253,19 +1285,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-15T08:00:39+00:00"
-    },
-    {
-      "id": "2c8c20b9607ca958",
-      "title": "What’s the difference between mould and mildew?",
-      "summary": "When it comes to cleaning tasks, especially in the bathroom, you need to know a few things to keep your space hygienic and as allergy-free as possible (with the exception, of course, of your pets). One of the most important bits of knowledge to keep in your back pocket is which cleaning materials and tools […] The post What’s the difference between mould and mildew? appeared first on SA Garden and Home .",
-      "url": "https://www.gardenandhome.co.za/decor/whats-difference-mould-mildew/",
-      "image": "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/michael-schaffler-_6Ae1LgFFFA-unsplash-1.jpg",
-      "images": [
-        "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/michael-schaffler-_6Ae1LgFFFA-unsplash-1.jpg"
-      ],
-      "source": "Garden & Home SA",
-      "source_url": "https://gardenandhome.co.za",
-      "published": "2026-07-15T06:12:03+00:00"
     },
     {
       "id": "aaef071ae7703a0e",
@@ -1493,6 +1512,19 @@
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
+      "published": "2026-07-14T13:00:00+00:00"
+    },
+    {
+      "id": "5a47e85b9e306c7c",
+      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
+      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
@@ -2015,6 +2047,19 @@
       "published": "2026-07-07T08:00:27+00:00"
     },
     {
+      "id": "15d1b501d09c7863",
+      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
+      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-06T23:25:23+00:00"
+    },
+    {
       "id": "6c7643791ee96fc1",
       "title": "Planning without limits",
       "summary": "“BetteUltra Space” by Bette expands the possibilities for bathroom design in existing homes: The ultra-flat shower tray combines flexible installation solutions, a wide range of design options, and top-quality materials for customized designs.",
@@ -2121,15 +2166,24 @@
       "url": "https://www.sleepermagazine.com/stories/projects/the-dean-munich-unveils-jugendstil-inspired-interiors-by-tatjana-von-stein/",
       "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Dean-Munich-3.jpg",
       "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Dean-Munich-3.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2023/10/Rosewood-Munich-Winter-Garden-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2023/09/Rosewood-Munich-Lounge-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/09/Munich-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Dean-Munich-4.jpg"
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Dean-Munich-3.jpg"
       ],
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-07-06T08:46:08+00:00"
+    },
+    {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
     },
     {
       "id": "0f52eecbb8e12b33",
@@ -2325,6 +2379,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
+    },
+    {
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2566,6 +2633,19 @@
       "source": "Dezeen tag bathrooms",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-21T09:00:33+00:00"
+    },
+    {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
     },
     {
       "id": "e3722e01889eb440",
@@ -3070,8 +3150,8 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/02/DIY-X-Base-Dining-Table-by-Shanty2Chic.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/11/DIY-Wall-Sign.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/01/how-to-build-a-square-coffee-table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/08/how-to-build-a-desk.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
