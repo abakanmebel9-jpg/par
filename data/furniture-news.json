@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-21T15:13:15.138583+00:00",
-  "generated_at_human": "2026-07-21 15:13 UTC",
-  "total_items": 240,
+  "generated_at": "2026-07-21T17:39:55.646640+00:00",
+  "generated_at_human": "2026-07-21 17:39 UTC",
+  "total_items": 238,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -37,7 +37,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "Popular Woodworking",
@@ -59,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
+  "sources_count": 52,
   "multi_photo_items": 63,
   "items": [
     {
@@ -106,7 +105,7 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=66792",
+        "https://i.archi.ru/i/1262/378886.jpg?r=89118",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
@@ -141,6 +140,58 @@
       "published": ""
     },
     {
+      "id": "f23fab42341c4e92",
+      "title": "Top Knobs Unveils the Bayridge, Califon and Lavington Suites",
+      "summary": "Top Knobs, a manufacturer of decorative kitchen and bath hardware, presents the Bayridge, Califon and Lavington Suites, from the Pemberton Collection. Balancing classic forms with contemporary details, the Bayridge, Califon... The post Top Knobs Unveils the Bayridge, Califon and Lavington Suites appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/top-knobs-unveils-the-bayridge-califon-and-lavington-suites-2",
+      "image": "https://www.woodshopnews.com/uploads/2026/07/topknobsnew500x280_WSN.jpg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/07/topknobsnew500x280_WSN.jpg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-07-21T15:53:21+00:00"
+    },
+    {
+      "id": "b6867b2a3c446d9f",
+      "title": "New Accent Colors from Northpoint Cabinetry",
+      "summary": "NorthPoint Cabinetry from Hardware Resources has introduced new accent colors, Sage Green and Nautical Blue, to its Catalina door style. The new finishes are exclusively available on a select range... The post New Accent Colors from Northpoint Cabinetry appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/new-accent-colors-from-northpoint-cabinetry",
+      "image": "https://www.woodshopnews.com/uploads/2026/07/northpointsage500x280_WSN.jpg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/07/northpointsage500x280_WSN.jpg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-07-21T15:52:26+00:00"
+    },
+    {
+      "id": "9f65cd6864b6ba3a",
+      "title": "Better Vision in the Shop",
+      "summary": "Proper lighting and vision aids can make a woodworking world of difference. Woodworking is a visual art. The capabilities of our eyes and visual system, as well as the quality... Source",
+      "url": "https://www.popularwoodworking.com/techniques/better-vision-in-the-shop-2/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/20143016/1002-vision-3-0970.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2021/10/20143016/1002-vision-3-0970.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-21T15:23:21+00:00"
+    },
+    {
+      "id": "0d6ebd8f86a4aff7",
+      "title": "I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned",
+      "summary": "From wooden spatulas to cast iron pans, here’s what went right, and where I failed. The post I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned appeared first on Family Handyman .",
+      "url": "https://www.familyhandyman.com/article/no-plastic-kitchen-lessons/",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_Plastic-in-my-Kitchen-for-Less-than_Karuna-Eberl_01_SSedit.jpg?fit=680%2C995",
+      "images": [
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_Plastic-in-my-Kitchen-for-Less-than_Karuna-Eberl_01_SSedit.jpg?fit=680%2C995"
+      ],
+      "source": "Family Handyman",
+      "source_url": "https://www.familyhandyman.com",
+      "published": "2026-07-21T15:22:55+00:00"
+    },
+    {
       "id": "9794ca9bbb439eab",
       "title": "Orior gives the humble foosball table a high-design makeover",
       "summary": "The Irish furniture house trades pub-tastic plastic for handcrafted luxury, turning a games room staple into a collectible design object",
@@ -155,6 +206,19 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-07-21T15:03:00+00:00"
+    },
+    {
+      "id": "54ed54c1ebd2f28a",
+      "title": "Museum celebrating work of RNLI among projects from Lancaster University",
+      "summary": "Dezeen School Shows: a museum dedicated to celebrating the history of Folkestone, UK, and the work of the RNLI is among projects from Lancaster University. Also featured is a proposal for a textile reuse scheme to provide materials for theatre and dance industries, and a reclaimed timber workshop and exhibition space. Lancaster University Institution: Lancaster The post Museum celebrating work of RNLI among projects from Lancaster University appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/21/museum-celebrating-work-of-rnli-lancaster-university-schoolshows/",
+      "image": "http://static.dezeen.com/uploads/2026/07/lancaster-unversity-dezeen-schoolshows_dezeen_2364_col_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/lancaster-unversity-dezeen-schoolshows_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-21T15:00:49+00:00"
     },
     {
       "id": "89fc34c23e837985",
@@ -442,11 +506,11 @@
       "image": "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/10/auto-draft/cruiser2.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/tcls-199-projector-puts-a-120-inch-screen-in-any-room-and-costs-less-than-airpods-pro/tcl_c1_projector_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/08/leaf/leaf_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/02/27/ams_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/1970/01/01/mirror_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/01/this-39-pill-organizer-is-designed-to-stay-out-not-hide-in-drawers/modobloom-pill-organizer-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/04/13/sup_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/08/17/sunnysong.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -671,7 +735,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/casa-magma_casacor_dezeen_sq2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T17:00:13+00:00"
     },
@@ -684,7 +748,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/cinderella-house-ysg-co-working-office-redfern-sydney-interiors_dezeen_2364_col_23_square.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T05:00:14+00:00"
     },
@@ -712,10 +776,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/09/14/xperia.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/04/auto-draft/raw_edges_wonderglass_4.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/03/18/sep.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/11/balolo_brick_wireless_charger_02.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/10/auto-draft/lego_fender_stratocaster_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/asus-rog-zephyrus-g14-2025-review-subtle-style-serious-performance/asus-rog-zephyrus-g14-2025-09.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/07/auto-draft/dot_line_tray_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/10/draft-design-mindset/design_mindset_ep_8_1.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -743,9 +807,9 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/01/cute-rams-inspired-diy-focus-timer-is-a-simple-distraction-free-productivity-assistant/project-igor-diy-focus-timer-01.jpeg",
-        "https://www.yankodesign.com/images/design_news/2025/07/minimalist-metal-seating-bends-design-norms-with-seamless-elegance-and-flatpack-ease/Beig_chair_furniture_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/05/16/loft_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/12/draft-intube/in_tube_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/06/auto-draft/RIMOWA-Lee-Sisan-Neo-primitive.jpeg",
+        "https://www.yankodesign.com/images/design_news/2015/07/dining/dining_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-design-gifts-for-him-that-feel-like-they-were-hand-carried-from-kyoto/5_best_japanese_gifts_him_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
@@ -774,7 +838,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/mistovia-hfr-istebna-sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-18T09:00:50+00:00"
     },
@@ -945,19 +1009,6 @@
       "published": "2026-07-17T10:00:34+00:00"
     },
     {
-      "id": "b944da4899e9f48f",
-      "title": "Contemporary Room Dividing Screens by Fold Studio",
-      "summary": "Dezeen Showroom: Australian design brand Fold Studio has released a series of freestanding folding screens comprising hardwood frames stretched with fabric or woven cord. Fold Studio founder and in-house designer Pauline Ollmann created the brand's Woven-Fold and Fabric-Fold collections, which share American White Oak, American Black Walnut or American Ash frames and raw brass hinges. Woven-Fold The post Contemporary Room Dividing Screens by Fold Studio appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/17/contemporary-room-dividing-screens-fold-studio-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/07/room-dividers-fold-studio-showroom_dezeen_2364_col_14.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/room-dividers-fold-studio-showroom_dezeen_2364_col_14.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-17T09:30:00+00:00"
-    },
-    {
       "id": "17d36b90e61f6a4d",
       "title": "IKEA Finally Made Furniture You Can Carry Out When You Move Apartments",
       "summary": "IKEA Finally Made Furniture You Can Carry Out When You Move Apartments Moving furniture in a city without a car involves a lot of improvisation. You carry what you can, leave what you can’t, and replace what...",
@@ -979,10 +1030,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1272,19 +1323,6 @@
       "published": "2026-07-15T14:00:00+00:00"
     },
     {
-      "id": "ef25bde62e257af3",
-      "title": "Studio Coco Greenblum Brings Warmth to Bumble’s Aspen Chalet",
-      "summary": "Rather than leaning into overt branding or alpine clichés, the Love Chalet layers vintage furnishings, architectural color, and residential warmth into a memorable brand experience.",
-      "url": "https://design-milk.com/studio-coco-greenblum-bumble-love-chalet-aspen/",
-      "image": "https://design-milk.com/images/2026/07/kyliefitts_cocogreenblumxbumble_aspen_9.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/07/kyliefitts_cocogreenblumxbumble_aspen_9.jpg"
-      ],
-      "source": "Design Milk",
-      "source_url": "https://design-milk.com",
-      "published": "2026-07-15T13:00:51+00:00"
-    },
-    {
       "id": "e7f746cefdb693a9",
       "title": "The Box in the Barn by Facha Architekti",
       "summary": "The Box in the Barn is a compact cottage inserted into an old agricultural building in Lázně Bělohrad, Czech Republic. Designed by Facha Architekti in 2025, the independent timber dwelling preserves the existing structure while giving a rural family homestead a new seasonal retreat. Its plan follows a long view through the open threshing floor […] The post The Box in the Barn by Facha Architekti first appeared on HomeAdore .",
@@ -1508,19 +1546,6 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-14T20:52:08+00:00"
-    },
-    {
-      "id": "3f0afe92dbb7deb8",
-      "title": "AWI Adds Wood Veneer Training and Credential Course",
-      "summary": "The Architectural Woodwork Institute has introduced a wood veneer training and credential course to its AWI iS (Industry Solutions) suite of online education and training resources. The course, “Wood Veneer... The post AWI Adds Wood Veneer Training and Credential Course appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/awi-adds-wood-veneer-training-and-credential-course",
-      "image": "https://www.woodshopnews.com/uploads/2026/07/AWIlogo500x280_WSN.jpg?auto=webp",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/07/AWIlogo500x280_WSN.jpg?auto=webp"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-07-14T15:52:27+00:00"
     },
     {
       "id": "7908af32a6064aef",
@@ -2153,7 +2178,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_MARA__AERA_04_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_MARA__OTTO__Christophe-Pillet__03_LR.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_©MARA__ARGO-LIBRO__LIMITED-EDITION_LR_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Nardi_Plano_MEN_1257.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2184,19 +2209,6 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-07-06T08:46:08+00:00"
-    },
-    {
-      "id": "38e81c3be4f832bf",
-      "title": "Coming in 2027: A New Woodworking School in Covington",
-      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
-      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-05T19:03:02+00:00"
     },
     {
       "id": "0f52eecbb8e12b33",
@@ -2262,19 +2274,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-02T21:00:00+00:00"
-    },
-    {
-      "id": "7b4dcb9f7e183e91",
-      "title": "Faraway Sag Harbor Reimagines a Hamptons Landmark",
-      "summary": "The boutique hotel pairs maritime-inspired interiors by Jenny Bukovec Studio with a fresh take on coastal hospitality.",
-      "url": "https://design-milk.com/faraway-sag-harbor-hotel-jenny-bukovec-studio/",
-      "image": "https://design-milk.com/images/2026/07/Faraway-Sag-Harbor-Lobby-Bar-2-by-Matt-Kisiday.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/07/Faraway-Sag-Harbor-Lobby-Bar-2-by-Matt-Kisiday.jpg"
-      ],
-      "source": "Design Milk Interiors",
-      "source_url": "https://design-milk.com",
-      "published": "2026-07-02T20:12:16+00:00"
     },
     {
       "id": "faa608c450311746",
@@ -2392,19 +2391,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
-    },
-    {
-      "id": "47625c0d63057fce",
-      "title": "Free Plans for Our Clamshell Bookcase",
-      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
-      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2646,19 +2632,6 @@
       "source": "Dezeen tag bathrooms",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-21T09:00:33+00:00"
-    },
-    {
-      "id": "d97ff0d906f09464",
-      "title": "LAP Open Wire, June 20, 2026",
-      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
-      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-20T12:00:00+00:00"
     },
     {
       "id": "e3722e01889eb440",
@@ -3150,11 +3123,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Shanty2Chic-DIY-Farmhouse-Wreath-Display.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Renter-Friendly-Accent-Wall.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
