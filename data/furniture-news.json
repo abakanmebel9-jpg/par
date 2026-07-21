@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-21T12:42:19.010032+00:00",
-  "generated_at_human": "2026-07-21 12:42 UTC",
+  "generated_at": "2026-07-21T15:13:15.138583+00:00",
+  "generated_at_human": "2026-07-21 15:13 UTC",
   "total_items": 240,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -60,9 +59,27 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
+  "sources_count": 53,
   "multi_photo_items": 63,
   "items": [
+    {
+      "id": "9da3f6ed36f87872",
+      "title": "Тень как соавтор: архитектура света за пределами фасада",
+      "summary": "Долгое время свет за пределами здания решал одну задачу – подсветить то, что видно лишь днём. Сегодня работа с уличным освещением всё чаще строится по другому принципу: свет не заливает территорию, а выбирает, что показать, а что оставить в тени. Тень становится частью решения, как форма светильника или цветовая температура. На нескольких реализованных проектах, где используется уличное освещение Maytoni, можно увидеть, как по-разному этот принцип работает в исторической среде, в современном ландшафте и в городском общественном пространстве.",
+      "url": "http://archi.ru/tech/news_102436.html",
+      "image": "https://i.archi.ru/i/1262/508536.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/508536.jpg",
+        "http://i.archi.ru/i/1262/508536.jpg",
+        "http://i.archi.ru/i/1262/508533.jpg",
+        "http://i.archi.ru/i/1262/508534.jpg",
+        "http://i.archi.ru/i/1262/508532.jpg",
+        "http://i.archi.ru/i/1262/508535.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "50ced7a4258ad654",
       "title": "ЖК «Регенбоген»: как история места определила выбор фасадных материалов",
@@ -82,24 +99,6 @@
       "published": ""
     },
     {
-      "id": "4528daec33993603",
-      "title": "Партитура для 12-й линии",
-      "summary": "Дом «Амо», построенный по проекту Степана Липгарта на Васильевском острове, соединяет три мотива: курдонер, двор-пьяцетту и заимствованные у архитектуры Ренессанса образы, которые позволили сделать современный многоквартирный комплекс более гуманистичным, развивающим тему индивидуальности в жилой архитектуре. В этом помог набор в меру стандартизированных элементов – филенки, усложненные орнаментом, выполненным в технике сграффито; «линейка» карнизов и профилей, а также штучные элементы декора. Комплекс включает жилую и гостиничную части, которые обрамляют отреставрированный деревянный…",
-      "url": "https://archi.ru/russia/102084/partitura-dlya--i-linii",
-      "image": "https://i.archi.ru/i/1262/485960.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/485960.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=79152",
-        "https://i.archi.ru/news/quadratic/311201.jpg?r=22008",
-        "https://i.archi.ru/news/main_images/280x280/435218.jpg",
-        "https://i.archi.ru/news/main_images/280x280/314536.jpg",
-        "https://i.archi.ru/i/1262/485977.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
       "id": "41f17d6e620331d5",
       "title": "Творческие амбиции автовладельцев",
       "summary": "Бюро OOIIO перепрофилировало заброшенную фабрику кухонной мебели в Леганесе под Мадридом в автоцентр с ярким, авторским решением.",
@@ -107,11 +106,24 @@
       "image": "https://i.archi.ru/i/1262/508032.jpg",
       "images": [
         "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=69548",
+        "https://i.archi.ru/i/1262/378886.jpg?r=66792",
         "https://i.archi.ru/i/1262/508051.jpg",
         "https://i.archi.ru/i/1262/508033.jpg"
       ],
       "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "4528daec33993603",
+      "title": "Партитура для 12-й линии",
+      "summary": "Дом «Амо», построенный по проекту Степана Липгарта на Васильевском острове, соединяет три мотива: курдонер, двор-пьяцетту и заимствованные у архитектуры Ренессанса образы, которые позволили сделать современный многоквартирный комплекс более гуманистичным, развивающим тему индивидуальности в жилой архитектуре. В этом помог набор в меру стандартизированных элементов – филенки, усложненные орнаментом, выполненным в технике сграффито; «линейка» карнизов и профилей, а также штучные элементы декора. Комплекс включает жилую и гостиничную части, которые обрамляют отреставрированный деревянный…",
+      "url": "https://archi.ru/russia/102084/partitura-dlya--i-linii",
+      "image": "https://i.archi.ru/i/1262/485960.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/485960.jpg"
+      ],
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -127,6 +139,96 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "9794ca9bbb439eab",
+      "title": "Orior gives the humble foosball table a high-design makeover",
+      "summary": "The Irish furniture house trades pub-tastic plastic for handcrafted luxury, turning a games room staple into a collectible design object",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/orior-foosball-table",
+      "image": "https://cdn.mos.cms.futurecdn.net/5e6QXU94nWkDaM3wzLw4cZ.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/5e6QXU94nWkDaM3wzLw4cZ.jpg",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-07-21T15:03:00+00:00"
+    },
+    {
+      "id": "89fc34c23e837985",
+      "title": "Not Paint, Not Stain: The Zero-Cost Trick To Make Honey Oak Cabinets Feel Less Heavy",
+      "summary": "Vintage honey oak cabinets can feel like an eyesore in your kitchen, but there's a fool-proof way to make them feel more subdued, and it's also totally free.",
+      "url": "https://www.hunker.com/2216372/honey-oak-cabinets-look-lighter-without-paint-stain-clear-clutter/",
+      "image": "https://www.hunker.com/img/gallery/not-paint-not-stain-the-zero-cost-trick-to-make-honey-oak-cabinets-feel-less-heavy/l-intro-1784186665.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/not-paint-not-stain-the-zero-cost-trick-to-make-honey-oak-cabinets-feel-less-heavy/l-intro-1784186665.jpg",
+        "https://www.hunker.com/img/gallery/not-paint-not-stain-the-zero-cost-trick-to-make-honey-oak-cabinets-feel-less-heavy/intro-1784186665.jpg",
+        "https://www.hunker.com/img/gallery/not-paint-not-stain-the-zero-cost-trick-to-make-honey-oak-cabinets-feel-less-heavy/decluttering-your-countertops-to-lighten-up-your-honey-oak-kitchen-1784186667.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-21T14:30:00+00:00"
+    },
+    {
+      "id": "f16cad4534b12bfd",
+      "title": "Woman Turns IKEA Glass Bowls Into Chic Bedroom Storage On A Budget",
+      "summary": "Sometimes designer furniture is out of reach. When this DIYer was inspired by a high-end side table, she used IKEA bowls and other low-cost items to emulate it.",
+      "url": "https://www.hunker.com/2211476/ikea-glass-bowls-diy-side-table-bedroom-storage-budget-friendly/",
+      "image": "https://www.hunker.com/img/gallery/ikea-glass-bowls-diy-side-table-bedroom-storage-budget-friendly/l-intro-1783950330.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ikea-glass-bowls-diy-side-table-bedroom-storage-budget-friendly/l-intro-1783950330.jpg",
+        "https://www.hunker.com/img/gallery/ikea-glass-bowls-diy-side-table-bedroom-storage-budget-friendly/intro-1783950330.jpg",
+        "https://www.hunker.com/img/gallery/ikea-glass-bowls-diy-side-table-bedroom-storage-budget-friendly/tips-for-replicating-this-chic-bedroom-storage-table-1783950332.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-21T14:00:00+00:00"
+    },
+    {
+      "id": "0609e21c8c3cd252",
+      "title": "Kodak Just Made a $35 Film Camera That Replaces Disposables",
+      "summary": "Kodak Just Made a $35 Film Camera That Replaces Disposables There has been a proliferation of various kinds of cameras in the market, driven by a growing demand for nostalgic and analog devices. While some...",
+      "url": "https://www.yankodesign.com/2026/07/21/kodak-just-made-a-35-film-camera-that-replaces-disposables/?utm_source=rss&utm_medium=rss&utm_campaign=kodak-just-made-a-35-film-camera-that-replaces-disposables",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/kodak-just-made-a-35-film-camera-that-replaces-disposables/kodak-ec35-01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/kodak-just-made-a-35-film-camera-that-replaces-disposables/kodak-ec35-01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-21T13:20:18+00:00"
+    },
+    {
+      "id": "2d6912cf20c7e393",
+      "title": "This Pantry Turned Empty Wall Space Into a Built-In Workstation",
+      "summary": "Wire pantry shelves leave large sections of wall unused. Food ends up stacked across shallow racks while small appliances compete for space on kitchen counters. Reddit user u/WilliamJamesP13 rebuilt a standard pantry around one long cabinet run, a butcher block work surface, and wraparound shelves that turned a storage closet into a butler’s pantry. Lower... The post This Pantry Turned Empty Wall Space Into a Built-In Workstation appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-pantry-turned-empty-wall-space-into-a-built-in-workstation/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Pantry-Turned-Empty-Wall-Space-Into-a-Built-In-Workstation.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Pantry-Turned-Empty-Wall-Space-Into-a-Built-In-Workstation.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Finished-Pantry-Added-Storage-Without-Growing-the-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Paint-Unified-Cabinets-Shelves-and-Walls.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Wall-Repairs-Removed-Every-Trace-of-the-Old-Shelves.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Thick-Wood-Shelves-Replaced-Wire-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Shelf-Supports-Wrapped-Around-Every-Wall.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-21T13:00:54+00:00"
+    },
+    {
+      "id": "b3a78079a6bac1f8",
+      "title": "Before & After: This Clever Wall Transformation Cost Way Less Than a New TV",
+      "summary": "Good design isn’t about having the biggest pieces or the most expensive decor; it’s about making the things you do have look intentional. Case in point: Imani Keal‘s living room media wall, where a high-contrast setup was making her perfectly fine television look too small for the space. Rather than spending money on a tech upgrade, the interior decorator got creative with a can of paint. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/before-and-after-painting-living-room-tv-accent-wall-37559648?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/valspar/video-features/w-tags/202606_ATM_Shelf_Project_Horizontal_Before-Edit",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/valspar/video-features/w-tags/202606_ATM_Shelf_Project_Horizontal_Before-Edit"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-21T12:00:00+00:00"
     },
     {
       "id": "570274011b15385d",
@@ -188,21 +290,6 @@
       "published": "2026-07-21T11:00:00+00:00"
     },
     {
-      "id": "f096a7f1b503791a",
-      "title": "How To Get Rid Of Gnats And Fruit Flies Using Old Pickle Jars And A Screwdriver",
-      "summary": "Gnats and fruit flies can multiply quickly in the kitchen, but one simple DIY uses common household items to help bring their numbers under control.",
-      "url": "https://www.hunker.com/2219172/get-rid-of-fruit-flies-gnats-old-pickle-jars-diy-trap/",
-      "image": "https://www.hunker.com/img/gallery/how-to-get-rid-of-gnats-and-fruit-flies-using-old-pickle-jars-and-a-screwdriver/l-intro-1784577084.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/how-to-get-rid-of-gnats-and-fruit-flies-using-old-pickle-jars-and-a-screwdriver/l-intro-1784577084.jpg",
-        "https://www.hunker.com/img/gallery/how-to-get-rid-of-gnats-and-fruit-flies-using-old-pickle-jars-and-a-screwdriver/intro-1784577084.jpg",
-        "https://www.hunker.com/img/gallery/how-to-get-rid-of-gnats-and-fruit-flies-using-old-pickle-jars-and-a-screwdriver/steps-for-making-a-fruit-fly-and-gnat-trap-with-a-pickle-jar-1784577085.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-21T10:00:00+00:00"
-    },
-    {
       "id": "53070af6af17b31b",
       "title": "Australie : une ancienne fabrique de pâtes transformée en pied-à-terre au charme brut",
       "summary": "À Hepburn Springs, près de Melbourne, une ancienne fabrique de pâtes classée au patrimoine devient le terrain d’expression de l'architecte d'intérieur Max Copolov. Entre plafonds patinés et interventions contemporaines, Pietro’s Residence propose une manière sensible d’habiter un lieu chargé d’histoire.",
@@ -214,6 +301,19 @@
       ],
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
+      "published": "2026-07-21T10:00:00+00:00"
+    },
+    {
+      "id": "f096a7f1b503791a",
+      "title": "How To Get Rid Of Gnats And Fruit Flies Using Old Pickle Jars And A Screwdriver",
+      "summary": "Gnats and fruit flies can multiply quickly in the kitchen, but one simple DIY uses common household items to help bring their numbers under control.",
+      "url": "https://www.hunker.com/2219172/get-rid-of-fruit-flies-gnats-old-pickle-jars-diy-trap/",
+      "image": "https://www.hunker.com/img/gallery/get-rid-of-fruit-flies-gnats-old-pickle-jars-diy-trap/l-intro-1784639886.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/get-rid-of-fruit-flies-gnats-old-pickle-jars-diy-trap/l-intro-1784639886.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
       "published": "2026-07-21T10:00:00+00:00"
     },
     {
@@ -241,12 +341,7 @@
       "url": "https://www.homedit.com/bathroom-vanities-started-breaking-away-from-the-wall/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Vanities-Started-Breaking-Away-From-the-Wall.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Vanities-Started-Breaking-Away-From-the-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Floating-Storage-Replaced-the-Full-Base-Cabinet.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Garden-Plant-That-May-Help-Keep-Mosquitoes-Away.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-Every-Room-a-Different-Color-Until-the-Apartment-Felt-Like-Home.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Cedar-Kitchen-Stopped-Hiding-the-House-Around-It.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Dug-a-Giant-Hole-in-the-Backyard-and-Ended-Up-With-a-Sunken-Fire-Pit-That-Looks-Professionally-Built.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Vanities-Started-Breaking-Away-From-the-Wall.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -315,9 +410,7 @@
       "url": "https://www.hunker.com/2215442/ikea-has-a-new-solution-instant-countertop-storage-spjutllilja-jar/",
       "image": "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/l-intro-1784110558.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/l-intro-1784110558.jpg",
-        "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/intro-1784110558.jpg",
-        "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/ikeas-spjutlilja-jars-offer-low-priced-storage-with-style-1784110560.jpg"
+        "https://www.hunker.com/img/gallery/goodbye-kitchen-chaos-ikea-has-a-new-solution-for-instant-countertop-storage/l-intro-1784110558.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -350,10 +443,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/samsung-galaxy-s25-ultra-review-power-perfected-form-refined/Galaxy-S25-Ultra-front-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/03/28/oneforthwatch01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/12/294688/01-cubetwo_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/03/auto-draft/04_dag_gärsnäs_daybed.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/10/auto-draft/cruiser2.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/12/tcls-199-projector-puts-a-120-inch-screen-in-any-room-and-costs-less-than-airpods-pro/tcl_c1_projector_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/08/leaf/leaf_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/02/27/ams_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -417,19 +510,6 @@
       "published": "2026-07-20T20:00:00+00:00"
     },
     {
-      "id": "adb300d6f6b190f3",
-      "title": "This teardrop camper’s wing-like awnings turn any campsite into a comfortable outdoor living room",
-      "summary": "This teardrop camper’s wing-like awnings turn any campsite into a comfortable outdoor living room A teardrop trailer is great until you actually have to spend the day around it. You get a comfortable place to sleep, a kitchen tucked...",
-      "url": "https://www.yankodesign.com/2026/07/20/this-teardrop-campers-wing-like-awnings-turn-any-campsite-into-a-comfortable-outdoor-living-room/?utm_source=rss&utm_medium=rss&utm_campaign=this-teardrop-campers-wing-like-awnings-turn-any-campsite-into-a-comfortable-outdoor-living-room",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/this-teardrop-campers-wing-like-awnings-turn-any-campsite-into-a-comfortable-outdoor-living-room/2026-Stockman-Rover-2.0-prototype-_0011_Layer-14.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/this-teardrop-campers-wing-like-awnings-turn-any-campsite-into-a-comfortable-outdoor-living-room/2026-Stockman-Rover-2.0-prototype-_0011_Layer-14.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-20T19:15:29+00:00"
-    },
-    {
       "id": "fe0b2c5ce365111b",
       "title": "Studio Papaya Makes a Small Apartment Feel Surprisingly Spacious",
       "summary": "Custom furniture, bold color, and clever spatial planning transform this compact São Paulo apartment into a flexible home that feels far larger than its 538 square feet.",
@@ -446,19 +526,6 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
-    },
-    {
-      "id": "778baeb0e2779716",
-      "title": "Step Aside, Quartz Countertops: This Attractive Alternative Is Cheaper & More Versatile",
-      "summary": "Quartz is durable and visually dazzling, but you can save a few bucks and still get an aesthetically pleasing countertop if you use this material instead.",
-      "url": "https://www.hunker.com/2218321/cheaper-quartz-countertop-attractive-alternative-corian/",
-      "image": "https://www.hunker.com/img/gallery/step-aside-quartz-countertops-this-attractive-alternative-is-cheaper-more-versatile/l-intro-1784467349.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/step-aside-quartz-countertops-this-attractive-alternative-is-cheaper-more-versatile/l-intro-1784467349.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-20T17:00:00+00:00"
     },
     {
       "id": "d99ff86d5041f8a4",
@@ -554,7 +621,7 @@
     {
       "id": "d4f64d087c3c766c",
       "title": "The Refresh: 5 Things I’m Coveting for My Summer Bedroom",
-      "summary": "To me, the ideal summer bedroom is all about simplicity: windows open, crisp sheets, and a light for those of us (me) who want to stay up and read into the night. I’ve been wanting to make a few small tweaks to make my own bedroom cool, simple, and serene for the balance of the […]",
+      "summary": "To me, the ideal summer bedroom is all about simplicity: windows open, crisp sheets, and a light for those of us (me) who want to stay up and read into the night. I’ve been wanting to make a few small tweaks to make my own bedroom cool and serene for the balance of the summer. […]",
       "url": "https://www.remodelista.com/posts/summer-bedroom-refresh-5-finds/",
       "image": "http://www.remodelista.com/wp-content/uploads/2026/07/gymax-stacking-stools-bbb.jpg",
       "images": [
@@ -563,19 +630,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-07-20T08:00:22+00:00"
-    },
-    {
-      "id": "c346ebdb2672f238",
-      "title": "People Wanted Invisible Cooktops Until Designers Made the Cooking Zone the Centerpiece",
-      "summary": "For years, kitchen design pushed the cooking area into the background. Flush induction cooktops, seamless countertops, and hidden appliances created long uninterrupted surfaces where the place used most often almost disappeared. The goal centered on clean lines instead of visual focus. Recent kitchen collections point in another direction. Designers still value streamlined cabinetry, but the... The post People Wanted Invisible Cooktops Until Designers Made the Cooking Zone the Centerpiece appeared first on Homedit .",
-      "url": "https://www.homedit.com/people-wanted-invisible-cooktops-until-designers-made-the-cooking-zone-the-centerpiece/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/People-Wanted-Invisible-Cooktops-Until-Designers-Made-the-Cooking-Zone-the-Centerpiece.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/People-Wanted-Invisible-Cooktops-Until-Designers-Made-the-Cooking-Zone-the-Centerpiece.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-20T06:17:52+00:00"
     },
     {
       "id": "1de79fcc58472415",
@@ -617,7 +671,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/casa-magma_casacor_dezeen_sq2.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T17:00:13+00:00"
     },
@@ -630,7 +684,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/cinderella-house-ysg-co-working-office-redfern-sydney-interiors_dezeen_2364_col_23_square.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T05:00:14+00:00"
     },
@@ -657,11 +711,11 @@
       "image": "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/these-smart-devices-will-feel-at-home-in-your-minimalist-living-space/ikea-smart-home-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/626446/redmagic_deuterium_power_card_1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2018/06/a-supersuit-for-your-phone-camera/lemuro_iphone_case_lens_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/transform-home-energy-with-a-system-that-powers-through-outages-and-enhances-sustainable-living/Anker_SOLIX_X1_power_generator_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/09/14/xperia.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/04/auto-draft/raw_edges_wonderglass_4.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/03/18/sep.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/11/balolo_brick_wireless_charger_02.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -688,11 +742,11 @@
       "image": "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/switchbot-lock-vision-series-review-face-id-for-your-front-door/SwitchBot-Lock-Vision-Series-23.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/morpheus-nightstand-hides-a-kinetic-secret-in-sculpted-wood-and-brass/sacrebleu-morpheus-nightstand-13.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/02/furniture-hidden-details/furniture_hidden_details_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/08/22/chair.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/12/flow-wall-desk-transforms-from-a-work-of-art-into-a-functional-table/1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/01/cute-rams-inspired-diy-focus-timer-is-a-simple-distraction-free-productivity-assistant/project-igor-diy-focus-timer-01.jpeg",
+        "https://www.yankodesign.com/images/design_news/2025/07/minimalist-metal-seating-bends-design-norms-with-seamless-elegance-and-flatpack-ease/Beig_chair_furniture_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/05/16/loft_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/japanese-design-gifts-for-him-that-feel-like-they-were-hand-carried-from-kyoto/5_best_japanese_gifts_him_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -720,7 +774,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/mistovia-hfr-istebna-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-18T09:00:50+00:00"
     },
@@ -751,8 +805,8 @@
         "https://sunset.com/wp-content/uploads/2026/04/bar-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
         "https://sunset.com/wp-content/uploads/2026/04/pantry-doors-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
         "https://sunset.com/wp-content/uploads/2026/04/dining-table-carlsbad-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
-        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/exterior-angle-pool-house-adu-anne-holbrook-interior-design-pc-zee-wendell.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/tropical-cocktails-in-hawaii-hotel-hanalei-bay-beach-sun-4748-0825.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -769,8 +823,8 @@
         "https://sunset.com/wp-content/uploads/2026/06/before-after-sf-kitchen-makeover-gina-rachelle-design-pc-lauren-andersen-sen-creative.jpg",
         "https://sunset.com/wp-content/uploads/2026/06/dining-before-after-sf-kitchen-makeover-gina-rachelle-design-pc-lauren-andersen-sen-creative.jpg",
         "https://sunset.com/wp-content/uploads/2026/06/dining-banquette-sf-kitchen-makeover-gina-rachelle-design-pc-lauren-andersen-sen-creative.jpg",
-        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/06/exterior-angle-pool-house-adu-anne-holbrook-interior-design-pc-zee-wendell.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/tropical-cocktails-in-hawaii-hotel-hanalei-bay-beach-sun-4748-0825.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -783,9 +837,7 @@
       "url": "https://www.wallpaper.com/design-interiors/festino-di-santa-rosalia-palermo-mario-cucinella-mca",
       "image": "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/pxYAjNZ5SU8LC3feh4HtiK.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -834,6 +886,19 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-17T14:10:52+00:00"
+    },
+    {
+      "id": "698b26de6f518659",
+      "title": "folded yellow volume reorganizes genova apartment’s interiors like a game of tetris",
+      "summary": "bump studio reorganizes the home through color, geometry, and custom sculptural elements. The post folded yellow volume reorganizes genova apartment’s interiors like a game of tetris appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/folded-yellow-volume-genova-apartment-interiors-tetris-bump-studio/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/tetris-renovation-bump-studio-genova-italy-flexible-living-environment-designboom-700-2-500x400-22b08q85r116.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/07/tetris-renovation-bump-studio-genova-italy-flexible-living-environment-designboom-700-2-500x400-22b08q85r116.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-07-17T14:00:02+00:00"
     },
     {
       "id": "8b18b7f35fe8ea9a",
@@ -914,10 +979,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1028,24 +1093,11 @@
         "https://hips.hearstapps.com/hmg-prod/images/7fe6d03f-cb1e-4cfb-b7eb-5537e3f8062c.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/fe40540f-1e84-4866-bfea-e0a5378a511f.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/6a715dc3-5af3-47e9-a49f-de488faf3a7b.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/a427eb6e-9f79-4246-8e63-8e36c650f1eb.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/2f4d051a-7d9a-44ca-8034-f49047c44029.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
       "published": "2026-07-16T16:50:19+00:00"
-    },
-    {
-      "id": "412c635ede9e3bbc",
-      "title": "Heads up, at Scorpios Mykonos, milliner Ruslan Baginskiy gives souvenirs a twist",
-      "summary": "The Ukrainian headwear designer opens a crafted summer pop-up at beach club Scorpios Mykonos, with wicker furniture and personalised hats in a workshop-style space",
-      "url": "https://www.wallpaper.com/travel/scorpios-mykonos-ruslan-baginskiy-pop-up",
-      "image": "https://cdn.mos.cms.futurecdn.net/mDktpppmwdpobfrCqmf35H.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/mDktpppmwdpobfrCqmf35H.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-07-16T14:38:25+00:00"
     },
     {
       "id": "bdf1a43223031e79",
@@ -1187,7 +1239,7 @@
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_35.jpg?w=1200&h=900&crop=1",
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_33.jpg?crop=0px%2C0px%2C7289px%2C5464px&resize=1200%2C900",
         "https://sunset.com/wp-content/uploads/2026/07/Hale_655Magnolia_34.jpg?crop=0px%2C2992px%2C5298px%2C3977px&resize=1200%2C900",
-        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/tropical-cocktails-in-hawaii-hotel-hanalei-bay-beach-sun-4748-0825.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -1484,32 +1536,6 @@
       "published": "2026-07-14T15:46:13+00:00"
     },
     {
-      "id": "dafa58d5ee53900d",
-      "title": "Decibel's Circular-Material 3D Printed Chair",
-      "summary": "At first glance, this chair appears to be wicker. A closer look reveals it isn't: It's been 3D-printed from Filaflex, a bio-based and compostable filament developed by Italian material science company Balena . The chair was designed and fabricated by New-Jersey-based Decibel , a manufacturer of sustainable furniture. This chair explores a new direction in furniture design shaped by circular bio-based materials, acoustic intelligence, and robotic large-format additive manufacturing. The project pairs an expressive, sculptural form with a material and production system designed for…",
-      "url": "https://www.core77.com/posts/144731/Decibels-Circular-Material-3D-Printed-Chair",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1841464_lead_400_144731_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1841464_lead_400_144731_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-07-14T15:00:00+00:00"
-    },
-    {
-      "id": "ef7a85f66e785243",
-      "title": "Furniture for Committed Book Lovers",
-      "summary": "This Totem series of furniture, by Mexican industrial designer Fernanda Díaz Tijerina, is for committed book lovers: In addition to stainless steel, Tijerina also offers wood variants… …and even stone: Tijerina produces these through his Mexico-City-based design brand, Eran .",
-      "url": "https://www.core77.com/posts/144727/Furniture-for-Committed-Book-Lovers",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1841423_lead_400_144727_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1841423_lead_400_144727_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-07-14T14:00:00+00:00"
-    },
-    {
       "id": "827759568e4a53f8",
       "title": "The New Lee Jofa for Weezie Collection Turns Bath Linens Into a Design Statement",
       "summary": "Heritage prints, plush terry cloth, and customizable monograms make this collaboration feel like a true wardrobe for the bath.",
@@ -1520,24 +1546,11 @@
         "https://hips.hearstapps.com/hmg-prod/images/479426a9-b65b-47e8-8a2a-0f07cfaca949.png",
         "https://hips.hearstapps.com/hmg-prod/images/330dba0a-6114-42e0-b55b-aca737313719.png",
         "https://hips.hearstapps.com/hmg-prod/images/2b7aaf94-ae0f-48b2-ac51-dc16e1946d87.png",
-        "https://hips.hearstapps.com/hmg-prod/images/mcgregor-nantucket-sunroom-mckendree-669181ce6d65c.png",
-        "https://hips.hearstapps.com/hmg-prod/images/29c4d4ee-8aba-4604-b4cd-ffde41e078b1.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/6de07e80-607b-4f6e-af8a-104bde2ef881.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/4ffac150-3e0b-40bb-b047-46b4fc35593b.jpeg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
-      "published": "2026-07-14T13:00:00+00:00"
-    },
-    {
-      "id": "5a47e85b9e306c7c",
-      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
-      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
@@ -2058,19 +2071,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-07T08:00:27+00:00"
-    },
-    {
-      "id": "15d1b501d09c7863",
-      "title": "15 Products That Turn the Bathroom into a Private Wellness Retreat",
-      "summary": "These hard-working yet luxurious sinks and vanities, sculptural faucets and immersive shower systems create a spa-like environment at home. The post 15 Products That Turn the Bathroom into a Private Wellness Retreat appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/15-products-that-turn-the-bathroom-into-a-private-wellness-retreat/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Terzofoco-Elevated-LuneUp-Spec-Sheets-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-06T23:25:23+00:00"
     },
     {
       "id": "6c7643791ee96fc1",
@@ -3150,11 +3150,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/01/how-to-build-a-square-coffee-table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/08/how-to-build-a-desk.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
