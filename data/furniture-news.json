@@ -1,14 +1,15 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-22T18:18:36.283407+00:00",
-  "generated_at_human": "2026-07-22 18:18 UTC",
-  "total_items": 214,
+  "generated_at": "2026-07-22T20:18:47.716125+00:00",
+  "generated_at_human": "2026-07-22 20:18 UTC",
+  "total_items": 228,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
     "Azure magazine CA",
+    "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
     "DM tag cabinets",
@@ -29,8 +30,10 @@
     "Garden & Home SA",
     "Gardenista",
     "Home Adore",
+    "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
+    "Homes To Love AU",
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
@@ -55,9 +58,27 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 49,
-  "multi_photo_items": 55,
+  "sources_count": 52,
+  "multi_photo_items": 61,
   "items": [
+    {
+      "id": "3fc12d25d0f4b129",
+      "title": "Новое время – новый дизайн",
+      "summary": "Время диктует... Но может ли кто-то диктовать что-то времени? Например, в каком дизайне оно должно представать перед покупателями его компактной версии? Sinitsa Buro отважилось на эксперимент и представило своё видение в интерьере магазина часов Tempus.",
+      "url": "https://archi.ru/russia/102493/novoe-vremya-novyi-dizain",
+      "image": "https://i.archi.ru/i/1262/502414.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/502414.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=13977",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=83251",
+        "https://i.archi.ru/i/1262/502411.jpg",
+        "https://i.archi.ru/i/1262/502413.jpg",
+        "https://i.archi.ru/i/1262/502419.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "9da3f6ed36f87872",
       "title": "Тень как соавтор: архитектура света за пределами фасада",
@@ -77,51 +98,47 @@
       "published": ""
     },
     {
+      "id": "e134212964058ea2",
+      "title": "«Зеленые» мечты и спелеологические впечатления",
+      "summary": "Консорциум во главе с MVRDV победил в конкурсе Shift на проект просветительского и гостинично-коммерческого комплекса в Роттердаме, посвященного ресурсоэффективности и охране окружающей среды.",
+      "url": "https://archi.ru/world/102495/zelenye-mechty-i-speleologicheskie-vpechatleniya",
+      "image": "https://i.archi.ru/i/1262/509497.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/509497.jpg",
+        "https://i.archi.ru/i/1262/125532.jpg?r=92876",
+        "https://i.archi.ru/i/1262/509504.jpg",
+        "https://i.archi.ru/i/458415.png",
+        "https://i.archi.ru/news/main_images/280x280/494340.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
       "id": "50ced7a4258ad654",
       "title": "ЖК «Регенбоген»: как история места определила выбор фасадных материалов",
       "summary": "В концепции проекта ЖК «Регенбоген» на Васильевском острове (архитектор Сергей Шустерман, бюро Astragal) промышленное наследие района стало отправной точкой. В дизайн-коде фасадов нашла отражение азбука Морзе, а сами фасады выполнены из полноформатного кирпича и плитки: такое решение позволило реализовать сложный объект в условиях исторического центра Петербурга.",
       "url": "http://archi.ru/tech/news_102415.html",
       "image": "https://i.archi.ru/i/1262/507768.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/507768.jpg",
-        "http://i.archi.ru/i/1262/507768.jpg",
-        "http://i.archi.ru/i/1262/507766.jpg",
-        "http://i.archi.ru/i/507765.jpg",
-        "http://i.archi.ru/i/1262/507771.jpg",
-        "http://i.archi.ru/i/1262/507769.png"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "41f17d6e620331d5",
-      "title": "Творческие амбиции автовладельцев",
-      "summary": "Бюро OOIIO перепрофилировало заброшенную фабрику кухонной мебели в Леганесе под Мадридом в автоцентр с ярким, авторским решением.",
-      "url": "https://archi.ru/world/102422/tvorcheskie-ambicii-avtovladelcev",
-      "image": "https://i.archi.ru/i/1262/508032.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/508032.jpg",
-        "https://i.archi.ru/i/1262/378886.jpg?r=46407",
-        "https://i.archi.ru/i/1262/508051.jpg",
-        "https://i.archi.ru/i/1262/508033.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "4528daec33993603",
-      "title": "Партитура для 12-й линии",
-      "summary": "Дом «Амо», построенный по проекту Степана Липгарта на Васильевском острове, соединяет три мотива: курдонер, двор-пьяцетту и заимствованные у архитектуры Ренессанса образы, которые позволили сделать современный многоквартирный комплекс более гуманистичным, развивающим тему индивидуальности в жилой архитектуре. В этом помог набор в меру стандартизированных элементов – филенки, усложненные орнаментом, выполненным в технике сграффито; «линейка» карнизов и профилей, а также штучные элементы декора. Комплекс включает жилую и гостиничную части, которые обрамляют отреставрированный деревянный…",
-      "url": "https://archi.ru/russia/102084/partitura-dlya--i-linii",
-      "image": "https://i.archi.ru/i/1262/485960.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/485960.jpg"
+        "https://i.archi.ru/i/1262/507768.jpg"
       ],
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "6866875029fbbda6",
+      "title": "Bringing Woodworking into a New Era",
+      "summary": "Harvey Industries will showcase new products at IWF 2026, including the SNIPER Intelligent Drill Press with Embodied Artificial Intelligence and the Baby Gyro Dust Vacuum and Blower. These innovations highlight Harvey’s commitment to advancing woodworking technology. The post Bringing Woodworking into a New Era appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/bringing-woodworking-into-a-new-era",
+      "image": "https://www.woodshopnews.com/uploads/2026/07/Harvey-SNIPER-Intelligent-Drill-Press-image.jpg",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/07/Harvey-SNIPER-Intelligent-Drill-Press-image.jpg"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-07-22T18:49:31+00:00"
     },
     {
       "id": "27377d4284408ca8",
@@ -440,6 +457,24 @@
       "published": "2026-07-22T02:00:00+00:00"
     },
     {
+      "id": "c9ca450b9e355e7a",
+      "title": "Is your living room rug the right size? The layout rules stylists swear by",
+      "summary": "We asked the experts to share their two cents The post Is your living room rug the right size? The layout rules stylists swear by appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/decorating/how-to-position-a-rug-tips-from-an-interior-stylist-14437/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-22t105315.722-6a60148441b45.png?v=1784681632",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-22t105315.722-6a60148441b45.png?v=1784681632",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-22t105315.722-6a60148441b45.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-22t175236.432-6a6076c7becbe.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/05/hero-crop-2026-05-21t125339.067-6a0e73b5e250f.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/best-regional-boutiques-australia-peregrine-store-6a505b4ac6cc2.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/saskia-neacsu-689e8764955b1.jpg?w=1979"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-22T01:15:43+00:00"
+    },
+    {
       "id": "ebbdfc8a5f55c358",
       "title": "Consumer Uncertainty Continues to Impact Industry Growth, as K&B Industry Pros Downgrade Expectations for 2026",
       "summary": "N NKBA Staff Posted: Jul 21, 2026 5:17 pm Kitchen & Bath Market Index Positive Near-Term Activity Offers Optimism for Improving Conditions Image courtesy of Getty Images. By NKBA Editorial Staff The Kitchen & Bath Market Index (KBMI), which measures growth in the U.S. residential kitchen and bath industry, remained flat year-over-year at 53 out of 100, as K&B pros said ongoing consumer uncertainty, driven largely by rising material costs and trade tensions, is slowing demand and limiting growth. The 2Q26 Kitchen and Bath Market Index (KBMI) Report , conducted jointly by the NKBA and John…",
@@ -728,6 +763,24 @@
       "published": "2026-07-21T06:48:01+00:00"
     },
     {
+      "id": "1565cf9e9c990049",
+      "title": "“It had seen better days”: Inside a working NSW dairy farmhouse’s remarkable revival",
+      "summary": "With timeless interiors against a magical backdrop, this sensitively transformed farmhouse remains true to its roots. The post “It had seen better days”: Inside a working NSW dairy farmhouse’s remarkable revival appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/home-tours/working-dairy-farmhouse-country-nsw/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-21t114435.567-6a5ecf078ecb6.png?v=1784598289",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-21t114435.567-6a5ecf078ecb6.png?v=1784598289",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-21t114435.567-6a5ecf078ecb6.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-22t175236.432-6a6076c7becbe.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/05/hero-crop-2026-05-21t125339.067-6a0e73b5e250f.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/best-regional-boutiques-australia-peregrine-store-6a505b4ac6cc2.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/sharpeslanetoolijooa-38_w1920-6a5ec66b4250b.jpg?w=2205"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-21T02:04:25+00:00"
+    },
+    {
       "id": "21edaa73f9645787",
       "title": "This foldable outdoor chair occupies the same amount of space as a soundbar",
       "summary": "This foldable outdoor chair occupies the same amount of space as a soundbar A car may be designed to get you from one place to another, but the most memorable parts of a journey often happen in the...",
@@ -736,10 +789,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/05/stool/01-rattan_stool_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/07/papr/papr_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/06/25/move_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/02/22/sign_language_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/05/ocean-capsules/Rattan-Fan_eco-friendly_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/07/by-watch-lovers-for-watch-lovers/dwiss_funded.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/12/modular-office-chair-concept-lets-you-define-your-own-sense-of-comfort/modular-customizable-office-chair-concept-08.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/01/slip-wash/10-Slip_wash_yankodesign.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -899,10 +952,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/12/unicorn_scooter_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/rareraw-built-a-shelf-that-runs-on-electricity-on-purpose/system000-09.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/top-10-lightweight-gear-for-the-modern-road-warrior/top_10_lightweight_gear_yanko_design_hero.webp",
-        "https://www.yankodesign.com/images/design_news/2026/07/samsung-split-the-galaxy-z-fold8-into-two-physical-personalities/Samsung-Fold8-Ultra-YD-234.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/08/this-boxy-cafe-racer-is-what-were-eying-for-john-wick-chapter-4-appearance/Hermes-X30-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/623955/google_pixel_11_leak_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2021/06/this-tiny-home-crafted-from-timber-can-be-attached-to-your-car-for-the-ultimate-flexible-lifestyle/13-tinyhome_jagstudio_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/06/cocoon.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -917,10 +970,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/1970/01/01/mono_chair.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/01/18/togather_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/wine-table/wine_table_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/06/13/cocoon01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/08/scandinavian-inspired-storage-ds/minimal_scandinavian_inspired_shelving_units_08.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/12/the-anywhere-chair/sitpack_zen_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/samsung-split-the-galaxy-z-fold8-into-two-physical-personalities/Samsung-Fold8-Ultra-YD-234.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/the-5-details-every-great-edc-design-shares-in-2026/Mini-Automatic-OTF-Knife-A2-Badger-Tekto-Knives_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -963,8 +1016,8 @@
         "https://sunset.com/wp-content/uploads/2026/04/bar-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
         "https://sunset.com/wp-content/uploads/2026/04/pantry-doors-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
         "https://sunset.com/wp-content/uploads/2026/04/dining-table-carlsbad-kitchen-solstice-interiors-pc-charlotte-lea.jpg",
-        "https://sunset.com/wp-content/uploads/tropical-cocktails-in-hawaii-hotel-hanalei-bay-beach-sun-4748-0825.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/07/cayucos.jpeg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/2026/06/outdoor-living-area-san-clemente-beach-house-raili-clasen-pc-david-tsay.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/tropical-cocktails-in-hawaii-hotel-hanalei-bay-beach-sun-4748-0825.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -1098,14 +1151,50 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
       "published": "2026-07-17T07:33:06+00:00"
+    },
+    {
+      "id": "3725edaef1f03751",
+      "title": "Your room-by-room guide to 2026 interior design trends",
+      "summary": "From kitchen to courtyard, these are the features, finishes and flourishes homeowners are coveting this year. The post Your room-by-room guide to 2026 interior design trends appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/home-ideas/style-forecast/interior-design-trends-2026/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/28_greg_natale_new_york_ii-6a597c5ec339d-scaled.jpg?v=1784258187",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/28_greg_natale_new_york_ii-6a597c5ec339d-scaled.jpg?v=1784258187",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/katherine-heigl-6a5ef8788d543.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-claudia-lambert-1-6a5dc86d24e80.jpg?w=2729",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Hanna-Marton.jpg?w=2048",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors-6a56d33403d41.jpeg?crop=210px%2C0px%2C1710px%2C1283px&resize=1950%2C1462&format=auto"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-17T05:02:26+00:00"
+    },
+    {
+      "id": "d0273100ed70a89b",
+      "title": "5 tips for creating an organised pantry that stays that way",
+      "summary": "How to organise your pantry like a pro. The post 5 tips for creating an organised pantry that stays that way appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/kitchen-ideas/storage/pantry-organisation/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2018/03/pantry-organisation-tips.jpg?v=1784006534",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2018/03/pantry-organisation-tips.jpg?v=1784006534",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2018/03/pantry-organisation-tips.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/cooks-collective-expandable-tiered-bamboo-shelf.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/Academy-beechwood-scoop-harris-scarfe.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/spode-italian-spice-jar-set-of-six-amazon.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/katherine-heigl-6a5ef8788d543.png?w=2730"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-17T04:10:50+00:00"
     },
     {
       "id": "65bf059e1f2a9353",
@@ -1231,6 +1320,63 @@
       "published": "2026-07-16T08:00:01+00:00"
     },
     {
+      "id": "35603a625c3eb191",
+      "title": "The kitchen garden is our favourite whimsical decorating trend of 2026",
+      "summary": "This garden inspired kitchen trend showcases the beauty of fresh produce, botanical patterns and abundant greenery. The post The kitchen garden is our favourite whimsical decorating trend of 2026 appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/home-ideas/garden-inspired-kitchen/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/HB-AL-Hawkesbury-7678_w1920-scaled.jpg?v=1729637837",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/HB-AL-Hawkesbury-7678_w1920-scaled.jpg?v=1729637837",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/katherine-heigl-6a5ef8788d543.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-claudia-lambert-1-6a5dc86d24e80.jpg?w=2729",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/08/Brittany-Smith.png?w=2048",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Lucy-Gough.jpg?w=2048",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/10/kitchen-garden-items-pomegranate-tea-towel-6a58683a48937.jpg?w=2048"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-16T05:55:00+00:00"
+    },
+    {
+      "id": "cab30483867ddcd8",
+      "title": "Coles is releasing a Bluey-themed range, and we want the lot",
+      "summary": "Granny chair or the duck cake mould? The post Coles is releasing a Bluey-themed range, and we want the lot appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/coles-bluey-special-buys/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/bluey-best-buys-6a5832c845eb2.jpg?v=1784165077",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/bluey-best-buys-6a5832c845eb2.jpg?v=1784165077"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-16T03:23:15+00:00"
+    },
+    {
+      "id": "8dae90f4df5f002f",
+      "title": "The $10 Kmart storage solution taking over Aussie bathrooms",
+      "summary": "Would this work in your house? The post The $10 Kmart storage solution taking over Aussie bathrooms appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/product-reviews/kmart-toilet-roll-holder/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg?v=1784065946",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg?v=1784065946"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-16T02:48:34+00:00"
+    },
+    {
+      "id": "a14046450f3bb62a",
+      "title": "Is this small kitchen addition the ultimate luxury?",
+      "summary": "The clever tap is appearing in beautiful kitchens everywhere, but is it worth installing? The post Is this small kitchen addition the ultimate luxury? appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/kitchen-ideas/pot-filler-tap-are-they-worth-it-the-pros-and-cons/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/umb-media/28475/cast-iron-pot-on-stove-top-with-rangehood-and-pot-filler.jpg?v=1751437195",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/umb-media/28475/cast-iron-pot-on-stove-top-with-rangehood-and-pot-filler.jpg?v=1751437195"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-16T01:58:33+00:00"
+    },
+    {
       "id": "7d1022c9dc0de763",
       "title": "Strength, Not Ornament: The Distinctly Female Presence Behind Coogee House III.",
       "summary": "In Coogee, Sydney architect Hannah Tribe and interior designer Genevieve Hromas shaped a family home around a distinctly female presence, expressed through strength rather than ornament. Brick detailing reads like stitches in a tapestry; render recalls icing; timber dowelling nods to the client's own skill with leather. Call it matrilineal logic made architectural— memory and craft, channelled by two women who admired each other's work every bit as much as they respected the client whose history shaped it all. | The article Strength, Not Ornament: The Distinctly Female Presence Behind…",
@@ -1301,6 +1447,50 @@
       "published": "2026-07-15T08:00:39+00:00"
     },
     {
+      "id": "aaef071ae7703a0e",
+      "title": "The ‘quietly dramatic’ kitchen trend is taking over our homes (and hearts)",
+      "summary": "It's oh so quietly dramatic (and we can't get enough). The post The ‘quietly dramatic’ kitchen trend is taking over our homes (and hearts) appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/kitchen-ideas/2026-kitchen-trends/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors-6a56d33403d41.jpeg?v=1784075177",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors-6a56d33403d41.jpeg?v=1784075177"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-15T05:22:59+00:00"
+    },
+    {
+      "id": "f6b8ce6ffa8aa713",
+      "title": "Which BISSELL spot cleaner should you buy? We compare the Mini, SpotClean and Little Green",
+      "summary": "We help you decide which one deserves a spot in your cleaning cupboard The post Which BISSELL spot cleaner should you buy? We compare the Mini, SpotClean and Little Green appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/shopping/best-bissell-spot-cleaners/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bissell-spot-cleaner-comparison-1-6a570c6e5b7be.png?v=1784089722",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bissell-spot-cleaner-comparison-1-6a570c6e5b7be.png?v=1784089722",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bissell-spot-cleaner-comparison-1-6a570c6e5b7be.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/05/hero-crop-2026-05-21t125339.067-6a0e73b5e250f.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-22t175236.432-6a6076c7becbe.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/best-regional-boutiques-australia-peregrine-store-6a505b4ac6cc2.jpg?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-15T04:32:00+00:00"
+    },
+    {
+      "id": "3d36b2effce12f49",
+      "title": "Inside an open plan country kitchen where texture takes centre stage",
+      "summary": "Designed by interior designer Georgie Shepherd with liveability in mind The post Inside an open plan country kitchen where texture takes centre stage appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/rooms/kitchens/country-style-kitchen-by-georgie-shepherd-interior-design-5728/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2017/09/copy-of-site-horizontal-1920-x-1080-5-6a56e82b4d194.jpg?v=1784082524",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2017/09/copy-of-site-horizontal-1920-x-1080-5-6a56e82b4d194.jpg?v=1784082524"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-15T02:58:35+00:00"
+    },
+    {
       "id": "440e8c6f278a23bc",
       "title": "What Milan 2026 means for Australian homes and businesses",
       "summary": "From coffee-making taps and wellness-focused bathrooms to richer colour palettes, intelligent lighting and sculptural forms, Milan Design Week 2026 revealed… The post What Milan 2026 means for Australian homes and businesses appeared first on The Interiors Addict .",
@@ -1317,6 +1507,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-15T01:00:00+00:00"
+    },
+    {
+      "id": "9011e54492d24085",
+      "title": "Koala’s new sofa colour is designed to change with the Australian sunset",
+      "summary": "Koala and Pantone just bottled the colour of the Australian bush The post Koala’s new sofa colour is designed to change with the Australian sunset appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/shopping/koala-pantone-collection/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/koala-pantone-collection-6a56ca34e2501.png?v=1784072777",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/koala-pantone-collection-6a56ca34e2501.png?v=1784072777"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-15T00:23:38+00:00"
     },
     {
       "id": "aa580973c2c4a632",
@@ -1496,6 +1699,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-13T09:00:18+00:00"
+    },
+    {
+      "id": "f874f08b9d683c31",
+      "title": "No room for surprise guests? These space-saving sofa beds are the ultimate solution",
+      "summary": "Keep your guests comfy without cluttering your space The post No room for surprise guests? These space-saving sofa beds are the ultimate solution appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/buyers-guides/best-sofa-beds-australia/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/03/eofy-year-sofa-bed-sales-2026-best-sofa-bed-deals-june-australia-koala-ecosa-6a2b64e15818b.png?v=1781228775",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/03/eofy-year-sofa-bed-sales-2026-best-sofa-bed-deals-june-australia-koala-ecosa-6a2b64e15818b.png?v=1781228775"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-13T05:58:48+00:00"
     },
     {
       "id": "c34ef46587daa3f9",
@@ -2772,11 +2988,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/04/Brooks-Nightstand-2.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
