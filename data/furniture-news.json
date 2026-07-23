@@ -1,12 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-23T21:17:36.063350+00:00",
-  "generated_at_human": "2026-07-23 21:17 UTC",
-  "total_items": 215,
+  "generated_at": "2026-07-23T23:08:03.560739+00:00",
+  "generated_at_human": "2026-07-23 23:08 UTC",
+  "total_items": 218,
   "sources_used": [
-    "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -35,10 +35,10 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
-    "Popular Woodworking",
-    "Popular Woodworking projects",
+    "PopSugar Home",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -49,12 +49,13 @@
     "Veranda",
     "Wallpaper",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 48,
+  "sources_count": 49,
   "multi_photo_items": 55,
   "items": [
     {
@@ -65,8 +66,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=27595",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=79700",
+        "https://i.archi.ru/i/1262/305304.jpg?r=41430",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=23793",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -101,7 +102,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=83032",
+        "https://i.archi.ru/i/1262/125532.jpg?r=22468",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -111,17 +112,43 @@
       "published": ""
     },
     {
-      "id": "50ced7a4258ad654",
-      "title": "ЖК «Регенбоген»: как история места определила выбор фасадных материалов",
-      "summary": "В концепции проекта ЖК «Регенбоген» на Васильевском острове (архитектор Сергей Шустерман, бюро Astragal) промышленное наследие района стало отправной точкой. В дизайн-коде фасадов нашла отражение азбука Морзе, а сами фасады выполнены из полноформатного кирпича и плитки: такое решение позволило реализовать сложный объект в условиях исторического центра Петербурга.",
-      "url": "http://archi.ru/tech/news_102415.html",
-      "image": "https://i.archi.ru/i/1262/507768.jpg",
+      "id": "7b7f8e6d28abc1e7",
+      "title": "Attention: I've Officially Found the Internet's Best Napping Sofa",
+      "summary": "Image Source: Popsugar Photography | Taylor Andrews People say the kitchen is the heart of the home, but I'd have to disagree.",
+      "url": "https://www.popsugar.com/home/cozey-gaia-sofa-review-49481061",
+      "image": "https://media1.popsugar-assets.com/files/thumbor/GqeTvMcRMdZ1WqL_Cl7Gf2-DqC4/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2026/07/23/968/n/1922794/tmp_suhAr7_53bf2cd8f595b7bd_Untitled_-_July_23_2026_at_18.06.32-1-Thumbnail_1456x1456.png",
       "images": [
-        "https://i.archi.ru/i/1262/507768.jpg"
+        "https://media1.popsugar-assets.com/files/thumbor/GqeTvMcRMdZ1WqL_Cl7Gf2-DqC4/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2026/07/23/968/n/1922794/tmp_suhAr7_53bf2cd8f595b7bd_Untitled_-_July_23_2026_at_18.06.32-1-Thumbnail_1456x1456.png"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "PopSugar Home",
+      "source_url": "https://www.popsugar.com",
+      "published": "2026-07-23T22:45:00+00:00"
+    },
+    {
+      "id": "9279eb8d3d3ff4fa",
+      "title": "reclaimed oak, cork, and cardboard build flexible furniture for cultural hub in NY",
+      "summary": "a big splash of teal unifies a family of bespoke furniture for the new headquarters of an inaugural art triennial in rural western new york. The post reclaimed oak, cork, and cardboard build flexible furniture for cultural hub in NY appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/reclaimed-oak-cork-cardboard-flexible-furniture-cultural-hub-ny-medina-triennial-hub-serweta-peck/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/medina-triennial-hub-serweta-peck-adaptive-reuse-interior-renovation-new-york-designboom-700-500x400-22b08q85r119.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/07/medina-triennial-hub-serweta-peck-adaptive-reuse-interior-renovation-new-york-designboom-700-500x400-22b08q85r119.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-07-23T21:45:31+00:00"
+    },
+    {
+      "id": "7af74ebbcf5a23a0",
+      "title": "Canon scrapped its most ambitious vlogging camera ever… Here’s what the patent reveals",
+      "summary": "Canon scrapped its most ambitious vlogging camera ever… Here’s what the patent reveals Canon has filed three separate patents chasing a handheld vlogging camera, five years apart, and each one solved a completely different problem than the one...",
+      "url": "https://www.yankodesign.com/2026/07/23/canon-scrapped-its-most-ambitious-vlogging-camera-ever-heres-what-the-patent-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=canon-scrapped-its-most-ambitious-vlogging-camera-ever-heres-what-the-patent-reveals",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/canon_vlogging_camera_1.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/canon_vlogging_camera_1.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-23T21:30:03+00:00"
     },
     {
       "id": "79e76c291e2a3ffe",
@@ -142,6 +169,36 @@
       "published": "2026-07-23T21:00:00+00:00"
     },
     {
+      "id": "341abb0f80e75770",
+      "title": "It Sat On Everyone's Vanity Generations Ago — Now It's A Thrift Store Decor Gem We'd Be Thrilled To Find",
+      "summary": "An art nouveau innovator created these decor items over 100 years ago, crafting them with intricate glass designs. If you thrift one, it may be worth thousands.",
+      "url": "https://www.hunker.com/2216411/valuable-20s-thrift-store-decor-lalique-art-glass-perfume-bottles/",
+      "image": "https://www.hunker.com/img/gallery/valuable-20s-thrift-store-decor-lalique-art-glass-perfume-bottles/l-intro-1784215478.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/valuable-20s-thrift-store-decor-lalique-art-glass-perfume-bottles/l-intro-1784215478.jpg",
+        "https://www.hunker.com/img/gallery/valuable-20s-thrift-store-decor-lalique-art-glass-perfume-bottles/intro-1784215478.jpg",
+        "https://www.hunker.com/img/gallery/valuable-20s-thrift-store-decor-lalique-art-glass-perfume-bottles/how-to-spot-an-authentic-lalique-art-glass-perfume-bottle-1784215480.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-23T19:00:00+00:00"
+    },
+    {
+      "id": "e036758669e47836",
+      "title": "Forget Cubed Shelves: IKEA Has A New Open Storage Solution With Endless Uses",
+      "summary": "It may be time to ditch the cubed shelf - this new IKEA solution features versatile shelves, organizer add-ons, and a slim frame that works in almost any room.",
+      "url": "https://www.hunker.com/2217498/cubed-shelves-alternative-ikea-has-a-new-open-storage-combo-flisat/",
+      "image": "https://www.hunker.com/img/gallery/forget-cubed-shelves-ikea-has-a-new-open-storage-solution-with-endless-uses/l-intro-1784300119.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/forget-cubed-shelves-ikea-has-a-new-open-storage-solution-with-endless-uses/l-intro-1784300119.jpg",
+        "https://www.hunker.com/img/gallery/forget-cubed-shelves-ikea-has-a-new-open-storage-solution-with-endless-uses/intro-1784300119.jpg",
+        "https://www.hunker.com/img/gallery/forget-cubed-shelves-ikea-has-a-new-open-storage-solution-with-endless-uses/ikeas-new-flisat-works-from-the-kitchen-to-the-craft-room-1784300121.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-23T18:00:00+00:00"
+    },
+    {
       "id": "322f58d47d802383",
       "title": "The $9,000 Lounge Chair That Spent 20 Years Becoming a Workspace",
       "summary": "The $9,000 Lounge Chair That Spent 20 Years Becoming a Workspace Lounge seating hasn’t changed much in the past half century. The category has largely coasted on the same formula: a cushioned shell, a recline mechanism,...",
@@ -151,13 +208,31 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/humanscale-diffrient-lounge-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/11/26/kokkode_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/04/02/teepee_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/7-best-japanese-stationery-picks-of-july-so-well-designed-your-classmates-will-ask-where-you-got-them/7_best_japanese_stationery_july_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/05/ufo-rocking-chair-combines-a-playful-character-with-a-striking-elegant-design/ufo-rocking-chair-4.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/04/table/table_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/05/20/sleeed.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-23T17:20:18+00:00"
+    },
+    {
+      "id": "2d33382f0d1bb195",
+      "title": "18 Genius Ways To Transform Dollar Tree Pool Noodles Into Chic Home Decor",
+      "summary": "Crafters know that pool noodles have many uses far beyond the swimming pool. Grab a bunch at Dollar Tree and try these craft, art, furniture, and decor ideas.",
+      "url": "https://www.hunker.com/2218138/dollar-tree-pool-noodles-diy-chic-home-decor-ideas/",
+      "image": "https://www.hunker.com/img/gallery/dollar-tree-pool-noodles-diy-chic-home-decor-ideas/l-intro-1784712843.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/dollar-tree-pool-noodles-diy-chic-home-decor-ideas/l-intro-1784712843.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-pool-noodles-diy-chic-home-decor-ideas/intro-1784712843.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-pool-noodles-diy-chic-home-decor-ideas/wall-art-1784712844.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-pool-noodles-diy-chic-home-decor-ideas/vases-1784712845.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-pool-noodles-diy-chic-home-decor-ideas/candle-holders-1784712845.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-pool-noodles-diy-chic-home-decor-ideas/accent-wall-or-room-divider-1784712846.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-23T15:00:00+00:00"
     },
     {
       "id": "426724ec67c8ce99",
@@ -182,9 +257,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-plywood-chair-that-becomes-a-castle-in-2-moves/casul-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/11/12/sharky.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/04/auto-draft/muddycap_soul_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/08/27/hook7_00.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/04/21/labyrinth_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/this-floating-bench-defies-gravity-and-your-expectations/floatingbench-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/05/conical-chair-gives-you-a-majestic-seat-whether-indoors-or-outdoors/conicent-chair-2.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -215,10 +290,7 @@
       "url": "https://www.hunker.com/2219898/diy-bowl-vinyl-record-elegant-countertop-storage-budget-friendly/",
       "image": "https://www.hunker.com/img/gallery/diy-bowl-vinyl-record-elegant-countertop-storage-budget-friendly/l-intro-1784711735.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/diy-bowl-vinyl-record-elegant-countertop-storage-budget-friendly/l-intro-1784711735.jpg",
-        "https://www.hunker.com/img/gallery/diy-bowl-vinyl-record-elegant-countertop-storage-budget-friendly/intro-1784711735.jpg",
-        "https://www.hunker.com/img/gallery/diy-bowl-vinyl-record-elegant-countertop-storage-budget-friendly/make-your-own-vinyl-record-bowl-1784711737.jpg",
-        "https://www.hunker.com/img/gallery/diy-bowl-vinyl-record-elegant-countertop-storage-budget-friendly/should-you-melt-your-vinyl-1784711737.jpg"
+        "https://www.hunker.com/img/gallery/diy-bowl-vinyl-record-elegant-countertop-storage-budget-friendly/l-intro-1784711735.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -443,9 +515,7 @@
       "url": "https://www.hunker.com/2219680/transform-old-coffee-cans-chic-countertop-decor/",
       "image": "https://www.hunker.com/img/gallery/transform-old-coffee-cans-chic-countertop-decor/l-intro-1784710504.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/transform-old-coffee-cans-chic-countertop-decor/l-intro-1784710504.jpg",
-        "https://www.hunker.com/img/gallery/transform-old-coffee-cans-chic-countertop-decor/intro-1784710504.jpg",
-        "https://www.hunker.com/img/gallery/transform-old-coffee-cans-chic-countertop-decor/creating-an-elegant-faux-stone-vase-from-an-empty-coffee-can-1784710505.jpg"
+        "https://www.hunker.com/img/gallery/transform-old-coffee-cans-chic-countertop-decor/l-intro-1784710504.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -520,22 +590,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-07-22T14:00:33+00:00"
-    },
-    {
-      "id": "fa24c38ac9b8cdbe",
-      "title": "Move Over, Quartz: This Eco-Friendly Countertop Looks Like Stone But Starts As Paper",
-      "summary": "Paper may not seem like a great choice for a kitchen countertop, but this surprising material is lightweight and beautiful, sleek, and modern.",
-      "url": "https://www.hunker.com/2220175/quartz-alternative-paper-stone-countertop-eco-friendly/",
-      "image": "https://www.hunker.com/img/gallery/move-over-quartz-this-eco-friendly-countertop-looks-like-stone-but-starts-as-paper/l-intro-1784662497.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/move-over-quartz-this-eco-friendly-countertop-looks-like-stone-but-starts-as-paper/l-intro-1784662497.jpg",
-        "https://www.hunker.com/img/gallery/move-over-quartz-this-eco-friendly-countertop-looks-like-stone-but-starts-as-paper/intro-1784662497.jpg",
-        "https://www.hunker.com/img/gallery/move-over-quartz-this-eco-friendly-countertop-looks-like-stone-but-starts-as-paper/the-case-for-paper-composite-countertops-1784662499.jpg",
-        "https://www.hunker.com/img/gallery/move-over-quartz-this-eco-friendly-countertop-looks-like-stone-but-starts-as-paper/the-case-against-paper-composite-countertops-1784662499.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-22T14:00:00+00:00"
     },
     {
       "id": "c83e1c2c0c79f502",
@@ -614,7 +668,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/5db0d0d8-04f8-48f1-b601-93e5adb2397a.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/9ac76603-b205-402a-8d1e-6e3a1a075d68.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/8d86b461-664d-4f37-bb1f-cd749c3141ab.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/204bb43d-97ee-473f-a01b-90ba8329a24a.jpeg"
+        "https://hips.hearstapps.com/hmg-prod/images/93a32307-4344-424f-a3f2-0c3cc097c973.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -726,19 +780,6 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-07-22T04:00:00+00:00"
-    },
-    {
-      "id": "68b8f50f4b73caf0",
-      "title": "Save Your Money: A Cheaper Way To Declutter Your Bathroom With Dollar Tree Napkin Holders",
-      "summary": "Decluttering your bathroom sometimes takes a little creativity. This project uses low-cost Dollar Tree napkin holders to take advantage of vertical space.",
-      "url": "https://www.hunker.com/2216189/dollar-tree-napkin-holder-diy-storage-declutter-bathroom-cheaper/",
-      "image": "https://www.hunker.com/img/gallery/save-your-money-a-cheaper-way-to-declutter-your-bathroom-with-dollar-tree-napkin-holders/l-intro-1784151657.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/save-your-money-a-cheaper-way-to-declutter-your-bathroom-with-dollar-tree-napkin-holders/l-intro-1784151657.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-22T02:00:00+00:00"
     },
     {
       "id": "c9ca450b9e355e7a",
@@ -871,19 +912,6 @@
       "source": "Woodshop News",
       "source_url": "https://www.woodshopnews.com",
       "published": "2026-07-21T15:52:26+00:00"
-    },
-    {
-      "id": "9f65cd6864b6ba3a",
-      "title": "Better Vision in the Shop",
-      "summary": "Proper lighting and vision aids can make a woodworking world of difference. Woodworking is a visual art. The capabilities of our eyes and visual system, as well as the quality... Source",
-      "url": "https://www.popularwoodworking.com/techniques/better-vision-in-the-shop-2/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/20143016/1002-vision-3-0970.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/10/20143016/1002-vision-3-0970.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-21T15:23:21+00:00"
     },
     {
       "id": "0d6ebd8f86a4aff7",
@@ -1226,19 +1254,6 @@
       "published": "2026-07-17T15:00:00+00:00"
     },
     {
-      "id": "a96f83021449537b",
-      "title": "Splinter Report: July 17th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week Collin is away, so he asked me to... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/splinter-report-july-17th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-17T14:10:52+00:00"
-    },
-    {
       "id": "d395182f2a267a82",
       "title": "The Forgotten Piece of Dining Room Furniture Designers Never Abandoned",
       "summary": "For decades, the standard dining set meant a table surrounded by matching chairs. Benches gradually disappeared from many homes, becoming associated with picnic tables, entryways, or casual breakfast nooks instead of formal dining rooms. Furniture collections tell a different story. Across modern dining displays, benches appear beside rectangular, oval, and even round tables, often replacing... The post The Forgotten Piece of Dining Room Furniture Designers Never Abandoned appeared first on Homedit .",
@@ -1356,19 +1371,6 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-07-16T19:46:56+00:00"
-    },
-    {
-      "id": "2415d48aa87c549b",
-      "title": "Mahogany Entry Table",
-      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
-      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-16T18:43:10+00:00"
     },
     {
       "id": "1f64536b0965d068",
@@ -1596,6 +1598,19 @@
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
+      "published": "2026-07-14T13:00:00+00:00"
+    },
+    {
+      "id": "5a47e85b9e306c7c",
+      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
+      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
@@ -2009,6 +2024,19 @@
       "published": "2026-07-06T09:30:39+00:00"
     },
     {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
+    },
+    {
       "id": "0f52eecbb8e12b33",
       "title": "Quick Takes With: Noam Dvir",
       "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
@@ -2100,6 +2128,19 @@
       "published": "2026-06-29T08:00:44+00:00"
     },
     {
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
+    },
+    {
       "id": "a5d2244bed225c30",
       "title": "Eight inspiring homes with bookmaxxed interiors",
       "summary": "For our latest lookbook, we explore how bookmaxxing can add interest to an interior, looking at examples ranging from a penthouse in Germany to the home of Radiohead singer Thom Yorke. The tongue-in-cheek term bookmaxxing is used to describe the current trend of showcasing books in a myriad of different ways, as seen in these The post Eight inspiring homes with bookmaxxed interiors appeared first on Dezeen .",
@@ -2186,19 +2227,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-26T07:17:47+00:00"
-    },
-    {
-      "id": "97729d8b1bf067d3",
-      "title": "6-Drawer Storage Cabinet",
-      "summary": "Organize your workspace with a handsome six-drawer cabinet. This handsome little cabinet just might solve the universal problem of never having enough drawer space. Small enough to tuck under a... Source",
-      "url": "https://www.popularwoodworking.com/projects/office-cabinet/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-25T16:02:00+00:00"
     },
     {
       "id": "cddba30ab34372c1",
@@ -2339,6 +2367,19 @@
       "source": "Dezeen tag bathrooms",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-21T09:00:33+00:00"
+    },
+    {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
     },
     {
       "id": "bcfca73d7828d49c",
@@ -2791,11 +2832,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/11/DIY-Turned-Leg-Dining-Table-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Clip-Frames-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/11/DIY-Waterfall-Desk-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
