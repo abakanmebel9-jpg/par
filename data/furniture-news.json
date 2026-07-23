@@ -1,13 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-23T19:40:37.852241+00:00",
-  "generated_at_human": "2026-07-23 19:40 UTC",
-  "total_items": 220,
+  "generated_at": "2026-07-23T21:17:36.063350+00:00",
+  "generated_at_human": "2026-07-23 21:17 UTC",
+  "total_items": 215,
   "sources_used": [
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -36,7 +35,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "Popular Woodworking",
@@ -56,8 +54,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 50,
-  "multi_photo_items": 56,
+  "sources_count": 48,
+  "multi_photo_items": 55,
   "items": [
     {
       "id": "3fc12d25d0f4b129",
@@ -67,8 +65,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=70102",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=52010",
+        "https://i.archi.ru/i/1262/305304.jpg?r=27595",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=79700",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -103,7 +101,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=57064",
+        "https://i.archi.ru/i/1262/125532.jpg?r=83032",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -124,6 +122,24 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "79e76c291e2a3ffe",
+      "title": "Largest home builder Metricon, unveils its first prefab pilot",
+      "summary": "Completed in just 20 days from slab pour to building completion, the pilot marks one of the first times a major Australian volume home builder has tested how prefabricated construction can be successfully integrated into a mainstream volume-building model –… The post Largest home builder Metricon, unveils its first prefab pilot appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/largest-home-builder-metricon-unveils-its-first-prefab-pilot",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3836.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3836.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Wall-installation.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3853.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3909.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3845.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Prefab-Pilot-Home-in-progress.jpg"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-23T21:00:00+00:00"
     },
     {
       "id": "322f58d47d802383",
@@ -166,9 +182,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-plywood-chair-that-becomes-a-castle-in-2-moves/casul-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/01/19/dp_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/02/meduza/meduza_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/7-best-japanese-stationery-picks-of-july-so-well-designed-your-classmates-will-ask-where-you-got-them/7_best_japanese_stationery_july_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/11/12/sharky.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/04/auto-draft/muddycap_soul_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/08/27/hook7_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -438,7 +454,7 @@
     {
       "id": "1df532c60ca802e8",
       "title": "Designer Claudia Lambert champions personality over perfection",
-      "summary": "What if the secret to a beautiful home isn’t following trends, but trusting your instincts? That’s the question at the heart of Shaping Spaces, the debut book from Sydney interior designer Claudia Lambert. At a time when social media has made… The post Designer Claudia Lambert champions personality over perfection appeared first on The Interiors Addict .",
+      "summary": "What if the secret to a beautiful home isn’t following trends, but trusting your instincts? That’s the question at the… The post Designer Claudia Lambert champions personality over perfection appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/designer-claudia-lambert-champions-personality-over-perfection",
       "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Claud-book-portrait_Finals-1.jpg",
       "images": [
@@ -1009,9 +1025,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/05/blind-measuring-made-easy/measuring_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/01/one-legged-wooden-chair-steeped-in-brazilian-culture-challenges-your-courage/pere-chair-one-leg-brazil-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/01/07/illume3.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/04/auto-draft/spectraeyes_night_vision_goggles_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2016/12/infinity_stool_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/08/portable_stacked_screens_that_attaches_to_any_laptop_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1024,12 +1040,7 @@
       "url": "https://theinteriorsaddict.com/an-interior-stylists-guide-to-sydneys-hidden-home-shopping-gems",
       "image": "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg",
       "images": [
-        "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/06.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/I4A1221.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/I4A1376.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/I4A1442.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/I4A1193.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -1226,24 +1237,6 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-17T14:10:52+00:00"
-    },
-    {
-      "id": "8b18b7f35fe8ea9a",
-      "title": "Heechan Kim’s Loxo Chair Blurs the Line Between Sculpture and Seating",
-      "summary": "Inspired by the quiet strength of an elephant, the award-winning lounge chair balances sculptural expression with comfort and everyday functionality",
-      "url": "https://design-milk.com/heechan-kim-loxo-chair-icff/",
-      "image": "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_photo.2.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_photo.2.jpg",
-        "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_single-seater.jpg",
-        "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_photo.1.jpg",
-        "https://design-milk.com/images/2026/07/Heechan-Kim_Loxo-Chair_photo.3.jpg",
-        "https://design-milk.com/images/2026/07/051826_Bascom_SMS23143.jpg",
-        "https://design-milk.com/images/2026/07/051826_Bascom_IZ5A3144.jpg"
-      ],
-      "source": "Design Milk",
-      "source_url": "https://design-milk.com",
-      "published": "2026-07-17T13:00:12+00:00"
     },
     {
       "id": "d395182f2a267a82",
@@ -1603,19 +1596,6 @@
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
-      "published": "2026-07-14T13:00:00+00:00"
-    },
-    {
-      "id": "5a47e85b9e306c7c",
-      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
-      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
@@ -2029,19 +2009,6 @@
       "published": "2026-07-06T09:30:39+00:00"
     },
     {
-      "id": "38e81c3be4f832bf",
-      "title": "Coming in 2027: A New Woodworking School in Covington",
-      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
-      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-05T19:03:02+00:00"
-    },
-    {
       "id": "0f52eecbb8e12b33",
       "title": "Quick Takes With: Noam Dvir",
       "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
@@ -2066,19 +2033,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-07-03T10:00:22+00:00"
-    },
-    {
-      "id": "7c68d429bf59e136",
-      "title": "5 beautiful built-in home work space design solutions",
-      "summary": "With the rise in remote working, Australians became remarkably inventive in their search for a workspace. Kitchen tables transformed into… The post 5 beautiful built-in home work space design solutions appeared first on The Interiors Addict .",
-      "url": "https://theinteriorsaddict.com/5-beautiful-built-in-home-work-space-design-solutions",
-      "image": "https://files.theinteriorsaddict.com/uploads/2026/06/Laminex_YSG_Collaboration_Pillarbox_PorcelainBlush_DanishWalnut-2.jpg",
-      "images": [
-        "https://files.theinteriorsaddict.com/uploads/2026/06/Laminex_YSG_Collaboration_Pillarbox_PorcelainBlush_DanishWalnut-2.jpg"
-      ],
-      "source": "Interiors Addict AU",
-      "source_url": "https://theinteriorsaddict.com",
-      "published": "2026-07-02T21:00:00+00:00"
     },
     {
       "id": "c6426737a2cbb567",
@@ -2144,19 +2098,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
-    },
-    {
-      "id": "47625c0d63057fce",
-      "title": "Free Plans for Our Clamshell Bookcase",
-      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
-      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2400,19 +2341,6 @@
       "published": "2026-06-21T09:00:33+00:00"
     },
     {
-      "id": "d97ff0d906f09464",
-      "title": "LAP Open Wire, June 20, 2026",
-      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
-      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-20T12:00:00+00:00"
-    },
-    {
       "id": "bcfca73d7828d49c",
       "title": "These Furniture Pieces Look Like Thrift Store Finds, but They’re Brand New",
       "summary": "Many of these furniture pieces look like they came from a thrift store, antique mall, or flea market. Distressed paint, reclaimed wood, worn finishes, and vintage hardware create the impression of furniture that has spent decades changing hands before arriving in a home. Surprisingly, none of these pieces are secondhand finds. They were part of... The post These Furniture Pieces Look Like Thrift Store Finds, but They’re Brand New appeared first on Homedit .",
@@ -2577,7 +2505,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2851,7 +2779,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2863,11 +2791,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Clip-Frames-by-Shanty2Chic.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/11/DIY-Waterfall-Desk-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/11/DIY-Turned-Leg-Dining-Table-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2882,7 +2810,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3061,7 +2989,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
