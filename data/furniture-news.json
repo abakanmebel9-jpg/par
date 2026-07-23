@@ -1,13 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-22T22:13:51.182806+00:00",
-  "generated_at_human": "2026-07-22 22:13 UTC",
-  "total_items": 225,
+  "generated_at": "2026-07-23T00:10:43.350434+00:00",
+  "generated_at_human": "2026-07-23 00:10 UTC",
+  "total_items": 228,
   "sources_used": [
-    "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -36,6 +36,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "Popular Woodworking",
@@ -56,7 +57,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 50,
+  "sources_count": 51,
   "multi_photo_items": 61,
   "items": [
     {
@@ -67,8 +68,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=85719",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=36217",
+        "https://i.archi.ru/i/1262/305304.jpg?r=86203",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=84028",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -103,7 +104,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=52763",
+        "https://i.archi.ru/i/1262/125532.jpg?r=73419",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -124,6 +125,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "bed5befd81d2e4a8",
+      "title": "These products are the secret to staying warm this winter",
+      "summary": "As the temperature drops, it’s time to wrap yourself and your home in comforting layers. We’ve rounded up and tested the best products to keep the cold at bay all winter long. Heated throws, soft rugs, and inviting cushions transform your living room into a haven. These smart touches help you save on heating as […] The post These products are the secret to staying warm this winter appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/buyers-guides/keep-warm-guide/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/keep-warm-products-6a5db7c42947d.png?v=1784526788",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/keep-warm-products-6a5db7c42947d.png?v=1784526788"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-22T23:28:21+00:00"
     },
     {
       "id": "1df532c60ca802e8",
@@ -607,19 +621,6 @@
       "published": "2026-07-21T18:02:47+00:00"
     },
     {
-      "id": "1e3aba8b900d4bad",
-      "title": "Say Goodbye To Lazy Susans: An Adjustable Way To Maximize Storage Space In Cabinets",
-      "summary": "Maximize your shelf space and keep everyday essentials easy to find and grab with customizable storage solutions.",
-      "url": "https://www.hunker.com/2216821/azy-susans-adjustable-shelf-riser-maximize-storage-space-cabinets/",
-      "image": "https://www.hunker.com/img/gallery/say-goodbye-to-lazy-susans-an-adjustable-way-to-maximize-storage-space-in-cabinets/l-intro-1784222908.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/say-goodbye-to-lazy-susans-an-adjustable-way-to-maximize-storage-space-in-cabinets/l-intro-1784222908.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-21T18:00:00+00:00"
-    },
-    {
       "id": "f23fab42341c4e92",
       "title": "Top Knobs Unveils the Bayridge, Califon and Lavington Suites",
       "summary": "Top Knobs, a manufacturer of decorative kitchen and bath hardware, presents the Bayridge, Califon and Lavington Suites, from the Pemberton Collection. Balancing classic forms with contemporary details, the Bayridge, Califon... The post Top Knobs Unveils the Bayridge, Califon and Lavington Suites appeared first on Woodshop News Magazine .",
@@ -712,19 +713,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-21T13:00:54+00:00"
-    },
-    {
-      "id": "b3a78079a6bac1f8",
-      "title": "Before & After: This Clever Wall Transformation Cost Way Less Than a New TV",
-      "summary": "Good design isn’t about having the biggest pieces or the most expensive decor; it’s about making the things you do have look intentional. Case in point: Imani Keal‘s living room media wall, where a high-contrast setup was making her perfectly fine television look too small for the space. Rather than spending money on a tech upgrade, the interior decorator got creative with a can of paint. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/before-and-after-painting-living-room-tv-accent-wall-37559648?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/valspar/video-features/w-tags/202606_ATM_Shelf_Project_Horizontal_Before-Edit",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/valspar/video-features/w-tags/202606_ATM_Shelf_Project_Horizontal_Before-Edit"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-21T12:00:00+00:00"
     },
     {
       "id": "570274011b15385d",
@@ -981,10 +969,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/this-boxy-cafe-racer-is-what-were-eying-for-john-wick-chapter-4-appearance/Hermes-X30-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/623955/google_pixel_11_leak_1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2021/06/this-tiny-home-crafted-from-timber-can-be-attached-to-your-car-for-the-ultimate-flexible-lifestyle/13-tinyhome_jagstudio_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/06/cocoon.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/10/01/andle_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/09/a-lamp-that-brings-the-charm-of-the-moon-into-your-home/Phase_moon_lamp_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/11/voyage_bag_04.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/637728/samsung_google_glass_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -999,10 +987,10 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/erans-steel-furniture-displays-books-like-artifacts-worth-keeping/stainless-steel-totems-coffee-table-books-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/health-apps-know-youre-stressed-healingfit-tws-helps-you-act-on-it/HealingFit_TWS_TES_Wellness_Earbuds_for_Sleep_Relaxation_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/08/scandinavian-inspired-storage-ds/minimal_scandinavian_inspired_shelving_units_08.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/12/the-anywhere-chair/sitpack_zen_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/samsung-split-the-galaxy-z-fold8-into-two-physical-personalities/Samsung-Fold8-Ultra-YD-234.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/the-5-details-every-great-edc-design-shares-in-2026/Mini-Automatic-OTF-Knife-A2-Badger-Tekto-Knives_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/10/reminisce-your-childhood-crafting-memories-with-this-night-lamp/handmaid_table_lamp_01-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/03/no-balcony-space-this-table-hooks-on-as-a-planter-bar-or-desk/ballkonzepts-balcony-railing-table-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/06/10/container_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/02/this-new-sofa-compresses-like-an-accordion-fits-in-your-cart/accordion-014.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1180,10 +1168,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1587,6 +1575,19 @@
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
+      "published": "2026-07-14T13:00:00+00:00"
+    },
+    {
+      "id": "5a47e85b9e306c7c",
+      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
+      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
@@ -2113,6 +2114,19 @@
       "published": "2026-07-06T08:46:08+00:00"
     },
     {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
+    },
+    {
       "id": "0f52eecbb8e12b33",
       "title": "Quick Takes With: Noam Dvir",
       "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
@@ -2241,6 +2255,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
+    },
+    {
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2484,6 +2511,19 @@
       "published": "2026-06-21T09:00:33+00:00"
     },
     {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
+    },
+    {
       "id": "bcfca73d7828d49c",
       "title": "These Furniture Pieces Look Like Thrift Store Finds, but They’re Brand New",
       "summary": "Many of these furniture pieces look like they came from a thrift store, antique mall, or flea market. Distressed paint, reclaimed wood, worn finishes, and vintage hardware create the impression of furniture that has spent decades changing hands before arriving in a home. Surprisingly, none of these pieces are secondhand finds. They were part of... The post These Furniture Pieces Look Like Thrift Store Finds, but They’re Brand New appeared first on Homedit .",
@@ -2661,7 +2701,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2935,7 +2975,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2947,11 +2987,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/04/Brooks-Nightstand-2.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/07/DIY-Dresser-Free-plans.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/10/DIY-Thankful-Sign.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2966,7 +3006,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3145,7 +3185,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
