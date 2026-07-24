@@ -1,13 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-24T20:38:10.518812+00:00",
-  "generated_at_human": "2026-07-24 20:38 UTC",
-  "total_items": 227,
+  "generated_at": "2026-07-24T22:14:59.081880+00:00",
+  "generated_at_human": "2026-07-24 22:14 UTC",
+  "total_items": 229,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -36,6 +35,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -68,8 +68,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=59078",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=72628",
+        "https://i.archi.ru/i/1262/305304.jpg?r=68744",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=16432",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -104,7 +104,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=81079",
+        "https://i.archi.ru/i/1262/125532.jpg?r=88858",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -953,7 +953,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/5db0d0d8-04f8-48f1-b601-93e5adb2397a.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/9ac76603-b205-402a-8d1e-6e3a1a075d68.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/8d86b461-664d-4f37-bb1f-cd749c3141ab.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/93a32307-4344-424f-a3f2-0c3cc097c973.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/997f30f0-c3c2-4a22-a11a-7fb569c8b1c8.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1517,8 +1517,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
@@ -1813,19 +1813,6 @@
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
-      "published": "2026-07-14T13:00:00+00:00"
-    },
-    {
-      "id": "5a47e85b9e306c7c",
-      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
-      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
@@ -2226,6 +2213,19 @@
       "published": "2026-07-06T09:30:39+00:00"
     },
     {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
+    },
+    {
       "id": "0f52eecbb8e12b33",
       "title": "Quick Takes With: Noam Dvir",
       "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
@@ -2302,6 +2302,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
+    },
+    {
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2527,6 +2540,19 @@
       "published": "2026-06-21T09:00:33+00:00"
     },
     {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
+    },
+    {
       "id": "546b824256178057",
       "title": "Solace Chain pendant light by Ross Gardam",
       "summary": "Dezeen Showroom: sculptural mouth-blown glass shades and delicate metal links meet in this chain-hung pendant light by Australian design studio Ross Gardam. A continuation of the Solace lighting range, the Solace Chain pendant is built around the same teardrop glass form, with fluid curves based on the interplay of two intersecting circles. The pendant light features The post Solace Chain pendant light by Ross Gardam appeared first on Dezeen .",
@@ -2678,7 +2704,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2939,7 +2965,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2970,7 +2996,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
