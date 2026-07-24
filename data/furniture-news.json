@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-24T06:36:09.761984+00:00",
-  "generated_at_human": "2026-07-24 06:36 UTC",
-  "total_items": 222,
+  "generated_at": "2026-07-24T09:28:29.690172+00:00",
+  "generated_at_human": "2026-07-24 09:28 UTC",
+  "total_items": 223,
   "sources_used": [
     "Archi.ru Projects",
     "Azure magazine CA",
@@ -35,6 +35,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -56,8 +57,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 50,
-  "multi_photo_items": 56,
+  "sources_count": 51,
+  "multi_photo_items": 55,
   "items": [
     {
       "id": "3fc12d25d0f4b129",
@@ -67,8 +68,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=89301",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=9978",
+        "https://i.archi.ru/i/1262/305304.jpg?r=934",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=29908",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -103,7 +104,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=67861",
+        "https://i.archi.ru/i/1262/125532.jpg?r=34281",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -111,6 +112,66 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "da2e47a746c5e89a",
+      "title": "Tour a reborn midcentury Pierre Koenig house in coastal California",
+      "summary": "Designer Jamie Bush reimagined a house by the Case Study architect; the 1966 work now effortlessly blends interiors and architecture, and 'reads as one language'",
+      "url": "https://www.wallpaper.com/architecture/residential/midcentury-pierre-koenig-house-jamie-bush-usa",
+      "image": "https://cdn.mos.cms.futurecdn.net/zgyn4gEou4MuTtFP6xQe4b.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/zgyn4gEou4MuTtFP6xQe4b.jpg",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-07-24T08:07:30+00:00"
+    },
+    {
+      "id": "060fa161fbf3dac7",
+      "title": "Kitchen Sinks Are Doing Much More Than Washing Dishes",
+      "summary": "Kitchen sinks used to be selected by bowl size, faucet finish, or whether they had one basin or two. New kitchen collections treat the sink as the center of food preparation instead of a fixture used only for cleanup. Sliding covers, integrated accessories, workstation rails, composite materials, and oversized basins expand what can happen within... The post Kitchen Sinks Are Doing Much More Than Washing Dishes appeared first on Homedit .",
+      "url": "https://www.homedit.com/kitchen-sinks-are-doing-much-more-than-washing-dishes/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Sinks-Have-Started-Replacing-More-Than-Just-the-Draining-Board.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Sinks-Have-Started-Replacing-More-Than-Just-the-Draining-Board.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Faucets-Are-Becoming-Specialized-Tools.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Deep-Single-Bowls-Replace-Double-Sinks.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Double-Basins-Separate-Washing-From-Food-Preparation.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Commercial-Faucets-Reach-Every-Corner-of-the-Sink.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Essential-Oil-Is-Becoming-a-Natural-Alternative-for-Termites.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-24T08:03:54+00:00"
+    },
+    {
+      "id": "98b0ca3ee0d1df04",
+      "title": "Garden Visit: An Artist’s Flower-Powered Reimagining of a Literary Great’s Home in Maine",
+      "summary": "Take an old, overgrown property, plant it with a thoughtful mix of perennials, almost like adding furniture, fill each “room” with a single color—and you have Wild Knoll Foundation Garden, artist Carly Glovinski’s now five-year-old living artwork, planted on the literal foundation of author and life-long gardener May Sarton’s former home in York, Maine. Carly […]",
+      "url": "https://www.gardenista.com/posts/wild-knoll-garden-maine-may-sarton/",
+      "image": "http://www.gardenista.com/wp-content/uploads/2026/07/firefly-media-may-sarton-wild-knoll.jpg",
+      "images": [
+        "http://www.gardenista.com/wp-content/uploads/2026/07/firefly-media-may-sarton-wild-knoll.jpg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-07-24T08:00:03+00:00"
+    },
+    {
+      "id": "cd560ceeb3329201",
+      "title": "How to create a kitchen countertop herb garden without planting a thing",
+      "summary": "Fresh herbs have a way of making a kitchen feel lived in. They add colour to your countertop, smell incredible and are always within arm’s reach when you’re cooking. The best part? You don’t need potting soil, seeds or even a green thumb to create the look. If you love the idea of a kitchen […] The post How to create a kitchen countertop herb garden without planting a thing appeared first on SA Garden and Home .",
+      "url": "https://www.gardenandhome.co.za/gardening/create-kitchen-countertop-herb-garden-without-planting-thing/",
+      "image": "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/shahid-hafiz-juVHpyrV-E8-unsplash-scaled.jpg",
+      "images": [
+        "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/shahid-hafiz-juVHpyrV-E8-unsplash-scaled.jpg"
+      ],
+      "source": "Garden & Home SA",
+      "source_url": "https://gardenandhome.co.za",
+      "published": "2026-07-24T07:00:11+00:00"
     },
     {
       "id": "3e8ec49b4f1fd1df",
@@ -151,8 +212,8 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/05/colourful-kitchen-6a62beabae550.png?v=1784856260",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/buxton-hero-6a6198ee8ea25.png?w=2732",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/05/colourful-kitchen-6a62beabae550.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-24t143124.390-6a62eaa6da015.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-23t170630.538-6a61bdb462db5.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/aspen-vistas-airbnb-view-6a605904a99fb.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/grace-flynn-content-producer.jpg?w=2048"
       ],
       "source": "Homes To Love AU",
@@ -284,9 +345,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/humanscale-diffrient-lounge-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/10/29/aepe_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/draft-shell-sofa/shell_sofa_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/the-wireless-display-kit-that-needs-no-app-no-network-no-pairing/MouseArc-Plug-Play-Wireless-HD-Transmitter-and-Receiver-hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/03/19/eckbank_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/10/top-10-products-that-elevate-your-meditation-practice/00-meditation-furniture.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/07/kollen_bookshelf_04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -328,9 +389,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-plywood-chair-that-becomes-a-castle-in-2-moves/casul-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/01-Black-Desk-Setup_-minimal_modern_hero3-1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2011/01/25/Incompleteproject_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/06/your-office-space-doesnt-have-to-suck/coco_desk_04.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/04/tronco-is-a-nature-inspired-storage-design-that-stacks-like-magic/tronco-stackable-storage-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/06/23/training_dresser_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/01/358319/06_dtach_andrewchang_stool.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -406,11 +467,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Last-Things-People-Buy-for-the-Bathroom-Started-Making-the-Biggest-Difference.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Last-Things-People-Buy-for-the-Bathroom-Started-Making-the-Biggest-Difference.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Sinks-Are-Doing-Much-More-Than-Washing-Dishes.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Trays-Started-Organizing-Everyday-Essentials.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Bathroom-Counters-Started-Looking-More-Like-Styled-Consoles.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Sink-Accessories-Started-Following-the-Same-Materials-as-the-Vanity.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Corners-Started-Holding-Towel-Ladders-Instead-of-Cabinets.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Essential-Oil-Is-Becoming-a-Natural-Alternative-for-Termites.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Empty-Corners-Started-Holding-Towel-Ladders-Instead-of-Cabinets.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -468,11 +529,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-Walls-Dark-Green-and-the-Living-Room-Finally-Felt-Cozy.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-Walls-Dark-Green-and-the-Living-Room-Finally-Felt-Cozy.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchen-Sinks-Are-Doing-Much-More-Than-Washing-Dishes.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Essential-Oil-Is-Becoming-a-Natural-Alternative-for-Termites.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/06/Large-Sectionals-Arent-the-Only-Option-Apartment-Sized-Sofas-Keep-Showing-Up-in-Furniture-Collections.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Last-Things-People-Buy-for-the-Bathroom-Started-Making-the-Biggest-Difference.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Home-Looks-Completely-Different-After-One-Year-of-Outdoor-Upgrades.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Statement-Bases-Started-Defining-Dining-Tables-Instead-of-the-Tops.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Grass-Along-Your-Fence-Might-Be-Wasted-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Last-Things-People-Buy-for-the-Bathroom-Started-Making-the-Biggest-Difference.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -485,12 +546,7 @@
       "url": "https://www.homedit.com/more-living-rooms-are-downsizing-the-sofa-not-the-style/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/06/Two-Seat-Sofas-Keep-Showing-Up-in-Living-Rooms-Where-Space-Matters-Most.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Two-Seat-Sofas-Keep-Showing-Up-in-Living-Rooms-Where-Space-Matters-Most.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/06/Color-Becomes-the-Main-Feature.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Essential-Oil-Is-Becoming-a-Natural-Alternative-for-Termites.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Last-Things-People-Buy-for-the-Bathroom-Started-Making-the-Biggest-Difference.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-Walls-Dark-Green-and-the-Living-Room-Finally-Felt-Cozy.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Home-Looks-Completely-Different-After-One-Year-of-Outdoor-Upgrades.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/06/Two-Seat-Sofas-Keep-Showing-Up-in-Living-Rooms-Where-Space-Matters-Most.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -715,19 +771,6 @@
       "published": "2026-07-22T12:00:33+00:00"
     },
     {
-      "id": "7a18a0313f3dabc4",
-      "title": "Most People Clean Their Homes but Forget This Dust Trap",
-      "summary": "Most people vacuum floors, wipe countertops, and dust furniture as part of their regular cleaning routine. One of the largest dust collection points in the house often gets ignored because it sits on the ceiling or high on a wall. In a home maintenance project shared by Brittney Smart, opening a return air vent revealed... The post Most People Clean Their Homes but Forget This Dust Trap appeared first on Homedit .",
-      "url": "https://www.homedit.com/most-people-clean-their-homes-but-forget-this-dust-trap/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Most-People-Clean-Their-Homes-but-Forget-This-Dust-Trap.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Most-People-Clean-Their-Homes-but-Forget-This-Dust-Trap.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-22T12:00:19+00:00"
-    },
-    {
       "id": "bc4fcf980c51522a",
       "title": "Inside Lupita Nyong’o’s Airy, Clutter-Free California Retreat",
       "summary": "The Oscar winner lived with her “hollow” California house before calling the Crate & Barrel design desk.",
@@ -836,8 +879,8 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-22t105315.722-6a60148441b45.png?v=1784681632",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/buxton-hero-6a6198ee8ea25.png?w=2732",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-22t105315.722-6a60148441b45.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-24t143124.390-6a62eaa6da015.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/05/colourful-kitchen-6a62beabae550.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-07-23t170630.538-6a61bdb462db5.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/saskia-neacsu-689e8764955b1.jpg?w=1979"
       ],
       "source": "Homes To Love AU",
@@ -991,27 +1034,11 @@
       "url": "https://www.wallpaper.com/design-interiors/furniture/orior-foosball-table",
       "image": "https://cdn.mos.cms.futurecdn.net/5e6QXU94nWkDaM3wzLw4cZ.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/5e6QXU94nWkDaM3wzLw4cZ.jpg",
-        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/5e6QXU94nWkDaM3wzLw4cZ.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-07-21T15:03:00+00:00"
-    },
-    {
-      "id": "54ed54c1ebd2f28a",
-      "title": "Museum celebrating work of RNLI among projects from Lancaster University",
-      "summary": "Dezeen School Shows: a museum dedicated to celebrating the history of Folkestone, UK, and the work of the RNLI is among projects from Lancaster University. Also featured is a proposal for a textile reuse scheme to provide materials for theatre and dance industries, and a reclaimed timber workshop and exhibition space. Lancaster University Institution: Lancaster The post Museum celebrating work of RNLI among projects from Lancaster University appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/21/museum-celebrating-work-of-rnli-lancaster-university-schoolshows/",
-      "image": "http://static.dezeen.com/uploads/2026/07/lancaster-unversity-dezeen-schoolshows_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/lancaster-unversity-dezeen-schoolshows_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-21T15:00:49+00:00"
     },
     {
       "id": "570274011b15385d",
@@ -1071,19 +1098,6 @@
       "published": "2026-07-21T08:00:09+00:00"
     },
     {
-      "id": "e42946a0439ab2df",
-      "title": "Tips for mixing wood tones successfully in your home",
-      "summary": "There was a time when matching every wooden surface in your home was considered the golden rule. Oak dining table? Better make sure the floors, coffee table and shelving all looked exactly the same. Thankfully, those days are behind us. Mixing wood tones is one of the easiest ways to make a space feel layered, […] The post Tips for mixing wood tones successfully in your home appeared first on SA Garden and Home .",
-      "url": "https://www.gardenandhome.co.za/decor/tips-mixing-wood-tones-successfully-home/",
-      "image": "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/julian-hochgesang-4DqsMC4-QQc-unsplash-1.jpg",
-      "images": [
-        "https://www.gardenandhome.co.za/wp-content/uploads/2026/07/julian-hochgesang-4DqsMC4-QQc-unsplash-1.jpg"
-      ],
-      "source": "Garden & Home SA",
-      "source_url": "https://gardenandhome.co.za",
-      "published": "2026-07-21T06:48:01+00:00"
-    },
-    {
       "id": "1565cf9e9c990049",
       "title": "“It had seen better days”: Inside a working NSW dairy farmhouse’s remarkable revival",
       "summary": "With timeless interiors against a magical backdrop, this sensitively transformed farmhouse remains true to its roots. The post “It had seen better days”: Inside a working NSW dairy farmhouse’s remarkable revival appeared first on Homes To Love .",
@@ -1106,9 +1120,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/auto-draft/cmf_phone_3_concept_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/the-sneaker-you-can-go-swimming-in/tropic_ultimate_shoe_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/04/08/eco_kiosk_info1.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/07/22/twitch_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/03/auto-draft/logitech_mx_brio_webcam_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/02/19/worker_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1367,10 +1381,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-2264442474.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1384,11 +1398,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/28_greg_natale_new_york_ii-6a597c5ec339d-scaled.jpg?v=1784258187",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/28_greg_natale_new_york_ii-6a597c5ec339d-scaled.jpg?v=1784258187",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-buy-original-australian-art-online--6a6315929e9da.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/katherine-heigl-1-6a61bfcb9df05.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/katherine-heigl-6a5ef8788d543.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Hanna-Marton.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors-6a56d33403d41.jpeg?crop=210px%2C0px%2C1710px%2C1283px&resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2608p181_cover-marketing_v1.1-6a41ada28e70a-scaled.jpg?fit=800%2C1024&resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1406,7 +1420,7 @@
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/cooks-collective-expandable-tiered-bamboo-shelf.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/Academy-beechwood-scoop-harris-scarfe.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/spode-italian-spice-jar-set-of-six-amazon.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/katherine-heigl-1-6a61bfcb9df05.png?w=2730"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-buy-original-australian-art-online--6a6315929e9da.png?w=2730"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1529,11 +1543,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/HB-AL-Hawkesbury-7678_w1920-scaled.jpg?v=1729637837",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/HB-AL-Hawkesbury-7678_w1920-scaled.jpg?v=1729637837",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-buy-original-australian-art-online--6a6315929e9da.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/katherine-heigl-1-6a61bfcb9df05.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/katherine-heigl-6a5ef8788d543.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/08/Brittany-Smith.png?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Lucy-Gough.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/10/kitchen-garden-items-pomegranate-tea-towel-6a58683a48937.jpg?w=2048"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Lucy-Gough.jpg?w=2048"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1608,19 +1622,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-15T08:00:39+00:00"
-    },
-    {
-      "id": "aaef071ae7703a0e",
-      "title": "The ‘quietly dramatic’ kitchen trend is taking over our homes (and hearts)",
-      "summary": "It's oh so quietly dramatic (and we can't get enough). The post The ‘quietly dramatic’ kitchen trend is taking over our homes (and hearts) appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/kitchen-ideas/2026-kitchen-trends/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors-6a56d33403d41.jpeg?v=1784075177",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors-6a56d33403d41.jpeg?v=1784075177"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-07-15T05:22:59+00:00"
     },
     {
       "id": "440e8c6f278a23bc",
@@ -2103,6 +2104,19 @@
       "published": "2026-07-06T09:30:39+00:00"
     },
     {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
+    },
+    {
       "id": "0f52eecbb8e12b33",
       "title": "Quick Takes With: Noam Dvir",
       "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
@@ -2114,19 +2128,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-07-05T08:00:23+00:00"
-    },
-    {
-      "id": "8e995fcaf10fff71",
-      "title": "5 Favorites: The New Rattan Daybed",
-      "summary": "I grew up in a roomy, shingled house outside of Boston, but come summer, the five of us migrated to our screened porch. Perfumed by the garden, this small, hidden back space was furnished with a white-painted Swedish dining table and a rattan daybed, two pieces so beloved—and durable—that when my mother downsized to an […]",
-      "url": "https://www.remodelista.com/posts/7-favorite-rattan-daybeds-for-summer-living/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2018/03/rattan-daybed-1960s-atelier-vime.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2018/03/rattan-daybed-1960s-atelier-vime.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-03T10:00:22+00:00"
     },
     {
       "id": "c6426737a2cbb567",
@@ -2192,6 +2193,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
+    },
+    {
+      "id": "47625c0d63057fce",
+      "title": "Free Plans for Our Clamshell Bookcase",
+      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
+      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2321,24 +2335,6 @@
       "published": "2026-06-25T05:00:28+00:00"
     },
     {
-      "id": "51d75e8696ec794b",
-      "title": "Yugoslav Modernism Meets Japanese Listening Bars at Esthetic Joys Embassy Belgrade.",
-      "summary": "There's a special kind of thrill in watching design pilgrims swerve away from the usual capitals toward cities with grittier stories to tell. Belgrade has been accumulating exactly this kind of momentum, and Esthetic Joys Embassy Belgrade—a hybrid dining room, discothèque and forthcoming hotel by creative collective Esthetic Joys, with interiors by Supaform's Maxim Scherbakov—makes a persuasive case for booking the flight. | The article Yugoslav Modernism Meets Japanese Listening Bars at Esthetic Joys Embassy Belgrade. appeared first on Yellowtrace . |",
-      "url": "https://www.yellowtrace.com.au/esthetic-joys-embassy-belgrade-supaform-maxim-scherbakov-yugo-futurist-listening-bar/",
-      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26161644/Yellowtrace-Supaform-Esthetic-Joys-Embassy-Club-Belgrade-Serbia-Photo-Varvara-Toplennikova-06_opt80.jpg",
-      "images": [
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26161644/Yellowtrace-Supaform-Esthetic-Joys-Embassy-Club-Belgrade-Serbia-Photo-Varvara-Toplennikova-06_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26161731/Yellowtrace-Supaform-Esthetic-Joys-Embassy-Club-Belgrade-Serbia-Photo-Varvara-Toplennikova-15_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26161635/Yellowtrace-Supaform-Esthetic-Joys-Embassy-Club-Belgrade-Serbia-Photo-Varvara-Toplennikova-04_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26161649/Yellowtrace-Supaform-Esthetic-Joys-Embassy-Club-Belgrade-Serbia-Photo-Varvara-Toplennikova-07_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26161619/Yellowtrace-Supaform-Esthetic-Joys-Embassy-Club-Belgrade-Serbia-Photo-Varvara-Toplennikova-01_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/05/26161720/Yellowtrace-Supaform-Esthetic-Joys-Embassy-Club-Belgrade-Serbia-Photo-Varvara-Toplennikova-13_opt80.jpg"
-      ],
-      "source": "Yellowtrace",
-      "source_url": "https://www.yellowtrace.com.au",
-      "published": "2026-06-24T19:30:38+00:00"
-    },
-    {
       "id": "bcba329464b72dfc",
       "title": "Custom furniture created for Azteca Stadium's interior revamp",
       "summary": "A group of local designers have showcased a custom furniture collection as part of an overall overhaul of the interiors at Mexico City's Azteca Stadium, one of the venues for the 2026 FIFA World Cup. Mexican studios CUAIK | CDS, Luis Huerta, Estudio Ignacio Urquiza Ana Paula de Alba, CAAM Arquitectos and Clásicos Mexicanos collaborated The post Custom furniture created for Azteca Stadium's interior revamp appeared first on Dezeen .",
@@ -2433,6 +2429,19 @@
       "source": "Dezeen tag bathrooms",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-21T09:00:33+00:00"
+    },
+    {
+      "id": "d97ff0d906f09464",
+      "title": "LAP Open Wire, June 20, 2026",
+      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-06-20T12:00:00+00:00"
     },
     {
       "id": "bcfca73d7828d49c",
