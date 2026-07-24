@@ -1,10 +1,11 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-24T14:06:37.381398+00:00",
-  "generated_at_human": "2026-07-24 14:06 UTC",
-  "total_items": 223,
+  "generated_at": "2026-07-24T16:53:01.913443+00:00",
+  "generated_at_human": "2026-07-24 16:53 UTC",
+  "total_items": 227,
   "sources_used": [
+    "Apartment Therapy",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
@@ -35,7 +36,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -58,7 +58,7 @@
     "АМДПР"
   ],
   "sources_count": 51,
-  "multi_photo_items": 55,
+  "multi_photo_items": 56,
   "items": [
     {
       "id": "3fc12d25d0f4b129",
@@ -68,8 +68,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=17875",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=39838",
+        "https://i.archi.ru/i/1262/305304.jpg?r=31054",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=32104",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -104,7 +104,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=70952",
+        "https://i.archi.ru/i/1262/125532.jpg?r=99515",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -112,6 +112,115 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "9ab3ff6adc6e2bd3",
+      "title": "Splinter Report: July 24th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re trying to figure out what counts as... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/splinter-report-july-24th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/24102406/splinter-report-7-24.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/07/24102406/splinter-report-7-24.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-24T16:38:25+00:00"
+    },
+    {
+      "id": "668e3126597733f1",
+      "title": "CNC-cut timber modules shape SAGA’s compact summerhouse in denmark",
+      "summary": "with EcoNeo, SAGA space architects brings space-habitat thinking back to earth, where every surface has a job. The post CNC-cut timber modules shape SAGA’s compact summerhouse in denmark appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/cnc-timber-modules-saga-space-summerhouse-denmark/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/SAGA-space-architects-econeo-denmark-designboom-700-500x400-22b08q85r573.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/07/SAGA-space-architects-econeo-denmark-designboom-700-500x400-22b08q85r573.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-07-24T16:15:32+00:00"
+    },
+    {
+      "id": "8ce45cac5b5ed210",
+      "title": "This Plywood Window Trim Makes an Entire Home Feel More Finished",
+      "summary": "Instead of replacing their windows, these homeowners wrapped them in plywood, and the understated detail completely transformed the home's look and feel. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/modern-custom-plywood-window-trim-37649828?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/monroe-a/tours-los-angeles-monroe-a-ex-2",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/monroe-a/tours-los-angeles-monroe-a-ex-2"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-24T16:00:00+00:00"
+    },
+    {
+      "id": "d6a79d1e892789ff",
+      "title": "Freely organize every device and reclaim your desk space with this Modular Monitor Stand",
+      "summary": "Freely organize every device and reclaim your desk space with this Modular Monitor Stand I struggle every day to keep my desk organized. I’ve added a monitor arm, a phone stand, a laptop cooling stand, and even a cable...",
+      "url": "https://www.yankodesign.com/2026/07/24/freely-organize-every-device-and-reclaim-your-desk-space-with-this-modular-monitor-stand/?utm_source=rss&utm_medium=rss&utm_campaign=freely-organize-every-device-and-reclaim-your-desk-space-with-this-modular-monitor-stand",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/Modular-Monitor-Stand-by-Lorenzo-Vega-2.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/Modular-Monitor-Stand-by-Lorenzo-Vega-2.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-24T15:20:31+00:00"
+    },
+    {
+      "id": "aa2b1882ce9bc3e7",
+      "title": "Core77 Weekly Roundup (7-20-26 to 7-24-26)",
+      "summary": "Here's what we looked at this week: John Meng's found-object cigar ashtray. UBTECH's humanoid companion robots are launching this September. The Cordalock: A four-way bike lock. WerksAtelier's fine craftsmanship: Wooden rings, as jewelry—and hinges. By industrial designer Tom Ducarouge, an Apple Vision Pro seating station at a Parisian opera house. Inventor Ruvim Kubsky's clever design for a stud finder combines low and hi tech. AIM's deconstructed kitchen faucet. A security camera designed to indicate when it's not watching (you). Japanese design firm DeFF's diminutive premium pen. The…",
+      "url": "https://www.core77.com/posts/144776/Core77-Weekly-Roundup-7-20-26-to-7-24-26",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1842896_lead_400_144776_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1842896_lead_400_144776_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-07-24T15:00:00+00:00"
+    },
+    {
+      "id": "371f92fd475025f8",
+      "title": "This Sculptural Dubai Home Turns Arches and Light Into Everyday Luxury",
+      "summary": "D’Ora Tokai Designs transformed a once-heavy Spanish-style villa into a serene family home where sculptural arches, layered whites, and bespoke furnishings create a sense of everyday restoration",
+      "url": "https://design-milk.com/dora-tokai-designs-the-white-arcade-dubai-villa/",
+      "image": "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg",
+        "https://design-milk.com/images/2026/07/5.-The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06962-HDR.jpg",
+        "https://design-milk.com/images/2026/07/2.-DSC06902-HDR.jpg",
+        "https://design-milk.com/images/2026/07/13.-The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06934-HDR.jpg",
+        "https://design-milk.com/images/2026/07/7.-DSC07213-HDR.jpg",
+        "https://design-milk.com/images/2026/07/3.-The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06964-HDR.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-07-24T14:16:05+00:00"
+    },
+    {
+      "id": "0c3eb3b5202f6f57",
+      "title": "Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion",
+      "summary": "Actor and woodshop proprietor Nick Offerman shares sawdust-laden musings on craftsmanship, creativity and biting off more than he can chew. The post Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion appeared first on Family Handyman .",
+      "url": "https://www.familyhandyman.com/article/nick-offerman-woodworking-interview/",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995",
+      "images": [
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995"
+      ],
+      "source": "Family Handyman",
+      "source_url": "https://www.familyhandyman.com",
+      "published": "2026-07-24T14:06:14+00:00"
+    },
+    {
+      "id": "cf2d7b90d3cefb06",
+      "title": "Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces",
+      "summary": "Follow along with woodworker and custom furniture maker Lee Buchanan as she tackles a unique Murphy bed makeover. The post Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces appeared first on Family Handyman .",
+      "url": "https://www.familyhandyman.com/article/lee-buchanan-murphy-bed-build/",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995",
+      "images": [
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995"
+      ],
+      "source": "Family Handyman",
+      "source_url": "https://www.familyhandyman.com",
+      "published": "2026-07-24T13:48:43+00:00"
     },
     {
       "id": "9d8cc050852d7e0d",
@@ -373,19 +482,6 @@
       "published": "2026-07-23T21:45:31+00:00"
     },
     {
-      "id": "7af74ebbcf5a23a0",
-      "title": "Canon scrapped its most ambitious vlogging camera ever… Here’s what the patent reveals",
-      "summary": "Canon scrapped its most ambitious vlogging camera ever… Here’s what the patent reveals Canon has filed three separate patents chasing a handheld vlogging camera, five years apart, and each one solved a completely different problem than the one...",
-      "url": "https://www.yankodesign.com/2026/07/23/canon-scrapped-its-most-ambitious-vlogging-camera-ever-heres-what-the-patent-reveals/?utm_source=rss&utm_medium=rss&utm_campaign=canon-scrapped-its-most-ambitious-vlogging-camera-ever-heres-what-the-patent-reveals",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/canon_vlogging_camera_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/canon_vlogging_camera_1.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-23T21:30:03+00:00"
-    },
-    {
       "id": "79e76c291e2a3ffe",
       "title": "Largest home builder Metricon, unveils its first prefab pilot",
       "summary": "Completed in just 20 days from slab pour to building completion, the pilot marks one of the first times a major Australian volume home builder has tested how prefabricated construction can be successfully integrated into a mainstream volume-building model –… The post Largest home builder Metricon, unveils its first prefab pilot appeared first on The Interiors Addict .",
@@ -443,9 +539,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/humanscale-diffrient-lounge-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/transforming-furniture-ds/overtunedchair-1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2023/04/minimal-furniture-designs/top_10_minimal_furniture_designs_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/11/07/lock_00.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/02/wa/wa_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/02/a-wood-table-you-can-roll-up/@table_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/09/SMILE_modular_shelf_made_entirely_of_chopsticks.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -465,9 +561,9 @@
       "published": "2026-07-23T15:00:00+00:00"
     },
     {
-      "id": "426724ec67c8ce99",
-      "title": "world’s tallest timber tower reaches full height in sydney with design by SHoP",
-      "summary": "the 39-story, 590 foot-tall tower is designed by SHoP architects and BVN with a hybrid timber structure which rises over sydney, australia. The post world’s tallest timber tower reaches full height in sydney with design by SHoP appeared first on designboom | architecture & design magazine .",
+      "id": "8937e1667d999d39",
+      "title": "world’s tallest timber tower reaches full height in sydney with design by SHoP and BVN",
+      "summary": "the 39-story, 590 foot-tall tower is designed by SHoP architects and BVN with a hybrid timber structure which rises over sydney, australia. The post world’s tallest timber tower reaches full height in sydney with design by SHoP and BVN appeared first on designboom | architecture & design magazine .",
       "url": "https://www.designboom.com/architecture/worlds-tallest-timber-tower-reaches-full-height-sydney-shop-bvn-australia/",
       "image": "https://www.designboom.com/wp-content/uploads/2026/07/atlassian-shop-worlds-tallest-timber-tower-sydney-australia-topping-out-designboom-700-500x400-22b08q85r077.jpg",
       "images": [
@@ -487,9 +583,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-plywood-chair-that-becomes-a-castle-in-2-moves/casul-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/this-modular-seating-solution-combines-the-concepts-of-crocs-lego-and-japanese-design/morfius_seating_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/09/12/benchgroup_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/03/sitland/sitland_02.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/03/20/stoolrock_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/07/bauhutte-streamers-chair-is-tailored-for-content-creators-who-stop-at-nothing/Bauhutte_influencers_Japanese_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/11/auto-draft/caustics_chair_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1159,9 +1255,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/02/07/Sennheiser_bmw.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/electric-porsche-911-concept-looks-pretty-in-panoramic-glass-windshield-headlights-staring-straight-into-your-soul/Porsche-911-Electric-Concept-14.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/12/auto-draft/eames_lounge_chair_skateboard_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/06/28/germaner_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/02/terms-like-military-grade-and-aircraft-grade-are-not-indicators-of-good-quality-heres-why/military_grade_aircragt_grade_yd_editorial_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/10/two-architects-with-their-dog-embark-on-5000-km-journey-to-norwegian-coast-in-a-repurposed-scottish-lifeboat/Stovic_lifeboat_design_architect-and-dog_arctic_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1487,7 +1583,7 @@
       "images": [
         "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
       ],
-      "source": "Popular Woodworking",
+      "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-16T18:43:10+00:00"
     },
@@ -2117,19 +2213,6 @@
       "published": "2026-07-06T09:30:39+00:00"
     },
     {
-      "id": "38e81c3be4f832bf",
-      "title": "Coming in 2027: A New Woodworking School in Covington",
-      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
-      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-05T19:03:02+00:00"
-    },
-    {
       "id": "0f52eecbb8e12b33",
       "title": "Quick Takes With: Noam Dvir",
       "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
@@ -2206,19 +2289,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
-    },
-    {
-      "id": "47625c0d63057fce",
-      "title": "Free Plans for Our Clamshell Bookcase",
-      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
-      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2444,19 +2514,6 @@
       "published": "2026-06-21T09:00:33+00:00"
     },
     {
-      "id": "d97ff0d906f09464",
-      "title": "LAP Open Wire, June 20, 2026",
-      "summary": "Comments are now closed. Please join us again on August 8 – same place, same time. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions, and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
-      "url": "https://blog.lostartpress.com/2026/06/20/lap-open-wire-june-20-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/981908AD-DDFC-4132-883B-5CAB85842D37.jpg?resize=640%2C893&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-20T12:00:00+00:00"
-    },
-    {
       "id": "546b824256178057",
       "title": "Solace Chain pendant light by Ross Gardam",
       "summary": "Dezeen Showroom: sculptural mouth-blown glass shades and delicate metal links meet in this chain-hung pendant light by Australian design studio Ross Gardam. A continuation of the Solace lighting range, the Solace Chain pendant is built around the same teardrop glass form, with fluid curves based on the interplay of two intersecting circles. The pendant light features The post Solace Chain pendant light by Ross Gardam appeared first on Dezeen .",
@@ -2608,7 +2665,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2882,7 +2939,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2913,7 +2970,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3092,7 +3149,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/melbourne-design-week-exhibitions-_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-21T05:00:42+00:00"
     },
