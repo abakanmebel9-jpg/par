@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-25T15:15:24.629687+00:00",
-  "generated_at_human": "2026-07-25 15:15 UTC",
-  "total_items": 232,
+  "generated_at": "2026-07-25T17:11:38.150939+00:00",
+  "generated_at_human": "2026-07-25 17:11 UTC",
+  "total_items": 231,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
@@ -59,7 +59,7 @@
     "АМДПР"
   ],
   "sources_count": 52,
-  "multi_photo_items": 54,
+  "multi_photo_items": 55,
   "items": [
     {
       "id": "3fc12d25d0f4b129",
@@ -69,8 +69,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=85328",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=34740",
+        "https://i.archi.ru/i/1262/305304.jpg?r=82636",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=17685",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -105,7 +105,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=76001",
+        "https://i.archi.ru/i/1262/125532.jpg?r=71124",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -113,6 +113,40 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "a5e484dd7b117e70",
+      "title": "There's A Smarter Way To Create A Coffee Station With A $20 Thrift Store Find",
+      "summary": "Upgrade your kitchen workspace without blowing your budget. See how one DIYer made a few easy additions to turn a thrifted buffet into a complete prep station.",
+      "url": "https://www.hunker.com/2222646/thrifted-fix-buffet-kitchen-coffee-tea-station/",
+      "image": "https://www.hunker.com/img/gallery/theres-a-smarter-way-to-create-a-coffee-station-with-a-20-thrift-store-find/l-intro-1784907617.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/theres-a-smarter-way-to-create-a-coffee-station-with-a-20-thrift-store-find/l-intro-1784907617.jpg",
+        "https://www.hunker.com/img/gallery/theres-a-smarter-way-to-create-a-coffee-station-with-a-20-thrift-store-find/intro-1784907617.jpg",
+        "https://www.hunker.com/img/gallery/theres-a-smarter-way-to-create-a-coffee-station-with-a-20-thrift-store-find/how-i-made-the-buffet-work-as-a-coffee-station-1784907618.jpg",
+        "https://www.hunker.com/img/gallery/theres-a-smarter-way-to-create-a-coffee-station-with-a-20-thrift-store-find/everything-including-the-kitchen-sink-installation-went-smoothly-1784907619.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-25T15:30:00+00:00"
+    },
+    {
+      "id": "818bcdaf496875fa",
+      "title": "Japanese Designer Built Furniture With No Glue or Screws",
+      "summary": "Japanese Designer Built Furniture With No Glue or Screws Most furniture is held together by things you can’t see. Mortise-and-tenon joints, steel brackets, wood glue applied in generous amounts before being clamped overnight. The...",
+      "url": "https://www.yankodesign.com/2026/07/25/japanese-designer-built-furniture-with-no-glue-or-screws/?utm_source=rss&utm_medium=rss&utm_campaign=japanese-designer-built-furniture-with-no-glue-or-screws",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/08/auto-draft/sharing_joy_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/07/samu_training_chair_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/12/19/ferma_01.jpg"
+      ],
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-25T15:20:34+00:00"
     },
     {
       "id": "7820fb8f1ed934c0",
@@ -131,6 +165,21 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-25T13:11:20+00:00"
+    },
+    {
+      "id": "6cc2198b0f49ad30",
+      "title": "Turn Recyclable Trash Into Useful Countertop Storage With This DIY",
+      "summary": "One person's recycling bin is another person's organizer. The best part? There's no one right way to DIY this storage idea, so you can make it your own.",
+      "url": "https://www.hunker.com/2219496/countertop-storage-diy-recyclable-trash/",
+      "image": "https://www.hunker.com/img/gallery/turn-recyclable-trash-into-useful-countertop-storage-with-this-diy/l-intro-1784630706.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/turn-recyclable-trash-into-useful-countertop-storage-with-this-diy/l-intro-1784630706.jpg",
+        "https://www.hunker.com/img/gallery/turn-recyclable-trash-into-useful-countertop-storage-with-this-diy/intro-1784630706.jpg",
+        "https://www.hunker.com/img/gallery/turn-recyclable-trash-into-useful-countertop-storage-with-this-diy/crafting-your-countertop-organizer-1784629968.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-25T13:00:00+00:00"
     },
     {
       "id": "df1d9ef1cb69d07f",
@@ -273,9 +322,7 @@
       "url": "https://www.hunker.com/2214392/dollar-tree-tray-diy-declutter-organize-countertops/",
       "image": "https://www.hunker.com/img/gallery/the-chic-dollar-tree-diy-to-declutter-organize-your-countertops/l-intro-1784004004.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/the-chic-dollar-tree-diy-to-declutter-organize-your-countertops/l-intro-1784004004.jpg",
-        "https://www.hunker.com/img/gallery/the-chic-dollar-tree-diy-to-declutter-organize-your-countertops/intro-1784004004.jpg",
-        "https://www.hunker.com/img/gallery/the-chic-dollar-tree-diy-to-declutter-organize-your-countertops/dress-up-a-dollar-tree-charger-for-countertop-storage-1784004007.jpg"
+        "https://www.hunker.com/img/gallery/the-chic-dollar-tree-diy-to-declutter-organize-your-countertops/l-intro-1784004004.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -288,9 +335,7 @@
       "url": "https://www.hunker.com/2217138/instant-closet-storage-amazon-find-fits-any-space/",
       "image": "https://www.hunker.com/img/gallery/instant-closet-storage-amazon-find-fits-any-space/l-intro-1784713613.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/instant-closet-storage-amazon-find-fits-any-space/l-intro-1784713613.jpg",
-        "https://www.hunker.com/img/gallery/instant-closet-storage-amazon-find-fits-any-space/intro-1784713613.jpg",
-        "https://www.hunker.com/img/gallery/instant-closet-storage-amazon-find-fits-any-space/ideas-to-reorganize-your-storage-with-homsorout-shelves-1784713615.jpg"
+        "https://www.hunker.com/img/gallery/instant-closet-storage-amazon-find-fits-any-space/l-intro-1784713613.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -622,19 +667,6 @@
       "published": "2026-07-24T01:24:25+00:00"
     },
     {
-      "id": "afeb8c220a9c0e4a",
-      "title": "Your Overstuffed Linen Closet Needs This Dollar Tree Storage Hack",
-      "summary": "Tired of a messy linen closet? This Dollar Tree storage hack is so simple, you'll wish you'd seen it sooner. It's easy, inexpensive, and can be done in a day.",
-      "url": "https://www.hunker.com/2218651/organize-linen-closet-dollar-tree-storage-sheets-blankets/",
-      "image": "https://www.hunker.com/img/gallery/your-overstuffed-linen-closet-needs-this-dollar-tree-storage-hack/l-intro-1784557642.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/your-overstuffed-linen-closet-needs-this-dollar-tree-storage-hack/l-intro-1784557642.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-24T01:00:00+00:00"
-    },
-    {
       "id": "7b7f8e6d28abc1e7",
       "title": "Attention: I've Officially Found the Internet's Best Napping Sofa",
       "summary": "Image Source: Popsugar Photography | Taylor Andrews People say the kitchen is the heart of the home, but I'd have to disagree.",
@@ -692,32 +724,6 @@
       "published": "2026-07-23T21:00:00+00:00"
     },
     {
-      "id": "341abb0f80e75770",
-      "title": "It Sat On Everyone's Vanity Generations Ago — Now It's A Thrift Store Decor Gem We'd Be Thrilled To Find",
-      "summary": "An art nouveau innovator created these decor items over 100 years ago, crafting them with intricate glass designs. If you thrift one, it may be worth thousands.",
-      "url": "https://www.hunker.com/2216411/valuable-20s-thrift-store-decor-lalique-art-glass-perfume-bottles/",
-      "image": "https://www.hunker.com/img/gallery/valuable-20s-thrift-store-decor-lalique-art-glass-perfume-bottles/l-intro-1784215478.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/valuable-20s-thrift-store-decor-lalique-art-glass-perfume-bottles/l-intro-1784215478.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-23T19:00:00+00:00"
-    },
-    {
-      "id": "e036758669e47836",
-      "title": "Forget Cubed Shelves: IKEA Has A New Open Storage Solution With Endless Uses",
-      "summary": "It may be time to ditch the cubed shelf - this new IKEA solution features versatile shelves, organizer add-ons, and a slim frame that works in almost any room.",
-      "url": "https://www.hunker.com/2217498/cubed-shelves-alternative-ikea-has-a-new-open-storage-combo-flisat/",
-      "image": "https://www.hunker.com/img/gallery/forget-cubed-shelves-ikea-has-a-new-open-storage-solution-with-endless-uses/l-intro-1784300119.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/forget-cubed-shelves-ikea-has-a-new-open-storage-solution-with-endless-uses/l-intro-1784300119.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-23T18:00:00+00:00"
-    },
-    {
       "id": "322f58d47d802383",
       "title": "The $9,000 Lounge Chair That Spent 20 Years Becoming a Workspace",
       "summary": "The $9,000 Lounge Chair That Spent 20 Years Becoming a Workspace Lounge seating hasn’t changed much in the past half century. The category has largely coasted on the same formula: a cushioned shell, a recline mechanism,...",
@@ -727,9 +733,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/humanscale-diffrient-lounge-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/09/SMILE_modular_shelf_made_entirely_of_chopsticks.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/low-linear-and-deeply-considered-the-osolo-long-seating-unit/osolo-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/01/how-to-maximize-vertical-storage-to-minimize-clutter/00-vertical.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/08/26/chairscutout01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/09/compact-living-just-got-easier/airea_airpurifier_sidetable_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/01/358116/09_deku_takutoohta_modularfurniture.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -758,9 +764,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-plywood-chair-that-becomes-a-castle-in-2-moves/casul-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/02/a-wood-table-you-can-roll-up/@table_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/auto-draft/01_summit_mousarris_modularcouch.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/05/18/parking.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/09/top-5-wooden-furniture-designs/top_5_wooden_furniture_designs_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/this-gorgeous-floor-mirror-transports-a-lake-shoreline-into-your-room/Floor_Mirror.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/08/22/pallet_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1304,12 +1310,7 @@
       "url": "https://www.yankodesign.com/2026/07/20/this-foldable-outdoor-chair-occupies-the-same-amount-of-space-as-a-soundbar/?utm_source=rss&utm_medium=rss&utm_campaign=this-foldable-outdoor-chair-occupies-the-same-amount-of-space-as-a-soundbar",
       "image": "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/07/25/re_bubble.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/these-ceramic-lamps-look-like-90s-caramel-candy-and-stack-any-way/caramel-furniture-lighting-collection-02.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/07/25/urban_flower_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/more-than-a-car-accessory-took-creates-moments-between-destinations/Took_furniture_sustainability_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1843,7 +1844,12 @@
       "url": "https://www.veranda.com/shopping/a71918818/lee-jofa-weezie-collection/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/0ea15550-d1af-41e9-9675-fcb9bd2830f4.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/0ea15550-d1af-41e9-9675-fcb9bd2830f4.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/0ea15550-d1af-41e9-9675-fcb9bd2830f4.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/479426a9-b65b-47e8-8a2a-0f07cfaca949.png",
+        "https://hips.hearstapps.com/hmg-prod/images/330dba0a-6114-42e0-b55b-aca737313719.png",
+        "https://hips.hearstapps.com/hmg-prod/images/2b7aaf94-ae0f-48b2-ac51-dc16e1946d87.png",
+        "https://hips.hearstapps.com/hmg-prod/images/6de07e80-607b-4f6e-af8a-104bde2ef881.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/4ffac150-3e0b-40bb-b047-46b4fc35593b.jpeg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1900,19 +1906,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-14T00:30:21+00:00"
-    },
-    {
-      "id": "759898857433604f",
-      "title": "How A Simple Angle Makes Outdoor Seating Feel More Social",
-      "summary": "How A Simple Angle Makes Outdoor Seating Feel More Social Public furniture has a quiet way of shaping how people move through the day. A bench can make someone pause. A table can turn an...",
-      "url": "https://www.yankodesign.com/2026/07/13/how-a-simple-angle-makes-outdoor-seating-feel-more-social/?utm_source=rss&utm_medium=rss&utm_campaign=how-a-simple-angle-makes-outdoor-seating-feel-more-social",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/how-a-simple-angle-makes-outdoor-seating-feel-more-social/Takeout_wedge_furniture_01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/how-a-simple-angle-makes-outdoor-seating-feel-more-social/Takeout_wedge_furniture_01.jpg"
-      ],
-      "source": "Yanko Design furniture",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-13T22:30:11+00:00"
     },
     {
       "id": "6961a46d6e7ceaef",
@@ -2751,7 +2744,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2999,7 +2992,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3011,11 +3004,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/07/DIY-Round-End-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/DIY-Pantry-Cabinet.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/09/DIY-Custom-Barn-Door.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/02/diy-countertop-spice-rack.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3030,7 +3023,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
