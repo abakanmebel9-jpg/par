@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-26T07:43:57.338025+00:00",
-  "generated_at_human": "2026-07-26 07:43 UTC",
-  "total_items": 230,
+  "generated_at": "2026-07-26T10:09:11.753216+00:00",
+  "generated_at_human": "2026-07-26 10:09 UTC",
+  "total_items": 224,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
@@ -40,8 +40,6 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
-    "Popular Woodworking",
-    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -57,8 +55,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
-  "multi_photo_items": 54,
+  "sources_count": 49,
+  "multi_photo_items": 53,
   "items": [
     {
       "id": "3fc12d25d0f4b129",
@@ -68,8 +66,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=80016",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=48080",
+        "https://i.archi.ru/i/1262/305304.jpg?r=27292",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=81238",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -104,7 +102,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=69259",
+        "https://i.archi.ru/i/1262/125532.jpg?r=87253",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -112,6 +110,37 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "d8f137ec2de83e57",
+      "title": "This Narrow Galley Kitchen Had More Storage Space Than It Seemed",
+      "summary": "The original kitchen squeezed every appliance along two narrow walls, leaving little counter space and no room for more than one person to cook. Oak cabinets stopped below the ceiling, the pantry sat outside the main workspace, and open shelving collected small appliances instead of storing them. In a remodel shared by Reddit user u/SeaMention123,... The post This Narrow Galley Kitchen Had More Storage Space Than It Seemed appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-narrow-galley-kitchen-had-more-storage-space-than-it-seemed/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Narrow-Galley-Kitchen-Started-Hiding-Storage-Behind-Every-Cabinet-Door.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Narrow-Galley-Kitchen-Started-Hiding-Storage-Behind-Every-Cabinet-Door.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Material-Is-Making-Its-Way-Into-Every-Part-of-the-Kitchen.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Storage-Moved-Inside-the-Cabinets-Instead-of-Onto-the-Counters.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Every-Cabinet-Started-Looking-Like-One-Continuous-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Backsplash-Became-the-Largest-Decorative-Surface.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Galley-Stayed-but-the-Cabinets-Changed-Completely.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-26T09:08:43+00:00"
+    },
+    {
+      "id": "87eb84577c2a2ac0",
+      "title": "Eight unique patios that beckon to the outdoors",
+      "summary": "For our most recent lookbook, we look at homes where the threshold between indoor and outdoor spaces is thin, thanks to their sprawling patios that create the perfect place to kick back and relax outside. There's nothing quite like a warm, breezy walk from a kitchen to the backyard during a summertime hangout, and these The post Eight unique patios that beckon to the outdoors appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/26/patios-indoor-outdoor-lookbooks/",
+      "image": "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-26T09:00:50+00:00"
     },
     {
       "id": "09bdb908ca6b13d1",
@@ -125,7 +154,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Lift-Up-Door-Turns-Brass-Into-a-Cabinet-Surface.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Thin-Metal-Trim-Outlines-the-Cabinetry.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Brass-Pulls-Break-Up-the-Dark-Cabinet-Fronts.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Builder-Grade-Oak-Cabinets-Dominated-the-Bathroom.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Hammered-Metal-Makes-the-Island-the-Centerpiece.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -139,15 +168,31 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Laundry-Room-Closet-Was-Taking-Up-Space-Better-Used-for-Open-Storage.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Laundry-Room-Closet-Was-Taking-Up-Space-Better-Used-for-Open-Storage.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Builder-Grade-Oak-Cabinets-Dominated-the-Bathroom.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Material-Is-Making-Its-Way-Into-Every-Part-of-the-Kitchen.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Former-Closet-Became-a-Shoe-Station.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Closet-Crowded-the-Space-Beside-the-Utility-Sink.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-Orange-Oak-Cabinets-Off-White-and-the-Entire-Kitchen-Looked-Twice-as-Bright.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Open-Rails-Replaced-the-Enclosed-Closet.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Open-Rails-Replaced-the-Enclosed-Closet.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Utility-Sink-Left-Plumbing-and-Floor-Space-Exposed.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-26T06:03:09+00:00"
+    },
+    {
+      "id": "03e6cb18b36ef14b",
+      "title": "Transform An Old Plastic Takeout Container Into A Cute Countertop Storage Solution",
+      "summary": "Plastic containers are great for to-go meals and leftovers. And when you're done using them for food, you can transform them into cute countertop storage.",
+      "url": "https://www.hunker.com/2207272/reuse-plastic-takeout-container-diy-countertop-storage/",
+      "image": "https://www.hunker.com/img/gallery/transform-an-old-plastic-takeout-container-into-a-cute-countertop-storage-solution/l-intro-1783022788.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/transform-an-old-plastic-takeout-container-into-a-cute-countertop-storage-solution/l-intro-1783022788.jpg",
+        "https://www.hunker.com/img/gallery/transform-an-old-plastic-takeout-container-into-a-cute-countertop-storage-solution/intro-1783022788.jpg",
+        "https://www.hunker.com/img/gallery/transform-an-old-plastic-takeout-container-into-a-cute-countertop-storage-solution/how-to-make-a-cute-countertop-organizer-from-a-plastic-food-container-1783022790.jpg",
+        "https://www.hunker.com/img/gallery/transform-an-old-plastic-takeout-container-into-a-cute-countertop-storage-solution/how-to-customize-the-takeout-container-to-befit-your-home-countertops-1783022791.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-26T03:00:00+00:00"
     },
     {
       "id": "9ac69460568d04fe",
@@ -159,13 +204,28 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/top-5-bicycle-accessories/top_5_bicycle_accessories_yanko_design_hero.webp",
-        "https://www.yankodesign.com/images/design_news/2018/04/auto-draft/darkside_stool_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/01/mini-pc-with-touchpad-top-should-be-a-cautionary-tale-for-designers/mini-pc-touchpad-surface-05.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/10/auto-draft/yuan_man_ukulele_2.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/07/florus/florus_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/solar-powered-camping-gear-that-actually-work-in-2025/top_7_solar_camping_gear_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-26T01:45:59+00:00"
+    },
+    {
+      "id": "887a11a926d36546",
+      "title": "Step Aside, Hardwood Floors: Here's A Tougher, Cheaper Alternative That Looks Great",
+      "summary": "Hardwood floors have timeless appeal, but another option can offer a similar look while better handling everyday wear, moisture, and a tighter budget.",
+      "url": "https://www.hunker.com/2222091/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/",
+      "image": "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/l-intro-1784965188.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/l-intro-1784965188.jpg",
+        "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/intro-1784965188.jpg",
+        "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/luxury-vinyl-plank-will-save-you-money-without-sacrificing-on-style-1784965189.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-26T01:00:00+00:00"
     },
     {
       "id": "1a1590ba256a9942",
@@ -189,9 +249,7 @@
       "url": "https://www.hunker.com/2219551/countertop-storage-glass-vase-basket-alternative/",
       "image": "https://www.hunker.com/img/gallery/countertop-storage-glass-vase-basket-alternative/l-intro-1784736727.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/countertop-storage-glass-vase-basket-alternative/l-intro-1784736727.jpg",
-        "https://www.hunker.com/img/gallery/countertop-storage-glass-vase-basket-alternative/intro-1784736727.jpg",
-        "https://www.hunker.com/img/gallery/countertop-storage-glass-vase-basket-alternative/how-to-turn-glasses-into-decor-that-also-works-as-countertop-storage-1784736729.jpg"
+        "https://www.hunker.com/img/gallery/countertop-storage-glass-vase-basket-alternative/l-intro-1784736727.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -204,9 +262,7 @@
       "url": "https://www.hunker.com/2214997/cabinets-alternative-creative-way-to-add-bathroom-storage-thrifted-curtain-brackets-stick/",
       "image": "https://www.hunker.com/img/gallery/move-over-cabinets-a-creative-way-to-add-bathroom-storage-with-thrifted-curtain-brackets/l-intro-1784052751.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/move-over-cabinets-a-creative-way-to-add-bathroom-storage-with-thrifted-curtain-brackets/l-intro-1784052751.jpg",
-        "https://www.hunker.com/img/gallery/move-over-cabinets-a-creative-way-to-add-bathroom-storage-with-thrifted-curtain-brackets/intro-1784052751.jpg",
-        "https://www.hunker.com/img/gallery/move-over-cabinets-a-creative-way-to-add-bathroom-storage-with-thrifted-curtain-brackets/hang-curtain-brackets-for-a-bathroom-storage-solution-with-charm-1784052753.jpg"
+        "https://www.hunker.com/img/gallery/move-over-cabinets-a-creative-way-to-add-bathroom-storage-with-thrifted-curtain-brackets/l-intro-1784052751.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -248,9 +304,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/03/02/bug_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/a-chair-for-me-time/botan_chair_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/fossil-furniture-collection-uses-playful-monolithic-designs/fossil-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/04/22/kauri_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/08/16/strucchair_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/06-Honda-Kaibun_luxury-seating-to-amplify-travel-experience.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -263,29 +319,11 @@
       "url": "https://www.homedit.com/many-homeowners-underestimate-what-it-takes-to-remove-a-kitchen-backsplash/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Many-Homeowners-Underestimate-What-It-Takes-to-Remove-a-Kitchen-Backsplash.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Many-Homeowners-Underestimate-What-It-Takes-to-Remove-a-Kitchen-Backsplash.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Material-Is-Making-Its-Way-Into-Every-Part-of-the-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Some-Walls-Go-All-the-Way-to-the-Studs.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Wall-Damage-Can-Spread-Across-the-Backsplash.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Old-Tile-Makes-the-Project-Look-Simple.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Builder-Grade-Oak-Cabinets-Dominated-the-Bathroom.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Many-Homeowners-Underestimate-What-It-Takes-to-Remove-a-Kitchen-Backsplash.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-25T13:11:20+00:00"
-    },
-    {
-      "id": "6cc2198b0f49ad30",
-      "title": "Turn Recyclable Trash Into Useful Countertop Storage With This DIY",
-      "summary": "One person's recycling bin is another person's organizer. The best part? There's no one right way to DIY this storage idea, so you can make it your own.",
-      "url": "https://www.hunker.com/2219496/countertop-storage-diy-recyclable-trash/",
-      "image": "https://www.hunker.com/img/gallery/turn-recyclable-trash-into-useful-countertop-storage-with-this-diy/l-intro-1784630706.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/turn-recyclable-trash-into-useful-countertop-storage-with-this-diy/l-intro-1784630706.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-25T13:00:00+00:00"
     },
     {
       "id": "df1d9ef1cb69d07f",
@@ -408,19 +446,6 @@
       "source": "Bob Vila",
       "source_url": "https://www.bobvila.com",
       "published": "2026-07-24T17:56:26+00:00"
-    },
-    {
-      "id": "59dfcff14d817907",
-      "title": "The Splinter Report: July 24th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re trying to figure out what counts as... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/splinter-report-july-24th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/24102406/splinter-report-7-24.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/24102406/splinter-report-7-24.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-24T16:38:25+00:00"
     },
     {
       "id": "668e3126597733f1",
@@ -556,19 +581,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-07-24T13:00:00+00:00"
-    },
-    {
-      "id": "74d7833d4870334c",
-      "title": "This Simple Deck Restoration Made Old Boards Look New Again",
-      "summary": "Years of sun, rain, dirt, and algae can leave a wood deck looking ready for replacement. Gray boards, dark stains, and weathered grain often make homeowners assume the lumber has reached the end of its life, even when the structure remains sound. Reddit user u/hockeygirlx1 faced the same situation after moving into a home with... The post This Simple Deck Restoration Made Old Boards Look New Again appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-simple-deck-restoration-made-old-boards-look-new-again/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Simple-Deck-Restoration-Made-Old-Boards-Look-New-Again.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Simple-Deck-Restoration-Made-Old-Boards-Look-New-Again.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-24T11:02:56+00:00"
     },
     {
       "id": "d6d8a92db35365ca",
@@ -749,9 +761,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/humanscale-diffrient-lounge-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/02/auto-draft/01_curiositygoround_keigokobayashi_bookcase.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/01/this-furniture-system-can-furnish-your-entire-room-just-by-repurposing-stainless-steel-cable-ties/12_cablefurniture_dawnbysj_swk_customizablefurnituresystem.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/07/these-outdoor-stools-and-table-stack-together-like-a-totem-pole-to-save-space/totem-0.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/02/ford_gt_table_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/03/live-edge-furniture/living_edge_furniture_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/04/fortune-cookie-inspired-wooden-chair-work-pod-that-literally-opens-up-like-a-fortune-cookie/fortune_cookie_furniture_yanko_design_hero.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1219,19 +1231,6 @@
       "published": "2026-07-21T15:53:21+00:00"
     },
     {
-      "id": "9f65cd6864b6ba3a",
-      "title": "Better Vision in the Shop",
-      "summary": "Proper lighting and vision aids can make a woodworking world of difference. Woodworking is a visual art. The capabilities of our eyes and visual system, as well as the quality... Source",
-      "url": "https://www.popularwoodworking.com/techniques/better-vision-in-the-shop-2/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/20143016/1002-vision-3-0970.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/10/20143016/1002-vision-3-0970.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-21T15:23:21+00:00"
-    },
-    {
       "id": "0d6ebd8f86a4aff7",
       "title": "I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned",
       "summary": "From wooden spatulas to cast iron pans, here’s what went right, and where I failed. The post I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned appeared first on Family Handyman .",
@@ -1489,37 +1488,6 @@
       "published": "2026-07-18T09:00:50+00:00"
     },
     {
-      "id": "158286ce05d72595",
-      "title": "Couch already looking faded and saggy? This five-minute weekly habit keeps it looking new for years",
-      "summary": "Your couch is only a few years old, but it already looks a decade older. One cushion sinks when you sit down. The fabric on your usual spot looks faded and a little fuzzy, while the other end still looks almost new. The easy assumption is that you bought a cheap couch, or that this […] The post Couch already looking faded and saggy? This five-minute weekly habit keeps it looking new for years appeared first on Trendir .",
-      "url": "https://www.trendir.com/couch-already-looking-faded-and-saggy-this-five-minute-weekly-habit-keeps-it-looking-new-for-years/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/07/gray-couch-worn-sagging-middle-of-cushion.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/07/gray-couch-worn-sagging-middle-of-cushion.png",
-        "https://cdn.trendir.com/wp-content/uploads/2016/10/Irregular-textile-pattern.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/07/Glass-tile-shower.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/04/Classic-Paver-Retreat.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/09/Dysons-bladeless-fans.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/04/Classic-Garden-Gate-Charm-1.jpg"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-07-17T15:34:33+00:00"
-    },
-    {
-      "id": "a96f83021449537b",
-      "title": "Splinter Report: July 17th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week Collin is away, so he asked me to... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/splinter-report-july-17th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-17T14:10:52+00:00"
-    },
-    {
       "id": "d395182f2a267a82",
       "title": "The Forgotten Piece of Dining Room Furniture Designers Never Abandoned",
       "summary": "For decades, the standard dining set meant a table surrounded by matching chairs. Benches gradually disappeared from many homes, becoming associated with picnic tables, entryways, or casual breakfast nooks instead of formal dining rooms. Furniture collections tell a different story. Across modern dining displays, benches appear beside rectangular, oval, and even round tables, often replacing... The post The Forgotten Piece of Dining Room Furniture Designers Never Abandoned appeared first on Homedit .",
@@ -1637,19 +1605,6 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-07-16T19:46:56+00:00"
-    },
-    {
-      "id": "2415d48aa87c549b",
-      "title": "Mahogany Entry Table",
-      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
-      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-16T18:43:10+00:00"
     },
     {
       "id": "1f64536b0965d068",
@@ -2246,19 +2201,6 @@
       "published": "2026-07-05T19:03:02+00:00"
     },
     {
-      "id": "0f52eecbb8e12b33",
-      "title": "Quick Takes With: Noam Dvir",
-      "summary": "BOND, a clever acronym for “Bureau of Noam and Daniel”, is a Manhattan-based architecture and interior design studio from the creative minds of Noam Dvir and Daniel Rauchwerger. Since launching their firm in 2019, the “partners in practice and life” have carved a niche for themselves as the must-hire designers for art world clients and […]",
-      "url": "https://www.remodelista.com/posts/quick-takes-noam-dvir/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2025/04/DSC_7191.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2025/04/DSC_7191.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-05T08:00:23+00:00"
-    },
-    {
       "id": "c6426737a2cbb567",
       "title": "Adinne chair by True Design among five new products on Dezeen Showroom",
       "summary": "Dezeen Showroom: a chair made from leather and wood designed to reference hand sketches is among five new products featured on Dezeen Showroom. Adinne chair by Leonardo Rossano for True Design Solid wood and leather meet in this minimal and angular chair created by designer Leonardo Rossano for True Design. The Adinne chair draws on the The post Adinne chair by True Design among five new products on Dezeen Showroom appeared first on Dezeen .",
@@ -2425,19 +2367,6 @@
       "published": "2026-06-26T07:17:47+00:00"
     },
     {
-      "id": "97729d8b1bf067d3",
-      "title": "6-Drawer Storage Cabinet",
-      "summary": "Organize your workspace with a handsome six-drawer cabinet. This handsome little cabinet just might solve the universal problem of never having enough drawer space. Small enough to tuck under a... Source",
-      "url": "https://www.popularwoodworking.com/projects/office-cabinet/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-25T16:02:00+00:00"
-    },
-    {
       "id": "cddba30ab34372c1",
       "title": "Ask the Experts: Just How Bad Are Conventional Lawn Maintenance Practices?",
       "summary": "This is part of a series with Perfect Earth Project, a nonprofit dedicated to ecological gardening, on how you can be more sustainable in your landscapes at home. We’ve all seen the artificially “perfect” lawn, the pesticide signs, volcanos of mulch, the shrubs shorn so tightly nothing moves in the wind. This quest for order and […]",
@@ -2475,19 +2404,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-24T17:00:31+00:00"
-    },
-    {
-      "id": "ba3f2395f6af4abb",
-      "title": "Secessionist references weave through Vienna's Wilde aparthotel",
-      "summary": "Interior design studio Stephanie Barba Mendoza looked to Vienna's artistic past to devise the communal spaces of this aparthotel, which takes over a 19th-century post office in the Austrian capital. The landmark post office building was constructed in Vienna's Fleischmarkt district in 1854 and stayed in operation for 150 years, during which the city gave The post Secessionist references weave through Vienna's Wilde aparthotel appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/24/wilde-aparthotel-vienna-stephanie-barba-mendoza/",
-      "image": "http://static.dezeen.com/uploads/2026/06/wilde-vienna-fleischmarkt-aparthotels-interiors-stephanie-barba-mendoza_dezeen_sq-1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/wilde-vienna-fleischmarkt-aparthotels-interiors-stephanie-barba-mendoza_dezeen_sq-1.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-24T05:00:25+00:00"
     },
     {
       "id": "694d12fa01721b4a",
