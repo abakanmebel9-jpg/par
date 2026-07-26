@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-26T10:09:11.753216+00:00",
-  "generated_at_human": "2026-07-26 10:09 UTC",
-  "total_items": 224,
+  "generated_at": "2026-07-26T12:12:05.589891+00:00",
+  "generated_at_human": "2026-07-26 12:12 UTC",
+  "total_items": 220,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
@@ -40,7 +40,8 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
-    "Remodelista",
+    "Popular Woodworking",
+    "Popular Woodworking projects",
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
@@ -55,7 +56,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 49,
+  "sources_count": 50,
   "multi_photo_items": 53,
   "items": [
     {
@@ -66,8 +67,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=27292",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=81238",
+        "https://i.archi.ru/i/1262/305304.jpg?r=51824",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=66075",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -102,7 +103,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=87253",
+        "https://i.archi.ru/i/1262/125532.jpg?r=38521",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -110,6 +111,36 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "f8e930a440d5cb98",
+      "title": "An Antique Kitchen Staple Is The Solution To Declutter Bedside Tabletops",
+      "summary": "One look at this antique find and you might think it doesn't belong in your bedroom. However, a bit of customization can make it the perfect bedside decoration.",
+      "url": "https://www.hunker.com/2219785/antique-recipe-box-upcycled-bedside-storage-to-declutter/",
+      "image": "https://www.hunker.com/img/gallery/antique-recipe-box-upcycled-bedside-storage-to-declutter/l-intro-1784798056.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/antique-recipe-box-upcycled-bedside-storage-to-declutter/l-intro-1784798056.jpg",
+        "https://www.hunker.com/img/gallery/antique-recipe-box-upcycled-bedside-storage-to-declutter/intro-1784798056.jpg",
+        "https://www.hunker.com/img/gallery/antique-recipe-box-upcycled-bedside-storage-to-declutter/how-to-repurpose-an-antique-recipe-box-into-beside-storage-1784798058.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-26T11:00:00+00:00"
+    },
+    {
+      "id": "cf659ed6fb1fb40d",
+      "title": "Skip The Traditional Soap Dish: A Clever Dollar Tree DIY Looks More High End",
+      "summary": "If you're looking for a new soap dish for your bathroom, why not make one yourself with this item from Dollar Tree? Here's how to recreate it at home.",
+      "url": "https://www.hunker.com/2220743/dollar-tree-diy-soap-dish-mini-wooden-pallet/",
+      "image": "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/l-intro-1784738968.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/l-intro-1784738968.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/intro-1784738968.jpg",
+        "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/turn-a-mini-wooden-pallet-into-a-fancy-looking-soap-dish-you-love-1784738970.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-26T10:00:00+00:00"
     },
     {
       "id": "d8f137ec2de83e57",
@@ -138,7 +169,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T09:00:50+00:00"
     },
@@ -219,9 +250,7 @@
       "url": "https://www.hunker.com/2222091/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/",
       "image": "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/l-intro-1784965188.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/l-intro-1784965188.jpg",
-        "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/intro-1784965188.jpg",
-        "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/luxury-vinyl-plank-will-save-you-money-without-sacrificing-on-style-1784965189.jpg"
+        "https://www.hunker.com/img/gallery/luxury-vinyl-plank-floors-cheaper-tougher-hardwood-alternative/l-intro-1784965188.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -234,9 +263,7 @@
       "url": "https://www.hunker.com/2218906/skip-paint-update-old-cabinets-replace-face-frame-doors/",
       "image": "https://www.hunker.com/img/gallery/skip-paint-update-old-cabinets-replace-face-frame-doors/l-intro-1784721565.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/skip-paint-update-old-cabinets-replace-face-frame-doors/l-intro-1784721565.jpg",
-        "https://www.hunker.com/img/gallery/skip-paint-update-old-cabinets-replace-face-frame-doors/intro-1784721565.jpg",
-        "https://www.hunker.com/img/gallery/skip-paint-update-old-cabinets-replace-face-frame-doors/what-to-consider-when-replacing-cabinet-doors-1784721567.jpg"
+        "https://www.hunker.com/img/gallery/skip-paint-update-old-cabinets-replace-face-frame-doors/l-intro-1784721565.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -304,9 +331,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/04/22/kauri_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/08/16/strucchair_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/06-Honda-Kaibun_luxury-seating-to-amplify-travel-experience.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/07/auto-draft/friday_clamshell_wall_desk_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/02/how-cardbaord-is-changing-product-design/Cardboard-Product_Designs_14.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/02/auto-draft/move_layer_airbus_2.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -448,6 +475,19 @@
       "published": "2026-07-24T17:56:26+00:00"
     },
     {
+      "id": "59dfcff14d817907",
+      "title": "The Splinter Report: July 24th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re trying to figure out what counts as... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/splinter-report-july-24th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/24102406/splinter-report-7-24.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/07/24102406/splinter-report-7-24.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-24T16:38:25+00:00"
+    },
+    {
       "id": "668e3126597733f1",
       "title": "CNC-cut timber modules shape SAGA’s compact summerhouse in denmark",
       "summary": "with EcoNeo, SAGA space architects brings space-habitat thinking back to earth, where every surface has a job. The post CNC-cut timber modules shape SAGA’s compact summerhouse in denmark appeared first on designboom | architecture & design magazine .",
@@ -544,19 +584,6 @@
       "published": "2026-07-24T13:20:42+00:00"
     },
     {
-      "id": "7c86608b8ad03dbf",
-      "title": "This Oversized Bedroom Stopped Feeling Like Empty Space",
-      "summary": "Large bedrooms often promise more possibilities, but they can become some of the hardest rooms to furnish. Standard furniture leaves wide gaps, empty corners, and walls that seem disconnected from the rest of the space. Filling the room with more pieces doesn’t always solve the problem unless each area has a clear purpose. Reddit user... The post This Oversized Bedroom Stopped Feeling Like Empty Space appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-oversized-bedroom-stopped-feeling-like-empty-space/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Design-Choice-Changed-How-This-Oversized-Bedroom-Felt.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/One-Design-Choice-Changed-How-This-Oversized-Bedroom-Felt.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-24T13:16:37+00:00"
-    },
-    {
       "id": "157b13e8b872ea89",
       "title": "Linde table and chair by OUT",
       "summary": "Dezeen Showroom: design brand OUT has released a Berlin-made chair and table set that aims to enhance the comfort and functionality of dining spaces. Berlin-based brand OUT – whose unabbreviated name is Objekte Unserer Tage – describes the Linde chair as having the \"comfort of an armchair, brought to the dining table\". Each of its The post Linde table and chair by OUT appeared first on Dezeen .",
@@ -623,19 +650,6 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-07-24T08:07:30+00:00"
-    },
-    {
-      "id": "892f12dd2a95f409",
-      "title": "Elegant Simplicity: A New Line of Japanese Linens for the Kitchen and Elsewhere",
-      "summary": "Ask me what object in my kitchen brings me daily joy, and I’ll tell you: my set of practical yet delicate stacking glasses by Kinto in Japan. Up until recently, Kinto has made stellar drinkware and tumblers—but now they’ve added a new offering to their collections: kitchen textiles and linens that are as elegant yet […]",
-      "url": "https://www.remodelista.com/posts/kinto-futo-japanese-kitchen-linens/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/07/futo-waffle-cloth-2.jpeg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/07/futo-waffle-cloth-2.jpeg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-24T08:00:15+00:00"
     },
     {
       "id": "98b0ca3ee0d1df04",
@@ -902,19 +916,6 @@
       "published": "2026-07-23T08:05:46+00:00"
     },
     {
-      "id": "acba3893f3ca4ded",
-      "title": "Kitchen of the Week: Base Cabinets by Ikea, Chic and Colorful Doors by Reform",
-      "summary": "If we were to describe this kitchen using words only and no images, you’d be forgiven if the word “tacky” comes to mind. Let’s give it a try: This kitchen in Berlin features minimalist cabinets with fronts in a variety of colors—red, green, orange, white, and blue. See what we mean? Fortunately, we have images […]",
-      "url": "https://www.remodelista.com/posts/kitchen-week-base-cabinets-ikea-colorful-doors-match-reform/",
-      "image": "https://www.remodelista.com/wp-content/uploads/2021/03/reform-kitchen-berlin-colorful-cabinets-match3.jpg",
-      "images": [
-        "https://www.remodelista.com/wp-content/uploads/2021/03/reform-kitchen-berlin-colorful-cabinets-match3.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-23T08:00:57+00:00"
-    },
-    {
       "id": "c408f08bd1b0d27d",
       "title": "Statement Dining Table Bases Are Replacing Four Traditional Legs",
       "summary": "Marble, wood, and glass still dominate dining table surfaces, but designers have shifted much of the visual interest below them. Instead of relying on four matching legs, many new tables feature sculptural pedestals, intersecting frames, geometric supports, and architectural bases that become the room’s focal point before anyone notices the tabletop. The result changes how... The post Statement Dining Table Bases Are Replacing Four Traditional Legs appeared first on Homedit .",
@@ -1086,32 +1087,6 @@
       "published": "2026-07-22T10:00:33+00:00"
     },
     {
-      "id": "c641918c090f36dc",
-      "title": "Norwegian Wood: Restoring Hotel Sundal, an 1889 Timber Hotel in Western Norway",
-      "summary": "In 2018, Caroline Steine and Harald Andreassen left the city to take on an unlikely project: restoring Hotel Sundal, an 1889 timber hotel that had sat empty for years in western Norway’s Hardanger region. Originally built by Erik Gausvik and Anna Eikenes, early pioneers of glacier tourism, the hotel once welcomed European aristocracy, emperors, and […]",
-      "url": "https://www.remodelista.com/posts/hotel-sundal-norway/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/07/hotel-sundal-exterior-1.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/07/hotel-sundal-exterior-1.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-22T10:00:32+00:00"
-    },
-    {
-      "id": "04c1c7756eda75e5",
-      "title": "10 Easy Pieces: Versatile Cake Stands",
-      "summary": "Few household objects seem quite so optimistic as a cake stand. Most days it’s home to fruit or pastries, lending a little height to the kitchen counter. Then, once or twice a year, it fulfills its intended purpose—and reminds you why every home should have one. After all, every cake deserves a pedestal. For more […]",
-      "url": "https://www.remodelista.com/posts/10-easy-pieces-versatile-cake-stands/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/07/ann-demeulemeester-cake-stand-off-white.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/07/ann-demeulemeester-cake-stand-off-white.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-22T08:00:49+00:00"
-    },
-    {
       "id": "89a3789addc1f0e5",
       "title": "The Garden Decoder: What Is ‘Live Willow Weaving’?",
       "summary": "When we caught a glimpse of the garden for sculptor David Harber at the Chelsea Flower Show, we instantly wanted to know more. The camera panned past what appeared to be a living fence. We weren’t the only ones who were intrigued by Hollander Design’s willow weaving project: An earlier video on Instagram racked up […]",
@@ -1231,6 +1206,19 @@
       "published": "2026-07-21T15:53:21+00:00"
     },
     {
+      "id": "9f65cd6864b6ba3a",
+      "title": "Better Vision in the Shop",
+      "summary": "Proper lighting and vision aids can make a woodworking world of difference. Woodworking is a visual art. The capabilities of our eyes and visual system, as well as the quality... Source",
+      "url": "https://www.popularwoodworking.com/techniques/better-vision-in-the-shop-2/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/20143016/1002-vision-3-0970.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2021/10/20143016/1002-vision-3-0970.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-21T15:23:21+00:00"
+    },
+    {
       "id": "0d6ebd8f86a4aff7",
       "title": "I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned",
       "summary": "From wooden spatulas to cast iron pans, here’s what went right, and where I failed. The post I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned appeared first on Family Handyman .",
@@ -1286,19 +1274,6 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-07-21T08:00:50+00:00"
-    },
-    {
-      "id": "d864e0764a6225da",
-      "title": "Remodelista Reconnaissance: A Woven Pendant Light in a Paris Pied à Terre",
-      "summary": "Today we’re diving into the details behind the statement-making hanging light spotted in a reader favorite: Architectural Feats in a Paris Duplex. Where to source the minimal color-blocked design? Read on. The Sighting The Source The fixture is also reminiscent of another light style we love: the string lamp. (See String Theory: Four Young Designers […]",
-      "url": "https://www.remodelista.com/posts/woven-pendant-light-paris-remodelista-reconnaissance/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2022/05/heju-architecture-paris-kitchen-cover.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2022/05/heju-architecture-paris-kitchen-cover.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-21T08:00:09+00:00"
     },
     {
       "id": "1565cf9e9c990049",
@@ -1382,19 +1357,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-07-20T15:00:00+00:00"
-    },
-    {
-      "id": "d4f64d087c3c766c",
-      "title": "The Refresh: 5 Things I’m Coveting for My Summer Bedroom",
-      "summary": "To me, the ideal summer bedroom is all about simplicity: windows open, crisp sheets, and a light for those of us (me) who want to stay up and read into the night. I’ve been wanting to make a few small tweaks to make my own bedroom cool and serene for the balance of the summer. […]",
-      "url": "https://www.remodelista.com/posts/summer-bedroom-refresh-5-finds/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/07/gymax-stacking-stools-bbb.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/07/gymax-stacking-stools-bbb.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-20T08:00:22+00:00"
     },
     {
       "id": "aef125a359ff289a",
@@ -1488,6 +1450,19 @@
       "published": "2026-07-18T09:00:50+00:00"
     },
     {
+      "id": "a96f83021449537b",
+      "title": "Splinter Report: July 17th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week Collin is away, so he asked me to... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/splinter-report-july-17th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-17T14:10:52+00:00"
+    },
+    {
       "id": "d395182f2a267a82",
       "title": "The Forgotten Piece of Dining Room Furniture Designers Never Abandoned",
       "summary": "For decades, the standard dining set meant a table surrounded by matching chairs. Benches gradually disappeared from many homes, becoming associated with picnic tables, entryways, or casual breakfast nooks instead of formal dining rooms. Furniture collections tell a different story. Across modern dining displays, benches appear beside rectangular, oval, and even round tables, often replacing... The post The Forgotten Piece of Dining Room Furniture Designers Never Abandoned appeared first on Homedit .",
@@ -1535,9 +1510,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg"
       ],
       "source": "Interni magazine",
@@ -1607,6 +1582,19 @@
       "published": "2026-07-16T19:46:56+00:00"
     },
     {
+      "id": "2415d48aa87c549b",
+      "title": "Mahogany Entry Table",
+      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
+      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-16T18:43:10+00:00"
+    },
+    {
       "id": "1f64536b0965d068",
       "title": "Lindye Galloway Reimagines Two Upper West Side Penthouses as One Home",
       "summary": "Thoughtful millwork, natural stone, and custom furnishings unify two pre-war Manhattan apartments into a warm, contemporary home for a young family.",
@@ -1649,19 +1637,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-16T11:54:41+00:00"
-    },
-    {
-      "id": "fee209f302669aaf",
-      "title": "Kitchen of the Week: A Pale Pink and Oak Cookspace by a Swedish Kitchen Company",
-      "summary": "Pale peony pink is a surprising color choice in kitchen that takes cues from Brutalism. In the hands of Swedish kitchen company Nordiska Kök, though, it’s genius, calling attention to just how soft and textured concrete can be. How did we never notice before? Join us for a tour of this oak kitchen in a […]",
-      "url": "https://www.remodelista.com/posts/pink-swedish-kitchen-nordiska-kok/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/07/nordiska-kok-pink-kitchen-kristofer-johnsson-1.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/07/nordiska-kok-pink-kitchen-kristofer-johnsson-1.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-16T08:00:01+00:00"
     },
     {
       "id": "35603a625c3eb191",
@@ -1833,19 +1808,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-14T10:43:45+00:00"
-    },
-    {
-      "id": "02b3dcad81ad6ca3",
-      "title": "Remodelista Reconnaissance: A Painted Vase in a Shelter Island Cottage",
-      "summary": "There are many things that appeal to us about the powder room in A Shelter Island Holiday Rental Where Everything Is for Sale. They are as follows: 1. the shiplap walls, 2. the vintage-y latrine with wood seat, 3. the nautical rope loo roll holder, and 4. the handy niche for reading material. And, last […]",
-      "url": "https://www.remodelista.com/posts/favorite-painted-vases-reconnaissance/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/06/dwr-boat-house-shelter-island-13.jpeg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/06/dwr-boat-house-shelter-island-13.jpeg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-14T08:00:21+00:00"
     },
     {
       "id": "c2467bb6ef08e985",
@@ -2032,19 +1994,6 @@
       "published": "2026-07-09T13:00:54+00:00"
     },
     {
-      "id": "7908fb6b9b5fc36b",
-      "title": "Kitchens of the Week: Chef Samin Nosrat’s Characterful Oakland Kitchens",
-      "summary": "If you, like me, were thoroughly charmed by Samin Nosrat’s whole-face smile and bottomless curiosity in her 2018 Netflix series Salt Fat Acid Heat, you’ll be delighted to discover that her home kitchen in Oakland, CA, is as warm and joyful and unpretentious as she is. The Chez Panisse-trained chef and food writer—her latest cookbook, […]",
-      "url": "https://www.remodelista.com/posts/kitchen-week-samin-nosrat-home-test-kitchens/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2025/11/aya-brackett-good-things-samin-nosrat-128.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2025/11/aya-brackett-good-things-samin-nosrat-128.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-09T08:00:00+00:00"
-    },
-    {
       "id": "582d5e3438118126",
       "title": "Lightness with class",
       "summary": "With the dynamically shaped “Little Perillo eco” chair, Züco demonstrates how sustainable thinking has become a natural part of design-conscious furniture – responsible in its use of materials and versatile in its applications.",
@@ -2082,19 +2031,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-08T10:00:50+00:00"
-    },
-    {
-      "id": "34e5cf696ead6cf7",
-      "title": "10 Easy Pieces: Grown-Up Guest Beds",
-      "summary": "I moved from New York to a one-bedroom apartment in San Francisco a while back, and the list of friends that I’ve said “come and stay!” to has been growing and growing. The problem is I don’t like sleeper sofas—and while an air mattress is perfectly fine, there’s something very dorm-like about them. It’s a […]",
-      "url": "https://www.remodelista.com/posts/10-easy-pieces-grown-guest-beds/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2019/02/martina-bautier-guest-bed.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2019/02/martina-bautier-guest-bed.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-08T08:00:10+00:00"
     },
     {
       "id": "944cca6bafc5c894",
@@ -2365,6 +2301,19 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-26T07:17:47+00:00"
+    },
+    {
+      "id": "97729d8b1bf067d3",
+      "title": "6-Drawer Storage Cabinet",
+      "summary": "Organize your workspace with a handsome six-drawer cabinet. This handsome little cabinet just might solve the universal problem of never having enough drawer space. Small enough to tuck under a... Source",
+      "url": "https://www.popularwoodworking.com/projects/office-cabinet/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-06-25T16:02:00+00:00"
     },
     {
       "id": "cddba30ab34372c1",
@@ -2900,11 +2849,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/DIY-Pantry-Cabinet.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/09/DIY-Custom-Barn-Door.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/02/diy-countertop-spice-rack.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
