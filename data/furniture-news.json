@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-26T14:43:01.114619+00:00",
-  "generated_at_human": "2026-07-26 14:43 UTC",
+  "generated_at": "2026-07-26T16:11:43.846810+00:00",
+  "generated_at_human": "2026-07-26 16:11 UTC",
   "total_items": 230,
   "sources_used": [
     "Apartment Therapy",
@@ -24,6 +24,7 @@
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
+    "Dezeen tag offices",
     "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
@@ -57,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
+  "sources_count": 52,
   "multi_photo_items": 53,
   "items": [
     {
@@ -68,8 +69,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=47209",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=7710",
+        "https://i.archi.ru/i/1262/305304.jpg?r=99626",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=74724",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -104,7 +105,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=84168",
+        "https://i.archi.ru/i/1262/125532.jpg?r=66906",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -112,6 +113,19 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "0e4cfb5675726179",
+      "title": "Public Art Company gives its LA studio a \"muppets on acid\" interior",
+      "summary": "A system of curtains divides areas filled with collectible furniture within this compact office, which LA-based Public Art Company has designed for its own team. Public Art Company's studio on Hyperion Avenue in Los Angeles provides the design agency a colourful environment in which to devise and curate large-scale artworks for campuses, developments and public The post Public Art Company gives its LA studio a \"muppets on acid\" interior appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/26/public-art-company-studio-los-angeles/",
+      "image": "http://static.dezeen.com/uploads/2026/07/public-art-company-studio_dezeen_sq1ex.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/public-art-company-studio_dezeen_sq1ex.jpg"
+      ],
+      "source": "Dezeen tag offices",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-26T16:00:27+00:00"
     },
     {
       "id": "9d4daeb1dd56add2",
@@ -222,7 +236,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T09:00:50+00:00"
     },
@@ -326,19 +340,6 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-07-25T20:30:00+00:00"
-    },
-    {
-      "id": "407b9482484cc340",
-      "title": "Move Over, Cabinets: A Creative Way To Add Bathroom Storage With Thrifted Curtain Brackets",
-      "summary": "Curtain brackets are a great thrift store find that can work in your bathroom for a unique DIY way to create extra storage for small items.",
-      "url": "https://www.hunker.com/2214997/cabinets-alternative-creative-way-to-add-bathroom-storage-thrifted-curtain-brackets-stick/",
-      "image": "https://www.hunker.com/img/gallery/move-over-cabinets-a-creative-way-to-add-bathroom-storage-with-thrifted-curtain-brackets/l-intro-1784052751.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/move-over-cabinets-a-creative-way-to-add-bathroom-storage-with-thrifted-curtain-brackets/l-intro-1784052751.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-25T18:00:00+00:00"
     },
     {
       "id": "818bcdaf496875fa",
@@ -2720,7 +2721,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2968,7 +2969,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2999,7 +3000,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
