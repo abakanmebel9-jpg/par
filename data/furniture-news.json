@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-26T16:11:43.846810+00:00",
-  "generated_at_human": "2026-07-26 16:11 UTC",
+  "generated_at": "2026-07-26T18:09:50.594696+00:00",
+  "generated_at_human": "2026-07-26 18:09 UTC",
   "total_items": 230,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
@@ -24,7 +25,6 @@
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
-    "Dezeen tag offices",
     "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
@@ -59,8 +59,26 @@
     "АМДПР"
   ],
   "sources_count": 52,
-  "multi_photo_items": 53,
+  "multi_photo_items": 52,
   "items": [
+    {
+      "id": "e4bd870f91f11b68",
+      "title": "С чистым телом и духом",
+      "summary": "Если кому-то нужны дополнительные поводы съездить в Псков, кроме прекрасной русской архитектуры и историй – одна увлекательнее другой, – то можно добавить к ним банно-ресторанный комплекс «Гельдт», в котором бюро «АРКА ИНТЕРЬЕРЫ» создало удивительно умиротворяющую атмосферу, которой так не хватает в современной жизни.",
+      "url": "https://archi.ru/russia/102542/s-chistym-telom-i-dukhom",
+      "image": "https://i.archi.ru/i/1262/501492.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/501492.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=98871",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=55992",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=31935",
+        "https://i.archi.ru/i/509961.jpg",
+        "https://i.archi.ru/i/1262/509959.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "3fc12d25d0f4b129",
       "title": "Новое время – новый дизайн",
@@ -69,29 +87,11 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=99626",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=74724",
+        "https://i.archi.ru/i/1262/305304.jpg?r=48486",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=12740",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "9da3f6ed36f87872",
-      "title": "Тень как соавтор: архитектура света за пределами фасада",
-      "summary": "Долгое время свет за пределами здания решал одну задачу – подсветить то, что видно лишь днём. Сегодня работа с уличным освещением всё чаще строится по другому принципу: свет не заливает территорию, а выбирает, что показать, а что оставить в тени. Тень становится частью решения, как форма светильника или цветовая температура. На нескольких реализованных проектах, где используется уличное освещение Maytoni, можно увидеть, как по-разному этот принцип работает в исторической среде, в современном ландшафте и в городском общественном пространстве.",
-      "url": "http://archi.ru/tech/news_102436.html",
-      "image": "https://i.archi.ru/i/1262/508536.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/508536.jpg",
-        "http://i.archi.ru/i/1262/508536.jpg",
-        "http://i.archi.ru/i/1262/508533.jpg",
-        "http://i.archi.ru/i/1262/508534.jpg",
-        "http://i.archi.ru/i/1262/508532.jpg",
-        "http://i.archi.ru/i/1262/508535.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -105,12 +105,25 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=66906",
+        "https://i.archi.ru/i/1262/125532.jpg?r=7935",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
       ],
       "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "9da3f6ed36f87872",
+      "title": "Тень как соавтор: архитектура света за пределами фасада",
+      "summary": "Долгое время свет за пределами здания решал одну задачу – подсветить то, что видно лишь днём. Сегодня работа с уличным освещением всё чаще строится по другому принципу: свет не заливает территорию, а выбирает, что показать, а что оставить в тени. Тень становится частью решения, как форма светильника или цветовая температура. На нескольких реализованных проектах, где используется уличное освещение Maytoni, можно увидеть, как по-разному этот принцип работает в исторической среде, в современном ландшафте и в городском общественном пространстве.",
+      "url": "http://archi.ru/tech/news_102436.html",
+      "image": "https://i.archi.ru/i/1262/508536.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/508536.jpg"
+      ],
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -123,9 +136,24 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/public-art-company-studio_dezeen_sq1ex.jpg"
       ],
-      "source": "Dezeen tag offices",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T16:00:27+00:00"
+    },
+    {
+      "id": "32770eff60084ca7",
+      "title": "Never Get Rid Of Old Laundry Detergent Bottles — Make A Stunning Faux-Stone Vase",
+      "summary": "To turn a laundry detergent bottle into a faux stone vase, you'll need some craft and DIY essentials - plus a kitchen pantry and cleaning staple.",
+      "url": "https://www.hunker.com/2223139/upcycle-laundry-detergent-bottle-diy-faux-stone-vase/",
+      "image": "https://www.hunker.com/img/gallery/never-get-rid-of-old-laundry-detergent-bottles-make-a-stunning-faux-stone-vase/l-intro-1784975020.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/never-get-rid-of-old-laundry-detergent-bottles-make-a-stunning-faux-stone-vase/l-intro-1784975020.jpg",
+        "https://www.hunker.com/img/gallery/never-get-rid-of-old-laundry-detergent-bottles-make-a-stunning-faux-stone-vase/intro-1784975020.jpg",
+        "https://www.hunker.com/img/gallery/never-get-rid-of-old-laundry-detergent-bottles-make-a-stunning-faux-stone-vase/add-a-stone-look-to-a-diy-laundry-detergent-bottle-vase-1784975022.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-26T16:00:00+00:00"
     },
     {
       "id": "9d4daeb1dd56add2",
@@ -201,9 +229,7 @@
       "url": "https://www.hunker.com/2220743/dollar-tree-diy-soap-dish-mini-wooden-pallet/",
       "image": "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/l-intro-1784738968.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/l-intro-1784738968.jpg",
-        "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/intro-1784738968.jpg",
-        "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/turn-a-mini-wooden-pallet-into-a-fancy-looking-soap-dish-you-love-1784738970.jpg"
+        "https://www.hunker.com/img/gallery/dollar-tree-diy-soap-dish-mini-wooden-pallet/l-intro-1784738968.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -236,7 +262,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T09:00:50+00:00"
     },
@@ -294,9 +320,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/06/18/talisman_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/09/27/ease_machine.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/638102/Clay-Cooler_Sustainable_Cooling-Solution_9.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/05/625686/design_mindset_ep_22_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/08/273026/08-pulley_lamp_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/06/style/STYLE-Pocket-Fan-Details.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -329,19 +355,6 @@
       "published": "2026-07-25T22:00:00+00:00"
     },
     {
-      "id": "b41de0f6e954bca4",
-      "title": "Not Baskets, Not Bins: The Easy Countertop Storage Solution That Doubles As Decor",
-      "summary": "This simple container is easy to find, instantly elevates your countertop, and keeps everyday essentials within reach with a touch of class.",
-      "url": "https://www.hunker.com/2219551/countertop-storage-glass-vase-basket-alternative/",
-      "image": "https://www.hunker.com/img/gallery/countertop-storage-glass-vase-basket-alternative/l-intro-1784736727.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/countertop-storage-glass-vase-basket-alternative/l-intro-1784736727.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-25T20:30:00+00:00"
-    },
-    {
       "id": "818bcdaf496875fa",
       "title": "Japanese Designer Built Furniture With No Glue or Screws",
       "summary": "Japanese Designer Built Furniture With No Glue or Screws Most furniture is held together by things you can’t see. Mortise-and-tenon joints, steel brackets, wood glue applied in generous amounts before being clamped overnight. The...",
@@ -351,9 +364,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/kabinett/kabinett_adea_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/twig-seating/twig_seating_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/10/draft-rjr-chair/rjr_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/06/auto-draft/mua_lua_lounge_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/grid-modular-sound-system-also-doubles-as-modern-art/grid-010.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/05/07/expormim_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -795,9 +808,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/humanscale-diffrient-lounge-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/beatbots-aquasense-x-proves-the-best-technology-goes-unnoticed/Beatbot_AquaSense_X_Robotic_Pool_Cleaning_System.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/school-desk-reimagined-as-a-colorful-light-and-fun-pieces-to-light-up-rural-classrooms/clever-desk-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/01/this-minimalist-furniture-set-can-keep-your-stuff-germ-free-and-charge-your-phones-too/wits-roll-stool-1-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/07/08/ionicbench01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/08/the-future-of-an-executive-office-is-a-work-desk-fostering-self-fulfillment-and-professionalism-coalesce/Pallas-Executive-Work-Station-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/01/the-superglue-chair-revisits-how-chairs-should-be-perceived/superglue_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/10/this-modular-furniture-made-from-biodegradable-materials-can-be-a-lounger-center-table-or-side-bench/Folding-shape-shifting-furniture_cork_sustainable_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1688,24 +1701,6 @@
       "published": "2026-07-16T17:52:29+00:00"
     },
     {
-      "id": "2b948badbd4aa5aa",
-      "title": "On the Couch with Mafalda Arrivabene",
-      "summary": "As the Venetian creative joins her father’s glassware business, she shares her go-to escapes, shopping recommendations, and favorite sofa (at the family palazzo, no less).",
-      "url": "https://www.elledecor.com/life-culture/a72076000/mafalda-arrivabene-giberto-venezia/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/22bfd071-bac2-4ac2-beb8-ac94b0864b83.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/22bfd071-bac2-4ac2-beb8-ac94b0864b83.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/e7d5061b-159b-4406-867d-7a0bfbd0dd0a.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/7fe6d03f-cb1e-4cfb-b7eb-5537e3f8062c.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/fe40540f-1e84-4866-bfea-e0a5378a511f.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/6a715dc3-5af3-47e9-a49f-de488faf3a7b.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/a995f2c4-7cfb-44ac-8452-eef06baea0c7.jpg"
-      ],
-      "source": "Elle Decor",
-      "source_url": "https://www.elledecor.com",
-      "published": "2026-07-16T16:50:19+00:00"
-    },
-    {
       "id": "a20c5a787e35b01e",
       "title": "Storage Is Moving From Furniture to the Walls",
       "summary": "Large bookcases, entertainment centers, and standalone sideboards are giving way to modular wall systems that combine shelving, cabinets, and display space in a single installation. Instead of filling rooms with separate furniture pieces, designers are using vertical surfaces to organize books, media equipment, dining essentials, and decorative collections while preserving valuable floor space. The examples... The post Storage Is Moving From Furniture to the Walls appeared first on Homedit .",
@@ -2482,7 +2477,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/06/azteca-stadium-interior-renovation-mexico-_dezeen_2364_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-24T17:00:31+00:00"
     },
@@ -2721,7 +2716,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2969,7 +2964,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -2981,11 +2976,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/DIY-Pantry-Cabinet.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/09/DIY-Custom-Barn-Door.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/02/diy-countertop-spice-rack.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3000,7 +2995,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
