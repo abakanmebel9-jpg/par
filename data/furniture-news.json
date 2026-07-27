@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-27T17:51:50.814640+00:00",
-  "generated_at_human": "2026-07-27 17:51 UTC",
-  "total_items": 233,
+  "generated_at": "2026-07-27T19:49:30.046855+00:00",
+  "generated_at_human": "2026-07-27 19:49 UTC",
+  "total_items": 234,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -46,11 +46,11 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
-    "Sleeper magazine",
     "Stylepark DE",
     "Trendir",
     "Trendir furniture",
     "Trendir interiors",
+    "Veranda",
     "Wallpaper",
     "Woodshop News",
     "Yanko Design",
@@ -60,7 +60,7 @@
     "АМДПР"
   ],
   "sources_count": 53,
-  "multi_photo_items": 54,
+  "multi_photo_items": 55,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -70,9 +70,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=97004",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=43595",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=44055",
+        "https://i.archi.ru/i/1262/305304.jpg?r=17682",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=8393",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=31737",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -81,18 +81,17 @@
       "published": ""
     },
     {
-      "id": "3fc12d25d0f4b129",
-      "title": "Новое время – новый дизайн",
-      "summary": "Время диктует... Но может ли кто-то диктовать что-то времени? Например, в каком дизайне оно должно представать перед покупателями его компактной версии? Sinitsa Buro отважилось на эксперимент и представило своё видение в интерьере магазина часов Tempus.",
-      "url": "https://archi.ru/russia/102493/novoe-vremya-novyi-dizain",
-      "image": "https://i.archi.ru/i/1262/502414.jpg",
+      "id": "918c53a61ca0177f",
+      "title": "Жирафы и игрушки, фасады и подушки",
+      "summary": "В Гатчине выбрали лучшие проекты фасадов для детского сада. В конкурсе для студентов и молодых архитекторов победу одержала концепция, созданная вокруг образа жирафа. Ее автор, Анастасия Дзюрбей из Санкт-Петербургского архитектурно-строительного университета, предложила лаконичный образ дружелюбного и легко узнаваемого персонажа, который хорошо считывается детьми разного возраста. Показываем проекты победителей.",
+      "url": "https://archi.ru/russia/102545/zhirafy-i-igrushki-fasady-i-podushki",
+      "image": "https://i.archi.ru/i/1262/509983.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=34394",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=89567",
-        "https://i.archi.ru/i/1262/502411.jpg",
-        "https://i.archi.ru/i/1262/502413.jpg",
-        "https://i.archi.ru/i/1262/502419.jpg"
+        "https://i.archi.ru/i/1262/509983.jpg",
+        "https://i.archi.ru/i/496807.jpg",
+        "https://i.archi.ru/i/1262/509982.jpg",
+        "https://i.archi.ru/i/1262/509981.jpg",
+        "https://i.archi.ru/i/1262/509980.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -106,12 +105,25 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=94227",
+        "https://i.archi.ru/i/1262/125532.jpg?r=15182",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
       ],
       "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "3fc12d25d0f4b129",
+      "title": "Новое время – новый дизайн",
+      "summary": "Время диктует... Но может ли кто-то диктовать что-то времени? Например, в каком дизайне оно должно представать перед покупателями его компактной версии? Sinitsa Buro отважилось на эксперимент и представило своё видение в интерьере магазина часов Tempus.",
+      "url": "https://archi.ru/russia/102493/novoe-vremya-novyi-dizain",
+      "image": "https://i.archi.ru/i/1262/502414.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/502414.jpg"
+      ],
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -127,6 +139,37 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "86626b097c480b3f",
+      "title": "How to Choose and Care for Teak Outdoor Furniture That Lasts for Decades",
+      "summary": "Wood outdoor furniture can quickly become a maintenance headache, but teak can last decades with little upkeep.",
+      "url": "https://www.veranda.com/shopping/furniture/a62765681/best-teak-outdoor-patio-furniture/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-pool-pavilion-691cda0ec8287.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-pool-pavilion-691cda0ec8287.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/gil-schafer-maine-house-tour-dining-porch-jpg-1623352938.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-loggia-living-area-691cdc4e21e98.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/sutherland-dallas-home-loggia-67ab970e3ed67.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/mcgregor-nantucket-sunroom-mckendree-669181ce6d65c.png",
+        "https://hips.hearstapps.com/hmg-prod/images/middleburg-virginia-nv22110201v-043-6874141506e8a.jpg"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-07-27T18:59:00+00:00"
+    },
+    {
+      "id": "7237951f3202f1d0",
+      "title": "Charred wood gives Vermont house a \"bark-like exterior\"",
+      "summary": "American studio Elizabeth Herrmann Architecture + Design has used burnt-cedar cladding to help the Milo House blend with the wooded terrain in rural Vermont. Located in the town of Cornwall, the house was designed for a couple and their dog, Milo, who were relocating from Boston. The verdant area offers orchards, woods and distant views The post Charred wood gives Vermont house a \"bark-like exterior\" appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/27/milo-house-vermont-elizabeth-herrmann-architecture-design/",
+      "image": "http://static.dezeen.com/uploads/2026/07/milo-house-vermont-elizabeth-herrmann-architecture-design_dezeen_2364_col_0-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/milo-house-vermont-elizabeth-herrmann-architecture-design_dezeen_2364_col_0-1.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-27T17:00:51+00:00"
     },
     {
       "id": "6d1ac7ca0d477bd6",
@@ -173,6 +216,21 @@
       "published": "2026-07-27T15:45:00+00:00"
     },
     {
+      "id": "786980edd977d2bc",
+      "title": "Skip Paint: There's A Better Way To Make A Dated Coffee Table Look Chic",
+      "summary": "You don't have to say goodbye to that dated coffee table; one TikTok user has the perfect method for bringing your furniture back to life - without paint.",
+      "url": "https://www.hunker.com/2216376/skip-paint-update-coffee-table-gel-stain-chic/",
+      "image": "https://www.hunker.com/img/gallery/skip-paint-update-coffee-table-gel-stain-chic/l-intro-1785141115.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/skip-paint-update-coffee-table-gel-stain-chic/l-intro-1785141115.jpg",
+        "https://www.hunker.com/img/gallery/skip-paint-update-coffee-table-gel-stain-chic/intro-1785141115.jpg",
+        "https://www.hunker.com/img/gallery/skip-paint-update-coffee-table-gel-stain-chic/how-to-use-a-gel-stain-to-transform-a-dated-coffee-table-1785141117.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-27T15:30:00+00:00"
+    },
+    {
       "id": "9c6a071aa9d4dc2d",
       "title": "Nanoleaf’s Smart LED Monitor Stand brings ambient lighting and desk organization together",
       "summary": "Nanoleaf’s Smart LED Monitor Stand brings ambient lighting and desk organization together Nanoleaf has expanded its ecosystem with a Smart LED Monitor Stand that combines ergonomic monitor elevation, workspace organization, and customizable lighting in one. Developed in...",
@@ -184,6 +242,21 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-27T15:20:48+00:00"
+    },
+    {
+      "id": "1b753d4bbe34f970",
+      "title": "She Uses A Dollar Tree Dryer Sheet Holder For Smart Kitchen Cabinet Storage",
+      "summary": "This clever organizing hack keeps kitchen towels, sponges, and plenty of other everyday essentials neatly tucked away without taking up valuable space.",
+      "url": "https://www.hunker.com/2217480/dollar-tree-dryer-sheet-holder-kitchen-towel-cabinet-storage/",
+      "image": "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/l-intro-1784298114.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/l-intro-1784298114.jpg",
+        "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/intro-1784298114.jpg",
+        "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/ways-to-repurpose-a-dryer-sheet-holder-for-kitchen-storage-1784298116.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-27T15:00:00+00:00"
     },
     {
       "id": "378ceb99f6a430ce",
@@ -261,21 +334,6 @@
       "published": "2026-07-27T13:43:48+00:00"
     },
     {
-      "id": "59658d80c1fb9153",
-      "title": "Not Cabinets Or Drawers: A More Creative Way To Store Coffee Filters & Save Space",
-      "summary": "If you're a coffee drinker, you likely use a filter nearly every day. With this simple and creative DIY, you can store them neatly and within easy reach.",
-      "url": "https://www.hunker.com/2215919/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/",
-      "image": "https://www.hunker.com/img/gallery/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/l-intro-1785136764.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/l-intro-1785136764.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/intro-1785136764.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/make-a-stylish-coffee-filter-holder-out-of-a-small-piece-of-wood-1785136766.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-27T12:00:00+00:00"
-    },
-    {
       "id": "2ded5bfa65a59e20",
       "title": "Green and White Paint Transformed This ’80s Kitchen for Just $300",
       "summary": "Plus, this first-time cabinet painter has some great DIY tips for getting the job done. READ MORE...",
@@ -286,6 +344,19 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-27T12:00:00+00:00"
+    },
+    {
+      "id": "59658d80c1fb9153",
+      "title": "Not Cabinets Or Drawers: A More Creative Way To Store Coffee Filters & Save Space",
+      "summary": "If you're a coffee drinker, you likely use a filter nearly every day. With this simple and creative DIY, you can store them neatly and within easy reach.",
+      "url": "https://www.hunker.com/2215919/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/",
+      "image": "https://www.hunker.com/img/gallery/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/l-intro-1785136764.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/l-intro-1785136764.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
       "published": "2026-07-27T12:00:00+00:00"
     },
     {
@@ -556,10 +627,7 @@
       "url": "https://www.hunker.com/2221648/air-fryer-fad-most-used-kitchen-appliance/",
       "image": "https://www.hunker.com/img/gallery/air-fryer-fad-most-used-kitchen-appliance/l-intro-1784875867.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/air-fryer-fad-most-used-kitchen-appliance/l-intro-1784875867.jpg",
-        "https://www.hunker.com/img/gallery/air-fryer-fad-most-used-kitchen-appliance/intro-1784875867.jpg",
-        "https://www.hunker.com/img/gallery/air-fryer-fad-most-used-kitchen-appliance/where-the-air-fryer-started-1784875869.jpg",
-        "https://www.hunker.com/img/gallery/air-fryer-fad-most-used-kitchen-appliance/air-fryers-could-become-more-used-than-staple-appliances-1784875870.jpg"
+        "https://www.hunker.com/img/gallery/air-fryer-fad-most-used-kitchen-appliance/l-intro-1784875867.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -574,7 +642,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/07/638137/Portable-Architecture_Tiny-Homes_Folding_26.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-26T23:30:05+00:00"
     },
@@ -715,9 +783,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/auto-draft/cdkm_flarix_pro_electric_moka_pot_1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2017/06/sonicam-makes-you-the-spielberg-of-vr/sonicam_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/04/28/dr_hard_drive_bag.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/03/13/spider.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/09/awekeys-full-metal-keycaps-set-turns-any-mechanical-keyboard-into-a-design-object/Full_metal_keys_by_awekeys_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/06/rise_hang_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -733,9 +801,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/05/varhany/varhany_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/09/11/collage_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/12/10/dine_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/08/auto-draft/red_dot_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/eames/Eames-Office-Elephant-Reebok-Cool-Aloe.jpeg",
+        "https://www.yankodesign.com/images/design_news/2017/12/a-chair-for-any-occassion/hybrid_chair_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -860,9 +928,9 @@
       "title": "Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion",
       "summary": "Actor and woodshop proprietor Nick Offerman shares sawdust-laden musings on craftsmanship, creativity and biting off more than he can chew. The post Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/nick-offerman-woodworking-interview/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=700%2C1024",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=700%2C1024"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -873,9 +941,9 @@
       "title": "Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces",
       "summary": "Follow along with woodworker and custom furniture maker Lee Buchanan as she tackles a unique Murphy bed makeover. The post Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/lee-buchanan-murphy-bed-build/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=700%2C1024",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=700%2C1024"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -886,9 +954,9 @@
       "title": "Check Out the 75-Year-Old Family Handyman Project That Inspired Our Plywood Challenge",
       "summary": "Inspired by our first issue, we challenged our editors and readers alike to make something amazing from this timeless staple. The post Check Out the 75-Year-Old Family Handyman Project That Inspired Our Plywood Challenge appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/plywood-challenge-inspiration-project/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=700%2C1024",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=700%2C1024"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -1101,19 +1169,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-23T17:20:18+00:00"
-    },
-    {
-      "id": "8937e1667d999d39",
-      "title": "world’s tallest timber tower reaches full height in sydney with design by SHoP and BVN",
-      "summary": "the 39-story, 590 foot-tall tower is designed by SHoP architects and BVN with a hybrid timber structure which rises over sydney, australia. The post world’s tallest timber tower reaches full height in sydney with design by SHoP and BVN appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/worlds-tallest-timber-tower-reaches-full-height-sydney-shop-bvn-australia/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/07/atlassian-shop-worlds-tallest-timber-tower-sydney-australia-topping-out-designboom-700-500x400-22b08q85r077.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/07/atlassian-shop-worlds-tallest-timber-tower-sydney-australia-topping-out-designboom-700-500x400-22b08q85r077.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-07-23T14:52:16+00:00"
     },
     {
       "id": "0927c89c396fccb9",
@@ -1491,9 +1546,9 @@
       "title": "I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned",
       "summary": "From wooden spatulas to cast iron pans, here’s what went right, and where I failed. The post I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/no-plastic-kitchen-lessons/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_Plastic-in-my-Kitchen-for-Less-than_Karuna-Eberl_01_SSedit.jpg?fit=700%2C1024",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_Plastic-in-my-Kitchen-for-Less-than_Karuna-Eberl_01_SSedit.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_Plastic-in-my-Kitchen-for-Less-than_Karuna-Eberl_01_SSedit.jpg?fit=700%2C1024"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_Plastic-in-my-Kitchen-for-Less-than_Karuna-Eberl_01_SSedit.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -1525,19 +1580,6 @@
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
       "published": "2026-07-21T10:00:00+00:00"
-    },
-    {
-      "id": "ef305fbba91dcb87",
-      "title": "Holloway Li channels 1960s glamour at Locke London Canary Wharf",
-      "summary": "Locke London Canary Wharf has opened its doors with Mid-Century interiors by Holloway Li. Drawing from the studio’s characteristic design […] The post Holloway Li channels 1960s glamour at Locke London Canary Wharf appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-21T08:00:50+00:00"
     },
     {
       "id": "d864e0764a6225da",
@@ -1757,8 +1799,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
@@ -1806,9 +1848,9 @@
       "title": "This DIYer Turned Their Ordinary Bathroom Into a Lush Secret Garden Paradise",
       "summary": "This time on DIY Diaries, follow along with a DIYer who transformed her bathroom into a truly beautiful space. The post This DIYer Turned Their Ordinary Bathroom Into a Lush Secret Garden Paradise appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/secret-garden-bathroom-diy-diaries/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_DIY-Bathroom-Upgrades_courtesy-Sandy-Lin_02_OTedit.jpg?fit=700%2C1024",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_DIY-Bathroom-Upgrades_courtesy-Sandy-Lin_02_OTedit.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_DIY-Bathroom-Upgrades_courtesy-Sandy-Lin_02_OTedit.jpg?fit=700%2C1024"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_DIY-Bathroom-Upgrades_courtesy-Sandy-Lin_02_OTedit.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2168,19 +2210,6 @@
       "published": "2026-07-09T19:00:23+00:00"
     },
     {
-      "id": "bf031a763726e7d2",
-      "title": "Waterworks launches Solid Surface baths collection",
-      "summary": "Waterworks has unveiled a new collection of Solid Surface baths that rethinks how the material is approached for contemporary interiors. […] The post Waterworks launches Solid Surface baths collection appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/products/waterworks-launches-solid-surface-baths-collection/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Cinta.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Cinta.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-09T13:00:54+00:00"
-    },
-    {
       "id": "7908fb6b9b5fc36b",
       "title": "Kitchens of the Week: Chef Samin Nosrat’s Characterful Oakland Kitchens",
       "summary": "If you, like me, were thoroughly charmed by Samin Nosrat’s whole-face smile and bottomless curiosity in her 2018 Netflix series Salt Fat Acid Heat, you’ll be delighted to discover that her home kitchen in Oakland, CA, is as warm and joyful and unpretentious as she is. The Chez Panisse-trained chef and food writer—her latest cookbook, […]",
@@ -2283,19 +2312,6 @@
       "source": "Stylepark DE",
       "source_url": "https://www.stylepark.com",
       "published": "2026-07-06T22:00:00+00:00"
-    },
-    {
-      "id": "558698bad295c194",
-      "title": "I Used to Renovate for Style — Then Something Major Changed My Approach",
-      "summary": "A life-changing surgery turned a routine bathroom remodel into a crash course in accessibility. The post I Used to Renovate for Style — Then Something Major Changed My Approach appeared first on Family Handyman .",
-      "url": "https://www.familyhandyman.com/article/style-vs-accessibility-home-upgrades/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_I-Thought-Home-Upgrades_Laurie-Nichols_01_YVedit.jpg?fit=700%2C1024",
-      "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_I-Thought-Home-Upgrades_Laurie-Nichols_01_YVedit.jpg?fit=700%2C1024"
-      ],
-      "source": "Family Handyman",
-      "source_url": "https://www.familyhandyman.com",
-      "published": "2026-07-06T19:09:53+00:00"
     },
     {
       "id": "7f797c4406190c79",
@@ -3023,11 +3039,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/06/DIY-Modern-Console-Table-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/06/DIY-PAINTED-CABINETS-BY-SHANTY2CHIC.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2019/12/ResideoLive-SavingIda-95.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
