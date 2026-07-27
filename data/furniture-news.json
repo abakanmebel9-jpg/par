@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-27T15:49:35.371756+00:00",
-  "generated_at_human": "2026-07-27 15:49 UTC",
+  "generated_at": "2026-07-27T17:51:50.814640+00:00",
+  "generated_at_human": "2026-07-27 17:51 UTC",
   "total_items": 233,
   "sources_used": [
     "Apartment Therapy",
@@ -17,6 +17,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -50,7 +51,6 @@
     "Trendir",
     "Trendir furniture",
     "Trendir interiors",
-    "Veranda",
     "Wallpaper",
     "Woodshop News",
     "Yanko Design",
@@ -60,7 +60,7 @@
     "АМДПР"
   ],
   "sources_count": 53,
-  "multi_photo_items": 58,
+  "multi_photo_items": 54,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -70,9 +70,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=86763",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=66925",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=63100",
+        "https://i.archi.ru/i/1262/305304.jpg?r=97004",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=43595",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=44055",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -88,8 +88,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=67164",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=84643",
+        "https://i.archi.ru/i/1262/305304.jpg?r=34394",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=89567",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -106,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=36258",
+        "https://i.archi.ru/i/1262/125532.jpg?r=94227",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -127,6 +127,50 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "6d1ac7ca0d477bd6",
+      "title": "Dostea Brings Thoughtful Industrial Design to the Chai Ritual",
+      "summary": "Designed by Analogy Design, the compact countertop tea maker preserves the rituals of traditional chai while rethinking how the beloved drink fits into contemporary kitchens",
+      "url": "https://design-milk.com/dostea-chai-maker-analogy-design/",
+      "image": "https://design-milk.com/images/2026/07/Dostea-1-1.png",
+      "images": [
+        "https://design-milk.com/images/2026/07/Dostea-1-1.png",
+        "https://design-milk.com/images/2026/07/08_Dostea.png",
+        "https://design-milk.com/images/2026/07/05_Dostea-Cardboard-Prototype.png",
+        "https://design-milk.com/images/2026/07/06_Building-the-First-Prototype.png",
+        "https://design-milk.com/images/2026/07/03_Dostea-Details.png",
+        "https://design-milk.com/images/2025/12/2025-Top10-Best-10-Shield-Shelter-Lakeside-Home-Barbora-Vokac-Taylor.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-07-27T16:32:26+00:00"
+    },
+    {
+      "id": "8490c52e24925575",
+      "title": "She Spent 12 Years Bringing a 123-Year-Old Berlin Rental Back to Life",
+      "summary": "A designer spent 12 years restoring this once run-down Berlin rental, preserving its 123-year-old character while filling it with custom furniture, family memories, and treasures collected from around the world. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/123-year-old-berlin-rental-diy-37682677?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/melanie-k/tours-berlin-melanie-k-3",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/melanie-k/tours-berlin-melanie-k-3"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-27T16:00:00+00:00"
+    },
+    {
+      "id": "d8983fbc8a0e45de",
+      "title": "Designer Kristin Keyes Says Secondhand Is the Key to Better Interiors",
+      "summary": "Sustainability doesn’t mean sacrificing style or setting for less — at least when it comes to this pro’s work. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/kristin-keyes-new-next-designer-2026-37682924?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2026/new-next-list/kristin-wiens-keyes/library-area",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2026/new-next-list/kristin-wiens-keyes/library-area"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-27T15:45:00+00:00"
     },
     {
       "id": "9c6a071aa9d4dc2d",
@@ -173,6 +217,21 @@
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
+      "published": "2026-07-27T14:00:00+00:00"
+    },
+    {
+      "id": "833fcbf5e74b44ef",
+      "title": "Porcelain Vs. Quartz Countertops: Which Costs Less?",
+      "summary": "Porcelain and quartz are two popular countertop materials, thanks to their durability. However, considering price, one may be a better option over the other.",
+      "url": "https://www.hunker.com/2221688/porcelain-vs-quartz-countertops-costs-less/",
+      "image": "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/l-intro-1784686949.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/l-intro-1784686949.jpg",
+        "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/intro-1784686949.jpg",
+        "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/other-factors-influencing-the-cost-of-porcelain-and-quartz-countertops-1784686951.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
       "published": "2026-07-27T14:00:00+00:00"
     },
     {
@@ -453,7 +512,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_Casalgrande-Pasana-GHOST-_amb_invisible_marmorker-night-stormmetropolis-greige-dett-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Casalgrande-Padana-ELEMENTS-_amb-4_Essence-Pebbles-blackTexture-antracite-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_Casalgrande-Padana-IMAGINA-_amb_fabricmetro-greystile-black.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Riflessi-Feb26-256.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -526,9 +585,7 @@
       "url": "https://www.hunker.com/2222497/diy-solution-to-cover-windows-above-bedroom-doors-mdf/",
       "image": "https://www.hunker.com/img/gallery/diy-solution-to-cover-windows-above-bedroom-doors-mdf/l-intro-1785031723.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/diy-solution-to-cover-windows-above-bedroom-doors-mdf/l-intro-1785031723.jpg",
-        "https://www.hunker.com/img/gallery/diy-solution-to-cover-windows-above-bedroom-doors-mdf/intro-1785031723.jpg",
-        "https://www.hunker.com/img/gallery/diy-solution-to-cover-windows-above-bedroom-doors-mdf/make-a-wood-transom-window-cover-for-better-light-control-and-privacy-1785031724.jpg"
+        "https://www.hunker.com/img/gallery/diy-solution-to-cover-windows-above-bedroom-doors-mdf/l-intro-1785031723.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -562,9 +619,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/01/epsilon_infinity_pad_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/12/this-oil-lamp-turns-any-space-into-a-sanctuary-with-glow-aroma-and-warmth/oil_lamp_turns_any_space_into_a_sanctuary_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/07/163074/barry_bar_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/08/auto-draft/IKEA-STARKVIND_-Air-Purifier_Home-Appliance__-8.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/auto-draft/lego_ideas_hermes_birkin_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2010/03/16/measuremestick01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -582,19 +639,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T16:00:27+00:00"
-    },
-    {
-      "id": "32770eff60084ca7",
-      "title": "Never Get Rid Of Old Laundry Detergent Bottles — Make A Stunning Faux-Stone Vase",
-      "summary": "To turn a laundry detergent bottle into a faux stone vase, you'll need some craft and DIY essentials - plus a kitchen pantry and cleaning staple.",
-      "url": "https://www.hunker.com/2223139/upcycle-laundry-detergent-bottle-diy-faux-stone-vase/",
-      "image": "https://www.hunker.com/img/gallery/never-get-rid-of-old-laundry-detergent-bottles-make-a-stunning-faux-stone-vase/l-intro-1784975020.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/never-get-rid-of-old-laundry-detergent-bottles-make-a-stunning-faux-stone-vase/l-intro-1784975020.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-26T16:00:00+00:00"
     },
     {
       "id": "07174b15560760df",
@@ -671,9 +715,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/10/a-smoke-free-wood-burner-for-the-ultimate-enjoyment/biolite_firepit_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/03/pumpkin-chair/pumpkin_chair_yanko_design_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/essential-gadgets-for-fall-season-draft/top_10_gadgets_fall_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/12/auto-draft/cdkm_flarix_pro_electric_moka_pot_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2017/06/sonicam-makes-you-the-spielberg-of-vr/sonicam_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/04/28/dr_hard_drive_bag.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -740,19 +784,6 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-24T22:30:31+00:00"
-    },
-    {
-      "id": "98663a828605aba9",
-      "title": "I Added Pops of Color and Storage to My Living Room — It Feels So Much Bigger",
-      "summary": "The before was gray with mostly brown-toned furniture, rugs, and objects that my boyfriend described as “curbside pickups.” READ MORE...",
-      "url": "https://www.apartmenttherapy.com/white-blue-living-room-makeover-4k-dollars-ba-37562304?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-05/robin-h-living-room/robin-h-living-room-before-1-tagged",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-05/robin-h-living-room/robin-h-living-room-before-1-tagged"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-24T22:00:00+00:00"
     },
     {
       "id": "eb661b6a8095316f",
@@ -1502,11 +1533,7 @@
       "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
       "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
       "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2025/09/house-of-gods-london-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/02/Locke-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/06/Novotelcw-1-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-3.jpg"
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg"
       ],
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
@@ -1584,14 +1611,9 @@
       "url": "https://design-milk.com/studio-papayas-sbc-apartment-showcases-small-space-and-smart-design/",
       "image": "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png",
       "images": [
-        "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png",
-        "https://design-milk.com/images/2025/12/SBC-Apartment-Brazil-Studio-Papaya-8.jpg",
-        "https://design-milk.com/images/2025/12/SBC-Apartment-Brazil-Studio-Papaya-21.jpg",
-        "https://design-milk.com/images/2025/12/SBC-Apartment-Brazil-Studio-Papaya-16.jpg",
-        "https://design-milk.com/images/2025/12/SBC-Apartment-Brazil-Studio-Papaya-13.jpg",
-        "https://design-milk.com/images/2025/12/SBC-Apartment-Brazil-Studio-Papaya-12.jpg"
+        "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
       ],
-      "source": "Design Milk",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
     },
@@ -1959,24 +1981,6 @@
       "published": "2026-07-14T20:52:08+00:00"
     },
     {
-      "id": "827759568e4a53f8",
-      "title": "The New Lee Jofa for Weezie Collection Turns Bath Linens Into a Design Statement",
-      "summary": "Heritage prints, plush terry cloth, and customizable monograms make this collaboration feel like a true wardrobe for the bath.",
-      "url": "https://www.veranda.com/shopping/a71918818/lee-jofa-weezie-collection/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0ea15550-d1af-41e9-9675-fcb9bd2830f4.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/0ea15550-d1af-41e9-9675-fcb9bd2830f4.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/479426a9-b65b-47e8-8a2a-0f07cfaca949.png",
-        "https://hips.hearstapps.com/hmg-prod/images/330dba0a-6114-42e0-b55b-aca737313719.png",
-        "https://hips.hearstapps.com/hmg-prod/images/2b7aaf94-ae0f-48b2-ac51-dc16e1946d87.png",
-        "https://hips.hearstapps.com/hmg-prod/images/6de07e80-607b-4f6e-af8a-104bde2ef881.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/4ffac150-3e0b-40bb-b047-46b4fc35593b.jpeg"
-      ],
-      "source": "Veranda",
-      "source_url": "https://www.veranda.com",
-      "published": "2026-07-14T13:00:00+00:00"
-    },
-    {
       "id": "5a47e85b9e306c7c",
       "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
       "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
@@ -2040,24 +2044,6 @@
       "source": "Stylepark DE",
       "source_url": "https://www.stylepark.com",
       "published": "2026-07-13T22:00:00+00:00"
-    },
-    {
-      "id": "07c1b2617fafb2af",
-      "title": "How to Shop Nantucket Like a Designer",
-      "summary": "More than a posh summer paradise, the island is a veritable shopper's playground: Here, designer Meg Braff and local author Elin Hilderbrand share their advice for hitting the scene, where to stay, and much more.",
-      "url": "https://www.veranda.com/shopping/a64984889/best-places-to-shop-in-nantucket/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/769324ac-677b-4cb3-892c-3408ba241f60.jpeg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/769324ac-677b-4cb3-892c-3408ba241f60.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/meg-braff-portrait-6845989b677ec.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/james-robinson-exterior-684597fd4c0ba.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/weatherly-nantucket-684599bb15988.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/eleish-van-breems-nantucket-684597186c232.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/f48a4109-re-68459a79bd8f3.jpg"
-      ],
-      "source": "Veranda",
-      "source_url": "https://www.veranda.com",
-      "published": "2026-07-13T19:07:00+00:00"
     },
     {
       "id": "7f6ff97abfe1b850",
@@ -2188,12 +2174,7 @@
       "url": "https://www.sleepermagazine.com/stories/products/waterworks-launches-solid-surface-baths-collection/",
       "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Cinta.jpg",
       "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Cinta.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-solid-surface-tubs-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2022/08/Tina-Frey-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2021/03/BetteEve-1-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/08/rsz_sleeper_august_2020_copy-1-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Finot-taps.jpg"
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Cinta.jpg"
       ],
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
@@ -3042,11 +3023,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/06/DIY-Modern-Console-Table-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2019/12/ResideoLive-SavingIda-95.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3279,7 +3260,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag bathrooms",
+      "source": "Dezeen tag kitchens",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
