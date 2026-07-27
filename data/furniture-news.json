@@ -1,13 +1,11 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-27T21:20:37.184765+00:00",
-  "generated_at_human": "2026-07-27 21:20 UTC",
-  "total_items": 236,
+  "generated_at": "2026-07-27T23:15:50.602601+00:00",
+  "generated_at_human": "2026-07-27 23:15 UTC",
+  "total_items": 230,
   "sources_used": [
     "Apartment Therapy",
-    "Archi.ru",
-    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -17,7 +15,6 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -60,87 +57,9 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 57,
+  "sources_count": 51,
+  "multi_photo_items": 54,
   "items": [
-    {
-      "id": "e4bd870f91f11b68",
-      "title": "С чистым телом и духом",
-      "summary": "Если кому-то нужны дополнительные поводы съездить в Псков, кроме прекрасной русской архитектуры и историй – одна увлекательнее другой, – то можно добавить к ним возрожденный из руин банно-ресторанный комплекс «Гельдт», в котором бюро «АРКА ИНТЕРЬЕРЫ» создало удивительно умиротворяющую атмосферу, которой так не хватает в современной жизни.",
-      "url": "https://archi.ru/russia/102542/s-chistym-telom-i-dukhom",
-      "image": "https://i.archi.ru/i/1262/501492.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=90918",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=27777",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=13951",
-        "https://i.archi.ru/i/509961.jpg",
-        "https://i.archi.ru/i/1262/509959.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "918c53a61ca0177f",
-      "title": "Жирафы и игрушки, фасады и подушки",
-      "summary": "В Гатчине выбрали лучшие проекты фасадов для детского сада. В конкурсе для студентов и молодых архитекторов победу одержала концепция, созданная вокруг образа жирафа. Ее автор, Анастасия Дзюрбей из Санкт-Петербургского архитектурно-строительного университета, предложила лаконичный образ дружелюбного и легко узнаваемого персонажа, который хорошо считывается детьми разного возраста. Показываем проекты победителей.",
-      "url": "https://archi.ru/russia/102545/zhirafy-i-igrushki-fasady-i-podushki",
-      "image": "https://i.archi.ru/i/1262/509983.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/509983.jpg",
-        "https://i.archi.ru/i/496807.jpg",
-        "https://i.archi.ru/i/1262/509982.jpg",
-        "https://i.archi.ru/i/1262/509981.jpg",
-        "https://i.archi.ru/i/1262/509980.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "e134212964058ea2",
-      "title": "«Зеленые» мечты и спелеологические впечатления",
-      "summary": "Консорциум во главе с MVRDV победил в конкурсе Shift на проект просветительского и гостинично-коммерческого комплекса в Роттердаме, посвященного ресурсоэффективности и охране окружающей среды.",
-      "url": "https://archi.ru/world/102495/zelenye-mechty-i-speleologicheskie-vpechatleniya",
-      "image": "https://i.archi.ru/i/1262/509497.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=63122",
-        "https://i.archi.ru/i/1262/509504.jpg",
-        "https://i.archi.ru/i/458415.png",
-        "https://i.archi.ru/news/main_images/280x280/494340.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "3fc12d25d0f4b129",
-      "title": "Новое время – новый дизайн",
-      "summary": "Время диктует... Но может ли кто-то диктовать что-то времени? Например, в каком дизайне оно должно представать перед покупателями его компактной версии? Sinitsa Buro отважилось на эксперимент и представило своё видение в интерьере магазина часов Tempus.",
-      "url": "https://archi.ru/russia/102493/novoe-vremya-novyi-dizain",
-      "image": "https://i.archi.ru/i/1262/502414.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/502414.jpg"
-      ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "9da3f6ed36f87872",
-      "title": "Тень как соавтор: архитектура света за пределами фасада",
-      "summary": "Долгое время свет за пределами здания решал одну задачу – подсветить то, что видно лишь днём. Сегодня работа с уличным освещением всё чаще строится по другому принципу: свет не заливает территорию, а выбирает, что показать, а что оставить в тени. Тень становится частью решения, как форма светильника или цветовая температура. На нескольких реализованных проектах, где используется уличное освещение Maytoni, можно увидеть, как по-разному этот принцип работает в исторической среде, в современном ландшафте и в городском общественном пространстве.",
-      "url": "http://archi.ru/tech/news_102436.html",
-      "image": "https://i.archi.ru/i/1262/508536.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/508536.jpg"
-      ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
     {
       "id": "a8af0c18ed362af5",
       "title": "5 Collections that Make the Most of Outdoor Living",
@@ -524,19 +443,6 @@
       "published": "2026-07-27T09:04:00+00:00"
     },
     {
-      "id": "d8ea94c97fbcd628",
-      "title": "The €169 Portable Mechanical Keyboard That Makes the Mouse Unnecessary",
-      "summary": "The €169 Portable Mechanical Keyboard That Makes the Mouse Unnecessary The mechanical keyboard market has grown considerably in recent years, but most of the attention still goes to full-size, desk-bound boards that aren’t designed to...",
-      "url": "https://www.yankodesign.com/2026/07/27/the-e169-portable-mechanical-keyboard-that-makes-the-mouse-unnecessary/?utm_source=rss&utm_medium=rss&utm_campaign=the-e169-portable-mechanical-keyboard-that-makes-the-mouse-unnecessary",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/the-e169-portable-mechanical-keyboard-that-makes-the-mouse-unnecessary/mnt-pocket-reform-standalone-keyboard-03.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/the-e169-portable-mechanical-keyboard-that-makes-the-mouse-unnecessary/mnt-pocket-reform-standalone-keyboard-03.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-27T08:45:42+00:00"
-    },
-    {
       "id": "d4c4f726bf0e9f53",
       "title": "Kitchens Are Breaking Up the Wall of Upper Cabinets With a Different Storage Approach",
       "summary": "Upper cabinets once formed an unbroken row above the kitchen counter. Plates went overhead, cookware filled the base cabinets, and any wall left exposed meant giving up storage. These kitchens show a different approach. Some remove upper cabinets for shelves, some shift storage into tall cabinet banks or deep drawers, and others keep upper cabinets... The post Kitchens Are Breaking Up the Wall of Upper Cabinets With a Different Storage Approach appeared first on Homedit .",
@@ -718,7 +624,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/public-art-company-studio_dezeen_sq1ex.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T16:00:27+00:00"
     },
@@ -770,7 +676,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T09:00:50+00:00"
     },
@@ -797,9 +703,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/03/13/spider.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/09/awekeys-full-metal-keycaps-set-turns-any-mechanical-keyboard-into-a-design-object/Full_metal_keys_by_awekeys_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/rise_hang_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/04/a-drivers-delight-the-amida-digitrend-makes-resounding-comeback-after-50-years/Amida-Digitrend-2024-12.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/10/auto-draft/zjay_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/our-top-10-winning-designs-from-the-2022-a-design-award/adesign_2022_winners_11.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1383,7 +1289,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/5db0d0d8-04f8-48f1-b601-93e5adb2397a.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/9ac76603-b205-402a-8d1e-6e3a1a075d68.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/8d86b461-664d-4f37-bb1f-cd749c3141ab.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/9c5b2e14-77bd-4c61-b111-b2c2956f7994.png"
+        "https://hips.hearstapps.com/hmg-prod/images/997f30f0-c3c2-4a22-a11a-7fb569c8b1c8.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1673,7 +1579,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
     },
