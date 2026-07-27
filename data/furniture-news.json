@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-27T12:36:34.627641+00:00",
-  "generated_at_human": "2026-07-27 12:36 UTC",
-  "total_items": 223,
+  "generated_at": "2026-07-27T15:49:35.371756+00:00",
+  "generated_at_human": "2026-07-27 15:49 UTC",
+  "total_items": 233,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -38,6 +39,7 @@
     "Interni magazine",
     "Lost Art Press",
     "MilK Decoration",
+    "NKBA",
     "PopSugar Home",
     "Popular Woodworking",
     "Popular Woodworking projects",
@@ -57,8 +59,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
-  "multi_photo_items": 57,
+  "sources_count": 53,
+  "multi_photo_items": 58,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -68,9 +70,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=33052",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=57072",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=37508",
+        "https://i.archi.ru/i/1262/305304.jpg?r=86763",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=66925",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=63100",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -86,8 +88,8 @@
       "image": "https://i.archi.ru/i/1262/502414.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502414.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=35449",
-        "https://i.archi.ru/news/quadratic/509631.jpg?r=91382",
+        "https://i.archi.ru/i/1262/305304.jpg?r=67164",
+        "https://i.archi.ru/news/quadratic/509631.jpg?r=84643",
         "https://i.archi.ru/i/1262/502411.jpg",
         "https://i.archi.ru/i/1262/502413.jpg",
         "https://i.archi.ru/i/1262/502419.jpg"
@@ -104,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=46376",
+        "https://i.archi.ru/i/1262/125532.jpg?r=36258",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -127,6 +129,79 @@
       "published": ""
     },
     {
+      "id": "9c6a071aa9d4dc2d",
+      "title": "Nanoleaf’s Smart LED Monitor Stand brings ambient lighting and desk organization together",
+      "summary": "Nanoleaf’s Smart LED Monitor Stand brings ambient lighting and desk organization together Nanoleaf has expanded its ecosystem with a Smart LED Monitor Stand that combines ergonomic monitor elevation, workspace organization, and customizable lighting in one. Developed in...",
+      "url": "https://www.yankodesign.com/2026/07/27/nanoleafs-smart-led-monitor-stand-brings-ambient-lighting-and-desk-organization-together/?utm_source=rss&utm_medium=rss&utm_campaign=nanoleafs-smart-led-monitor-stand-brings-ambient-lighting-and-desk-organization-together",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/nanoleafs-smart-led-monitor-stand-brings-ambient-lighting-and-desk-organization-together/Nanoleaf-Smart-LED-Monitor-Stand-16.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/nanoleafs-smart-led-monitor-stand-brings-ambient-lighting-and-desk-organization-together/Nanoleaf-Smart-LED-Monitor-Stand-16.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-27T15:20:48+00:00"
+    },
+    {
+      "id": "378ceb99f6a430ce",
+      "title": "This Single-Car Garage Made Room for a Full Workshop Without Getting Bigger",
+      "summary": "Most single-car garages become catch-all storage, leaving little room for projects. Reddit user u/rscarson took a different approach, rebuilding the space around one continuous workbench, wall storage, and brighter finishes that transformed the garage into a dedicated workshop without adding a single square foot. Insulation, drywall, custom workbenches, pegboard, lumber racks, overhead storage, and a... The post This Single-Car Garage Made Room for a Full Workshop Without Getting Bigger appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-single-car-garage-made-room-for-a-full-workshop-without-getting-bigger/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Single-Car-Garage-Started-Working-Like-a-Full-Workshop.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Single-Car-Garage-Started-Working-Like-a-Full-Workshop.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Dug-a-20-Foot-Circle-Into-His-Lawn-and-Built-a-Fire-Pit-Surrounded-by-Hydrangeas.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-27T14:02:55+00:00"
+    },
+    {
+      "id": "a5b7c010d49bd42f",
+      "title": "The Mah Jong sofa has officially entered pop culture",
+      "summary": "What's a Mah Jong sofa? Inspired by Charli XCX's shopping list in 'Card Declined', we take you on a deep dive into the history of one of contemporary design's most eclectic pieces of furniture",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/mah-jong-sofa-hans-hopfer-design-icon",
+      "image": "https://cdn.mos.cms.futurecdn.net/shMozsJUgVmE8DXyEqLzs4.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/shMozsJUgVmE8DXyEqLzs4.jpg",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-07-27T14:00:00+00:00"
+    },
+    {
+      "id": "b9e2454f243ea4c8",
+      "title": "ShopNotes Podcast Episode 280 — We Love a Good, Sick Burn",
+      "summary": "In this episode, Phil and John catch up on what’s happening around the Woodsmith Shop. They discuss listener comments, woodworking tools, vintage auctions, hand tools, and what keeps woodworkers coming... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-280-we-love-a-good-sick-burn/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/27094859/screenshot-2026-07-27-at-8.46.59am.png",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/07/27094859/screenshot-2026-07-27-at-8.46.59am.png"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-27T13:49:19+00:00"
+    },
+    {
+      "id": "008c74a0d1d1467c",
+      "title": "An American, an Irish Chair, in Germany",
+      "summary": "I’ve taught woodworking At Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
+      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T13:43:48+00:00"
+    },
+    {
       "id": "59658d80c1fb9153",
       "title": "Not Cabinets Or Drawers: A More Creative Way To Store Coffee Filters & Save Space",
       "summary": "If you're a coffee drinker, you likely use a filter nearly every day. With this simple and creative DIY, you can store them neatly and within easy reach.",
@@ -139,6 +214,19 @@
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
+      "published": "2026-07-27T12:00:00+00:00"
+    },
+    {
+      "id": "2ded5bfa65a59e20",
+      "title": "Green and White Paint Transformed This ’80s Kitchen for Just $300",
+      "summary": "Plus, this first-time cabinet painter has some great DIY tips for getting the job done. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/green-white-kitchen-cabinet-paint-makeover-ba-37562338?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2023-07/morgan-p-kitchen/morgan-p-kitchen-before-2",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2023-07/morgan-p-kitchen/morgan-p-kitchen-before-2"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-07-27T12:00:00+00:00"
     },
     {
@@ -168,10 +256,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Single-Car-Garage-Started-Working-Like-a-Full-Workshop.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Dug-a-20-Foot-Circle-Into-His-Lawn-and-Built-a-Fire-Pit-Surrounded-by-Hydrangeas.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Before-Cement-Board-This-Hidden-Layer-Goes-Up-First.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Dug-a-20-Foot-Circle-Into-His-Lawn-and-Built-a-Fire-Pit-Surrounded-by-Hydrangeas.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -219,7 +307,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Console-Tables-Started-Hiding-Storage-Behind-Clean-Lines.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Started-Reaching-Everyday-Work-Surfaces.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Display-Cabinets-Started-Treating-Marble-Like-Fine-Furniture.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-a-Brush-Not-a-Roller-This-Wood-Staining-Method-Uses-a-Cloth-Instead.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg"
       ],
       "source": "Homedit",
@@ -285,12 +373,7 @@
       "url": "https://www.homedit.com/not-gravel-not-pavers-this-garden-path-uses-a-mix-of-materials-instead/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Dug-a-20-Foot-Circle-Into-His-Lawn-and-Built-a-Fire-Pit-Surrounded-by-Hydrangeas.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Before-Cement-Board-This-Hidden-Layer-Goes-Up-First.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -479,9 +562,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/02/auto-draft/pet_furniture_collection-yankodesign01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/01/sony-redesigns-sports-earphones-with-an-off-ear-rendition-to-ensure-comfortable-running-experience/Sony-float-run-wireless-earbuds-10.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/02/golfpro_cover.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/01/epsilon_infinity_pad_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/12/this-oil-lamp-turns-any-space-into-a-sanctuary-with-glow-aroma-and-warmth/oil_lamp_turns_any_space_into_a_sanctuary_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/07/163074/barry_bar_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -579,19 +662,6 @@
       "published": "2026-07-26T07:15:24+00:00"
     },
     {
-      "id": "77a48336b660f2d6",
-      "title": "The Laundry Room Closet Was Taking Up Space Better Used for Open Storage",
-      "summary": "Laundry rooms often collect several jobs in a small footprint. Appliances take up most of the floor, a utility sink claims another section, and coats or shoes end up wherever storage remains. Imgur user wispingwillowtree changed that setup by removing a narrow closet beside the utility sink and rebuilding the room around storage the family... The post The Laundry Room Closet Was Taking Up Space Better Used for Open Storage appeared first on Homedit .",
-      "url": "https://www.homedit.com/the-laundry-room-closet-was-taking-up-space-better-used-for-open-storage/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Laundry-Room-Closet-Was-Taking-Up-Space-Better-Used-for-Open-Storage.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Laundry-Room-Closet-Was-Taking-Up-Space-Better-Used-for-Open-Storage.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-26T06:03:09+00:00"
-    },
-    {
       "id": "9ac69460568d04fe",
       "title": "Ergonomic chairs rarely account for taller, broader users. LiberNovo built one, and it’s on discount for a week",
       "summary": "Ergonomic chairs rarely account for taller, broader users. LiberNovo built one, and it’s on discount for a week Ergonomic chairs may finally be having their XL moment. For years, the category has obsessed over lumbar dials, mesh backs, and posture-perfect adjustability, while a...",
@@ -601,9 +671,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/the-rail-v2-is-a-3d-printed-wall-mounted-planter-system-thats-now-smarter-and-easier-to-use/rail-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/oppo-made-a-magsafe-display-accessory-that-lets-you-take-better-selfies-from-your-rear-camera/oppo_bubble_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/04/08/succession_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/10/a-smoke-free-wood-burner-for-the-ultimate-enjoyment/biolite_firepit_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/03/pumpkin-chair/pumpkin_chair_yanko_design_03.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/10/essential-gadgets-for-fall-season-draft/top_10_gadgets_fall_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -619,9 +689,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/yellow_brick_01_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/spectacular-ideas-for-childrens-wardrobes/0-kids-rooms-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/twopan_t11_1.jpeg"
+        "https://www.yankodesign.com/images/design_news/2016/05/varhany/varhany_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/09/11/collage_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/12/10/dine_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1285,6 +1355,32 @@
       "published": "2026-07-22T01:15:43+00:00"
     },
     {
+      "id": "ebbdfc8a5f55c358",
+      "title": "Consumer Uncertainty Continues to Impact Industry Growth, as K&B Industry Pros Downgrade Expectations for 2026",
+      "summary": "N NKBA Staff Posted: Jul 21, 2026 5:17 pm Kitchen & Bath Market Index Positive Near-Term Activity Offers Optimism for Improving Conditions Image courtesy of Getty Images. By NKBA Editorial Staff The Kitchen & Bath Market Index (KBMI), which measures growth in the U.S. residential kitchen and bath industry, remained flat year-over-year at 53 out of 100, as K&B pros said ongoing consumer uncertainty, driven largely by rising material costs and trade tensions, is slowing demand and limiting growth. The 2Q26 Kitchen and Bath Market Index (KBMI) Report , conducted jointly by the NKBA and John…",
+      "url": "https://nkba.org/research/kitchen-bath-market-index/consumer-uncertainty-continues-to-impact-industry-growth-as-kb-industry-pros-downgrade-expectations-for-2026/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Kitchen_Remodel_Getty.jpg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Kitchen_Remodel_Getty.jpg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-21T21:17:57+00:00"
+    },
+    {
+      "id": "4bdae7dd4f78ec4e",
+      "title": "2026 Kitchen & Bath Industry Outlook Update: Higher Inflation and Weaker New Home Construction Tempers Growth",
+      "summary": "N NKBA Staff Posted: Jul 21, 2026 5:16 pm Kitchen & Bath Market Outlook Building on a Year of Stability, a More Gradual and Uneven Recovery is Expected Image courtesy of Getty Images. By NKBA Editorial Staff The NKBA I KBIS 2026 Kitchen & Bath Industry Outlook Update , which provides a refreshed, mid-year look at U.S.residential kitchen and bath industry activity, indicates that the overall 2026 forecast remains stable and largely unchanged from February. U.S. K&B revenue, including both materials and labor, will stay essentially flat at $228 billion in 2026. Here are some additional key…",
+      "url": "https://nkba.org/research/kitchen-bath-market-outlook/2026-kitchen-bath-industry-outlook-update-higher-inflation-and-weaker-new-home-construction-tempers-growth/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Bath_Remodel_Getty.jpg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Bath_Remodel_Getty.jpg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-21T21:16:22+00:00"
+    },
+    {
       "id": "c00cba595270b915",
       "title": "Emma Lunn turns her love of sourcing European objets into a job",
       "summary": "When most of us were holed up at home, juggling work with school schedules, learning to make bread and becoming… The post Emma Lunn turns her love of sourcing European objets into a job appeared first on The Interiors Addict .",
@@ -1371,6 +1467,19 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-07-21T15:22:55+00:00"
+    },
+    {
+      "id": "570274011b15385d",
+      "title": "Catching Up with… Rocky Mountain Chapter",
+      "summary": "N NKBA Staff Posted: Jul 21, 2026 7:38 am Member + Industry News A Spectacular 14th Run of the Annual Peak Design Awards Front Row: Courtney Williams, Eli Hariton; Back Row: Michael Collins, Delilah Collins, Melissa Odueh, Lars Lindquist, Ashley Christensen, Vivi Avila, Gillian Scheer It takes a full year for our Rocky Mountain Chapter to put on their annual Peak Design Awards Gala–the most prestigious design awards event in Colorado. Modeled after the NKBA’s own national Design Competition, the Peak Awards recognizes excellence in four categories: dining, living, bedroom, and specialty…",
+      "url": "https://nkba.org/news/member-industry-news/catching-up-with-rocky-mountain-chapter/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-10.jpeg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-10.jpeg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-21T11:40:59+00:00"
     },
     {
       "id": "53070af6af17b31b",
@@ -1487,19 +1596,6 @@
       "published": "2026-07-20T18:00:57+00:00"
     },
     {
-      "id": "4a5cd8847c35099a",
-      "title": "Wooden Rings, as Jewelry—and Hinges",
-      "summary": "German craftsman Tobias Rudolph runs WerksAtelier , a Berlin-based wooden goods fabrication shop. One of the products they make are Holzringe , rings made out of tiny laminated veneers: As if that wasn't impressive enough, Rudolph experimented with his ring-making prowess to develop this unique all-wooden hinge: This mechanical proof of concept explores the option to extend the back of the lid so that the hinge is covert and protected. A fine balance between all material thicknesses and diameters is needed to achieve a strong and smooth hinge. Here, the 3.7mm wide and 20.3/25.3mm rings…",
-      "url": "https://www.core77.com/posts/144779/Wooden-Rings-as-Jewelry%E2%80%94and-Hinges",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1842022_lead_400_144779_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1842022_lead_400_144779_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-07-20T15:00:00+00:00"
-    },
-    {
       "id": "d4f64d087c3c766c",
       "title": "The Refresh: 5 Things I’m Coveting for My Summer Bedroom",
       "summary": "To me, the ideal summer bedroom is all about simplicity: windows open, crisp sheets, and a light for those of us (me) who want to stay up and read into the night. I’ve been wanting to make a few small tweaks to make my own bedroom cool and serene for the balance of the summer. […]",
@@ -1591,19 +1687,6 @@
       "published": "2026-07-18T09:00:50+00:00"
     },
     {
-      "id": "a96f83021449537b",
-      "title": "Splinter Report: July 17th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week Collin is away, so he asked me to... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/splinter-report-july-17th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/15100503/image-7.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-17T14:10:52+00:00"
-    },
-    {
       "id": "d395182f2a267a82",
       "title": "The Forgotten Piece of Dining Room Furniture Designers Never Abandoned",
       "summary": "For decades, the standard dining set meant a table surrounded by matching chairs. Benches gradually disappeared from many homes, becoming associated with picnic tables, entryways, or casual breakfast nooks instead of formal dining rooms. Furniture collections tell a different story. Across modern dining displays, benches appear beside rectangular, oval, and even round tables, often replacing... The post The Forgotten Piece of Dining Room Furniture Designers Never Abandoned appeared first on Homedit .",
@@ -1651,8 +1734,8 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
@@ -1894,6 +1977,19 @@
       "published": "2026-07-14T13:00:00+00:00"
     },
     {
+      "id": "5a47e85b9e306c7c",
+      "title": "In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression",
+      "summary": "Developed by DIALOG with Fast + Epp, the striking office building's honeycomb-like facade commands attention. The post In Vancouver, The Hive’s Low-Carbon Timber Exoskeleton Provides a Dynamic Exterior Expression appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/the-hive-office-vancouver-dialog/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Dialog-The-Hive-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-14T13:00:00+00:00"
+    },
+    {
       "id": "064272fe4e5ddb6a",
       "title": "Bar Carts Started Replacing Side Tables Across the House",
       "summary": "Bar carts no longer stay parked beside a dining table waiting for guests. Designers and homeowners have started moving them into entryways, living rooms, kitchens, bedrooms, and covered patios where they serve as display shelves, coffee stations, plant stands, and compact storage. Wheels remain part of the design, but many of today’s carts spend little... The post Bar Carts Started Replacing Side Tables Across the House appeared first on Homedit .",
@@ -2130,6 +2226,19 @@
       "published": "2026-07-08T22:00:00+00:00"
     },
     {
+      "id": "8f6d5df0473ebbb6",
+      "title": "Catching up With… Texas North Plains Chapter",
+      "summary": "N NKBA Staff Posted: Jul 8, 2026 9:50 am Member + Industry News A Furry Good Time at “Dogs & Design” Chapter President Samantha Vogt, Dana Bass, Jenifer Wiley, Heidi Arwine, and Taylor Massey We love it when NKBA members let their creativity shine by dreaming up amazing events, and this was certainly the case with “Dogs & Design” hosted by our Texas North Plains Chapter . “I’m a huge dog lover,” said Programs Chair Nicole Raynes, “And there are so many people in our chapter who love dogs, have dogs, or have done designs for dogs. It’s a fun niche in our community–designing for dogs.” The…",
+      "url": "https://nkba.org/news/member-industry-news/catching-up-with-texas-north-plains-chapter/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-5.jpeg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-5.jpeg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-08T13:54:33+00:00"
+    },
+    {
       "id": "b37616f3cb4c440f",
       "title": "Yinka Ilori's Dunelm collection aims to make good design \"a lot more accessible\"",
       "summary": "British-Nigerian designer Yinka Ilori has brought a retro 1970s feeling to chairs, rugs, beds, lamps and cushions as part of a 40-piece collection for high-street furniture retailer Dunelm. Launched today, the Yinka Ilori x Dunelm collection is the designer's first full furniture and homeware collection. Ilori wanted the collection to be joyful, while evoking the eclectic The post Yinka Ilori's Dunelm collection aims to make good design \"a lot more accessible\" appeared first on Dezeen .",
@@ -2206,6 +2315,19 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-07-06T19:09:53+00:00"
+    },
+    {
+      "id": "7f797c4406190c79",
+      "title": "Happening in the Hub: Outdoor Living Trends",
+      "summary": "N NKBA Staff Posted: Jul 6, 2026 2:37 pm Design Trends Design Trends + News Latest Insights From The Kitchen & Bath Pro Hub Design by Kristen Hennie,CKBD; image by Matt Wagar Inside the NKBA Kitchen & Bath Pro Hub , industry professionals connect and actively share their insights from the ever-evolving world of design. This includes lively discussions about current design trends. Recently, the topic was outdoor living. The consensus: outdoor design has shifted from an optional luxury upgrade to a high-expectation standard. Clients now expect outdoor spaces to function as self-sufficient,…",
+      "url": "https://nkba.org/news/design-trends-news/happening-in-the-hub-outdoor-living-trends/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-1.jpeg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-1.jpeg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-06T18:37:29+00:00"
     },
     {
       "id": "0e5303c7ab8af113",
@@ -2310,19 +2432,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
-    },
-    {
-      "id": "47625c0d63057fce",
-      "title": "Free Plans for Our Clamshell Bookcase",
-      "summary": "I’ve always loved clamshell bookcases – fold-up bookcases that allow you to transport your personal library to a lighthouse, campsite or war zone. I started building them while working on my book “Campaign Furniture” (a free pdf download for everyone). They can be simple (such as the one shown above), or as complex as the...",
-      "url": "https://blog.lostartpress.com/2026/06/27/free-plans-for-our-clamshell-bookcase/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/06/IMG_2101-copy-1.jpg?resize=640%2C480&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-06-27T17:46:58+00:00"
     },
     {
       "id": "a5d2244bed225c30",
@@ -2452,6 +2561,19 @@
       "published": "2026-06-24T17:00:31+00:00"
     },
     {
+      "id": "694d12fa01721b4a",
+      "title": "Catching Up With… Palouse Chapter",
+      "summary": "N NKBA Staff Posted: Jun 23, 2026 10:58 am Member + Industry News Close Race at the Annual Student Design Competition Student Design Competition winners Emily Johnson, Shelly Norsworthy, and Acacia Whitlock The Palouse Chapter gathered on June 4th at Spokane Hardware Supply for the highly-anticipated Student Design Competition. The annual event is a highlight for students at Spokane Falls Community College (SFCC) working towards their Interior Design Associate in Applied Science Degree taught by Tanja Huffman. “The students are actively involved in the chapter throughout the year, but this…",
+      "url": "https://nkba.org/news/member-industry-news/catching-up-with-palouse-chapter/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/06/image-5.jpeg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/06/image-5.jpeg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-06-23T14:59:59+00:00"
+    },
+    {
       "id": "39a63a50f1933028",
       "title": "Furniture Designers Keep Turning Everyday Objects Into Statement Pieces",
       "summary": "Furniture design does not always begin with lumber, upholstery, or cabinet parts. Bicycles, musical instruments, industrial equipment, shipping crates, farm wagons, and vintage luggage continue appearing in collections that blur the line between furniture, art, and salvage. Each piece starts with an object designed for a completely different purpose. Instead of hiding that origin, designers... The post Furniture Designers Keep Turning Everyday Objects Into Statement Pieces appeared first on Homedit .",
@@ -2520,6 +2642,19 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-18T09:30:29+00:00"
+    },
+    {
+      "id": "c051693e05ff7f15",
+      "title": "SME Corey Klassen Discusses Revamping NKBA K&B Planning Guidelines",
+      "summary": "N NKBA Staff Posted: Jun 17, 2026 3:02 pm Member + Industry News K&B Subject Matter Expert Corey Klassen, RID, NCIDQ, CMKBD, reveals the evolution behind an industry standard. By NKBA Staff The NKBA’s Kitchen & Bath Planning Guidelines have been the industry’s gold standard for years, serving as an essential reference for design professionals. Published since 1992, it is the most complete collection of illustrations and planning recommendations available in one source, covering the planning and installation of beautiful, efficient, code-compliant kitchens and baths and other interior…",
+      "url": "https://nkba.org/news/member-industry-news/sme-corey-klassen-discusses-revamping-nkba-kb-planning-guidelines/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/06/CoreyKlassen_4.jpg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/06/CoreyKlassen_4.jpg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-06-17T19:02:31+00:00"
     },
     {
       "id": "5a32b1b1b7bc6f6f",
@@ -3144,7 +3279,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag kitchens",
+      "source": "Dezeen tag bathrooms",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
