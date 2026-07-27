@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-27T19:49:30.046855+00:00",
-  "generated_at_human": "2026-07-27 19:49 UTC",
-  "total_items": 234,
+  "generated_at": "2026-07-27T21:20:37.184765+00:00",
+  "generated_at_human": "2026-07-27 21:20 UTC",
+  "total_items": 236,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -46,6 +46,7 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
+    "Sleeper magazine",
     "Stylepark DE",
     "Trendir",
     "Trendir furniture",
@@ -59,8 +60,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 55,
+  "sources_count": 54,
+  "multi_photo_items": 57,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -70,9 +71,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=17682",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=8393",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=31737",
+        "https://i.archi.ru/i/1262/305304.jpg?r=90918",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=27777",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=13951",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -105,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=15182",
+        "https://i.archi.ru/i/1262/125532.jpg?r=63122",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -141,6 +142,19 @@
       "published": ""
     },
     {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
+    },
+    {
       "id": "86626b097c480b3f",
       "title": "How to Choose and Care for Teak Outdoor Furniture That Lasts for Decades",
       "summary": "Wood outdoor furniture can quickly become a maintenance headache, but teak can last decades with little upkeep.",
@@ -151,8 +165,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/gil-schafer-maine-house-tour-dining-porch-jpg-1623352938.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-loggia-living-area-691cdc4e21e98.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/sutherland-dallas-home-loggia-67ab970e3ed67.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/mcgregor-nantucket-sunroom-mckendree-669181ce6d65c.png",
-        "https://hips.hearstapps.com/hmg-prod/images/middleburg-virginia-nv22110201v-043-6874141506e8a.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/houston-fountain-outdoor-awards-veranda-jpg-1581632208.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/mcgregor-nantucket-sunroom-mckendree-669181ce6d65c.png"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -207,9 +221,9 @@
       "title": "Designer Kristin Keyes Says Secondhand Is the Key to Better Interiors",
       "summary": "Sustainability doesn’t mean sacrificing style or setting for less — at least when it comes to this pro’s work. READ MORE...",
       "url": "https://www.apartmenttherapy.com/kristin-keyes-new-next-designer-2026-37682924?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2026/new-next-list/kristin-wiens-keyes/library-area",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2026/new-next-list/kristin-wiens-keyes/Kristin_Keyes_Hill_Webb_-_NativeHouse_-_137_Full",
       "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2026/new-next-list/kristin-wiens-keyes/library-area"
+        "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2026/new-next-list/kristin-wiens-keyes/Kristin_Keyes_Hill_Webb_-_NativeHouse_-_137_Full"
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
@@ -687,9 +701,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/08/auto-draft/IKEA-STARKVIND_-Air-Purifier_Home-Appliance__-8.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/auto-draft/lego_ideas_hermes_birkin_1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2010/03/16/measuremestick01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/05/how-this-ai-powered-ballpoint-pen-brings-the-joy-of-analog-writing-to-the-digital-world/AI_powered_Ballpoint_Pen_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/04/auto-draft/dji_fpv_headset_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2017/04/ada/ada_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -704,7 +718,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/public-art-company-studio_dezeen_sq1ex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T16:00:27+00:00"
     },
@@ -756,7 +770,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T09:00:50+00:00"
     },
@@ -801,9 +815,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/08/auto-draft/red_dot_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/eames/Eames-Office-Elephant-Reebok-Cool-Aloe.jpeg",
-        "https://www.yankodesign.com/images/design_news/2017/12/a-chair-for-any-occassion/hybrid_chair_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/03/low-linear-and-deeply-considered-the-osolo-long-seating-unit/osolo-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/07/multifunctional-furniture-designs/top_10_multifunctional_furniture_designs_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/04/01/hoverbench01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1125,19 +1139,6 @@
       "source": "Stylepark DE",
       "source_url": "https://www.stylepark.com",
       "published": "2026-07-23T22:00:00+00:00"
-    },
-    {
-      "id": "9279eb8d3d3ff4fa",
-      "title": "reclaimed oak, cork, and cardboard build flexible furniture for cultural hub in NY",
-      "summary": "a big splash of teal unifies a family of bespoke furniture for the new headquarters of an inaugural art triennial in rural western new york. The post reclaimed oak, cork, and cardboard build flexible furniture for cultural hub in NY appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/reclaimed-oak-cork-cardboard-flexible-furniture-cultural-hub-ny-medina-triennial-hub-serweta-peck/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/07/medina-triennial-hub-serweta-peck-adaptive-reuse-interior-renovation-new-york-designboom-700-500x400-22b08q85r119.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/07/medina-triennial-hub-serweta-peck-adaptive-reuse-interior-renovation-new-york-designboom-700-500x400-22b08q85r119.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-07-23T21:45:31+00:00"
     },
     {
       "id": "79e76c291e2a3ffe",
@@ -1580,6 +1581,23 @@
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
       "published": "2026-07-21T10:00:00+00:00"
+    },
+    {
+      "id": "ef305fbba91dcb87",
+      "title": "Holloway Li channels 1960s glamour at Locke London Canary Wharf",
+      "summary": "Locke London Canary Wharf has opened its doors with Mid-Century interiors by Holloway Li. Drawing from the studio’s characteristic design […] The post Holloway Li channels 1960s glamour at Locke London Canary Wharf appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2025/09/house-of-gods-london-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/02/Locke-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/06/Novotelcw-1-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-3.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-21T08:00:50+00:00"
     },
     {
       "id": "d864e0764a6225da",
@@ -2208,6 +2226,24 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-09T19:00:23+00:00"
+    },
+    {
+      "id": "bf031a763726e7d2",
+      "title": "Waterworks launches Solid Surface baths collection",
+      "summary": "Waterworks has unveiled a new collection of Solid Surface baths that rethinks how the material is approached for contemporary interiors. […] The post Waterworks launches Solid Surface baths collection appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/products/waterworks-launches-solid-surface-baths-collection/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Cinta.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Cinta.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-solid-surface-tubs-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2022/08/Tina-Frey-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2021/03/BetteEve-1-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/08/rsz_sleeper_august_2020_copy-1-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Waterworks-Finot-taps.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-09T13:00:54+00:00"
     },
     {
       "id": "7908fb6b9b5fc36b",
@@ -3039,11 +3075,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/06/DIY-PAINTED-CABINETS-BY-SHANTY2CHIC.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
