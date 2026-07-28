@@ -1,11 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-27T23:15:50.602601+00:00",
-  "generated_at_human": "2026-07-27 23:15 UTC",
-  "total_items": 230,
+  "generated_at": "2026-07-28T03:28:42.385084+00:00",
+  "generated_at_human": "2026-07-28 03:28 UTC",
+  "total_items": 236,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -57,9 +59,153 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
-  "multi_photo_items": 54,
+  "sources_count": 53,
+  "multi_photo_items": 57,
   "items": [
+    {
+      "id": "e4bd870f91f11b68",
+      "title": "С чистым телом и духом",
+      "summary": "Если кому-то нужны дополнительные поводы съездить в Псков, кроме прекрасной русской архитектуры и историй – одна увлекательнее другой, – то можно добавить к ним возрожденный из руин банно-ресторанный комплекс «Гельдт», в котором бюро «АРКА ИНТЕРЬЕРЫ» создало удивительно умиротворяющую атмосферу, которой так не хватает в современной жизни.",
+      "url": "https://archi.ru/russia/102542/s-chistym-telom-i-dukhom",
+      "image": "https://i.archi.ru/i/1262/501492.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/501492.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=24208",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=19389",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=84971",
+        "https://i.archi.ru/i/509961.jpg",
+        "https://i.archi.ru/i/1262/509959.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "918c53a61ca0177f",
+      "title": "Жирафы и игрушки, фасады и подушки",
+      "summary": "В Гатчине выбрали лучшие проекты фасадов для детского сада. В конкурсе для студентов и молодых архитекторов победу одержала концепция, созданная вокруг образа жирафа. Ее автор, Анастасия Дзюрбей из Санкт-Петербургского архитектурно-строительного университета, предложила лаконичный образ дружелюбного и легко узнаваемого персонажа, который хорошо считывается детьми разного возраста. Показываем проекты победителей.",
+      "url": "https://archi.ru/russia/102545/zhirafy-i-igrushki-fasady-i-podushki",
+      "image": "https://i.archi.ru/i/1262/509983.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/509983.jpg",
+        "https://i.archi.ru/i/496807.jpg",
+        "https://i.archi.ru/i/1262/509982.jpg",
+        "https://i.archi.ru/i/1262/509981.jpg",
+        "https://i.archi.ru/i/1262/509980.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "e134212964058ea2",
+      "title": "«Зеленые» мечты и спелеологические впечатления",
+      "summary": "Консорциум во главе с MVRDV победил в конкурсе Shift на проект просветительского и гостинично-коммерческого комплекса в Роттердаме, посвященного ресурсоэффективности и охране окружающей среды.",
+      "url": "https://archi.ru/world/102495/zelenye-mechty-i-speleologicheskie-vpechatleniya",
+      "image": "https://i.archi.ru/i/1262/509497.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/509497.jpg",
+        "https://i.archi.ru/i/1262/125532.jpg?r=65309",
+        "https://i.archi.ru/i/1262/509504.jpg",
+        "https://i.archi.ru/i/458415.png",
+        "https://i.archi.ru/news/main_images/280x280/494340.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "3fc12d25d0f4b129",
+      "title": "Новое время – новый дизайн",
+      "summary": "Время диктует... Но может ли кто-то диктовать что-то времени? Например, в каком дизайне оно должно представать перед покупателями его компактной версии? Sinitsa Buro отважилось на эксперимент и представило своё видение в интерьере магазина часов Tempus.",
+      "url": "https://archi.ru/russia/102493/novoe-vremya-novyi-dizain",
+      "image": "https://i.archi.ru/i/1262/502414.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/502414.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "9da3f6ed36f87872",
+      "title": "Тень как соавтор: архитектура света за пределами фасада",
+      "summary": "Долгое время свет за пределами здания решал одну задачу – подсветить то, что видно лишь днём. Сегодня работа с уличным освещением всё чаще строится по другому принципу: свет не заливает территорию, а выбирает, что показать, а что оставить в тени. Тень становится частью решения, как форма светильника или цветовая температура. На нескольких реализованных проектах, где используется уличное освещение Maytoni, можно увидеть, как по-разному этот принцип работает в исторической среде, в современном ландшафте и в городском общественном пространстве.",
+      "url": "http://archi.ru/tech/news_102436.html",
+      "image": "https://i.archi.ru/i/1262/508536.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/508536.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "8c4d38aba3923091",
+      "title": "A modern Bruny Island beach house where you can spot dolphins from the living room",
+      "summary": "A family's treasured weekender has been designed to capture the sun while withstanding the elements The post A modern Bruny Island beach house where you can spot dolphins from the living room appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/home-tours/bruny-island-modern-beach-house/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?v=1785200928",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?v=1785200928",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2016/10/Jackie-Brygel.png?w=2048"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-28T01:55:23+00:00"
+    },
+    {
+      "id": "4e7c94c4a15b8ef6",
+      "title": "Stargaze and sip wine by firelight at this romantic Bruny Island hideaway",
+      "summary": "Waterfront serenity and cosy luxury await guests at this beautifully styled getaway just made for rest and renewal The post Stargaze and sip wine by firelight at this romantic Bruny Island hideaway appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/lifestyle/the-songbird-bruny-island/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?v=1784863481",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?v=1784863481",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-7-6a62ecff64fac-scaled.jpg?resize=2560%2C1707"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-28T01:10:24+00:00"
+    },
+    {
+      "id": "6f7e0b882f3d15bf",
+      "title": "Not Granite, Not Quartz: This Durable & Stylish Countertop Option Is Gaining Popularity",
+      "summary": "Trying to choose between granite and quartz for your kitchen countertops? There's a third option gaining in popularity that creates a high-end look.",
+      "url": "https://www.hunker.com/2220740/granite-countertop-alternative-porcelain/",
+      "image": "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/l-intro-1784659829.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/l-intro-1784659829.jpg",
+        "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/intro-1784659829.jpg",
+        "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/porcelain-is-affordable-and-eco-friendly-without-sacrificing-style-1784659831.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-28T01:00:00+00:00"
+    },
+    {
+      "id": "5e07d659741b6217",
+      "title": "This Affordable Dollar Tree DIY Transforms A Wood Dowel Into Chic Kitchen Storage",
+      "summary": "If you want to use up some of your wall space to store kitchen essentials, you can make it happen on a budget by whipping up this Dollar Tree DIY.",
+      "url": "https://www.hunker.com/2220378/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/",
+      "image": "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/l-intro-1784965839.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/l-intro-1784965839.jpg",
+        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/intro-1784965839.jpg",
+        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/hang-your-dowel-kitchen-utensil-holder-1784965840.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-27T20:30:00+00:00"
+    },
     {
       "id": "a8af0c18ed362af5",
       "title": "5 Collections that Make the Most of Outdoor Living",
@@ -183,9 +329,7 @@
       "url": "https://www.hunker.com/2217480/dollar-tree-dryer-sheet-holder-kitchen-towel-cabinet-storage/",
       "image": "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/l-intro-1784298114.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/l-intro-1784298114.jpg",
-        "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/intro-1784298114.jpg",
-        "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/ways-to-repurpose-a-dryer-sheet-holder-for-kitchen-storage-1784298116.jpg"
+        "https://www.hunker.com/img/gallery/she-uses-a-dollar-tree-dryer-sheet-holder-for-smart-kitchen-cabinet-storage/l-intro-1784298114.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -232,9 +376,7 @@
       "url": "https://www.hunker.com/2221688/porcelain-vs-quartz-countertops-costs-less/",
       "image": "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/l-intro-1784686949.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/l-intro-1784686949.jpg",
-        "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/intro-1784686949.jpg",
-        "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/other-factors-influencing-the-cost-of-porcelain-and-quartz-countertops-1784686951.jpg"
+        "https://www.hunker.com/img/gallery/porcelain-vs-quartz-countertops-which-costs-less/l-intro-1784686949.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -277,19 +419,6 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-27T12:00:00+00:00"
-    },
-    {
-      "id": "59658d80c1fb9153",
-      "title": "Not Cabinets Or Drawers: A More Creative Way To Store Coffee Filters & Save Space",
-      "summary": "If you're a coffee drinker, you likely use a filter nearly every day. With this simple and creative DIY, you can store them neatly and within easy reach.",
-      "url": "https://www.hunker.com/2215919/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/",
-      "image": "https://www.hunker.com/img/gallery/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/l-intro-1785136764.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-cabinets-creative-way-to-store-coffee-filters-diy-wall-storage/l-intro-1785136764.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
       "published": "2026-07-27T12:00:00+00:00"
     },
     {
@@ -464,9 +593,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?v=1785133543",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t124149.991-6a66c5c77baf4.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t093306.921-6a669eb38b5ba.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/12/copy-of-site-feature-horizontal-1920-x-1080-61-693a1c77df1d0.png?resize=1950%2C1462"
       ],
       "source": "Homes To Love AU",
@@ -480,12 +609,7 @@
       "url": "https://www.homestolove.com.au/rooms/bathrooms-laundry/country-bathrooms-13321/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?v=1785125629",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?v=1785125629",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t124149.991-6a66c5c77baf4.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t093306.921-6a669eb38b5ba.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2017/09/MicrosoftTeams-image-33.jpg?w=2304"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?v=1785125629"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -503,7 +627,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_Casalgrande-Pasana-GHOST-_amb_invisible_marmorker-night-stormmetropolis-greige-dett-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Casalgrande-Padana-ELEMENTS-_amb-4_Essence-Pebbles-blackTexture-antracite-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_Casalgrande-Padana-IMAGINA-_amb_fabricmetro-greystile-black.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Riflessi-Feb26-256.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Seadeck-9-External-View-2.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -541,19 +665,6 @@
       "published": "2026-07-27T04:00:32+00:00"
     },
     {
-      "id": "62e7574d8fb84495",
-      "title": "Everyone Called It A Fad — Now It's One Of The Most Used Kitchen Appliances",
-      "summary": "While cooking gadgets fade in and out of popularity, some tools live up to their hype. This appliance is worth all the praise for easier, healthier meals.",
-      "url": "https://www.hunker.com/2221648/air-fryer-fad-most-used-kitchen-appliance/",
-      "image": "https://www.hunker.com/img/gallery/air-fryer-fad-most-used-kitchen-appliance/l-intro-1784875867.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/air-fryer-fad-most-used-kitchen-appliance/l-intro-1784875867.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-27T03:00:00+00:00"
-    },
-    {
       "id": "4dcfcb98467b5ede",
       "title": "5 Tiny Homes and Fold-Out Cabins Built to Move Wherever You Go",
       "summary": "5 Tiny Homes and Fold-Out Cabins Built to Move Wherever You Go Portable architecture is shifting how space, ownership, and mobility are defined. What once existed as temporary or emergency structures now evolves into refined, design-led systems...",
@@ -565,19 +676,6 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-26T23:30:05+00:00"
-    },
-    {
-      "id": "fc814cba1d9e5107",
-      "title": "Better Than Privacy Film: A DIY Solution To Cover Windows Above Bedroom Doors",
-      "summary": "This DIY solution to cover transom windows blocks light and sound. It's easily reversible, and less expensive than window privacy films or replacing windows.",
-      "url": "https://www.hunker.com/2222497/diy-solution-to-cover-windows-above-bedroom-doors-mdf/",
-      "image": "https://www.hunker.com/img/gallery/diy-solution-to-cover-windows-above-bedroom-doors-mdf/l-intro-1785031723.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/diy-solution-to-cover-windows-above-bedroom-doors-mdf/l-intro-1785031723.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-26T21:00:00+00:00"
     },
     {
       "id": "669f862f6796f526",
@@ -607,9 +705,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/how-this-ai-powered-ballpoint-pen-brings-the-joy-of-analog-writing-to-the-digital-world/AI_powered_Ballpoint_Pen_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/auto-draft/dji_fpv_headset_1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2017/04/ada/ada_00.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/01/penguin/penguin_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/11/auto-draft/disconnected_cutlery_set_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/06/this-129-floating-pen-doesnt-just-write-it-spins-for-30-seconds/Levitating-Pen_3_Desk-Object_Hovers_12.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -703,9 +801,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/a-drivers-delight-the-amida-digitrend-makes-resounding-comeback-after-50-years/Amida-Digitrend-2024-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/10/auto-draft/zjay_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/our-top-10-winning-designs-from-the-2022-a-design-award/adesign_2022_winners_11.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/03/foldable-3d-printer-concept-could-revolutionize-design-and-manufacturing-industries/foldable-3d-printer-concept-05.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/tech-gadgets-of-november/5_best_tech_gadgets_november_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/06/tuner/01-roadie3_yankodesign.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -721,9 +819,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/low-linear-and-deeply-considered-the-osolo-long-seating-unit/osolo-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/multifunctional-furniture-designs/top_10_multifunctional_furniture_designs_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/04/01/hoverbench01.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/01/29/nuno_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/modular_vinyl_table-yankodesign-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/ultra-silent-brass-fidget-piston-is-built-with-such-precise-tolerances-that-air-becomes-the-spring/MetMo-Brass-Fidget-Piston_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -996,12 +1094,7 @@
       "url": "https://www.homestolove.com.au/rooms/kitchens/colourful-kitchens-6052/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/05/colourful-kitchen-6a62beabae550.png?v=1784856260",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/05/colourful-kitchen-6a62beabae550.png?v=1784856260",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/05/colourful-kitchen-6a62beabae550.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t124149.991-6a66c5c77baf4.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/grace-flynn-content-producer.jpg?w=2048"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/05/colourful-kitchen-6a62beabae550.png?v=1784856260"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1722,10 +1815,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1740,10 +1833,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/28_greg_natale_new_york_ii-6a597c5ec339d-scaled.jpg?v=1784258187",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-buy-original-australian-art-online--6a6315929e9da.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/06/heating-6a68019a6f41b.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Hanna-Marton.jpg?w=2048",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors-6a56d33403d41.jpeg?crop=210px%2C0px%2C1710px%2C1283px&resize=1950%2C1462&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/04/parisian-apartment-eastern-suburbs-smac-studio-8-69e06fcd3806e.jpg?crop=0px%2C481px%2C1920px%2C1439px&resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors-6a56d33403d41.jpeg?crop=210px%2C0px%2C1710px%2C1283px&resize=1950%2C1462&format=auto"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1841,10 +1934,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/HB-AL-Hawkesbury-7678_w1920-scaled.jpg?v=1729637837",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-buy-original-australian-art-online--6a6315929e9da.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/06/heating-6a68019a6f41b.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/08/Brittany-Smith.png?w=2048",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Lucy-Gough.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/10/kitchen-garden-items-pomegranate-tea-towel-6a58683a48937.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/10/kitchen-garden-items-olive-oil-jars-6a58683aa957c.jpg?w=2048"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/10/kitchen-garden-items-pomegranate-tea-towel-6a58683a48937.jpg?w=2048"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -2981,11 +3074,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/08/DIY-Hairpin-Table-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/11/DIY-Dining-Table-By-Shanty2CHic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/06/DIY-PAINTED-CABINETS-BY-SHANTY2CHIC.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
