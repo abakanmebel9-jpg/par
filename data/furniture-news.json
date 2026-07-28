@@ -1,11 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-28T15:29:39.539821+00:00",
-  "generated_at_human": "2026-07-28 15:29 UTC",
-  "total_items": 226,
+  "generated_at": "2026-07-28T17:43:17.934312+00:00",
+  "generated_at_human": "2026-07-28 17:43 UTC",
+  "total_items": 233,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -55,9 +57,145 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 49,
-  "multi_photo_items": 53,
+  "sources_count": 51,
+  "multi_photo_items": 56,
   "items": [
+    {
+      "id": "e4bd870f91f11b68",
+      "title": "С чистым телом и духом",
+      "summary": "Если кому-то нужны дополнительные поводы съездить в Псков, кроме прекрасной русской архитектуры и историй – одна увлекательнее другой, – то можно добавить к ним возрожденный из руин банно-ресторанный комплекс «Гельдт», в котором бюро «АРКА ИНТЕРЬЕРЫ» создало удивительно умиротворяющую атмосферу, которой так не хватает в современной жизни.",
+      "url": "https://archi.ru/russia/102542/s-chistym-telom-i-dukhom",
+      "image": "https://i.archi.ru/i/1262/501492.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/501492.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=9695",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=59387",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=9813",
+        "https://i.archi.ru/i/509961.jpg",
+        "https://i.archi.ru/i/1262/509959.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "918c53a61ca0177f",
+      "title": "Жирафы и игрушки, фасады и подушки",
+      "summary": "В Гатчине выбрали лучшие проекты фасадов для детского сада. В конкурсе для студентов и молодых архитекторов победу одержала концепция, созданная вокруг образа жирафа. Ее автор, Анастасия Дзюрбей из Санкт-Петербургского архитектурно-строительного университета, предложила лаконичный образ дружелюбного и легко узнаваемого персонажа, который хорошо считывается детьми разного возраста. Показываем проекты победителей.",
+      "url": "https://archi.ru/russia/102545/zhirafy-i-igrushki-fasady-i-podushki",
+      "image": "https://i.archi.ru/i/1262/509983.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/509983.jpg",
+        "https://i.archi.ru/i/496807.jpg",
+        "https://i.archi.ru/i/1262/509982.jpg",
+        "https://i.archi.ru/i/1262/509981.jpg",
+        "https://i.archi.ru/i/1262/509980.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "e134212964058ea2",
+      "title": "«Зеленые» мечты и спелеологические впечатления",
+      "summary": "Консорциум во главе с MVRDV победил в конкурсе Shift на проект просветительского и гостинично-коммерческого комплекса в Роттердаме, посвященного ресурсоэффективности и охране окружающей среды.",
+      "url": "https://archi.ru/world/102495/zelenye-mechty-i-speleologicheskie-vpechatleniya",
+      "image": "https://i.archi.ru/i/1262/509497.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/509497.jpg",
+        "https://i.archi.ru/i/1262/125532.jpg?r=6711",
+        "https://i.archi.ru/i/1262/509504.jpg",
+        "https://i.archi.ru/i/458415.png",
+        "https://i.archi.ru/news/main_images/280x280/494340.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "3fc12d25d0f4b129",
+      "title": "Новое время – новый дизайн",
+      "summary": "Время диктует... Но может ли кто-то диктовать что-то времени? Например, в каком дизайне оно должно представать перед покупателями его компактной версии? Sinitsa Buro отважилось на эксперимент и представило своё видение в интерьере магазина часов Tempus.",
+      "url": "https://archi.ru/russia/102493/novoe-vremya-novyi-dizain",
+      "image": "https://i.archi.ru/i/1262/502414.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/502414.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "9da3f6ed36f87872",
+      "title": "Тень как соавтор: архитектура света за пределами фасада",
+      "summary": "Долгое время свет за пределами здания решал одну задачу – подсветить то, что видно лишь днём. Сегодня работа с уличным освещением всё чаще строится по другому принципу: свет не заливает территорию, а выбирает, что показать, а что оставить в тени. Тень становится частью решения, как форма светильника или цветовая температура. На нескольких реализованных проектах, где используется уличное освещение Maytoni, можно увидеть, как по-разному этот принцип работает в исторической среде, в современном ландшафте и в городском общественном пространстве.",
+      "url": "http://archi.ru/tech/news_102436.html",
+      "image": "https://i.archi.ru/i/1262/508536.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/508536.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "dd6ae661fdb80804",
+      "title": "Skip Vinegar: There's A Better, More Effective Way To Descale Kitchen Appliances",
+      "summary": "This alternative to vinegar is so effective because it contains acids that dissolve limescale and properties that help wash away the remaining buildup.",
+      "url": "https://www.hunker.com/2223132/descale-kitchen-appliances-citric-acid-better-than-vinegar/",
+      "image": "https://www.hunker.com/img/gallery/skip-vinegar-theres-a-better-more-effective-way-to-descale-kitchen-appliances/l-intro-1784972020.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/skip-vinegar-theres-a-better-more-effective-way-to-descale-kitchen-appliances/l-intro-1784972020.jpg",
+        "https://www.hunker.com/img/gallery/skip-vinegar-theres-a-better-more-effective-way-to-descale-kitchen-appliances/intro-1784972020.jpg",
+        "https://www.hunker.com/img/gallery/skip-vinegar-theres-a-better-more-effective-way-to-descale-kitchen-appliances/how-citric-acid-chemically-descales-your-kitchen-tools-1784972022.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-28T16:30:00+00:00"
+    },
+    {
+      "id": "474114f546e1d140",
+      "title": "New 1,520-Hour Diploma Program Will Launch at SBWI",
+      "summary": "The Sam Beauford Woodworking Institute (SBWI) announced that its new Architectural Carpentry & Preservation program has received approval from the Accrediting Commission of Career Schools and Colleges (ACCSC), a recognized... The post New 1,520-Hour Diploma Program Will Launch at SBWI appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/new-1520-hour-diploma-program-will-launch-at-sbwi",
+      "image": "https://www.woodshopnews.com/uploads/2026/07/sbwi500x280_WSN.jpg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/07/sbwi500x280_WSN.jpg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-07-28T15:37:53+00:00"
+    },
+    {
+      "id": "2fe6bafb632e77e9",
+      "title": "The Food-Inspired Vintage Dishware That's Highly Valuable",
+      "summary": "Who says your table setting has to look boring? Add character and charm to your kitchen with food-inspired, vintage dishware that's also one of a kind.",
+      "url": "https://www.hunker.com/2222435/valuable-vintage-dishware-lettuce-ware-dodie-thayer/",
+      "image": "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/l-intro-1784899830.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/l-intro-1784899830.jpg",
+        "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/intro-1784899830.jpg",
+        "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/identifying-dodie-thayer-lettuceware-1784899832.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-28T15:30:00+00:00"
+    },
+    {
+      "id": "ce4e93256041ff4e",
+      "title": "The Cute Dollar Tree DIY To Declutter And Organize Countertop Mayhem",
+      "summary": "Along with a storage essential, head to Dollar Tree's homeware aisle and grab a couple of items that add the perfect decorative touch to this DIY organizer.",
+      "url": "https://www.hunker.com/2221568/dollar-tree-picture-frame-diy-declutter-countertop-organizer/",
+      "image": "https://www.hunker.com/img/gallery/the-cute-dollar-tree-diy-to-declutter-and-organize-countertop-mayhem/l-intro-1784808727.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-cute-dollar-tree-diy-to-declutter-and-organize-countertop-mayhem/l-intro-1784808727.jpg",
+        "https://www.hunker.com/img/gallery/the-cute-dollar-tree-diy-to-declutter-and-organize-countertop-mayhem/intro-1784808727.jpg",
+        "https://www.hunker.com/img/gallery/the-cute-dollar-tree-diy-to-declutter-and-organize-countertop-mayhem/how-to-diy-a-cute-organizer-for-your-countertop-1784808729.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-28T15:00:00+00:00"
+    },
     {
       "id": "6a2ebb1dc2efbc5a",
       "title": "Harris Elliott’s metamorphosing London ‘social salon’ begins with a marketplace of white shirts",
@@ -83,9 +221,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/morph/morph_chair_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/04/02/slice_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/11/auto-draft/claw_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/04/tronco-is-a-nature-inspired-storage-design-that-stacks-like-magic/tronco-stackable-storage-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/11/this-chaise-lounge-is-the-mother-of-multiutility-furniture-with-not-one-but-sever-varied-utilities/Versarest-Chaise-Lounge-16.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/10/28/stooka_chair.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -111,9 +249,7 @@
       "url": "https://www.hunker.com/2223780/80s-colorful-interior-design-gen-z-comeback/",
       "image": "https://www.hunker.com/img/gallery/the-80s-design-trend-millennials-left-behind-that-gen-z-is-bringing-back/l-intro-1785144810.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/the-80s-design-trend-millennials-left-behind-that-gen-z-is-bringing-back/l-intro-1785144810.jpg",
-        "https://www.hunker.com/img/gallery/the-80s-design-trend-millennials-left-behind-that-gen-z-is-bringing-back/intro-1785144810.jpg",
-        "https://www.hunker.com/img/gallery/the-80s-design-trend-millennials-left-behind-that-gen-z-is-bringing-back/what-are-the-trendy-colors-gen-z-is-embracing-right-now-1785144812.jpg"
+        "https://www.hunker.com/img/gallery/the-80s-design-trend-millennials-left-behind-that-gen-z-is-bringing-back/l-intro-1785144810.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -262,7 +398,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/napoli-on-the-road-isern-serra_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-28T08:00:53+00:00"
     },
@@ -361,9 +497,7 @@
       "url": "https://www.hunker.com/2220740/granite-countertop-alternative-porcelain/",
       "image": "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/l-intro-1784659829.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/l-intro-1784659829.jpg",
-        "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/intro-1784659829.jpg",
-        "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/porcelain-is-affordable-and-eco-friendly-without-sacrificing-style-1784659831.jpg"
+        "https://www.hunker.com/img/gallery/not-granite-not-quartz-this-durable-stylish-countertop-option-is-gaining-popularity/l-intro-1784659829.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -376,9 +510,7 @@
       "url": "https://www.hunker.com/2220378/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/",
       "image": "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/l-intro-1784965839.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/l-intro-1784965839.jpg",
-        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/intro-1784965839.jpg",
-        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/hang-your-dowel-kitchen-utensil-holder-1784965840.jpg"
+        "https://www.hunker.com/img/gallery/affordable-dollar-tree-diy-chic-kitchen-storage-dowel-rod-hooks/l-intro-1784965839.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -408,8 +540,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/gil-schafer-maine-house-tour-dining-porch-jpg-1623352938.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-loggia-living-area-691cdc4e21e98.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/sutherland-dallas-home-loggia-67ab970e3ed67.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/houston-fountain-outdoor-awards-veranda-jpg-1581632208.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/mcgregor-nantucket-sunroom-mckendree-669181ce6d65c.png"
+        "https://hips.hearstapps.com/hmg-prod/images/823dc90b-4acf-46d1-bf2d-264a861c71dc.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/julia-amory-palm-beach-hamptons-homes-palm-beach-exterior-648a899252a64.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -699,7 +831,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_Casalgrande-Pasana-GHOST-_amb_invisible_marmorker-night-stormmetropolis-greige-dett-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Casalgrande-Padana-ELEMENTS-_amb-4_Essence-Pebbles-blackTexture-antracite-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_Casalgrande-Padana-IMAGINA-_amb_fabricmetro-greystile-black.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Riflessi-Feb26-256.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -777,9 +909,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/11/20/vyne_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/06/mycanoe/mycanoe_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/06/19/ibackpack.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/04/312326/01_bikebox_ridersgonnaride_bikestorage.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/09/yd-design-storm-13/design_storm_13.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/11/this-handcrafted-portable-tea-set-comes-with-a-carrying-case-that-lets-you-store-and-pour-your-tea-with-ease/09_XYhukou_kurzkurz_portableteaset.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -794,7 +926,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/public-art-company-studio_dezeen_sq1ex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T16:00:27+00:00"
     },
@@ -820,7 +952,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T09:00:50+00:00"
     },
@@ -834,9 +966,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/04/porsche-inspired-concepts/porsche_exclusive_gt_2.jpeg",
-        "https://www.yankodesign.com/images/design_news/2024/07/top-10-apple-watch-alternatives/top_10_apple_watch_alternatives_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/01/the-obongdo-painting-inspired-set-of-jars-brings-the-korean-culture-into-your-kitchens/Obongdo_korean_jars_01-hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/04/mass-table/mass_table_furniture_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/06/there-are-only-10-days-left-to-enter-design-for-empathy/taiwan_international_student_design_competition_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/06/king-living-introduces-magnolia-extendable-dining-table-for-modern-compact-living/250404_KING_AURA_RANGE_1_1_AURA_MAGNOLIA_EXTENSION_RETRACTED_0177.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1046,19 +1178,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-24T10:40:32+00:00"
-    },
-    {
-      "id": "3e8ec49b4f1fd1df",
-      "title": "blue, red, and orange interiors bring seoul’s visual energy to the kimchi restaurant in prague",
-      "summary": "korean street food culture informs the new interior concept by soa architekti. The post blue, red, and orange interiors bring seoul’s visual energy to the kimchi restaurant in prague appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/blue-red-orange-interiors-seoul-visual-energy-the-kimchi-restaurant-prague-soa-architekti/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/07/blue-red-orange-interiors-seoul-prague-the-kimchi-restaurant-soa-architekti-designboom-700-500x400-22b08q85r116.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/07/blue-red-orange-interiors-seoul-prague-the-kimchi-restaurant-soa-architekti-designboom-700-500x400-22b08q85r116.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-07-24T09:35:50+00:00"
     },
     {
       "id": "892f12dd2a95f409",
@@ -1724,8 +1843,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2428,19 +2547,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-06-26T07:17:47+00:00"
-    },
-    {
-      "id": "97729d8b1bf067d3",
-      "title": "6-Drawer Storage Cabinet",
-      "summary": "Organize your workspace with a handsome six-drawer cabinet. This handsome little cabinet just might solve the universal problem of never having enough drawer space. Small enough to tuck under a... Source",
-      "url": "https://www.popularwoodworking.com/projects/office-cabinet/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/08/25113354/aw_14560_014.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-06-25T16:02:00+00:00"
     },
     {
       "id": "bcba329464b72dfc",
