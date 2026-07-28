@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-28T06:36:42.367020+00:00",
-  "generated_at_human": "2026-07-28 06:36 UTC",
+  "generated_at": "2026-07-28T09:42:46.156068+00:00",
+  "generated_at_human": "2026-07-28 09:42 UTC",
   "total_items": 235,
   "sources_used": [
     "Apartment Therapy",
@@ -54,14 +54,13 @@
     "Veranda",
     "Wallpaper",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 56,
+  "sources_count": 53,
+  "multi_photo_items": 57,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -71,9 +70,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=38535",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=66532",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=26125",
+        "https://i.archi.ru/i/1262/305304.jpg?r=87092",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=18126",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=5230",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -106,7 +105,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=44844",
+        "https://i.archi.ru/i/1262/125532.jpg?r=30192",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -140,6 +139,55 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "73f60f0176d26250",
+      "title": "A Warehouse (A-153) Turns a Workshop into a House",
+      "summary": "A Warehouse (A-153) transforms a disused workshop in Modena, Italy, into a house that retains clear traces of its industrial past. Designed by Ambientevario, the 2025 conversion unifies the exterior in white while preserving the original profile, exposed ceiling, iron beams, and weathered dividing wall. Concrete partitions, birch paneling, steel kitchen volumes, and broad windows […] The post A Warehouse (A-153) Turns a Workshop into a House first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/07/28/a-warehouse-a-153-turns-a-workshop-into-a-house/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/07/001-a-warehouse-a-153-turns-a-workshop-into-a-house.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/07/001-a-warehouse-a-153-turns-a-workshop-into-a-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/008-a-warehouse-a-153-turns-a-workshop-into-a-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/009-a-warehouse-a-153-turns-a-workshop-into-a-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/010-a-warehouse-a-153-turns-a-workshop-into-a-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/011-a-warehouse-a-153-turns-a-workshop-into-a-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/001-a-warehouse-a-153-turns-a-workshop-into-a-house.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-07-28T08:02:15+00:00"
+    },
+    {
+      "id": "4128faa85091df38",
+      "title": "Isern Serra draws on Mediterranean vernacular architecture for London pizzeria",
+      "summary": "Spanish designer Isern Serra has used rounded corners and curved built-in furniture to create a \"relaxed and welcoming atmosphere\" inside Napoli on the Road, a pizza restaurant in London's Soho area. The central London restaurant has a pared-back, architectural interior that was inspired by chef Michele Pascarella's Italian roots. \"The project draws inspiration from vernacular Mediterranean The post Isern Serra draws on Mediterranean vernacular architecture for London pizzeria appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/28/isern-serra-napoli-on-the-road/",
+      "image": "http://static.dezeen.com/uploads/2026/07/napoli-on-the-road-isern-serra_dezeen_2364_col_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/napoli-on-the-road-isern-serra_dezeen_2364_col_sq.jpg"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-28T08:00:53+00:00"
+    },
+    {
+      "id": "e1056891f17ccdcb",
+      "title": "This Plain Powder Room Ditched White Walls for Dark Paneling and Floral Wallpaper",
+      "summary": "Reddit user u/ProfessorFun4568 and her fiancé turned a plain powder room into their first major renovation after buying their house a year earlier. White walls, a pedestal sink, and open storage were replaced with brown paneling, floral wallpaper, a furniture-style vanity, and an arched wood cabinet. The house was built in 2000, and the homeowner... The post This Plain Powder Room Ditched White Walls for Dark Paneling and Floral Wallpaper appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-plain-powder-room-ditched-white-walls-for-dark-paneling-and-floral-wallpaper/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Plain-Powder-Room-Ditched-White-Walls-for-Dark-Paneling-and-Floral-Wallpaper.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Plain-Powder-Room-Ditched-White-Walls-for-Dark-Paneling-and-Floral-Wallpaper.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Brown-Trim-Connects-the-Two-Wall-Treatments.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Secondhand-Vanity-Replaced-the-Pedestal-Sink.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Floral-Wallpaper-Filled-the-Space-Above-the-Paneling.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Brown-Paneling-Wrapped-the-Lower-Walls.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/White-Walls-Defined-the-Original-Powder-Room.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-28T07:15:31+00:00"
     },
     {
       "id": "8145140dcf7cf380",
@@ -200,7 +248,12 @@
       "url": "https://www.homestolove.com.au/lifestyle/the-songbird-bruny-island/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?v=1784863481",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?v=1784863481"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?v=1784863481",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t150758.009-6a68395bbc860.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/01/copy-of-site-feature-horizontal-1920-x-1080-2026-01-30t172623.632-697c4f28d15ef.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-7-6a62ecff64fac-scaled.jpg?resize=2560%2C1707"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -340,19 +393,6 @@
       "published": "2026-07-27T15:30:00+00:00"
     },
     {
-      "id": "9c6a071aa9d4dc2d",
-      "title": "Nanoleaf’s Smart LED Monitor Stand brings ambient lighting and desk organization together",
-      "summary": "Nanoleaf’s Smart LED Monitor Stand brings ambient lighting and desk organization together Nanoleaf has expanded its ecosystem with a Smart LED Monitor Stand that combines ergonomic monitor elevation, workspace organization, and customizable lighting in one. Developed in...",
-      "url": "https://www.yankodesign.com/2026/07/27/nanoleafs-smart-led-monitor-stand-brings-ambient-lighting-and-desk-organization-together/?utm_source=rss&utm_medium=rss&utm_campaign=nanoleafs-smart-led-monitor-stand-brings-ambient-lighting-and-desk-organization-together",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/nanoleafs-smart-led-monitor-stand-brings-ambient-lighting-and-desk-organization-together/Nanoleaf-Smart-LED-Monitor-Stand-16.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/nanoleafs-smart-led-monitor-stand-brings-ambient-lighting-and-desk-organization-together/Nanoleaf-Smart-LED-Monitor-Stand-16.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-27T15:20:48+00:00"
-    },
-    {
       "id": "1b753d4bbe34f970",
       "title": "She Uses A Dollar Tree Dryer Sheet Holder For Smart Kitchen Cabinet Storage",
       "summary": "This clever organizing hack keeps kitchen towels, sponges, and plenty of other everyday essentials neatly tucked away without taking up valuable space.",
@@ -373,11 +413,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Single-Car-Garage-Started-Working-Like-a-Full-Workshop.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Single-Car-Garage-Started-Working-Like-a-Full-Workshop.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Plain-Powder-Room-Ditched-White-Walls-for-Dark-Paneling-and-Floral-Wallpaper.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/You-Can-Cut-Your-Neighbors-Tree-Back-to-the-Fence-But-You-Cant-Keep-Everything-You-Remove.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Laundry-Room-Walls-Were-Sweating-Every-Time-the-Dryer-Ran.-The-Problem-Was-Hidden-Inside.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -477,11 +517,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Plain-Powder-Room-Ditched-White-Walls-for-Dark-Paneling-and-Floral-Wallpaper.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/You-Can-Cut-Your-Neighbors-Tree-Back-to-the-Fence-But-You-Cant-Keep-Everything-You-Remove.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Laundry-Room-Walls-Were-Sweating-Every-Time-the-Dryer-Ran.-The-Problem-Was-Hidden-Inside.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Single-Car-Garage-Started-Working-Like-a-Full-Workshop.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -525,12 +565,7 @@
       "url": "https://www.homedit.com/marble-furniture-started-moving-beyond-kitchens-and-bathrooms/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Started-Replacing-Wood-on-Sideboards.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Started-Replacing-Wood-on-Sideboards.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Console-Tables-Started-Hiding-Storage-Behind-Clean-Lines.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Started-Reaching-Everyday-Work-Surfaces.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Display-Cabinets-Started-Treating-Marble-Like-Fine-Furniture.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Started-Replacing-Wood-on-Sideboards.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -577,12 +612,7 @@
       "url": "https://homeadore.com/2026/07/27/cba-penthouse-opens-its-social-area-to-the-pool/",
       "image": "https://homeadore.com/wp-content/uploads/2026/07/001-cba-penthouse-opens-its-social-area-to-the-pool.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/07/001-cba-penthouse-opens-its-social-area-to-the-pool.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/004-cba-penthouse-opens-its-social-area-to-the-pool.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/002-cba-penthouse-opens-its-social-area-to-the-pool.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/001-cba-penthouse-opens-its-social-area-to-the-pool.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/003-cba-penthouse-opens-its-social-area-to-the-pool.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/007-cba-penthouse-opens-its-social-area-to-the-pool.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/07/001-cba-penthouse-opens-its-social-area-to-the-pool.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -657,7 +687,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_Casalgrande-Pasana-GHOST-_amb_invisible_marmorker-night-stormmetropolis-greige-dett-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Casalgrande-Padana-ELEMENTS-_amb-4_Essence-Pebbles-blackTexture-antracite-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_Casalgrande-Padana-IMAGINA-_amb_fabricmetro-greystile-black.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Seadeck-9-External-View-2.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -735,9 +765,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/draft-your-carry-on-isnt-ready-for-cherry-blossom-season-in-japan-these-9-things-are/9_best_cherry_blossom_travel_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/apego-modular-pouf-concept-brings-nature-inspired-seating-for-playful-connected-spaces/apego-modular-pouf-concept-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/this-clever-corrugated-bookend-also-doubles-as-an-ipad-stand/fctndsn_bookend_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/04/10-best-furniture-designs-of-march-2025/10_best_furniture_march_yanko_design_hero.webp",
+        "https://www.yankodesign.com/images/design_news/2021/06/this-tiny-studio-apartment-sits-in-your-backyard-to-give-you-a-bonus-functional-and-flexible-space/1-garden_studio_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/09/auto-draft/pantone_dualities_winners_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -783,19 +813,6 @@
       "published": "2026-07-26T12:51:33+00:00"
     },
     {
-      "id": "d8f137ec2de83e57",
-      "title": "This Narrow Galley Kitchen Had More Storage Space Than It Seemed",
-      "summary": "The original kitchen squeezed every appliance along two narrow walls, leaving little counter space and no room for more than one person to cook. Oak cabinets stopped below the ceiling, the pantry sat outside the main workspace, and open shelving collected small appliances instead of storing them. In a remodel shared by Reddit user u/SeaMention123,... The post This Narrow Galley Kitchen Had More Storage Space Than It Seemed appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-narrow-galley-kitchen-had-more-storage-space-than-it-seemed/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Narrow-Galley-Kitchen-Started-Hiding-Storage-Behind-Every-Cabinet-Door.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Narrow-Galley-Kitchen-Started-Hiding-Storage-Behind-Every-Cabinet-Door.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-26T09:08:43+00:00"
-    },
-    {
       "id": "87eb84577c2a2ac0",
       "title": "Eight unique patios that beckon to the outdoors",
       "summary": "For our most recent lookbook, we look at homes where the threshold between indoor and outdoor spaces is thin, thanks to their sprawling patios that create the perfect place to kick back and relax outside. There's nothing quite like a warm, breezy walk from a kitchen to the backyard during a summertime hangout, and these The post Eight unique patios that beckon to the outdoors appeared first on Dezeen .",
@@ -818,9 +835,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/this-crafty-little-bed-comes-with-overhead-storage-like-youd-find-on-an-airplane/michael_hilgers_cobbo_bed_2.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/s2victor_fonv_pilates_equipment_gym_fitness_workout_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/auto-draft/sapphire_butterfly_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/01/behold-the-weirdest-coolest-gadgets-at-pepcom-during-ces-2025/pepcom_ces_2025_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/08/arrangement-pea/arrangement_pea_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/05/espresso-maker-compresso/handpresso_wild_hybrid_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -836,9 +853,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/modular-table-pivots-to-turn-from-work-desk-to-dining-table-to-social-space/ftp-modular-table-8.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/01/a-coatrack-for-compact-spaces/kuklovod_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/12/290387/1_2F1_2-Stools-from-1-Bicycle_Hyemin-Kim_upcycling-bike.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/07/these-four-armchairs-come-together-to-form-a-delightful-coffee-table/four_quarters_furniture_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/09/plane-dining-table-looks-like-a-precarious-game-of-jenga/plane-dining-12.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/07/auto-draft/grate_furniture_3.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1829,10 +1846,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2550,19 +2567,6 @@
       "published": "2026-06-25T16:02:00+00:00"
     },
     {
-      "id": "6919841da013825e",
-      "title": "Dramatic atriums define Bangkok shopping centre by Linehouse",
-      "summary": "Hong Kong studio Linehouse has designed the interiors for Bangkok's Central Park shopping centre, which are centred around three atriums clad in silver, copper and bronze. Adjacent to Lumpini Park, Thailand's first public park, Central Park is a mixed-use development located on the historic site of the Dusit Thani Hotel. The development comprises three towers The post Dramatic atriums define Bangkok shopping centre by Linehouse appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/25/linehouse-central-park-bangkok/",
-      "image": "http://static.dezeen.com/uploads/2026/06/linehouse-central-park-bangkok-shopping-centre-interiors-_dezeen_2364_col_sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/linehouse-central-park-bangkok-shopping-centre-interiors-_dezeen_2364_col_sq.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-25T05:00:28+00:00"
-    },
-    {
       "id": "bcba329464b72dfc",
       "title": "Custom furniture created for Azteca Stadium's interior revamp",
       "summary": "A group of local designers have showcased a custom furniture collection as part of an overall overhaul of the interiors at Mexico City's Azteca Stadium, one of the venues for the 2026 FIFA World Cup. Mexican studios CUAIK | CDS, Luis Huerta, Estudio Ignacio Urquiza Ana Paula de Alba, CAAM Arquitectos and Clásicos Mexicanos collaborated The post Custom furniture created for Azteca Stadium's interior revamp appeared first on Dezeen .",
@@ -2797,7 +2801,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3045,7 +3049,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3076,7 +3080,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
