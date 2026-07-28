@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-28T19:47:55.717375+00:00",
-  "generated_at_human": "2026-07-28 19:47 UTC",
-  "total_items": 234,
+  "generated_at": "2026-07-28T21:17:37.580279+00:00",
+  "generated_at_human": "2026-07-28 21:17 UTC",
+  "total_items": 235,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -17,6 +17,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -57,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
+  "sources_count": 52,
   "multi_photo_items": 56,
   "items": [
     {
@@ -68,9 +69,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=10146",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=59313",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=55957",
+        "https://i.archi.ru/i/1262/305304.jpg?r=76881",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=83380",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=97703",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -103,7 +104,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=78088",
+        "https://i.archi.ru/i/1262/125532.jpg?r=20369",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -137,6 +138,21 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "004212605e323506",
+      "title": "Transform An Old Wine Rack Into Chic Bathroom Storage With Thrifted Silverware",
+      "summary": "Surprisingly, vintage silverware has the perfect dimensions and aesthetic to transform your bathroom storage game - with the help of a simple wine rack.",
+      "url": "https://www.hunker.com/2221715/old-wine-rack-chic-bathroom-storage-thrifted-silverware/",
+      "image": "https://www.hunker.com/img/gallery/transform-an-old-wine-rack-into-chic-bathroom-storage-with-thrifted-silverware/l-intro-1784819499.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/transform-an-old-wine-rack-into-chic-bathroom-storage-with-thrifted-silverware/l-intro-1784819499.jpg",
+        "https://www.hunker.com/img/gallery/transform-an-old-wine-rack-into-chic-bathroom-storage-with-thrifted-silverware/intro-1784819499.jpg",
+        "https://www.hunker.com/img/gallery/transform-an-old-wine-rack-into-chic-bathroom-storage-with-thrifted-silverware/how-to-turn-an-old-wine-rack-into-a-bathroom-towel-holder-1784819501.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-28T20:30:00+00:00"
     },
     {
       "id": "edf568aafc0b2c23",
@@ -221,10 +237,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/pexels-alaritammsalu-6781593-800x820.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/pexels-liana-tril-86841229-33039671.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/03/ARREDARE-IL-TERRAZZO-CON-I-FIORI.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/01/GettyImages-1215158328.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/charlotte-cowell-vHomdqfDxgA-unsplash.jpg",
-        "https://www.internimagazine.it/content/uploads/2025/11/dragon-white-munthe-rrinmJOWY-I-unsplash.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/01/GettyImages-1215158328.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/03/ARREDARE-IL-TERRAZZO-CON-I-FIORI.jpg",
+        "https://www.internimagazine.it/content/uploads/2025/11/dragon-white-munthe-rrinmJOWY-I-unsplash.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -250,9 +266,7 @@
       "url": "https://www.hunker.com/2222435/valuable-vintage-dishware-lettuce-ware-dodie-thayer/",
       "image": "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/l-intro-1784899830.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/l-intro-1784899830.jpg",
-        "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/intro-1784899830.jpg",
-        "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/identifying-dodie-thayer-lettuceware-1784899832.jpg"
+        "https://www.hunker.com/img/gallery/the-food-inspired-vintage-dishware-thats-highly-valuable/l-intro-1784899830.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -296,9 +310,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/01/03/desk2_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/05/03/bcn_stool_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/rewear-chair-turns-clothes-airing-into-a-stylish-and-sustainable-habit/rewear-chair-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/10_podidladla_claradacruzalmeidadoktorandmisses_prefabcabin.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/06/stool-designs/03_Sado_MartinLuu_UnconventionalChairDesign.png",
+        "https://www.yankodesign.com/images/design_news/2026/01/this-trolley-stacks-and-rotates-like-shipping-containers-at-a-port/harbor-051-rotatable-storage-trolley-concept-10.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -473,7 +487,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/napoli-on-the-road-isern-serra_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-28T08:00:53+00:00"
     },
@@ -890,10 +904,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/01_Riflessi-Feb26-800-A-768x589.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Riflessi-Feb26-242.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/CP-Convivialis-amb-Wide-plus-160.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Seadeck-9-External-View-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Nardi_Plano_MEN_1257.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Nardi_Plano_MEN_1257.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/CP-Convivialis-amb-Wide-plus-160.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -911,7 +925,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_Casalgrande-Pasana-GHOST-_amb_invisible_marmorker-night-stormmetropolis-greige-dett-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Casalgrande-Padana-ELEMENTS-_amb-4_Essence-Pebbles-blackTexture-antracite-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_Casalgrande-Padana-IMAGINA-_amb_fabricmetro-greystile-black.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Nardi_Plano_MEN_1257.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1001,7 +1015,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/public-art-company-studio_dezeen_sq1ex.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T16:00:27+00:00"
     },
@@ -1027,7 +1041,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/nz10-apartment-auba-studio-architecture-residential-palma-spain_dezeen_2364_sq-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T09:00:50+00:00"
     },
@@ -1755,7 +1769,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
     },
@@ -2796,7 +2810,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3044,7 +3058,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3075,7 +3089,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
