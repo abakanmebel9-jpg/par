@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-28T03:28:42.385084+00:00",
-  "generated_at_human": "2026-07-28 03:28 UTC",
-  "total_items": 236,
+  "generated_at": "2026-07-28T06:36:42.367020+00:00",
+  "generated_at_human": "2026-07-28 06:36 UTC",
+  "total_items": 235,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -17,6 +17,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -59,8 +60,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 57,
+  "sources_count": 54,
+  "multi_photo_items": 56,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -70,9 +71,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=24208",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=19389",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=84971",
+        "https://i.archi.ru/i/1262/305304.jpg?r=38535",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=66532",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=26125",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -105,7 +106,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=65309",
+        "https://i.archi.ru/i/1262/125532.jpg?r=44844",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -141,6 +142,40 @@
       "published": ""
     },
     {
+      "id": "8145140dcf7cf380",
+      "title": "MasterChef’s Laura Sharrad is building a kitchen for pasta parties",
+      "summary": "Plus, juggling motherhood with a booming career, her dream kitchen wish list, and a big life update involving cow pats. The post MasterChef’s Laura Sharrad is building a kitchen for pasta parties appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/podcast/laura-sharrad-the-edit-podcast/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?v=1785120746",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?v=1785120746",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?w=2729",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/06/heating-6a68019a6f41b.jpg?w=2729",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/07/1658205266052_restored-stone-cottage-kitchen-southern-tablelands-scaled.jpg?crop=0px%2C771px%2C1704px%2C1281px&resize=1950%2C1462&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/10/HB-AL-Hawkesbury-7678_w1920-scaled.jpg?crop=0px%2C1220px%2C1708px%2C1281px&resize=1950%2C1462&format=auto"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-28T05:02:33+00:00"
+    },
+    {
+      "id": "88aa28985878ad56",
+      "title": "Live out a Georgian-inspired fantasy at The Zetter Bloomsbury",
+      "summary": "The Zetter Group brings its signature residential feel to Bloomsbury, with thoughtfully curated interiors set across six Georgian townhouses beside the British Museum",
+      "url": "https://www.wallpaper.com/travel/hotels/the-zetter-bloomsbury-london-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/F5PZ66wH9DiPefTmPX5HaE.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/F5PZ66wH9DiPefTmPX5HaE.jpg",
+        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-07-28T05:00:00+00:00"
+    },
+    {
       "id": "8c4d38aba3923091",
       "title": "A modern Bruny Island beach house where you can spot dolphins from the living room",
       "summary": "A family's treasured weekender has been designed to capture the sun while withstanding the elements The post A modern Bruny Island beach house where you can spot dolphins from the living room appeared first on Homes To Love .",
@@ -149,9 +184,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?v=1785200928",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t150758.009-6a68395bbc860.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/01/copy-of-site-feature-horizontal-1920-x-1080-2026-01-30t172623.632-697c4f28d15ef.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2016/10/Jackie-Brygel.png?w=2048"
       ],
       "source": "Homes To Love AU",
@@ -165,12 +200,7 @@
       "url": "https://www.homestolove.com.au/lifestyle/the-songbird-bruny-island/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?v=1784863481",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?v=1784863481",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-7-6a62ecff64fac-scaled.jpg?resize=2560%2C1707"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?v=1784863481"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -345,9 +375,9 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Single-Car-Garage-Started-Working-Like-a-Full-Workshop.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Laundry-Room-Walls-Were-Sweating-Every-Time-the-Dryer-Ran.-The-Problem-Was-Hidden-Inside.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Dug-a-20-Foot-Circle-Into-His-Lawn-and-Built-a-Fire-Pit-Surrounded-by-Hydrangeas.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -448,10 +478,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1970s-Plant-Hanger-Is-Finding-Its-Way-Back-Into-Homes.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Kitchens-Are-Breaking-Up-the-Wall-of-Upper-Cabinets-With-a-Different-Storage-Approach.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-Laundry-Room-Walls-Were-Sweating-Every-Time-the-Dryer-Ran.-The-Problem-Was-Hidden-Inside.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Single-Car-Garage-Started-Working-Like-a-Full-Workshop.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Marble-Furniture-Started-Moving-Beyond-Kitchens-and-Bathrooms-homedit-interior-design-ideass.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Dug-a-20-Foot-Circle-Into-His-Lawn-and-Built-a-Fire-Pit-Surrounded-by-Hydrangeas.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Not-Gravel-Not-Pavers-This-Garden-Path-Uses-a-Mix-of-Materials-Instead.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -593,9 +623,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?v=1785133543",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t150758.009-6a68395bbc860.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/01/copy-of-site-feature-horizontal-1920-x-1080-2026-01-30t172623.632-697c4f28d15ef.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/12/copy-of-site-feature-horizontal-1920-x-1080-61-693a1c77df1d0.png?resize=1950%2C1462"
       ],
       "source": "Homes To Love AU",
@@ -705,9 +735,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/01/penguin/penguin_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/auto-draft/disconnected_cutlery_set_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/this-129-floating-pen-doesnt-just-write-it-spins-for-30-seconds/Levitating-Pen_3_Desk-Object_Hovers_12.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/03/draft-your-carry-on-isnt-ready-for-cherry-blossom-season-in-japan-these-9-things-are/9_best_cherry_blossom_travel_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/05/apego-modular-pouf-concept-brings-nature-inspired-seating-for-playful-connected-spaces/apego-modular-pouf-concept-04.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/11/this-clever-corrugated-bookend-also-doubles-as-an-ipad-stand/fctndsn_bookend_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -779,19 +809,6 @@
       "published": "2026-07-26T09:00:50+00:00"
     },
     {
-      "id": "09bdb908ca6b13d1",
-      "title": "This Material Is Making Its Way Into Every Part of the Kitchen",
-      "summary": "Brass once occupied small spots in the kitchen through cabinet pulls, faucets, and light fixtures. This kitchen takes the material far beyond those familiar uses, carrying metal finishes across cabinetry, shelving, appliance details, and the island. Instead of adding a few matching accents, the design changes the scale and finish of the metal from place... The post This Material Is Making Its Way Into Every Part of the Kitchen appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-material-is-making-its-way-into-every-part-of-the-kitchen/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Material-Is-Making-Its-Way-Into-Every-Part-of-the-Kitchen.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Material-Is-Making-Its-Way-Into-Every-Part-of-the-Kitchen.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-26T07:15:24+00:00"
-    },
-    {
       "id": "9ac69460568d04fe",
       "title": "Ergonomic chairs rarely account for taller, broader users. LiberNovo built one, and it’s on discount for a week",
       "summary": "Ergonomic chairs rarely account for taller, broader users. LiberNovo built one, and it’s on discount for a week Ergonomic chairs may finally be having their XL moment. For years, the category has obsessed over lumbar dials, mesh backs, and posture-perfect adjustability, while a...",
@@ -801,9 +818,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/foldable-3d-printer-concept-could-revolutionize-design-and-manufacturing-industries/foldable-3d-printer-concept-05.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/tech-gadgets-of-november/5_best_tech_gadgets_november_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/06/tuner/01-roadie3_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/11/this-crafty-little-bed-comes-with-overhead-storage-like-youd-find-on-an-airplane/michael_hilgers_cobbo_bed_2.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/08/s2victor_fonv_pilates_equipment_gym_fitness_workout_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/auto-draft/sapphire_butterfly_chair_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -819,9 +836,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/infinix-hot-70-series-review-designed-like-a-flagship-not-priced-like-one/Infinix-Hot70-Pro-Thermo-Orange-Review-YankoDesign-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/01/29/nuno_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/modular_vinyl_table-yankodesign-02.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/ultra-silent-brass-fidget-piston-is-built-with-such-precise-tolerances-that-air-becomes-the-spring/MetMo-Brass-Fidget-Piston_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/03/modular-table-pivots-to-turn-from-work-desk-to-dining-table-to-social-space/ftp-modular-table-8.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/01/a-coatrack-for-compact-spaces/kuklovod_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/12/290387/1_2F1_2-Stools-from-1-Bicycle_Hyemin-Kim_upcycling-bike.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1039,10 +1056,7 @@
       "url": "https://www.wallpaper.com/architecture/residential/midcentury-pierre-koenig-house-jamie-bush-usa",
       "image": "https://cdn.mos.cms.futurecdn.net/zgyn4gEou4MuTtFP6xQe4b.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/zgyn4gEou4MuTtFP6xQe4b.jpg",
-        "https://images.fie.futurecdn.net/lz2xjwnphyxhiqek-17745299135936.jpg.webp",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/zgyn4gEou4MuTtFP6xQe4b.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -1672,7 +1686,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
     },
@@ -1815,10 +1829,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/KqYIf9w9-DRONE-VIEW-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/36vOyYzH-LINE-UP.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Rigenera-docu-0024-photo-by-hund.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/11-UIA2026BCN_Opening-June-28_Photo-by-Anna-Mas_46.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/165A2585.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1832,7 +1846,7 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/28_greg_natale_new_york_ii-6a597c5ec339d-scaled.jpg?v=1784258187",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/28_greg_natale_new_york_ii-6a597c5ec339d-scaled.jpg?v=1784258187",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-buy-original-australian-art-online--6a6315929e9da.png?w=2730",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/06/heating-6a68019a6f41b.jpg?w=2729",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Hanna-Marton.jpg?w=2048",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560",
@@ -1854,7 +1868,7 @@
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/cooks-collective-expandable-tiered-bamboo-shelf.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/Academy-beechwood-scoop-harris-scarfe.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/03/spode-italian-spice-jar-set-of-six-amazon.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-buy-original-australian-art-online--6a6315929e9da.png?w=2730"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?w=2729"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1926,24 +1940,6 @@
       "published": "2026-07-16T08:00:01+00:00"
     },
     {
-      "id": "35603a625c3eb191",
-      "title": "The kitchen garden is our favourite whimsical decorating trend of 2026",
-      "summary": "This garden inspired kitchen trend showcases the beauty of fresh produce, botanical patterns and abundant greenery. The post The kitchen garden is our favourite whimsical decorating trend of 2026 appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/home-ideas/garden-inspired-kitchen/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/HB-AL-Hawkesbury-7678_w1920-scaled.jpg?v=1729637837",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/HB-AL-Hawkesbury-7678_w1920-scaled.jpg?v=1729637837",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-buy-original-australian-art-online--6a6315929e9da.png?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/06/heating-6a68019a6f41b.jpg?w=2729",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/08/Brittany-Smith.png?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/01/Lucy-Gough.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/10/kitchen-garden-items-pomegranate-tea-towel-6a58683a48937.jpg?w=2048"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-07-16T05:55:00+00:00"
-    },
-    {
       "id": "cab30483867ddcd8",
       "title": "Coles is releasing a Bluey-themed range, and we want the lot",
       "summary": "Granny chair or the duck cake mould? The post Coles is releasing a Bluey-themed range, and we want the lot appeared first on Better Homes & Gardens Australia .",
@@ -1955,19 +1951,6 @@
       "source": "Better Homes & Gardens AU",
       "source_url": "https://www.bhg.com.au",
       "published": "2026-07-16T03:23:15+00:00"
-    },
-    {
-      "id": "8dae90f4df5f002f",
-      "title": "The $10 Kmart storage solution taking over Aussie bathrooms",
-      "summary": "Would this work in your house? The post The $10 Kmart storage solution taking over Aussie bathrooms appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/shopping/product-reviews/kmart-toilet-roll-holder/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg?v=1784065946",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/kmart-toilet-holder-6a56ae7b4eb5a.jpg?v=1784065946"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-07-16T02:48:34+00:00"
     },
     {
       "id": "7d1022c9dc0de763",
@@ -3074,11 +3057,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/08/DIY-Hairpin-Table-Shanty2Chic.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/11/DIY-Dining-Table-By-Shanty2CHic.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/06/DIY-PAINTED-CABINETS-BY-SHANTY2CHIC.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/05/DIY-Full-Sized-Bed-Plans-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/02/diy-countertop-spice-rack.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
