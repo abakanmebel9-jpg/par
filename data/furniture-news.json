@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-29T21:08:44.254950+00:00",
-  "generated_at_human": "2026-07-29 21:08 UTC",
-  "total_items": 230,
+  "generated_at": "2026-07-29T23:09:13.251351+00:00",
+  "generated_at_human": "2026-07-29 23:09 UTC",
+  "total_items": 233,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -57,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
+  "sources_count": 52,
   "multi_photo_items": 56,
   "items": [
     {
@@ -68,9 +69,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=28879",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=18381",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=55492",
+        "https://i.archi.ru/i/1262/305304.jpg?r=75005",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=86498",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=16018",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -103,7 +104,7 @@
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=21863",
+        "https://i.archi.ru/i/1262/125532.jpg?r=4832",
         "https://i.archi.ru/i/1262/509504.jpg",
         "https://i.archi.ru/i/458415.png",
         "https://i.archi.ru/news/main_images/280x280/494340.jpg"
@@ -137,6 +138,47 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "13e9ad7e046a7115",
+      "title": "This 70-Inch NYC Living Room Somehow Fits Everything It Needs",
+      "summary": "This living room redo is chock-full of tips for filling up a small space without it feeling overwhelming. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/small-nyc-living-room-redo-with-exposed-brick-ba-37562461?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2023-07/paulina-b-living-room/paulina-b-living-room-before-horiz",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2023-07/paulina-b-living-room/paulina-b-living-room-before-horiz"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-29T22:00:00+00:00"
+    },
+    {
+      "id": "e316293d91ed0929",
+      "title": "Insta360’s foldable drone patent targets DJI Neo 2 at sub-250g",
+      "summary": "Insta360’s foldable drone patent targets DJI Neo 2 at sub-250g Insta360 built its reputation on cameras that see in every direction at once. It’s literally in their name. The X series made 360-degree capture accessible;...",
+      "url": "https://www.yankodesign.com/2026/07/29/insta360s-foldable-drone-patent-targets-dji-neo-2-at-sub-250g/?utm_source=rss&utm_medium=rss&utm_campaign=insta360s-foldable-drone-patent-targets-dji-neo-2-at-sub-250g",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/insta360s-foldable-drone-patent-targets-dji-neo-2-at-sub-250g/insta360_folding_drone_0.jpeg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/insta360s-foldable-drone-patent-targets-dji-neo-2-at-sub-250g/insta360_folding_drone_0.jpeg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-29T21:30:35+00:00"
+    },
+    {
+      "id": "7490f230f201f77e",
+      "title": "Use An Old Milk Jug To Create Adorable Countertop Storage With This Clever DIY",
+      "summary": "You may instinctively toss empty milk jugs in the trash. But with a simple DIY and low-cost supplies, you can transform them into stylish countertop storage.",
+      "url": "https://www.hunker.com/2222276/reuse-milk-jug-diy-kitchen-countertop-storage-utensils/",
+      "image": "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/l-intro-1784857506.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/l-intro-1784857506.jpg",
+        "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/intro-1784857506.jpg",
+        "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/upcycle-your-milk-jug-into-a-storage-container-1784857507.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-29T21:00:00+00:00"
     },
     {
       "id": "2faf9cb913c0b2aa",
@@ -286,9 +328,7 @@
       "url": "https://www.hunker.com/2221680/japanese-trivets-kitchen-item-we-want/",
       "image": "https://www.hunker.com/img/gallery/japanese-trivets-kitchen-item-we-want/l-intro-1785149463.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/japanese-trivets-kitchen-item-we-want/l-intro-1785149463.jpg",
-        "https://www.hunker.com/img/gallery/japanese-trivets-kitchen-item-we-want/intro-1785149463.jpg",
-        "https://www.hunker.com/img/gallery/japanese-trivets-kitchen-item-we-want/how-to-use-a-japanese-trivet-in-your-home-1785149465.jpg"
+        "https://www.hunker.com/img/gallery/japanese-trivets-kitchen-item-we-want/l-intro-1785149463.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -526,10 +566,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/pexels-alaritammsalu-6781593-800x820.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/pexels-liana-tril-86841229-33039671.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/01/GettyImages-1215158328.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/charlotte-cowell-vHomdqfDxgA-unsplash.jpg",
-        "https://www.internimagazine.it/content/uploads/2025/11/dragon-white-munthe-rrinmJOWY-I-unsplash.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/03/ARREDARE-IL-TERRAZZO-CON-I-FIORI.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/03/ARREDARE-IL-TERRAZZO-CON-I-FIORI.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/01/GettyImages-1215158328.jpg",
+        "https://www.internimagazine.it/content/uploads/2025/11/dragon-white-munthe-rrinmJOWY-I-unsplash.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -573,9 +613,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/06/24/origin_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/monom/Monom-Seater-Sample.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/top-10-products-that-elevate-your-meditation-practice/00-meditation-furniture.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/12/a-little-better-laundry-basket/justlook_laundrybasket_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/02/draft/ofis_collection_chmara_rosinke_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/stanley-doesnt-make-gym-equipment-but-this-stylish-kettlebell-proves-it-should/stanley_kettlebell_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -593,19 +633,6 @@
       "source": "Garden & Home SA",
       "source_url": "https://gardenandhome.co.za",
       "published": "2026-07-28T14:05:03+00:00"
-    },
-    {
-      "id": "431a9a43ed91dbb0",
-      "title": "\"Chainmail Chic\" Is the Bold, Romantic Decor Trend We Didn't See Coming",
-      "summary": "From the set of \"House of the Dragon\" to your living room, chainmail is the unexpected material designers are loving this year. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/chainmail-chic-trend-new-next-list-37683146?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/style/2026/2026-07/chainmail-chic/wretched-flowers-lamp-lead-1",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/style/2026/2026-07/chainmail-chic/wretched-flowers-lamp-lead-1"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-28T13:30:00+00:00"
     },
     {
       "id": "cd8c8dbd16062e63",
@@ -771,6 +798,19 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-07-28T01:10:24+00:00"
+    },
+    {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
     },
     {
       "id": "86626b097c480b3f",
@@ -1006,10 +1046,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/01_Riflessi-Feb26-800-A-768x589.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Riflessi-Feb26-242.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Seadeck-9-External-View-2.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/CP-Convivialis-amb-Wide-plus-160.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/CP-Convivialis-amb-Wide-plus-160.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1027,7 +1067,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_Casalgrande-Pasana-GHOST-_amb_invisible_marmorker-night-stormmetropolis-greige-dett-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Casalgrande-Padana-ELEMENTS-_amb-4_Essence-Pebbles-blackTexture-antracite-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_Casalgrande-Padana-IMAGINA-_amb_fabricmetro-greystile-black.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Riflessi-Feb26-256.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Seadeck-9-External-View-2.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1100,9 +1140,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/a-lounge-for-lazy-lovers/caliner_furniture_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/12/smallest_3-in-1_outdoor_pump_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/09/16/cyble_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/11/transforming-furniture-designs/transformative_furniture_ds_yanko_design-03.jpeg",
+        "https://www.yankodesign.com/images/design_news/2026/07/insta360s-foldable-drone-patent-targets-dji-neo-2-at-sub-250g/insta360_folding_drone_0.jpeg",
+        "https://www.yankodesign.com/images/design_news/2026/07/stanley-doesnt-make-gym-equipment-but-this-stylish-kettlebell-proves-it-should/stanley_kettlebell_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1157,9 +1197,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/06/auto-draft/elytra_table_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/this-lego-tow-mater-build-will-make-even-lightning-mcqueen-jealous/cars_tow_mater_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/01/nasas-innovative-x-59-the-supersonic-jet-designed-to-fly-with-a-whisper-not-a-boom/x59_flying_004-gray-nose-aug.jpeg"
+        "https://www.yankodesign.com/images/design_news/2026/05/draft-ire5/ire5_gen2_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/08/apple-accessories-designed-to-fulfill-every-tech-lovers-dream-part-2/01_Apple-Watch-iPod-Case_Mac-accessories.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/05/26/eroll.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2743,7 +2783,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -2991,7 +3031,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3003,11 +3043,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/04/Easy-Barn-Door-DIY.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/02/Rustic-Modern-Nightstand-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3022,7 +3062,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
