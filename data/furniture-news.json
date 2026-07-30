@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-30T12:00:26.151542+00:00",
-  "generated_at_human": "2026-07-30 12:00 UTC",
+  "generated_at": "2026-07-30T14:26:49.998939+00:00",
+  "generated_at_human": "2026-07-30 14:26 UTC",
   "total_items": 235,
   "sources_used": [
     "Apartment Therapy",
@@ -10,13 +10,13 @@
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
-    "Bob Vila",
     "Core77",
     "DM tag cabinets",
     "DM tag furniture",
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -69,11 +69,28 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=55720",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=48468",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=77416",
+        "https://i.archi.ru/i/1262/305304.jpg?r=90780",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=54607",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=63954",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "59230548690ecfa4",
+      "title": "Пространственный сдвиг",
+      "summary": "Петербургский Манеж продолжил серию архитектурных инсталляций работой бразильского художника Роммула Вьейра Консейсана: на этот раз площадь перед западным фасадом украсил лабиринт из оград и цветного поликарбоната.",
+      "url": "https://archi.ru/russia/102556/prostranstvennyi-sdvig",
+      "image": "https://i.archi.ru/i/1262/510343.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/510343.jpg",
+        "https://i.archi.ru/i/1262/510344.jpg",
+        "https://i.archi.ru/news/main_images/280x280/415041.jpg",
+        "https://i.archi.ru/news/main_images/280x280/279195.jpg",
+        "https://i.archi.ru/i/1262/279201.jpg"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -103,13 +120,9 @@
       "url": "https://archi.ru/world/102495/zelenye-mechty-i-speleologicheskie-vpechatleniya",
       "image": "https://i.archi.ru/i/1262/509497.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/509497.jpg",
-        "https://i.archi.ru/i/1262/125532.jpg?r=43833",
-        "https://i.archi.ru/i/1262/509504.jpg",
-        "https://i.archi.ru/i/458415.png",
-        "https://i.archi.ru/news/main_images/280x280/494340.jpg"
+        "https://i.archi.ru/i/1262/509497.jpg"
       ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -138,6 +151,68 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "d7b1bf745c794ee5",
+      "title": "DJI Osmo Pocket 4P Review: Finally a Pocket Camera That Flatters Faces",
+      "summary": "DJI Osmo Pocket 4P Review: Finally a Pocket Camera That Flatters Faces Compact cameras have gotten remarkably capable over the past few years. Smartphones shoot impressive footage, action cameras have become tiny powerhouses, and entry-level mirrorless setups...",
+      "url": "https://www.yankodesign.com/2026/07/30/dji-osmo-pocket-4p-review-finally-a-pocket-camera-that-flatters-faces/?utm_source=rss&utm_medium=rss&utm_campaign=dji-osmo-pocket-4p-review-finally-a-pocket-camera-that-flatters-faces",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/dji-osmo-pocket-4p-review-finally-a-pocket-camera-that-flatters-faces/dji-osmo-pocket-4p-review-04.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/dji-osmo-pocket-4p-review-finally-a-pocket-camera-that-flatters-faces/dji-osmo-pocket-4p-review-04.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-30T14:00:28+00:00"
+    },
+    {
+      "id": "98c8d713eb629e9f",
+      "title": "Modhaus' Wireless Phone Charger with a Concrete Base",
+      "summary": "To prevent sliding around on a tabletop, most wireless chargers have rubber feet or silicone pads under their bases. The folks over at Modhaus , a South Korean product brand, went with a more extreme solution: The base of their Upright charger is cast concrete. For the phone-facing surface, they went with hardwood, offering both Oak and Walnut. The $78 charger was Kickstarted within hours. The campaign's done now, but they're still taking pre-orders.",
+      "url": "https://www.core77.com/posts/144901/Modhaus-Wireless-Phone-Charger-with-a-Concrete-Base",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1843582_lead_400_144901_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1843582_lead_400_144901_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-07-30T14:00:00+00:00"
+    },
+    {
+      "id": "604b854e1dd2fc35",
+      "title": "A Rough Facebook Marketplace Dresser Looks Completely Different in French Powder Blue",
+      "summary": "Worn lacquer, scratches, and damaged patches covered this Facebook Marketplace dresser, but its bowed drawer fronts, curved feet, shaped top, and ornate hardware were still intact. Reddit user u/Zio_2 bought the Dixie dresser when he needed storage and used it for his first furniture refresh. Instead of changing the dresser’s shape, he removed the failing... The post A Rough Facebook Marketplace Dresser Looks Completely Different in French Powder Blue appeared first on Homedit .",
+      "url": "https://www.homedit.com/a-rough-facebook-marketplace-dresser-looks-completely-different-in-french-powder-blue/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Rough-Facebook-Marketplace-Dresser-Looks-Completely-Different-in-French-Powder-Blue.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/A-Rough-Facebook-Marketplace-Dresser-Looks-Completely-Different-in-French-Powder-Blue.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Your-Shower-Tiles-Still-Look-Dirty-After-Grouting.-Dont-Keep-Wiping-Them.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Original-Hardware-Went-Back-Onto-the-Painted-Drawers.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/French-Powder-Blue-Replaced-the-Worn-Brown-Finish.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Sanding-Removed-What-the-Stripper-Left-Behind.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Old-Lacquer-Stayed-Inside-the-Molded-Edges.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-07-30T13:33:33+00:00"
+    },
+    {
+      "id": "fb06c6627f7a8dad",
+      "title": "10 Most Exciting New IKEA Kitchen Finds Of 2026 (So Far)",
+      "summary": "IKEA is, of course, constantly introducing new products. We've found some of the most exciting new gadgets, furnishing, and dishware for a kitchen refresh.",
+      "url": "https://www.hunker.com/2226751/best-new-ikea-kitchen-items-2026/",
+      "image": "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/l-intro-1785375601.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/l-intro-1785375601.jpg",
+        "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/intro-1785375601.jpg",
+        "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/nlblecka-corner-shelf-1785375603.jpg",
+        "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/uppfylld-ice-pop-maker-1785375603.jpg",
+        "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/tofsand-plate-stand-1785375604.jpg",
+        "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/spjutlilja-dish-drainer-1785375604.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-30T13:00:00+00:00"
     },
     {
       "id": "d4c1842f7dc9113e",
@@ -311,7 +386,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-11.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-10.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Riflessi-Feb26-256.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -413,9 +488,7 @@
       "url": "https://www.hunker.com/2222276/reuse-milk-jug-diy-kitchen-countertop-storage-utensils/",
       "image": "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/l-intro-1784857506.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/l-intro-1784857506.jpg",
-        "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/intro-1784857506.jpg",
-        "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/upcycle-your-milk-jug-into-a-storage-container-1784857507.jpg"
+        "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/l-intro-1784857506.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -493,12 +566,7 @@
       "url": "https://www.homedit.com/this-worn-wood-desk-looks-like-it-got-a-new-top-but-the-original-is-still-underneath/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Worn-Wood-Desk-Looks-Like-It-Got-a-New-Top-but-the-Original-Is-Still-Underneath.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Worn-Wood-Desk-Looks-Like-It-Got-a-New-Top-but-the-Original-Is-Still-Underneath.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Your-Shower-Tiles-Still-Look-Dirty-After-Grouting.-Dont-Keep-Wiping-Them.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/These-Kitchens-Found-Storage-Space-in-Places-Most-Designs-Ignore.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-Dark-Wood-Cabinets-Two-Shades-of-Green-and-the-Kitchen-Felt-Much-More-Open.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Backyards-Are-Trading-Flat-Lawns-for-Curves-Mounds-and-Defined-Paths.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/These-Travertine-Slabs-Turned-Into-a-Side-Table-With-Just-Mounting-Adhesive.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Worn-Wood-Desk-Looks-Like-It-Got-a-New-Top-but-the-Original-Is-Still-Underneath.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -598,19 +666,6 @@
       "published": "2026-07-29T10:30:32+00:00"
     },
     {
-      "id": "8a1a0987929b8131",
-      "title": "Brass Is Moving Beyond Faucets and Cabinet Hardware",
-      "summary": "Brass once occupied some of the smallest parts of a room: faucet handles, drawer pulls, hinges, and other hardware. These interiors and objects show the finish moving into pieces with far more visual weight, including lighting, tables, wall decor, shower fittings, and accessories. Scale changes from one example to the next, but brass does not... The post Brass Is Moving Beyond Faucets and Cabinet Hardware appeared first on Homedit .",
-      "url": "https://www.homedit.com/brass-is-moving-beyond-faucets-and-cabinet-hardware/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Brass-Is-Moving-Beyond-Faucets-and-Cabinet-Hardware.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Brass-Is-Moving-Beyond-Faucets-and-Cabinet-Hardware.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-29T10:10:58+00:00"
-    },
-    {
       "id": "4691efab5c490a4e",
       "title": "Parco dei Sesi: An Oasis on an Italian Island (With 9 Design Ideas to Borrow)",
       "summary": "The best kind of souvenir? A design idea to implement at home. Today we’re taking a look at Parco dei Sesi, a “guest house, artist residency, and organic farm” with the dreamiest of interiors. It’s located on the island of Pantelleria, an Italian commune in the Mediterranean Sea, midway between Italy and Tunisia. Here are […]",
@@ -635,19 +690,6 @@
       "source": "Design Boom architecture",
       "source_url": "https://www.designboom.com",
       "published": "2026-07-29T09:51:47+00:00"
-    },
-    {
-      "id": "7de2d91a1f2a2333",
-      "title": "They Combined His-and-Hers Bathrooms Into One, but Kept Two Showers",
-      "summary": "Many primary bathroom remodels replace the finishes while keeping the same basic layout. This one removed the layout itself. In a renovation shared by Reddit user u/GeezyMart, two separate his-and-hers bathroom spaces were gutted and combined into one large room with two showers, two vanities, a freestanding tub, and a separate water closet. The $65,000... The post They Combined His-and-Hers Bathrooms Into One, but Kept Two Showers appeared first on Homedit .",
-      "url": "https://www.homedit.com/they-combined-his-and-hers-bathrooms-into-one-but-kept-two-showers/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Combined-His-and-Hers-Bathrooms-Into-One-but-Kept-Two-Showers.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Combined-His-and-Hers-Bathrooms-Into-One-but-Kept-Two-Showers.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-07-29T09:13:28+00:00"
     },
     {
       "id": "4c0ff4af5d933df6",
@@ -759,19 +801,6 @@
       "published": "2026-07-28T18:00:41+00:00"
     },
     {
-      "id": "4ef7b380dde21590",
-      "title": "Daniela Araya Is a \"Color Therapist\" — Her Joyful Interiors Are Going Viral",
-      "summary": "It’s a scientific approach that’ll change how you think about paint, upholstery, and more. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/daniela-araya-color-expert-interior-designer-37683269?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2026/new-next-list/daniela-araya/portrait-1",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2026/new-next-list/daniela-araya/portrait-1"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-07-28T17:30:00+00:00"
-    },
-    {
       "id": "579bcbb4f4813166",
       "title": "Le vacanze finiranno. Le case, invece, se le porteranno dentro",
       "summary": "Viaggiare cambia il nostro sguardo. E, senza accorgercene, anche il modo di arredare, vivere e far fiorire la casa The post Le vacanze finiranno. Le case, invece, se le porteranno dentro appeared first on Interni Magazine .",
@@ -825,9 +854,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/380719/The-Arch-Chair-Design.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/09/this-ultra-minimalist-lamp-is-cute-enough-to-pet/pet-lamp-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/bubble_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/01/this-silicone-pen-has-no-seams-no-clip-and-twists-like-konjac/kaco-twist-pen-05.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/t-able-urban-furniture-concept-makes-public-spaces-inclusive/t-able-inclusive-outdoor-furniture-concept-08.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/07/11/plytube01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -933,19 +962,6 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-07-28T05:02:33+00:00"
-    },
-    {
-      "id": "88aa28985878ad56",
-      "title": "Live out a Georgian-inspired fantasy at The Zetter Bloomsbury",
-      "summary": "The Zetter Group brings its signature residential feel to Bloomsbury, with thoughtfully curated interiors set across six Georgian townhouses beside the British Museum",
-      "url": "https://www.wallpaper.com/travel/hotels/the-zetter-bloomsbury-london-review",
-      "image": "https://cdn.mos.cms.futurecdn.net/F5PZ66wH9DiPefTmPX5HaE.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/F5PZ66wH9DiPefTmPX5HaE.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-07-28T05:00:00+00:00"
     },
     {
       "id": "8c4d38aba3923091",
@@ -1181,9 +1197,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/01_Riflessi-Feb26-800-A-768x589.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/04_Riflessi-Feb26-242.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/susy-pet-design-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/TRAVERTINO-PARADISO-SCALA-A-CHIOCCIOLA-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-1-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/CP-Convivialis-amb-Wide-plus-160.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg"
       ],
       "source": "Interni magazine",
@@ -1257,9 +1273,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/10/21/framera.jpg",
-        "https://www.yankodesign.com/images/design_news/1970/01/01/teapot.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/09/02/muse.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/04/knitty-lounge-chair/knitty_lounge_chair_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/01/travel-products-for-the-adventurous-explorer-in-2025/10_best_travel_products_adventurous_explorers_yanko_design_hero.webp",
+        "https://www.yankodesign.com/images/design_news/2025/03/auto-draft/miatone_magsafe_bluetooth_speaker_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1301,9 +1317,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/brevilles-oracle-dual-boiler-uses-smart-auto-dial-in-technology-to-finally-perfect-your-home-espresso-game/Breville-Oracle-Dual-Boiler-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/moto-parilla-tricolore-electric-mtb-has-more-carbon-fiber-than-your-favorite-superbike/Moto-parilla-Tricolore-e-bike-11.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/auto-draft/plumage_keyboard_case_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/08/09/spot_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/auto-draft/lego_backstreet_boys_i_want_it_that_way_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2015/11/auto-draft/pear_sleep_assistant_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1352,19 +1368,6 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-24T22:30:31+00:00"
-    },
-    {
-      "id": "eb661b6a8095316f",
-      "title": "MDF vs. Plywood: What’s Best For Your Project?",
-      "summary": "Though they look similar, these inexpensive wood alternatives aren't interchangeable. The post MDF vs. Plywood: What’s Best For Your Project? appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/articles/mdf-vs-plywood/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2018/04/MDF_vs_Plywood.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2018/04/MDF_vs_Plywood.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-07-24T17:56:26+00:00"
     },
     {
       "id": "59dfcff14d817907",
@@ -1859,7 +1862,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
     },
