@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-30T20:22:18.434521+00:00",
-  "generated_at_human": "2026-07-30 20:22 UTC",
-  "total_items": 235,
+  "generated_at": "2026-07-30T22:15:50.443022+00:00",
+  "generated_at_human": "2026-07-30 22:15 UTC",
+  "total_items": 236,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -16,6 +16,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -57,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
+  "sources_count": 52,
   "multi_photo_items": 52,
   "items": [
     {
@@ -68,9 +69,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=45602",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=78305",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=79172",
+        "https://i.archi.ru/i/1262/305304.jpg?r=71305",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=46159",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=97051",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -150,6 +151,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "a4881d20fb970974",
+      "title": "rhythmic timber and glass pavilion unfolds beneath pecan tree canopy in argentina",
+      "summary": "the open plan shifts between enclosed and landscape-connected configurations. The post rhythmic timber and glass pavilion unfolds beneath pecan tree canopy in argentina appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/rhythmic-timber-glass-pavilion-pecan-tree-canopy-argentina-pabellon-los-troncos-galetto-estudio/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/07/pabellon-los-troncos-galetto-estudio-pavilion-tree-canopy-argentina-designboom-700-500x400-22b08q85r751.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/07/pabellon-los-troncos-galetto-estudio-pavilion-tree-canopy-argentina-designboom-700-500x400-22b08q85r751.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-07-30T20:35:57+00:00"
     },
     {
       "id": "737d3986d8620a2c",
@@ -498,9 +512,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-coastal-garden-6a6a9bf9cad70.png?format=auto&v=1785371692",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-coastal-garden-6a6a9bf9cad70.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/edwina-bartholomew-saltash-cabin-6a6ada825fd0d.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/piermont-retreat-exterior-1-6a6af03ff3f50.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-design-2026-07-30t152818.150-6a6ae0f6825b5.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t165548.837-6a685279648d8.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/01/jessica-bellef.jpg?w=2048&format=auto"
       ],
       "source": "Homes To Love AU",
@@ -878,9 +892,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/pexels-alaritammsalu-6781593-800x820.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/pexels-liana-tril-86841229-33039671.jpg",
-        "https://www.internimagazine.it/content/uploads/2025/11/dragon-white-munthe-rrinmJOWY-I-unsplash.jpg",
         "https://www.internimagazine.it/content/uploads/2026/01/GettyImages-1215158328.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/charlotte-cowell-vHomdqfDxgA-unsplash.jpg",
+        "https://www.internimagazine.it/content/uploads/2025/11/dragon-white-munthe-rrinmJOWY-I-unsplash.jpg",
         "https://www.internimagazine.it/content/uploads/2026/03/ARREDARE-IL-TERRAZZO-CON-I-FIORI.jpg"
       ],
       "source": "Interni magazine",
@@ -923,9 +937,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/duffy-london-sustainable-coffee-table-is-inspired-by-candies-and-aliens/flying-saucer-table-2.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/kenkos-workout-gear-doubles-as-home-decor/kenko-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/01/dedimension_2d_furniture_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/10/noho-move-chair/noho_move_dining_chair_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/05/sharp-still-makes-smartphones-and-its-latest-design-is-beautiful-but-a-little-off/sharp-aquos-r9-4.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/05/3d-printing-is-shaping-modern-product-design-heres-how/00-3d-printing-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1041,7 +1055,7 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?format=auto&v=1785200928",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t165548.837-6a685279648d8.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/edwina-bartholomew-saltash-cabin-6a6ada825fd0d.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/piermont-retreat-exterior-1-6a6af03ff3f50.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-design-2026-07-30t152818.150-6a6ae0f6825b5.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2016/10/Jackie-Brygel.png?w=2048&format=auto"
@@ -1059,9 +1073,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?format=auto&v=1784863481",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/edwina-bartholomew-saltash-cabin-6a6ada825fd0d.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/piermont-retreat-exterior-1-6a6af03ff3f50.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-design-2026-07-30t152818.150-6a6ae0f6825b5.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t165548.837-6a685279648d8.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-7-6a62ecff64fac-scaled.jpg?resize=2560%2C1707"
       ],
       "source": "Homes To Love AU",
@@ -1373,9 +1387,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/part_table-lamp_part_kinetic_sculpture_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/animal-sculptures/minimal_coiled_animal_sculptures_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/07/25/restyle01.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/06/12/drone_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/03/256331/04-yinyang_earbuds_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/01/04/time_lock.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1442,7 +1456,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -1882,7 +1896,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
     },
@@ -2804,7 +2818,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3052,7 +3066,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3064,11 +3078,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/04/DIY-Porch-Swing.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/09/How-to-Build-a-Wooden-Headboard.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3083,7 +3097,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
