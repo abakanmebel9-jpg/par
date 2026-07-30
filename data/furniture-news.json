@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-30T18:40:16.268765+00:00",
-  "generated_at_human": "2026-07-30 18:40 UTC",
-  "total_items": 233,
+  "generated_at": "2026-07-30T20:22:18.434521+00:00",
+  "generated_at_human": "2026-07-30 20:22 UTC",
+  "total_items": 235,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -16,7 +16,6 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -58,7 +57,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
+  "sources_count": 51,
   "multi_photo_items": 52,
   "items": [
     {
@@ -69,9 +68,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=45010",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=16248",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=14206",
+        "https://i.archi.ru/i/1262/305304.jpg?r=45602",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=78305",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=79172",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -151,6 +150,50 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "737d3986d8620a2c",
+      "title": "What If the Bathroom Was the Center of the Home?",
+      "summary": "SIGLA Studio places the bathroom at the center of a compact Barcelona apartment, challenging long-held assumptions about privacy and the way we live at home",
+      "url": "https://design-milk.com/sigla-studio-barcelona-apartment-open-bathroom/",
+      "image": "https://design-milk.com/images/2026/07/Sigla-Studio-Turo-Park-Apartment-e1785440080791.jpeg",
+      "images": [
+        "https://design-milk.com/images/2026/07/Sigla-Studio-Turo-Park-Apartment-e1785440080791.jpeg",
+        "https://design-milk.com/images/2026/07/Sigla-Turo-Apartment.jpeg",
+        "https://design-milk.com/images/2026/07/Sigla-Studio-Turo-Park-Apartment-3.jpeg",
+        "https://design-milk.com/images/2026/07/Sigla-Studio-Turo-Park-Apartment-4.jpeg",
+        "https://design-milk.com/images/2026/07/Sigla-Studio-Turo-Park-Apartment-6.jpeg",
+        "https://design-milk.com/images/2026/07/Sigla-Studio-Turo-Park-Apartment-7.jpeg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-07-30T19:58:26+00:00"
+    },
+    {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
+    },
+    {
+      "id": "f94751a5e252cae2",
+      "title": "Blue Bottle Coffee’s Harajuku Cafe Is a Study in Restraint Done Right",
+      "summary": "Blue Bottle Coffee’s Harajuku Cafe Is a Study in Restraint Done Right Walk into most cafes, and they’re already selling you something — exposed brick, neon signs, mismatched furniture, a playlist that changes every twenty minutes. Then...",
+      "url": "https://www.yankodesign.com/2026/07/30/blue-bottle-coffees-harajuku-cafe-is-a-study-in-restraint-done-right/?utm_source=rss&utm_medium=rss&utm_campaign=blue-bottle-coffees-harajuku-cafe-is-a-study-in-restraint-done-right",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/draft-blue-bottle-cafe/blue_bottle_cafe_yanko_design_03.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/draft-blue-bottle-cafe/blue_bottle_cafe_yanko_design_03.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-07-30T19:15:44+00:00"
     },
     {
       "id": "0b57e8124051628a",
@@ -425,7 +468,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-11.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-10.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -765,7 +808,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/country-house-interiors-germany-aensemble_dezeen_sq-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-29T05:00:28+00:00"
     },
@@ -880,9 +923,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/loop-chair-concept-brings-together-minimalism-and-comfort/loop-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/04/this-multifunctional-bookshelf-features-a-wooden-hinge-system-that-folds-it-in-half/08_foldshelf_palmgrenhöglund_foldableshelf.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/07/15/cancardboardcutit01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/04/duffy-london-sustainable-coffee-table-is-inspired-by-candies-and-aliens/flying-saucer-table-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/06/kenkos-workout-gear-doubles-as-home-decor/kenko-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/01/dedimension_2d_furniture_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -967,7 +1010,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/napoli-on-the-road-isern-serra_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-28T08:00:53+00:00"
     },
@@ -1286,9 +1329,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/12/amazon-just-announced-a-musical-keyboard-for-coders/aws_deepcomposer_4.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/04/13/halo_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/08/ringconn-smart-ring-review-simple-stylish-superb/RingConn_smart_ring_review_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/06/a-light-that-knows-when-youre-reading/lililite_5.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/12/mclaren-unveils-e-scooter-that-folds-into-an-easy-to-carry-package/McLaren-Applied-Lavoie-Series-1-electric-scooter.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/05/you-can-put-this-wallet-on-speed-dial/zillion_wallet_7.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1330,9 +1373,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/03/quarantine-worthy-architecture/04_PamPaul_Quarantine-fun-room_yankodesign_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/auto-draft/how_many_cameras_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/this-metaverse-streaming-device-connects-virtual-world-with-the-real-one/On-Off-Metaverse-Fountain-Studio-10.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/04/part_table-lamp_part_kinetic_sculpture_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/10/animal-sculptures/minimal_coiled_animal_sculptures_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/07/25/restyle01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1397,14 +1440,9 @@
       "url": "https://design-milk.com/dora-tokai-designs-the-white-arcade-dubai-villa/",
       "image": "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg",
       "images": [
-        "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg",
-        "https://design-milk.com/images/2026/07/5.-The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06962-HDR.jpg",
-        "https://design-milk.com/images/2026/07/2.-DSC06902-HDR.jpg",
-        "https://design-milk.com/images/2026/07/13.-The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06934-HDR.jpg",
-        "https://design-milk.com/images/2026/07/7.-DSC07213-HDR.jpg",
-        "https://design-milk.com/images/2026/07/3.-The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06964-HDR.jpg"
+        "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -1844,7 +1882,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
     },
@@ -2003,19 +2041,6 @@
       "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-16T18:43:10+00:00"
-    },
-    {
-      "id": "1f64536b0965d068",
-      "title": "Lindye Galloway Reimagines Two Upper West Side Penthouses as One Home",
-      "summary": "Thoughtful millwork, natural stone, and custom furnishings unify two pre-war Manhattan apartments into a warm, contemporary home for a young family.",
-      "url": "https://design-milk.com/lindye-galloway-upper-west-side-penthouse/",
-      "image": "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-5.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/07/upper-west-side-penthouse-lindye-galloway-5.jpg"
-      ],
-      "source": "Design Milk Interiors",
-      "source_url": "https://design-milk.com",
-      "published": "2026-07-16T17:52:29+00:00"
     },
     {
       "id": "a20c5a787e35b01e",
