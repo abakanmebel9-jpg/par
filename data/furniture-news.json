@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-31T16:52:20.580698+00:00",
-  "generated_at_human": "2026-07-31 16:52 UTC",
-  "total_items": 235,
+  "generated_at": "2026-07-31T18:41:11.114985+00:00",
+  "generated_at_human": "2026-07-31 18:41 UTC",
+  "total_items": 237,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -16,6 +16,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -57,8 +58,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
-  "multi_photo_items": 52,
+  "sources_count": 52,
+  "multi_photo_items": 53,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -68,9 +69,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=56415",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=44367",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=36999",
+        "https://i.archi.ru/i/1262/305304.jpg?r=65663",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=3258",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=43986",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -150,6 +151,50 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "ae9e4edfe5ef709c",
+      "title": "This New App Is Like Having Martha Stewart In Your Pocket 24/7",
+      "summary": "Martha Stewart has decades of experience as an entrepreneur and businesswoman, is widely known for her elegant and innovative approaches to entertaining, and has published over 100 cookbooks, just to name a few illustrious achievements. She’s basically the expert of living at home. So much so, that sometimes I wish I had Stewart in my pocket to tell me how to best host friends for dinner, pick out the best flowers at the grocery store, or clean my kitchen. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/martha-stewart-hint-app-launch-37683900?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-January/Anatolia/House-Tours-Anatolia-London-0208",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-January/Anatolia/House-Tours-Anatolia-London-0208"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-07-31T17:15:00+00:00"
+    },
+    {
+      "id": "e6604fcedfe52079",
+      "title": "Magdalen House by Atelier L’Abri",
+      "summary": "Magdalen House, a house designed in 2024 by Atelier L’Abri in Les Îles-de-la-Madeleine, Canada, sits on an inhabited plateau above the dunes of Havre-Aubert Island and the Atlantic Ocean. Drawing on the archipelago’s gabled vernacular, the compact building pairs cedar shingles, a timber-supported terrace, and a clear interior plan with a careful response to fragile […] The post Magdalen House by Atelier L’Abri first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/07/31/magdalen-house-by-atelier-labri/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/07/001-magdalen-house-by-atelier-labri.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/07/001-magdalen-house-by-atelier-labri.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/007-magdalen-house-by-atelier-labri.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/011-magdalen-house-by-atelier-labri.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/005-magdalen-house-by-atelier-labri.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/003-magdalen-house-by-atelier-labri.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/07/006-magdalen-house-by-atelier-labri.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-07-31T17:04:54+00:00"
+    },
+    {
+      "id": "a947dfefab936080",
+      "title": "Martin Hopp Architect puts generosity over spectacle at mass-timber school in New York",
+      "summary": "New York City studio Martin Hopp Architect has completed a building with a mass-timber structure for a school in Hempstead, New York, prioritising healthy living spaces and materials on a tight budget. Evergreen Charter School opened in 2025 on a suburban site on Long Island in New York state. The K-12 school comprises 89,000 square The post Martin Hopp Architect puts generosity over spectacle at mass-timber school in New York appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/07/31/martin-hopp-architect-mass-timber-k-12-school-new-york/",
+      "image": "http://static.dezeen.com/uploads/2026/06/hopp-evergreen-school-martin-hopp_dezeen_2364_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/hopp-evergreen-school-martin-hopp_dezeen_2364_sq.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-07-31T17:00:00+00:00"
     },
     {
       "id": "e28a345dee7ed128",
@@ -453,7 +498,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/holzrausch-munich-townhouse-renovation-interior-design-south-american-cinema-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-31T05:00:42+00:00"
     },
@@ -984,7 +1029,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/country-house-interiors-germany-aensemble_dezeen_sq-1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-29T05:00:28+00:00"
     },
@@ -1455,19 +1500,6 @@
       "published": "2026-07-25T15:20:34+00:00"
     },
     {
-      "id": "2df1ab794e8a1039",
-      "title": "Xero Cool Is the Anti-Fridge Fridge the Planet Badly Needs",
-      "summary": "Xero Cool Is the Anti-Fridge Fridge the Planet Badly Needs The refrigerator hasn’t changed much since your grandmother got her first one. Same boxy shape. Same petroleum-based insulation. Same low mechanical hum in the kitchen...",
-      "url": "https://www.yankodesign.com/2026/07/24/xero-cool-is-the-anti-fridge-fridge-the-planet-badly-needs/?utm_source=rss&utm_medium=rss&utm_campaign=xero-cool-is-the-anti-fridge-fridge-the-planet-badly-needs",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/xero-cool-is-the-anti-fridge-fridge-the-planet-badly-needs/xero-cool-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/xero-cool-is-the-anti-fridge-fridge-the-planet-badly-needs/xero-cool-01.jpg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-24T22:30:31+00:00"
-    },
-    {
       "id": "371f92fd475025f8",
       "title": "This Sculptural Dubai Home Turns Arches and Light Into Everyday Luxury",
       "summary": "D’Ora Tokai Designs transformed a once-heavy Spanish-style villa into a serene family home where sculptural arches, layered whites, and bespoke furnishings create a sense of everyday restoration",
@@ -1476,7 +1508,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -1903,7 +1935,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-20T18:00:57+00:00"
     },
@@ -2799,7 +2831,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3047,7 +3079,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3059,11 +3091,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/06/DIY-PAINTED-CABINETS-BY-SHANTY2CHIC.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Renter-Friendly-Accent-Wall.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/12/how-to-build-a-wood-bed.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3078,7 +3110,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
