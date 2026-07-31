@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-07-31T20:34:46.903203+00:00",
-  "generated_at_human": "2026-07-31 20:34 UTC",
-  "total_items": 236,
+  "generated_at": "2026-07-31T22:13:18.229851+00:00",
+  "generated_at_human": "2026-07-31 22:13 UTC",
+  "total_items": 232,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -39,8 +39,6 @@
     "Lost Art Press",
     "NKBA",
     "PopSugar Home",
-    "Popular Woodworking",
-    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -57,8 +55,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
-  "multi_photo_items": 52,
+  "sources_count": 49,
+  "multi_photo_items": 54,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -68,9 +66,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=57782",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=77405",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=76857",
+        "https://i.archi.ru/i/1262/305304.jpg?r=52004",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=40699",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=30873",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -152,6 +150,42 @@
       "published": ""
     },
     {
+      "id": "03f45bbe9cf83b68",
+      "title": "DIY Turned Leg Coffee Table",
+      "summary": "I’ve been wanting a coffee table with turned legs for a while, but every one I loved came with a price tag that I didn’t. So, I decided to build my own, and I couldn’t be happier with how it turned out. This DIY turned leg coffee table has a classic look, comes together with... The post DIY Turned Leg Coffee Table appeared first on Shanty 2 Chic .",
+      "url": "https://www.shanty-2-chic.com/diy-turned-leg-coffee-table/",
+      "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
+      "images": [
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/03/DIY-Buffet-Table-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
+      ],
+      "source": "Shanty 2 Chic",
+      "source_url": "https://www.shanty-2-chic.com",
+      "published": "2026-07-31T21:49:47+00:00"
+    },
+    {
+      "id": "42bb5e7a2b084f4c",
+      "title": "How to Create a Furniture Plan Like a Designer",
+      "summary": "Can’t understand why a room isn’t working? Blue-chip decorator Brian J. McCarthy does, and it all comes down to a simple drawing. And it matters more than you think.",
+      "url": "https://www.veranda.com/decorating-ideas/advice-from-designers/a73221512/furniture-plan-guide/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/ad210100-2db2-45fd-8f51-00801cf9dcf7.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/ad210100-2db2-45fd-8f51-00801cf9dcf7.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/7207500e-acf3-4283-b0f9-9aae6ba8d7d7.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/e1d50974-f4cd-4311-82ee-0b24ae3357b1.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/ab318ef2-6762-47c9-b0e7-fb302f731c7e.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/630764d8-9a69-4bd0-9fe0-5155d71329d8.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/3684ab14-93a6-4ceb-9de0-79092dcd413d.jpg"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-07-31T20:53:37+00:00"
+    },
+    {
       "id": "1be679232637d92e",
       "title": "ukyo X blends café, listening bar, and co-working inside restored historic interior in romania",
       "summary": "a modular furniture system supports the program’s flexibility, enabling the layout to accommodate different group sizes and patterns of occupation. The post ukyo X blends café, listening bar, and co-working inside restored historic interior in romania appeared first on designboom | architecture & design magazine .",
@@ -220,19 +254,6 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-07-31T15:20:48+00:00"
-    },
-    {
-      "id": "651e7f2eada933ed",
-      "title": "The Splinter Report: July 31st",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at 1989. Tool News Quick Bites... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-july-31st/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/30103410/splinter-report-7-31-1.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/30103410/splinter-report-7-31-1.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-31T15:07:26+00:00"
     },
     {
       "id": "68cee1129274a56f",
@@ -338,19 +359,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-07-31T13:00:00+00:00"
-    },
-    {
-      "id": "5a3bf2c8eb895b0c",
-      "title": "From Lockup to Lumberyard",
-      "summary": "Westbury Lumber was deeded the neighboring prison to expand its hardwoods business in Red Creek, N.Y. In a year filled with devastating fires and other bad news for the lumber... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/from-lockup-to-lumberyard/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/29133746/ajblog-1260-image-copy.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/29133746/ajblog-1260-image-copy.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-31T12:36:59+00:00"
     },
     {
       "id": "f182c9ad3d97475e",
@@ -635,19 +643,6 @@
       "published": "2026-07-30T16:00:00+00:00"
     },
     {
-      "id": "72664b960ea7af2a",
-      "title": "Post & Rung Standing Desk",
-      "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
-      "url": "https://www.popularwoodworking.com/projects/post-rung-standing-desk/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-30T15:23:28+00:00"
-    },
-    {
       "id": "98c8d713eb629e9f",
       "title": "Modhaus' Wireless Phone Charger with a Concrete Base",
       "summary": "To prevent sliding around on a tabletop, most wireless chargers have rubber feet or silicone pads under their bases. The folks over at Modhaus , a South Korean product brand, went with a more extreme solution: The base of their Upright charger is cast concrete. For the phone-facing surface, they went with hardwood, offering both Oak and Walnut. The $78 charger was Kickstarted within hours. The campaign's done now, but they're still taking pre-orders.",
@@ -809,7 +804,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-11.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-10.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/susy-pet-design-1.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1099,9 +1094,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/suzak_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/11/3d-printed-chairs-are-made-from-100-recycled-plastic-from-donation-program/revo-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/02/01/dbl_life_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/12/22/volna_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/02_threepoles_jiyounkimstudio_cattower.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/best-products-for-a-minimalist-coffee-table-that-does-more-by-doing-less/10_best_minimal_coffee_products_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1256,32 +1251,6 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-07-27T16:32:26+00:00"
-    },
-    {
-      "id": "4fd39cfb40d6ad52",
-      "title": "Online Extras October 2026 #291",
-      "summary": "Here are the online extras for the October 2026 issue of Popular Woodworking Magazine. Interested in having the magazine delivered directly to your mailbox (physical or email) six times a... Source",
-      "url": "https://www.popularwoodworking.com/online-extras/online-extras-october-2026-291/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/28105847/01_c1_2604_cover-1.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/28105847/01_c1_2604_cover-1.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-27T14:19:43+00:00"
-    },
-    {
-      "id": "b9e2454f243ea4c8",
-      "title": "ShopNotes Podcast Episode 280 — We Love a Good, Sick Burn",
-      "summary": "In this episode, Phil and John catch up on what’s happening around the Woodsmith Shop. They discuss listener comments, woodworking tools, vintage auctions, hand tools, and what keeps woodworkers coming... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-280-we-love-a-good-sick-burn/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/27094859/screenshot-2026-07-27-at-8.46.59am.png",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/27094859/screenshot-2026-07-27-at-8.46.59am.png"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-27T13:49:19+00:00"
     },
     {
       "id": "008c74a0d1d1467c",
@@ -1477,9 +1446,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/this-e265-aluminum-table-was-designed-backward-to-waste-just-4/06-side-table-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/hot-beverage-hot-beats/dubstein_flask_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/steam-deck-2-concept-truly-reflects-what-next-gen-handheld-should-be/Steam-Deck-2-handheld-gaming-console-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/07/adorable-tape-measure-designed-to-look-like-a-chameleon-with-an-extending-tongue-is-a-great-example-of-nature-inspired-design/chameleon_tape_measure_coppertist_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/12/10/lishinu_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/03/this-ai-desk-terminal-has-a-screen-knob-and-voice-control/decokee-quake-ai-smart-touch-controls-interactive-display-04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1507,7 +1476,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2062,19 +2031,6 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-07-16T19:46:56+00:00"
-    },
-    {
-      "id": "2415d48aa87c549b",
-      "title": "Mahogany Entry Table",
-      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
-      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-16T18:43:10+00:00"
     },
     {
       "id": "a20c5a787e35b01e",
@@ -2812,7 +2768,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3060,7 +3016,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3091,7 +3047,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
@@ -3296,7 +3252,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag bathrooms",
+      "source": "Dezeen tag kitchens",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
