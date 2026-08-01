@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-01T00:09:37.981501+00:00",
-  "generated_at_human": "2026-08-01 00:09 UTC",
-  "total_items": 231,
+  "generated_at": "2026-08-01T04:29:15.694311+00:00",
+  "generated_at_human": "2026-08-01 04:29 UTC",
+  "total_items": 237,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -53,9 +54,10 @@
     "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
-    "Yellowtrace"
+    "Yellowtrace",
+    "АМДПР"
   ],
-  "sources_count": 49,
+  "sources_count": 51,
   "multi_photo_items": 54,
   "items": [
     {
@@ -66,9 +68,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=70931",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=80855",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=65068",
+        "https://i.archi.ru/i/1262/305304.jpg?r=34256",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=3767",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=23677",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -150,6 +152,21 @@
       "published": ""
     },
     {
+      "id": "d19549d4bea93c4b",
+      "title": "Ditch The Shoe Racks And Cabinets: Here's A DIY Solution That's Budget-Friendly",
+      "summary": "If shoes are piling up on your closet floor, it's time to organize. This DIY shoe rack is a genius way to store many pairs, and it's inexpensive to make.",
+      "url": "https://www.hunker.com/2225304/ditch-shoe-racks-cabinets-diy-solution-tiered-cardboard-shelf/",
+      "image": "https://www.hunker.com/img/gallery/ditch-the-shoe-racks-and-cabinets-heres-a-diy-solution-thats-budget-friendly/l-intro-1785257733.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-the-shoe-racks-and-cabinets-heres-a-diy-solution-thats-budget-friendly/l-intro-1785257733.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-shoe-racks-and-cabinets-heres-a-diy-solution-thats-budget-friendly/intro-1785257733.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-shoe-racks-and-cabinets-heres-a-diy-solution-thats-budget-friendly/how-to-make-a-cardboard-shoe-tower-1785257734.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-31T23:00:00+00:00"
+    },
+    {
       "id": "03f45bbe9cf83b68",
       "title": "DIY Turned Leg Coffee Table",
       "summary": "I’ve been wanting a coffee table with turned legs for a while, but every one I loved came with a price tag that I didn’t. So, I decided to build my own, and I couldn’t be happier with how it turned out. This DIY turned leg coffee table has a classic look, comes together with... The post DIY Turned Leg Coffee Table appeared first on Shanty 2 Chic .",
@@ -166,6 +183,21 @@
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
       "published": "2026-07-31T21:49:47+00:00"
+    },
+    {
+      "id": "ba3926295ff6c982",
+      "title": "Quartz Vs. Granite: What's The Difference?",
+      "summary": "When looking for countertop material, it can be tough to choose between options like quartz and granite. But what's the difference between the two, really?",
+      "url": "https://www.hunker.com/2225114/difference-between-quartz-top-granite/",
+      "image": "https://www.hunker.com/img/gallery/quartz-vs-granite-whats-the-difference/l-intro-1785253010.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/quartz-vs-granite-whats-the-difference/l-intro-1785253010.jpg",
+        "https://www.hunker.com/img/gallery/quartz-vs-granite-whats-the-difference/intro-1785253010.jpg",
+        "https://www.hunker.com/img/gallery/quartz-vs-granite-whats-the-difference/quartz-is-customizable-but-granite-can-be-used-outdoors-1785253011.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-31T21:00:00+00:00"
     },
     {
       "id": "42bb5e7a2b084f4c",
@@ -197,6 +229,34 @@
       "source": "Design Boom architecture",
       "source_url": "https://www.designboom.com",
       "published": "2026-07-31T20:15:54+00:00"
+    },
+    {
+      "id": "423c68b1f010eb8c",
+      "title": "She Turns Old Pickle Jars Into Cute & Decorative Countertop Storage",
+      "summary": "Countertop storage made from glass pickle jars don't need to be boring. This DIYer elevates hers into beautiful, edible-looking decor you'll love.",
+      "url": "https://www.hunker.com/2215410/upcycle-pickle-jars-diy-countertop-storage-clay-pie-lids/",
+      "image": "https://www.hunker.com/img/gallery/upcycle-pickle-jars-diy-countertop-storage-clay-pie-lids/l-intro-1784718108.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/upcycle-pickle-jars-diy-countertop-storage-clay-pie-lids/l-intro-1784718108.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-pickle-jars-diy-countertop-storage-clay-pie-lids/intro-1784718108.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-pickle-jars-diy-countertop-storage-clay-pie-lids/cover-a-pickle-jar-lid-with-an-air-dry-clay-pie-1784718109.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-31T20:00:00+00:00"
+    },
+    {
+      "id": "971d628b7ead304b",
+      "title": "Use A Simple Dollar Tree Kitchen Find To DIY Stylish Pavers On A Budget",
+      "summary": "Creating custom garden pavers doesn't have to cost a fortune when you repurpose an everyday Dollar Tree kitchen find into a quick and easy DIY project.",
+      "url": "https://www.hunker.com/2222019/dollar-tree-kitchen-trays-pavers-stone-diy/",
+      "image": "https://www.hunker.com/img/gallery/dollar-tree-kitchen-trays-pavers-stone-diy/l-intro-1785148920.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/dollar-tree-kitchen-trays-pavers-stone-diy/l-intro-1785148920.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-31T18:00:00+00:00"
     },
     {
       "id": "ae9e4edfe5ef709c",
@@ -269,6 +329,19 @@
       "published": "2026-07-31T15:07:26+00:00"
     },
     {
+      "id": "79a9f15bef30581a",
+      "title": "The Bright Color Millennials Left Behind That Designers Are Bringing Back With A Twist",
+      "summary": "There are few millennials who didn't adorn their bedrooms with this hue in the 2010s, but its new version is so versatile that it works in every room.",
+      "url": "https://www.hunker.com/2225070/millennial-pink-comeback-new-design/",
+      "image": "https://www.hunker.com/img/gallery/the-bright-color-millennials-left-behind-that-designers-are-bringing-back-with-a-twist/l-intro-1785250800.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-bright-color-millennials-left-behind-that-designers-are-bringing-back-with-a-twist/l-intro-1785250800.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-07-31T15:00:00+00:00"
+    },
+    {
       "id": "68cee1129274a56f",
       "title": "Core77 Weekly Roundup (7-27-26 to 7-31-26)",
       "summary": "Here's what we looked at this week: Flatbike's accessories let you fold your bike flat for storage. A gate with an elegant integrated latch. The Dutch community where people live on strips of land in a lake. Luxury furniture, or ID student project? A lounge chair inspired by a seed. Chinese autonomous buses are spreading around the world. Just not in America. Sonic's focus on the UX of pencil cases. Unitree's impressive Super Athlete AS2-W , an off-road dog-bot/pack mule Architect Priyanka Narula combines computational design with wicker. Roof racks that automatically lift and lower the…",
@@ -306,9 +379,7 @@
       "url": "https://www.hunker.com/2225845/organize-countertops-thrift-find-marble-diy-lazy-susan/",
       "image": "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-thrift-find-is-a-more-creative-way-to-organize-messy-countertops/l-intro-1785319932.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-thrift-find-is-a-more-creative-way-to-organize-messy-countertops/l-intro-1785319932.jpg",
-        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-thrift-find-is-a-more-creative-way-to-organize-messy-countertops/intro-1785319932.jpg",
-        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-thrift-find-is-a-more-creative-way-to-organize-messy-countertops/making-a-lazy-susan-for-your-countertop-with-thrifted-marble-1785319934.jpg"
+        "https://www.hunker.com/img/gallery/ditch-baskets-and-bins-this-thrift-find-is-a-more-creative-way-to-organize-messy-countertops/l-intro-1785319932.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -352,9 +423,7 @@
       "url": "https://www.hunker.com/2220717/adjustable-ikea-patio-table-nesting-tables-space-saving-solution-grytsholm/",
       "image": "https://www.hunker.com/img/gallery/this-adjustable-ikea-patio-table-is-a-space-saving-solution-for-a-small-backyard/l-intro-1784732109.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/this-adjustable-ikea-patio-table-is-a-space-saving-solution-for-a-small-backyard/l-intro-1784732109.jpg",
-        "https://www.hunker.com/img/gallery/this-adjustable-ikea-patio-table-is-a-space-saving-solution-for-a-small-backyard/intro-1784732109.jpg",
-        "https://www.hunker.com/img/gallery/this-adjustable-ikea-patio-table-is-a-space-saving-solution-for-a-small-backyard/the-grytsholm-nesting-tables-are-an-expandable-patio-table-set-1784732111.jpg"
+        "https://www.hunker.com/img/gallery/this-adjustable-ikea-patio-table-is-a-space-saving-solution-for-a-small-backyard/l-intro-1784732109.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -602,15 +671,26 @@
       "published": "2026-07-30T19:58:26+00:00"
     },
     {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
+    },
+    {
       "id": "a858d07680136b88",
       "title": "Not A Dresser, Not A Rack — IKEA Has A New Storage Solution For Closet-Less Bedrooms",
       "summary": "No closet? IKEA is coming to the rescue again with a modular storage system that can be scaled up or down to fit your individual or family closet-less needs.",
       "url": "https://www.hunker.com/2213652/ikea-has-a-new-pax-forsand-wardrobe-storage-without-closet/",
       "image": "https://www.hunker.com/img/gallery/ikea-has-a-new-pax-forsand-wardrobe-storage-without-closet/l-intro-1784308939.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-pax-forsand-wardrobe-storage-without-closet/l-intro-1784308939.jpg",
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-pax-forsand-wardrobe-storage-without-closet/intro-1784308939.jpg",
-        "https://www.hunker.com/img/gallery/ikea-has-a-new-pax-forsand-wardrobe-storage-without-closet/create-shared-closet-space-with-ikea-paxforsand-1784308941.jpg"
+        "https://www.hunker.com/img/gallery/ikea-has-a-new-pax-forsand-wardrobe-storage-without-closet/l-intro-1784308939.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -667,19 +747,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-30T13:33:33+00:00"
-    },
-    {
-      "id": "fb06c6627f7a8dad",
-      "title": "10 Most Exciting New IKEA Kitchen Finds Of 2026 (So Far)",
-      "summary": "IKEA is, of course, constantly introducing new products. We've found some of the most exciting new gadgets, furnishing, and dishware for a kitchen refresh.",
-      "url": "https://www.hunker.com/2226751/best-new-ikea-kitchen-items-2026/",
-      "image": "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/l-intro-1785375601.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/10-most-exciting-new-ikea-kitchen-finds-of-2026-so-far/l-intro-1785375601.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-30T13:00:00+00:00"
     },
     {
       "id": "91177f51ea0841a7",
@@ -804,7 +871,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-11.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-10.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/susy-pet-design-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -842,45 +909,6 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-07-30T01:23:20+00:00"
-    },
-    {
-      "id": "5afbefbe017207b3",
-      "title": "IKEA's Sleek $13 Stool Is More Versatile Than It Looks",
-      "summary": "Taking IKEA furniture pieces and transforming them into something creative and new is a savvy shopper's dream. This low-cost stool is no exception.",
-      "url": "https://www.hunker.com/2223971/ikea-ibbarbo-stool-uses-versatile/",
-      "image": "https://www.hunker.com/img/gallery/ikea-ibbarbo-stool-uses-versatile/l-intro-1785289027.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ikea-ibbarbo-stool-uses-versatile/l-intro-1785289027.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-30T01:00:00+00:00"
-    },
-    {
-      "id": "889e06416dd085bb",
-      "title": "Skip Paint: A Surprising Trick To Switch Up The Look Of Red Oak Cabinets",
-      "summary": "Unlike paint, this alternative gives red oak cabinets a lighter, airier feel while keeping their wood grain intact. Just be prepared for a bit more labor.",
-      "url": "https://www.hunker.com/2224058/wood-bleach-red-oak-cabinets-white-skip-paint/",
-      "image": "https://www.hunker.com/img/gallery/skip-paint-a-surprising-trick-to-switch-up-the-look-of-red-oak-cabinets/l-intro-1785170541.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-paint-a-surprising-trick-to-switch-up-the-look-of-red-oak-cabinets/l-intro-1785170541.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-29T23:00:00+00:00"
-    },
-    {
-      "id": "7490f230f201f77e",
-      "title": "Use An Old Milk Jug To Create Adorable Countertop Storage With This Clever DIY",
-      "summary": "You may instinctively toss empty milk jugs in the trash. But with a simple DIY and low-cost supplies, you can transform them into stylish countertop storage.",
-      "url": "https://www.hunker.com/2222276/reuse-milk-jug-diy-kitchen-countertop-storage-utensils/",
-      "image": "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/l-intro-1784857506.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/use-an-old-milk-jug-to-create-adorable-countertop-storage-with-this-clever-diy/l-intro-1784857506.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-07-29T21:00:00+00:00"
     },
     {
       "id": "79ac0c26ba42f258",
@@ -1094,9 +1122,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/12/22/volna_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/02_threepoles_jiyounkimstudio_cattower.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/best-products-for-a-minimalist-coffee-table-that-does-more-by-doing-less/10_best_minimal_coffee_products_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/06/tiny-sauna/tiny_sauna_home_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/chair-designs/top_10_chair_designs_yanko_design_hero.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1140,6 +1168,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-28T08:00:53+00:00"
+    },
+    {
+      "id": "b6efd02ebac7cf7c",
+      "title": "Компания «ФЕЛИКС» завершила поставку мебели для Арбитражного суда в Москве",
+      "summary": "27 июля 2026 года, Москва Компания «ФЕЛИКС» успешно завершила комплексное оснащение мебелью залов судебных заседаний, рабочих кабинетов и других помещений Арбитражного суда в Москве. Поставки осуществлялись в рамках государственного контракта.Снимок экрана — 2026-07-31 в 11.51.41 Всего для суда было изготовлено и поставлено порядка 1000 предметов мебели.",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/feliks-mebel-arbitrazhnyj-sud-moskva.html",
+      "image": "http://amedoro.com/images/2026-07-31_115141.png",
+      "images": [
+        "http://amedoro.com/images/2026-07-31_115141.png"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-07-28T05:12:08+00:00"
     },
     {
       "id": "8145140dcf7cf380",
@@ -1194,6 +1235,19 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-07-28T01:10:24+00:00"
+    },
+    {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
     },
     {
       "id": "86626b097c480b3f",
@@ -1402,9 +1456,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/11/174575/closca_bottle_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/auto-draft/philips_inhale_2.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/01/pigzbe-gives-kids-financial-superpowers/pigzbe_digital_piggy_wallet_1_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/07/ridm/ridm_portable_bca_device_cover_04.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/04/18/loft_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/10/casios-a158-watch-now-a-retro-desk-clock-you-need/Casio-deskclock-watch-2-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1446,9 +1500,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/ergonomic-chairs-rarely-account-for-taller-broader-users-libernovo-built-one-and-its-on-discount-for-a-week/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/adorable-tape-measure-designed-to-look-like-a-chameleon-with-an-extending-tongue-is-a-great-example-of-nature-inspired-design/chameleon_tape_measure_coppertist_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/12/10/lishinu_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/this-ai-desk-terminal-has-a-screen-knob-and-voice-control/decokee-quake-ai-smart-touch-controls-interactive-display-04.jpg"
+        "https://www.yankodesign.com/images/design_news/2016/03/draft-hyperlien/hyperlien_yatch_4.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/01/30/solaris_watch10.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/10/16/fingear.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1476,7 +1530,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2534,6 +2588,19 @@
       "published": "2026-06-26T13:00:57+00:00"
     },
     {
+      "id": "16bc0274f40cae6b",
+      "title": "АМДПР приглашает российские компании в бизнес-миссию на CIFF Shanghai и WMF 2026",
+      "summary": "С 5 по 8 сентября 2026 года в Шанхае пройдут 58-я Китайская международная мебельная выставка CIFF Shanghai и Международная выставка оборудования для мебельного производства и деревообработки WMF 2026. АМДПР совместно с китайскими партнерами формирует российскую делегацию и приглашает предприятия мебельной и деревообрабатывающей промышленности принять участие в бизнес-миссии.",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B0%D0%BC%D0%B4%D0%BF%D1%80-%D0%BF%D1%80%D0%B8%D0%B3%D0%BB%D0%B0%D1%88%D0%B0%D0%B5%D1%82-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8E-%D0%BD%D0%B0-ciff-shanghai-%D0%B8-wmf-2026.html",
+      "image": "http://amedoro.com/images/2026-06-26__162911.png",
+      "images": [
+        "http://amedoro.com/images/2026-06-26__162911.png"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-06-26T09:44:55+00:00"
+    },
+    {
       "id": "739bc1a21c3a5f7b",
       "title": "Freestanding Shelving Keeps Showing Up Instead of Traditional Bookcases",
       "summary": "Large bookcases once covered entire walls with matching cabinets and solid backs. Many newer shelving systems take a different approach. Open frames, slimmer profiles, mixed materials, and modular layouts provide storage while allowing walls, artwork, and surrounding furniture to remain visible. Wood, steel, brass, glass, and integrated lighting appear throughout these collections. Some units divide... The post Freestanding Shelving Keeps Showing Up Instead of Traditional Bookcases appeared first on Homedit .",
@@ -2669,6 +2736,19 @@
       "published": "2026-06-17T08:00:47+00:00"
     },
     {
+      "id": "a6274e38bce6a790",
+      "title": "Десять будущих кладовщиков завершили практику на предприятии компании «ФЕЛИКС»",
+      "summary": "Студенты ГБПОУ «Торопецкий колледж» завершили практику на крупнейшем предприятии мебельной отрасли Тверской области — фабрике компании «ФЕЛИКС». Практика стала заключительным модулем обучения по теме «Оценка эффективности работы логистических систем и контроль логистических операций» для выпускников специальности «Операционная деятельность в логистике». В течение недели десять будущих кладовщиков отрабатывали профессиональные навыки и знакомились с работой современного мебельного предприятия.",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D1%8C-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D1%85-%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BB%D0%B8-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%C2%AB%D1%84%D0%B5%D0%BB%D0%B8%D0%BA%D1%81%C2%BB.html",
+      "image": "http://amedoro.com/images/2026-06-17__123342.png",
+      "images": [
+        "http://amedoro.com/images/2026-06-17__123342.png"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-06-17T06:30:20+00:00"
+    },
+    {
       "id": "dd24c1858088e7c4",
       "title": "Sail table by Design By Them among seven new products on Dezeen Showroom",
       "summary": "Dezeen Showroom: an all-aluminium dining table with crimped sides is among seven new products featured on Dezeen Showroom. Sail table by Tom Fereday for Design By Them Designer Tom Fereday's Sail table for Australian brand Design By Them is made entirely from aluminium and its top features distinctively folded-over sides. The table comes in three sizes The post Sail table by Design By Them among seven new products on Dezeen Showroom appeared first on Dezeen .",
@@ -2755,7 +2835,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3003,7 +3083,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3034,7 +3114,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
