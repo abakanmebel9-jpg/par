@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-01T14:39:52.528417+00:00",
-  "generated_at_human": "2026-08-01 14:39 UTC",
-  "total_items": 243,
+  "generated_at": "2026-08-01T16:10:11.787403+00:00",
+  "generated_at_human": "2026-08-01 16:10 UTC",
+  "total_items": 239,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -27,7 +27,6 @@
     "Dezeen tag lighting",
     "Family Handyman",
     "Garden & Home SA",
-    "Gardenista",
     "Home Adore",
     "Home Beautiful AU",
     "Homedit",
@@ -57,8 +56,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
-  "multi_photo_items": 53,
+  "sources_count": 50,
+  "multi_photo_items": 54,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -68,9 +67,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=19405",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=90759",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=75702",
+        "https://i.archi.ru/i/1262/305304.jpg?r=81925",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=7025",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=96530",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -293,19 +292,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-01T09:06:47+00:00"
-    },
-    {
-      "id": "79aea4429e5a9097",
-      "title": "Current Obsessions: Summer, Slower",
-      "summary": "On our minds this first weekend of August? Limited-edition woven baskets, reasons to add stripes to your interiors, an appealing DIY light, and more. Read on: Floral arrangement inspo, summer edition (hat tip: Annie). ORCA debuted an ingenious new finish for garden walls that adds texture and character (hat tip: Laura). Have you heard of […]",
-      "url": "https://www.gardenista.com/posts/current-obsessions-summer-slower/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2020/09/greg-dutton-midland-architecture-the-hut-ohio-valley-bedroom.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2020/09/greg-dutton-midland-architecture-the-hut-ohio-valley-bedroom.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-08-01T08:00:29+00:00"
     },
     {
       "id": "295c598d584c5b7e",
@@ -640,7 +626,11 @@
       "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
       "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
       "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg"
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
       ],
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
@@ -916,19 +906,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-30T09:30:25+00:00"
-    },
-    {
-      "id": "d3b58cae78303e4b",
-      "title": "Ask the Experts: How to Ask Your Landscaper to Implement Nature-Based Land Care",
-      "summary": "This is part of a series with Perfect Earth Project, a nonprofit dedicated to ecological gardening, on how you can be more sustainable in your landscapes at home. For more than 80 years, Whitmores has been caring for landscapes on the East End of Long Island. Recently, Mariah Whitmore, the third-generation CEO, has noticed a change. More of […]",
-      "url": "https://www.gardenista.com/posts/ask-experts-work-landscaper-implement-nature-based-land-care/",
-      "image": "https://media.gardenista.com/wp-content/uploads/2023/04/suburban-micro-prairie-with-rattlesnake-master-photo-ben-vogt-copy.jpg",
-      "images": [
-        "https://media.gardenista.com/wp-content/uploads/2023/04/suburban-micro-prairie-with-rattlesnake-master-photo-ben-vogt-copy.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-07-30T08:00:13+00:00"
     },
     {
       "id": "623f669841ee2e6e",
@@ -1212,9 +1189,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/12/354170/01_meow_노-수민_catfurniture.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/12/infinity_stool_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/12/felix_sofa/felix_sofa_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/07/indot-cat-apartment/4-indot_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/12/top-10-furniture-designs-of-2024/top_10_furniture_designs_2024_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/11/follow-meeting-cone/follow_meeting_cone_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1690,19 +1667,6 @@
       "published": "2026-07-24T08:00:15+00:00"
     },
     {
-      "id": "98b0ca3ee0d1df04",
-      "title": "Garden Visit: An Artist’s Flower-Powered Reimagining of a Literary Great’s Home in Maine",
-      "summary": "Take an old, overgrown property, plant it with a thoughtful mix of perennials, almost like adding furniture, fill each “room” with a single color—and you have Wild Knoll Foundation Garden, artist Carly Glovinski’s now five-year-old living artwork, planted on the literal foundation of author and life-long gardener May Sarton’s former home in York, Maine. Carly […]",
-      "url": "https://www.gardenista.com/posts/wild-knoll-garden-maine-may-sarton/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/07/firefly-media-may-sarton-wild-knoll.jpg",
-      "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/07/firefly-media-may-sarton-wild-knoll.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-07-24T08:00:03+00:00"
-    },
-    {
       "id": "79356f0e5dd1be9e",
       "title": "ALDI responds to Steph de Sousa’s sold-out kitchen range",
       "summary": "Did you miss out? The post ALDI responds to Steph de Sousa’s sold-out kitchen range appeared first on Better Homes & Gardens Australia .",
@@ -1867,19 +1831,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-07-22T08:00:49+00:00"
-    },
-    {
-      "id": "89a3789addc1f0e5",
-      "title": "The Garden Decoder: What Is ‘Live Willow Weaving’?",
-      "summary": "When we caught a glimpse of the garden for sculptor David Harber at the Chelsea Flower Show, we instantly wanted to know more. The camera panned past what appeared to be a living fence. We weren’t the only ones who were intrigued by Hollander Design’s willow weaving project: An earlier video on Instagram racked up […]",
-      "url": "https://www.gardenista.com/posts/live-willow-weaving-fences-howard-peller/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/07/chelsea-david-harber-hollander-tradestand-photo-clive-nichols-2.jpg",
-      "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/07/chelsea-david-harber-hollander-tradestand-photo-clive-nichols-2.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-07-22T08:00:38+00:00"
     },
     {
       "id": "ebbdfc8a5f55c358",
@@ -3172,11 +3123,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/DIY-Pantry-Cabinet.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
