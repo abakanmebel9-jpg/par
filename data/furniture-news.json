@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-01T20:14:12.923150+00:00",
-  "generated_at_human": "2026-08-01 20:14 UTC",
-  "total_items": 241,
+  "generated_at": "2026-08-01T22:06:06.391644+00:00",
+  "generated_at_human": "2026-08-01 22:06 UTC",
+  "total_items": 244,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
@@ -56,7 +57,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 50,
+  "sources_count": 51,
   "multi_photo_items": 54,
   "items": [
     {
@@ -67,9 +68,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=31540",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=12287",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=70526",
+        "https://i.archi.ru/i/1262/305304.jpg?r=39609",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=77846",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=78815",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -151,6 +152,19 @@
       "published": ""
     },
     {
+      "id": "b094684e12639d54",
+      "title": "A Chess Set So Well-Designed It Doubles as Desk Art",
+      "summary": "A Chess Set So Well-Designed It Doubles as Desk Art Chess has had its design moments before. The Bauhaus crowd took a swing at it in the 1920s. The Staunton standard has been the global...",
+      "url": "https://www.yankodesign.com/2026/08/01/a-chess-set-so-well-designed-it-doubles-as-desk-art/?utm_source=rss&utm_medium=rss&utm_campaign=a-chess-set-so-well-designed-it-doubles-as-desk-art",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/a-chess-set-so-well-designed-it-doubles-as-desk-art/chekt-00.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/a-chess-set-so-well-designed-it-doubles-as-desk-art/chekt-00.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-01T20:45:07+00:00"
+    },
+    {
       "id": "d517fd94d8ad94b8",
       "title": "The Kitchen Tool That Seems Useful But Is Actually A Waste Of Money",
       "summary": "This kitchen tool may look like a clever shortcut for busy cooks, promising to make food prep quicker and easier. However, it does the exact opposite.",
@@ -177,6 +191,19 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-01T17:20:10+00:00"
+    },
+    {
+      "id": "0e4a87329f48d106",
+      "title": "Montreal restaurant Minnibar by Ivy Studio \"embraces its raw shell\"",
+      "summary": "Japanese minimalism has informed the interiors of this light-filled Italian restaurant in Montreal, designed by locally based Ivy Studio with its first in-house designed chairs. Located on the ground level of a Downtown high-rise residential tower, Minnibar utilises the 20-foot (6-metre) ceilings, corner aspect and almost square floor plan to its advantage. Ivy Studio left The post Montreal restaurant Minnibar by Ivy Studio \"embraces its raw shell\" appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/01/minnibar-restaurant-montreal-ivy-studio/",
+      "image": "http://static.dezeen.com/uploads/2026/07/minnibar_ivy-studio_dezeen_sq2.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/minnibar_ivy-studio_dezeen_sq2.jpg"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-01T17:00:46+00:00"
     },
     {
       "id": "536cd26bc4863f57",
@@ -412,11 +439,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/03/DIY-Console-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Renter-Friendly-Accent-Wall.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/07/How-to-build-a-nighstand-with-a-drawer.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/01/me-with-desk.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/05/DIY-Full-Sized-Bed-Plans-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -825,6 +852,19 @@
       "published": "2026-07-30T19:58:26+00:00"
     },
     {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
+    },
+    {
       "id": "0b57e8124051628a",
       "title": "Dezeen Agenda features Guggenheim Abu Dhabi opening date",
       "summary": "The latest edition of our weekly Dezeen Agenda newsletter features news that the much-anticipated Guggenheim Abu Dhabi, designed by the late architect Frank Gehry, is set to open in December. Subscribe to Dezeen Agenda now. Abu Dhabi's department of culture and tourism released a statement which stated that the museum, located on Saadiyat Island, will The post Dezeen Agenda features Guggenheim Abu Dhabi opening date appeared first on Dezeen .",
@@ -986,7 +1026,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/03_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-11.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/04_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/05_RITMONIO_ELEMENTAP-MODULAR-VISION_SALONE-DEL-MOBILE-A-10.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/susy-pet-design-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Gervasoni-Club-table_chair-Roberto-Lazzeroni-02.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1202,9 +1242,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/this-chair-looks-normal-until-it-needs-to-keep-you-afloat-in-a-flood/mdw-aquaforma-domus-academy-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/this-multi-level-side-table-becomes-a-piece-of-wall-art-when-folded-flat/florian-side-table-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/07/auto-draft/spot_decor_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/05/hug-me-chair-is-an-emotive-ergonomic-seating-that-blends-comfort-style-and-sculptural-design/hug_me_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/ljud-speaker-concept-unifies-minimalist-design-with-an-integrated-remote/ljud-minimalist-speaker-remote-concept-05.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/08-Commute-Chair_WFH_transforming-privacy-and-office-space.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1315,6 +1355,19 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-07-28T01:10:24+00:00"
+    },
+    {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
     },
     {
       "id": "86626b097c480b3f",
@@ -1523,9 +1576,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/clipbulb_binder_clip_pen_holder_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/12/28/toaster.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/wacom-one-14-offers-a-creative-canvas-for-beginners-and-beyond/wacom-one-14-05.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/05/this-magnetic-keychain-has-a-three-level-locking-system-so-its-impossible-to-drop-your-keys/Titaner_Matrix_3_Level_Keychain_Security_System_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/10/eggcup/eggcup_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/09/top-10-lighting-designs/top_5_lighting_designs_yanko_design_hero.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1597,7 +1650,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2591,19 +2644,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-29T08:00:44+00:00"
-    },
-    {
-      "id": "a5d2244bed225c30",
-      "title": "Eight inspiring homes with bookmaxxed interiors",
-      "summary": "For our latest lookbook, we explore how bookmaxxing can add interest to an interior, looking at examples ranging from a penthouse in Germany to the home of Radiohead singer Thom Yorke. The tongue-in-cheek term bookmaxxing is used to describe the current trend of showcasing books in a myriad of different ways, as seen in these The post Eight inspiring homes with bookmaxxed interiors appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/27/homes-bookmaxxed-interiors-lookbooks/",
-      "image": "http://static.dezeen.com/uploads/2026/06/la-casa-del-pirata-house-interiors-spain-raul-sanchez-architects_dezeen_2364_col_sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/la-casa-del-pirata-house-interiors-spain-raul-sanchez-architects_dezeen_2364_col_sq.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-27T09:00:47+00:00"
     },
     {
       "id": "b3f70a2db9ed907b",
