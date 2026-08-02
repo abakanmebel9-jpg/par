@@ -1,13 +1,15 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-02T18:08:30.258438+00:00",
-  "generated_at_human": "2026-08-02 18:08 UTC",
-  "total_items": 224,
+  "generated_at": "2026-08-02T20:15:27.486714+00:00",
+  "generated_at_human": "2026-08-02 20:15 UTC",
+  "total_items": 244,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
+    "Better Homes & Gardens AU",
     "Core77",
     "DM tag cabinets",
     "DM tag furniture",
@@ -27,12 +29,15 @@
     "Garden & Home SA",
     "Gardenista",
     "Home Adore",
+    "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
+    "Homes To Love AU",
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
     "Lost Art Press",
+    "NKBA",
     "PopSugar Home",
     "Popular Woodworking",
     "Popular Woodworking projects",
@@ -45,14 +50,15 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 45,
-  "multi_photo_items": 50,
+  "sources_count": 51,
+  "multi_photo_items": 54,
   "items": [
     {
       "id": "e4bd870f91f11b68",
@@ -62,9 +68,9 @@
       "image": "https://i.archi.ru/i/1262/501492.jpg",
       "images": [
         "https://i.archi.ru/i/1262/501492.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=24252",
-        "https://i.archi.ru/news/quadratic/503899.jpg?r=5805",
-        "https://i.archi.ru/news/quadratic/503898.jpg?r=86660",
+        "https://i.archi.ru/i/1262/305304.jpg?r=85765",
+        "https://i.archi.ru/news/quadratic/503899.jpg?r=80294",
+        "https://i.archi.ru/news/quadratic/503898.jpg?r=99642",
         "https://i.archi.ru/i/509961.jpg",
         "https://i.archi.ru/i/1262/509959.jpg"
       ],
@@ -146,6 +152,35 @@
       "published": ""
     },
     {
+      "id": "6f3832d4e0169b4e",
+      "title": "BIG Wraps Dymak’s Headquarters in Solar-Powered Timber",
+      "summary": "BIG Wraps Dymak’s Headquarters in Solar-Powered Timber BIG’s new headquarters for Danish material supplier Dymak turns environmental performance into architecture. Rather than treating sustainability as a technical layer hidden within the building,...",
+      "url": "https://www.yankodesign.com/2026/08/02/big-wraps-dymaks-headquarters-in-solar-powered-timber/?utm_source=rss&utm_medium=rss&utm_campaign=big-wraps-dymaks-headquarters-in-solar-powered-timber",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/big-wraps-dymaks-headquarters-in-solar-powered-timber/Dymak_HQ_architecture_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/big-wraps-dymaks-headquarters-in-solar-powered-timber/Dymak_HQ_architecture_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-02T19:15:56+00:00"
+    },
+    {
+      "id": "9f3ad998a406d5a8",
+      "title": "The Best Places To Buy A Bathroom Vanity That Aren't Home Depot Or Lowe's",
+      "summary": "Home Depot and Lowe's may be the go-to spots for buying vanities. But if you're on a budget or want more unique options, you may want to look elsewhere.",
+      "url": "https://www.hunker.com/2228225/best-places-to-buy-bathroom-vanity-not-home-depot-lowes/",
+      "image": "https://www.hunker.com/img/gallery/the-best-places-to-buy-a-bathroom-vanity-that-arent-home-depot-or-lowes/l-intro-1785526963.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-best-places-to-buy-a-bathroom-vanity-that-arent-home-depot-or-lowes/l-intro-1785526963.jpg",
+        "https://www.hunker.com/img/gallery/the-best-places-to-buy-a-bathroom-vanity-that-arent-home-depot-or-lowes/intro-1785526963.jpg",
+        "https://www.hunker.com/img/gallery/the-best-places-to-buy-a-bathroom-vanity-that-arent-home-depot-or-lowes/buying-new-vanities-in-person-and-online-1785526964.jpg",
+        "https://www.hunker.com/img/gallery/the-best-places-to-buy-a-bathroom-vanity-that-arent-home-depot-or-lowes/buying-a-secondhand-vanity-1785526965.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-02T19:00:00+00:00"
+    },
+    {
       "id": "279fd8633cf17edf",
       "title": "Bang & Olufsen’s New Speaker Concept Is a Ritual, Not a Device",
       "summary": "Bang & Olufsen’s New Speaker Concept Is a Ritual, Not a Device Most speakers are designed to disappear. They sit on a shelf, blend into a bookcase, or hide in a cabinet, quietly doing their job until...",
@@ -195,9 +230,7 @@
       "url": "https://www.hunker.com/2226669/50s-design-trend-boomers-left-behind-millennials-bringing-back-pastels/",
       "image": "https://www.hunker.com/img/gallery/50s-design-trend-boomers-left-behind-millennials-bringing-back-pastels/l-intro-1785394737.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/50s-design-trend-boomers-left-behind-millennials-bringing-back-pastels/l-intro-1785394737.jpg",
-        "https://www.hunker.com/img/gallery/50s-design-trend-boomers-left-behind-millennials-bringing-back-pastels/intro-1785394737.jpg",
-        "https://www.hunker.com/img/gallery/50s-design-trend-boomers-left-behind-millennials-bringing-back-pastels/how-to-style-1950s-inspired-pastels-in-your-home-1785394739.jpg"
+        "https://www.hunker.com/img/gallery/50s-design-trend-boomers-left-behind-millennials-bringing-back-pastels/l-intro-1785394737.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -380,19 +413,6 @@
       "published": "2026-08-02T01:00:00+00:00"
     },
     {
-      "id": "cbb115edd8431371",
-      "title": "Turn A Common Kitchen Tool Into A Makeshift Screwdriver In A Pinch",
-      "summary": "When you can't find a screwdriver, head to the kitchen for this common tool. It isn't ideal for stuck fasteners but works great in a pinch for Phillips screws.",
-      "url": "https://www.hunker.com/2227182/what-to-use-as-screwdriver-common-potato-peeler-hack/",
-      "image": "https://www.hunker.com/img/gallery/turn-a-common-kitchen-tool-into-a-makeshift-screwdriver-in-a-pinch/l-intro-1785430183.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/turn-a-common-kitchen-tool-into-a-makeshift-screwdriver-in-a-pinch/l-intro-1785430183.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-01T22:30:00+00:00"
-    },
-    {
       "id": "b094684e12639d54",
       "title": "A Chess Set So Well-Designed It Doubles as Desk Art",
       "summary": "A Chess Set So Well-Designed It Doubles as Desk Art Chess has had its design moments before. The Bauhaus crowd took a swing at it in the 1920s. The Staunton standard has been the global...",
@@ -404,19 +424,6 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-01T20:45:07+00:00"
-    },
-    {
-      "id": "207b295cde64f424",
-      "title": "Artefilo Makes Home Objects From Elephant Grass and Hospital Cabinets",
-      "summary": "Artefilo Makes Home Objects From Elephant Grass and Hospital Cabinets The sustainable home goods market has a specific credibility problem. Products marketed as eco-conscious often get there through incremental adjustments, reducing a percentage of virgin...",
-      "url": "https://www.yankodesign.com/2026/08/01/artefilo-makes-home-objects-from-elephant-grass-and-hospital-cabinets/?utm_source=rss&utm_medium=rss&utm_campaign=artefilo-makes-home-objects-from-elephant-grass-and-hospital-cabinets",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/artefilo-makes-home-objects-from-elephant-grass-and-hospital-cabinets/artefilo-sustainable-objects-for-modern-living-11.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/artefilo-makes-home-objects-from-elephant-grass-and-hospital-cabinets/artefilo-sustainable-objects-for-modern-living-11.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-01T17:20:10+00:00"
     },
     {
       "id": "0e4a87329f48d106",
@@ -565,7 +572,7 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/07/DIY-Dresser-Free-plans.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/12/DIY-Dresser-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
@@ -900,6 +907,19 @@
       "published": "2026-07-30T19:58:26+00:00"
     },
     {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
+    },
+    {
       "id": "0b57e8124051628a",
       "title": "Dezeen Agenda features Guggenheim Abu Dhabi opening date",
       "summary": "The latest edition of our weekly Dezeen Agenda newsletter features news that the much-anticipated Guggenheim Abu Dhabi, designed by the late architect Frank Gehry, is set to open in December. Subscribe to Dezeen Agenda now. Abu Dhabi's department of culture and tourism released a statement which stated that the museum, located on Saadiyat Island, will The post Dezeen Agenda features Guggenheim Abu Dhabi opening date appeared first on Dezeen .",
@@ -1053,6 +1073,24 @@
       "published": "2026-07-30T04:00:20+00:00"
     },
     {
+      "id": "1829d22b2ccac99c",
+      "title": "A thriving coastal garden full of hardy native plants on the edge of Bruny Island",
+      "summary": "A young garden invites staying guests and the local wildlife to explore at leisure The post A thriving coastal garden full of hardy native plants on the edge of Bruny Island appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/outdoor-gardening/coastal-garden-bruny-island/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-coastal-garden-6a6a9bf9cad70.png?format=auto&v=1785371692",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-coastal-garden-6a6a9bf9cad70.png?format=auto&v=1785371692",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-coastal-garden-6a6a9bf9cad70.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/courtney-sev-the-block-2026-6a6acfcf75428.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-30t114617.258-6a6aacef7b05f.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-30t130809.244-6a6ac0546f628.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/01/jessica-bellef.jpg?w=2048&format=auto"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-30T01:23:20+00:00"
+    },
+    {
       "id": "79ac0c26ba42f258",
       "title": "JDD creates customisable British-made office furniture using Autodesk Fusion",
       "summary": "Promotion: British furniture maker Joint Design Direction has used Autodesk's Fusion software to help expand its offering of homegrown workplace furniture, including a sleep pod that hides a full-size single bed. The company now offers more than 30 products, which customers can personalise at will, all designed and manufactured at its headquarters in Dudley. To The post JDD creates customisable British-made office furniture using Autodesk Fusion appeared first on Dezeen .",
@@ -1064,6 +1102,24 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-29T20:00:22+00:00"
+    },
+    {
+      "id": "5269e65e27513816",
+      "title": "Grandmother in Latex: Archive for Space Reworks a Madrid Apartment.",
+      "summary": "Punk romance meets grandma chic in Jesús del Valle, an 80sqm Madrid apartment reworked by London and Mallorca-based Archive for Space. The palette pivots on a discovery—original terracotta flooring found beneath carpet—while a bespoke masonry kitchen and a circular extractor hood anchor the narrow plan. Vintage floral pieces and a cross-stitched rose wall hanging soften the edges. As co-founder Arabella Maza puts it, they kept referring to it as \"a grandmother in latex\". | The article Grandmother in Latex: Archive for Space Reworks a Madrid Apartment. appeared first on Yellowtrace . |",
+      "url": "https://www.yellowtrace.com.au/archive-for-space-jesus-del-valle-madrid-apartment-renovation/",
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2024/11/16190731/Yellowtrace-Archive-for-Space-Jesus-de-Vale-Madrid-Apartment-Photo-Enric-Badrinas-01_opt80.jpg",
+      "images": [
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2024/11/16190731/Yellowtrace-Archive-for-Space-Jesus-de-Vale-Madrid-Apartment-Photo-Enric-Badrinas-01_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2024/11/16190748/Yellowtrace-Archive-for-Space-Jesus-de-Vale-Madrid-Apartment-Photo-Enric-Badrinas-04_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2024/11/16190810/Yellowtrace-Archive-for-Space-Jesus-de-Vale-Madrid-Apartment-Photo-Enric-Badrinas-08_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2024/11/16190852/Yellowtrace-Archive-for-Space-Jesus-de-Vale-Madrid-Apartment-Photo-Enric-Badrinas-17_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2024/11/16190753/Yellowtrace-Archive-for-Space-Jesus-de-Vale-Madrid-Apartment-Photo-Enric-Badrinas-05_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2024/11/16190847/Yellowtrace-Archive-for-Space-Jesus-de-Vale-Madrid-Apartment-Photo-Enric-Badrinas-16_opt80.jpg"
+      ],
+      "source": "Yellowtrace",
+      "source_url": "https://www.yellowtrace.com.au",
+      "published": "2026-07-29T19:30:57+00:00"
     },
     {
       "id": "2faf9cb913c0b2aa",
@@ -1116,6 +1172,19 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-07-29T10:00:26+00:00"
+    },
+    {
+      "id": "e8ad94b82fe02214",
+      "title": "The three affordable ways to instantly elevate your bathroom",
+      "summary": "Creating a sanctuary from the ordinary The post The three affordable ways to instantly elevate your bathroom appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/bathroom-renovations/3-ways-to-upgrade-your-bathroom/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/bhg-x-target-bathroom-6a66af6a325c5.png?format=auto&v=1785114481",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/bhg-x-target-bathroom-6a66af6a325c5.png?format=auto&v=1785114481"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-29T05:26:25+00:00"
     },
     {
       "id": "ddf8af9ace60204a",
@@ -1179,9 +1248,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/09/auto-draft/HiBed4.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/02/360280/01_ayo_philion_chessboard.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/a-home-gym-station-that-saves-space-and-blends-in-with-the-rest-of-your-living-room/Home-Gym_living-room-seat.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/09/hiko_side_table_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/corner-clock-peeks-around-walls-for-a-playful-time-twist/corner-clock-06.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/01/15/nitska_08.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1240,6 +1309,73 @@
       "published": "2026-07-28T05:12:08+00:00"
     },
     {
+      "id": "8145140dcf7cf380",
+      "title": "MasterChef’s Laura Sharrad is building a kitchen for pasta parties",
+      "summary": "Plus, juggling motherhood with a booming career, her dream kitchen wish list, and a big life update involving cow pats. The post MasterChef’s Laura Sharrad is building a kitchen for pasta parties appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/podcast/laura-sharrad-the-edit-podcast/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?format=auto&v=1785120746",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?format=auto&v=1785120746",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/where-to-stay-in-tasmania-airbnb-tasmania-winter-vacation-weekend-getaway-tasmania-6a6c3bdb0a041.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/claudia-lambert-colour-scheme-1-6a6bf630c49c4.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/07/1658205266052_restored-stone-cottage-kitchen-southern-tablelands-scaled.jpg?crop=0px%2C771px%2C1704px%2C1281px&resize=1950%2C1462&format=auto"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-07-28T05:02:33+00:00"
+    },
+    {
+      "id": "8c4d38aba3923091",
+      "title": "A modern Bruny Island beach house where you can spot dolphins from the living room",
+      "summary": "A family's treasured weekender has been designed to capture the sun while withstanding the elements The post A modern Bruny Island beach house where you can spot dolphins from the living room appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/home-tours/bruny-island-modern-beach-house/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?format=auto&v=1785200928",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?format=auto&v=1785200928",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/bruny-island-beach-house-6a680109c5d8b.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-30t114617.258-6a6aacef7b05f.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/courtney-sev-the-block-2026-6a6acfcf75428.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-30t130809.244-6a6ac0546f628.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2016/10/Jackie-Brygel.png?w=2048&format=auto"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-28T01:55:23+00:00"
+    },
+    {
+      "id": "4e7c94c4a15b8ef6",
+      "title": "Stargaze and sip wine by firelight at this romantic Bruny Island hideaway",
+      "summary": "Waterfront serenity and cosy luxury await guests at this beautifully styled getaway just made for rest and renewal The post Stargaze and sip wine by firelight at this romantic Bruny Island hideaway appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/lifestyle/the-songbird-bruny-island/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?format=auto&v=1784863481",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?format=auto&v=1784863481",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-horizontal-1920-x-1080-2-6a62dac05b04d.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/courtney-sev-the-block-2026-6a6acfcf75428.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-30t114617.258-6a6aacef7b05f.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-30t130809.244-6a6ac0546f628.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/untitled-7-6a62ecff64fac-scaled.jpg?resize=2560%2C1707"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-28T01:10:24+00:00"
+    },
+    {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
+    },
+    {
       "id": "86626b097c480b3f",
       "title": "How to Choose and Care for Teak Outdoor Furniture That Lasts for Decades",
       "summary": "Wood outdoor furniture can quickly become a maintenance headache, but teak can last decades with little upkeep.",
@@ -1251,7 +1387,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/gil-schafer-maine-house-tour-dining-porch-jpg-1623352938.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-loggia-living-area-691cdc4e21e98.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/sutherland-dallas-home-loggia-67ab970e3ed67.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/b301e285-c495-490f-98dd-09ccb79b9a71.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/lauren-santo-domingo-tiffany-home-barn-final-65c65fbc53466.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1339,6 +1475,32 @@
       "source": "Lost Art Press",
       "source_url": "https://blog.lostartpress.com",
       "published": "2026-07-27T11:37:28+00:00"
+    },
+    {
+      "id": "b595f7d2d11af955",
+      "title": "Arent & Pyke solved the biggest challenge of renovating a heritage home",
+      "summary": "Working with TKD Architects, the interiors take their cues from the home's Arts and Crafts character The post Arent & Pyke solved the biggest challenge of renovating a heritage home appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/home-tours/arent-pyke-sydney-family-home/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?format=auto&v=1785133543",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-27t162103.285-6a66f903873e2.png?format=auto&v=1785133543"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-27T06:37:27+00:00"
+    },
+    {
+      "id": "4607879a5ed03ab6",
+      "title": "30 chic country bathrooms with design ideas to steal",
+      "summary": "Who doesn't love a clawfoot tub? The post 30 chic country bathrooms with design ideas to steal appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/rooms/bathrooms-laundry/country-bathrooms-13321/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?format=auto&v=1785125629",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/08/seaside-cottage-bathroom-6a66dacb4c821.png?format=auto&v=1785125629"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-07-27T04:23:26+00:00"
     },
     {
       "id": "e93f31d5f55035ec",
@@ -1564,6 +1726,19 @@
       "published": "2026-07-24T08:00:03+00:00"
     },
     {
+      "id": "79356f0e5dd1be9e",
+      "title": "ALDI responds to Steph de Sousa’s sold-out kitchen range",
+      "summary": "Did you miss out? The post ALDI responds to Steph de Sousa’s sold-out kitchen range appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/food/aldi-steph-de-sousa-collection/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/steph-de-sousa-6a62b81b35bad.jpg?format=auto&v=1784854563",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/steph-de-sousa-6a62b81b35bad.jpg?format=auto&v=1784854563"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-24T01:24:25+00:00"
+    },
+    {
       "id": "7b7f8e6d28abc1e7",
       "title": "Attention: I've Officially Found the Internet's Best Napping Sofa",
       "summary": "Image Source: Popsugar Photography | Taylor Andrews People say the kitchen is the heart of the home, but I'd have to disagree.",
@@ -1660,6 +1835,19 @@
       "published": "2026-07-23T06:06:04+00:00"
     },
     {
+      "id": "bed5befd81d2e4a8",
+      "title": "These products are the secret to staying warm this winter",
+      "summary": "As the temperature drops, it’s time to wrap yourself and your home in comforting layers. We’ve rounded up and tested the best products to keep the cold at bay all winter long. Heated throws, soft rugs, and inviting cushions transform your living room into a haven. These smart touches help you save on heating as […] The post These products are the secret to staying warm this winter appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/buyers-guides/keep-warm-guide/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/keep-warm-products-6a5db7c42947d.png?format=auto&v=1784526788",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/keep-warm-products-6a5db7c42947d.png?format=auto&v=1784526788"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-07-22T23:28:21+00:00"
+    },
+    {
       "id": "1df532c60ca802e8",
       "title": "Designer Claudia Lambert champions personality over perfection",
       "summary": "What if the secret to a beautiful home isn’t following trends, but trusting your instincts? That’s the question at the… The post Designer Claudia Lambert champions personality over perfection appeared first on The Interiors Addict .",
@@ -1676,6 +1864,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c641918c090f36dc",
@@ -1715,6 +1916,32 @@
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
       "published": "2026-07-22T08:00:38+00:00"
+    },
+    {
+      "id": "ebbdfc8a5f55c358",
+      "title": "Consumer Uncertainty Continues to Impact Industry Growth, as K&B Industry Pros Downgrade Expectations for 2026",
+      "summary": "N NKBA Staff Posted: Jul 21, 2026 5:17 pm Kitchen & Bath Market Index Positive Near-Term Activity Offers Optimism for Improving Conditions Image courtesy of Getty Images. By NKBA Editorial Staff The Kitchen & Bath Market Index (KBMI), which measures growth in the U.S. residential kitchen and bath industry, remained flat year-over-year at 53 out of 100, as K&B pros said ongoing consumer uncertainty, driven largely by rising material costs and trade tensions, is slowing demand and limiting growth. The 2Q26 Kitchen and Bath Market Index (KBMI) Report , conducted jointly by the NKBA and John…",
+      "url": "https://nkba.org/research/kitchen-bath-market-index/consumer-uncertainty-continues-to-impact-industry-growth-as-kb-industry-pros-downgrade-expectations-for-2026/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Kitchen_Remodel_Getty.jpg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Kitchen_Remodel_Getty.jpg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-21T21:17:57+00:00"
+    },
+    {
+      "id": "4bdae7dd4f78ec4e",
+      "title": "2026 Kitchen & Bath Industry Outlook Update: Higher Inflation and Weaker New Home Construction Tempers Growth",
+      "summary": "N NKBA Staff Posted: Jul 21, 2026 5:16 pm Kitchen & Bath Market Outlook Building on a Year of Stability, a More Gradual and Uneven Recovery is Expected Image courtesy of Getty Images. By NKBA Editorial Staff The NKBA I KBIS 2026 Kitchen & Bath Industry Outlook Update , which provides a refreshed, mid-year look at U.S.residential kitchen and bath industry activity, indicates that the overall 2026 forecast remains stable and largely unchanged from February. U.S. K&B revenue, including both materials and labor, will stay essentially flat at $228 billion in 2026. Here are some additional key…",
+      "url": "https://nkba.org/research/kitchen-bath-market-outlook/2026-kitchen-bath-industry-outlook-update-higher-inflation-and-weaker-new-home-construction-tempers-growth/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Bath_Remodel_Getty.jpg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Bath_Remodel_Getty.jpg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-21T21:16:22+00:00"
     },
     {
       "id": "c00cba595270b915",
@@ -1759,6 +1986,19 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-07-21T15:22:55+00:00"
+    },
+    {
+      "id": "570274011b15385d",
+      "title": "Catching Up with… Rocky Mountain Chapter",
+      "summary": "N NKBA Staff Posted: Jul 21, 2026 7:38 am Member + Industry News A Spectacular 14th Run of the Annual Peak Design Awards Front Row: Courtney Williams, Eli Hariton; Back Row: Michael Collins, Delilah Collins, Melissa Odueh, Lars Lindquist, Ashley Christensen, Vivi Avila, Gillian Scheer It takes a full year for our Rocky Mountain Chapter to put on their annual Peak Design Awards Gala–the most prestigious design awards event in Colorado. Modeled after the NKBA’s own national Design Competition, the Peak Awards recognizes excellence in four categories: dining, living, bedroom, and specialty…",
+      "url": "https://nkba.org/news/member-industry-news/catching-up-with-rocky-mountain-chapter/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-10.jpeg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-10.jpeg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-21T11:40:59+00:00"
     },
     {
       "id": "ef305fbba91dcb87",
@@ -2127,12 +2367,7 @@
       "url": "https://www.yellowtrace.com.au/antwe-sadovye-moscow-apartment-oval-volume-circular-plan/",
       "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/02120120/Yellowtrace-Antwe-Sadovye-Apartment-Moscow-Photo-Mikhail-Loskutov-25_opt80.jpg",
       "images": [
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/02120120/Yellowtrace-Antwe-Sadovye-Apartment-Moscow-Photo-Mikhail-Loskutov-25_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/02120126/Yellowtrace-Antwe-Sadovye-Apartment-Moscow-Photo-Mikhail-Loskutov-26_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/02120109/Yellowtrace-Antwe-Sadovye-Apartment-Moscow-Photo-Mikhail-Loskutov-23_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/02120131/Yellowtrace-Antwe-Sadovye-Apartment-Moscow-Photo-Mikhail-Loskutov-27_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/02120137/Yellowtrace-Antwe-Sadovye-Apartment-Moscow-Photo-Mikhail-Loskutov-28_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/02120008/Yellowtrace-Antwe-Sadovye-Apartment-Moscow-Photo-Mikhail-Loskutov-12_opt80.jpg"
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/02120120/Yellowtrace-Antwe-Sadovye-Apartment-Moscow-Photo-Mikhail-Loskutov-25_opt80.jpg"
       ],
       "source": "Yellowtrace",
       "source_url": "https://www.yellowtrace.com.au",
@@ -2230,6 +2465,19 @@
       "published": "2026-07-08T22:00:00+00:00"
     },
     {
+      "id": "8f6d5df0473ebbb6",
+      "title": "Catching up With… Texas North Plains Chapter",
+      "summary": "N NKBA Staff Posted: Jul 8, 2026 9:50 am Member + Industry News A Furry Good Time at “Dogs & Design” Chapter President Samantha Vogt, Dana Bass, Jenifer Wiley, Heidi Arwine, and Taylor Massey We love it when NKBA members let their creativity shine by dreaming up amazing events, and this was certainly the case with “Dogs & Design” hosted by our Texas North Plains Chapter . “I’m a huge dog lover,” said Programs Chair Nicole Raynes, “And there are so many people in our chapter who love dogs, have dogs, or have done designs for dogs. It’s a fun niche in our community–designing for dogs.” The…",
+      "url": "https://nkba.org/news/member-industry-news/catching-up-with-texas-north-plains-chapter/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-5.jpeg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-5.jpeg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-08T13:54:33+00:00"
+    },
+    {
       "id": "b37616f3cb4c440f",
       "title": "Yinka Ilori's Dunelm collection aims to make good design \"a lot more accessible\"",
       "summary": "British-Nigerian designer Yinka Ilori has brought a retro 1970s feeling to chairs, rugs, beds, lamps and cushions as part of a 40-piece collection for high-street furniture retailer Dunelm. Launched today, the Yinka Ilori x Dunelm collection is the designer's first full furniture and homeware collection. Ilori wanted the collection to be joyful, while evoking the eclectic The post Yinka Ilori's Dunelm collection aims to make good design \"a lot more accessible\" appeared first on Dezeen .",
@@ -2280,6 +2528,19 @@
       "source": "Stylepark DE",
       "source_url": "https://www.stylepark.com",
       "published": "2026-07-06T22:00:00+00:00"
+    },
+    {
+      "id": "7f797c4406190c79",
+      "title": "Happening in the Hub: Outdoor Living Trends",
+      "summary": "N NKBA Staff Posted: Jul 6, 2026 2:37 pm Design Trends Design Trends + News Latest Insights From The Kitchen & Bath Pro Hub Design by Kristen Hennie,CKBD; image by Matt Wagar Inside the NKBA Kitchen & Bath Pro Hub , industry professionals connect and actively share their insights from the ever-evolving world of design. This includes lively discussions about current design trends. Recently, the topic was outdoor living. The consensus: outdoor design has shifted from an optional luxury upgrade to a high-expectation standard. Clients now expect outdoor spaces to function as self-sufficient,…",
+      "url": "https://nkba.org/news/design-trends-news/happening-in-the-hub-outdoor-living-trends/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-1.jpeg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/07/image-1.jpeg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-07-06T18:37:29+00:00"
     },
     {
       "id": "0e5303c7ab8af113",
@@ -2461,6 +2722,19 @@
       "published": "2026-06-24T17:00:31+00:00"
     },
     {
+      "id": "694d12fa01721b4a",
+      "title": "Catching Up With… Palouse Chapter",
+      "summary": "N NKBA Staff Posted: Jun 23, 2026 10:58 am Member + Industry News Close Race at the Annual Student Design Competition Student Design Competition winners Emily Johnson, Shelly Norsworthy, and Acacia Whitlock The Palouse Chapter gathered on June 4th at Spokane Hardware Supply for the highly-anticipated Student Design Competition. The annual event is a highlight for students at Spokane Falls Community College (SFCC) working towards their Interior Design Associate in Applied Science Degree taught by Tanja Huffman. “The students are actively involved in the chapter throughout the year, but this…",
+      "url": "https://nkba.org/news/member-industry-news/catching-up-with-palouse-chapter/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/06/image-5.jpeg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/06/image-5.jpeg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-06-23T14:59:59+00:00"
+    },
+    {
       "id": "77037b44b90e5ca8",
       "title": "Skip the Boring Gray Couch: 9 Camel Sofa Ideas That Actually Tie a Living Room Together",
       "summary": "Camel is one of those colors that looks expensive without trying. It’s warm, it’s neutral, and it plays nice with almost anything you put next to it. These 9 camel sofa living rooms show you exactly how to build a room around one. Camel works because it sits right in the middle. It’s warm enough […] The post Skip the Boring Gray Couch: 9 Camel Sofa Ideas That Actually Tie a Living Room Together appeared first on Trendir .",
@@ -2516,6 +2790,19 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-18T09:30:29+00:00"
+    },
+    {
+      "id": "c051693e05ff7f15",
+      "title": "SME Corey Klassen Discusses Revamping NKBA K&B Planning Guidelines",
+      "summary": "N NKBA Staff Posted: Jun 17, 2026 3:02 pm Member + Industry News K&B Subject Matter Expert Corey Klassen, RID, NCIDQ, CMKBD, reveals the evolution behind an industry standard. By NKBA Staff The NKBA’s Kitchen & Bath Planning Guidelines have been the industry’s gold standard for years, serving as an essential reference for design professionals. Published since 1992, it is the most complete collection of illustrations and planning recommendations available in one source, covering the planning and installation of beautiful, efficient, code-compliant kitchens and baths and other interior…",
+      "url": "https://nkba.org/news/member-industry-news/sme-corey-klassen-discusses-revamping-nkba-kb-planning-guidelines/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/06/CoreyKlassen_4.jpg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/06/CoreyKlassen_4.jpg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-06-17T19:02:31+00:00"
     },
     {
       "id": "5a32b1b1b7bc6f6f",
@@ -2903,11 +3190,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/DIY-Pantry-Cabinet.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
