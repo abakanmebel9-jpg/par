@@ -1,15 +1,16 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-03T15:11:25.916145+00:00",
-  "generated_at_human": "2026-08-03 15:11 UTC",
-  "total_items": 242,
+  "generated_at": "2026-08-03T18:01:14.028187+00:00",
+  "generated_at_human": "2026-08-03 18:01 UTC",
+  "total_items": 244,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
+    "DM tag bathroom",
     "DM tag cabinets",
     "DM tag furniture",
     "Decoist",
@@ -24,6 +25,7 @@
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
+    "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
     "Gardenista",
@@ -56,8 +58,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 50,
-  "multi_photo_items": 56,
+  "sources_count": 52,
+  "multi_photo_items": 59,
   "items": [
     {
       "id": "9297f6b01cef2878",
@@ -151,6 +153,117 @@
       "published": ""
     },
     {
+      "id": "ec74f3f5290c9118",
+      "title": "A Toronto Penthouse Finds New Life by Celebrating Its 1980s Roots",
+      "summary": "Dvira Interiors leaned into the penthouse’s late-’80s character by pairing its curved architecture with global influences, tactile materials, and immersive interiors",
+      "url": "https://design-milk.com/dvira-interiors-toronto-penthouse-1980s-renovation/",
+      "image": "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg",
+        "https://design-milk.com/images/2026/08/2.5.jpg",
+        "https://design-milk.com/images/2026/08/DviraInteriors-loft1647.jpg",
+        "https://design-milk.com/images/2026/08/2.-DviraInteriors-loft1488.jpg",
+        "https://design-milk.com/images/2026/08/DviraInteriors-loft1501.jpg",
+        "https://design-milk.com/images/2026/08/DviraInteriors-loft1590.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "f2f6d56f086f9f8b",
+      "title": "Turn Metal Baskets Into Countertop Storage With A Space-Saving Dollar Tree DIY",
+      "summary": "If your countertops are always cluttered, this simple Dollar Tree hack creates room for twice as many kitchen essentials without hogging up a lot space.",
+      "url": "https://www.hunker.com/2226771/metal-basket-kitchen-countertop-storage-dollar-tree-diy/",
+      "image": "https://www.hunker.com/img/gallery/turn-metal-baskets-into-countertop-storage-with-a-space-saving-dollar-tree-diy/l-intro-1785388873.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/turn-metal-baskets-into-countertop-storage-with-a-space-saving-dollar-tree-diy/l-intro-1785388873.jpg",
+        "https://www.hunker.com/img/gallery/turn-metal-baskets-into-countertop-storage-with-a-space-saving-dollar-tree-diy/intro-1785388873.jpg",
+        "https://www.hunker.com/img/gallery/turn-metal-baskets-into-countertop-storage-with-a-space-saving-dollar-tree-diy/assemble-a-dollar-tree-tiered-countertop-storage-rack-1785388875.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-03T16:30:00+00:00"
+    },
+    {
+      "id": "657bd15748567c11",
+      "title": "A Designer Just Answered Facial Recognition With a Medieval Visor",
+      "summary": "A Designer Just Answered Facial Recognition With a Medieval Visor Facial recognition has become one of the fastest-growing forms of infrastructure in public life. Cameras in airports, transit systems, retail spaces, and city streets capture...",
+      "url": "https://www.yankodesign.com/2026/08/03/a-designer-just-answered-facial-recognition-with-a-medieval-visor/?utm_source=rss&utm_medium=rss&utm_campaign=a-designer-just-answered-facial-recognition-with-a-medieval-visor",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/a-designer-just-answered-facial-recognition-with-a-medieval-visor/obex-wearable-identity-shield-concept-05.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/a-designer-just-answered-facial-recognition-with-a-medieval-visor/obex-wearable-identity-shield-concept-05.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-03T16:20:19+00:00"
+    },
+    {
+      "id": "b394ac9ab67d574a",
+      "title": "The Furniture Trend of the Season? Crisp Outlines",
+      "summary": "Fashion has long embraced contrast piping, and now interiors are following suit. Here's how to bring the look home.",
+      "url": "https://www.elledecor.com/design-decorate/trends/g73334730/contrast-piping-furniture-trend/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/a0640886-dbbc-4103-ae7c-25c018cbc7ee.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/a0640886-dbbc-4103-ae7c-25c018cbc7ee.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/f55f7058-393a-41ca-ae6b-e051f57d75b2.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/d4068418-de3d-4e5c-9893-84047305f822.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/a94bd5aa-fd21-4a0d-ba2b-53c0590b88dc.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/046b2040-10e5-4d5b-ac35-231a8a07db94.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/6f1e13f5-ce2e-4dea-a808-53d271f4c9b7.jpeg"
+      ],
+      "source": "Elle Decor",
+      "source_url": "https://www.elledecor.com",
+      "published": "2026-08-03T16:10:31+00:00"
+    },
+    {
+      "id": "124c97bd56f9be58",
+      "title": "Making this door mat mistake? It’s the reason your floors always look grimy no matter how often you clean",
+      "summary": "You sweep. You vacuum. You mop. And by Wednesday, the floor near your front door looks like nobody’s touched it in a month. There’s a dull film on the wood. The grout by the door is darker than the grout in the middle of the kitchen. If you’ve got a light-colored rug anywhere near the […] The post Making this door mat mistake? It’s the reason your floors always look grimy no matter how often you clean appeared first on Trendir .",
+      "url": "https://www.trendir.com/making-this-door-mat-mistake-its-the-reason-your-floors-always-look-grimy-no-matter-how-often-you-clean/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/dark-hallway-with-muddy-doormat-and-sneakers.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/dark-hallway-with-muddy-doormat-and-sneakers.png",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/white-coffee-maker-brewing-steam-yellow-kitchen.png",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/suspended-bathtub-by-splinter-works-floats-on-air-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/corrugated-steel-house-with-warm-wood-details-throughout-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/timber-cabin-built-into-cliff-side-site-6.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/trends/2015/06/28/crochet-granny-squares-blanket-is-largest-in-the-world-7.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-08-03T16:00:00+00:00"
+    },
+    {
+      "id": "6b9db86438a8d555",
+      "title": "This Artist Turned a Raw Industrial Rental into a Moody, Maximal Live/Work Space",
+      "summary": "Visual artist Charles Andre Thomas built out this once-bare Chicago rental himself, using rich jewel tones, custom furniture, and his own artwork to create a home, studio, and creative workspace all in one. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/moody-industrial-chicago-loft-37682674?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/charles-t/tours-chicago-charles-t-3",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/charles-t/tours-chicago-charles-t-3"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-03T16:00:00+00:00"
+    },
+    {
+      "id": "36f94c3adae24ce7",
+      "title": "The Clever Way To Update Honey Oak Cabinets Without Painting Them",
+      "summary": "Honey oak cabinets were once the go-to in kitchen design. And if you still have them and want to update the look, there's a creative way to do so sans paint.",
+      "url": "https://www.hunker.com/2226987/update-honey-oak-cabinets-without-paint-best-countertops/",
+      "image": "https://www.hunker.com/img/gallery/the-clever-way-to-update-honey-oak-cabinets-without-painting-them/l-intro-1785421865.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-clever-way-to-update-honey-oak-cabinets-without-painting-them/l-intro-1785421865.jpg",
+        "https://www.hunker.com/img/gallery/the-clever-way-to-update-honey-oak-cabinets-without-painting-them/intro-1785421865.jpg",
+        "https://www.hunker.com/img/gallery/the-clever-way-to-update-honey-oak-cabinets-without-painting-them/create-contrast-with-your-countertops-to-balance-mid-tone-honey-oak-cabinets-1785421867.jpg",
+        "https://www.hunker.com/img/gallery/the-clever-way-to-update-honey-oak-cabinets-without-painting-them/downplay-overbearing-honey-oak-undertones-with-warm-countertop-finishes-1785421868.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-03T15:30:00+00:00"
+    },
+    {
       "id": "58c194a6ad607e54",
       "title": "Kitchen always crowded with trash and recycling bins? There’s a way to hide them all in one spot",
       "summary": "You already know the feeling. You walk into your kitchen and there they are again. A trash can shoved against the wall. A recycling tub next to it. A little compost bucket squeezed in somewhere it doesn’t belong. Three ugly plastic things you have to shuffle around every time you sweep. That corner by the […] The post Kitchen always crowded with trash and recycling bins? There’s a way to hide them all in one spot appeared first on Trendir .",
@@ -167,6 +280,21 @@
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-08-03T14:51:21+00:00"
+    },
+    {
+      "id": "0fb3e3c3b8bf3a40",
+      "title": "Reuse Old Tin Cans For Sweet And Stylish Countertop Storage",
+      "summary": "Grab an everyday item from the kitchen aisle of your local home goods store, a tin can, and some crafting essentials to stylishly corral clutter in no time.",
+      "url": "https://www.hunker.com/2226909/reuse-tin-cans-stylish-countertop-storage/",
+      "image": "https://www.hunker.com/img/gallery/reuse-old-tin-cans-for-sweet-and-stylish-countertop-storage/l-intro-1785416749.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/reuse-old-tin-cans-for-sweet-and-stylish-countertop-storage/l-intro-1785416749.jpg",
+        "https://www.hunker.com/img/gallery/reuse-old-tin-cans-for-sweet-and-stylish-countertop-storage/intro-1785416749.jpg",
+        "https://www.hunker.com/img/gallery/reuse-old-tin-cans-for-sweet-and-stylish-countertop-storage/how-you-can-transform-an-old-tin-can-into-a-stylish-countertop-storage-solution-1785416751.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-03T14:00:00+00:00"
     },
     {
       "id": "85de1639468443af",
@@ -191,9 +319,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/08/the-bare-minimum-and-nothing-more/air_lounge_chair_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/bookgroove-is-a-unique-bookshelf-and-side-table-in-one/bookgroove.jpeg",
-        "https://www.yankodesign.com/images/design_news/2010/08/10/honeychairstool01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/08_iswiftpi_iswift_thinlaptopdesk.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/08/26/originedumondemaybe01.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/10/11/o_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -268,9 +396,7 @@
       "url": "https://www.hunker.com/2227123/broken-hutch-upcycle-modern-diy-storage-display-cabinet/",
       "image": "https://www.hunker.com/img/gallery/woman-turns-a-broken-hutch-top-into-a-sophisticated-statement-piece-i-love-the-paint-colors/l-intro-1785427532.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/woman-turns-a-broken-hutch-top-into-a-sophisticated-statement-piece-i-love-the-paint-colors/l-intro-1785427532.jpg",
-        "https://www.hunker.com/img/gallery/woman-turns-a-broken-hutch-top-into-a-sophisticated-statement-piece-i-love-the-paint-colors/intro-1785427532.jpg",
-        "https://www.hunker.com/img/gallery/woman-turns-a-broken-hutch-top-into-a-sophisticated-statement-piece-i-love-the-paint-colors/update-a-hutch-top-to-create-a-display-cabinet-1785427533.jpg"
+        "https://www.hunker.com/img/gallery/woman-turns-a-broken-hutch-top-into-a-sophisticated-statement-piece-i-love-the-paint-colors/l-intro-1785427532.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -442,12 +568,7 @@
       "url": "https://www.hunker.com/2226565/diy-shoe-storage-ideas-space-saving/",
       "image": "https://www.hunker.com/img/gallery/4-space-saving-diy-shoe-storage-solutions-that-are-no-brainers-for-cramped-areas/l-intro-1785355733.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/4-space-saving-diy-shoe-storage-solutions-that-are-no-brainers-for-cramped-areas/l-intro-1785355733.jpg",
-        "https://www.hunker.com/img/gallery/4-space-saving-diy-shoe-storage-solutions-that-are-no-brainers-for-cramped-areas/intro-1785355733.jpg",
-        "https://www.hunker.com/img/gallery/4-space-saving-diy-shoe-storage-solutions-that-are-no-brainers-for-cramped-areas/convert-leftover-shoe-boxes-into-a-footwear-storage-tower-1785355734.jpg",
-        "https://www.hunker.com/img/gallery/4-space-saving-diy-shoe-storage-solutions-that-are-no-brainers-for-cramped-areas/make-a-unique-shoe-rack-with-pvc-pipes-1785355735.jpg",
-        "https://www.hunker.com/img/gallery/4-space-saving-diy-shoe-storage-solutions-that-are-no-brainers-for-cramped-areas/turn-coat-hooks-into-a-garage-wall-shoe-storage-solution-1785355735.jpg",
-        "https://www.hunker.com/img/gallery/4-space-saving-diy-shoe-storage-solutions-that-are-no-brainers-for-cramped-areas/utilize-vertical-space-with-a-tension-rod-diy-1785355736.jpg"
+        "https://www.hunker.com/img/gallery/4-space-saving-diy-shoe-storage-solutions-that-are-no-brainers-for-cramped-areas/l-intro-1785355733.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -460,9 +581,7 @@
       "url": "https://www.hunker.com/2226819/sharpen-kitchen-knives-amazon-tool-finishing-stone-alternative/",
       "image": "https://www.hunker.com/img/gallery/skip-the-finishing-stone-sharpen-kitchen-knives-with-an-affordable-amazon-find/l-intro-1785400403.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/skip-the-finishing-stone-sharpen-kitchen-knives-with-an-affordable-amazon-find/l-intro-1785400403.jpg",
-        "https://www.hunker.com/img/gallery/skip-the-finishing-stone-sharpen-kitchen-knives-with-an-affordable-amazon-find/intro-1785400403.jpg",
-        "https://www.hunker.com/img/gallery/skip-the-finishing-stone-sharpen-kitchen-knives-with-an-affordable-amazon-find/pros-and-cons-of-the-longzon-5-in-1-knife-sharpener-1785400405.jpg"
+        "https://www.hunker.com/img/gallery/skip-the-finishing-stone-sharpen-kitchen-knives-with-an-affordable-amazon-find/l-intro-1785400403.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -550,58 +669,6 @@
       "source": "Yellowtrace",
       "source_url": "https://www.yellowtrace.com.au",
       "published": "2026-08-02T19:30:45+00:00"
-    },
-    {
-      "id": "6f3832d4e0169b4e",
-      "title": "BIG Wraps Dymak’s Headquarters in Solar-Powered Timber",
-      "summary": "BIG Wraps Dymak’s Headquarters in Solar-Powered Timber BIG’s new headquarters for Danish material supplier Dymak turns environmental performance into architecture. Rather than treating sustainability as a technical layer hidden within the building,...",
-      "url": "https://www.yankodesign.com/2026/08/02/big-wraps-dymaks-headquarters-in-solar-powered-timber/?utm_source=rss&utm_medium=rss&utm_campaign=big-wraps-dymaks-headquarters-in-solar-powered-timber",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/big-wraps-dymaks-headquarters-in-solar-powered-timber/Dymak_HQ_architecture_01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/big-wraps-dymaks-headquarters-in-solar-powered-timber/Dymak_HQ_architecture_01.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-02T19:15:56+00:00"
-    },
-    {
-      "id": "9f3ad998a406d5a8",
-      "title": "The Best Places To Buy A Bathroom Vanity That Aren't Home Depot Or Lowe's",
-      "summary": "Home Depot and Lowe's may be the go-to spots for buying vanities. But if you're on a budget or want more unique options, you may want to look elsewhere.",
-      "url": "https://www.hunker.com/2228225/best-places-to-buy-bathroom-vanity-not-home-depot-lowes/",
-      "image": "https://www.hunker.com/img/gallery/the-best-places-to-buy-a-bathroom-vanity-that-arent-home-depot-or-lowes/l-intro-1785526963.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/the-best-places-to-buy-a-bathroom-vanity-that-arent-home-depot-or-lowes/l-intro-1785526963.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-02T19:00:00+00:00"
-    },
-    {
-      "id": "786897e0a313c4c5",
-      "title": "Not For Jewelry: There's A Smarter Way To Use An Old Spoon Rack For Organizing",
-      "summary": "This DIY involves taking apart some of the pieces of a spoon rack and giving it a fancy makeover with pattern or paint, creating a rustic kitchen storage idea.",
-      "url": "https://www.hunker.com/2214633/upcycle-thrifted-spoon-rack-theres-a-smarter-way-to-organize-measuring-cups/",
-      "image": "https://www.hunker.com/img/gallery/not-for-jewelry-theres-a-smarter-way-to-use-an-old-spoon-rack-for-organizing/l-intro-1784037209.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-for-jewelry-theres-a-smarter-way-to-use-an-old-spoon-rack-for-organizing/l-intro-1784037209.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-02T17:00:00+00:00"
-    },
-    {
-      "id": "a98f18952549497d",
-      "title": "Pantry Moth Webs Look Different: Here's How To Identify One In Your Kitchen",
-      "summary": "If you haven't reorganized your kitchen pantry in a while, it may be worth it to do a deep sort and check the contents for pantry moths.",
-      "url": "https://www.hunker.com/2226933/how-to-identify-pantry-moths-webs/",
-      "image": "https://www.hunker.com/img/gallery/pantry-moth-webs-look-different-heres-how-to-identify-one-in-your-kitchen/l-intro-1785419131.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/pantry-moth-webs-look-different-heres-how-to-identify-one-in-your-kitchen/l-intro-1785419131.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-02T16:30:00+00:00"
     },
     {
       "id": "a67b778dd576a6e8",
@@ -1034,8 +1101,8 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg",
+        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/3-DoimoCucine_composizione-Rima_collezione-Impronta_set_03.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg"
       ],
@@ -1070,7 +1137,7 @@
         "https://design-milk.com/images/2026/07/Sigla-Studio-Turo-Park-Apartment-6.jpeg",
         "https://design-milk.com/images/2026/07/Sigla-Studio-Turo-Park-Apartment-2.jpeg"
       ],
-      "source": "Design Milk",
+      "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
     },
@@ -1385,9 +1452,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/this-striking-couch-makes-a-powerful-statement-on-face-masks/couch-19-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/01/your-childhood-fort-gets-a-grownup-upgrade-with-this-modular-desk-concept/comodo-desk-concept-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/09/i-sat-in-the-6000-robotic-massage-chair-at-ifa-2024-a-luxurious-hands-on-with-the-bodyfriend-quantum/bodyfriend_quantum_robot_massage_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/04/02/flexi_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/this-sustainable-shelf-requires-no-screws-or-tools-to-assemble/svolta-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/10/01/branca_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1482,32 +1549,6 @@
       "published": "2026-07-27T18:59:00+00:00"
     },
     {
-      "id": "6d1ac7ca0d477bd6",
-      "title": "Dostea Brings Thoughtful Industrial Design to the Chai Ritual",
-      "summary": "Designed by Analogy Design, the compact countertop tea maker preserves the rituals of traditional chai while rethinking how the beloved drink fits into contemporary kitchens",
-      "url": "https://design-milk.com/dostea-chai-maker-analogy-design/",
-      "image": "https://design-milk.com/images/2026/07/Dostea-1-1.png",
-      "images": [
-        "https://design-milk.com/images/2026/07/Dostea-1-1.png"
-      ],
-      "source": "Design Milk",
-      "source_url": "https://design-milk.com",
-      "published": "2026-07-27T16:32:26+00:00"
-    },
-    {
-      "id": "4fd39cfb40d6ad52",
-      "title": "Online Extras October 2026 #291",
-      "summary": "Here are the online extras for the October 2026 issue of Popular Woodworking Magazine. Interested in having the magazine delivered directly to your mailbox (physical or email) six times a... Source",
-      "url": "https://www.popularwoodworking.com/online-extras/online-extras-october-2026-291/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/28105847/01_c1_2604_cover-1.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/28105847/01_c1_2604_cover-1.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-27T14:19:43+00:00"
-    },
-    {
       "id": "008c74a0d1d1467c",
       "title": "An American, an Irish Chair, in Germany",
       "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
@@ -1600,9 +1641,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/08/auto-draft/money_box_3.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/xiaomi-built-a-tracker-that-works-on-apple-find-my-and-google/xiaomi-tag-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/10/the-flectr-360-degree-wheel-reflector-that-instantly-make-biking-safer/flectr_wing_bike_reflector_with_360_degree_visibility2_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/01/auto-draft/mirrorhob_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/04/auto-draft/razer_ansu_glasses_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/this-printed-circuit-sconce-turns-exposed-electronics-into-functional-sculpture/Printed_circuit_lighting_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2912,7 +2953,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3160,7 +3201,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3172,7 +3213,7 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/04/DIY-Bench-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/06/diy-woodworking-lounge-chair.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
@@ -3191,7 +3232,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
