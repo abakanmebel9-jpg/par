@@ -1,15 +1,16 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-03T18:01:14.028187+00:00",
-  "generated_at_human": "2026-08-03 18:01 UTC",
-  "total_items": 244,
+  "generated_at": "2026-08-03T19:52:01.403468+00:00",
+  "generated_at_human": "2026-08-03 19:52 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
+    "Bob Vila",
     "DM tag bathroom",
     "DM tag cabinets",
     "DM tag furniture",
@@ -58,7 +59,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
+  "sources_count": 53,
   "multi_photo_items": 59,
   "items": [
     {
@@ -151,6 +152,32 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "f6b2988f7092801b",
+      "title": "You Probably Have This Effective (and Cheap!) Cleaning Tool in Your Bathroom Cabinet",
+      "summary": "Learn how a popular beauty product can also improve your home and garden. The post You Probably Have This Effective (and Cheap!) Cleaning Tool in Your Bathroom Cabinet appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/diy/pumice-stone-uses/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/pumice-stone-uses_wetting-before-cleaning.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/pumice-stone-uses_wetting-before-cleaning.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-08-03T19:07:35+00:00"
+    },
+    {
+      "id": "440b3cb502959f84",
+      "title": "The 10 Best Storage Ideas for Small Spaces",
+      "summary": "Living in a small space comes with its own set of challenges, often including an overall lack of storage. That means you regularly have to come up with creative solutions to store things, whether it be adding a multi-functional piece of furniture or reimagining the way you currently use each room of your home. It’s all about finding ways to cleverly use the square footage you have or making sure you are bringing in items that’ll actually help, not hinder, your storage needs. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/small-space-storage-ideas-268691?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/macey-p/tours-nyc-macey-p-1",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/macey-p/tours-nyc-macey-p-1"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-03T19:00:00+00:00"
     },
     {
       "id": "ec74f3f5290c9118",
@@ -319,9 +346,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/08_iswiftpi_iswift_thinlaptopdesk.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/08/26/originedumondemaybe01.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/10/11/o_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/02/altura-stool/altura_step_stool_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/11/auto-draft/topographic-coffee-table-09.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/05/brown-jordans-huntley-collection-redefines-coastal-luxury-with-wave-inspired-weaving-innovation/Huntley-Collection-by-Ann-Marie-Vering.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -486,9 +513,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg"
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -775,7 +802,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/minnibar_ivy-studio_dezeen_sq2.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-01T17:00:46+00:00"
     },
@@ -1071,7 +1098,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/holzrausch-munich-townhouse-renovation-interior-design-south-american-cinema-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-31T05:00:42+00:00"
     },
@@ -1710,7 +1737,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -3213,7 +3240,7 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/06/diy-woodworking-lounge-chair.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/03/Malm-Dresser-How-to.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
@@ -3437,7 +3464,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag kitchens",
+      "source": "Dezeen tag bathrooms",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
     },
