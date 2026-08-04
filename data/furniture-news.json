@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-04T21:23:04.128546+00:00",
-  "generated_at_human": "2026-08-04 21:23 UTC",
-  "total_items": 249,
+  "generated_at": "2026-08-04T23:14:39.718927+00:00",
+  "generated_at_human": "2026-08-04 23:14 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -18,7 +17,6 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -53,7 +51,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -61,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 55,
+  "sources_count": 52,
   "multi_photo_items": 59,
   "items": [
     {
@@ -91,9 +88,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=98513",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=73216",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=79883"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=15083",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=70092",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=50719"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -130,17 +127,53 @@
       "published": ""
     },
     {
-      "id": "e4bd870f91f11b68",
-      "title": "С чистым телом и духом",
-      "summary": "Если кому-то нужны дополнительные поводы съездить в Псков, кроме прекрасной русской архитектуры и историй – одна увлекательнее другой, – то можно добавить к ним возрожденный из руин банно-ресторанный комплекс «Гельдт», в котором бюро «АРКА ИНТЕРЬЕРЫ» создало удивительно умиротворяющую атмосферу, которой так не хватает в современной жизни.",
-      "url": "https://archi.ru/russia/102542/s-chistym-telom-i-dukhom",
-      "image": "https://i.archi.ru/i/1262/501492.jpg",
+      "id": "2665d0da8be3e5ff",
+      "title": "The Echo Chair Makes 3D Printing Feel Refined",
+      "summary": "The Echo Chair Makes 3D Printing Feel Refined ZHA has collaborated with Spanish design brand Nagami to create the Echo Chair, a 3D-printed seat made from recycled plastic waste. Formerly known as Zaha...",
+      "url": "https://www.yankodesign.com/2026/08/04/the-echo-chair-makes-3d-printing-feel-refined/?utm_source=rss&utm_medium=rss&utm_campaign=the-echo-chair-makes-3d-printing-feel-refined",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/501492.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/open-source-robot-reachy-mini-brings-ai-to-your-desktop/hugging-face-reachy-mini-open-source-robot-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/06/lancer300-modular-backpack-powers-up-adventures-for-creators-on-the-move/coalax-lance300-modular-camera-backpack-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/03/the-599-macbook-neo-is-shaking-up-the-pc-industry-6-best-alternatives/apple-macbook-neo-02.jpg"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-04T22:30:48+00:00"
+    },
+    {
+      "id": "72c11010ac3b23dc",
+      "title": "A Pair of Underwear Inspired This Bedroom’s Color-Drenched Redo",
+      "summary": "Inspiration can strike from almost anywhere — and that includes your undergarments drawer. In the case of Vickiann Vachula’s primary bedroom redo, a pair of soft-colored underwear was a close shade to what she had envisioned and helped inspire the room’s eventual color palette. Vickiann is the creator of My Crappy House, a blog that documents gradual renovations and DIY projects of her home. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/seven-day-moody-diy-bedroom-redo-ba-37684250?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-08/vickiann-v-bedroom/vickiann-v-bedroom-before-lead",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-08/vickiann-v-bedroom/vickiann-v-bedroom-before-lead"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-04T22:00:00+00:00"
+    },
+    {
+      "id": "5ecb66a1c31e7027",
+      "title": "House near Warsaw by SAAN architekci",
+      "summary": "House near Warsaw, designed by SAAN architekti in Warsaw, Poland, is a house conceived as one continuous piece of work, from its stone-clad exterior to its built-in interiors. Near a pine forest, it uses panoramic glazing, walnut and oak, warm stone, and restrained green tones to keep the woodland present throughout the family home. Its […] The post House near Warsaw by SAAN architekci first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/08/04/house-near-warsaw-by-saan-architekci/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/08/001-house-near-warsaw-by-saan-architekci.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/08/001-house-near-warsaw-by-saan-architekci.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/004-house-near-warsaw-by-saan-architekci.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/005-house-near-warsaw-by-saan-architekci.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/006-house-near-warsaw-by-saan-architekci.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/008-house-near-warsaw-by-saan-architekci.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/002-house-near-warsaw-by-saan-architekci.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-08-04T21:50:28+00:00"
     },
     {
       "id": "b3f37dee8cfb5ad7",
@@ -702,9 +735,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/04/19/agcafe01.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/05/draft-ubik/ubik_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/02/14/animal01.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/08/02/escape_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/01/a-flatpack-modular-flexible-furniture-system-that-grows-with-your-needs-without-taking-up-space/09-plus_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/04/this-lounge-chairs-shape-is-precisely-why-two-of-them-make-a-sofa/bunch-modular-seating-concept-04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1274,12 +1307,7 @@
       "url": "https://homeadore.com/2026/07/31/geneve-apartment-by-hersen-mendes-arquitetura/",
       "image": "https://homeadore.com/wp-content/uploads/2026/07/001-geneve-apartment-by-hersen-mendes-arquitetura.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/07/001-geneve-apartment-by-hersen-mendes-arquitetura.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/018-geneve-apartment-by-hersen-mendes-arquitetura.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/019-geneve-apartment-by-hersen-mendes-arquitetura.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/001-geneve-apartment-by-hersen-mendes-arquitetura.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/003-geneve-apartment-by-hersen-mendes-arquitetura.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/07/005-geneve-apartment-by-hersen-mendes-arquitetura.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/07/001-geneve-apartment-by-hersen-mendes-arquitetura.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -1378,19 +1406,6 @@
       "published": "2026-07-30T19:58:26+00:00"
     },
     {
-      "id": "6a8452150269ca98",
-      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
-      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-30T19:18:52+00:00"
-    },
-    {
       "id": "72664b960ea7af2a",
       "title": "Post & Rung Standing Desk",
       "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
@@ -1415,19 +1430,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-07-30T14:00:00+00:00"
-    },
-    {
-      "id": "91177f51ea0841a7",
-      "title": "Hotel Palacio Bellas Artes by Isabel López Vilalta + Asociados",
-      "summary": "Hotel Palacio Bellas Artes transforms a 1914 Beaux Arts cinema in San Sebastian, Spain, into an 81-room hotel, with Isabel López Vilalta + Asociados reinterpreting its interiors. Entered through the former stage and arranged in dialogue with the original auditorium, the project preserves the building’s cinematic history while adding guest rooms, a hotel-wide art collection, […] The post Hotel Palacio Bellas Artes by Isabel López Vilalta + Asociados first appeared on HomeAdore .",
-      "url": "https://homeadore.com/2026/07/30/hotel-palacio-bellas-artes-by-isabel-lopez-vilalta-asociados/",
-      "image": "https://homeadore.com/wp-content/uploads/2026/07/001-hotel-palacio-bellas-artes-by-isabel-lopez-vilalta-asociados.jpg",
-      "images": [
-        "https://homeadore.com/wp-content/uploads/2026/07/001-hotel-palacio-bellas-artes-by-isabel-lopez-vilalta-asociados.jpg"
-      ],
-      "source": "Home Adore",
-      "source_url": "http://homeadore.com",
-      "published": "2026-07-30T11:01:01+00:00"
     },
     {
       "id": "1aac48720ac53800",
@@ -1692,19 +1694,6 @@
       "published": "2026-07-28T05:02:33+00:00"
     },
     {
-      "id": "a8af0c18ed362af5",
-      "title": "5 Collections that Make the Most of Outdoor Living",
-      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-27T20:25:31+00:00"
-    },
-    {
       "id": "86626b097c480b3f",
       "title": "How to Choose and Care for Teak Outdoor Furniture That Lasts for Decades",
       "summary": "Wood outdoor furniture can quickly become a maintenance headache, but teak can last decades with little upkeep.",
@@ -1812,12 +1801,7 @@
       "url": "https://www.yankodesign.com/2026/07/26/this-playstation-controller-sofa-was-built-for-co-op-gaming-marathons/?utm_source=rss&utm_medium=rss&utm_campaign=this-playstation-controller-sofa-was-built-for-co-op-gaming-marathons",
       "image": "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/coffee-table/coffee_table_cat_table_pets_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/this-e289-add-on-turns-your-e49-billy-bookcase-into-a-standing-desk/ikea-billy-plug-in-standing-desk-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/01/stipfolds-altihut-cottages-let-the-mountain-stay-the-main-character/altihut-cottage-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1884,7 +1868,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2105,19 +2089,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c641918c090f36dc",
@@ -2348,19 +2319,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-19T05:00:14+00:00"
-    },
-    {
-      "id": "8e293cd5041d6119",
-      "title": "Forget Smart Homes, Moooi Is Designing Homes That Feel Alive",
-      "summary": "Forget Smart Homes, Moooi Is Designing Homes That Feel Alive Light moves through trees. Shadows stretch and shrink. No two afternoons ever look quite the same. Moooi wants your living room to borrow that same...",
-      "url": "https://www.yankodesign.com/2026/07/18/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/?utm_source=rss&utm_medium=rss&utm_campaign=forget-smart-homes-moooi-is-designing-homes-that-feel-alive",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/forget-smart-homes-moooi-is-designing-homes-that-feel-alive/moooi_living_room_philosophy_1.jpg"
-      ],
-      "source": "Yanko Design furniture",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-18T17:20:48+00:00"
     },
     {
       "id": "798081459b3fc3ff",
@@ -3036,7 +2994,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3284,7 +3242,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3315,7 +3273,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
