@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-04T15:32:19.237793+00:00",
-  "generated_at_human": "2026-08-04 15:32 UTC",
-  "total_items": 241,
+  "generated_at": "2026-08-04T18:00:32.178820+00:00",
+  "generated_at_human": "2026-08-04 18:00 UTC",
+  "total_items": 249,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -17,7 +18,6 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -38,6 +38,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "NKBA",
     "PopSugar Home",
     "Popular Woodworking",
@@ -51,6 +52,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -58,7 +60,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
+  "sources_count": 54,
   "multi_photo_items": 59,
   "items": [
     {
@@ -88,9 +90,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=41676",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=18547",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=46280"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=58115",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=91739",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=19907"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -140,6 +142,93 @@
       "published": ""
     },
     {
+      "id": "9dab61f3bd47616b",
+      "title": "Little Giant Designs Its Own Forest Studio Around Light, Quiet, and Exploration",
+      "summary": "Set among cedar and Douglas fir trees on Vancouver Island, the two-level retreat explores how architecture can deepen our connection to nature",
+      "url": "https://design-milk.com/little-giant-forest-studio-vancouver-island/",
+      "image": "https://design-milk.com/images/2026/08/IMG_0412.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/08/IMG_0412.jpg",
+        "https://design-milk.com/images/2026/08/LittleGiant-ForestStudio2426.jpg",
+        "https://design-milk.com/images/2026/08/9.-LittleGiant-ForestStudio2546.jpg",
+        "https://design-milk.com/images/2026/08/LittleGiant-ForestStudio2525.jpg",
+        "https://design-milk.com/images/2026/08/10.-LittleGiant-ForestStudio2464.jpg",
+        "https://design-milk.com/images/2026/08/LittleGiant-ForestStudio2471.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-08-04T16:48:36+00:00"
+    },
+    {
+      "id": "13d85e81255f2c73",
+      "title": "Not Cabinets Or Shelves: The Creative Thrift Store Find For Toilet Paper Storage",
+      "summary": "This decorative item often finds its way into thrift stores. Now you can repurpose it for a creative toilet paper storage system that's got style and class.",
+      "url": "https://www.hunker.com/2228873/thrift-store-find-butler-stand-statue-toilet-paper-storage-cabinets-alternative/",
+      "image": "https://www.hunker.com/img/gallery/thrift-store-find-butler-stand-statue-toilet-paper-storage-cabinets-alternative/l-intro-1785834013.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/thrift-store-find-butler-stand-statue-toilet-paper-storage-cabinets-alternative/l-intro-1785834013.jpg",
+        "https://www.hunker.com/img/gallery/thrift-store-find-butler-stand-statue-toilet-paper-storage-cabinets-alternative/intro-1785834013.jpg",
+        "https://www.hunker.com/img/gallery/thrift-store-find-butler-stand-statue-toilet-paper-storage-cabinets-alternative/heres-how-to-upcycle-a-butler-statue-stand-for-your-bathroom-1785834015.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-04T16:30:00+00:00"
+    },
+    {
+      "id": "dd18e13aeef77e21",
+      "title": "Easily Upcycle Old Wood Pallets Into A Unique Backyard Coffee Table On A Budget",
+      "summary": "Wood pallets are low-cost bases for a variety of projects. This project uses them to make a coffee table that can be moved around an outdoor living area.",
+      "url": "https://www.hunker.com/2227105/easily-upcycle-old-wood-pallets-diy-backyard-coffee-table/",
+      "image": "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-unique-backyard-coffee-table-on-a-budget/l-intro-1785427209.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-unique-backyard-coffee-table-on-a-budget/l-intro-1785427209.jpg",
+        "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-unique-backyard-coffee-table-on-a-budget/intro-1785427209.jpg",
+        "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-unique-backyard-coffee-table-on-a-budget/how-to-build-a-cute-outdoor-coffee-table-from-wood-pallets-1785427210.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-04T16:00:00+00:00"
+    },
+    {
+      "id": "f6f7ffc6472fdd34",
+      "title": "Two Architects Made Their 527-Square-Foot Home Feel So Much Bigger",
+      "summary": "This couple's compact Mexico City apartment renovation makes the most of every inch with custom millwork, clever hidden storage, and a volcanic stone deeply rooted in Mexico’s architectural history. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/renovated-mexico-city-apartment-37684124?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/ana-l/tours-mexico-city-ana-l-10",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/ana-l/tours-mexico-city-ana-l-10"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-04T16:00:00+00:00"
+    },
+    {
+      "id": "6956cbfe761e58fa",
+      "title": "ISFD Extends Deadline for Pinnacle Awards",
+      "summary": "The International Society of Furniture Designers (ISFD) has extended the entry deadline for its 30th anniversary Pinnacle Awards to August 6, 2026. The extension provides professional and student product designers... The post ISFD Extends Deadline for Pinnacle Awards appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/isfd-extends-deadline-for-pinnacle-awards",
+      "image": "https://www.woodshopnews.com/uploads/2026/08/pinnacle500x280_WSN.jpg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/08/pinnacle500x280_WSN.jpg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-08-04T15:46:34+00:00"
+    },
+    {
+      "id": "611557053da0ac15",
+      "title": "I Painted My Shower Ceiling to Look Like Grand Central's Constellation Mural",
+      "summary": "People say bright ideas often come to them while taking a shower. But the shower ceiling in my vintage bathroom was where good ideas got lost. The blank, uninspired white square, punctuated by a tarnished flush mount, did nothing to inspire a brainstorm and was far from spa-like. I’d been dreaming of some sort of makeover that didn’t involve a full demo for more than a year. My go-to muse? The constellation ceiling of Grand Central Station’s main concourse in New York City. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/bathroom-shower-ceiling-mural-transformation-37684273?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/style/2026/2026-08/diy-grand-central-station-constellation-shower-ceiling/shower-before-tagged-1",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/style/2026/2026-08/diy-grand-central-station-constellation-shower-ceiling/shower-before-tagged-1"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-04T15:30:00+00:00"
+    },
+    {
       "id": "10163214a976f83d",
       "title": "First Chinese SUV with built-in rooftop tent is co-developed by Huawei and is all set for preorder",
       "summary": "First Chinese SUV with built-in rooftop tent is co-developed by Huawei and is all set for preorder Chinese automotive and technology stalwarts are combining to give the off-road camping industry a new twist. It’s for the first time that a flagship SUV...",
@@ -153,10 +242,10 @@
       "published": "2026-08-04T15:20:26+00:00"
     },
     {
-      "id": "02622f92de608c6c",
+      "id": "50a0cb28b86c5c14",
       "title": "Happening in the Hub: Universal Design Trends",
-      "summary": "N NKBA Staff Posted: Aug 4, 2026 10:49 am Design Trends + News Research Latest Insights From The Kitchen & Bath Pro Hub Design: Molly McCabe at McCabe by Design | Photo: Tammy Dwight Inside the NKBA Kitchen & Bath Pro Hub , industry professionals connect and actively share their insights from the ever-evolving world of design. This includes lively discussions about current design trends. Recently, the topic was universal design. The data indicates universal design is no longer a compliance conversation—it is a luxury and lifestyle conversation that resonates across every generation. Here…",
-      "url": "https://nkba.org/research/happening-in-the-hub-universal-design-trends/",
+      "summary": "N NKBA Staff Posted: Aug 4, 2026 10:49 am Design Trends + News Latest Insights From The Kitchen & Bath Pro Hub Design: Molly McCabe at McCabe by Design | Photo: Tammy Dwight Inside the NKBA Kitchen & Bath Pro Hub , industry professionals connect and actively share their insights from the ever-evolving world of design. This includes lively discussions about current design trends. Recently, the topic was universal design. The data indicates universal design is no longer a compliance conversation—it is a luxury and lifestyle conversation that resonates across every generation. Here are the…",
+      "url": "https://nkba.org/news/design-trends-news/happening-in-the-hub-universal-design-trends/",
       "image": "https://kb-media.nkba.org/wp-content/uploads/2026/08/Living_In_PLace_Bathroom_McCabe.jpg",
       "images": [
         "https://kb-media.nkba.org/wp-content/uploads/2026/08/Living_In_PLace_Bathroom_McCabe.jpg"
@@ -277,7 +366,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/dynaudio-norm-architects-karimoku-copenhagen_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-04T08:00:05+00:00"
     },
@@ -337,9 +426,7 @@
       "url": "https://www.hunker.com/2209893/ikea-ivar-cabinet-living-room-storage/",
       "image": "https://www.hunker.com/img/gallery/turn-an-ikea-ivar-cabinet-into-a-beautiful-storage-solution-for-your-living-room/l-intro-1783449604.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/turn-an-ikea-ivar-cabinet-into-a-beautiful-storage-solution-for-your-living-room/l-intro-1783449604.jpg",
-        "https://www.hunker.com/img/gallery/turn-an-ikea-ivar-cabinet-into-a-beautiful-storage-solution-for-your-living-room/intro-1783449604.jpg",
-        "https://www.hunker.com/img/gallery/turn-an-ikea-ivar-cabinet-into-a-beautiful-storage-solution-for-your-living-room/wooden-half-spheres-can-completely-transform-a-plain-ikea-ivar-cabinet-1783449606.jpg"
+        "https://www.hunker.com/img/gallery/turn-an-ikea-ivar-cabinet-into-a-beautiful-storage-solution-for-your-living-room/l-intro-1783449604.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -370,9 +457,7 @@
       "url": "https://www.hunker.com/2226748/skip-paint-update-wood-coffee-table-white-oak-stain/",
       "image": "https://www.hunker.com/img/gallery/skip-paint-give-your-dated-coffee-table-a-stunning-white-oak-upgrade/l-intro-1785373701.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/skip-paint-give-your-dated-coffee-table-a-stunning-white-oak-upgrade/l-intro-1785373701.jpg",
-        "https://www.hunker.com/img/gallery/skip-paint-give-your-dated-coffee-table-a-stunning-white-oak-upgrade/intro-1785373701.jpg",
-        "https://www.hunker.com/img/gallery/skip-paint-give-your-dated-coffee-table-a-stunning-white-oak-upgrade/achieving-that-white-oak-look-to-update-your-coffee-table-1785373703.jpg"
+        "https://www.hunker.com/img/gallery/skip-paint-give-your-dated-coffee-table-a-stunning-white-oak-upgrade/l-intro-1785373701.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -390,19 +475,6 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-08-03T23:00:00+00:00"
-    },
-    {
-      "id": "fd7dd9f000c6dc8c",
-      "title": "London’s Barbican Now Has Furniture You’re Allowed to Move",
-      "summary": "London’s Barbican Now Has Furniture You’re Allowed to Move Most public spaces don’t trust you. They’re designed to move you through them efficiently, seat you for a limited time, or keep you from lingering...",
-      "url": "https://www.yankodesign.com/2026/08/03/londons-barbican-now-has-furniture-youre-allowed-to-move/?utm_source=rss&utm_medium=rss&utm_campaign=londons-barbican-now-has-furniture-youre-allowed-to-move",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/londons-barbican-now-has-furniture-youre-allowed-to-move/basic-forms-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/londons-barbican-now-has-furniture-youre-allowed-to-move/basic-forms-01.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-03T22:30:53+00:00"
     },
     {
       "id": "99b1290cc81b060f",
@@ -582,9 +654,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/rool-is-a-rocking-stool-and-decorative-piece-for-your-living-room/rool_rocking_stool_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/04/peg_table_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/12/side-table-concept-lets-you-swivel-and-personalize-your-furniture/swivel-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/01/3d-printed-chairs-bring-flexible-sustainable-options/3.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/08/draft-dong/dong_stool_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/07/25/plyght_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -721,7 +793,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
       ],
@@ -896,7 +968,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/minnibar_ivy-studio_dezeen_sq2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-01T17:00:46+00:00"
     },
@@ -1085,12 +1157,7 @@
       "url": "https://design-milk.com/jackery-fridgeguard-refrigerator-backup-battery/",
       "image": "https://design-milk.com/images/2026/07/FridgeGuard-Product-Image-4.jpg",
       "images": [
-        "https://design-milk.com/images/2026/07/FridgeGuard-Product-Image-4.jpg",
-        "https://design-milk.com/images/2026/07/FridgeGuard-Other-Scenario_Work-2.jpg",
-        "https://design-milk.com/images/2026/07/FridgeGuard-Product-Image-7.jpg",
-        "https://design-milk.com/images/2026/07/FridgeGuard-KV-1.jpg",
-        "https://design-milk.com/images/2025/12/2025-Top10-Best-10-Shield-Shelter-Lakeside-Home-Barbora-Vokac-Taylor.jpg",
-        "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
+        "https://design-milk.com/images/2026/07/FridgeGuard-Product-Image-4.jpg"
       ],
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
@@ -1218,7 +1285,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/holzrausch-munich-townhouse-renovation-interior-design-south-american-cinema-sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-31T05:00:42+00:00"
     },
@@ -1274,6 +1341,19 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
+    },
+    {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -1455,32 +1535,6 @@
       "published": "2026-07-29T17:33:35+00:00"
     },
     {
-      "id": "faa0b6c1f15c729b",
-      "title": "Grass America to Present Innovative Movement Solutions",
-      "summary": "Grass America will showcase its latest movement solutions at IWF 2026, including the Vionaro V8 slim metal drawer system and Dynapro front-locking device. The company will also highlight its Nova Pro Scala for closet applications. The post Grass America to Present Innovative Movement Solutions appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/grass-america-to-present-innovative-movement-solutions",
-      "image": "https://www.woodshopnews.com/uploads/2026/07/Grass-Vionaro_V8-Zircon-Large.jpeg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/07/Grass-Vionaro_V8-Zircon-Large.jpeg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-07-29T17:26:37+00:00"
-    },
-    {
-      "id": "d65ba2570228f4cb",
-      "title": "Stiles to Showcase Sanding, Finishing & Laminating Solutions",
-      "summary": "Stiles Machinery will showcase surface finishing technology at the 2026 International Woodworking Fair, including sanding, finishing, and laminating solutions from Alpha Brush, Heesemann, Makor, Venjakob, Innovator, and Kuper. The exhibit will highlight advancements in automation for improved finish quality and efficiency. The post Stiles to Showcase Sanding, Finishing & Laminating Solutions appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/stiles-to-showcase-sanding-finishing-laminating-solutions",
-      "image": "https://www.woodshopnews.com/uploads/2026/07/Stiles_Heesemann-ISM.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/07/Stiles_Heesemann-ISM.jpg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-07-29T17:00:47+00:00"
-    },
-    {
       "id": "4691efab5c490a4e",
       "title": "Parco dei Sesi: An Oasis on an Italian Island (With 9 Design Ideas to Borrow)",
       "summary": "The best kind of souvenir? A design idea to implement at home. Today we’re taking a look at Parco dei Sesi, a “guest house, artist residency, and organic farm” with the dreamiest of interiors. It’s located on the island of Pantelleria, an Italian commune in the Mediterranean Sea, midway between Italy and Tunisia. Here are […]",
@@ -1555,9 +1609,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/a-desk-for-getting-stuff-done/pure_desk_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/this-modular-furniture-setup/20-Display-A_Tim-Denton_furniture-design.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/02/auto-draft/fossil_free_crib_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/09/ikea-rack/ploga_rack_ikea_yanko_design_04.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/02/geode_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/03/the-green-roof-of-this-holiday-home-was-designed-to-blend-in-seamlessly-with-its-surrounding-landscape/01_fanoos_iranuniversityofscienceandtech_elderlycare.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1621,6 +1675,19 @@
       "published": "2026-07-28T05:02:33+00:00"
     },
     {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
+    },
+    {
       "id": "86626b097c480b3f",
       "title": "How to Choose and Care for Teak Outdoor Furniture That Lasts for Decades",
       "summary": "Wood outdoor furniture can quickly become a maintenance headache, but teak can last decades with little upkeep.",
@@ -1637,6 +1704,32 @@
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
       "published": "2026-07-27T18:59:00+00:00"
+    },
+    {
+      "id": "008c74a0d1d1467c",
+      "title": "An American, an Irish Chair, in Germany",
+      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
+      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T13:43:48+00:00"
+    },
+    {
+      "id": "af7c744ad1423fe8",
+      "title": "Kill Wood-boring Insects with Kitchen Appliances",
+      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
+      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T11:37:28+00:00"
     },
     {
       "id": "e93f31d5f55035ec",
@@ -1705,9 +1798,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/auto-draft/controller_sofa_muddycap_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/narwals-robot-vacuum-with-a-baby-mode-might-be-the-smartest-home-feature-of-2026/PowerRider_GPT_5_Powered_Presenter_Endless_Possibilities_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/02/backyard-designs/best_of_ig_ds_yanko_design-01-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/11/08/locky_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/09/dual_mixer_blender_washer_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/04/hoot_speaker_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/10/06/reconzealtranscend01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/08/workbench/workbench_07.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1997,6 +2090,19 @@
       "published": "2026-07-22T21:00:00+00:00"
     },
     {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
+    },
+    {
       "id": "c641918c090f36dc",
       "title": "Norwegian Wood: Restoring Hotel Sundal, an 1889 Timber Hotel in Western Norway",
       "summary": "In 2018, Caroline Steine and Harald Andreassen left the city to take on an unlikely project: restoring Hotel Sundal, an 1889 timber hotel that had sat empty for years in western Norway’s Hardanger region. Originally built by Erik Gausvik and Anna Eikenes, early pioneers of glacier tourism, the hotel once welcomed European aristocracy, emperors, and […]",
@@ -2173,19 +2279,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-20T21:00:00+00:00"
-    },
-    {
-      "id": "fe0b2c5ce365111b",
-      "title": "Studio Papaya Makes a Small Apartment Feel Surprisingly Spacious",
-      "summary": "Custom furniture, bold color, and clever spatial planning transform this compact São Paulo apartment into a flexible home that feels far larger than its 538 square feet.",
-      "url": "https://design-milk.com/studio-papayas-sbc-apartment-showcases-small-space-and-smart-design/",
-      "image": "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png",
-      "images": [
-        "https://design-milk.com/images/2026/07/SBC-Apartment-by-Studio-Papaya.png"
-      ],
-      "source": "Design Milk Architecture",
-      "source_url": "https://design-milk.com",
-      "published": "2026-07-20T18:00:57+00:00"
     },
     {
       "id": "d4f64d087c3c766c",
@@ -2628,6 +2721,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-06T09:30:39+00:00"
+    },
+    {
+      "id": "38e81c3be4f832bf",
+      "title": "Coming in 2027: A New Woodworking School in Covington",
+      "summary": "Thanks to some tectonic shifts in our business at Lost Art Press, it looks like we will have a new woodworking school in Covington, Kentucky, that is literally in our back yard. Last year we had to stop holding classes in our Willard Street workshop after our insurance carrier dumped us (it’s a long tale...",
+      "url": "https://blog.lostartpress.com/2026/07/05/coming-in-2027-a-new-woodworking-school-in-covington/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2461.jpeg?resize=640%2C480&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-05T19:03:02+00:00"
     },
     {
       "id": "c6426737a2cbb567",
