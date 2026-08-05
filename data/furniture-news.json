@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-05T21:22:07.334068+00:00",
-  "generated_at_human": "2026-08-05 21:22 UTC",
+  "generated_at": "2026-08-05T23:14:14.860245+00:00",
+  "generated_at_human": "2026-08-05 23:14 UTC",
   "total_items": 239,
   "sources_used": [
     "Apartment Therapy",
@@ -18,7 +18,6 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -59,7 +58,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
+  "sources_count": 52,
   "multi_photo_items": 59,
   "items": [
     {
@@ -89,9 +88,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=38907",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=75239",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=62012"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=41192",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=61302",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=18369"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -126,6 +125,34 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "d88dfa83c21f4473",
+      "title": "A Builder-Grade Kitchen Gets a Pop of Color with an Easy Backsplash Upgrade",
+      "summary": "It’s not that Detroit-based interior designer Christie Kristl didn’t like the updated kitchen in her 1963 home, but it didn’t exactly scream fun. The hardware, countertops, and cabinets were all fine, so they stayed put.But thankfully, when the previous owners updated everything in 2018, they didn’t bother with any backsplash — so Christie got to make the call. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/tiles-backsplash-kitchen-ba-37683671?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/march/christie-k/before-after/christie-k-kitchen-before-tag",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/march/christie-k/before-after/christie-k-kitchen-before-tag"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-05T22:00:00+00:00"
+    },
+    {
+      "id": "7d9855cf5462bd4d",
+      "title": "Skip Paint: DIY An Elegant Coffee Table With A Budget-Friendly Amazon Find",
+      "summary": "If you have an old, scratched coffee table, this DIY is genius. There's no paint needed and you can transform it into a beautiful new look in a day.",
+      "url": "https://www.hunker.com/2225280/skip-paint-diy-elegant-coffee-table-black-marble-contact-paper-amazon-find/",
+      "image": "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/l-intro-1785258503.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/l-intro-1785258503.jpg",
+        "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/intro-1785258503.jpg",
+        "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/how-to-wrap-a-table-in-glamorous-contact-paper-1785258505.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-05T21:00:00+00:00"
     },
     {
       "id": "e59b7ef3e33f4363",
@@ -188,6 +215,21 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-08-05T16:15:00+00:00"
+    },
+    {
+      "id": "95f69b1e38fe3a06",
+      "title": "Transform An Old Hutch Into Charming Laundry Room Storage",
+      "summary": "You small laundry room storage woes can be solved in a beautiful way with this old hutch organization idea that lends some charm to your space.",
+      "url": "https://www.hunker.com/2228328/upcycle-an-old-hutch-laundry-room-storage/",
+      "image": "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/l-intro-1785532485.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/l-intro-1785532485.jpg",
+        "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/intro-1785532485.jpg",
+        "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/hang-a-hutch-top-in-your-laundry-room-1785532488.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-05T16:00:00+00:00"
     },
     {
       "id": "cc38928c4bc405b9",
@@ -452,12 +494,7 @@
       "url": "https://www.hunker.com/2226931/dollar-tree-finds-no-brainer-stylish-countertop-storage/",
       "image": "https://www.hunker.com/img/gallery/stylish-countertop-storage-finds-at-dollar-tree-that-are-no-brainers-at-their-price/l-intro-1785417608.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/stylish-countertop-storage-finds-at-dollar-tree-that-are-no-brainers-at-their-price/l-intro-1785417608.jpg",
-        "https://www.hunker.com/img/gallery/stylish-countertop-storage-finds-at-dollar-tree-that-are-no-brainers-at-their-price/intro-1785417608.jpg",
-        "https://www.hunker.com/img/gallery/stylish-countertop-storage-finds-at-dollar-tree-that-are-no-brainers-at-their-price/glass-oil-and-vinegar-bottles-1785417610.jpg",
-        "https://www.hunker.com/img/gallery/stylish-countertop-storage-finds-at-dollar-tree-that-are-no-brainers-at-their-price/clear-plastic-organizers-1785417610.jpg",
-        "https://www.hunker.com/img/gallery/stylish-countertop-storage-finds-at-dollar-tree-that-are-no-brainers-at-their-price/wire-mesh-baskets-1785417611.jpg",
-        "https://www.hunker.com/img/gallery/stylish-countertop-storage-finds-at-dollar-tree-that-are-no-brainers-at-their-price/pencil-holders-1785417611.jpg"
+        "https://www.hunker.com/img/gallery/stylish-countertop-storage-finds-at-dollar-tree-that-are-no-brainers-at-their-price/l-intro-1785417608.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -473,9 +510,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/08/167231/safe_durian_bag_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/01/top-10-products-designed-for-top-notch-storage-organization-of-your-desk/top_10_organization_storage_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/02/ao-air-atmos-air-purifying-mask-that-looks-as-cool-as-a-vr-headset/ao_air_atmos_2.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/07/auto-draft/buzz_wearable_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/06/a-ro-matic-lamp/ro_lamp_6.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/wacaco_picopresso_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -519,9 +556,7 @@
       "url": "https://www.hunker.com/2228104/organize-spices-stop-stuffing-cabinets-slide-out-rack/",
       "image": "https://www.hunker.com/img/gallery/stop-stuffing-cabinets-theres-a-space-saving-way-to-organize-spices/l-intro-1785521133.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/stop-stuffing-cabinets-theres-a-space-saving-way-to-organize-spices/l-intro-1785521133.jpg",
-        "https://www.hunker.com/img/gallery/stop-stuffing-cabinets-theres-a-space-saving-way-to-organize-spices/intro-1785521133.jpg",
-        "https://www.hunker.com/img/gallery/stop-stuffing-cabinets-theres-a-space-saving-way-to-organize-spices/how-to-make-this-spice-rack-storage-system-work-in-your-kitchen-1785521135.jpg"
+        "https://www.hunker.com/img/gallery/stop-stuffing-cabinets-theres-a-space-saving-way-to-organize-spices/l-intro-1785521133.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -552,19 +587,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-08-04T20:25:49+00:00"
-    },
-    {
-      "id": "8c83e7de20e4639b",
-      "title": "Repurpose An Old Pitcher Into Chic Countertop Storage With Thrifted Vintage Doilies",
-      "summary": "Asides from being harbingers of cool drinks on hot summer days, pitchers can be used as storage as well. And you can up the cuteness factor with doilies.",
-      "url": "https://www.hunker.com/2228425/repurpose-pitcher-vintage-doilies-thrifted-countertop-storage/",
-      "image": "https://www.hunker.com/img/gallery/repurpose-pitcher-vintage-doilies-thrifted-countertop-storage/l-intro-1785748620.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/repurpose-pitcher-vintage-doilies-thrifted-countertop-storage/l-intro-1785748620.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-04T20:00:00+00:00"
     },
     {
       "id": "dffdc091a128936d",
@@ -598,19 +620,6 @@
       "published": "2026-08-04T16:48:36+00:00"
     },
     {
-      "id": "13d85e81255f2c73",
-      "title": "Not Cabinets Or Shelves: The Creative Thrift Store Find For Toilet Paper Storage",
-      "summary": "This decorative item often finds its way into thrift stores. Now you can repurpose it for a creative toilet paper storage system that's got style and class.",
-      "url": "https://www.hunker.com/2228873/thrift-store-find-butler-stand-statue-toilet-paper-storage-cabinets-alternative/",
-      "image": "https://www.hunker.com/img/gallery/thrift-store-find-butler-stand-statue-toilet-paper-storage-cabinets-alternative/l-intro-1785834013.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/thrift-store-find-butler-stand-statue-toilet-paper-storage-cabinets-alternative/l-intro-1785834013.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-04T16:30:00+00:00"
-    },
-    {
       "id": "f6f7ffc6472fdd34",
       "title": "Two Architects Made Their 527-Square-Foot Home Feel So Much Bigger",
       "summary": "This couple's compact Mexico City apartment renovation makes the most of every inch with custom millwork, clever hidden storage, and a volcanic stone deeply rooted in Mexico’s architectural history. READ MORE...",
@@ -621,19 +630,6 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-04T16:00:00+00:00"
-    },
-    {
-      "id": "dd18e13aeef77e21",
-      "title": "Easily Upcycle Old Wood Pallets Into A Unique Backyard Coffee Table On A Budget",
-      "summary": "Wood pallets are low-cost bases for a variety of projects. This project uses them to make a coffee table that can be moved around an outdoor living area.",
-      "url": "https://www.hunker.com/2227105/easily-upcycle-old-wood-pallets-diy-backyard-coffee-table/",
-      "image": "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-unique-backyard-coffee-table-on-a-budget/l-intro-1785427209.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-unique-backyard-coffee-table-on-a-budget/l-intro-1785427209.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
       "published": "2026-08-04T16:00:00+00:00"
     },
     {
@@ -902,9 +898,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/03/auto-draft/WAVELET-Side-Table-Concept.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/02/05/armada_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/when-f1-engineering-becomes-the-chair-you-sit-in/rear-chair-00.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/08/sand-chair/sand_chair_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/05/261324/05-un-lim_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/xiaomis-281-portable-projector-is-effectively-cheaper-than-paying-for-netflix-for-a-year/xiaomi_redmi_projector_5_pro_1.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1194,11 +1190,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/01/me-with-desk.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -1366,8 +1362,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/qYj9vw1O-1-ERNESTOMEDA_ONE-02_PARTICOLARE-4-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/MfoGDFaY-3-ERNESTOMEDA_ONE-02_PARTICOLARE-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-unnamed-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
         "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg"
       ],
       "source": "Interni magazine",
@@ -1382,8 +1378,8 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg",
+        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/3-DoimoCucine_composizione-Rima_collezione-Impronta_set_03.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg"
       ],
@@ -1833,7 +1829,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2907,7 +2903,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3155,7 +3151,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3167,11 +3163,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2024/05/DIY-Console-table-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/05/how-to-refinish-furniture.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/08/DIY-Small-Waterfall-Console-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3186,7 +3182,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/nyc-design-week-2026-sq_dezeen_2364_col_5.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
     },
