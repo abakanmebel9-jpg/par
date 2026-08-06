@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-05T23:14:14.860245+00:00",
-  "generated_at_human": "2026-08-05 23:14 UTC",
-  "total_items": 239,
+  "generated_at": "2026-08-06T03:29:59.705236+00:00",
+  "generated_at_human": "2026-08-06 03:29 UTC",
+  "total_items": 238,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -18,6 +18,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -37,6 +38,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "NKBA",
     "PopSugar Home",
     "Popular Woodworking",
@@ -52,14 +54,13 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
-  "multi_photo_items": 59,
+  "sources_count": 53,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "9297f6b01cef2878",
@@ -88,9 +89,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=41192",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=61302",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=18369"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=17744",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=94396",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=81677"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -125,6 +126,24 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "9bd0c1be20825738",
+      "title": "100 beautiful rooms: The stunning spaces everyone will want to copy",
+      "summary": "From dreamy bedrooms to jaw-dropping kitchens and luxury wine cellars, these are the interiors setting the design standard. The post 100 beautiful rooms: The stunning spaces everyone will want to copy appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/home-ideas/100-beautiful-rooms-2026/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/kdd_matthews_626_main-mag_w1920-6a73e8040ec4d-scaled.jpg?format=auto&v=1785982394",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/kdd_matthews_626_main-mag_w1920-6a73e8040ec4d-scaled.jpg?format=auto&v=1785982394",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/winter-pyjamas-winter-pjs-warm-pyjamas-6a73e53011e2b.png?w=2732&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/230426_bragg_rt_w1920-6a73e7f3be793.jpg?w=2363",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/pv_studio-trio_-northbridge_0033_w1920-6a73e80ebc97e.jpg?w=2302",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/mhp_elberthouse_paddington_kn_145_w1920-6a73e80c6e56b.jpg?w=2302",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/08/chris-pearson-68b140ab0e8aa-scaled.jpg?w=2048&format=auto"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-08-06T03:28:11+00:00"
     },
     {
       "id": "d88dfa83c21f4473",
@@ -276,19 +295,6 @@
       "published": "2026-08-05T14:00:00+00:00"
     },
     {
-      "id": "9a754d26bbf8ab6d",
-      "title": "Camera Batteries Go Missing, So This $70 One Tracks Itself",
-      "summary": "Camera Batteries Go Missing, So This $70 One Tracks Itself Camera batteries are one of those accessories that photographers never think about until something goes wrong. They’re small enough to vanish into the bottom of...",
-      "url": "https://www.yankodesign.com/2026/08/05/camera-batteries-go-missing-so-this-70-one-tracks-itself/?utm_source=rss&utm_medium=rss&utm_campaign=camera-batteries-go-missing-so-this-70-one-tracks-itself",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/camera-batteries-go-missing-so-this-70-one-tracks-itself/falcam-tagbatt-03.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/camera-batteries-go-missing-so-this-70-one-tracks-itself/falcam-tagbatt-03.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-05T13:20:44+00:00"
-    },
-    {
       "id": "e3e86d41b5834f15",
       "title": "Perma Turns Excavated Stone into Island Architecture",
       "summary": "Perma is a five-residence retreat by MOLD architects on a rocky, north-facing slope in Serifos, Greece. Designed in 2026, the house uses a concrete grid to hold together excavated stone, broad terraces, planted roofs, water, and carefully framed views, turning the site’s own materials into an inhabitable landscape. The result is a porous composition that […] The post Perma Turns Excavated Stone into Island Architecture first appeared on HomeAdore .",
@@ -372,7 +378,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/08/japanese-kitchen-tools/3_best_japanese_kitchen_yanko_design_hero.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-05T11:40:08+00:00"
     },
@@ -510,9 +516,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/auto-draft/buzz_wearable_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/a-ro-matic-lamp/ro_lamp_6.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/wacaco_picopresso_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/07/designstorm_01_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/gamecard-turns-raspberry-pi-into-the-worlds-slimmest-retro-handheld/gamecard-rpi-gaming-handheld-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/10/japanese-startup-brings-gundam-like-real-life-transformable-mech-to-life-and-its-buyable-for-3-million/Tsubame-Industries-Mobile-Suit-Gundam-2.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -548,32 +554,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-08-04T21:50:28+00:00"
-    },
-    {
-      "id": "b3f37dee8cfb5ad7",
-      "title": "Stop Stuffing Cabinets: There's A Space-Saving Way To Organize Spices",
-      "summary": "Instead of cramming your spice collection into cabinets, make use of overlooked areas in the kitchen with this clever find. It's renter-friendly, too.",
-      "url": "https://www.hunker.com/2228104/organize-spices-stop-stuffing-cabinets-slide-out-rack/",
-      "image": "https://www.hunker.com/img/gallery/stop-stuffing-cabinets-theres-a-space-saving-way-to-organize-spices/l-intro-1785521133.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/stop-stuffing-cabinets-theres-a-space-saving-way-to-organize-spices/l-intro-1785521133.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-04T21:00:00+00:00"
-    },
-    {
-      "id": "422030161a70b714",
-      "title": "14 Modern Bathroom Trends Everyone Secretly Hates In 2026",
-      "summary": "While vintage trends seem to be gaining traction this 2026, these 14 modern bathroom trends are quickly losing momentum due to impracticality or other reasons.",
-      "url": "https://www.hunker.com/2228417/modern-bathroom-trends-people-hate-2026/",
-      "image": "https://www.hunker.com/img/gallery/14-modern-bathroom-trends-everyone-secretly-hates-in-2026/l-intro-1785558452.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/14-modern-bathroom-trends-everyone-secretly-hates-in-2026/l-intro-1785558452.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-04T20:30:00+00:00"
     },
     {
       "id": "a0d4287ac47e1fe3",
@@ -746,9 +726,9 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/best-sofa-beds-australia-2-6a717b0da76a3.png?format=auto&v=1785821992",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2021/01/19/1611019398208_freedom-barrett.jpg?w=2949",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/best-sofa-beds-australia-2-6a717b0da76a3.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-split-screen-feature-template-45-6a73339491c9b.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-pet-friendly-accommodation-nsw-6a729080722b3.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-05t092916.100-6a7275d13ddd6.png?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/best-blue-mountains-accommodation-69a8c0872a332.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-06t112231.287-6a73e1e77a099.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-pet-friendly-accommodation-nsw-6a729080722b3.png?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -764,9 +744,9 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-04t121821.565-6a714bff29c6d.png?format=auto&v=1785809948",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-04t121821.565-6a714bff29c6d.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/12/studio-noakes-arabescato-marble-classic-white-kitchen--69cb188188423.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-split-screen-feature-template-45-6a73339491c9b.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-pet-friendly-accommodation-nsw-6a729080722b3.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-05t092916.100-6a7275d13ddd6.png?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/best-blue-mountains-accommodation-69a8c0872a332.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-06t112231.287-6a73e1e77a099.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-pet-friendly-accommodation-nsw-6a729080722b3.png?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -898,9 +878,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/08/sand-chair/sand_chair_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/05/261324/05-un-lim_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/xiaomis-281-portable-projector-is-effectively-cheaper-than-paying-for-netflix-for-a-year/xiaomi_redmi_projector_5_pro_1.jpeg"
+        "https://www.yankodesign.com/images/design_news/2011/05/19/gravity_table_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/11/frame/frame_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/03/this-aluminum-bench-stands-on-the-shoulders-of-discarded-mac-pro-cases/mac-pro-bench-10.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -999,8 +979,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1014,7 +994,7 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/mcphee_fitzroy8464_gemmola_retouched_w1920-6a7025c8e142d-scaled.jpg?format=auto&v=1785736630",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/mcphee_fitzroy8464_gemmola_retouched_w1920-6a7025c8e142d-scaled.jpg?format=auto&v=1785736630",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/claudia-lambert-space-lift-6a729bd5b4f65.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/winter-pyjamas-winter-pjs-warm-pyjamas-6a73e53011e2b.png?w=2732&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/mcphee_fitzroy9326_gemmola_retouched_w1920-6a702597c3a9f.jpg?w=2304",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/mcphee_fitzroy9509_gemmola_retouched_w1920-6a70258899917.jpg?w=2304",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/mcphee_fitzroy8648_gemmola_v2_w1920-6a7025cc31b9b.jpg?w=2304",
@@ -1033,9 +1013,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/elvis-et-moi-newtown-2-6a700f2d554f3.png?format=auto&v=1785728830",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/elvis-et-moi-newtown-2-6a700f2d554f3.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-split-screen-feature-template-45-6a73339491c9b.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/best-blue-mountains-accommodation-69a8c0872a332.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-06t112231.287-6a73e1e77a099.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-pet-friendly-accommodation-nsw-6a729080722b3.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-05t092916.100-6a7275d13ddd6.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/grace-flynn-content-producer.jpg?w=2048&format=auto"
       ],
       "source": "Homes To Love AU",
@@ -1362,8 +1342,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/qYj9vw1O-1-ERNESTOMEDA_ONE-02_PARTICOLARE-4-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/MfoGDFaY-3-ERNESTOMEDA_ONE-02_PARTICOLARE-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-unnamed-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
+        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg"
       ],
       "source": "Interni magazine",
@@ -1378,8 +1358,8 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg",
         "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/3-DoimoCucine_composizione-Rima_collezione-Impronta_set_03.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg"
       ],
@@ -1602,9 +1582,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/this-titanium-calligraphy-pen-trades-tactical-utility-for-softer-more-expressive-brush-strokes/STILL_A_Titanium_Brush_Fountain_Pen_That_Slows_You_Down_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/06/auto-draft/triplex_stool_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/12/side-table-concept-lets-you-swivel-and-personalize-your-furniture/swivel-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/herman-miller-finally-built-a-gaming-desk-that-matches-its-chairs/coyl-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/09/lifestyle/lifestyle_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/this-whale-bed-goes-from-bedroom-to-poolside-in-seconds/whale-bed-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/flexible-table-can-be-work-space-and-storage-area/10.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1657,7 +1637,7 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?format=auto&v=1785120746",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?format=auto&v=1785120746",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/claudia-lambert-space-lift-6a729bd5b4f65.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/winter-pyjamas-winter-pjs-warm-pyjamas-6a73e53011e2b.png?w=2732&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/07/the-edit-podcast-with-laura-sharrad-1-6a66c753dc34e.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/07/1658205266052_restored-stone-cottage-kitchen-southern-tablelands-scaled.jpg?crop=0px%2C771px%2C1704px%2C1281px&resize=1950%2C1462&format=auto",
@@ -1697,6 +1677,32 @@
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
       "published": "2026-07-27T18:59:00+00:00"
+    },
+    {
+      "id": "008c74a0d1d1467c",
+      "title": "An American, an Irish Chair, in Germany",
+      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
+      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T13:43:48+00:00"
+    },
+    {
+      "id": "af7c744ad1423fe8",
+      "title": "Kill Wood-boring Insects with Kitchen Appliances",
+      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
+      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T11:37:28+00:00"
     },
     {
       "id": "e93f31d5f55035ec",
@@ -1829,7 +1835,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2019,19 +2025,6 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-07-23T06:06:04+00:00"
-    },
-    {
-      "id": "bed5befd81d2e4a8",
-      "title": "These products are the secret to staying warm this winter",
-      "summary": "As the temperature drops, it’s time to wrap yourself and your home in comforting layers. We’ve rounded up and tested the best products to keep the cold at bay all winter long. Heated throws, soft rugs, and inviting cushions transform your living room into a haven. These smart touches help you save on heating as […] The post These products are the secret to staying warm this winter appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/shopping/buyers-guides/keep-warm-guide/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/keep-warm-products-6a5db7c42947d.png?format=auto&v=1784526788",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/keep-warm-products-6a5db7c42947d.png?format=auto&v=1784526788"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-07-22T23:28:21+00:00"
     },
     {
       "id": "1df532c60ca802e8",
