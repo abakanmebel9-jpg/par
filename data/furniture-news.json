@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-07T16:07:38.764381+00:00",
-  "generated_at_human": "2026-08-07 16:07 UTC",
-  "total_items": 252,
+  "generated_at": "2026-08-07T17:56:57.448079+00:00",
+  "generated_at_human": "2026-08-07 17:56 UTC",
+  "total_items": 253,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -72,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=91328",
+        "https://i.archi.ru/i/1262/510881.jpg?r=15741",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -109,9 +109,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=82938",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=92040",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=90103"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=61751",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=51123",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=71269"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -131,21 +131,39 @@
       "published": ""
     },
     {
-      "id": "59230548690ecfa4",
-      "title": "Пространственный сдвиг",
-      "summary": "Петербургский Манеж продолжил серию архитектурных инсталляций работой бразильского художника Роммула Вьейра Консейсана: на этот раз площадь перед западным фасадом украсил лабиринт из оград и цветного поликарбоната.",
-      "url": "https://archi.ru/russia/102556/prostranstvennyi-sdvig",
-      "image": "https://i.archi.ru/i/1262/510343.jpg",
+      "id": "e90e4b74aa2751a0",
+      "title": "How I Gave My Wire Shelves a Custom Look with DIY Shelf Covers",
+      "summary": "Stop things from falling through the cracks with these easy DIY shelf covers for wire shelves, made from painted plywood and simple 1x2 trim. The post How I Gave My Wire Shelves a Custom Look with DIY Shelf Covers appeared first on Family Handyman .",
+      "url": "https://www.familyhandyman.com/project/shelf-covers-for-wire-shelves/",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/How-to-Build-Custom-Shelf-Covers-for-Wire-Shelves_FHMVS26_MF_01_23_WoodCoverWireShelves_1.jpg?fit=640%2C936",
       "images": [
-        "https://i.archi.ru/i/1262/510343.jpg"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/How-to-Build-Custom-Shelf-Covers-for-Wire-Shelves_FHMVS26_MF_01_23_WoodCoverWireShelves_1.jpg?fit=640%2C936"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Family Handyman",
+      "source_url": "https://www.familyhandyman.com",
+      "published": "2026-08-07T17:16:31+00:00"
     },
     {
-      "id": "13a37bfe55c98a2e",
-      "title": "Dive Into ‘Pastel,’ Cj Hendry’s Million-Bead Installation at Salon 94",
+      "id": "a9876040c5583306",
+      "title": "The Raised Corner Tub Was Taking Up the Best Part of the Bathroom",
+      "summary": "Large primary bathrooms often dedicate the brightest part of the room to an oversized platform tub. The shower sits in a corner behind framed glass, storage stays limited, and much of the floor serves fixtures instead of the people using them. In this remodel, shared by Reddit user Feeling-Bag-4149, the layout changed almost as much... The post The Raised Corner Tub Was Taking Up the Best Part of the Bathroom appeared first on Homedit .",
+      "url": "https://www.homedit.com/the-raised-corner-tub-was-taking-up-the-best-part-of-the-bathroom/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Raised-Corner-Tub-Was-Taking-Up-the-Best-Part-of-the-Bathroom.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Raised-Corner-Tub-Was-Taking-Up-the-Best-Part-of-the-Bathroom.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Deep-Blue-Tile-Defines-the-Back-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Storage-Moved-Onto-the-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Window-Became-the-Centerpiece.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Shower-Became-Part-of-the-Architecture.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Demolition-Exposed-the-Original-Layout.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-07T16:50:57+00:00"
+    },
+    {
+      "id": "b4ead906e6a6cd1a",
+      "title": "Dive Into ‘Pastel,’ Cj Hendry’s Million-Bead Installation at Salon 94 Design",
       "summary": "The artist transforms the Upper East Side gallery into an interactive bead pit where visitors can dive in, make jewelry, and take home pieces of the installation",
       "url": "https://design-milk.com/cj-hendry-pastel-salon-94-bead-installation/",
       "image": "https://design-milk.com/images/2026/08/S94D-CJH-Install-ZH-MR.jpg",
@@ -171,13 +189,28 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-portable-cork-brainstorming-stool-for-literal-lightbulb-moments/bulb-portable-cork-stool-concept-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/01/297105/1-standbox_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/cloud_rocking_chair_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/04/an-ergonomic-zero-gravity-chair-that-works-for-wfh-and-netflix-binge/01-balans_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/02/11/hangerframe_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/09/a-printer-never-looked-so-perfect/compact_printer_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/08/star-wars-hoth-kamino-inspired-desk-may-the-work-force-be-with-you/Star-Wars-Inspired-Workbench-from-an-Old-Ikea-Table-17.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-07T14:20:54+00:00"
+    },
+    {
+      "id": "ec10729c16e9fac2",
+      "title": "Kitchen Islands Don't Have To Be Boring — The Attractive Alternative To Look For At Thrift Stores",
+      "summary": "Islands are functional, but that doesn't mean they can't be stylish. Thrifting this piece of furniture can give you a low-cost option to elevate your kitchen.",
+      "url": "https://www.hunker.com/2228991/kitchen-island-attractive-alternative-diy-sideboard/",
+      "image": "https://www.hunker.com/img/gallery/kitchen-island-attractive-alternative-diy-sideboard/l-intro-1785932420.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/kitchen-island-attractive-alternative-diy-sideboard/l-intro-1785932420.jpg",
+        "https://www.hunker.com/img/gallery/kitchen-island-attractive-alternative-diy-sideboard/intro-1785932420.jpg",
+        "https://www.hunker.com/img/gallery/kitchen-island-attractive-alternative-diy-sideboard/modify-a-sideboard-or-buffet-to-create-a-kitchen-island-1785932422.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-07T14:00:00+00:00"
     },
     {
       "id": "aaf87989ade91332",
@@ -406,12 +439,7 @@
       "url": "https://www.homedit.com/skip-traditional-garden-paths-and-mix-stone-gravel-grass-and-wood-along-the-way/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Skip-Traditional-Garden-Paths-and-Mix-Stone-Gravel-Grass-and-Wood-Along-the-Way.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Skip-Traditional-Garden-Paths-and-Mix-Stone-Gravel-Grass-and-Wood-Along-the-Way.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Rectangular-Stepping-Stones-Keep-Grass-Between-Each-Step.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Built-an-Arch-Around-One-Plain-Tub-Alcove-and-the-Bathroom-Took-on-a-Custom-Look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-His-Front-Lawn-and-Rebuilt-It-With-Gravel-Paths-and-Garden-Beds.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Design-Is-Borrowing-More-From-Living-Rooms-Than-Ever.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Skip-Traditional-Garden-Paths-and-Mix-Stone-Gravel-Grass-and-Wood-Along-the-Way.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -537,9 +565,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -570,9 +598,7 @@
       "url": "https://www.hunker.com/2223794/easily-turn-thrift-store-plates-into-hanging-storage/",
       "image": "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/l-intro-1785147470.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/l-intro-1785147470.jpg",
-        "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/intro-1785147470.jpg",
-        "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/diy-plate-and-knob-wall-hangers-1785147472.jpg"
+        "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/l-intro-1785147470.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -789,19 +815,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-06T10:30:17+00:00"
-    },
-    {
-      "id": "e754146b28a33c65",
-      "title": "This Laundry Room Went From Pantry to Workspace Without Moving the Washer or Dryer",
-      "summary": "Replacing cabinets often becomes the first idea when a laundry room starts to look dated. This makeover shows how much can change without removing the built-ins. Paint, new hardware, a different light fixture, and a wood-look countertop gave the room a fresh appearance while keeping the original layout. Jordan Jean shared the budget update from... The post This Laundry Room Went From Pantry to Workspace Without Moving the Washer or Dryer appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-laundry-room-went-from-pantry-to-workspace-without-moving-the-washer-or-dryer/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Homeowners-Started-Updating-Cabinets-Instead-of-Replacing-Them.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Homeowners-Started-Updating-Cabinets-Instead-of-Replacing-Them.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-06T09:31:48+00:00"
     },
     {
       "id": "ec3aa5de64a266a4",
@@ -1050,9 +1063,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/draft-bohem/BOHEM_Heated_Sofa_Blanket_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/these-sculptural-lamps-turn-reflected-light-into-living-seascapes/Sandscape_lighting_product_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/08/what-are-the-7-elements-of-interior-design/00-elements-interior-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/06/vale-collection/vale_collection_yanko_design_02.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/07/this-180-foldable-workout-mat-is-a-space-saving-alternative-to-the-traditional-treadmill/06-walkingpad_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/09/high-flying-designs-the-tug-of-war-between-comfort-and-profit-in-airline-seating/butterfly-seating-3.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1343,9 +1356,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2102,9 +2115,9 @@
       "title": "Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion",
       "summary": "Actor and woodshop proprietor Nick Offerman shares sawdust-laden musings on craftsmanship, creativity and biting off more than he can chew. The post Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/nick-offerman-woodworking-interview/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=640%2C936",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=640%2C936"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2115,9 +2128,9 @@
       "title": "Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces",
       "summary": "Follow along with woodworker and custom furniture maker Lee Buchanan as she tackles a unique Murphy bed makeover. The post Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/lee-buchanan-murphy-bed-build/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=640%2C936",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=640%2C936"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2128,9 +2141,9 @@
       "title": "Check Out the 75-Year-Old Family Handyman Project That Inspired Our Plywood Challenge",
       "summary": "Inspired by our first issue, we challenged our editors and readers alike to make something amazing from this timeless staple. The post Check Out the 75-Year-Old Family Handyman Project That Inspired Our Plywood Challenge appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/plywood-challenge-inspiration-project/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=640%2C936",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=640%2C936"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -3344,11 +3357,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/08/DIY-Chunky-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/07/DIY-Round-End-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/09/DIY-Desk-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/07/How-to-build-a-nighstand-with-a-drawer.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/04/DIY-Porch-Swing.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
