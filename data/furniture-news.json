@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-07T17:56:57.448079+00:00",
-  "generated_at_human": "2026-08-07 17:56 UTC",
-  "total_items": 253,
+  "generated_at": "2026-08-07T19:10:20.634537+00:00",
+  "generated_at_human": "2026-08-07 19:10 UTC",
+  "total_items": 243,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -18,7 +17,6 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -38,7 +36,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -53,7 +50,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -61,7 +57,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 55,
+  "sources_count": 51,
   "multi_photo_items": 58,
   "items": [
     {
@@ -72,7 +68,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=15741",
+        "https://i.archi.ru/i/1262/510881.jpg?r=40039",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -109,9 +105,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=61751",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=51123",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=71269"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=83108",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=71651",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=58388"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -131,6 +127,34 @@
       "published": ""
     },
     {
+      "id": "11539f587a2af35e",
+      "title": "The Splinter Report: August 7th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week I’m looking at Reddit. “But wait Collin, you... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-august-7th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/07144013/splinter-report-8-7.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/07144013/splinter-report-8-7.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-07T18:43:28+00:00"
+    },
+    {
+      "id": "d5d06bd25c8f1714",
+      "title": "On a romantic Scottish island, an old Victorian schoolhouse has been transformed",
+      "summary": "Dress for the Weather has created a cute Scottish cottage from the bones of a Victorian schoolhouse, blending its old stone exterior with a fresh contemporary flair",
+      "url": "https://www.wallpaper.com/architecture/residential/victorian-schoolhouse-turned-cottage-scotland-uk",
+      "image": "https://cdn.mos.cms.futurecdn.net/73ZJd38kLu87R6WqKMTZ8j.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/73ZJd38kLu87R6WqKMTZ8j.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-08-07T18:05:15+00:00"
+    },
+    {
       "id": "e90e4b74aa2751a0",
       "title": "How I Gave My Wire Shelves a Custom Look with DIY Shelf Covers",
       "summary": "Stop things from falling through the cracks with these easy DIY shelf covers for wire shelves, made from painted plywood and simple 1x2 trim. The post How I Gave My Wire Shelves a Custom Look with DIY Shelf Covers appeared first on Family Handyman .",
@@ -142,6 +166,21 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-08-07T17:16:31+00:00"
+    },
+    {
+      "id": "6fdb9da44b3be364",
+      "title": "She Turns An IKEA Metal Stool Into A Designer Statement Piece",
+      "summary": "IKEA has low-cost basics that can be transformed using creative DIYs. This TikTok user shows how a simple stool can be turned into a sculptural statement-maker.",
+      "url": "https://www.hunker.com/2229304/ikea-metal-stool-diy-sculptural-statement-piece/",
+      "image": "https://www.hunker.com/img/gallery/ikea-metal-stool-diy-sculptural-statement-piece/l-intro-1785946170.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ikea-metal-stool-diy-sculptural-statement-piece/l-intro-1785946170.jpg",
+        "https://www.hunker.com/img/gallery/ikea-metal-stool-diy-sculptural-statement-piece/intro-1785946170.jpg",
+        "https://www.hunker.com/img/gallery/ikea-metal-stool-diy-sculptural-statement-piece/paper-mache-your-marius-stool-into-a-new-shape-1785946171.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-07T17:00:00+00:00"
     },
     {
       "id": "a9876040c5583306",
@@ -189,9 +228,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-portable-cork-brainstorming-stool-for-literal-lightbulb-moments/bulb-portable-cork-stool-concept-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/02/11/hangerframe_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/09/a-printer-never-looked-so-perfect/compact_printer_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/star-wars-hoth-kamino-inspired-desk-may-the-work-force-be-with-you/Star-Wars-Inspired-Workbench-from-an-Old-Ikea-Table-17.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/brilliant-desk-gadgets-under-100-that-actually-do-something-impressive/8_best_desk_gadgets_yanko_design_hero.webp",
+        "https://www.yankodesign.com/images/design_news/2013/06/06/two_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/06/tecno-camon-30-series-loewe-edition-has-a-back-made-from-coffee-grounds/tecno-camon-30-loewe-edition-4.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -250,32 +289,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "id": "b9e697853d048199",
-      "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
-      "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
-      "url": "https://blog.lostartpress.com/2026/08/07/lap-open-wire-tomorrow-sat-aug-8-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-07T12:55:52+00:00"
     },
     {
       "id": "71676d38ccf09966",
@@ -547,9 +560,7 @@
       "url": "https://www.hunker.com/2230865/how-to-clean-showerhead-without-vinegar/",
       "image": "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/l-intro-1785977810.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/l-intro-1785977810.jpg",
-        "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/intro-1785977810.jpg",
-        "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/using-lemon-juice-or-baking-soda-for-a-clean-showerhead-1785977811.jpg"
+        "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/l-intro-1785977810.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -752,32 +763,6 @@
       "published": "2026-08-06T12:48:23+00:00"
     },
     {
-      "id": "75685053d58cc93e",
-      "title": "One Renter-Friendly DIY Made This Kitchen So Warm and Inviting for $150",
-      "summary": "While living in Germany a few years ago, Morgan Ford, who’s known for being “sunshine personified” among friends, experienced countless gray skies and gloomy days.So when she moved into her new Colorado rental apartment and wanted to update the kitchen, she vowed to design it to cultivate creativity and good vibes all year round.Luckily, the space was already in decent shape. “The kitchen wasn’t bad, but it also wasn’t very inspiring,” Morgan says. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/moody-backsplash-update-ba-2-37683674?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/march/morgan-f/before-after/morgan-f-kitchen-before-teaser",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/march/morgan-f/before-after/morgan-f-kitchen-before-teaser"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-06T12:00:00+00:00"
-    },
-    {
-      "id": "572aff806660c504",
-      "title": "Ditch Shelves: The Vintage Find That Makes Storing Toilet Paper Way Cuter",
-      "summary": "Once a home essential, you may think this vintage item is obsolete now. Well, think again because its dimensions are perfect for toilet paper storage.",
-      "url": "https://www.hunker.com/2213391/ditch-shelves-vintage-bucket-storing-toilet-paper/",
-      "image": "https://www.hunker.com/img/gallery/ditch-shelves-the-vintage-find-that-makes-storing-toilet-paper-way-cuter/l-intro-1783946891.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ditch-shelves-the-vintage-find-that-makes-storing-toilet-paper-way-cuter/l-intro-1783946891.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-06T12:00:00+00:00"
-    },
-    {
       "id": "5cd35de2a5272d77",
       "title": "She Pulled Her 90s Teen Bedroom Dresser Out of Her Parents’ Attic and Gave It a Split-Color Makeover",
       "summary": "Furniture from a childhood bedroom can sit in storage for decades, but this 90s dresser came out of a parents’ attic for a complete surface makeover. Imgur user biggulpswelpcya kept the original frame, seven-drawer layout, and molded drawer fronts while changing almost everything about the finish. Instead of covering the dresser with one paint color,... The post She Pulled Her 90s Teen Bedroom Dresser Out of Her Parents’ Attic and Gave It a Split-Color Makeover appeared first on Homedit .",
@@ -860,19 +845,6 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-08-06T03:28:11+00:00"
-    },
-    {
-      "id": "d88dfa83c21f4473",
-      "title": "A Builder-Grade Kitchen Gets a Pop of Color with an Easy Backsplash Upgrade",
-      "summary": "It’s not that Detroit-based interior designer Christie Kristl didn’t like the updated kitchen in her 1963 home, but it didn’t exactly scream fun. The hardware, countertops, and cabinets were all fine, so they stayed put.But thankfully, when the previous owners updated everything in 2018, they didn’t bother with any backsplash — so Christie got to make the call. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/tiles-backsplash-kitchen-ba-37683671?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/march/christie-k/before-after/christie-k-kitchen-before-tag",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/march/christie-k/before-after/christie-k-kitchen-before-tag"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-05T22:00:00+00:00"
     },
     {
       "id": "d657e9e9ebf94577",
@@ -1228,22 +1200,9 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
-    },
-    {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "b394ac9ab67d574a",
@@ -1286,9 +1245,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/clarus-atmus-mobile-desk-transforms-design-studios-with-multifunctional-whiteboard-and-projection-capabilities/Image-23-2.jpeg",
-        "https://www.yankodesign.com/images/design_news/2022/10/402966/Herman-Miller-x-Logitech-G-Vantum-Gaming-Chair-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/a-transforming-table-chair-that-turns-tradition-into-space-saving-intelligence/compact_folio_set_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/01/worklab/worklab_narbutas_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/01/296068/overtunedchair.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/05/seat-and-relax-anywhere-with-this-origami-inspired-foldable-chair-and-ottoman/foldable_chair_table_ottoman_delpoys_like_an_umbrella_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1593,19 +1552,6 @@
       "published": "2026-07-31T14:48:10+00:00"
     },
     {
-      "id": "5a3bf2c8eb895b0c",
-      "title": "From Lockup to Lumberyard",
-      "summary": "Westbury Lumber was deeded the neighboring prison to expand its hardwoods business in Red Creek, N.Y. In a year filled with devastating fires and other bad news for the lumber... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/from-lockup-to-lumberyard/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/29133746/ajblog-1260-image-copy.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/29133746/ajblog-1260-image-copy.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-31T12:36:59+00:00"
-    },
-    {
       "id": "f182c9ad3d97475e",
       "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
       "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
@@ -1658,8 +1604,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/qYj9vw1O-1-ERNESTOMEDA_ONE-02_PARTICOLARE-4-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/MfoGDFaY-3-ERNESTOMEDA_ONE-02_PARTICOLARE-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-unnamed-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
+        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg"
       ],
       "source": "Interni magazine",
@@ -1696,19 +1642,6 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
-    },
-    {
-      "id": "6a8452150269ca98",
-      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
-      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -1924,63 +1857,6 @@
       "published": "2026-07-28T05:12:08+00:00"
     },
     {
-      "id": "a8af0c18ed362af5",
-      "title": "5 Collections that Make the Most of Outdoor Living",
-      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-27T20:25:31+00:00"
-    },
-    {
-      "id": "86626b097c480b3f",
-      "title": "How to Choose and Care for Teak Outdoor Furniture That Lasts for Decades",
-      "summary": "Wood outdoor furniture can quickly become a maintenance headache, but teak can last decades with little upkeep.",
-      "url": "https://www.veranda.com/shopping/furniture/a62765681/best-teak-outdoor-patio-furniture/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-pool-pavilion-691cda0ec8287.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-pool-pavilion-691cda0ec8287.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/9b7422b1-087a-4837-9747-3b8c330af9ca.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/gil-schafer-maine-house-tour-dining-porch-jpg-1623352938.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/herman-brown-dominican-republic-villa-loggia-living-area-691cdc4e21e98.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/sutherland-dallas-home-loggia-67ab970e3ed67.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/nantucket-island-harbor-684769012d1c3.jpg"
-      ],
-      "source": "Veranda",
-      "source_url": "https://www.veranda.com",
-      "published": "2026-07-27T18:59:00+00:00"
-    },
-    {
-      "id": "008c74a0d1d1467c",
-      "title": "An American, an Irish Chair, in Germany",
-      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
-      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-27T13:43:48+00:00"
-    },
-    {
-      "id": "af7c744ad1423fe8",
-      "title": "Kill Wood-boring Insects with Kitchen Appliances",
-      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
-      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-27T11:37:28+00:00"
-    },
-    {
       "id": "e93f31d5f55035ec",
       "title": "Oltre la libreria: adattarsi agli ambienti e trasformarsi nel tempo",
       "summary": "Techwall di Riflessi: un sistema in continua evoluzione per abitare lo spazio con libertà The post Oltre la libreria: adattarsi agli ambienti e trasformarsi nel tempo appeared first on Interni Magazine .",
@@ -2106,7 +1982,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2301,19 +2177,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c641918c090f36dc",
