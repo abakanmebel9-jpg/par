@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-07T21:51:13.845501+00:00",
-  "generated_at_human": "2026-08-07 21:51 UTC",
-  "total_items": 246,
+  "generated_at": "2026-08-07T22:50:48.491364+00:00",
+  "generated_at_human": "2026-08-07 22:50 UTC",
+  "total_items": 250,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -45,13 +46,13 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
-    "Sleeper magazine",
     "Stylepark DE",
     "Trendir",
     "Trendir furniture",
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -59,8 +60,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 58,
+  "sources_count": 54,
+  "multi_photo_items": 56,
   "items": [
     {
       "id": "c1adab92d963d4a1",
@@ -70,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=15321",
+        "https://i.archi.ru/i/1262/510881.jpg?r=58029",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -107,9 +108,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=23613",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=66930",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=20269"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=83137",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=46693",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=92057"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -127,6 +128,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "0721bf5e55c3aa4a",
+      "title": "Dark Teal Cabinets Completely Changed This Dark, Dreary Kitchen",
+      "summary": "In the world of kitchen remodeling, there are entirely DIY projects (like this ‘80s kitchen makeover), while some transformations require professional help (and there’s no shame in that!).However, some unique makeovers are so hands-off, they take place while the homeowner is living in an entirely different country — at least, that was the case for Sonia Blair’s Latin American home. Blair owns a home in Mazatlan, Mexico, but lives in Colorado. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/brown-teal-kitchen-remodel-ba-37683681?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-06/sonia-b-kitchen/sonia-b-kitchen-before-tagged-1",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-06/sonia-b-kitchen/sonia-b-kitchen-before-tagged-1"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-07T22:00:00+00:00"
     },
     {
       "id": "1cfa603f45cca5eb",
@@ -305,6 +319,19 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-08-07T13:00:00+00:00"
     },
     {
@@ -1010,7 +1037,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-05T08:00:56+00:00"
     },
@@ -1150,7 +1177,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/dynaudio-norm-architects-karimoku-copenhagen_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-04T08:00:05+00:00"
     },
@@ -1218,6 +1245,19 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "b394ac9ab67d574a",
@@ -1567,23 +1607,6 @@
       "published": "2026-07-31T14:48:10+00:00"
     },
     {
-      "id": "f182c9ad3d97475e",
-      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
-      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-31T12:11:26+00:00"
-    },
-    {
       "id": "67a8a7b7427d13df",
       "title": "Small Living Rooms Are Hiding Full Beds Behind the Sofa",
       "summary": "Small rooms are starting to hide full-size functions inside furniture that looks like part of the wall. Beds fold down over sofas, mattresses disappear behind cabinet panels, and storage remains accessible as the room changes from living space to sleeping space. What stands out in these designs is how little has to move during the... The post Small Living Rooms Are Hiding Full Beds Behind the Sofa appeared first on Homedit .",
@@ -1657,6 +1680,19 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
+    },
+    {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -1870,6 +1906,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-07-28T05:12:08+00:00"
+    },
+    {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
     },
     {
       "id": "008c74a0d1d1467c",
@@ -2220,6 +2269,19 @@
       "published": "2026-07-22T21:00:00+00:00"
     },
     {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
+    },
+    {
       "id": "c641918c090f36dc",
       "title": "Norwegian Wood: Restoring Hotel Sundal, an 1889 Timber Hotel in Western Norway",
       "summary": "In 2018, Caroline Steine and Harald Andreassen left the city to take on an unlikely project: restoring Hotel Sundal, an 1889 timber hotel that had sat empty for years in western Norway’s Hardanger region. Originally built by Erik Gausvik and Anna Eikenes, early pioneers of glacier tourism, the hotel once welcomed European aristocracy, emperors, and […]",
@@ -2314,23 +2376,6 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-07-21T11:40:59+00:00"
-    },
-    {
-      "id": "ef305fbba91dcb87",
-      "title": "Holloway Li channels 1960s glamour at Locke London Canary Wharf",
-      "summary": "Locke London Canary Wharf has opened its doors with Mid-Century interiors by Holloway Li. Drawing from the studio’s characteristic design […] The post Holloway Li channels 1960s glamour at Locke London Canary Wharf appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2025/09/house-of-gods-london-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/02/Locke-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/06/Novotelcw-1-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-3.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-21T08:00:50+00:00"
     },
     {
       "id": "d864e0764a6225da",
