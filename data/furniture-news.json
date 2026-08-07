@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-07T05:48:28.519319+00:00",
-  "generated_at_human": "2026-08-07 05:48 UTC",
-  "total_items": 247,
+  "generated_at": "2026-08-07T07:38:04.257077+00:00",
+  "generated_at_human": "2026-08-07 07:38 UTC",
+  "total_items": 245,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -46,7 +46,6 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
-    "Sleeper magazine",
     "Stylepark DE",
     "Trendir",
     "Trendir furniture",
@@ -60,8 +59,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 60,
+  "sources_count": 53,
+  "multi_photo_items": 57,
   "items": [
     {
       "id": "c8b066e6d7056998",
@@ -108,9 +107,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=25741",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=94955",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=67916"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=90862",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=85905",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=39869"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -128,6 +127,42 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "2457271a4aa07097",
+      "title": "Skip Traditional Garden Paths and Mix Stone, Gravel, Grass, and Wood Along the Way",
+      "summary": "A paved walkway can get you across a yard, but one continuous surface is not the only way to connect different parts of a garden. Stone slabs, gravel, brick, timber, grass, and planted gaps can create a route while becoming part of the landscape around it. These gardens use concrete paths between ferns, bricks beside... The post Skip Traditional Garden Paths and Mix Stone, Gravel, Grass, and Wood Along the Way appeared first on Homedit .",
+      "url": "https://www.homedit.com/skip-traditional-garden-paths-and-mix-stone-gravel-grass-and-wood-along-the-way/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Skip-Traditional-Garden-Paths-and-Mix-Stone-Gravel-Grass-and-Wood-Along-the-Way.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Skip-Traditional-Garden-Paths-and-Mix-Stone-Gravel-Grass-and-Wood-Along-the-Way.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Rectangular-Stepping-Stones-Keep-Grass-Between-Each-Step.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Design-Is-Borrowing-More-From-Living-Rooms-Than-Ever.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Pulled-Her-90s-Teen-Bedroom-Dresser-Out-of-Her-Parents-Attic-and-Gave-It-a-Split-Color-Makeover.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-07T07:21:21+00:00"
+    },
+    {
+      "id": "58b091ca7acbc0c6",
+      "title": "Kitchen Design Is Borrowing More From Living Rooms Than Ever",
+      "summary": "Kitchens once focused almost entirely on cabinets, countertops, and appliances. Today, many designs borrow ideas once reserved for living rooms. Wallpaper replaces plain painted walls, artwork hangs beside the range, decorative lighting shares attention with task lighting, and shelves display ceramics, books, and plants alongside everyday kitchen items. This kitchen brings those elements together without... The post Kitchen Design Is Borrowing More From Living Rooms Than Ever appeared first on Homedit .",
+      "url": "https://www.homedit.com/kitchen-design-is-borrowing-more-from-living-rooms-than-ever/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Island-Feels-Like-Furniture-at-the-Center-of-the-Room.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Island-Feels-Like-Furniture-at-the-Center-of-the-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Display-Shelves-Hold-More-Than-Kitchen-Essentials.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Wallpaper-Gives-the-Kitchen-the-Same-Treatment-as-the-Living-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Pulled-Her-90s-Teen-Bedroom-Dresser-Out-of-Her-Parents-Attic-and-Gave-It-a-Split-Color-Makeover.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-07T06:01:47+00:00"
     },
     {
       "id": "b242bbd8c8479e68",
@@ -234,11 +269,11 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
+        "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -414,8 +449,8 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Curved-Frames-Bring-Softer-Lines.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Foldable-Tables-Carry-the-Same-Invisible-Look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Pulled-Her-90s-Teen-Bedroom-Dresser-Out-of-Her-Parents-Attic-and-Gave-It-a-Split-Color-Makeover.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Homeowners-Started-Updating-Cabinets-Instead-of-Replacing-Them.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Design-Is-Borrowing-More-From-Living-Rooms-Than-Ever.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Pulled-Her-90s-Teen-Bedroom-Dresser-Out-of-Her-Parents-Attic-and-Gave-It-a-Split-Color-Makeover.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -467,12 +502,7 @@
       "url": "https://www.homedit.com/she-pulled-her-90s-teen-bedroom-dresser-out-of-her-parents-attic-and-gave-it-a-split-color-makeover/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Pulled-Her-90s-Teen-Bedroom-Dresser-Out-of-Her-Parents-Attic-and-Gave-It-a-Split-Color-Makeover.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Pulled-Her-90s-Teen-Bedroom-Dresser-Out-of-Her-Parents-Attic-and-Gave-It-a-Split-Color-Makeover.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Homeowners-Started-Updating-Cabinets-Instead-of-Replacing-Them.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Lamps-Are-Starting-to-Look-More-Like-Decorative-Objects.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Your-Neighbor-May-Think-Your-Unmowed-Lawn-Needs-Help.-You-May-Want-It-That-Way.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Pulled-Her-90s-Teen-Bedroom-Dresser-Out-of-Her-Parents-Attic-and-Gave-It-a-Split-Color-Makeover.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -485,12 +515,7 @@
       "url": "https://www.homedit.com/ditch-the-builder-grade-stainless-steel-sink-these-sinks-do-more-with-the-same-counter-space/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Sink-Accessories-Turn-the-Basin-Into-a-Workstation.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Cutting-Boards-Can-Become-Part-of-the-Sink-System.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Pulled-Her-90s-Teen-Bedroom-Dresser-Out-of-Her-Parents-Attic-and-Gave-It-a-Split-Color-Makeover.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Homeowners-Started-Updating-Cabinets-Instead-of-Replacing-Them.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -592,6 +617,24 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-08-05T21:00:00+00:00"
+    },
+    {
+      "id": "d657e9e9ebf94577",
+      "title": "Box of Colour: Casa Alkymia, a Monteverde Apartment by Punto Zero.",
+      "summary": "Punto Zero treats colour as architecture in Casa Alkymia, a 230-square-metre Roman apartment in leafy Monteverde Vecchio. Working with Blu di Prussia, the studio tuned each room to its own register: powder pink wraps the kitchen, saturated carmine and black terrazzo define the master suite—\"a red box within a pale green box\"—and blue ceilings soften the children's lofty room. Set inside a 1930s palazzetto, the renovation answers the building's rationalist curves with confident, room-by-room colour, proving that bold doesn't have to mean brash. | The article Box of Colour: Casa Alkymia, a…",
+      "url": "https://www.yellowtrace.com.au/punto-zero-casa-alkymia-rome-apartment-renovation/",
+      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16203559/Yellowtrace-Punto-Zero-Casa-Alkymia-Rome-Photo-Studio-Eller-Serena-Eller-Vainicher-01_opt80.jpg",
+      "images": [
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16203559/Yellowtrace-Punto-Zero-Casa-Alkymia-Rome-Photo-Studio-Eller-Serena-Eller-Vainicher-01_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16203834/Yellowtrace-Punto-Zero-Casa-Alkymia-Rome-Photo-Studio-Eller-Serena-Eller-Vainicher-36_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16203603/Yellowtrace-Punto-Zero-Casa-Alkymia-Rome-Photo-Studio-Eller-Serena-Eller-Vainicher-23_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16203612/Yellowtrace-Punto-Zero-Casa-Alkymia-Rome-Photo-Studio-Eller-Serena-Eller-Vainicher-43_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16203617/Yellowtrace-Punto-Zero-Casa-Alkymia-Rome-Photo-Studio-Eller-Serena-Eller-Vainicher-12_opt80.jpg",
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16203622/Yellowtrace-Punto-Zero-Casa-Alkymia-Rome-Photo-Studio-Eller-Serena-Eller-Vainicher-14_opt80.jpg"
+      ],
+      "source": "Yellowtrace",
+      "source_url": "https://www.yellowtrace.com.au",
+      "published": "2026-08-05T19:30:44+00:00"
     },
     {
       "id": "e59b7ef3e33f4363",
@@ -708,19 +751,6 @@
       "published": "2026-08-05T13:02:02+00:00"
     },
     {
-      "id": "7792c0f93eb3ca84",
-      "title": "They Gutted This Dated Bathroom but Kept the Layout Almost the Same",
-      "summary": "Bathrooms often receive cosmetic updates first, but Reddit user u/flonkerton1 and her family decided to rebuild theirs from the inside out. Worn finishes, peeling surfaces, cracked grout, and aging fixtures made repairs difficult to justify, so they stripped the room back to its structure and rebuilt it with custom black walnut cabinetry, black hex tile,... The post They Gutted This Dated Bathroom but Kept the Layout Almost the Same appeared first on Homedit .",
-      "url": "https://www.homedit.com/they-gutted-this-dated-bathroom-but-kept-the-layout-almost-the-same/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Furniture-Style-Bathroom-Cabinets-Started-Replacing-Builder-Vanities.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Furniture-Style-Bathroom-Cabinets-Started-Replacing-Builder-Vanities.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-05T12:58:02+00:00"
-    },
-    {
       "id": "b64c3b41feed36da",
       "title": "The 3 Best Japanese Kitchen Tools You Need to Buy August 2026",
       "summary": "The 3 Best Japanese Kitchen Tools You Need to Buy August 2026 Japanese kitchen tools tend to arrive with a very specific philosophy attached. They do less than you expect on paper and more than you realize...",
@@ -742,7 +772,7 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Bookshelves-Arent-Just-Lining-Walls.-Theyre-Becoming-Part-of-the-Room.jpg"
       ],
-      "source": "Homedit",
+      "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-05T11:22:06+00:00"
     },
@@ -768,7 +798,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-05T08:00:56+00:00"
     },
@@ -808,9 +838,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/desk-accessories/top_10_desk_accessories_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/creative_explorer_ruler_kaleidoscope-yankodesign-08.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/09/first-luxury-digital-display-to-create-your-own-nft-art-gallery-at-home/Ammunition-Group-Danvas-Digital-on-display-5.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/01/auto-draft/01-UVClean_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/04/tecno-phantom-v-fold-foldable-phone-review-when-the-price-is-right/tecno-phantom-v-fold-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/05/21/iglow_cageb_bottle_holder_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -926,19 +956,6 @@
       "published": "2026-08-04T13:00:20+00:00"
     },
     {
-      "id": "7c8fb0aab8bd0bcf",
-      "title": "The kitchen hutch: how to choose one and style it well",
-      "summary": "Hutches and kitchen dressers have returned to favour as part of a broader shift away from seamlessly built-in kitchens and toward spaces that feel accumulated rather than installed. The appetite for freestanding pieces that carry character, imperfection and visible history has given the hutch a renewed relevance it had largely lost during the decades when […] The post The kitchen hutch: how to choose one and style it well appeared first on SA Garden and Home .",
-      "url": "https://www.gardenandhome.co.za/decor/kitchens/kitchen-hutch-how-to-choose-and-style/",
-      "image": "https://www.gardenandhome.co.za/wp-content/uploads/2026/08/pexels-sinileunen-5014245.jpg",
-      "images": [
-        "https://www.gardenandhome.co.za/wp-content/uploads/2026/08/pexels-sinileunen-5014245.jpg"
-      ],
-      "source": "Garden & Home SA",
-      "source_url": "https://gardenandhome.co.za",
-      "published": "2026-08-04T09:00:59+00:00"
-    },
-    {
       "id": "09631623ac2f39ce",
       "title": "Remodelista Reconnaissance: Versatile Yellow Stools in a Philly Art Studio",
       "summary": "If there’s one thing we learned from combing through interiors for Archive Dive: Splashes of Yellow All Over, it’s that even a small jolt of yellow can perk up a whole room. Case in point: these sunny little stools in A Young Couple’s New Live/Work Quarters in Old City, Philadelphia—specifically the second-floor art studio. Read […]",
@@ -960,7 +977,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/dynaudio-norm-architects-karimoku-copenhagen_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-04T08:00:05+00:00"
     },
@@ -1106,9 +1123,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/09/26/s02_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/04/auto-draft/darkside_stool_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/oceanides-table/oceanides_table_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/11/cosi-laptop-table-brings-a-fully-adjustable-work-surface-to-any-chair/teknion-cosi-laptop-table-10.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/04/under-pressure-solutions/under_pressure_solutions_yanko_design_06.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/10/coffee-table/coffee_table_cat_table_pets_03.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1154,21 +1171,6 @@
       "published": "2026-08-03T11:31:10+00:00"
     },
     {
-      "id": "a8a8a52595386893",
-      "title": "The most elegant Lego storage system ever made? Meet the Brickle",
-      "summary": "The handcrafted Brickle promises to stash and sort even the largest collection of Lego bricks, streamlining piece selection, creative play and keeping floors clear of painful hazards",
-      "url": "https://www.wallpaper.com/design-interiors/brickle-lego-storage-system",
-      "image": "https://cdn.mos.cms.futurecdn.net/mkTsHjYcpLHtoKSxotmGFj.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/mkTsHjYcpLHtoKSxotmGFj.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-08-03T09:00:00+00:00"
-    },
-    {
       "id": "029d4908da34d167",
       "title": "The Refresh: Japanese-Style Sinkside Accessories",
       "summary": "Pleasure from a pair of kitchen scissors? On a daily basis. My husband and I keep Japanese shears by our kitchen sink in a wooden wall pocket and we both comment on how exceptional they are: for cutting herbs, trimming stems, deboning chickens, and, in a pinch, freeing our dog of burs (they come apart, […]",
@@ -1191,9 +1193,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1374,10 +1376,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/03/angled-console-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/11/DIY-Waterfall-Desk-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -1478,23 +1480,6 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-31T12:36:59+00:00"
-    },
-    {
-      "id": "f182c9ad3d97475e",
-      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
-      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-31T12:11:26+00:00"
     },
     {
       "id": "67a8a7b7427d13df",
@@ -1755,9 +1740,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/12/30/bee_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/king-living-introduces-magnolia-extendable-dining-table-for-modern-compact-living/250404_KING_AURA_RANGE_1_1_AURA_MAGNOLIA_EXTENSION_RETRACTED_0177.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/11/draft-geobed/geobed_cat_bed_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/04/sculptural-organizer-will-bring-order-into-your-creative-chaos/kiir-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/04/the-glass-chair-that-makes-every-other-chair-look-boring/metal-affaire-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/11/this-reversible-mid-high-bed-concept-can-grow-with-your-child/reversible-mid-high-bed-concept-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1905,12 +1890,7 @@
       "url": "https://www.yellowtrace.com.au/geller-studio-cinderella-deep-redfern-workspace-australian-interior-design/",
       "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184237/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-11_opt80.jpg",
       "images": [
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184237/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-11_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184315/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-23_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184309/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-21_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184348/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-32_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184421/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-39_opt80.jpg",
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184524/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-54_opt80.jpg"
+        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/07/16184237/Yellowtrace-Geller-Studio-Cinderella-Deep-Redfern-Photo-Anson-Smart-11_opt80.jpg"
       ],
       "source": "Yellowtrace",
       "source_url": "https://www.yellowtrace.com.au",
@@ -2307,23 +2287,6 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-07-21T11:40:59+00:00"
-    },
-    {
-      "id": "ef305fbba91dcb87",
-      "title": "Holloway Li channels 1960s glamour at Locke London Canary Wharf",
-      "summary": "Locke London Canary Wharf has opened its doors with Mid-Century interiors by Holloway Li. Drawing from the studio’s characteristic design […] The post Holloway Li channels 1960s glamour at Locke London Canary Wharf appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2025/09/house-of-gods-london-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/02/Locke-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/06/Novotelcw-1-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-3.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-21T08:00:50+00:00"
     },
     {
       "id": "d864e0764a6225da",
