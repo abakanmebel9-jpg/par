@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-07T11:03:48.537161+00:00",
-  "generated_at_human": "2026-08-07 11:03 UTC",
-  "total_items": 247,
+  "generated_at": "2026-08-07T11:55:04.577366+00:00",
+  "generated_at_human": "2026-08-07 11:55 UTC",
+  "total_items": 249,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -18,7 +18,6 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -47,6 +46,7 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
+    "Sleeper magazine",
     "Stylepark DE",
     "Trendir",
     "Trendir furniture",
@@ -55,12 +55,13 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 57,
   "items": [
     {
@@ -108,9 +109,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=85775",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=73214",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=17490"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=78826",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=78797",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=66964"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -130,6 +131,55 @@
       "published": ""
     },
     {
+      "id": "9bd0c096949e4fc3",
+      "title": "She Built an Arch Around the Tub Alcove and the Bathroom Took on a Custom Look",
+      "summary": "Many bathroom remodels replace finishes while leaving the room feeling familiar. Reddit user u/GeezyMart took a different approach by changing the architecture instead. The standard rectangular tub opening disappeared behind a large arched surround, giving one ordinary alcove a completely different presence. A floating fluted vanity, checkerboard porcelain floor, faux limewash walls, and brass fixtures... The post She Built an Arch Around the Tub Alcove and the Bathroom Took on a Custom Look appeared first on Homedit .",
+      "url": "https://www.homedit.com/she-built-an-arch-around-the-tub-alcove-and-the-bathroom-took-on-a-custom-look/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Built-an-Arch-Around-One-Plain-Tub-Alcove-and-the-Bathroom-Took-on-a-Custom-Look.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Built-an-Arch-Around-One-Plain-Tub-Alcove-and-the-Bathroom-Took-on-a-Custom-Look.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Arch-Became-the-First-Thing-You-Notice.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Curves-Texture-and-Brass-Changed-the-Vanity-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Arched-Opening-Replaced-the-Rectangle.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Demolition-Left-the-Layout-in-Place.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-07T11:48:23+00:00"
+    },
+    {
+      "id": "595df5b0b681cbf0",
+      "title": "This Tiny Home Packs a Bathtub, Dishwasher, and Two Bedrooms Into 423 Square Feet",
+      "summary": "This Tiny Home Packs a Bathtub, Dishwasher, and Two Bedrooms Into 423 Square Feet Most tiny homes make you choose: comfort or portability, but rarely both. The Laurel, a custom build by Canadian builder Teacup Tiny Homes based on...",
+      "url": "https://www.yankodesign.com/2026/08/07/this-tiny-home-packs-a-bathtub-dishwasher-and-two-bedrooms-into-423-square-feet/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-home-packs-a-bathtub-dishwasher-and-two-bedrooms-into-423-square-feet",
+      "image": "https://www.yankodesign.com/images/design_news/2026/07/laurel-tiny-house/laurel_tiny_house_yanko_design_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/07/laurel-tiny-house/laurel_tiny_house_yanko_design_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-07T11:40:51+00:00"
+    },
+    {
+      "id": "2ad49e781ab5eb8e",
+      "title": "A productivity researcher says one detail on almost every desk is quietly stealing hours of focus a week",
+      "summary": "Walk past almost any home office in America and you’ll see the same stuff on the desk. A laptop. A monitor, maybe two. A phone plugged into a charger. A lamp. A webcam. A mug of something cold that used to be hot. You’ll also see something else, though you probably stopped noticing it years […] The post A productivity researcher says one detail on almost every desk is quietly stealing hours of focus a week appeared first on Trendir .",
+      "url": "https://www.trendir.com/a-productivity-researcher-says-one-detail-on-almost-every-desk-is-quietly-stealing-hours-of-focus-a-week/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/laptop-and-phone-on-cluttered-wooden-desk.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/laptop-and-phone-on-cluttered-wooden-desk.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/white-coffee-maker-brewing-steam-yellow-kitchen.png",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/2014/05/01/rancher-morphed-sustainable-2-storey-house-bridged-pool-1-bridge.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/11/neutral-home-office-wood-desk.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/trends/futuristic-backyard-sheds-offices-studios-log-pile-workspace.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/07/Front-outdoor-area-with-a-fire-pit-and-a-hot-tub.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-08-07T11:30:37+00:00"
+    },
+    {
       "id": "61976504e85318b9",
       "title": "Kuryłowicz + Architects designs Antarctic research station as \"home at the end of the world\"",
       "summary": "Architecture studio Kuryłowicz + Architects has revealed photos of the timber Arctowski Station nearing completion on King George Island in Antarctica. Currently under construction, the three-pronged research station has a prefabricated timber structure clad in insulated golden panels. Kuryłowicz + Architects designed the base to be a home away from home for the 28 researchers The post Kuryłowicz + Architects designs Antarctic research station as \"home at the end of the world\" appeared first on Dezeen .",
@@ -147,19 +197,6 @@
       "title": "What’s Johanna up to this week?",
       "summary": "Johanna and Pete have discovered one GIANT piece of paradise…and when it comes to dream homes, it ticks every box. They’re checking out a 16-acre estate nestled in the lush landscape of Tamborine Mountain, just an hour’s drive from Brisbane and 30-minutes from the Gold Coast. This architecturally designed modern home has five bedrooms, three […] The post What’s Johanna up to this week? appeared first on Better Homes & Gardens Australia .",
       "url": "https://www.bhg.com.au/tv/meet-the-team/whats-joh-got-up-to-this-week/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/media/33754/johannagriggs-2.jpg?format=auto&v=1720398331",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/media/33754/johannagriggs-2.jpg?format=auto&v=1720398331"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-08-07T10:09:00+00:00"
-    },
-    {
-      "id": "f9b4830e5d4f28f4",
-      "title": "What’s Johanna up to this week?",
-      "summary": "Johanna and Pete have discovered one GIANT piece of paradise…and when it comes to dream homes, it ticks every box. They’re checking out a 16-acre estate nestled in the lush landscape of Tamborine Mountain, just an hour’s drive from Brisbane and 30-minutes from the Gold Coast. This architecturally designed modern home has five bedrooms, three […] The post What’s Johanna up to this week? appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/tv/meet-the-team/whats-johanna-up-to-this-week/",
       "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/media/33754/johannagriggs-2.jpg?format=auto&v=1720398331",
       "images": [
         "https://www.bhg.com.au/wp-content/uploads/sites/12/media/33754/johannagriggs-2.jpg?format=auto&v=1720398331"
@@ -229,12 +266,7 @@
       "url": "https://www.homedit.com/kitchen-design-is-borrowing-more-from-living-rooms-than-ever/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Island-Feels-Like-Furniture-at-the-Center-of-the-Room.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Island-Feels-Like-Furniture-at-the-Center-of-the-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Display-Shelves-Hold-More-Than-Kitchen-Essentials.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Wallpaper-Gives-the-Kitchen-the-Same-Treatment-as-the-Living-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-His-Front-Lawn-and-Rebuilt-It-With-Gravel-Paths-and-Garden-Beds.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Island-Feels-Like-Furniture-at-the-Center-of-the-Room.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -851,7 +883,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-05T08:00:56+00:00"
     },
@@ -1017,7 +1049,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/dynaudio-norm-architects-karimoku-copenhagen_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-04T08:00:05+00:00"
     },
@@ -1059,24 +1091,6 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-08-04T02:24:08+00:00"
-    },
-    {
-      "id": "99b1290cc81b060f",
-      "title": "Radiators and vents are stealing your wall space: the invisible fix that heats your home better",
-      "summary": "Walk through your living room and count what your heat is costing you. There’s the radiator hogging the wall under the window, so the couch can’t go there. The floor vent blowing dust straight at the rug every time the furnace kicks on. The long baseboard heater running the length of the wall you wanted […] The post Radiators and vents are stealing your wall space: the invisible fix that heats your home better appeared first on Trendir .",
-      "url": "https://www.trendir.com/radiators-and-vents-are-stealing-your-wall-space-the-invisible-fix-that-heats-your-home-better/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/gray-sofa-blue-wall-radiator-side-table.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/gray-sofa-blue-wall-radiator-side-table.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/white-coffee-maker-brewing-steam-yellow-kitchen.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/2016/02/01/15-heart-shaped-children-furniture.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/villeroy-boch-ceramic-decor-tiles-2.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/fun-new-furniture-lagranja-design-midi-colors-1.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/innovative-kitchens-maritime-style-marecucina-alno-1.jpg"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-08-03T22:18:08+00:00"
     },
     {
       "id": "f6b2988f7092801b",
@@ -1325,7 +1339,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -1416,10 +1430,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/03/angled-console-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/11/DIY-Waterfall-Desk-by-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/11/DIY-Turned-Leg-Dining-Table-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -1520,6 +1534,19 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-07-31T12:36:59+00:00"
+    },
+    {
+      "id": "f182c9ad3d97475e",
+      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
+      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-31T12:11:26+00:00"
     },
     {
       "id": "67a8a7b7427d13df",
@@ -2010,7 +2037,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2314,6 +2341,23 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-07-21T11:40:59+00:00"
+    },
+    {
+      "id": "ef305fbba91dcb87",
+      "title": "Holloway Li channels 1960s glamour at Locke London Canary Wharf",
+      "summary": "Locke London Canary Wharf has opened its doors with Mid-Century interiors by Holloway Li. Drawing from the studio’s characteristic design […] The post Holloway Li channels 1960s glamour at Locke London Canary Wharf appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2025/09/house-of-gods-london-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/02/Locke-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/06/Novotelcw-1-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-3.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-21T08:00:50+00:00"
     },
     {
       "id": "d864e0764a6225da",
@@ -3015,7 +3059,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3101,12 +3145,7 @@
       "url": "https://www.trendir.com/bedroom-rug-placement-ideas/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2017/01/Miuccia-kitchen-furnishings-by-TM-Italia-Cucine.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/cantilevered-dual-volume-house-in-black-and-white-1.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/4-season-timber-cottage-built-by-single-carpenter-1-front-angle-day.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/02/Upholstered-Platform-Bed-All-Modern.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/trends/2015/01/11/unusual-home-design-abstract-tile-design.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png"
       ],
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
@@ -3188,19 +3227,6 @@
       "published": "2026-06-03T16:45:00+00:00"
     },
     {
-      "id": "7ccf78ccebfe1610",
-      "title": "27 Floral Bedding Ideas That Make the Bed the Most Inviting Corner of the Entire Bedroom",
-      "summary": "Florals on a bed are never just florals. They’re a mood, a season, sometimes a memory of someone’s grandmother’s guest room you weren’t supposed to fall in love with but did. These 27 floral bedding ideas are for the people who want their bedroom to feel like something, not just look like something, the kind […] The post 27 Floral Bedding Ideas That Make the Bed the Most Inviting Corner of the Entire Bedroom appeared first on Trendir .",
-      "url": "https://www.trendir.com/floral-bedding-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Floral-Bedding-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Floral-Bedding-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-03T16:00:00+00:00"
-    },
-    {
       "id": "f7c5783b4db3d864",
       "title": "These Case-Piece Furnishings are Cleverly Embellished in Ceramic Tile",
       "summary": "During NYCxDesign, local furniture brand Maiden Home debuted Eva, its second limited run craft-led commission collection.",
@@ -3263,7 +3289,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
