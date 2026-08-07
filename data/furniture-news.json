@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-06T15:26:32.995790+00:00",
-  "generated_at_human": "2026-08-06 15:26 UTC",
-  "total_items": 243,
+  "generated_at": "2026-08-07T00:11:23.332963+00:00",
+  "generated_at_human": "2026-08-07 00:11 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -56,15 +56,32 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 56,
+  "sources_count": 55,
   "multi_photo_items": 61,
   "items": [
+    {
+      "id": "c8b066e6d7056998",
+      "title": "Забайкальская огранка",
+      "summary": "В облике гостиницы для Читы бюро Megabudka предложило необычное сочетание мотивов Грановитой палаты с местным модерном. Треугольный объем основного здания окружен цветными деревянными домиками, воспроизводящими архетипы исторической застройки и восстанавливающими утраченный периметр.",
+      "url": "https://archi.ru/russia/102583/zabaikalskaya-ogranka",
+      "image": "https://i.archi.ru/i/1262/501519.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/501519.jpg",
+        "https://i.archi.ru/i/1262/501529.jpg",
+        "https://i.archi.ru/i/1262/501528.jpg",
+        "https://i.archi.ru/i/1262/501530.jpg",
+        "https://i.archi.ru/i/1262/501525.jpg",
+        "https://i.archi.ru/i/1262/501531.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "9297f6b01cef2878",
       "title": "Вакуумный стеклоблок: как сделать фасад теплее и легче",
@@ -92,9 +109,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=21997",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=36541",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=79377"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=13352",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=79596",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=69880"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -107,33 +124,149 @@
       "url": "https://archi.ru/russia/102556/prostranstvennyi-sdvig",
       "image": "https://i.archi.ru/i/1262/510343.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/510343.jpg",
-        "https://i.archi.ru/i/1262/510344.jpg",
-        "https://i.archi.ru/news/main_images/280x280/415041.jpg",
-        "https://i.archi.ru/news/main_images/280x280/279195.jpg",
-        "https://i.archi.ru/i/1262/279201.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "918c53a61ca0177f",
-      "title": "Жирафы и игрушки, фасады и подушки",
-      "summary": "В Гатчине выбрали лучшие проекты фасадов для детского сада. В конкурсе для студентов и молодых архитекторов победу одержала концепция, созданная вокруг образа жирафа. Ее автор, Анастасия Дзюрбей из Санкт-Петербургского архитектурно-строительного университета, предложила лаконичный образ дружелюбного и легко узнаваемого персонажа, который хорошо считывается детьми разного возраста. Показываем проекты победителей.",
-      "url": "https://archi.ru/russia/102545/zhirafy-i-igrushki-fasady-i-podushki",
-      "image": "https://i.archi.ru/i/1262/509983.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/509983.jpg"
+        "https://i.archi.ru/i/1262/510343.jpg"
       ],
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
     {
-      "id": "2e401a04e702cb71",
-      "title": "three conical timber roofs shape open community cabin in south london",
-      "summary": "the flexible vaulted interior accommodates workshops, meetings, and community events. The post three conical timber roofs shape open community cabin in south london appeared first on designboom | architecture & design magazine .",
+      "id": "70bf2b923af5f8b9",
+      "title": "Sunday Kitchen’s fool-proof lamb shoulder with Lebanese-inspired flavours",
+      "summary": "Melt-in-your-mouth lamb meets pomegranate and dates The post Sunday Kitchen’s fool-proof lamb shoulder with Lebanese-inspired flavours appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/recipe/entertaining/lebanese-lamb-shoulder-recipe/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/111-6a72dcb086fd1.png?format=auto&v=1785912606",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/111-6a72dcb086fd1.png?format=auto&v=1785912606",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/c16a6291-342-copy_w1920-6a72da75d4bf6.jpg?w=2401",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/500x500-shopping-48-6a72df0fc5048.png?w=2048&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/02/hg2608pm1_mktg-cover_v1.2-6a54253d5ef62-scaled.jpg?resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/111-6a72dcb086fd1.png?resize=1950%2C1950&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/1113-6a72dcb1ba877.png?resize=1950%2C1462&format=auto"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-08-06T23:58:00+00:00"
+    },
+    {
+      "id": "c9bdb0575a513bcc",
+      "title": "A Film Enthusiast Gave Her Brooklyn Bathroom a Theater-Inspired Redo",
+      "summary": "When moving into a new space, it’s normal to discover unique (or even strange!) things abandoned by the previous occupants. Whether that’s items left behind during the move, or unusual design choices that you now have to figure out what to do with — it’s always an interesting adventure people face. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/london-film-inspired-bathroom-ba-37684499?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/rosie-d/before-after/rosie-d-bathroom-before-tag",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/rosie-d/before-after/rosie-d-bathroom-before-tag"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-06T22:00:00+00:00"
+    },
+    {
+      "id": "a4a52a70d3b9f33a",
+      "title": "Tan France shares the personal inspiration behind his first-ever furniture collection",
+      "summary": "The Queer Eye star has given his interiors the 'French Tuck' treatment The post Tan France shares the personal inspiration behind his first-ever furniture collection appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/shopping/tan-france-castlery-collection/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/castlery-x-tan-france-6a72b44595723.png?format=auto&v=1785902726",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/castlery-x-tan-france-6a72b44595723.png?format=auto&v=1785902726",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/castlery-x-tan-france-6a72b44595723.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-airbnbs-new-south-wales-6a741fe69760d.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-08-06t151015.893-6a741741b6207.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/best-blue-mountains-accommodation-69a8c0872a332.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/castlery-x-tan-france_dec-2025_15_final_w1920-6a73cb2ab773b.jpg?w=2304"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-08-06T21:00:00+00:00"
+    },
+    {
+      "id": "9f46f2fff1e32e11",
+      "title": "How To Clean An Attached Showerhead Without Vinegar",
+      "summary": "If you don't have vinegar in the house, these simple substitutes will get your showerheads clean in no time flat. You probably have them in your kitchen today.",
+      "url": "https://www.hunker.com/2230865/how-to-clean-showerhead-without-vinegar/",
+      "image": "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/l-intro-1785977810.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/l-intro-1785977810.jpg",
+        "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/intro-1785977810.jpg",
+        "https://www.hunker.com/img/gallery/how-to-clean-showerhead-without-vinegar/using-lemon-juice-or-baking-soda-for-a-clean-showerhead-1785977811.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-06T21:00:00+00:00"
+    },
+    {
+      "id": "13cb57cc125c8fd8",
+      "title": "Francesco Guccini ha disegnato l’Italia meglio di molti architetti",
+      "summary": "Portici, stazioni, trattorie e cucine: le sue canzoni hanno progettato luoghi della memoria e della relazione. Molto prima dei \"third places\" di Jan Gehl The post Francesco Guccini ha disegnato l’Italia meglio di molti architetti appeared first on Interni Magazine .",
+      "url": "https://www.internimagazine.it/news/francesco-guccini-ha-disegnato-litalia-meglio-di-molti-architetti/",
+      "image": "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
+      "images": [
+        "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
+        "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
+      ],
+      "source": "Interni magazine",
+      "source_url": "https://www.internimagazine.it",
+      "published": "2026-08-06T20:31:48+00:00"
+    },
+    {
+      "id": "54238728658a0386",
+      "title": "NT3HP: A Softer Take on Minimalist Apartment Living",
+      "summary": "NT3HP is an apartment in Kyiv, Ukraine, designed by Igor Sirotov in 2026, where a restrained palette takes minimalism in a softer, more tactile direction. Its open-plan living area, pale wood cabinetry, and integrated lighting keep the interior visually calm, while rounded furniture, generous windows, and built-in elements give the residence an inhabited character without […] The post NT3HP: A Softer Take on Minimalist Apartment Living first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/08/06/nt3hp-a-softer-take-on-minimalist-apartment-living/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/08/004-nt3hp-a-softer-take-on-minimalist-apartment-living.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/08/004-nt3hp-a-softer-take-on-minimalist-apartment-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/011-nt3hp-a-softer-take-on-minimalist-apartment-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/014-nt3hp-a-softer-take-on-minimalist-apartment-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/004-nt3hp-a-softer-take-on-minimalist-apartment-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/006-nt3hp-a-softer-take-on-minimalist-apartment-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/008-nt3hp-a-softer-take-on-minimalist-apartment-living.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-08-06T18:01:05+00:00"
+    },
+    {
+      "id": "5e5b3879be81e7d0",
+      "title": "Easily Turn Old Plates From The Thrift Store Into The Cutest Hanging Storage",
+      "summary": "Embrace cottagecore by combining the quaint patterns of thrifted plates with cute kitchen items in need of storage. All it takes are a few basic supplies.",
+      "url": "https://www.hunker.com/2223794/easily-turn-thrift-store-plates-into-hanging-storage/",
+      "image": "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/l-intro-1785147470.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/l-intro-1785147470.jpg",
+        "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/intro-1785147470.jpg",
+        "https://www.hunker.com/img/gallery/easily-turn-old-plates-from-the-thrift-store-into-the-cutest-hanging-storage/diy-plate-and-knob-wall-hangers-1785147472.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-06T18:00:00+00:00"
+    },
+    {
+      "id": "bac383a0a2f2b874",
+      "title": "Casa di Santa Recasts a Corsican House for Outdoor Living",
+      "summary": "Casa di Santa is a house in Aléria, France, reworked by Isabelle Berthet Bondet through a careful rehabilitation and vertical extension. Combining stone and wood with broad pergolas, glazed openings, and a pool house, the 2020 project opens the existing structure to the Corsican landscape. Together, timber decks, shaded outdoor rooms, and views across olive […] The post Casa di Santa Recasts a Corsican House for Outdoor Living first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/08/06/casa-di-santa-recasts-a-corsican-house-for-outdoor-living/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/08/001-casa-di-santa-recasts-a-corsican-house-for-outdoor-living.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/08/001-casa-di-santa-recasts-a-corsican-house-for-outdoor-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/001-casa-di-santa-recasts-a-corsican-house-for-outdoor-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/002-casa-di-santa-recasts-a-corsican-house-for-outdoor-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/003-casa-di-santa-recasts-a-corsican-house-for-outdoor-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/004-casa-di-santa-recasts-a-corsican-house-for-outdoor-living.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/005-casa-di-santa-recasts-a-corsican-house-for-outdoor-living.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-08-06T16:01:05+00:00"
+    },
+    {
+      "id": "7c6b028d48ab3e24",
+      "title": "three conical timber roofs crown open community cabin in south london",
+      "summary": "the flexible vaulted interior accommodates workshops, meetings, and community events. The post three conical timber roofs crown open community cabin in south london appeared first on designboom | architecture & design magazine .",
       "url": "https://www.designboom.com/architecture/three-conical-timber-roofs-open-community-cabin-south-london-burgess-architects/",
       "image": "https://www.designboom.com/wp-content/uploads/2026/08/burgess-architects-feltham-green-cabin-london-designboom-700-500x400-22b08q85r288.jpg",
       "images": [
@@ -208,6 +341,21 @@
       "published": "2026-08-06T14:00:00+00:00"
     },
     {
+      "id": "ee361d64790fd05f",
+      "title": "Upcycle Old Plant Saucers To Keep Your Bathroom Floors Clean",
+      "summary": "Upcycle old plant saucers with this neat DIY storage trick that keeps closet and bathroom floors clean. It's an easy step to keep water rings off the floor.",
+      "url": "https://www.hunker.com/2228969/upcycle-old-plant-saucer-toilet-plunger-holder-keep-floors-clean/",
+      "image": "https://www.hunker.com/img/gallery/upcycle-old-plant-saucer-toilet-plunger-holder-keep-floors-clean/l-intro-1785832699.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/upcycle-old-plant-saucer-toilet-plunger-holder-keep-floors-clean/l-intro-1785832699.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-old-plant-saucer-toilet-plunger-holder-keep-floors-clean/intro-1785832699.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-old-plant-saucer-toilet-plunger-holder-keep-floors-clean/how-to-upcycle-your-own-saucer-into-toilet-plunger-holder-1785832701.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-06T14:00:00+00:00"
+    },
+    {
       "id": "9ab19de19a7f6efb",
       "title": "One item in almost every kitchen is quietly putting bacteria in your food: you use it every day",
       "summary": "You wash your hands. You keep raw meat away from your veggies. You even clean your sponge every few days because you saw a TikTok about it. By any normal standard, your kitchen is clean. And yet food safety researchers keep pointing at the same quiet spot on your counter and saying, that’s where the […] The post One item in almost every kitchen is quietly putting bacteria in your food: you use it every day appeared first on Trendir .",
@@ -257,21 +405,6 @@
       "published": "2026-08-06T12:48:23+00:00"
     },
     {
-      "id": "572aff806660c504",
-      "title": "Ditch Shelves: The Vintage Find That Makes Storing Toilet Paper Way Cuter",
-      "summary": "Once a home essential, you may think this vintage item is obsolete now. Well, think again because its dimensions are perfect for toilet paper storage.",
-      "url": "https://www.hunker.com/2213391/ditch-shelves-vintage-bucket-storing-toilet-paper/",
-      "image": "https://www.hunker.com/img/gallery/ditch-shelves-the-vintage-find-that-makes-storing-toilet-paper-way-cuter/l-intro-1783946891.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ditch-shelves-the-vintage-find-that-makes-storing-toilet-paper-way-cuter/l-intro-1783946891.jpg",
-        "https://www.hunker.com/img/gallery/ditch-shelves-the-vintage-find-that-makes-storing-toilet-paper-way-cuter/intro-1783946891.jpg",
-        "https://www.hunker.com/img/gallery/ditch-shelves-the-vintage-find-that-makes-storing-toilet-paper-way-cuter/using-a-vintage-bucket-to-store-your-extra-toilet-paper-1783946893.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-06T12:00:00+00:00"
-    },
-    {
       "id": "75685053d58cc93e",
       "title": "One Renter-Friendly DIY Made This Kitchen So Warm and Inviting for $150",
       "summary": "While living in Germany a few years ago, Morgan Ford, who’s known for being “sunshine personified” among friends, experienced countless gray skies and gloomy days.So when she moved into her new Colorado rental apartment and wanted to update the kitchen, she vowed to design it to cultivate creativity and good vibes all year round.Luckily, the space was already in decent shape. “The kitchen wasn’t bad, but it also wasn’t very inspiring,” Morgan says. READ MORE...",
@@ -282,6 +415,19 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-06T12:00:00+00:00"
+    },
+    {
+      "id": "572aff806660c504",
+      "title": "Ditch Shelves: The Vintage Find That Makes Storing Toilet Paper Way Cuter",
+      "summary": "Once a home essential, you may think this vintage item is obsolete now. Well, think again because its dimensions are perfect for toilet paper storage.",
+      "url": "https://www.hunker.com/2213391/ditch-shelves-vintage-bucket-storing-toilet-paper/",
+      "image": "https://www.hunker.com/img/gallery/ditch-shelves-the-vintage-find-that-makes-storing-toilet-paper-way-cuter/l-intro-1783946891.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-shelves-the-vintage-find-that-makes-storing-toilet-paper-way-cuter/l-intro-1783946891.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
       "published": "2026-08-06T12:00:00+00:00"
     },
     {
@@ -332,19 +478,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-06T10:30:17+00:00"
-    },
-    {
-      "id": "83387326d5b47338",
-      "title": "The $33 Box That Locks Your Phone and Judges You for Opening It Early",
-      "summary": "The $33 Box That Locks Your Phone and Judges You for Opening It Early Screen time management has spawned an entire industry of apps, built-in focus modes, notification filters, and weekly usage reports that most people glance at and...",
-      "url": "https://www.yankodesign.com/2026/08/06/the-33-box-that-locks-your-phone-and-judges-you-for-opening-it-early/?utm_source=rss&utm_medium=rss&utm_campaign=the-33-box-that-locks-your-phone-and-judges-you-for-opening-it-early",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/the-33-box-that-locks-your-phone-and-judges-you-for-opening-it-early/sonic-digitox-smartphone-time-lock-case-04.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/the-33-box-that-locks-your-phone-and-judges-you-for-opening-it-early/sonic-digitox-smartphone-time-lock-case-04.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-06T10:07:05+00:00"
     },
     {
       "id": "e754146b28a33c65",
@@ -424,9 +557,7 @@
       "url": "https://www.hunker.com/2225280/skip-paint-diy-elegant-coffee-table-black-marble-contact-paper-amazon-find/",
       "image": "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/l-intro-1785258503.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/l-intro-1785258503.jpg",
-        "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/intro-1785258503.jpg",
-        "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/how-to-wrap-a-table-in-glamorous-contact-paper-1785258505.jpg"
+        "https://www.hunker.com/img/gallery/skip-paint-diy-an-elegant-coffee-table-with-a-budget-friendly-amazon-find/l-intro-1785258503.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -501,9 +632,7 @@
       "url": "https://www.hunker.com/2228328/upcycle-an-old-hutch-laundry-room-storage/",
       "image": "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/l-intro-1785532485.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/l-intro-1785532485.jpg",
-        "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/intro-1785532485.jpg",
-        "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/hang-a-hutch-top-in-your-laundry-room-1785532488.jpg"
+        "https://www.hunker.com/img/gallery/transform-an-old-hutch-into-charming-laundry-room-storage/l-intro-1785532485.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -521,6 +650,19 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-05T15:20:18+00:00"
+    },
+    {
+      "id": "82ff11206d3596e1",
+      "title": "digitally fabricated plywood pavilion creates shaded curved refuge in chihuahua",
+      "summary": "the intervention was developed as a student project at the instituto superior de arquitectura y diseño (ISAD). The post digitally fabricated plywood pavilion creates shaded curved refuge in chihuahua appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/digitally-fabricated-plywood-pavilion-shaded-curved-refuge-chihuahua-instituto-superior-arquitectura-diseno-isad-paso-nara/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/08/student-instituto-superior-arquitectura-diseno-isad-paso-nara-temporary-pavilion-chihuahua-mexico-designboom-700-500x400-22b08q85r343.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/08/student-instituto-superior-arquitectura-diseno-isad-paso-nara-temporary-pavilion-chihuahua-mexico-designboom-700-500x400-22b08q85r343.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-08-05T14:35:16+00:00"
     },
     {
       "id": "45db4427d599a34c",
@@ -542,12 +684,7 @@
       "url": "https://homeadore.com/2026/08/05/perma-turns-excavated-stone-into-island-architecture/",
       "image": "https://homeadore.com/wp-content/uploads/2026/08/001-perma-turns-excavated-stone-into-island-architecture.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/08/001-perma-turns-excavated-stone-into-island-architecture.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/002-perma-turns-excavated-stone-into-island-architecture.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/003-perma-turns-excavated-stone-into-island-architecture.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/005-perma-turns-excavated-stone-into-island-architecture.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/006-perma-turns-excavated-stone-into-island-architecture.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/007-perma-turns-excavated-stone-into-island-architecture.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/08/001-perma-turns-excavated-stone-into-island-architecture.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -565,45 +702,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-05T12:58:02+00:00"
-    },
-    {
-      "id": "c561fcfd4dc902b5",
-      "title": "See How We Used Our New 3D Design Tool to Create a Chill, Classic Dorm Room",
-      "summary": "Every dorm room starts out the same. The magic happens when you infuse this home away from home with your unique style. Whether your vision board is full of preppy plaids or eclectic color combos, now’s your chance to design the dorm that only you can.Walmart can help make your back-to-campus dreams come true with decor, furniture, and bedding that turns your dorm into a style sanctuary — whatever look that means for you. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/see-how-we-used-our-new-3d-design-tool-to-create-a-chill-classic-dorm-room-37684318?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/walmart/walmart-btc/supplied/walmart-btc-18",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/walmart/walmart-btc/supplied/walmart-btc-18"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-05T12:00:00+00:00"
-    },
-    {
-      "id": "a76b49fb96ea06f3",
-      "title": "See How We Used Our New 3D Design Tool to Create This Soft Girl Dorm Room",
-      "summary": "Shopping for your college dorm room is a little like building flat-pack furniture without the instructions: You sorta know how it’s all going to fit together, but it’s hard to be sure. And when you’re creating your very own home away from home, you want to get it right.Whether you love cottagecore or go all in on maximalism, Walmart has the furnishings, decor, and eye-catching extras to make your dorm feel truly yours. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/see-how-we-used-our-new-3d-design-tool-to-create-this-soft-girl-dorm-room-37684314?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/walmart/walmart-btc/supplied/walmart-btc-20",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/walmart/walmart-btc/supplied/walmart-btc-20"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-05T12:00:00+00:00"
-    },
-    {
-      "id": "b3db88a576a4c1bc",
-      "title": "An Unfinished Basement Is Now an Inviting Suite with a Tiny IKEA Kitchen",
-      "summary": "When Shardé Marchewski and her husband, Jens, moved into their 1885 Boston home four years ago, the basement was unfinished. And not just incomplete but like a scene out of a scary movie.Luckily, the couple had a vision — as all creatives tend to: a gorgeous in-law suite complete with a fully functional kitchen. (The kitchen, arguably, ended up being the star of the project.) “We wanted the kitchen to feel timeless, striking, and functional. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/basement-in-law-suite-ba-37683666?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/february/sharde-m/before-after/sharde-m-kitchen-before-lead",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/february/sharde-m/before-after/sharde-m-kitchen-before-lead"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-05T12:00:00+00:00"
     },
     {
       "id": "b64c3b41feed36da",
@@ -653,7 +751,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-05T08:00:56+00:00"
     },
@@ -684,19 +782,6 @@
       "published": "2026-08-05T08:00:44+00:00"
     },
     {
-      "id": "1638ad2816b083d2",
-      "title": "Consumer Reports' Top-Rated Blackout Curtain Knocks IKEA Down A Peg",
-      "summary": "Blackout curtains are ideal for darkening a bedroom or keeping a living room cooler. And according to Consumer Reports, this is the most effective pick.",
-      "url": "https://www.hunker.com/2229170/best-rated-blackout-curtain-consumer-reports-gracie-oaks-not-ikea/",
-      "image": "https://www.hunker.com/img/gallery/best-rated-blackout-curtain-consumer-reports-gracie-oaks-not-ikea/l-intro-1785787621.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/best-rated-blackout-curtain-consumer-reports-gracie-oaks-not-ikea/l-intro-1785787621.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-05T02:00:00+00:00"
-    },
-    {
       "id": "2665d0da8be3e5ff",
       "title": "The Echo Chair Makes 3D Printing Feel Refined",
       "summary": "The Echo Chair Makes 3D Printing Feel Refined ZHA has collaborated with Spanish design brand Nagami to create the Echo Chair, a 3D-printed seat made from recycled plastic waste. Formerly known as Zaha...",
@@ -706,26 +791,13 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/11/someone-built-an-ergonomic-guitar-pick/leap_ergonomic_guitar_pick_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/08/top-10-back-to-school-stationery/top_10_stationery_designs_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/12/minimalist-portable-cd-player-visualizes-your-music-in-a-unique-way/enjoy_music_anywhere_with_this_wall-mountable_CD_player_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/11/auto-draft/uno_f1_card_game_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/11/15/autonomo_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/08/draft/sportes_log_grill_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-04T22:30:48+00:00"
-    },
-    {
-      "id": "72c11010ac3b23dc",
-      "title": "A Pair of Underwear Inspired This Bedroom’s Color-Drenched Redo",
-      "summary": "Inspiration can strike from almost anywhere — and that includes your undergarments drawer. In the case of Vickiann Vachula’s primary bedroom redo, a pair of soft-colored underwear was a close shade to what she had envisioned and helped inspire the room’s eventual color palette. Vickiann is the creator of My Crappy House, a blog that documents gradual renovations and DIY projects of her home. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/seven-day-moody-diy-bedroom-redo-ba-37684250?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-08/vickiann-v-bedroom/vickiann-v-bedroom-before-lead",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-08/vickiann-v-bedroom/vickiann-v-bedroom-before-lead"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-04T22:00:00+00:00"
     },
     {
       "id": "5ecb66a1c31e7027",
@@ -734,12 +806,7 @@
       "url": "https://homeadore.com/2026/08/04/house-near-warsaw-by-saan-architekci/",
       "image": "https://homeadore.com/wp-content/uploads/2026/08/001-house-near-warsaw-by-saan-architekci.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/08/001-house-near-warsaw-by-saan-architekci.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/004-house-near-warsaw-by-saan-architekci.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/005-house-near-warsaw-by-saan-architekci.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/006-house-near-warsaw-by-saan-architekci.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/008-house-near-warsaw-by-saan-architekci.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/002-house-near-warsaw-by-saan-architekci.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/08/001-house-near-warsaw-by-saan-architekci.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -876,7 +943,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/dynaudio-norm-architects-karimoku-copenhagen_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-04T08:00:05+00:00"
     },
@@ -903,9 +970,9 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/best-sofa-beds-australia-2-6a717b0da76a3.png?format=auto&v=1785821992",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2021/01/19/1611019398208_freedom-barrett.jpg?w=2949",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/best-sofa-beds-australia-2-6a717b0da76a3.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/castlery-x-tan-france-6a72b44595723.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-airbnbs-new-south-wales-6a741fe69760d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-08-06t151015.893-6a741741b6207.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/best-blue-mountains-accommodation-69a8c0872a332.jpg?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-08-06t151015.893-6a741741b6207.png?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -918,12 +985,7 @@
       "url": "https://www.homestolove.com.au/rooms/kitchen-appliance-storage-cupboard-butlers-pantry/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-04t121821.565-6a714bff29c6d.png?format=auto&v=1785809948",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-04t121821.565-6a714bff29c6d.png?format=auto&v=1785809948",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-04t121821.565-6a714bff29c6d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/12/studio-noakes-arabescato-marble-classic-white-kitchen--69cb188188423.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-airbnbs-new-south-wales-6a741fe69760d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-08-06t151015.893-6a741741b6207.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/best-blue-mountains-accommodation-69a8c0872a332.jpg?w=2730&format=auto"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-04t121821.565-6a714bff29c6d.png?format=auto&v=1785809948"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1019,9 +1081,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/this-office-chairs-5-side-to-side-tilt-is-designed-to-support-your-posture-and-bodys-natural-movement/01-5degree_tilt_250design_swivel-office-chair.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/this-slim-wall-cabinet-opens-into-a-sleek-modern-functional-workspace/1-vorstand_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/cinco-x-cinco/cinco_x_cinco_furniture_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/04/low-wall-turns-a-simple-side-table-into-a-bookshelf/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/01/21/element_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/02/modular-furniture-that-transforms-and-adapts-to-flexible-and-functional-living-spaces/Cabinet_modular_furniture_03.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1119,9 +1181,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1152,12 +1214,7 @@
       "url": "https://www.homestolove.com.au/lifestyle/elvis-et-moi-jewellery/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/elvis-et-moi-newtown-2-6a700f2d554f3.png?format=auto&v=1785728830",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/elvis-et-moi-newtown-2-6a700f2d554f3.png?format=auto&v=1785728830",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/elvis-et-moi-newtown-2-6a700f2d554f3.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/best-airbnbs-new-south-wales-6a741fe69760d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/copy-of-site-feature-horizontal-1920-x-1080-2026-08-06t151015.893-6a741741b6207.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/best-blue-mountains-accommodation-69a8c0872a332.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/grace-flynn-content-producer.jpg?w=2048&format=auto"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/elvis-et-moi-newtown-2-6a700f2d554f3.png?format=auto&v=1785728830"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1307,10 +1364,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/03/angled-console-table-diy.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/11/DIY-Waterfall-Desk-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -1480,11 +1537,7 @@
       "url": "https://www.internimagazine.it/annual-2023/annual-cucina-2026/doimocucine-annual-cucina-2026/",
       "image": "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true",
       "images": [
-        "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/3-DoimoCucine_composizione-Rima_collezione-Impronta_set_03.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/2-DOIMO-CUCINE-768x525.jpg?imbypass=true"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1692,9 +1745,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/3d-printed-chair-concept-lets-you-mark-your-place-in-your-book/verse-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/10/11/allspark01.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/08/e3e4/e3_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/10/this-stackable-sake-set-hides-in-plain-sight/non-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/12/brush_hanger_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/05/14/true_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1936,9 +1989,9 @@
       "title": "Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion",
       "summary": "Actor and woodshop proprietor Nick Offerman shares sawdust-laden musings on craftsmanship, creativity and biting off more than he can chew. The post Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/nick-offerman-woodworking-interview/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=700%2C1024",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=700%2C1024"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -1949,9 +2002,9 @@
       "title": "Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces",
       "summary": "Follow along with woodworker and custom furniture maker Lee Buchanan as she tackles a unique Murphy bed makeover. The post Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/lee-buchanan-murphy-bed-build/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=700%2C1024",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=700%2C1024"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -1962,9 +2015,9 @@
       "title": "Check Out the 75-Year-Old Family Handyman Project That Inspired Our Plywood Challenge",
       "summary": "Inspired by our first issue, we challenged our editors and readers alike to make something amazing from this timeless staple. The post Check Out the 75-Year-Old Family Handyman Project That Inspired Our Plywood Challenge appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/plywood-challenge-inspiration-project/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=700%2C1024",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=700%2C1024"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2231,19 +2284,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-21T21:00:00+00:00"
-    },
-    {
-      "id": "0d6ebd8f86a4aff7",
-      "title": "I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned",
-      "summary": "From wooden spatulas to cast iron pans, here’s what went right, and where I failed. The post I Ditched All Plastic in My Kitchen for Less Than $200 — Here’s What I Learned appeared first on Family Handyman .",
-      "url": "https://www.familyhandyman.com/article/no-plastic-kitchen-lessons/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_Plastic-in-my-Kitchen-for-Less-than_Karuna-Eberl_01_SSedit.jpg?fit=700%2C1024",
-      "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/FHMD26_Plastic-in-my-Kitchen-for-Less-than_Karuna-Eberl_01_SSedit.jpg?fit=700%2C1024"
-      ],
-      "source": "Family Handyman",
-      "source_url": "https://www.familyhandyman.com",
-      "published": "2026-07-21T15:22:55+00:00"
     },
     {
       "id": "570274011b15385d",
@@ -3235,11 +3275,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/05/DIY-Patio-Chair.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2024/03/Malm-Dresser-How-to.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
