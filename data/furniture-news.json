@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-07T09:11:52.721504+00:00",
-  "generated_at_human": "2026-08-07 09:11 UTC",
-  "total_items": 239,
+  "generated_at": "2026-08-07T11:03:48.537161+00:00",
+  "generated_at_human": "2026-08-07 11:03 UTC",
+  "total_items": 247,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -38,6 +39,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -45,21 +47,21 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
-    "Sleeper magazine",
     "Stylepark DE",
     "Trendir",
     "Trendir furniture",
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
-  "multi_photo_items": 59,
+  "sources_count": 54,
+  "multi_photo_items": 57,
   "items": [
     {
       "id": "c8b066e6d7056998",
@@ -106,9 +108,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=62744",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=71424",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=41386"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=85775",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=73214",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=17490"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -128,6 +130,81 @@
       "published": ""
     },
     {
+      "id": "61976504e85318b9",
+      "title": "Kuryłowicz + Architects designs Antarctic research station as \"home at the end of the world\"",
+      "summary": "Architecture studio Kuryłowicz + Architects has revealed photos of the timber Arctowski Station nearing completion on King George Island in Antarctica. Currently under construction, the three-pronged research station has a prefabricated timber structure clad in insulated golden panels. Kuryłowicz + Architects designed the base to be a home away from home for the 28 researchers The post Kuryłowicz + Architects designs Antarctic research station as \"home at the end of the world\" appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/07/antarctic-arctowski-station-kurylowicz-architects/",
+      "image": "http://static.dezeen.com/uploads/2026/08/polish-antarctic-research-station-kurylowicz-architects_dezeen_2364_sq_2261.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/polish-antarctic-research-station-kurylowicz-architects_dezeen_2364_sq_2261.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-07T10:30:13+00:00"
+    },
+    {
+      "id": "7a6147650de15046",
+      "title": "What’s Johanna up to this week?",
+      "summary": "Johanna and Pete have discovered one GIANT piece of paradise…and when it comes to dream homes, it ticks every box. They’re checking out a 16-acre estate nestled in the lush landscape of Tamborine Mountain, just an hour’s drive from Brisbane and 30-minutes from the Gold Coast. This architecturally designed modern home has five bedrooms, three […] The post What’s Johanna up to this week? appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/tv/meet-the-team/whats-joh-got-up-to-this-week/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/media/33754/johannagriggs-2.jpg?format=auto&v=1720398331",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/media/33754/johannagriggs-2.jpg?format=auto&v=1720398331"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-07T10:09:00+00:00"
+    },
+    {
+      "id": "f9b4830e5d4f28f4",
+      "title": "What’s Johanna up to this week?",
+      "summary": "Johanna and Pete have discovered one GIANT piece of paradise…and when it comes to dream homes, it ticks every box. They’re checking out a 16-acre estate nestled in the lush landscape of Tamborine Mountain, just an hour’s drive from Brisbane and 30-minutes from the Gold Coast. This architecturally designed modern home has five bedrooms, three […] The post What’s Johanna up to this week? appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/tv/meet-the-team/whats-johanna-up-to-this-week/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/media/33754/johannagriggs-2.jpg?format=auto&v=1720398331",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/media/33754/johannagriggs-2.jpg?format=auto&v=1720398331"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-07T10:09:00+00:00"
+    },
+    {
+      "id": "8763d1fd0292c12e",
+      "title": "Fonte Meravigliosa 3 by Archifacturing",
+      "summary": "Fonte Meravigliosa 3 is a Rome apartment by Archifacturing that places a richly veined green marble peninsula at the center of its open living space. Around it, warm wood cabinetry, pale herringbone flooring, and a restrained set of custom furnishings establish a calm base for stronger color: a dusty rose wall, blue accents in the […] The post Fonte Meravigliosa 3 by Archifacturing first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/08/07/fonte-meravigliosa-3-by-archifacturing/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/08/001-fonte-meravigliosa-3-by-archifacturing.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/08/001-fonte-meravigliosa-3-by-archifacturing.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/008-fonte-meravigliosa-3-by-archifacturing.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/001-fonte-meravigliosa-3-by-archifacturing.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/003-fonte-meravigliosa-3-by-archifacturing.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/004-fonte-meravigliosa-3-by-archifacturing.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/006-fonte-meravigliosa-3-by-archifacturing.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-08-07T10:05:07+00:00"
+    },
+    {
+      "id": "05ccc09239078621",
+      "title": "This 1990s Kitchen Looks Completely Different Without Changing the Layout",
+      "summary": "The old kitchen had a layout that already worked, so the remodel left it alone. Instead, the dated orange backsplash, brown granite, and worn off-white cabinets were replaced while the island, hardwood floors, appliances, and major work zones stayed in place. White upper cabinets now sit above wood lowers, with marble-look quartz replacing both the... The post This 1990s Kitchen Looks Completely Different Without Changing the Layout appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-1990s-kitchen-looks-completely-different-without-changing-the-layout/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Slim-Shaker-Doors-Changed-the-Wood-Cabinet-Detail.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Brushed-satin-nickel-pulls.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-New-Sink-Added-a-Work-Surface-of-Its-Own.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Glass-Cabinets-Remained-Part-of-the-Sink-Wall.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-07T09:31:05+00:00"
+    },
+    {
       "id": "2457271a4aa07097",
       "title": "Skip Traditional Garden Paths and Mix Stone, Gravel, Grass, and Wood Along the Way",
       "summary": "A paved walkway can get you across a yard, but one continuous surface is not the only way to connect different parts of a garden. Stone slabs, gravel, brick, timber, grass, and planted gaps can create a route while becoming part of the landscape around it. These gardens use concrete paths between ferns, bricks beside... The post Skip Traditional Garden Paths and Mix Stone, Gravel, Grass, and Wood Along the Way appeared first on Homedit .",
@@ -136,8 +213,8 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Skip-Traditional-Garden-Paths-and-Mix-Stone-Gravel-Grass-and-Wood-Along-the-Way.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Rectangular-Stepping-Stones-Keep-Grass-Between-Each-Step.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-His-Front-Lawn-and-Rebuilt-It-With-Gravel-Paths-and-Garden-Beds.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Design-Is-Borrowing-More-From-Living-Rooms-Than-Ever.jpg"
       ],
@@ -154,9 +231,9 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Island-Feels-Like-Furniture-at-the-Center-of-the-Room.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Wood-Nor-Steel-Furniture-That-Almost-Disappears-Is-Catching-On.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Display-Shelves-Hold-More-Than-Kitchen-Essentials.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Wallpaper-Gives-the-Kitchen-the-Same-Treatment-as-the-Living-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-His-Front-Lawn-and-Rebuilt-It-With-Gravel-Paths-and-Garden-Beds.jpg"
       ],
       "source": "Homedit",
@@ -444,12 +521,7 @@
       "url": "https://www.homedit.com/not-wood-nor-steel-furniture-that-almost-disappears-is-catching-on/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Rounded-Acrylic-Dining-Chairs-Replace-Visual-Weight.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Rounded-Acrylic-Dining-Chairs-Replace-Visual-Weight.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Curved-Frames-Bring-Softer-Lines.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Foldable-Tables-Carry-the-Same-Invisible-Look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-His-Front-Lawn-and-Rebuilt-It-With-Gravel-Paths-and-Garden-Beds.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Skip-Traditional-Garden-Paths-and-Mix-Stone-Gravel-Grass-and-Wood-Along-the-Way.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Rounded-Acrylic-Dining-Chairs-Replace-Visual-Weight.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -655,12 +727,7 @@
       "url": "https://homeadore.com/2026/08/05/casa-archi-colori-a-playful-milan-apartment/",
       "image": "https://homeadore.com/wp-content/uploads/2026/08/001-casa-archi-colori-a-playful-milan-apartment.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/08/001-casa-archi-colori-a-playful-milan-apartment.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/010-casa-archi-colori-a-playful-milan-apartment.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/003-casa-archi-colori-a-playful-milan-apartment.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/009-casa-archi-colori-a-playful-milan-apartment.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/005-casa-archi-colori-a-playful-milan-apartment.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/013-casa-archi-colori-a-playful-milan-apartment.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/08/001-casa-archi-colori-a-playful-milan-apartment.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -784,7 +851,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-05T08:00:56+00:00"
     },
@@ -824,9 +891,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/01/auto-draft/01-UVClean_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/tecno-phantom-v-fold-foldable-phone-review-when-the-price-is-right/tecno-phantom-v-fold-5.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/05/21/iglow_cageb_bottle_holder_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/10/flashlight-design-concept-reframes-an-ordinary-tool-as-a-familiar-smartphone/whitt-flashlight-smartphone-concept-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/11/this-futuristic-sportswear-collection-strategically-distributes-weight-on-its-products-to-make-you-fitter-faster-and-stronger/Gravity_wear_fitness_futuristic_workout_clothes_wakanda-8.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/04/24/fredrik.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -950,7 +1017,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/dynaudio-norm-architects-karimoku-copenhagen_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-04T08:00:05+00:00"
     },
@@ -1043,6 +1110,19 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
+    },
+    {
       "id": "b394ac9ab67d574a",
       "title": "The Furniture Trend of the Season? Crisp Outlines",
       "summary": "Fashion has long embraced contrast piping, and now interiors are following suit. Here's how to bring the look home.",
@@ -1083,9 +1163,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/cosi-laptop-table-brings-a-fully-adjustable-work-surface-to-any-chair/teknion-cosi-laptop-table-10.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/under-pressure-solutions/under_pressure_solutions_yanko_design_06.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/coffee-table/coffee_table_cat_table_pets_03.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/10/17/stuck_chair_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/12/axis_lounger_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/01/auto-draft/oo_stool_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1245,7 +1325,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -1336,10 +1416,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/03/angled-console-table-diy.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/11/DIY-Waterfall-Desk-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -1442,23 +1522,6 @@
       "published": "2026-07-31T12:36:59+00:00"
     },
     {
-      "id": "f182c9ad3d97475e",
-      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
-      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-31T12:11:26+00:00"
-    },
-    {
       "id": "67a8a7b7427d13df",
       "title": "Small Living Rooms Are Hiding Full Beds Behind the Sofa",
       "summary": "Small rooms are starting to hide full-size functions inside furniture that looks like part of the wall. Beds fold down over sofas, mattresses disappear behind cabinet panels, and storage remains accessible as the room changes from living space to sleeping space. What stands out in these designs is how little has to move during the... The post Small Living Rooms Are Hiding Full Beds Behind the Sofa appeared first on Homedit .",
@@ -1532,6 +1595,19 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
+    },
+    {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -1704,9 +1780,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/04/sculptural-organizer-will-bring-order-into-your-creative-chaos/kiir-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/the-glass-chair-that-makes-every-other-chair-look-boring/metal-affaire-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/11/this-reversible-mid-high-bed-concept-can-grow-with-your-child/reversible-mid-high-bed-concept-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/07/pet-furniture-that-integrates-comfortably-in-your-space-and-allows-room-for-more-quality-time/Taipai_pet_collection_15.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/10/these-foldable-modular-wooden-furniture-designs-are-the-space-saving-solution-every-home-needs/Furniture-Designs_folding_transforming-designs-hero2.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/modular-truck-cap-comes-off-in-under-15-minutes-and-hangs-on-a-wall-in-your-garage/ADV_BOX_The_Removable_Truck_Cap_08.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1752,6 +1828,19 @@
       "published": "2026-07-28T05:12:08+00:00"
     },
     {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
+    },
+    {
       "id": "86626b097c480b3f",
       "title": "How to Choose and Care for Teak Outdoor Furniture That Lasts for Decades",
       "summary": "Wood outdoor furniture can quickly become a maintenance headache, but teak can last decades with little upkeep.",
@@ -1768,6 +1857,32 @@
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
       "published": "2026-07-27T18:59:00+00:00"
+    },
+    {
+      "id": "008c74a0d1d1467c",
+      "title": "An American, an Irish Chair, in Germany",
+      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
+      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T13:43:48+00:00"
+    },
+    {
+      "id": "af7c744ad1423fe8",
+      "title": "Kill Wood-boring Insects with Kitchen Appliances",
+      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
+      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T11:37:28+00:00"
     },
     {
       "id": "e93f31d5f55035ec",
@@ -1978,19 +2093,6 @@
       "published": "2026-07-24T08:00:03+00:00"
     },
     {
-      "id": "79356f0e5dd1be9e",
-      "title": "ALDI responds to Steph de Sousa’s sold-out kitchen range",
-      "summary": "Did you miss out? The post ALDI responds to Steph de Sousa’s sold-out kitchen range appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/food/aldi-steph-de-sousa-collection/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/steph-de-sousa-6a62b81b35bad.jpg?format=auto&v=1784854563",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/07/steph-de-sousa-6a62b81b35bad.jpg?format=auto&v=1784854563"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-07-24T01:24:25+00:00"
-    },
-    {
       "id": "7b7f8e6d28abc1e7",
       "title": "Attention: I've Officially Found the Internet's Best Napping Sofa",
       "summary": "Image Source: Popsugar Photography | Taylor Andrews People say the kitchen is the heart of the home, but I'd have to disagree.",
@@ -2105,6 +2207,19 @@
       "published": "2026-07-22T21:00:00+00:00"
     },
     {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
+    },
+    {
       "id": "c641918c090f36dc",
       "title": "Norwegian Wood: Restoring Hotel Sundal, an 1889 Timber Hotel in Western Norway",
       "summary": "In 2018, Caroline Steine and Harald Andreassen left the city to take on an unlikely project: restoring Hotel Sundal, an 1889 timber hotel that had sat empty for years in western Norway’s Hardanger region. Originally built by Erik Gausvik and Anna Eikenes, early pioneers of glacier tourism, the hotel once welcomed European aristocracy, emperors, and […]",
@@ -2199,23 +2314,6 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-07-21T11:40:59+00:00"
-    },
-    {
-      "id": "ef305fbba91dcb87",
-      "title": "Holloway Li channels 1960s glamour at Locke London Canary Wharf",
-      "summary": "Locke London Canary Wharf has opened its doors with Mid-Century interiors by Holloway Li. Drawing from the studio’s characteristic design […] The post Holloway Li channels 1960s glamour at Locke London Canary Wharf appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2025/09/house-of-gods-london-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/02/Locke-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/06/Novotelcw-1-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-3.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-21T08:00:50+00:00"
     },
     {
       "id": "d864e0764a6225da",
@@ -2917,7 +3015,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3165,7 +3263,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3177,11 +3275,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/09/DIY-Desk-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/07/How-to-build-a-nighstand-with-a-drawer.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/04/DIY-Porch-Swing.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
