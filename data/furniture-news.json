@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-08T15:39:16.370624+00:00",
-  "generated_at_human": "2026-08-08 15:39 UTC",
-  "total_items": 254,
+  "generated_at": "2026-08-08T16:47:56.973877+00:00",
+  "generated_at_human": "2026-08-08 16:47 UTC",
+  "total_items": 263,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -17,6 +18,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -36,6 +38,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -50,6 +53,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -57,7 +61,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 51,
+  "sources_count": 55,
   "multi_photo_items": 60,
   "items": [
     {
@@ -68,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=47805",
+        "https://i.archi.ru/i/1262/510881.jpg?r=4195",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -105,9 +109,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=11915",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=9972",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=61716"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=7234",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=67636",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=89135"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -125,6 +129,21 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "fec3dda04aacbcf6",
+      "title": "Man Flips Secondhand Hutch Into A Charming Coffee Bar: 'Can't Believe Your Wife Let You Sell It'",
+      "summary": "In addition to giving an old, outdated hutch a minimalist coffee bar makeover, a clever TikToker was able to sell the piece for an eye-watering amount.",
+      "url": "https://www.hunker.com/2229879/repurpose-hutch-into-charming-coffee-bar-diy/",
+      "image": "https://www.hunker.com/img/gallery/man-flips-secondhand-hutch-into-a-charming-coffee-bar-cant-believe-your-wife-let-you-sell-it/l-intro-1785852308.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/man-flips-secondhand-hutch-into-a-charming-coffee-bar-cant-believe-your-wife-let-you-sell-it/l-intro-1785852308.jpg",
+        "https://www.hunker.com/img/gallery/man-flips-secondhand-hutch-into-a-charming-coffee-bar-cant-believe-your-wife-let-you-sell-it/intro-1785852308.jpg",
+        "https://www.hunker.com/img/gallery/man-flips-secondhand-hutch-into-a-charming-coffee-bar-cant-believe-your-wife-let-you-sell-it/how-to-transform-a-basic-old-hutch-into-a-chic-coffee-bar-1785852309.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-08T16:00:00+00:00"
     },
     {
       "id": "ca25aa94164fdbf0",
@@ -207,6 +226,19 @@
       "published": "2026-08-08T13:00:00+00:00"
     },
     {
+      "id": "ac0bd11829054b57",
+      "title": "LAP Open Wire: Saturday, Aug. 8, 2026",
+      "summary": "Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions and questions about Lost Art Press, our cats, Shakespeare (me), Late 19th/early 20th-century Russian literature (Chris), and we and your fellow readers will do our best to answer. Simply post your questions in the comments...",
+      "url": "https://blog.lostartpress.com/2026/08/08/lap-open-wire-saturday-aug-8-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-08T12:00:00+00:00"
+    },
+    {
       "id": "727e65cbaab01fe6",
       "title": "He Turned One Travertine Slab Into a Bathroom Vanity With a Seamless Stone Pattern",
       "summary": "Most stone bathroom vanities combine separate slabs for the countertop, sink, sides, and cabinet door. This project took a different approach. Shared by Reddit user u/Different-Scratch-95, the entire vanity started as a single slab of Titanium Travertine before careful cutting, mitering, and polishing transformed it into a complete bathroom centerpiece. Even the sink basin came... The post He Turned One Travertine Slab Into a Bathroom Vanity With a Seamless Stone Pattern appeared first on Homedit .",
@@ -262,9 +294,7 @@
       "url": "https://www.hunker.com/2229732/upcycle-old-baseballs-bookends-cabinets-diy/",
       "image": "https://www.hunker.com/img/gallery/upcycle-old-baseballs-into-a-cute-and-functional-diy-for-your-cabinets/l-intro-1785836766.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/upcycle-old-baseballs-into-a-cute-and-functional-diy-for-your-cabinets/l-intro-1785836766.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-baseballs-into-a-cute-and-functional-diy-for-your-cabinets/intro-1785836766.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-baseballs-into-a-cute-and-functional-diy-for-your-cabinets/create-baseball-sculptures-to-prop-up-books-1785836768.jpg"
+        "https://www.hunker.com/img/gallery/upcycle-old-baseballs-into-a-cute-and-functional-diy-for-your-cabinets/l-intro-1785836766.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -281,7 +311,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Branch-Holds-Necklaces-While-the-Saucer-Catches-Smaller-Pieces.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Branch-Slots-Into-the-Rubber-Base.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Kitchen-Had-Three-Different-Countertops-Until-a-15K-DIY-Remodel.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Raised-Corner-Tub-Was-Taking-Up-the-Best-Part-of-the-Bathroom.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Painted-the-Oak-Cabinets-Teal-and-Replaced-a-Broken-Dishwasher-With-Three-Drawers.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Color-Is-Moving-Off-the-Walls-and-Onto-the-Furniture.jpg"
       ],
       "source": "Homedit",
@@ -561,26 +591,13 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-portable-cork-brainstorming-stool-for-literal-lightbulb-moments/bulb-portable-cork-stool-concept-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/12/save/Save3_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/04/unocup-waiting-for-sales-to-clear/10-unocup_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/574248/omnipro_2_titanium_wrench_1.jpeg"
+        "https://www.yankodesign.com/images/design_news/2021/05/this-diy-kit-lets-you-build-your-own-giant-dome-with-bamboo/10-zome_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/01/solar-powered-streetlights-spin-and-move-to-chase-the-sun/sunseeker-solar-lights-9.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/04/ripple-shelfs-wavy-wooden-sides-are-actually-a-tool-free-height-system/ripple-shelf-06.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-07T14:20:54+00:00"
-    },
-    {
-      "id": "ec10729c16e9fac2",
-      "title": "Kitchen Islands Don't Have To Be Boring — The Attractive Alternative To Look For At Thrift Stores",
-      "summary": "Islands are functional, but that doesn't mean they can't be stylish. Thrifting this piece of furniture can give you a low-cost option to elevate your kitchen.",
-      "url": "https://www.hunker.com/2228991/kitchen-island-attractive-alternative-diy-sideboard/",
-      "image": "https://www.hunker.com/img/gallery/kitchen-island-attractive-alternative-diy-sideboard/l-intro-1785932420.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/kitchen-island-attractive-alternative-diy-sideboard/l-intro-1785932420.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-07T14:00:00+00:00"
     },
     {
       "id": "aaf87989ade91332",
@@ -620,6 +637,32 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
+      "id": "b9e697853d048199",
+      "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
+      "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
+      "url": "https://blog.lostartpress.com/2026/08/07/lap-open-wire-tomorrow-sat-aug-8-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-07T12:55:52+00:00"
     },
     {
       "id": "71676d38ccf09966",
@@ -1212,9 +1255,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/this-pelikan-inspired-modular-ebike-flaunts-muscular-body-frame/Pelikan-Modular-ebike-by-Fabian-Brees-5.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/09/lock/lock_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/Bluevua_5-in-1_filter_takes_drinking_water_purity_to_the_next_level_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/10/smart_headboard_with_air_purification_system_eliminates_all_contaminants_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/this-marc-newson-designed-jaeger-lecoultre-clock-tracks-earth-moon-and-seasons-with-cosmic-precision/Jaeger-LeCoultre-Atmos-Hybris-Artistica-Tellurium-Clock-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/04/star-wars-day-reveals-nine-lego-sets-for-may-the-4th-celebrations/LEGO-Star-Wars-May-the-4th-Lineup-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1364,9 +1407,22 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "b394ac9ab67d574a",
@@ -1571,7 +1627,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -1662,10 +1718,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/05/DIY-Patio-Chair.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -1806,6 +1862,19 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
+    },
+    {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2021,6 +2090,45 @@
       "published": "2026-07-28T05:12:08+00:00"
     },
     {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
+    },
+    {
+      "id": "008c74a0d1d1467c",
+      "title": "An American, an Irish Chair, in Germany",
+      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
+      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T13:43:48+00:00"
+    },
+    {
+      "id": "af7c744ad1423fe8",
+      "title": "Kill Wood-boring Insects with Kitchen Appliances",
+      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
+      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T11:37:28+00:00"
+    },
+    {
       "id": "e93f31d5f55035ec",
       "title": "Oltre la libreria: adattarsi agli ambienti e trasformarsi nel tempo",
       "summary": "Techwall di Riflessi: un sistema in continua evoluzione per abitare lo spazio con libertà The post Oltre la libreria: adattarsi agli ambienti e trasformarsi nel tempo appeared first on Interni Magazine .",
@@ -2146,7 +2254,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2341,6 +2449,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c641918c090f36dc",
@@ -3129,7 +3250,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3359,7 +3480,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3371,11 +3492,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/06/40-Outdoor-Coffee-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
