@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-08T02:15:49.768624+00:00",
-  "generated_at_human": "2026-08-08 02:15 UTC",
-  "total_items": 247,
+  "generated_at": "2026-08-08T04:17:39.256084+00:00",
+  "generated_at_human": "2026-08-08 04:17 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -37,7 +37,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -45,6 +44,7 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
+    "Sleeper magazine",
     "Stylepark DE",
     "Trendir",
     "Trendir furniture",
@@ -59,7 +59,7 @@
     "АМДПР"
   ],
   "sources_count": 52,
-  "multi_photo_items": 57,
+  "multi_photo_items": 59,
   "items": [
     {
       "id": "c1adab92d963d4a1",
@@ -69,7 +69,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=3039",
+        "https://i.archi.ru/i/1262/510881.jpg?r=79693",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -106,9 +106,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=62834",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=73029",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=6728"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=60154",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=72866",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=85808"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -316,9 +316,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-portable-cork-brainstorming-stool-for-literal-lightbulb-moments/bulb-portable-cork-stool-concept-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/02/auto-draft/regreen_compost_machine_6.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/Tokyo-2020-Olympics_Carboard_beds_not-anti_sex-6.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/02/15/swing_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/11/this-study-lamp-concept-has-a-simplicity-that-belies-its-sophisticated-design/quelle-lamp-6.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/03/these-4-solar-pavilions-prove-that-public-cooling-can-be-free/cool-retreats-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/03/sitland/sitland_02.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -375,19 +375,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "id": "b9e697853d048199",
-      "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
-      "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
-      "url": "https://blog.lostartpress.com/2026/08/07/lap-open-wire-tomorrow-sat-aug-8-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-07T12:55:52+00:00"
     },
     {
       "id": "71676d38ccf09966",
@@ -1610,6 +1597,23 @@
       "published": "2026-07-31T14:48:10+00:00"
     },
     {
+      "id": "f182c9ad3d97475e",
+      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
+      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-31T12:11:26+00:00"
+    },
+    {
       "id": "67a8a7b7427d13df",
       "title": "Small Living Rooms Are Hiding Full Beds Behind the Sofa",
       "summary": "Small rooms are starting to hide full-size functions inside furniture that looks like part of the wall. Beds fold down over sofas, mattresses disappear behind cabinet panels, and storage remains accessible as the room changes from living space to sleeping space. What stands out in these designs is how little has to move during the... The post Small Living Rooms Are Hiding Full Beds Behind the Sofa appeared first on Homedit .",
@@ -1645,8 +1649,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/qYj9vw1O-1-ERNESTOMEDA_ONE-02_PARTICOLARE-4-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/MfoGDFaY-3-ERNESTOMEDA_ONE-02_PARTICOLARE-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-unnamed-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
+        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg"
       ],
       "source": "Interni magazine",
@@ -1896,32 +1900,6 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-07-28T05:12:08+00:00"
-    },
-    {
-      "id": "008c74a0d1d1467c",
-      "title": "An American, an Irish Chair, in Germany",
-      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
-      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-27T13:43:48+00:00"
-    },
-    {
-      "id": "af7c744ad1423fe8",
-      "title": "Kill Wood-boring Insects with Kitchen Appliances",
-      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
-      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-27T11:37:28+00:00"
     },
     {
       "id": "e93f31d5f55035ec",
@@ -2340,6 +2318,23 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-07-21T11:40:59+00:00"
+    },
+    {
+      "id": "ef305fbba91dcb87",
+      "title": "Holloway Li channels 1960s glamour at Locke London Canary Wharf",
+      "summary": "Locke London Canary Wharf has opened its doors with Mid-Century interiors by Holloway Li. Drawing from the studio’s characteristic design […] The post Holloway Li channels 1960s glamour at Locke London Canary Wharf appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/holloway-li-channels-1960s-glamour-at-locke-london-canary-wharf/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-2.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2025/09/house-of-gods-london-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/02/Locke-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/06/Novotelcw-1-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/Locke-Canary-Wharf-3.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-21T08:00:50+00:00"
     },
     {
       "id": "d864e0764a6225da",
