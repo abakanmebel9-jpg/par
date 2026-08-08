@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-08T05:52:11.348057+00:00",
-  "generated_at_human": "2026-08-08 05:52 UTC",
-  "total_items": 254,
+  "generated_at": "2026-08-08T07:09:01.427971+00:00",
+  "generated_at_human": "2026-08-08 07:09 UTC",
+  "total_items": 256,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -61,7 +61,7 @@
     "АМДПР"
   ],
   "sources_count": 54,
-  "multi_photo_items": 59,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "c1adab92d963d4a1",
@@ -71,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=2533",
+        "https://i.archi.ru/i/1262/510881.jpg?r=23267",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -108,9 +108,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=23328",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=31981",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=78051"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=9773",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=9326",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=92911"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -128,6 +128,54 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "9721e4a07da79fe6",
+      "title": "Bathrooms Are Giving One Fixture the Same Design Attention as the Vanity",
+      "summary": "Bathroom vanities often receive the most attention during a remodel, while the toilet becomes a standard fixture chosen at the end of the project. Recent bathroom designs show that changing. Designers now consider its shape, installation style, finish, and proportions alongside the vanity, tile, and hardware. Wall-mounted models, integrated smart toilets, matte finishes, concealed tanks,... The post Bathrooms Are Giving One Fixture the Same Design Attention as the Vanity appeared first on Homedit .",
+      "url": "https://www.homedit.com/bathrooms-are-giving-one-fixture-the-same-design-attention-as-the-vanity/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Bathrooms-Are-Giving-One-Fixture-the-Same-Design-Attention-as-the-Vanity.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Bathrooms-Are-Giving-One-Fixture-the-Same-Design-Attention-as-the-Vanity.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Metallic-Finishes-Reach-Unexpected-Places.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Integrated-Designs-Remove-Separate-Components.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Matte-Black-Changes-the-Visual-Weight.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Storage-Moves-Above-the-Fixture.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Matching-Materials-Unify-the-Room.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-08T06:04:15+00:00"
+    },
+    {
+      "id": "4e565b2ed8d619ec",
+      "title": "A camera that does it all? Sony’s new RX10 V offers power, speed and a mighty lens",
+      "summary": "The latest iteration of Sony’s big-lensed RX10 combines a massive zoom with functionality across the board",
+      "url": "https://www.wallpaper.com/tech/sony-new-rx10-v-camera",
+      "image": "https://cdn.mos.cms.futurecdn.net/YvMPJk8FGNkhgN8AFJSxWB.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/YvMPJk8FGNkhgN8AFJSxWB.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-08-08T06:03:05+00:00"
+    },
+    {
+      "id": "cd7ad32ac45fc42e",
+      "title": "Biophilia meets Bali at Jia Curated 2026's architectural spotlight show",
+      "summary": "Jia Curated 2026 highlight, 'Architecture at Scale', explores biophilic architecture and its expressions on the island of Bali, Indonesia",
+      "url": "https://www.wallpaper.com/architecture/jia-curated-2026-architecture-at-scale-bali-indonesia",
+      "image": "https://cdn.mos.cms.futurecdn.net/MyP6Qf6a3S3EFuPoMfoZBM.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/MyP6Qf6a3S3EFuPoMfoZBM.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-08-08T06:00:00+00:00"
     },
     {
       "id": "6d38667261c3a4ca",
@@ -548,12 +596,7 @@
       "url": "https://www.homedit.com/this-1990s-kitchen-looks-completely-different-without-changing-the-layout/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Slim-Shaker-Doors-Changed-the-Wood-Cabinet-Detail.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Brushed-satin-nickel-pulls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/The-New-Sink-Added-a-Work-Surface-of-Its-Own.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Glass-Cabinets-Remained-Part-of-the-Sink-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/New-Cabinets-Added-Storage-Without-Expanding-the-Kitchen.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-1990s-Kitchen-Looks-Completely-Different-Without-Changing-the-Layout.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -796,9 +839,7 @@
       "url": "https://www.wallpaper.com/design-interiors/tan-france-home-collection-castlery",
       "image": "https://cdn.mos.cms.futurecdn.net/DiJxhZWYjxnLnZy7BzoGvQ.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/DiJxhZWYjxnLnZy7BzoGvQ.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/DiJxhZWYjxnLnZy7BzoGvQ.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -860,19 +901,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-06T11:33:43+00:00"
-    },
-    {
-      "id": "5bb2106eb79d397e",
-      "title": "Ditch the Builder-Grade Stainless Steel Sink. These Sinks Do More With the Same Counter Space",
-      "summary": "Stainless steel double-bowl sinks became a default in many kitchens because they fit standard cabinets, handle years of use, and work with almost any countertop. The familiar setup still does its job, but sink design has moved far beyond two metal bowls reserved for washing and rinsing. What I’m seeing now is the sink becoming... The post Ditch the Builder-Grade Stainless Steel Sink. These Sinks Do More With the Same Counter Space appeared first on Homedit .",
-      "url": "https://www.homedit.com/ditch-the-builder-grade-stainless-steel-sink-these-sinks-do-more-with-the-same-counter-space/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Ditch-the-Builder-Grade-Stainless-Steel-Sink.-These-Sinks-Do-More-With-the-Same-Counter-Space.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-06T10:49:18+00:00"
     },
     {
       "id": "f2b4df8289e4cb89",
@@ -1331,9 +1359,9 @@
         "https://www.yankodesign.com/images/design_news/2026/07/the-sculptural-rocking-chair-that-started-as-a-single-idea/dooal-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/circular-rolling-chair-lets-you-choose-what-seat-you-want/Zero_gravity_circular_chair2.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/designed-for-national-geographic-this-collapsible-camping-furniture-fits-in-a-suitcase-and-rolls-behind-you/National-Geographic-collapsible-camping-furniture-4.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/this-stool-lets-you-sit-cross-legged-while-eating/Stool-Design.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/02/13/grikis_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/12/this-mind-blowing-coffee-table-was-painstakingly-handmade-with-dozens-of-wooden-strips/wormhole-coffee-table-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/11/17/roodr_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1493,7 +1521,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -1584,10 +1612,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/10/How-to-build-an-entry-bench.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3129,7 +3157,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3359,7 +3387,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
