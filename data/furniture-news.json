@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-09T21:43:04.854189+00:00",
-  "generated_at_human": "2026-08-09 21:43 UTC",
+  "generated_at": "2026-08-09T22:44:11.539111+00:00",
+  "generated_at_human": "2026-08-09 22:44 UTC",
   "total_items": 266,
   "sources_used": [
     "Apartment Therapy",
@@ -18,6 +18,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -60,7 +61,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 61,
   "items": [
     {
@@ -71,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=34205",
+        "https://i.archi.ru/i/1262/510881.jpg?r=17102",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -108,9 +109,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=13427",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=16165",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=21725"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=22612",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=31190",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=35801"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -128,6 +129,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "e85dcb951c0ba7b3",
+      "title": "An All-White Kitchen Is Now a Colorful Miami-Inspired Escape",
+      "summary": "We’ve seen a lot of interiors inspired by trips around the globe. It makes sense to want to bottle that feeling the adventure left you with and spread it around your home. Take homeowners Caroline and Julien, for example: They wanted the kitchen in their London house to reflect their Miami Beach holiday. The best person for the job? Designer Justine Guillermou. The couple hired the color-forward designer to help revamp their home, which was “a lot of white and gray. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/bauhaus-colored-kitchen-ba-37683687?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/february/miami-bauhaus/before-after/tours-london-miami-bauhaus-before-tagged-2",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/february/miami-bauhaus/before-after/tours-london-miami-bauhaus-before-tagged-2"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-09T22:00:00+00:00"
     },
     {
       "id": "35989e725888ad2d",
@@ -218,9 +232,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-sofa-that-deploys-itself-uses-the-same-wire-as-heart-stents/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/herman-miller-girard-stool-gets-a-modern-update/girard-herman-miller-01.jpeg",
-        "https://www.yankodesign.com/images/design_news/2025/04/multifunctional-wooden-step-stool-and-storage-delivers-smart-space-saving-design/plateau-multi-functional-step-stool-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/adp-bench-by-spacon-studio-halle-invites-adults-to-play-in-public-spaces/spacon-halle-adp-bench-05.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/06/playground-inspired-chair-concept-brings-memories-and-playful-design-to-modern-spaces/moopi-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/09/industrial-facilitys-hiroi-chair-uses-thoughtful-minimalist-design/hiroi-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/when-tokyos-fallen-branches-become-furniture-you-cant-ignore/uneri-01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -854,19 +868,6 @@
       "published": "2026-08-07T14:00:00+00:00"
     },
     {
-      "id": "fc922c35c3db93b2",
-      "title": "Italian “Sea Stools” Are the Versatile, Mid-Century Find Every House Needs",
-      "summary": "Long ago, I started skipping keychains and T-shirts while on vacations and opted for vintage goods as souvenirs instead. That’s why I always look for secondhand stores on my travels. On a recent trip while my husband and I were wandering the streets of Lucca, Italy, we happened upon an adorable antique shop named Benedetta Bodega. There, I found something a bit more unorthodox compared to what I usually buy (original art or antique tins, for instance): a chipped wooden stool. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/sea-stools-italian-home-37684875?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/march/alison-b/tours-brooklyn-alison-b-1",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/march/alison-b/tours-brooklyn-alison-b-1"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-07T13:30:00+00:00"
-    },
-    {
       "id": "a5ffb4be3b69120b",
       "title": "The Sidephone: A Dumbphone with Physically Swappable Interfaces",
       "summary": "This Sidephone , from Canadian start-up Side Technologies, is the latest distraction-reducing cell phone. It features a trick not seen on others, like the Light Phone and the Punkt MP02: A swappable physical UI. Users can choose between four different interfaces: A standard numerical keypad with T9 functionality, a numerical keypad with QWERTY functionality, a \"Sundial\" that works like an iPod's click wheel, or a game controller. There are no pre-installed social media apps, nor browser. In addition to calls and text messages, the phone offers a camera, photo gallery, clock, contacts,…",
@@ -1050,8 +1051,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
       ],
       "source": "Interni magazine",
@@ -1519,7 +1520,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -1642,9 +1643,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1799,10 +1800,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/10/How-to-build-an-entry-bench.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2335,7 +2336,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -3534,11 +3535,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2024/08/Dried-Flowers-in-Frames.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
