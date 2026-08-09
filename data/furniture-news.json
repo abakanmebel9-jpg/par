@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-09T08:56:37.731607+00:00",
-  "generated_at_human": "2026-08-09 08:56 UTC",
+  "generated_at": "2026-08-09T09:52:03.694997+00:00",
+  "generated_at_human": "2026-08-09 09:52 UTC",
   "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
@@ -18,6 +18,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -60,7 +61,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 60,
   "items": [
     {
@@ -71,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=86290",
+        "https://i.archi.ru/i/1262/510881.jpg?r=44117",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -108,9 +109,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=64325",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=63797",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=85461"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=80946",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=36447",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=91099"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -128,6 +129,37 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "e3913c2c7508e016",
+      "title": "Purple Paint Turned This Beige Home Office Into a Completely Different Room",
+      "summary": "Want to give a beige home office more color without replacing the furniture already in it? This makeover shared by Reddit user u/topnotchwalnut changed the room with Sherwin-Williams Thistle paint, a $60 floral rug, a secondhand green chair, and a furniture reshuffle that created a separate reading spot between the windows. Instead of replacing the... The post Purple Paint Turned This Beige Home Office Into a Completely Different Room appeared first on Homedit .",
+      "url": "https://www.homedit.com/purple-paint-turned-this-beige-home-office-into-a-completely-different-room/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Purple-Paint-and-a-60-Floral-Rug-Made-This-Home-Office-Look-Completely-Different.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Purple-Paint-and-a-60-Floral-Rug-Made-This-Home-Office-Look-Completely-Different.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Replaced-the-White-Cabinets-With-Warm-Birch-and-Gave-the-1930s-Kitchen-a-Mid-Century-Look.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Desk-Stays-Put-While-Its-Surroundings-Change.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Floral-Rug-Changes-Most-of-the-Visible-Floor.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Dresser-Moves-Instead-of-Leaving-the-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Sherwin-Williams-Thistle-Covers-the-Beige-Walls.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-09T09:45:01+00:00"
+    },
+    {
+      "id": "e0cef0bc0c73b1fd",
+      "title": "Eight interiors where picture windows frame picture-perfect views",
+      "summary": "This lookbook collates eight bedrooms and living spaces where slim-framed picture windows help landscapes become art. A picture window is square or rectangular in shape, lacks transoms or crossbeams of any kind, has a slimline frame and comprises one singular – often large – pane of glass. These qualities allow the views beyond to be The post Eight interiors where picture windows frame picture-perfect views appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/09/interiors-picture-windows-views-lookbooks/",
+      "image": "http://static.dezeen.com/uploads/2026/08/the-blue-house-atelier-backlar-adaptive-reuse-sao-miguel-island-azores-portugal-architecture_dezeen_2364_col_9-scaled-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/the-blue-house-atelier-backlar-adaptive-reuse-sao-miguel-island-azores-portugal-architecture_dezeen_2364_col_9-scaled-1.jpg"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-09T09:00:07+00:00"
     },
     {
       "id": "419b9a850f9c6bc0",
@@ -185,12 +217,7 @@
       "url": "https://www.homedit.com/they-replaced-the-white-cabinets-with-warm-birch-and-gave-the-1930s-kitchen-a-mid-century-look/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Replaced-the-White-Cabinets-With-Warm-Birch-and-Gave-the-1930s-Kitchen-a-Mid-Century-Look.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Replaced-the-White-Cabinets-With-Warm-Birch-and-Gave-the-1930s-Kitchen-a-Mid-Century-Look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Sink-Wall-Gained-Birch-Quartzite-and-Brass.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Green-Tile-Runs-Across-the-New-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Birch-Cabinets-Replaced-the-White-Doors.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Part-of-the-Wall-Came-Down.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/White-Cabinetry-Wrapped-Around-the-Range.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Replaced-the-White-Cabinets-With-Warm-Birch-and-Gave-the-1930s-Kitchen-a-Mid-Century-Look.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -640,19 +667,6 @@
       "published": "2026-08-07T17:16:31+00:00"
     },
     {
-      "id": "a9876040c5583306",
-      "title": "The Raised Corner Tub Was Taking Up the Best Part of the Bathroom",
-      "summary": "Large primary bathrooms often dedicate the brightest part of the room to an oversized platform tub. The shower sits in a corner behind framed glass, storage stays limited, and much of the floor serves fixtures instead of the people using them. In this remodel, shared by Reddit user Feeling-Bag-4149, the layout changed almost as much... The post The Raised Corner Tub Was Taking Up the Best Part of the Bathroom appeared first on Homedit .",
-      "url": "https://www.homedit.com/the-raised-corner-tub-was-taking-up-the-best-part-of-the-bathroom/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Raised-Corner-Tub-Was-Taking-Up-the-Best-Part-of-the-Bathroom.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Raised-Corner-Tub-Was-Taking-Up-the-Best-Part-of-the-Bathroom.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-07T16:50:57+00:00"
-    },
-    {
       "id": "b4ead906e6a6cd1a",
       "title": "Dive Into ‘Pastel,’ Cj Hendry’s Million-Bead Installation at Salon 94 Design",
       "summary": "The artist transforms the Upper East Side gallery into an interactive bead pit where visitors can dive in, make jewelry, and take home pieces of the installation",
@@ -944,9 +958,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1278,7 +1292,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-05T08:00:56+00:00"
     },
@@ -1418,7 +1432,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/dynaudio-norm-architects-karimoku-copenhagen_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-04T08:00:05+00:00"
     },
@@ -1470,7 +1484,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -1598,8 +1612,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
       ],
       "source": "Interni magazine",
@@ -1781,10 +1795,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/05/DIY-Patio-Chair.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2317,7 +2331,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -3017,19 +3031,6 @@
       "published": "2026-07-06T22:00:00+00:00"
     },
     {
-      "id": "5d4829cd20b27d4f",
-      "title": "Jasmine Fisher transforms rented London office with moody material palette",
-      "summary": "Interior designer Jasmine Fisher has created an atmospheric studio for her London-based practice, using warm colours and curated artworks to lend the space a more homely feel. The 32-square-metre rented space was originally a harshly lit and impersonal white box that did not reflect the studio's characterful, layered approach to interiors. Fisher, who previously worked The post Jasmine Fisher transforms rented London office with moody material palette appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/07/06/jasmine-fisher-london-studio-office/",
-      "image": "http://static.dezeen.com/uploads/2026/07/sq-jasmine-fischer-london-office_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/07/sq-jasmine-fischer-london-office_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-07-06T09:30:39+00:00"
-    },
-    {
       "id": "c6426737a2cbb567",
       "title": "Adinne chair by True Design among five new products on Dezeen Showroom",
       "summary": "Dezeen Showroom: a chair made from leather and wood designed to reference hand sketches is among five new products featured on Dezeen Showroom. Adinne chair by Leonardo Rossano for True Design Solid wood and leather meet in this minimal and angular chair created by designer Leonardo Rossano for True Design. The Adinne chair draws on the The post Adinne chair by True Design among five new products on Dezeen Showroom appeared first on Dezeen .",
@@ -3555,11 +3556,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/06/40-Outdoor-Coffee-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
