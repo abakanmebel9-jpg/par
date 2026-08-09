@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-09T19:43:52.697260+00:00",
-  "generated_at_human": "2026-08-09 19:43 UTC",
+  "generated_at": "2026-08-09T20:47:40.201795+00:00",
+  "generated_at_human": "2026-08-09 20:47 UTC",
   "total_items": 265,
   "sources_used": [
     "Apartment Therapy",
@@ -18,7 +18,6 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
-    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -61,8 +60,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 61,
+  "sources_count": 54,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "c1adab92d963d4a1",
@@ -72,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=34311",
+        "https://i.archi.ru/i/1262/510881.jpg?r=85141",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -109,9 +108,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=22927",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=69497",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=12175"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=99637",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=42198",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=63935"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -129,6 +128,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "35989e725888ad2d",
+      "title": "16 Modules, 1 Plaza, and a Student Project That Earned Its Spot",
+      "summary": "16 Modules, 1 Plaza, and a Student Project That Earned Its Spot It doesn’t happen often that a temporary structure actually stops you mid-step. Paso Nara, a curved plywood pavilion now sitting at the intersection of Avenida...",
+      "url": "https://www.yankodesign.com/2026/08/09/16-modules-1-plaza-and-a-student-project-that-earned-its-spot/?utm_source=rss&utm_medium=rss&utm_campaign=16-modules-1-plaza-and-a-student-project-that-earned-its-spot",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/16-modules-1-plaza-and-a-student-project-that-earned-its-spot/paso-nara-07.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/16-modules-1-plaza-and-a-student-project-that-earned-its-spot/paso-nara-07.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-09T20:45:18+00:00"
     },
     {
       "id": "bf8bf7cc002457d2",
@@ -191,9 +203,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-sofa-that-deploys-itself-uses-the-same-wire-as-heart-stents/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/scandinavian-product-design-functional-elegance-in-everyday-products/Scandinavian-Products_Minimal_Earthy_Products_23.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/11/09/arco.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/chair-designs/top_10_chair_designs_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/05/herman-miller-girard-stool-gets-a-modern-update/girard-herman-miller-01.jpeg",
+        "https://www.yankodesign.com/images/design_news/2025/04/multifunctional-wooden-step-stool-and-storage-delivers-smart-space-saving-design/plateau-multi-functional-step-stool-06.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/09/adp-bench-by-spacon-studio-halle-invites-adults-to-play-in-public-spaces/spacon-halle-adp-bench-05.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -401,7 +413,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-blue-house-atelier-backlar-adaptive-reuse-sao-miguel-island-azores-portugal-architecture_dezeen_2364_col_9-scaled-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-09T09:00:07+00:00"
     },
@@ -494,21 +506,6 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-08T22:30:15+00:00"
-    },
-    {
-      "id": "1b2ac04741719d1b",
-      "title": "Dump The Stains: Turn Orange Oak Cabinets From Dated To Chic Using This Paint Color",
-      "summary": "Your kitchen is almost perfect, but there's one thing off -- the cabinet color makes your space feel stale. There's a solution, and it's not wood stain.",
-      "url": "https://www.hunker.com/2230787/update-orange-oak-cabinets-green-chic-paint-color-stain-alternative/",
-      "image": "https://www.hunker.com/img/gallery/update-orange-oak-cabinets-green-chic-paint-color-stain-alternative/l-intro-1786025242.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/update-orange-oak-cabinets-green-chic-paint-color-stain-alternative/l-intro-1786025242.jpg",
-        "https://www.hunker.com/img/gallery/update-orange-oak-cabinets-green-chic-paint-color-stain-alternative/intro-1786025242.jpg",
-        "https://www.hunker.com/img/gallery/update-orange-oak-cabinets-green-chic-paint-color-stain-alternative/paint-orange-oak-a-chic-green-for-a-modern-look-1786025244.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-08T22:30:00+00:00"
     },
     {
       "id": "d7d2767d5d7bc91b",
@@ -820,9 +817,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-portable-cork-brainstorming-stool-for-literal-lightbulb-moments/bulb-portable-cork-stool-concept-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/10/this-modular-treehouse-is-a-sustainable-school-designed-for-the-new-normal/treehouse_school_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/11/08/cocoon_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/11/this-wooden-shoe-rack-doubles-as-a-bench-and-a-tray-for-transient-bodies-and-objects/tokyo-shoe-rack-concept-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/09/chestnut-house/chestnut_house_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/12/X-Kit_worlds_first_ergonomic_foldable_hub_stand.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/eames/Eames-Office-Elephant-Reebok-Cool-Aloe.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1320,7 +1317,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-05T08:00:56+00:00"
     },
@@ -1507,7 +1504,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2323,7 +2320,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
