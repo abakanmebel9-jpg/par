@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-09T20:47:40.201795+00:00",
-  "generated_at_human": "2026-08-09 20:47 UTC",
-  "total_items": 265,
+  "generated_at": "2026-08-09T21:43:04.854189+00:00",
+  "generated_at_human": "2026-08-09 21:43 UTC",
+  "total_items": 266,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -61,7 +61,7 @@
     "АМДПР"
   ],
   "sources_count": 54,
-  "multi_photo_items": 60,
+  "multi_photo_items": 61,
   "items": [
     {
       "id": "c1adab92d963d4a1",
@@ -71,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=85141",
+        "https://i.archi.ru/i/1262/510881.jpg?r=34205",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -108,9 +108,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=99637",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=42198",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=63935"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=13427",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=16165",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=21725"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -143,6 +143,21 @@
       "published": "2026-08-09T20:45:18+00:00"
     },
     {
+      "id": "69946e09b3dff162",
+      "title": "Upcycle Old Pans And Turn Them Into Useful Storage Shelves",
+      "summary": "Breathe new life into an old pan by transforming it into this cute storage shelf. It's a simple upcycle DIY project that you can complete in a day.",
+      "url": "https://www.hunker.com/2230146/upcycle-old-pans-turn-them-into-storage-shelves/",
+      "image": "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/l-intro-1785920919.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/l-intro-1785920919.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/intro-1785920919.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/how-to-turn-an-old-pan-into-a-cute-and-functional-shelf-1785920920.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-09T20:30:00+00:00"
+    },
+    {
       "id": "bf8bf7cc002457d2",
       "title": "Yves Béhar’s Modular Sofa Seats 12 And Can Shapeshift Endlessly",
       "summary": "Yves Béhar’s Modular Sofa Seats 12 And Can Shapeshift Endlessly Every designer had a pandemic project. Most people learned sourdough. Yves Béhar built a sofa made of foam triangles so his family would stop scattering...",
@@ -152,9 +167,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/yves-behars-modular-sofa-seats-12-and-can-shapeshift-endlessly/yves_behar_peaks_moooi_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/07/phonecell/phonecell_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/04/17/bric_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/04/nothing-confirms-cmf-phone-2-pro-launch-on-28th-april-with-flagship-meets-budget-design/cmf_phone_2_pro_1.jpeg"
+        "https://www.yankodesign.com/images/design_news/2023/08/auto-draft/titan_eyex_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/09/tech-gadgets-that-double-as-art-objects/5_best_tech_gadgets_art_objects_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/07/worlds_most_space_saving_hanger_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
