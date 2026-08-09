@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-09T17:41:49.157362+00:00",
-  "generated_at_human": "2026-08-09 17:41 UTC",
-  "total_items": 263,
+  "generated_at": "2026-08-09T18:55:26.152246+00:00",
+  "generated_at_human": "2026-08-09 18:55 UTC",
+  "total_items": 262,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -17,6 +17,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -59,7 +60,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 53,
+  "sources_count": 54,
   "multi_photo_items": 61,
   "items": [
     {
@@ -70,7 +71,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=28544",
+        "https://i.archi.ru/i/1262/510881.jpg?r=71310",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -107,9 +108,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=57322",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=95018",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=95972"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=99815",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=47169",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=21353"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -127,6 +128,21 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "864263f50ff26497",
+      "title": "The Kitchenware Essential Ancient Greeks Couldn't Live Without",
+      "summary": "Artifacts that are dug up from the past can tell us a lot about ancient civilizations. Long ago, many Greeks relied on a ceramic kitchen item for food prep.",
+      "url": "https://www.hunker.com/2231605/kitchenware-essential-ancient-greeks-owned-used/",
+      "image": "https://www.hunker.com/img/gallery/the-kitchenware-essential-ancient-greeks-couldnt-live-without/l-intro-1786026949.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-kitchenware-essential-ancient-greeks-couldnt-live-without/l-intro-1786026949.jpg",
+        "https://www.hunker.com/img/gallery/the-kitchenware-essential-ancient-greeks-couldnt-live-without/intro-1786026949.jpg",
+        "https://www.hunker.com/img/gallery/the-kitchenware-essential-ancient-greeks-couldnt-live-without/the-uses-of-the-chytra-1786026951.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-09T18:30:00+00:00"
     },
     {
       "id": "26a7ee92b80ffdda",
@@ -476,34 +492,6 @@
       "published": "2026-08-08T22:30:00+00:00"
     },
     {
-      "id": "15ca1da8ddfb8d30",
-      "title": "Break Away From Curtains And Blinds: There's A Sleeker Solution To Cover Bathroom Windows",
-      "summary": "A bathroom window can let in sunlight and fresh air, yet it can be tough to create privacy. Instead of using curtains or blinds, try this sleek solution.",
-      "url": "https://www.hunker.com/2231534/solution-to-cover-bathroom-windows-wooden-panels/",
-      "image": "https://www.hunker.com/img/gallery/break-away-from-curtains-and-blinds-theres-a-sleeker-solution-to-cover-bathroom-windows/l-intro-1786023952.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/break-away-from-curtains-and-blinds-theres-a-sleeker-solution-to-cover-bathroom-windows/l-intro-1786023952.jpg",
-        "https://www.hunker.com/img/gallery/break-away-from-curtains-and-blinds-theres-a-sleeker-solution-to-cover-bathroom-windows/intro-1786023952.jpg",
-        "https://www.hunker.com/img/gallery/break-away-from-curtains-and-blinds-theres-a-sleeker-solution-to-cover-bathroom-windows/install-wood-panels-to-cover-your-bathroom-windows-1786023954.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-08T22:00:00+00:00"
-    },
-    {
-      "id": "367f4d3773844cf3",
-      "title": "What Is The IKEA Buyback Program?",
-      "summary": "Want the newest piece of IKEA furniture but can't figure out where to put it in your already crowded home? This program might be able to help with that.",
-      "url": "https://www.hunker.com/2230790/what-is-ikea-buyback-program/",
-      "image": "https://www.hunker.com/img/gallery/what-is-the-ikea-buyback-program/l-intro-1785936586.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/what-is-the-ikea-buyback-program/l-intro-1785936586.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-08T20:00:00+00:00"
-    },
-    {
       "id": "0a172e61ab5f09e7",
       "title": "Most Laptops Mute Your Camera in Software, This One Cuts the Wire",
       "summary": "Most Laptops Mute Your Camera in Software, This One Cuts the Wire The privacy conversation around laptops tends to happen entirely in software. Operating systems add permissions dialogs, apps get granted or denied microphone access, and browsers...",
@@ -690,7 +678,7 @@
     {
       "id": "cd7ad32ac45fc42e",
       "title": "Biophilia meets Bali at Jia Curated 2026's architectural spotlight show",
-      "summary": "Jia Curated 2026 highlight, 'Architecture at Scale', explores biophilic architecture and its expressions on the island of Bali, Indonesia",
+      "summary": "Jia Curated 2026 highlight, 'Architecture in Scale', explores biophilic architecture and its expressions on the island of Bali, Indonesia",
       "url": "https://www.wallpaper.com/architecture/jia-curated-2026-architecture-at-scale-bali-indonesia",
       "image": "https://cdn.mos.cms.futurecdn.net/MyP6Qf6a3S3EFuPoMfoZBM.jpg",
       "images": [
@@ -1018,9 +1006,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1479,7 +1467,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -1590,7 +1578,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
@@ -2282,7 +2270,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
