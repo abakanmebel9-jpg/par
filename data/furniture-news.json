@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-09T18:55:26.152246+00:00",
-  "generated_at_human": "2026-08-09 18:55 UTC",
-  "total_items": 262,
+  "generated_at": "2026-08-09T19:43:52.697260+00:00",
+  "generated_at_human": "2026-08-09 19:43 UTC",
+  "total_items": 265,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -11,6 +11,7 @@
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
+    "Core77",
     "DM tag bathroom",
     "DM tag cabinets",
     "DM tag furniture",
@@ -60,7 +61,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 61,
   "items": [
     {
@@ -71,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=71310",
+        "https://i.archi.ru/i/1262/510881.jpg?r=34311",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -108,9 +109,9 @@
       "images": [
         "https://i.archi.ru/i/1262/489660.jpg",
         "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=99815",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=47169",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=21353"
+        "https://i.archi.ru/news/quadratic/411647.jpg?r=22927",
+        "https://i.archi.ru/news/quadratic/411646.jpg?r=69497",
+        "https://i.archi.ru/news/quadratic/411645.jpg?r=12175"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -128,6 +129,24 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "bf8bf7cc002457d2",
+      "title": "Yves Béhar’s Modular Sofa Seats 12 And Can Shapeshift Endlessly",
+      "summary": "Yves Béhar’s Modular Sofa Seats 12 And Can Shapeshift Endlessly Every designer had a pandemic project. Most people learned sourdough. Yves Béhar built a sofa made of foam triangles so his family would stop scattering...",
+      "url": "https://www.yankodesign.com/2026/08/09/yves-behars-modular-sofa-seats-12-and-can-shapeshift-endlessly/?utm_source=rss&utm_medium=rss&utm_campaign=yves-behars-modular-sofa-seats-12-and-can-shapeshift-endlessly",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/yves-behars-modular-sofa-seats-12-and-can-shapeshift-endlessly/yves_behar_peaks_moooi_1.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/yves-behars-modular-sofa-seats-12-and-can-shapeshift-endlessly/yves_behar_peaks_moooi_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/07/phonecell/phonecell_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/04/17/bric_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/04/nothing-confirms-cmf-phone-2-pro-launch-on-28th-april-with-flagship-meets-budget-design/cmf_phone_2_pro_1.jpeg"
+      ],
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-09T19:15:38+00:00"
     },
     {
       "id": "864263f50ff26497",
@@ -382,7 +401,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-blue-house-atelier-backlar-adaptive-reuse-sao-miguel-island-azores-portugal-architecture_dezeen_2364_col_9-scaled-1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-09T09:00:07+00:00"
     },
@@ -490,19 +509,6 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-08-08T22:30:00+00:00"
-    },
-    {
-      "id": "0a172e61ab5f09e7",
-      "title": "Most Laptops Mute Your Camera in Software, This One Cuts the Wire",
-      "summary": "Most Laptops Mute Your Camera in Software, This One Cuts the Wire The privacy conversation around laptops tends to happen entirely in software. Operating systems add permissions dialogs, apps get granted or denied microphone access, and browsers...",
-      "url": "https://www.yankodesign.com/2026/08/08/most-laptops-mute-your-camera-in-software-this-one-cuts-the-wire/?utm_source=rss&utm_medium=rss&utm_campaign=most-laptops-mute-your-camera-in-software-this-one-cuts-the-wire",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/most-laptops-mute-your-camera-in-software-this-one-cuts-the-wire/purism-librem-16-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/most-laptops-mute-your-camera-in-software-this-one-cuts-the-wire/purism-librem-16-01.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-08T17:20:57+00:00"
     },
     {
       "id": "d7d2767d5d7bc91b",
@@ -823,6 +829,19 @@
       "published": "2026-08-07T14:20:54+00:00"
     },
     {
+      "id": "aaf87989ade91332",
+      "title": "Grabo's Clever Roller Attachment: An Easier Way to Move Sheet Goods",
+      "summary": "This clever Roller attachment for Grabos makes it easy to move heavy objects that are difficult to grasp and move. It's simply a pair of wheels, a minimal frame and three quick-lock pins that attach to a Grabo. This makes it easy to move sheet goods, doors, countertop slabs, etc. The Grabo Roller runs $45.",
+      "url": "https://www.core77.com/posts/145000/Grabos-Clever-Roller-Attachment-An-Easier-Way-to-Move-Sheet-Goods",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1844805_lead_400_145000_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1844805_lead_400_145000_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-07T14:00:00+00:00"
+    },
+    {
       "id": "fc922c35c3db93b2",
       "title": "Italian “Sea Stools” Are the Versatile, Mid-Century Find Every House Needs",
       "summary": "Long ago, I started skipping keychains and T-shirts while on vacations and opted for vintage goods as souvenirs instead. That’s why I always look for secondhand stores on my travels. On a recent trip while my husband and I were wandering the streets of Lucca, Italy, we happened upon an adorable antique shop named Benedetta Bodega. There, I found something a bit more unorthodox compared to what I usually buy (original art or antique tins, for instance): a chipped wooden stool. READ MORE...",
@@ -834,6 +853,19 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-08-07T13:30:00+00:00"
+    },
+    {
+      "id": "a5ffb4be3b69120b",
+      "title": "The Sidephone: A Dumbphone with Physically Swappable Interfaces",
+      "summary": "This Sidephone , from Canadian start-up Side Technologies, is the latest distraction-reducing cell phone. It features a trick not seen on others, like the Light Phone and the Punkt MP02: A swappable physical UI. Users can choose between four different interfaces: A standard numerical keypad with T9 functionality, a numerical keypad with QWERTY functionality, a \"Sundial\" that works like an iPod's click wheel, or a game controller. There are no pre-installed social media apps, nor browser. In addition to calls and text messages, the phone offers a camera, photo gallery, clock, contacts,…",
+      "url": "https://www.core77.com/posts/144997/The-Sidephone-A-Dumbphone-with-Physically-Swappable-Interfaces",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1844734_lead_400_144997_.png",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1844734_lead_400_144997_.png"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-07T13:00:00+00:00"
     },
     {
       "id": "66ed4c9fafa3454b",
@@ -1228,6 +1260,19 @@
       "published": "2026-08-05T16:58:59+00:00"
     },
     {
+      "id": "45db4427d599a34c",
+      "title": "LG and ALUFUS' Strange Transparent OLED Display Trolley",
+      "summary": "ALUFUS is a South Korean manufacturer of aluminum furniture. (The company name is a portmanteau for Aluminum Furniture System.) They make this aluminum trolley: Down by the hubless wheel, you'll notice something that seems out of place: The company collaborated with LG Electronics on this piece, incorporating LG's transparent OLED signage tech into the design. \"All assembly components—screws, wires, lighting—are hidden to maintain a high-end furniture aesthetic, minimizing exterior damage from display integration. Functional elements are concealed to avoid emphasizing its electronic…",
+      "url": "https://www.core77.com/posts/144956/LG-and-ALUFUS-Strange-Transparent-OLED-Display-Trolley",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1844391_lead_400_144956_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1844391_lead_400_144956_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-05T14:00:00+00:00"
+    },
+    {
       "id": "b64c3b41feed36da",
       "title": "The 3 Best Japanese Kitchen Tools You Need to Buy August 2026",
       "summary": "The 3 Best Japanese Kitchen Tools You Need to Buy August 2026 Japanese kitchen tools tend to arrive with a very specific philosophy attached. They do less than you expect on paper and more than you realize...",
@@ -1275,7 +1320,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-05T08:00:56+00:00"
     },
@@ -1312,12 +1357,7 @@
       "url": "https://www.yankodesign.com/2026/08/04/the-echo-chair-makes-3d-printing-feel-refined/?utm_source=rss&utm_medium=rss&utm_campaign=the-echo-chair-makes-3d-printing-feel-refined",
       "image": "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/desertscape-coffee-table-blends-harshness-and-gentleness-in-beautiful-harmony/desertscape-coffee-table-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/auto-draft/formula_e_winners_trophy_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/03/draft-no-burn-lid/never_burn_lid_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/the-echo-chair-makes-3d-printing-feel-refined/Echo_chair_furniture_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1527,6 +1567,19 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-03T13:20:28+00:00"
+    },
+    {
+      "id": "e634b2090f06dcb7",
+      "title": "A Transparent CD Player",
+      "summary": "Syitren , a Chinese audio brand, makes funky-looking portable CD players targeting Gen Z. Their latest design, the RM1 , is a tabletop or wall-mounted model meant to double as display art: The frame is acrylic. If you're wondering how you get the CD in and out, you don't; while it looks like it's sandwiched inside, instead the hub protrudes through the front face, so you just pop CDs on and off. This design, by eliminating a hinge mechanism, keeps the production cost down. Thus the units are going for just $89 on Kickstarter, where it's been successfully funded with a month left to go at…",
+      "url": "https://www.core77.com/posts/144933/A-Transparent-CD-Player",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1844057_lead_400_144933_.jpeg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1844057_lead_400_144933_.jpeg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-03T13:01:00+00:00"
     },
     {
       "id": "41b9ae596bd74b20",
@@ -2395,19 +2448,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-23T21:00:00+00:00"
-    },
-    {
-      "id": "322f58d47d802383",
-      "title": "The $9,000 Lounge Chair That Spent 20 Years Becoming a Workspace",
-      "summary": "The $9,000 Lounge Chair That Spent 20 Years Becoming a Workspace Lounge seating hasn’t changed much in the past half century. The category has largely coasted on the same formula: a cushioned shell, a recline mechanism,...",
-      "url": "https://www.yankodesign.com/2026/07/23/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/?utm_source=rss&utm_medium=rss&utm_campaign=the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/humanscale-diffrient-lounge-07.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/the-9000-lounge-chair-that-spent-20-years-becoming-a-workspace/humanscale-diffrient-lounge-07.jpg"
-      ],
-      "source": "Yanko Design furniture",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-23T17:20:18+00:00"
     },
     {
       "id": "acba3893f3ca4ded",
