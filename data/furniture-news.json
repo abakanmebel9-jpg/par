@@ -1,14 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-10T17:59:55.129188+00:00",
-  "generated_at_human": "2026-08-10 17:59 UTC",
-  "total_items": 265,
+  "generated_at": "2026-08-10T19:10:21.984906+00:00",
+  "generated_at_human": "2026-08-10 19:10 UTC",
+  "total_items": 258,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
-    "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag bathroom",
@@ -37,7 +35,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -52,7 +49,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -60,8 +56,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 61,
+  "sources_count": 50,
+  "multi_photo_items": 58,
   "items": [
     {
       "id": "90486e2c7d6f850a",
@@ -70,14 +66,9 @@
       "url": "https://archi.ru/russia/102104/reinkarnaciya-gory-i-lotosa",
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=23925",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=20756",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=61093",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=29109",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=75666"
+        "https://i.archi.ru/i/1262/499156.jpg"
       ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -88,14 +79,9 @@
       "url": "https://archi.ru/world/102452/dizain-barov-v-sssr-na-primere-rigi--kh",
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
-        "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=94032",
-        "https://i.archi.ru/i/1262/509273.png",
-        "https://i.archi.ru/i/1262/509280.png",
-        "https://i.archi.ru/i/1262/509272.png",
-        "https://i.archi.ru/i/1262/509276.png"
+        "https://i.archi.ru/i/1262/509252.png"
       ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -106,14 +92,9 @@
       "url": "https://archi.ru/russia/102583/zabaikalskaya-ogranka",
       "image": "https://i.archi.ru/i/1262/501519.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/501519.jpg",
-        "https://i.archi.ru/i/1262/501529.jpg",
-        "https://i.archi.ru/i/1262/501528.jpg",
-        "https://i.archi.ru/i/1262/501530.jpg",
-        "https://i.archi.ru/i/1262/501525.jpg",
-        "https://i.archi.ru/i/1262/501531.jpg"
+        "https://i.archi.ru/i/1262/501519.jpg"
       ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -142,6 +123,34 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "d48b14d055267c10",
+      "title": "1970s Italian design is having a moment: here are this year's best reissues",
+      "summary": "It's been a great year for 1970s Italian design: from little-known furniture to legendary design experiments and even bathroom taps, here are the pieces that have made a come back this year",
+      "url": "https://www.wallpaper.com/design-interiors/furniture/1970s-italian-design-reissues",
+      "image": "https://cdn.mos.cms.futurecdn.net/2Ao3ye2X6mu37RdMgYNNx.png",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/2Ao3ye2X6mu37RdMgYNNx.png",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-08-10T19:03:15+00:00"
+    },
+    {
+      "id": "51ac94f3c9899e44",
+      "title": "GO'C creates multi-use artist building for secluded Washington island",
+      "summary": "Stained cedar planks wrap a small building in the Pacific Northwest that Seattle architecture studio GO'C created for arts foundation Iolair as a gallery and live-work space for an artist-in-residence. The building is located in Eastsound, the main village on Orcas Island – the largest of the San Juan Islands in the Salish Sea. The The post GO'C creates multi-use artist building for secluded Washington island appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/10/goc-orcas-island-washington-iolair-studio/",
+      "image": "http://static.dezeen.com/uploads/2026/08/iolair-goc-sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/iolair-goc-sq.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-10T18:18:58+00:00"
     },
     {
       "id": "3e30f1bc197581d4",
@@ -568,9 +577,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/yves-behars-modular-sofa-seats-12-and-can-shapeshift-endlessly/yves_behar_peaks_moooi_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/06/14/melt_bulb.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/12/auto-draft/slide_keyboard_tablet-yankodesign10.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/11/minimalist-lamp-uses-simple-linear-shapes-to-create-a-functional-and-ambient-light-source/1.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/04/12/visual_music.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/05/the-cube/the_cube_yanko_design_04.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/04/draft-supers/super_s_purifier_6.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -825,19 +834,6 @@
       "published": "2026-08-08T15:02:53+00:00"
     },
     {
-      "id": "ac0bd11829054b57",
-      "title": "LAP Open Wire: Saturday, Aug. 8, 2026",
-      "summary": "Comments are now closed. If we’ve not yet answered your question, we’ll get to it soon! Join us again on October 10. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions and questions about Lost Art Press, our cats, Shakespeare (me), Late 19th/early 20th-century...",
-      "url": "https://blog.lostartpress.com/2026/08/08/lap-open-wire-saturday-aug-8-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-08T12:00:00+00:00"
-    },
-    {
       "id": "de4c63e2f1754089",
       "title": "Mag by Atelierzero: A Contemporary Update to a Milan Apartment",
       "summary": "Mag is an expansive apartment in central Milan, renovated by Atelierzero after two adjacent units were joined into a single residence. The project updates an earlier renovation without dismantling the original structure, bringing order to the rooms through a generous circulation area and a continuous terrazzo floor that recalls Milanese tradition. Across the interiors, warm […] The post Mag by Atelierzero: A Contemporary Update to a Milan Apartment first appeared on HomeAdore .",
@@ -909,9 +905,7 @@
       "url": "https://www.wallpaper.com/tech/sony-new-rx10-v-camera",
       "image": "https://cdn.mos.cms.futurecdn.net/YvMPJk8FGNkhgN8AFJSxWB.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/YvMPJk8FGNkhgN8AFJSxWB.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/YvMPJk8FGNkhgN8AFJSxWB.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -1076,32 +1070,6 @@
       "published": "2026-08-07T13:00:00+00:00"
     },
     {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "id": "b9e697853d048199",
-      "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
-      "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
-      "url": "https://blog.lostartpress.com/2026/08/07/lap-open-wire-tomorrow-sat-aug-8-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-07T12:55:52+00:00"
-    },
-    {
       "id": "71676d38ccf09966",
       "title": "Alba’s Grandson’s Home: A Contemporary Apartment in Castro Urdiales",
       "summary": "Alba’s Grandson’s Home is an apartment in Castro Urdiales, Spain, redesigned by Aitor Ayo in 2025 as a more fluid two-bedroom residence. The intervention replaces the original three-bedroom distribution with an open social area joining the living room, kitchen, and dining space, while natural wood carpentry, concealed doors, large-format ceramic flooring, and integrated lighting give […] The post Alba’s Grandson’s Home: A Contemporary Apartment in Castro Urdiales first appeared on HomeAdore .",
@@ -1246,8 +1214,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
@@ -1650,19 +1618,6 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
-    },
-    {
       "id": "b394ac9ab67d574a",
       "title": "The Furniture Trend of the Season? Crisp Outlines",
       "summary": "Fashion has long embraced contrast piping, and now interiors are following suit. Here's how to bring the look home.",
@@ -1803,7 +1758,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2014,19 +1969,6 @@
       "published": "2026-07-30T19:58:26+00:00"
     },
     {
-      "id": "6a8452150269ca98",
-      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
-      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-30T19:18:52+00:00"
-    },
-    {
       "id": "72664b960ea7af2a",
       "title": "Post & Rung Standing Desk",
       "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
@@ -2225,45 +2167,6 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-07-28T05:12:08+00:00"
-    },
-    {
-      "id": "a8af0c18ed362af5",
-      "title": "5 Collections that Make the Most of Outdoor Living",
-      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-27T20:25:31+00:00"
-    },
-    {
-      "id": "008c74a0d1d1467c",
-      "title": "An American, an Irish Chair, in Germany",
-      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
-      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-27T13:43:48+00:00"
-    },
-    {
-      "id": "af7c744ad1423fe8",
-      "title": "Kill Wood-boring Insects with Kitchen Appliances",
-      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
-      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-27T11:37:28+00:00"
     },
     {
       "id": "e93f31d5f55035ec",
@@ -2534,19 +2437,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c641918c090f36dc",
@@ -3283,7 +3173,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3513,7 +3403,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
