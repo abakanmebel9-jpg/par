@@ -1,16 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-10T13:37:31.282989+00:00",
-  "generated_at_human": "2026-08-10 13:37 UTC",
-  "total_items": 267,
+  "generated_at": "2026-08-10T15:11:29.611974+00:00",
+  "generated_at_human": "2026-08-10 15:11 UTC",
+  "total_items": 262,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
-    "Bob Vila",
     "Core77",
     "DM tag bathroom",
     "DM tag cabinets",
@@ -18,6 +16,7 @@
     "Decoist",
     "Design Boom architecture",
     "Design Milk",
+    "Design Milk Architecture",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -52,7 +51,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -60,9 +58,27 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
+  "sources_count": 52,
   "multi_photo_items": 61,
   "items": [
+    {
+      "id": "90486e2c7d6f850a",
+      "title": "Реинкарнация горы и лотоса",
+      "summary": "По проекту бюро АСАДОВ в Благовещенске построен новый пассажирский терминал Международного аэропорта имени Николая Муравьева-Амурского (Игнатьево), который свяжет российские горда с Китаем и Вьетнамом. Аэропорт получил сквозной дизайн: фасадное решение, интерьеры и благоустройство площади-парка основаны на треугольном модуле и единой цветовой гамме, которые отсылают к необычным явлениям амурского края – дальневосточному лотосу, «горящим горам» и космодрому «Восточный».",
+      "url": "https://archi.ru/russia/102104/reinkarnaciya-gory-i-lotosa",
+      "image": "https://i.archi.ru/i/1262/499156.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/499156.jpg",
+        "https://i.archi.ru/i/1262/310555.jpg?r=47403",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=37877",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=52335",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=89805",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=92310"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "c1adab92d963d4a1",
       "title": "Дизайн баров в СССР на примере Риги 1980-х",
@@ -71,7 +87,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=6021",
+        "https://i.archi.ru/i/1262/510881.jpg?r=41432",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -106,13 +122,9 @@
       "url": "https://archi.ru/russia/102500/proekciya-spirali-proekciya-volny",
       "image": "https://i.archi.ru/i/1262/489660.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/489660.jpg",
-        "https://i.archi.ru/i/1262/489653.jpg",
-        "https://i.archi.ru/news/quadratic/411647.jpg?r=87304",
-        "https://i.archi.ru/news/quadratic/411646.jpg?r=96947",
-        "https://i.archi.ru/news/quadratic/411645.jpg?r=51789"
+        "https://i.archi.ru/i/1262/489660.jpg"
       ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -130,6 +142,19 @@
       "published": ""
     },
     {
+      "id": "b341ed03f33a4b7d",
+      "title": "Wall Chargers Are Boring, but This $36 One Has a Pixel Art Display",
+      "summary": "Wall Chargers Are Boring, but This $36 One Has a Pixel Art Display Wall chargers have always been the most ignored piece of any desk setup. They sit behind monitors or under tables, doing their job without asking...",
+      "url": "https://www.yankodesign.com/2026/08/10/wall-chargers-are-boring-but-this-36-one-has-a-pixel-art-display/?utm_source=rss&utm_medium=rss&utm_campaign=wall-chargers-are-boring-but-this-36-one-has-a-pixel-art-display",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/wall-chargers-are-boring-but-this-36-one-has-a-pixel-art-display/divoom-dipow-35w-gan-charger-pixel-display-04.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/wall-chargers-are-boring-but-this-36-one-has-a-pixel-art-display/divoom-dipow-35w-gan-charger-pixel-display-04.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-10T14:20:44+00:00"
+    },
+    {
       "id": "de22303a70c96ffa",
       "title": "This $70 Laptop Sleeve Absorbs Moisture 10x Better Than a Bag of Rice",
       "summary": "This $70 Laptop Sleeve Absorbs Moisture 10x Better Than a Bag of Rice Most laptop sleeves are built around a simple promise: keep the bad stuff out. Padded walls, tight zippers, and water-resistant fabrics form the standard playbook...",
@@ -141,6 +166,21 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-10T13:20:21+00:00"
+    },
+    {
+      "id": "1b790a8dbae97259",
+      "title": "Skip Paint: An Easier Way To Update Honey Oak Chairs",
+      "summary": "Honey oak chairs are lovely, but the color may not match modern homes. Discover how gel paint remover tones down the finish without hiding the wood grain.",
+      "url": "https://www.hunker.com/2231697/skip-paint-easier-way-update-honey-oak-chairs-stripping/",
+      "image": "https://www.hunker.com/img/gallery/skip-paint-easier-way-update-honey-oak-chairs-stripping/l-intro-1786351761.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/skip-paint-easier-way-update-honey-oak-chairs-stripping/l-intro-1786351761.jpg",
+        "https://www.hunker.com/img/gallery/skip-paint-easier-way-update-honey-oak-chairs-stripping/intro-1786351761.jpg",
+        "https://www.hunker.com/img/gallery/skip-paint-easier-way-update-honey-oak-chairs-stripping/how-to-update-old-fashioned-honey-oak-chairs-with-a-paint-alternative-1786351763.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-10T13:00:00+00:00"
     },
     {
       "id": "f6b1122b97dccbfa",
@@ -463,9 +503,7 @@
       "url": "https://www.hunker.com/2230146/upcycle-old-pans-turn-them-into-storage-shelves/",
       "image": "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/l-intro-1785920919.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/l-intro-1785920919.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/intro-1785920919.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/how-to-turn-an-old-pan-into-a-cute-and-functional-shelf-1785920920.jpg"
+        "https://www.hunker.com/img/gallery/upcycle-old-pans-turn-them-into-storage-shelves/l-intro-1785920919.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -481,9 +519,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/yves-behars-modular-sofa-seats-12-and-can-shapeshift-endlessly/yves_behar_peaks_moooi_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/odd-drinking-cup-was-designed-to-work-in-zero-gravity-space-without-a-straw/zero-gravity-space-cup-5.jpeg",
-        "https://www.yankodesign.com/images/design_news/2025/10/4-smart-devices-controlled-by-touch-not-screens-or-apps/tamed-digital-devices-concept-17.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/you-probably-didnt-notice-this-clever-camera-trick-in-apples-iphone-16e-video/iphone_16e_camera_angles_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/07/this-limited-edition-4-channel-mixer-speaker-is-designed-for-women-to-carry-as-handbag/Speaker-Bag-by-Nik-Bentel-Studio-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/12/safe-tag-makes-smartphones-buying-experience-in-stores-convenient-without-sacrificing-security/Safe-Tag-by-kongtech-design-team.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/11/this-playfully-polygonal-lamp-makes-the-perfect-addition-to-any-minimal-workspace/this_octagonal_design_lets_you_easily_adjust_the_lamps_angle.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -530,9 +568,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-sofa-that-deploys-itself-uses-the-same-wire-as-heart-stents/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/01/07/span_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/03/auto-draft/bionic_chair_10.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/the-side-table-that-folds-a-bookshelf-into-its-own-top/boca-00.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/01/16/ant_table.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/02/seating-with-a-sliding-surprise/beatle_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/08/hippokamp/Hippokamp_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1028,19 +1066,6 @@
       "published": "2026-08-07T13:00:00+00:00"
     },
     {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -1199,7 +1224,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
@@ -1524,19 +1549,6 @@
       "published": "2026-08-04T22:30:48+00:00"
     },
     {
-      "id": "dffdc091a128936d",
-      "title": "Bad Habits That Make Your Home Smell Funky",
-      "summary": "Prevent unpleasant odors from taking over your home with a few tweaks in your routine. The post Bad Habits That Make Your Home Smell Funky appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/diy/house-smells/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/07/shutterstock_2494984383-e1785868531671.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/07/shutterstock_2494984383-e1785868531671.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-04T19:05:13+00:00"
-    },
-    {
       "id": "9dab61f3bd47616b",
       "title": "Little Giant Designs Its Own Forest Studio Around Light, Quiet, and Exploration",
       "summary": "Set among cedar and Douglas fir trees on Vancouver Island, the two-level retreat explores how architecture can deepen our connection to nature",
@@ -1628,22 +1640,9 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
-    },
-    {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "b394ac9ab67d574a",
@@ -1662,19 +1661,6 @@
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
       "published": "2026-08-03T16:10:31+00:00"
-    },
-    {
-      "id": "85de1639468443af",
-      "title": "A Press to Laminate Curved Parts",
-      "summary": "Curved, laminated parts are stronger than parts sawn from solid wood. This press makes laminating easy. The press is made of layers of plywood or particleboard that are glued together.... Source",
-      "url": "https://www.popularwoodworking.com/tricks/a-press-to-laminate-curved-parts/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/03094505/oct01-press-to-laminate-curved-parts-3-copy.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/03094505/oct01-press-to-laminate-curved-parts-3-copy.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-03T13:46:54+00:00"
     },
     {
       "id": "f6bdbcda948f848b",
@@ -1890,10 +1876,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/10/DIY-Dollhouse-Bookcase.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/02/DIY-Monitor-Stand.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/08/Dried-Flowers-in-Frames.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -1916,19 +1902,6 @@
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
       "published": "2026-07-31T20:53:37+00:00"
-    },
-    {
-      "id": "651e7f2eada933ed",
-      "title": "The Splinter Report: July 31st",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at 1989. Tool News Quick Bites... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-july-31st/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/30103410/splinter-report-7-31-1.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/30103410/splinter-report-7-31-1.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-31T15:07:26+00:00"
     },
     {
       "id": "362b756ede7350d0",
@@ -2034,19 +2007,6 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
-    },
-    {
-      "id": "6a8452150269ca98",
-      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
-      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2249,19 +2209,6 @@
       "published": "2026-07-28T05:12:08+00:00"
     },
     {
-      "id": "a8af0c18ed362af5",
-      "title": "5 Collections that Make the Most of Outdoor Living",
-      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-27T20:25:31+00:00"
-    },
-    {
       "id": "008c74a0d1d1467c",
       "title": "An American, an Irish Chair, in Germany",
       "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
@@ -2387,7 +2334,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2556,19 +2503,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c641918c090f36dc",
