@@ -1,12 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-10T19:10:21.984906+00:00",
-  "generated_at_human": "2026-08-10 19:10 UTC",
-  "total_items": 258,
+  "generated_at": "2026-08-10T20:56:04.972648+00:00",
+  "generated_at_human": "2026-08-10 20:56 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
+    "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Core77",
     "DM tag bathroom",
@@ -35,6 +37,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -49,6 +52,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -56,8 +60,8 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 50,
-  "multi_photo_items": 58,
+  "sources_count": 54,
+  "multi_photo_items": 61,
   "items": [
     {
       "id": "90486e2c7d6f850a",
@@ -66,9 +70,14 @@
       "url": "https://archi.ru/russia/102104/reinkarnaciya-gory-i-lotosa",
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/499156.jpg"
+        "https://i.archi.ru/i/1262/499156.jpg",
+        "https://i.archi.ru/i/1262/310555.jpg?r=70084",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=2010",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=60188",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=24713",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=46921"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -79,9 +88,14 @@
       "url": "https://archi.ru/world/102452/dizain-barov-v-sssr-na-primere-rigi--kh",
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
-        "https://i.archi.ru/i/1262/509252.png"
+        "https://i.archi.ru/i/1262/509252.png",
+        "https://i.archi.ru/i/1262/510881.jpg?r=39571",
+        "https://i.archi.ru/i/1262/509273.png",
+        "https://i.archi.ru/i/1262/509280.png",
+        "https://i.archi.ru/i/1262/509272.png",
+        "https://i.archi.ru/i/1262/509276.png"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -92,9 +106,14 @@
       "url": "https://archi.ru/russia/102583/zabaikalskaya-ogranka",
       "image": "https://i.archi.ru/i/1262/501519.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/501519.jpg"
+        "https://i.archi.ru/i/1262/501519.jpg",
+        "https://i.archi.ru/i/1262/501529.jpg",
+        "https://i.archi.ru/i/1262/501528.jpg",
+        "https://i.archi.ru/i/1262/501530.jpg",
+        "https://i.archi.ru/i/1262/501525.jpg",
+        "https://i.archi.ru/i/1262/501531.jpg"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -123,6 +142,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "2371e93250f3d6ae",
+      "title": "Someone Built a LEGO Bedside Radio With 1,400 Bricks And Inner Circuitry",
+      "summary": "Someone Built a LEGO Bedside Radio With 1,400 Bricks And Inner Circuitry Remember when clock radios had personality? Before phones ate every function a bedside table used to need, you had this chunky little box with dials...",
+      "url": "https://www.yankodesign.com/2026/08/10/someone-built-a-lego-bedside-radio-with-1400-bricks-and-inner-circuitry/?utm_source=rss&utm_medium=rss&utm_campaign=someone-built-a-lego-bedside-radio-with-1400-bricks-and-inner-circuitry",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/legosonic_bsr12_radio_1.jpeg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/legosonic_bsr12_radio_1.jpeg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-10T20:30:08+00:00"
     },
     {
       "id": "d48b14d055267c10",
@@ -613,9 +645,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-sofa-that-deploys-itself-uses-the-same-wire-as-heart-stents/1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/school-desk-reimagined-as-a-colorful-light-and-fun-pieces-to-light-up-rural-classrooms/clever-desk-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/auto-draft/03_bars_joaoteixeira_desk.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/scaffolding-was-never-meant-to-be-beautiful-estrade-disagrees/estrade-0.jpg"
+        "https://www.yankodesign.com/images/design_news/2016/09/stool/stool_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/01/03/magi_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/09/sleep-ds/sleeping_products_morning_products_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -688,9 +720,9 @@
       "title": "A Lifeless 1980s Kitchen Is Now a Colorful Oasis with One Original Detail",
       "summary": "When homeowners Heath and Samantha Mitchell moved into their cottage-style home in Sydney, Australia, they loved the charming historic details. The colors in the kitchen, though? Not so much. “Our ‘before’ kitchen had golden timber-look cabinetry, yellowing tiles and walls, and a dark gray speckled benchtop,” Samantha said. “The handles and knobs were black and gothic-like, and there were even black dragon fixtures at the entry. READ MORE...",
       "url": "https://www.apartmenttherapy.com/sydney-kitchen-renovation-teal-cabinets-37683684?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-October/heath-sam-m/tagged/heath-sam-kitchen-before-1",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-October/heath-sam-m/tagged/heath-sam-kitchen-before-lead",
       "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-October/heath-sam-m/tagged/heath-sam-kitchen-before-1"
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2023-House-Tours/2023-October/heath-sam-m/tagged/heath-sam-kitchen-before-lead"
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
@@ -832,6 +864,19 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-08-08T15:02:53+00:00"
+    },
+    {
+      "id": "ac0bd11829054b57",
+      "title": "LAP Open Wire: Saturday, Aug. 8, 2026",
+      "summary": "Comments are now closed. If we’ve not yet answered your question, we’ll get to it soon! Join us again on October 10. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions and questions about Lost Art Press, our cats, Shakespeare (me), Late 19th/early 20th-century...",
+      "url": "https://blog.lostartpress.com/2026/08/08/lap-open-wire-saturday-aug-8-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-08T12:00:00+00:00"
     },
     {
       "id": "de4c63e2f1754089",
@@ -999,9 +1044,9 @@
       "title": "How I Gave My Wire Shelves a Custom Look with DIY Shelf Covers",
       "summary": "Stop things from falling through the cracks with these easy DIY shelf covers for wire shelves, made from painted plywood and simple 1x2 trim. The post How I Gave My Wire Shelves a Custom Look with DIY Shelf Covers appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/project/shelf-covers-for-wire-shelves/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/How-to-Build-Custom-Shelf-Covers-for-Wire-Shelves_FHMVS26_MF_01_23_WoodCoverWireShelves_1.jpg?fit=640%2C936",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/How-to-Build-Custom-Shelf-Covers-for-Wire-Shelves_FHMVS26_MF_01_23_WoodCoverWireShelves_1.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/How-to-Build-Custom-Shelf-Covers-for-Wire-Shelves_FHMVS26_MF_01_23_WoodCoverWireShelves_1.jpg?fit=640%2C936"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/How-to-Build-Custom-Shelf-Covers-for-Wire-Shelves_FHMVS26_MF_01_23_WoodCoverWireShelves_1.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -1035,9 +1080,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-portable-cork-brainstorming-stool-for-literal-lightbulb-moments/bulb-portable-cork-stool-concept-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/02/24/duo.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/10/11/o_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/01/295754/04_CoolPaste_sustainable_toothpaste_packaging_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/04/08/breathe_03.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/04/this-wool-winder-inspired-chandelier-unfolds-like-magic/sorpresa-wool-winder-chandelier-08.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/06/iko-hanging-chair/iko_hanging_chair_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1068,6 +1113,32 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
+      "id": "b9e697853d048199",
+      "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
+      "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
+      "url": "https://blog.lostartpress.com/2026/08/07/lap-open-wire-tomorrow-sat-aug-8-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-07T12:55:52+00:00"
     },
     {
       "id": "71676d38ccf09966",
@@ -1613,9 +1684,22 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "b394ac9ab67d574a",
@@ -1697,9 +1781,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1969,6 +2053,19 @@
       "published": "2026-07-30T19:58:26+00:00"
     },
     {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
+    },
+    {
       "id": "72664b960ea7af2a",
       "title": "Post & Rung Standing Desk",
       "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
@@ -2169,6 +2266,45 @@
       "published": "2026-07-28T05:12:08+00:00"
     },
     {
+      "id": "a8af0c18ed362af5",
+      "title": "5 Collections that Make the Most of Outdoor Living",
+      "summary": "From furniture to drinkware, these five collections create stylish settings for time spent outdoors. The post 5 Collections that Make the Most of Outdoor Living appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-collections-that-make-the-most-of-outdoor-living/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-Hay-Outdoor-Market-Collection-Summer-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-27T20:25:31+00:00"
+    },
+    {
+      "id": "008c74a0d1d1467c",
+      "title": "An American, an Irish Chair, in Germany",
+      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
+      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T13:43:48+00:00"
+    },
+    {
+      "id": "af7c744ad1423fe8",
+      "title": "Kill Wood-boring Insects with Kitchen Appliances",
+      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
+      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-07-27T11:37:28+00:00"
+    },
+    {
       "id": "e93f31d5f55035ec",
       "title": "Oltre la libreria: adattarsi agli ambienti e trasformarsi nel tempo",
       "summary": "Techwall di Riflessi: un sistema in continua evoluzione per abitare lo spazio con libertà The post Oltre la libreria: adattarsi agli ambienti e trasformarsi nel tempo appeared first on Interni Magazine .",
@@ -2268,7 +2404,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2277,9 +2413,9 @@
       "title": "Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion",
       "summary": "Actor and woodshop proprietor Nick Offerman shares sawdust-laden musings on craftsmanship, creativity and biting off more than he can chew. The post Nick Offerman Talks Shop: The ‘Thrilling Epiphany’ That Led to His Woodworking Passion appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/nick-offerman-woodworking-interview/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=640%2C936",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=640%2C936"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/NickOfferman_Woodshop_Ukulele-1.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2290,9 +2426,9 @@
       "title": "Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces",
       "summary": "Follow along with woodworker and custom furniture maker Lee Buchanan as she tackles a unique Murphy bed makeover. The post Lee Buchanan’s Murphy Bed Build Shows Big Ideas Can Fit into Small Spaces appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/lee-buchanan-murphy-bed-build/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=640%2C936",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=640%2C936"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Up-to-the-Challenge_MurphyBed_LeeBuchanan_collage_OTedit.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2303,9 +2439,9 @@
       "title": "Check Out the 75-Year-Old Family Handyman Project That Inspired Our Plywood Challenge",
       "summary": "Inspired by our first issue, we challenged our editors and readers alike to make something amazing from this timeless staple. The post Check Out the 75-Year-Old Family Handyman Project That Inspired Our Plywood Challenge appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/plywood-challenge-inspiration-project/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=640%2C936",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=680%2C995",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=640%2C936"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/07/Plywood-Unleashed-1-a.jpg?fit=680%2C995"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2437,6 +2573,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c641918c090f36dc",
@@ -3415,11 +3564,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/01/DIY-Dining-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/05/DIY-Coffee-Table-with-Ice-Chest.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
