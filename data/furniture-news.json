@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-11T11:00:35.952919+00:00",
-  "generated_at_human": "2026-08-11 11:00 UTC",
-  "total_items": 263,
+  "generated_at": "2026-08-11T11:53:09.601122+00:00",
+  "generated_at_human": "2026-08-11 11:53 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -40,6 +40,8 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
+    "Popular Woodworking",
+    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -58,7 +60,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
+  "sources_count": 54,
   "multi_photo_items": 62,
   "items": [
     {
@@ -69,11 +71,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=84005",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=40629",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=89128",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=86382",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=12624"
+        "https://i.archi.ru/i/1262/310555.jpg?r=57653",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=40814",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=4175",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=77155",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=56335"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -87,7 +89,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=97570",
+        "https://i.archi.ru/i/1262/510881.jpg?r=60989",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -450,8 +452,8 @@
         "https://sunset.com/wp-content/uploads/2026/07/A7405913.jpeg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/highway-1-road-trip-mile-373-big-sur-0913-1.jpg?w=256&h=142&crop=1",
         "https://sunset.com/wp-content/uploads/Castle-Hot-Springs-soak-desert-view-DSC3761.jpg?w=256&h=142&crop=1",
-        "https://img.sunset02.com/sites/default/files/image/2017/03/main/california-julia-pfeiffer-burns-state-park-50camp0217.jpg?w=256&h=142&crop=1",
-        "https://img.sunset02.com/sunsetm/wp-content-uploads/2019-03-25UTC04/wellness-vacation-big-sur-sun-1117.jpg?w=256&h=142&crop=1"
+        "https://img.sunset02.com/sites/default/files/image/2018/02/main/camelbak-pursuit-series-clare-healy-pr-0318_0.jpg?w=1200&h=600&crop=1",
+        "https://img.sunset02.com/sites/default/files/image/2017/03/main/california-julia-pfeiffer-burns-state-park-50camp0217.jpg?w=256&h=142&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -523,6 +525,19 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-08-10T12:00:00+00:00"
+    },
+    {
+      "id": "8b0c4cf94b806d9b",
+      "title": "gxn and ha/f stack toronto’s construction leftovers into pop-up public space",
+      "summary": "waterfront neighbourhood space on ookwemin minising uses reclaimed bricks, concrete, timber and urban waste in a fully reversible public installation. The post gxn and ha/f stack toronto’s construction leftovers into pop-up public space appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/gxn-toronto-construction-leftovers-pop-up-public-space/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/08/gxn-toronto-construction-leftovers-pop-up-public-space-designboom-5-500x400-22b08q85r064.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/08/gxn-toronto-construction-leftovers-pop-up-public-space-designboom-5-500x400-22b08q85r064.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-08-10T11:50:45+00:00"
     },
     {
       "id": "fb0c7d09e337d03b",
@@ -736,9 +751,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/yves-behars-modular-sofa-seats-12-and-can-shapeshift-endlessly/yves_behar_peaks_moooi_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/this-folding-electric-moped-shrinks-to-the-size-of-desk-cpu-storage/ICOMA-Tatamel-Bike_Electric-Bike-2.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/10/holmes/holmes_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/this-designer-turned-road-material-into-stunning-furniture/as-00.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/08/auto-draft/frank_stella_ornament_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/corcelain/corcelain_cups_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/12/pointer_instrument_lunar_optic_review_yankodesign_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -916,7 +931,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-blue-house-atelier-backlar-adaptive-reuse-sao-miguel-island-azores-portugal-architecture_dezeen_2364_col_9-scaled-1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-09T09:00:07+00:00"
     },
@@ -1119,6 +1134,19 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-07T23:30:06+00:00"
+    },
+    {
+      "id": "11539f587a2af35e",
+      "title": "The Splinter Report: August 7th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week I’m looking at Reddit. “But wait Collin, you... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-august-7th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/07144013/splinter-report-8-7.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/07144013/splinter-report-8-7.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-07T18:43:28+00:00"
     },
     {
       "id": "d5d06bd25c8f1714",
@@ -1450,6 +1478,19 @@
       "published": "2026-08-06T13:36:16+00:00"
     },
     {
+      "id": "9ea2e3efbaa8ff58",
+      "title": "Slick Drawer Runners",
+      "summary": "One day, I really fed up with the drawers in my desk at home. They’re the old-fashioned kind, which ride on their wooden sides. The sides had become so worn... Source",
+      "url": "https://www.popularwoodworking.com/tricks/slick-drawer-runners/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/03095034/nov09-slick-drawer-runners.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/03095034/nov09-slick-drawer-runners.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-06T12:48:23+00:00"
+    },
+    {
       "id": "f2b4df8289e4cb89",
       "title": "Multi-generational LJ House in Ahmedabad prioritises shared living",
       "summary": "Gently curving rooflines and an asymmetrical heart-shaped stairwell characterise this multi-generational home in Ahmedabad, designed by local practices Studio Saransh and Iksoi Studio. Named LJ House, the four-storey, 585-square-metre home was completed for a family of six on a compact urban plot, with the brief calling for an adaptable layout to accommodate changing needs. Studio The post Multi-generational LJ House in Ahmedabad prioritises shared living appeared first on Dezeen .",
@@ -1729,7 +1770,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -1874,7 +1915,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2096,6 +2137,19 @@
       "source": "Azure magazine CA",
       "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-30T19:18:52+00:00"
+    },
+    {
+      "id": "72664b960ea7af2a",
+      "title": "Post & Rung Standing Desk",
+      "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
+      "url": "https://www.popularwoodworking.com/projects/post-rung-standing-desk/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-30T15:23:28+00:00"
     },
     {
       "id": "1aac48720ac53800",
@@ -2410,7 +2464,7 @@
       "images": [
         "https://design-milk.com/images/2026/07/The-White-Arcade-by-DOra-Tokai-Designs_-The-VillaDSC06989-HDR.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-24T14:16:05+00:00"
     },
@@ -2783,6 +2837,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-17T10:00:34+00:00"
+    },
+    {
+      "id": "2415d48aa87c549b",
+      "title": "Mahogany Entry Table",
+      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
+      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-16T18:43:10+00:00"
     },
     {
       "id": "7d1022c9dc0de763",
@@ -3289,7 +3356,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3519,7 +3586,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
