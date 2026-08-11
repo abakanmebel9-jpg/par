@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-11T21:58:48.225925+00:00",
-  "generated_at_human": "2026-08-11 21:58 UTC",
-  "total_items": 257,
+  "generated_at": "2026-08-11T22:56:37.079797+00:00",
+  "generated_at_human": "2026-08-11 22:56 UTC",
+  "total_items": 262,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -52,13 +53,14 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 52,
+  "sources_count": 54,
   "multi_photo_items": 62,
   "items": [
     {
@@ -69,11 +71,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=4713",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=16139",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=10158",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=50458",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=96933"
+        "https://i.archi.ru/i/1262/310555.jpg?r=48832",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=31530",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=42896",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=28716",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=40029"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -87,7 +89,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=48143",
+        "https://i.archi.ru/i/1262/510881.jpg?r=64252",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -140,6 +142,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "3737d98f69bbb3b3",
+      "title": "A Couple Turned a Pass-Through Space Into the Most Functional Dressing Room",
+      "summary": "When Sophie Simmons moved into her 331-square-foot New York apartment, she was living alone and planned on using the railroad apartment’s awkward middle room as her closet and living space for her “single girl setup.”“The room started as a small shoebox with a closet spanning one entire wall, and a bench seat on the other,” Sophie explains. The whole room revolved around her French Louis XVI-style John Richard coffee table that she had bought secondhand for $50. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/tiny-multifunctional-room-nyc-ba-37685123?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/sophie-s/before-after/sophie-s-closet-before-tagged-3",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/sophie-s/before-after/sophie-s-closet-before-tagged-3"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-11T22:00:00+00:00"
     },
     {
       "id": "ee88df3b06ab8020",
@@ -220,6 +235,19 @@
       "source": "Bob Vila",
       "source_url": "https://www.bobvila.com",
       "published": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
     },
     {
       "id": "32f62694ecfe87ad",
@@ -592,19 +620,6 @@
       "image": "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/Behr/feature-3/BEHR_22.03_DESIGNERCOLLECTION_BEDROOM_002_SmokyWhite",
       "images": [
         "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/Behr/feature-3/BEHR_22.03_DESIGNERCOLLECTION_BEDROOM_002_SmokyWhite"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-10T12:00:00+00:00"
-    },
-    {
-      "id": "80bb1707cb31feed",
-      "title": "A 1930s Kitchen Felt \"Mismatched\" — Combining the Laundry Room Fixed It",
-      "summary": "When Katherine and Genevieve moved into their Spanish bungalow-style Southern California home (built in 1933), they set out to find a way to honor the space’s past while also looking toward their future. This included the “mismatched but functional” kitchen, as Genevieve described it. Initially, the three countertops and two cabinets were competing against each other for space and the eye. Additionally, a pocket-sized laundry room divided the space. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/green-two-tone-cabinets-ba-37436597?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/october/genevieve/before-after/genevieve-kitchen-before-tagged-27",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/october/genevieve/before-after/genevieve-kitchen-before-tagged-27"
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
@@ -1225,6 +1240,19 @@
       "published": "2026-08-07T13:00:00+00:00"
     },
     {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -1729,6 +1757,19 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
+    },
+    {
       "id": "b394ac9ab67d574a",
       "title": "The Furniture Trend of the Season? Crisp Outlines",
       "summary": "Fashion has long embraced contrast piping, and now interiors are following suit. Here's how to bring the look home.",
@@ -2052,6 +2093,19 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
+    },
+    {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2509,6 +2563,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c641918c090f36dc",
