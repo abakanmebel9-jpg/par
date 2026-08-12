@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-12T17:07:23.148894+00:00",
-  "generated_at_human": "2026-08-12 17:07 UTC",
-  "total_items": 266,
+  "generated_at": "2026-08-12T19:15:14.620361+00:00",
+  "generated_at_human": "2026-08-12 19:15 UTC",
+  "total_items": 264,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -54,7 +53,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -62,7 +60,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 56,
+  "sources_count": 54,
   "multi_photo_items": 62,
   "items": [
     {
@@ -73,11 +71,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=78872",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=5269",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=8633",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=75620",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=42266"
+        "https://i.archi.ru/i/1262/310555.jpg?r=97928",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=54644",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=7293",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=77697",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=66903"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -91,7 +89,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=18624",
+        "https://i.archi.ru/i/1262/510881.jpg?r=90568",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -133,6 +131,58 @@
       "published": ""
     },
     {
+      "id": "da78b9d801cf5c38",
+      "title": "See innovation from the inside out",
+      "summary": "Wood Industry Innovation Tours at IWF offer exclusive, expert-led experiences showcasing the latest woodworking technologies and innovations. Tours include Industry 5.0 and the Smart Factory, and IWF Power Walk: The Closets Edition. The post See innovation from the inside out appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/see-innovation-from-the-inside-out",
+      "image": "https://www.woodshopnews.com/uploads/MjA4NDI0MDU5ODE2Mzg3NzU3/iwf.jpg",
+      "images": [
+        "https://www.woodshopnews.com/uploads/MjA4NDI0MDU5ODE2Mzg3NzU3/iwf.jpg"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-08-12T18:27:18+00:00"
+    },
+    {
+      "id": "8c1ca298db3c1940",
+      "title": "Nederman to showcase ‘smarter’ wood dust collection",
+      "summary": "Nederman will showcase its next-generation SAVE technology, enhanced environmental sensing, and other clean air solutions for woodworking facilities at IWF Atlanta. Visitors can experience live demonstrations and learn about combustible dust testing and high-vacuum extraction. The post Nederman to showcase ‘smarter’ wood dust collection appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/nederman-to-showcase-smarter-wood-dust-collection",
+      "image": "https://www.woodshopnews.com/uploads/2026/08/SAVE-technology-1.png",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/08/SAVE-technology-1.png"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-08-12T18:16:34+00:00"
+    },
+    {
+      "id": "250d959b42c3fab2",
+      "title": "Custom drawer solutions that set your projects apart",
+      "summary": "CCF Industries manufactures custom drawer boxes for cabinet makers, closet manufacturers, and woodworking professionals. They offer a variety of materials and customization options, including inserts and organizational solutions. The post Custom drawer solutions that set your projects apart appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/custom-drawer-solutions-that-set-your-projects-apart",
+      "image": "https://www.woodshopnews.com/uploads/2026/08/CCF-drawers-IMAGE.jpg",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/08/CCF-drawers-IMAGE.jpg"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-08-12T17:55:49+00:00"
+    },
+    {
+      "id": "effe286f34aa3be3",
+      "title": "Fusion Forward Juror Spotlight: Keren Ruth Wong of IDEO's Play Lab",
+      "summary": "Before she joined IDEO, Keren Ruth Wong launched two education organizations across Greater China and the U.S., working with government bureaus, principals, and parents to rethink how kids build English literacy. A World Economic Forum Global Shapers alumna with a B.S. from Cornell and an M.P.A. from Tsinghua University, Wong brings both a behavioral researcher's patience and a builder's urgency to the jury team on the Fusion Forward: Design For Home competition. At IDEO's PlayLab , Wong helps partners apply the psychology of play to challenges spanning finance, health, mobility, and…",
+      "url": "https://www.core77.com/posts/145068/Fusion-Forward-Juror-Spotlight-Keren-Ruth-Wong-of-IDEOs-Play-Lab",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1845776_lead_400_145068_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1845776_lead_400_145068_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-12T17:49:00+00:00"
+    },
+    {
       "id": "5c19b9e006895d0e",
       "title": "FANUC will feature the CRX-10iA Collaborative Robot",
       "summary": "FANUC America will demonstrate its CRX-10iA collaborative robot at IWF 2026, showcasing automated Shaker panel production. The robot uses 2DV iRVision to locate components, pick and place rails, and simulate adhesive application, highlighting the benefits of collaborative automation in woodworking manufacturing. The post FANUC will feature the CRX-10iA Collaborative Robot appeared first on Woodshop News Magazine .",
@@ -168,9 +218,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/this-cork-cactus-looks-like-decor-and-acts-like-3-pieces-of-furniture/corctus-cork-cactus-stand-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/cursive_furniture-yankodesign01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/07/folding-chair-concept-uses-nylon-strap-to-lift-and-fold/tekron.jpeg",
-        "https://www.yankodesign.com/images/design_news/2023/01/proposed-skyscraper-concept-harvests-co2-from-the-air-and-turns-it-into-starch/the_city_chloroplast_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/11/17/roodr_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/10/loop-chair-concept-brings-together-minimalism-and-comfort/loop-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/05/wooden-furniture-pending/10_best_wooden_furniture_design_yanko_design_hero.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -235,9 +285,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/furniture-made-from-wood-scraps-youd-actually-pay-for/fragments-becoming-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/pompom-stool-made-from-recycled-aluminum-is-green-design-done-right/alice-stool-07.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/09/24/egan_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/king-living-introduces-magnolia-extendable-dining-table-for-modern-compact-living/250404_KING_AURA_RANGE_1_1_AURA_MAGNOLIA_EXTENSION_RETRACTED_0177.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/03/the-sideboard-that-started-as-lines-that-never-finished/shift-sideboard-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/02/09/roman_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/06/planet/planet_02.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -643,19 +693,6 @@
       "published": "2026-08-11T13:00:00+00:00"
     },
     {
-      "id": "d1cf59c92812e34d",
-      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
-      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-11T12:57:55+00:00"
-    },
-    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -724,9 +761,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/ex-mclaren-designers-just-built-a-130000-carbon-fiber-chair/ennua-element-01-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/03/auto-draft/sarolea_manx_5.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/10/14/beautiful_mess_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/04/02/flexi_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/12/05/bugatti_super_sedan_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/10/11/visionofdryboards01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/09/this-firefighting-bike-will-ramp-up-tunnel-accident-rescue-missions/Tunnel-Bike_firefighter_emergency-services_automotive-9.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1306,19 +1343,6 @@
       "published": "2026-08-08T07:21:56+00:00"
     },
     {
-      "id": "4e565b2ed8d619ec",
-      "title": "A camera that does it all? Sony’s new RX10 V offers power, speed and a mighty lens",
-      "summary": "The latest iteration of Sony’s big-lensed RX10 combines a massive zoom with functionality across the board",
-      "url": "https://www.wallpaper.com/tech/sony-new-rx10-v-camera",
-      "image": "https://cdn.mos.cms.futurecdn.net/YvMPJk8FGNkhgN8AFJSxWB.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/YvMPJk8FGNkhgN8AFJSxWB.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-08-08T06:03:05+00:00"
-    },
-    {
       "id": "d56dabe081aaa293",
       "title": "An Island Villa That Epitomizes Family Friendly Comfort",
       "summary": "One couple's longing for sun leads them to the isle of Capri, where they decorate with a dreamy palette of blue, white and gray.",
@@ -1430,19 +1454,6 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
-      "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
       "published": "2026-08-07T13:00:00+00:00"
     },
     {
@@ -1564,9 +1575,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1911,19 +1922,6 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
-    },
-    {
       "id": "b394ac9ab67d574a",
       "title": "The Furniture Trend of the Season? Crisp Outlines",
       "summary": "Fashion has long embraced contrast piping, and now interiors are following suit. Here's how to bring the look home.",
@@ -1985,8 +1983,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
       ],
       "source": "Interni magazine",
@@ -2033,7 +2031,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2229,19 +2227,6 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
-    },
-    {
-      "id": "6a8452150269ca98",
-      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
-      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2673,19 +2658,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
@@ -3327,7 +3299,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3557,7 +3529,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
