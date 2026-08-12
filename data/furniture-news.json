@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-12T08:36:41.811848+00:00",
-  "generated_at_human": "2026-08-12 08:36 UTC",
-  "total_items": 265,
+  "generated_at": "2026-08-12T10:16:33.382011+00:00",
+  "generated_at_human": "2026-08-12 10:16 UTC",
+  "total_items": 263,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -62,7 +62,7 @@
     "АМДПР"
   ],
   "sources_count": 55,
-  "multi_photo_items": 59,
+  "multi_photo_items": 62,
   "items": [
     {
       "id": "90486e2c7d6f850a",
@@ -72,11 +72,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=20453",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=58872",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=47788",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=58540",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=1178"
+        "https://i.archi.ru/i/1262/310555.jpg?r=59105",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=55602",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=60441",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=55560",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=46638"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -90,7 +90,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=38540",
+        "https://i.archi.ru/i/1262/510881.jpg?r=38497",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -132,17 +132,22 @@
       "published": ""
     },
     {
-      "id": "9297f6b01cef2878",
-      "title": "Вакуумный стеклоблок: как сделать фасад теплее и легче",
-      "summary": "Архитекторам и проектировщикам приходится одновременно обеспечивать соответствие нормативным требованиям по теплозащите, сохранять максимум естественного света в помещениях и вписываться в жёсткие бюджетные рамки. Вакуумный стеклоблок – возможность решить эти задачи. Он имеет исключительные теплотехнические характеристики, оставаясь лёгким светопрозрачным решением.",
-      "url": "http://archi.ru/tech/news_102550.html",
-      "image": "https://i.archi.ru/i/1262/510337.png",
+      "id": "5e419cd64069dad8",
+      "title": "Under-the-Stairs Shelving Is Becoming a Display Wall Instead of Storage",
+      "summary": "The space beneath a staircase usually serves one purpose: storage. Cabinets, closets, and drawers hide everyday items behind solid doors, leaving the angled wall to disappear into the background. This design uses the same footprint in a different way. Open shelving follows the slope of the staircase, while integrated lighting and a small collection of... The post Under-the-Stairs Shelving Is Becoming a Display Wall Instead of Storage appeared first on Homedit .",
+      "url": "https://www.homedit.com/under-the-stairs-shelving-is-becoming-a-display-wall-instead-of-storage/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Under-the-Stairs-Shelving-Is-Becoming-a-Display-Wall-Instead-of-Storage.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/510337.png"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Under-the-Stairs-Shelving-Is-Becoming-a-Display-Wall-Instead-of-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2017/01/The-Cubo-House-in-Australia.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Staircase-Wall-Becomes-Part-of-the-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Furniture-Sits-in-Front-Without-Blocking-the-Design.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Open-Niches-Follow-the-Shape-of-the-Staircase.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Backyard-Replaced-Ground-Cover-With-Winding-Stone-Paths-and-Native-Plants.jpg"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-12T09:31:20+00:00"
     },
     {
       "id": "0673f194bbcea15e",
@@ -197,7 +202,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/godspeed-summer-exhibition-uppercut_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-12T08:00:26+00:00"
     },
@@ -246,6 +251,19 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-08-12T06:10:06+00:00"
+    },
+    {
+      "id": "80c30dbbb5e2ffba",
+      "title": "XXII Национальная премия в области промышленного дизайна мебели «Золотая кабриоль»",
+      "summary": "Приглашаем принять участие в XXII Национальной премии в области промышленного дизайна мебели «Золотая кабриоль». В конкурсе на соискание Премии могут принимать участие российские производители мебели (компании, индивидуальные предприниматели), практикующие специалисты в сфере дизайна, студенты профильных вузов. Номинации Премии Корпусная мебель Мягкая мебель Мебель для общественных помещений Мебель для кухни Будущие звезды Критерии оценки работ Оригинальность, новизна дизайна и конструкций изделия; Функциональные, эргономические и экологические качества изделия и его соответствие…",
+      "url": "http://amedoro.com/ru/news/novosti-otrasli/xxii-%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F-%D0%B2-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8-%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8-%C2%AB%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D0%BE%D0%BB%D1%8C%C2%BB.html",
+      "image": "http://amedoro.com/images/103.jpg",
+      "images": [
+        "http://amedoro.com/images/103.jpg"
+      ],
+      "source": "АМДПР",
+      "source_url": "http://amedoro.com",
+      "published": "2026-08-12T06:06:03+00:00"
     },
     {
       "id": "267782b3cee108b5",
@@ -494,38 +512,35 @@
       "published": "2026-08-11T12:00:00+00:00"
     },
     {
+      "id": "345cfa217ec62dca",
+      "title": "The Unique Design Detail That Every Kitchen Island Needs",
+      "summary": "This Davis, California, kitchen has a unique feature that instantly warms the space: a kitchen island with rounded corners.",
+      "url": "https://sunset.com/home-garden/home-tours/davis-califronia-kitchen-makeover",
+      "image": "https://sunset.com/wp-content/uploads/2026/07/davis-kitchen-yvonne-harty-pc-rachel-seva.jpg?w=1200&h=600&crop=1",
+      "images": [
+        "https://sunset.com/wp-content/uploads/2026/07/davis-kitchen-yvonne-harty-pc-rachel-seva.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/rug-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
+        "https://sunset.com/wp-content/uploads/2026/07/pantry-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
+        "https://sunset.com/wp-content/uploads/2026/07/island-stools-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
+        "https://sunset.com/wp-content/uploads/2026/08/montecito-entertaining-living-space-indoor-outdoor-sun-20251089-0826.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/before-after-kitchen-yvonne-harty-pc-rachel-seva.jpg?w=1024"
+      ],
+      "source": "Sunset",
+      "source_url": "https://www.sunset.com",
+      "published": "2026-08-11T11:48:24+00:00"
+    },
+    {
       "id": "cfb5306a75d27dbc",
       "title": "Old Wood Pallets Became a 77-Inch Outdoor Bench With a Patchwork Seat",
       "summary": "Wood pallets can supply enough lumber for a large piece of outdoor furniture, even when the boards differ in width, tone, and surface condition. Emily Burmeister used those differences instead of hiding them, taking apart old pallets and turning the salvaged wood into a colorful garden bench. Her finished bench measures 77 inches long, 21... The post Old Wood Pallets Became a 77-Inch Outdoor Bench With a Patchwork Seat appeared first on Homedit .",
       "url": "https://www.homedit.com/old-wood-pallets-became-a-77-inch-outdoor-bench-with-a-patchwork-seat/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Took-Apart-Old-Wood-Pallets-and-Turned-Them-Into-a-Colorful-Outdoor-Bench.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Took-Apart-Old-Wood-Pallets-and-Turned-Them-Into-a-Colorful-Outdoor-Bench.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Frame-Becomes-the-Cutting-Guide-for-Every-Seat-Board.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2018/02/Ceiling-Types-Collage.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Cut-Lines-Turn-Mixed-Pallet-Boards-Into-a-Single-Seat.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Color-Carries-Across-the-Patio-Without-Matching-Everything-Around-It.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Old-Pallets-End-Up-as-77-Inches-of-Backyard-Seating.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Took-Apart-Old-Wood-Pallets-and-Turned-Them-Into-a-Colorful-Outdoor-Bench.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-11T10:06:53+00:00"
-    },
-    {
-      "id": "ecc65acbf502a183",
-      "title": "Turn Empty Milk Jugs Into Stylish Countertop Storage With This Whimsical DIY",
-      "summary": "Organize your kitchen and make this DIY two-sided countertop storage tote with a few empty containers. It's an easy project that can be customized, too.",
-      "url": "https://www.hunker.com/2230333/reuse-milk-jugs-stylish-countertop-storage-utensil-holder/",
-      "image": "https://www.hunker.com/img/gallery/reuse-milk-jugs-stylish-countertop-storage-utensil-holder/l-intro-1785945209.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/reuse-milk-jugs-stylish-countertop-storage-utensil-holder/l-intro-1785945209.jpg",
-        "https://www.hunker.com/img/gallery/reuse-milk-jugs-stylish-countertop-storage-utensil-holder/intro-1785945209.jpg",
-        "https://www.hunker.com/img/gallery/reuse-milk-jugs-stylish-countertop-storage-utensil-holder/making-the-base-of-your-new-tote-1785945211.jpg",
-        "https://www.hunker.com/img/gallery/reuse-milk-jugs-stylish-countertop-storage-utensil-holder/turning-trash-into-treasure-1785945211.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-11T10:00:00+00:00"
     },
     {
       "id": "ad05277294496a7d",
@@ -598,7 +613,7 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Curved-Wood-Frames-Replace-Rolled-Arms.jpg"
       ],
-      "source": "Homedit",
+      "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-11T07:32:57+00:00"
     },
@@ -632,19 +647,6 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-08-11T05:00:00+00:00"
-    },
-    {
-      "id": "c6b22a39aacf0494",
-      "title": "No More Overstuffed Cabinets: A Simpler DIY Solution For Storing Coffee Mugs",
-      "summary": "Coffee mugs tumbling out of the cabinet when you open the door? This storage solution relocates your collection while taking advantage of vertical space.",
-      "url": "https://www.hunker.com/2232003/coffee-mug-storage-floating-shelves-hooks-simpler-diy-solution/",
-      "image": "https://www.hunker.com/img/gallery/no-more-overstuffed-cabinets-a-simpler-diy-solution-for-storing-coffee-mugs/l-intro-1786045113.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/no-more-overstuffed-cabinets-a-simpler-diy-solution-for-storing-coffee-mugs/l-intro-1786045113.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-11T03:00:00+00:00"
     },
     {
       "id": "b4532fff0d873994",
@@ -966,19 +968,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-09T15:20:26+00:00"
-    },
-    {
-      "id": "dcbbe0494ca09858",
-      "title": "split-level timber house organizes layered interiors around japanese forest landscape",
-      "summary": "rather than treating the forest as a backdrop, the project was conceived to make it an essential part of everyday living. The post split-level timber house organizes layered interiors around japanese forest landscape appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/split-level-timber-house-layered-interiors-japanese-forest-landscape-morimado-house-yosuke-tomiya/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/08/morimado-house-yosuke-tomiya-hokkaido-japan-designboom-700-500x400-22b08q85r830.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/08/morimado-house-yosuke-tomiya-hokkaido-japan-designboom-700-500x400-22b08q85r830.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-08-09T14:15:48+00:00"
     },
     {
       "id": "518ed8e94dddd2d7",
@@ -1846,7 +1835,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2659,19 +2648,6 @@
       "published": "2026-07-22T19:19:57+00:00"
     },
     {
-      "id": "c641918c090f36dc",
-      "title": "Norwegian Wood: Restoring Hotel Sundal, an 1889 Timber Hotel in Western Norway",
-      "summary": "In 2018, Caroline Steine and Harald Andreassen left the city to take on an unlikely project: restoring Hotel Sundal, an 1889 timber hotel that had sat empty for years in western Norway’s Hardanger region. Originally built by Erik Gausvik and Anna Eikenes, early pioneers of glacier tourism, the hotel once welcomed European aristocracy, emperors, and […]",
-      "url": "https://www.remodelista.com/posts/hotel-sundal-norway/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/07/hotel-sundal-exterior-1.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/07/hotel-sundal-exterior-1.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-22T10:00:32+00:00"
-    },
-    {
       "id": "89a3789addc1f0e5",
       "title": "The Garden Decoder: What Is ‘Live Willow Weaving’?",
       "summary": "When we caught a glimpse of the garden for sculptor David Harber at the Chelsea Flower Show, we instantly wanted to know more. The camera panned past what appeared to be a living fence. We weren’t the only ones who were intrigued by Hollander Design’s willow weaving project: An earlier video on Instagram racked up […]",
@@ -3335,7 +3311,12 @@
       "url": "https://www.decoist.com/the-outdated-countertop-material-thats-holding-your-kitchen-back/",
       "image": "https://www.decoist.com/wp-content/uploads/sites/48/2025/03/4ff338ad2865049b1cfb0116c9edd3b7-18994.jpg",
       "images": [
-        "https://www.decoist.com/wp-content/uploads/sites/48/2025/03/4ff338ad2865049b1cfb0116c9edd3b7-18994.jpg"
+        "https://www.decoist.com/wp-content/uploads/sites/48/2025/03/4ff338ad2865049b1cfb0116c9edd3b7-18994.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/2a5c234cff57c9ab3fe8ef4b8f709944-57575.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/310ab72a5d171f8ddd60f247aad19dac-43315.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/c45192e38dc2420650d69d2f79996eea-54062.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/5347b687cf7e248938b9f17df97d1f5b-36792.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2025/03/4ff338ad2865049b1cfb0116c9edd3b7-18994.jpg"
       ],
       "source": "Decoist",
       "source_url": "https://www.decoist.com",
@@ -3516,7 +3497,12 @@
       "url": "https://www.decoist.com/kitchen-lighting-ideas-that-will-make-a-big-statement/",
       "image": "https://www.decoist.com/wp-content/uploads/sites/48/2022/01/studiomcgee_AZHomestead_130-1-scaled-1-90135.jpg",
       "images": [
-        "https://www.decoist.com/wp-content/uploads/sites/48/2022/01/studiomcgee_AZHomestead_130-1-scaled-1-90135.jpg"
+        "https://www.decoist.com/wp-content/uploads/sites/48/2022/01/studiomcgee_AZHomestead_130-1-scaled-1-90135.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/studiomcgee_AZHomestead_130-1-scaled-1-90135.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/my-houzz-eclectic-kid-friendly-home-for-a-creative-couple-caroline-sharpnack-img_45010ef60c6c7e88_14-0884-1-d6972df-1-88755.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/breathtaking-white-on-white-traditional-kitchen-bisulk-kitchens-img_7fc16acd02d0334d_14-7757-1-df833c1-13448.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/ionut-vlad-idXQEOxhmvU-unsplash-30189.jpg",
+        "https://cdn.decoist.com/wp-content/uploads/2022/01/sidekix-media-x64WAw1TIcQ-unsplash-52123.jpg"
       ],
       "source": "Decoist",
       "source_url": "https://www.decoist.com",
@@ -3543,11 +3529,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2024/08/Dried-Flowers-in-Frames.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/06/40-Outdoor-Coffee-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3669,7 +3655,12 @@
       "url": "https://www.decoist.com/30-minute-spring-cleaning-design-reset/",
       "image": "https://www.decoist.com/wp-content/uploads/sites/48/2026/02/1-93790.webp",
       "images": [
-        "https://www.decoist.com/wp-content/uploads/sites/48/2026/02/1-93790.webp"
+        "https://www.decoist.com/wp-content/uploads/sites/48/2026/02/1-93790.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/1-93790.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/2-45091.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/3-66908.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/4-88091.webp",
+        "https://cdn.decoist.com/wp-content/uploads/2026/02/5-97059.webp"
       ],
       "source": "Decoist",
       "source_url": "https://www.decoist.com",
