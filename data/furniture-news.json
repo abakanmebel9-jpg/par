@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-12T19:15:14.620361+00:00",
-  "generated_at_human": "2026-08-12 19:15 UTC",
-  "total_items": 264,
+  "generated_at": "2026-08-12T20:58:12.015469+00:00",
+  "generated_at_human": "2026-08-12 20:58 UTC",
+  "total_items": 269,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -53,6 +54,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -60,7 +62,7 @@
     "Yellowtrace",
     "АМДПР"
   ],
-  "sources_count": 54,
+  "sources_count": 56,
   "multi_photo_items": 62,
   "items": [
     {
@@ -71,11 +73,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=97928",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=54644",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=7293",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=77697",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=66903"
+        "https://i.archi.ru/i/1262/310555.jpg?r=97090",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=94103",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=72076",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=63940",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=21938"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -89,7 +91,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=90568",
+        "https://i.archi.ru/i/1262/510881.jpg?r=58538",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -129,6 +131,21 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "eee70ffe20368328",
+      "title": "Don't Toss Old Egg Cartons — Use Them To DIY Stylish Countertop Storage",
+      "summary": "Repurposing egg cartons is more eco-friendly than recycling them. With this DIY, you can transform one into a functional and customizable countertop piece.",
+      "url": "https://www.hunker.com/2231466/dont-toss-old-egg-cartons-diy-countertop-storage-tray/",
+      "image": "https://www.hunker.com/img/gallery/dont-toss-old-egg-cartons-use-them-to-diy-stylish-countertop-storage/l-intro-1786020085.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/dont-toss-old-egg-cartons-use-them-to-diy-stylish-countertop-storage/l-intro-1786020085.jpg",
+        "https://www.hunker.com/img/gallery/dont-toss-old-egg-cartons-use-them-to-diy-stylish-countertop-storage/intro-1786020085.jpg",
+        "https://www.hunker.com/img/gallery/dont-toss-old-egg-cartons-use-them-to-diy-stylish-countertop-storage/turning-an-egg-carton-into-a-cute-countertop-storage-tray-1786020087.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-12T19:00:00+00:00"
     },
     {
       "id": "da78b9d801cf5c38",
@@ -218,9 +235,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/this-cork-cactus-looks-like-decor-and-acts-like-3-pieces-of-furniture/corctus-cork-cactus-stand-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/11/17/roodr_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/loop-chair-concept-brings-together-minimalism-and-comfort/loop-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/wooden-furniture-pending/10_best_wooden_furniture_design_yanko_design_hero.jpeg"
+        "https://www.yankodesign.com/images/design_news/2012/03/13/osca_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/auto-draft/line_series_wireframe_furniture_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/07/15/icicle_chair_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -285,9 +302,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/furniture-made-from-wood-scraps-youd-actually-pay-for/fragments-becoming-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/the-sideboard-that-started-as-lines-that-never-finished/shift-sideboard-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/02/09/roman_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/06/planet/planet_02.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/03/06/pages_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/01/these-everyday-things-hide-their-true-functions-like-a-hidden-object-game/hidden-objects-pebble-tray-1a.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/best-storage-solutions/storage_solutions_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -455,7 +472,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/godspeed-summer-exhibition-uppercut_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-12T08:00:26+00:00"
     },
@@ -639,21 +656,6 @@
       "published": "2026-08-11T20:15:00+00:00"
     },
     {
-      "id": "024fb447dde92624",
-      "title": "Ditch The Pricey Tile For A Cheaper Flooring Alternative",
-      "summary": "Vinyl flooring offers a less expensive alternative to ceramic and vinyl tile. It's water-resistant, making it perfect for bathrooms, kitchens, laundry rooms.",
-      "url": "https://www.hunker.com/2232423/ditch-the-pricey-tile-sheet-vinyl-flooring-cheaper-alternative/",
-      "image": "https://www.hunker.com/img/gallery/ditch-the-pricey-tile-sheet-vinyl-flooring-cheaper-alternative/l-intro-1786373925.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ditch-the-pricey-tile-sheet-vinyl-flooring-cheaper-alternative/l-intro-1786373925.jpg",
-        "https://www.hunker.com/img/gallery/ditch-the-pricey-tile-sheet-vinyl-flooring-cheaper-alternative/intro-1786373925.jpg",
-        "https://www.hunker.com/img/gallery/ditch-the-pricey-tile-sheet-vinyl-flooring-cheaper-alternative/choosing-the-best-way-to-install-and-care-for-your-sheet-vinyl-floors-1786373926.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-11T17:00:00+00:00"
-    },
-    {
       "id": "0333ce9c9f0591ce",
       "title": "Industrial designer Gudmundur Ludvik Re-Thinks the Folding Chair",
       "summary": "\"Why should a folding chair be a compromise?\" asks Icelandic industrial designer Gudmundur Ludvik . \"For decades, folding chairs have been designed around storage and transport, often at the expense of comfort and everyday use.\" Ludvik aimed to change that with his Backflip chair. \" The ambition was to approach the typology from the opposite direction — to create a good chair first, and a folding chair second. The result is a chair that moves easily between use and storage while maintaining the comfort, character and presence expected from everyday furniture.\" To accomplish his desired…",
@@ -691,6 +693,19 @@
       "source": "Bob Vila",
       "source_url": "https://www.bobvila.com",
       "published": "2026-08-11T13:00:00+00:00"
+    },
+    {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
     },
     {
       "id": "32f62694ecfe87ad",
@@ -1221,7 +1236,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-blue-house-atelier-backlar-adaptive-reuse-sao-miguel-island-azores-portugal-architecture_dezeen_2364_col_9-scaled-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-09T09:00:07+00:00"
     },
@@ -1454,6 +1469,19 @@
       ],
       "source": "Core77",
       "source_url": "https://www.core77.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-08-07T13:00:00+00:00"
     },
     {
@@ -1917,9 +1945,22 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "b394ac9ab67d574a",
@@ -2227,6 +2268,19 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
+    },
+    {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2658,6 +2712,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
