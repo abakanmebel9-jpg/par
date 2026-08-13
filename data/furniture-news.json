@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-13T17:07:40.292546+00:00",
-  "generated_at_human": "2026-08-13 17:07 UTC",
-  "total_items": 265,
+  "generated_at": "2026-08-13T19:15:45.876104+00:00",
+  "generated_at_human": "2026-08-13 19:15 UTC",
+  "total_items": 269,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -53,6 +54,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design furniture",
     "Yanko Design home",
@@ -60,8 +62,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 61,
+  "sources_count": 56,
+  "multi_photo_items": 62,
   "items": [
     {
       "id": "90486e2c7d6f850a",
@@ -71,11 +73,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=39835",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=65502",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=17523",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=24078",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=44347"
+        "https://i.archi.ru/i/1262/310555.jpg?r=139",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=85318",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=35140",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=90339",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=61044"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -89,7 +91,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=54429",
+        "https://i.archi.ru/i/1262/510881.jpg?r=65060",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -129,6 +131,39 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "ad98e79a50f803dd",
+      "title": "4 Ancient Japanese Crafts Reborn as Furniture You Can Actually Own",
+      "summary": "4 Ancient Japanese Crafts Reborn as Furniture You Can Actually Own Japan has always had a complicated relationship with the new. On one hand, the country gave us bullet trains, robot hotels, and vending machines that...",
+      "url": "https://www.yankodesign.com/2026/08/13/4-ancient-japanese-crafts-reborn-as-furniture-you-can-actually-own/?utm_source=rss&utm_medium=rss&utm_campaign=4-ancient-japanese-crafts-reborn-as-furniture-you-can-actually-own",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/4-ancient-japanese-crafts-reborn-as-furniture-you-can-actually-own/red-craft-01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/4-ancient-japanese-crafts-reborn-as-furniture-you-can-actually-own/red-craft-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/07/skrolla-is-a-striking-lounge-chair-that-curves-and-bends-to-offer-a-comfortable-seat/skrolla-6.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/11/09/sumo-cord-red-couple.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/japanese-designs-of-august/7_best_japanese_products_yanko_design_hero.jpg"
+      ],
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-13T17:20:24+00:00"
+    },
+    {
+      "id": "2fc29819aa21f5dd",
+      "title": "Old Teacups Aren't Trash: A Brilliant Way To Make Them Part Of Cute Countertop Storage",
+      "summary": "Old teacups might be too small for your regular cuppa Joe... but their size makes them perfect for this simple yet charming countertop storage idea.",
+      "url": "https://www.hunker.com/2233153/old-teacups-arent-trash-use-scoops-countertop-storage/",
+      "image": "https://www.hunker.com/img/gallery/old-teacups-arent-trash-use-scoops-countertop-storage/l-intro-1786516369.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/old-teacups-arent-trash-use-scoops-countertop-storage/l-intro-1786516369.jpg",
+        "https://www.hunker.com/img/gallery/old-teacups-arent-trash-use-scoops-countertop-storage/intro-1786516369.jpg",
+        "https://www.hunker.com/img/gallery/old-teacups-arent-trash-use-scoops-countertop-storage/tips-for-using-old-teacups-in-glass-containers-on-your-countertop-1786516370.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-13T17:00:00+00:00"
     },
     {
       "id": "741a48cd86fab113",
@@ -483,7 +518,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/SR-Ice-Cream-Miyakojima-kii_dezeen_2364_col_sq4.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-13T05:00:37+00:00"
     },
@@ -621,9 +656,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/this-cork-cactus-looks-like-decor-and-acts-like-3-pieces-of-furniture/corctus-cork-cactus-stand-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/09/house-with-in-law-suite-draft/l_shaped_house_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/01/05/mesa01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/table-brings-electronic-waste-to-life-with-closed-loop-design/olo-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/haragana_lounge_chair_7.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/06/22/flood_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/10/ikea_hay_ypperlig_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -683,9 +718,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/furniture-made-from-wood-scraps-youd-actually-pay-for/fragments-becoming-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/top-5-stool-designs-to-incorporate-into-your-living-room-asap/top_5_stool_designs_yanko_design_hero.webp",
-        "https://www.yankodesign.com/images/design_news/2026/06/a-stool-a-bookstand-and-a-small-monument-to-stillness/bookchair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/02/auto-draft/02_hytte_hyttelivingltd_cabinhotel.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/07/the-oasis-planter-is-actually-a-side-table-with-lamp/oasis_botanic_furniture_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/02/geode_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/10/this-lego-inspired-concept-lets-you-to-custom-build-your-seating-arrangement/1_Blok_Markus-Melcher_seating-blocks-furniture.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -729,19 +764,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-12T12:12:59+00:00"
-    },
-    {
-      "id": "cbb9d987c6d54f1d",
-      "title": "They Didn’t Want the Kitchen to Be the Heart of the Home — Here’s Why",
-      "summary": "The thought of building a kitchen from scratch might seem daunting to some (me included!), but to Tim and Kat Moore, it was a no-brainer when it came to their coastal Sicily house.The unfinished room, which essentially served as a walkway to gorgeous sea views, was actually a benefit to them. Instead of having to remove outdated fixtures, they could imagine how the space would work for them.The couple didn’t want to compromise the sea view with a flashy, loud kitchen. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/sicilian-coastal-kitchen-renovation-ba-37685178?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/may/kat/before-after/kat-before-lead",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/may/kat/before-after/kat-before-lead"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-12T12:00:00+00:00"
     },
     {
       "id": "cf9bf922df3a5dd2",
@@ -804,7 +826,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/godspeed-summer-exhibition-uppercut_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-12T08:00:26+00:00"
     },
@@ -986,6 +1008,19 @@
       "published": "2026-08-11T13:00:00+00:00"
     },
     {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
+    },
+    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -1036,12 +1071,7 @@
       "url": "https://www.yankodesign.com/2026/08/11/ex-mclaren-designers-just-built-a-130000-carbon-fiber-chair/?utm_source=rss&utm_medium=rss&utm_campaign=ex-mclaren-designers-just-built-a-130000-carbon-fiber-chair",
       "image": "https://www.yankodesign.com/images/design_news/2026/08/ex-mclaren-designers-just-built-a-130000-carbon-fiber-chair/ennua-element-01-08.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/ex-mclaren-designers-just-built-a-130000-carbon-fiber-chair/ennua-element-01-08.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/peep-into-the-interior-of-this-is-it-the-largest-to-be-motor-catamaran-for-charter/This-is-it-catamaran-5.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/this-minimalist-bedside-table-is-definitely-too-smart-for-its-own-good/Nightable_sidetable_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/11/10/rek_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/08/ex-mclaren-designers-just-built-a-130000-carbon-fiber-chair/ennua-element-01-08.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1419,7 +1449,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-blue-house-atelier-backlar-adaptive-reuse-sao-miguel-island-azores-portugal-architecture_dezeen_2364_col_9-scaled-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-09T09:00:07+00:00"
     },
@@ -1588,6 +1618,19 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-07T14:20:54+00:00"
+    },
+    {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
     },
     {
       "id": "b9e697853d048199",
@@ -1946,7 +1989,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/IMG_0412.jpg"
       ],
-      "source": "Design Milk",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-04T16:48:36+00:00"
     },
@@ -2011,9 +2054,22 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "b394ac9ab67d574a",
@@ -2305,6 +2361,19 @@
       "published": "2026-07-30T19:58:26+00:00"
     },
     {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
+    },
+    {
       "id": "72664b960ea7af2a",
       "title": "Post & Rung Standing Desk",
       "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
@@ -2438,19 +2507,6 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-07-28T18:24:50+00:00"
-    },
-    {
-      "id": "6cd95d910826b151",
-      "title": "This Steel Side Table Has 6 Functions and Zero Extra Parts",
-      "summary": "This Steel Side Table Has 6 Functions and Zero Extra Parts Living with limited floor space has always required some level of compromise, and furniture is usually where that compromise shows most. Side tables, in particular,...",
-      "url": "https://www.yankodesign.com/2026/07/28/this-steel-side-table-has-6-functions-and-zero-extra-parts/?utm_source=rss&utm_medium=rss&utm_campaign=this-steel-side-table-has-6-functions-and-zero-extra-parts",
-      "image": "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg"
-      ],
-      "source": "Yanko Design furniture",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-07-28T14:20:55+00:00"
     },
     {
       "id": "cd8c8dbd16062e63",
@@ -2695,6 +2751,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
@@ -3779,19 +3848,6 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-18T08:00:14+00:00"
-    },
-    {
-      "id": "d8e2d2e00d3f6a97",
-      "title": "Ten products that make for design-forward bathrooms and kitchens",
-      "summary": "Dezeen Showroom: perfume bottle-informed tapware and an extractor fan controlled using physical dials are among recent kitchen and bathroom products listed on Dezeen Showroom. Recently we've published a broad array of cooking appliances, kitchen units, sanitaryware and furnishings on our furniture section, which are all designed to enhance both the look and feel of kitchens The post Ten products that make for design-forward bathrooms and kitchens appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/05/15/bathrooms-kitchens-products-furnishings-accessories-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/05/very-simple-kitchen-smart-shelf-showroom_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen tag kitchens",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-05-15T18:00:04+00:00"
     }
   ]
 }
