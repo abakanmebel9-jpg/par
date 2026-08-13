@@ -1,12 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-13T11:56:10.158906+00:00",
-  "generated_at_human": "2026-08-13 11:56 UTC",
-  "total_items": 272,
+  "generated_at": "2026-08-13T13:38:58.746228+00:00",
+  "generated_at_human": "2026-08-13 13:38 UTC",
+  "total_items": 266,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -42,7 +43,6 @@
     "NKBA",
     "PopSugar Home",
     "Popular Woodworking",
-    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -59,11 +59,10 @@
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
-    "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 59,
+  "sources_count": 55,
+  "multi_photo_items": 61,
   "items": [
     {
       "id": "90486e2c7d6f850a",
@@ -72,9 +71,14 @@
       "url": "https://archi.ru/russia/102104/reinkarnaciya-gory-i-lotosa",
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/499156.jpg"
+        "https://i.archi.ru/i/1262/499156.jpg",
+        "https://i.archi.ru/i/1262/310555.jpg?r=57816",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=8413",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=55271",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=6875",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=11898"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -85,9 +89,14 @@
       "url": "https://archi.ru/world/102452/dizain-barov-v-sssr-na-primere-rigi--kh",
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
-        "https://i.archi.ru/i/1262/509252.png"
+        "https://i.archi.ru/i/1262/509252.png",
+        "https://i.archi.ru/i/1262/510881.jpg?r=46263",
+        "https://i.archi.ru/i/1262/509273.png",
+        "https://i.archi.ru/i/1262/509280.png",
+        "https://i.archi.ru/i/1262/509272.png",
+        "https://i.archi.ru/i/1262/509276.png"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -98,9 +107,14 @@
       "url": "https://archi.ru/russia/102583/zabaikalskaya-ogranka",
       "image": "https://i.archi.ru/i/1262/501519.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/501519.jpg"
+        "https://i.archi.ru/i/1262/501519.jpg",
+        "https://i.archi.ru/i/1262/501529.jpg",
+        "https://i.archi.ru/i/1262/501528.jpg",
+        "https://i.archi.ru/i/1262/501530.jpg",
+        "https://i.archi.ru/i/1262/501525.jpg",
+        "https://i.archi.ru/i/1262/501531.jpg"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -118,6 +132,76 @@
       "published": ""
     },
     {
+      "id": "000f65d77815859c",
+      "title": "I Used to Hate the Weird Kitchen Layout in My 136-Year-Old Home",
+      "summary": "When you’re in a hot housing market, there’s a give and take to finding (and affording) the perfect house. For me, my compromise was that I chose to buy a major fixer-upper, rather than a move-in ready home. But the second compromise I made was a little less expected — and had to do with the strange layout of the house.You’ll often hear that you can find “deals” on houses that have quirks that might appeal to a specific buyer. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/victorian-home-second-floor-kitchen-37685155?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/real-estate/2024-07/quirky-kitchen-layout/kitchen-layout-lead",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/real-estate/2024-07/quirky-kitchen-layout/kitchen-layout-lead"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-13T13:15:00+00:00"
+    },
+    {
+      "id": "2ddc2b7a0f565078",
+      "title": "Amona Lab's Wildly Different Take on Domestic Furniture",
+      "summary": "A new Chinese company called Amona Lab has debuted their wildly different take on domestic furniture. They've designed a line of modular storage units that's unlike anything I've seen in the West—at least in the domestic space. In my eyes, the company's style borrows from laboratories, examination rooms, industrial kitchens and even garages. I find it oddly appealing: It's such an interesting take. They don't do upper cabinets, instead opting for pegboard-style open storage. Down below, everything touching the floor is on wheels. They use metal, glass and wood. The look is clean, almost…",
+      "url": "https://www.core77.com/posts/145064/Amona-Labs-Wildly-Different-Take-on-Domestic-Furniture",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1845696_lead_400_145064_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1845696_lead_400_145064_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-13T13:00:00+00:00"
+    },
+    {
+      "id": "f98257830345a4ac",
+      "title": "Every Room of This Michael S. Smith-Designed Villa in Majorca Has Breathtaking Garden Views",
+      "summary": "The agrarian island retreat boasts 135 acres of citrus groves, olive trees, and the most romantic skyline.",
+      "url": "https://www.veranda.com/decorating-ideas/house-tours/a73308772/michael-s-smith-majorca-home-garden/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/2e32ab24-7af5-4c4c-90cc-ac126c7b7f9b.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/2e32ab24-7af5-4c4c-90cc-ac126c7b7f9b.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/cca349bc-b5ce-4613-abbd-583883016943.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/88458464-fce2-45ab-90d0-300ff6f08dd4.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/16fc363b-3255-46bd-a6e9-92477a622523.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/f6cb9f7d-9207-452d-9aa0-8e5415b8f66a.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/d315514b-df35-44c5-bc6c-5954135bcd38.jpg"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-08-13T12:57:00+00:00"
+    },
+    {
+      "id": "a02215376b6854af",
+      "title": "I Put a Nightstand in My Closet, and It Was a Practical Small-Space Storage Hack",
+      "summary": "If there’s one adage I live by, it’s that there should be a place for everything, and everything should be in its place. I’m a typical “Type A” eldest daughter, and the thought of not putting things back where they belong as soon as I’m done with them is simply beyond comprehension. Normally, this dedication to organization is a positive trait. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/nightstand-closet-storage-37685271?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-08/nightstand-in-closet/heather-closet-before-lead",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-08/nightstand-in-closet/heather-closet-before-lead"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-13T12:30:00+00:00"
+    },
+    {
+      "id": "b4b20aa717d536cb",
+      "title": "A Builder-Grade Kitchen Felt Uninspiring — Color-Maxxing Changed That",
+      "summary": "Digital creator, interior decorator, and color-lover Devin Downs quickly realized that the somewhat basic kitchen in his New York City rental wasn’t going to work for him.“The kitchen had no personality — it felt purely functional and uninspiring,” he explains. “I was cooking in a sea of beige and stainless steel.”After painting the adjoining hallway with Behr’s “Young Green,” Devin knew the kitchen needed to mirror that energy. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/colorful-nyc-kitchen-ba-37685186?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/devin-d/before-after/tour-newyork-devin-d-before-tagged-9278",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/devin-d/before-after/tour-newyork-devin-d-before-tagged-9278"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-13T12:00:00+00:00"
+    },
+    {
       "id": "725907f94ed90604",
       "title": "The Best Decorating Ideas in These Rooms Aren’t the Biggest Ones",
       "summary": "Large furniture establishes how a room functions, but smaller decisions often give the eye somewhere to stop. An unusual lamp beside a sofa, branches reaching above a cabinet, art arranged around an awkward wall, or a narrow shelf squeezed into unused space can have more visual impact than adding another major piece. These interiors show... The post The Best Decorating Ideas in These Rooms Aren’t the Biggest Ones appeared first on Homedit .",
@@ -126,10 +210,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Best-Decorating-Ideas-in-These-Rooms-Arent-the-Biggest-Ones.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Blue-and-White-Tile-Isnt-Staying-in-the-Kitchen-Anymore.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Nobody-Thinks-About-the-Dishwasher-Until-They-See-One-Like-This.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Plants-Interrupt-the-Straight-Lines-of-Open-Shelving.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Narrow-Display-Towers-Use-a-Thin-Strip-of-Floor.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Magazine-Storage-Becomes-Part-of-the-Side-Table.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Magazine-Storage-Becomes-Part-of-the-Side-Table.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Low-Furniture-Leaves-More-Wall-for-Art.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -157,14 +241,27 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/One-Tile-Choice-Changed-Almost-Every-Surface-in-This-Bathroom.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Blue-and-White-Tile-Isnt-Staying-in-the-Kitchen-Anymore.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Nobody-Thinks-About-the-Dishwasher-Until-They-See-One-Like-This.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Black-Fixtures-Break-Up-the-Green-Tile.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Tile-Continued-Around-the-Side-Walls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Green-Subway-Tile-Started-at-the-Tub.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Green-Subway-Tile-Started-at-the-Tub.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Walls-Were-Opened-Before-the-New-Finish-Went-In.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-13T10:24:30+00:00"
+    },
+    {
+      "id": "1c1733802d7a9529",
+      "title": "Kitchen of the Week: Stylist Brittany Albert’s Cosmetic Kitchen Upgrade, Trade Secrets Included",
+      "summary": "Brittany Alberts’s lament is a familiar one: “If budget hadn’t been a consideration, we would have loved to expand the footprint of our kitchen. And we would have loved to put in new cabinets and appliances. Instead, we had to stick with—and enhance what—was already in place.” The wrinkle? Brittany is a stylist who works […]",
+      "url": "https://www.remodelista.com/posts/stylist-brittany-alberts-cosmetic-kitchen-upgrade/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2023/02/stylist-brittany-albert-cosmetic-kitchen-remodel-ct-kate-jordan-photo-5.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2023/02/stylist-brittany-albert-cosmetic-kitchen-remodel-ct-kate-jordan-photo-5.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-08-13T10:00:38+00:00"
     },
     {
       "id": "9672efaa58d929f2",
@@ -174,11 +271,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Tile-Frames-Replace-Painted-Door-Trim.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Tile-Frames-Replace-Painted-Door-Trim.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Nobody-Thinks-About-the-Dishwasher-Until-They-See-One-Like-This.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/One-Material-Connects-Every-Room.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Tile-Continues-Into-the-Bedroom.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Artwork-and-Tile-Share-the-Same-Palette.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Floral-Motifs-Repeat-Without-Looking-Identical.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Floral-Motifs-Repeat-Without-Looking-Identical.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Individual-Tiles-Form-One-Continuous-Image.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -471,9 +568,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/this-cork-cactus-looks-like-decor-and-acts-like-3-pieces-of-furniture/corctus-cork-cactus-stand-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/11/26/poise_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/03/01/lindvall_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/products-for-plants/indoor_gardening_products_for_plants_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/09/plane-dining-table-looks-like-a-precarious-game-of-jenga/plane-dining-12.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/05/02/mk1_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/this-rotating-solar-house-grows-fish-and-plants-entirely-on-its-own/the-eco-aquaponic-house-07.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -533,9 +630,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/furniture-made-from-wood-scraps-youd-actually-pay-for/fragments-becoming-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/05/desk-setups-that-maximize-your-work-from-home-productivity/desk_setups_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/04/kopeva_furniture_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/11/unique-chair-design-lets-you-sit-comfortably-if-thats-how-you-sit/1.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/01/this-sustainable-folding-stool-turns-wasteful-pet-bottles-into-a-tool-for-an-agile-lifestyle/takeoseat-folding-stool_felt_sustainable-design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/04/pause-bench/pause_bench_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/07/4-al-stool-by-paul-matteo-wesser-redefines-sustainable-furniture-with-repurposed-materials/4-AL_Stool_furniture_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -618,19 +715,6 @@
       "source": "Garden & Home SA",
       "source_url": "https://gardenandhome.co.za",
       "published": "2026-08-12T10:49:15+00:00"
-    },
-    {
-      "id": "5e419cd64069dad8",
-      "title": "Under-the-Stairs Shelving Is Becoming a Display Wall Instead of Storage",
-      "summary": "The space beneath a staircase usually serves one purpose: storage. Cabinets, closets, and drawers hide everyday items behind solid doors, leaving the angled wall to disappear into the background. This design uses the same footprint in a different way. Open shelving follows the slope of the staircase, while integrated lighting and a small collection of... The post Under-the-Stairs Shelving Is Becoming a Display Wall Instead of Storage appeared first on Homedit .",
-      "url": "https://www.homedit.com/under-the-stairs-shelving-is-becoming-a-display-wall-instead-of-storage/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Under-the-Stairs-Shelving-Is-Becoming-a-Display-Wall-Instead-of-Storage.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Under-the-Stairs-Shelving-Is-Becoming-a-Display-Wall-Instead-of-Storage.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-12T09:31:20+00:00"
     },
     {
       "id": "5fec27190d7916b7",
@@ -718,19 +802,6 @@
       "published": "2026-08-12T06:10:06+00:00"
     },
     {
-      "id": "80c30dbbb5e2ffba",
-      "title": "XXII Национальная премия в области промышленного дизайна мебели «Золотая кабриоль»",
-      "summary": "Приглашаем принять участие в XXII Национальной премии в области промышленного дизайна мебели «Золотая кабриоль». В конкурсе на соискание Премии могут принимать участие российские производители мебели (компании, индивидуальные предприниматели), практикующие специалисты в сфере дизайна, студенты профильных вузов. Номинации Премии Корпусная мебель Мягкая мебель Мебель для общественных помещений Мебель для кухни Будущие звезды Критерии оценки работ Оригинальность, новизна дизайна и конструкций изделия; Функциональные, эргономические и экологические качества изделия и его соответствие…",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/xxii-%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%8F-%D0%B2-%D0%BE%D0%B1%D0%BB%D0%B0%D1%81%D1%82%D0%B8-%D0%BF%D1%80%D0%BE%D0%BC%D1%8B%D1%88%D0%BB%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD%D0%B0-%D0%BC%D0%B5%D0%B1%D0%B5%D0%BB%D0%B8-%C2%AB%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%D1%8F-%D0%BA%D0%B0%D0%B1%D1%80%D0%B8%D0%BE%D0%BB%D1%8C%C2%BB.html",
-      "image": "http://amedoro.com/images/103.jpg",
-      "images": [
-        "http://amedoro.com/images/103.jpg"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-08-12T06:06:03+00:00"
-    },
-    {
       "id": "267782b3cee108b5",
       "title": "This French woodland home by In Sinu melds with its leafy context",
       "summary": "French practice In Sinu Architectes gains its place in the Wallpaper* Architects’ Directory 2026 with a fairytale timber house in the woods",
@@ -795,21 +866,6 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-08-12T00:31:57+00:00"
-    },
-    {
-      "id": "cb6f9dd098183d72",
-      "title": "The Kitchen Item No One Uses Anymore But Makes Stylish Countertop Storage",
-      "summary": "It's often more convenient to keep items in reach on the counter. Luckily, this old-school storage item comes in various styles and is designed to be displayed.",
-      "url": "https://www.hunker.com/2233533/upcycle-recipe-box-stylish-countertop-storage/",
-      "image": "https://www.hunker.com/img/gallery/the-kitchen-item-no-one-uses-anymore-but-makes-stylish-countertop-storage/l-intro-1786373787.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/the-kitchen-item-no-one-uses-anymore-but-makes-stylish-countertop-storage/l-intro-1786373787.jpg",
-        "https://www.hunker.com/img/gallery/the-kitchen-item-no-one-uses-anymore-but-makes-stylish-countertop-storage/intro-1786373787.jpg",
-        "https://www.hunker.com/img/gallery/the-kitchen-item-no-one-uses-anymore-but-makes-stylish-countertop-storage/what-to-stash-in-a-recipe-box-1786373789.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-11T22:30:00+00:00"
     },
     {
       "id": "3737d98f69bbb3b3",
@@ -931,19 +987,6 @@
       "published": "2026-08-11T12:29:35+00:00"
     },
     {
-      "id": "4b528842ee8035c4",
-      "title": "She Painted Her Small Kitchen Dark — Now It Looks Twice as Big",
-      "summary": "It seems as if more and more people are leaning into darker kitchen cabinets, whether it’s through deeper wood tones or striking paint colors. But sometimes your first try at the dramatic look just isn’t, well, dramatic enough — something Mara Greenwald learned the hard way when she was reimagining the kitchen in her home.Mara’s original kitchen had a 2000s aesthetic, and the wood cabinets contributed to that overall vibe. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/dark-dramatic-cabinet-paint-love-letter-37685171?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-07/mara-g-condo-kitchen/mara-g-condo-kitchen-before-tagged-8644",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-07/mara-g-condo-kitchen/mara-g-condo-kitchen-before-tagged-8644"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-11T12:00:00+00:00"
-    },
-    {
       "id": "345cfa217ec62dca",
       "title": "The Unique Design Detail That Every Kitchen Island Needs",
       "summary": "This Davis, California, kitchen has a unique feature that instantly warms the space: a kitchen island with rounded corners.",
@@ -971,9 +1014,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/ex-mclaren-designers-just-built-a-130000-carbon-fiber-chair/ennua-element-01-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/07/layer-design-reveals-pendler-e-bike-with-modular-accessories-and-high-practicality-quotient/Layer-Design-Pendler-electric-Bicycle-2.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/04/19/agcafe01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/09/pininfarina-teams-up-to-design-driving-simulators-that-brings-classic-car-nostalgia-to-your-living-room/Pininfarina-Simulator_vintage3.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/07/the-plywood-chair-that-becomes-a-castle-in-2-moves/casul-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/07/auto-draft/batmobile_2020_gt_6.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/grid-modular-sound-system-also-doubles-as-modern-art/grid-010.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1101,8 +1144,8 @@
       "image": "https://sunset.com/wp-content/uploads/2026/07/II5FDYV5L2zaN7zC-Alila-Ventana-Big-Sur-2_a2ea8a.jpg?w=1200&h=600&crop=1",
       "images": [
         "https://sunset.com/wp-content/uploads/2026/07/II5FDYV5L2zaN7zC-Alila-Ventana-Big-Sur-2_a2ea8a.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/regent-sunset-lovable-san-francisco-twin-peaks-unsplash-0826.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/07/davis-kitchen-yvonne-harty-pc-rachel-seva.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/mojito-shrimp_1.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/woman-airport-pc-hunterhaus-productions-getty.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/highway-1-road-trip-mile-373-big-sur-0913-1.jpg?w=256&h=142&crop=1",
         "https://sunset.com/wp-content/uploads/Castle-Hot-Springs-soak-desert-view-DSC3761.jpg?w=256&h=142&crop=1",
         "https://img.sunset02.com/sites/default/files/image/2017/03/main/california-julia-pfeiffer-burns-state-park-50camp0217.jpg?w=256&h=142&crop=1"
@@ -1755,19 +1798,6 @@
       "published": "2026-08-06T13:36:16+00:00"
     },
     {
-      "id": "9ea2e3efbaa8ff58",
-      "title": "Slick Drawer Runners",
-      "summary": "One day, I really fed up with the drawers in my desk at home. They’re the old-fashioned kind, which ride on their wooden sides. The sides had become so worn... Source",
-      "url": "https://www.popularwoodworking.com/tricks/slick-drawer-runners/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/03095034/nov09-slick-drawer-runners.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/03095034/nov09-slick-drawer-runners.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-06T12:48:23+00:00"
-    },
-    {
       "id": "ec3aa5de64a266a4",
       "title": "Kitchen(ette) of the Week: 5 Space-Saving Ideas to Steal from a Brooklyn Cookspace, Ikea Hack Included",
       "summary": "This kitchenette, which rests on the top floor of a Brooklyn brownstone, appears in our book Remodelista: The Organized Home, and every time I stumble upon the photograph, I’m reminded that this is how I want to live—surrounded by fewer, more considered possessions. It’s not just a pretty picture, though. Despite its space limitations, this […]",
@@ -2008,7 +2038,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2135,7 +2165,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2221,24 +2251,6 @@
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
       "published": "2026-07-31T21:49:47+00:00"
-    },
-    {
-      "id": "42bb5e7a2b084f4c",
-      "title": "How to Create a Furniture Plan Like a Designer",
-      "summary": "Can’t understand why a room isn’t working? Blue-chip decorator Brian J. McCarthy does, and it all comes down to a simple drawing. And it matters more than you think.",
-      "url": "https://www.veranda.com/decorating-ideas/advice-from-designers/a73221512/furniture-plan-guide/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/ad210100-2db2-45fd-8f51-00801cf9dcf7.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/ad210100-2db2-45fd-8f51-00801cf9dcf7.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/7207500e-acf3-4283-b0f9-9aae6ba8d7d7.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/e1d50974-f4cd-4311-82ee-0b24ae3357b1.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/ab318ef2-6762-47c9-b0e7-fb302f731c7e.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/630764d8-9a69-4bd0-9fe0-5155d71329d8.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/3684ab14-93a6-4ceb-9de0-79092dcd413d.jpg"
-      ],
-      "source": "Veranda",
-      "source_url": "https://www.veranda.com",
-      "published": "2026-07-31T20:53:37+00:00"
     },
     {
       "id": "f182c9ad3d97475e",
@@ -2344,19 +2356,6 @@
       "source": "Azure magazine CA",
       "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-30T19:18:52+00:00"
-    },
-    {
-      "id": "72664b960ea7af2a",
-      "title": "Post & Rung Standing Desk",
-      "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
-      "url": "https://www.popularwoodworking.com/projects/post-rung-standing-desk/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-30T15:23:28+00:00"
     },
     {
       "id": "1aac48720ac53800",
@@ -2518,19 +2517,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-28T08:00:53+00:00"
-    },
-    {
-      "id": "b6efd02ebac7cf7c",
-      "title": "Компания «ФЕЛИКС» завершила поставку мебели для Арбитражного суда в Москве",
-      "summary": "27 июля 2026 года, Москва Компания «ФЕЛИКС» успешно завершила комплексное оснащение мебелью залов судебных заседаний, рабочих кабинетов и других помещений Арбитражного суда в Москве. Поставки осуществлялись в рамках государственного контракта.Снимок экрана — 2026-07-31 в 11.51.41 Всего для суда было изготовлено и поставлено порядка 1000 предметов мебели.",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/feliks-mebel-arbitrazhnyj-sud-moskva.html",
-      "image": "http://amedoro.com/images/2026-07-31_115141.png",
-      "images": [
-        "http://amedoro.com/images/2026-07-31_115141.png"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-07-28T05:12:08+00:00"
     },
     {
       "id": "008c74a0d1d1467c",
@@ -2899,19 +2885,6 @@
       "published": "2026-07-17T10:00:34+00:00"
     },
     {
-      "id": "2415d48aa87c549b",
-      "title": "Mahogany Entry Table",
-      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
-      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-16T18:43:10+00:00"
-    },
-    {
       "id": "7d1022c9dc0de763",
       "title": "Strength, Not Ornament: The Distinctly Female Presence Behind Coogee House III.",
       "summary": "In Coogee, Sydney architect Hannah Tribe and interior designer Genevieve Hromas shaped a family home around a distinctly female presence, expressed through strength rather than ornament. Brick detailing reads like stitches in a tapestry; render recalls icing; timber dowelling nods to the client's own skill with leather. Call it matrilineal logic made architectural— memory and craft, channelled by two women who admired each other's work every bit as much as they respected the client whose history shaped it all. | The article Strength, Not Ornament: The Distinctly Female Presence Behind…",
@@ -3182,19 +3155,6 @@
       "published": "2026-06-26T13:00:57+00:00"
     },
     {
-      "id": "16bc0274f40cae6b",
-      "title": "АМДПР приглашает российские компании в бизнес-миссию на CIFF Shanghai и WMF 2026",
-      "summary": "С 5 по 8 сентября 2026 года в Шанхае пройдут 58-я Китайская международная мебельная выставка CIFF Shanghai и Международная выставка оборудования для мебельного производства и деревообработки WMF 2026. АМДПР совместно с китайскими партнерами формирует российскую делегацию и приглашает предприятия мебельной и деревообрабатывающей промышленности принять участие в бизнес-миссии.",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B0%D0%BC%D0%B4%D0%BF%D1%80-%D0%BF%D1%80%D0%B8%D0%B3%D0%BB%D0%B0%D1%88%D0%B0%D0%B5%D1%82-%D1%80%D0%BE%D1%81%D1%81%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B5-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%D0%B2-%D0%B1%D0%B8%D0%B7%D0%BD%D0%B5%D1%81-%D0%BC%D0%B8%D1%81%D1%81%D0%B8%D1%8E-%D0%BD%D0%B0-ciff-shanghai-%D0%B8-wmf-2026.html",
-      "image": "http://amedoro.com/images/2026-06-26__162911.png",
-      "images": [
-        "http://amedoro.com/images/2026-06-26__162911.png"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-06-26T09:44:55+00:00"
-    },
-    {
       "id": "bcba329464b72dfc",
       "title": "Custom furniture created for Azteca Stadium's interior revamp",
       "summary": "A group of local designers have showcased a custom furniture collection as part of an overall overhaul of the interiors at Mexico City's Azteca Stadium, one of the venues for the 2026 FIFA World Cup. Mexican studios CUAIK | CDS, Luis Huerta, Estudio Ignacio Urquiza Ana Paula de Alba, CAAM Arquitectos and Clásicos Mexicanos collaborated The post Custom furniture created for Azteca Stadium's interior revamp appeared first on Dezeen .",
@@ -3291,19 +3251,6 @@
       "published": "2026-06-17T08:00:47+00:00"
     },
     {
-      "id": "a6274e38bce6a790",
-      "title": "Десять будущих кладовщиков завершили практику на предприятии компании «ФЕЛИКС»",
-      "summary": "Студенты ГБПОУ «Торопецкий колледж» завершили практику на крупнейшем предприятии мебельной отрасли Тверской области — фабрике компании «ФЕЛИКС». Практика стала заключительным модулем обучения по теме «Оценка эффективности работы логистических систем и контроль логистических операций» для выпускников специальности «Операционная деятельность в логистике». В течение недели десять будущих кладовщиков отрабатывали профессиональные навыки и знакомились с работой современного мебельного предприятия.",
-      "url": "http://amedoro.com/ru/news/novosti-otrasli/%D0%B4%D0%B5%D1%81%D1%8F%D1%82%D1%8C-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B8%D1%85-%D0%BA%D0%BB%D0%B0%D0%B4%D0%BE%D0%B2%D1%89%D0%B8%D0%BA%D0%BE%D0%B2-%D0%B7%D0%B0%D0%B2%D0%B5%D1%80%D1%88%D0%B8%D0%BB%D0%B8-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D1%83-%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%B4%D0%BF%D1%80%D0%B8%D1%8F%D1%82%D0%B8%D0%B8-%D0%BA%D0%BE%D0%BC%D0%BF%D0%B0%D0%BD%D0%B8%D0%B8-%C2%AB%D1%84%D0%B5%D0%BB%D0%B8%D0%BA%D1%81%C2%BB.html",
-      "image": "http://amedoro.com/images/2026-06-17__123342.png",
-      "images": [
-        "http://amedoro.com/images/2026-06-17__123342.png"
-      ],
-      "source": "АМДПР",
-      "source_url": "http://amedoro.com",
-      "published": "2026-06-17T06:30:20+00:00"
-    },
-    {
       "id": "dd24c1858088e7c4",
       "title": "Sail table by Design By Them among seven new products on Dezeen Showroom",
       "summary": "Dezeen Showroom: an all-aluminium dining table with crimped sides is among seven new products featured on Dezeen Showroom. Sail table by Tom Fereday for Design By Them Designer Tom Fereday's Sail table for Australian brand Design By Them is made entirely from aluminium and its top features distinctively folded-over sides. The table comes in three sizes The post Sail table by Design By Them among seven new products on Dezeen Showroom appeared first on Dezeen .",
@@ -3390,7 +3337,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3620,7 +3567,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3859,19 +3806,6 @@
       "source": "Dezeen tag kitchens",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-15T18:00:04+00:00"
-    },
-    {
-      "id": "545aa01fe30d2f93",
-      "title": "Tiny Kitchen Green Line by Neuvermoebelt",
-      "summary": "Dezeen Showroom: Austrian design brand Neuvermoebelt has released a modular system comprising tall, base and curved units for creating compact yet design-forward kitchens. Just like the wider Home Composite Unit 33 series, the Tiny Kitchen Green Line is an alternative to traditional built-in kitchens, designed to act as practical items of furniture rather than purely The post Tiny Kitchen Green Line by Neuvermoebelt appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/05/15/tiny-kitchen-green-line-neuvermoebelt-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/05/tiny-kitchen-green-line-neuvermoebelt-dezeen-showroom_dezeen_2364_col_1-1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/05/tiny-kitchen-green-line-neuvermoebelt-dezeen-showroom_dezeen_2364_col_1-1.jpg"
-      ],
-      "source": "Dezeen tag kitchens",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-05-15T13:00:13+00:00"
     }
   ]
 }
