@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-13T15:09:37.197831+00:00",
-  "generated_at_human": "2026-08-13 15:09 UTC",
-  "total_items": 272,
+  "generated_at": "2026-08-13T17:07:40.292546+00:00",
+  "generated_at_human": "2026-08-13 17:07 UTC",
+  "total_items": 265,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -54,16 +53,14 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
+  "sources_count": 54,
   "multi_photo_items": 61,
   "items": [
     {
@@ -74,11 +71,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=9148",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=69066",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=7966",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=5579",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=996"
+        "https://i.archi.ru/i/1262/310555.jpg?r=39835",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=65502",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=17523",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=24078",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=44347"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -92,7 +89,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=94965",
+        "https://i.archi.ru/i/1262/510881.jpg?r=54429",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -132,6 +129,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "741a48cd86fab113",
+      "title": "The Stutey Lathe: A Different Way to Think About Woodturning",
+      "summary": "Woodworking is full of specialties. There’s carving, scroll saw work, marquetry, chairmaking, turning, and countless others. The deeper you dive into any one of those disciplines, the more you discover... Source",
+      "url": "https://www.popularwoodworking.com/tools/the-stutey-lathe-a-different-way-to-think-about-woodturning/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/11103748/stutey-lathe.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/11103748/stutey-lathe.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-13T15:31:56+00:00"
     },
     {
       "id": "e6807f17f52ee4b5",
@@ -473,7 +483,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/SR-Ice-Cream-Miyakojima-kii_dezeen_2364_col_sq4.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-13T05:00:37+00:00"
     },
@@ -507,19 +517,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-08-12T22:00:00+00:00"
-    },
-    {
-      "id": "52cfdc55b1d2d0af",
-      "title": "The Pixel 11’s Coolest New Feature Is Actually 10 Years Old",
-      "summary": "The Pixel 11’s Coolest New Feature Is Actually 10 Years Old The Pixel 11 lineup arrived this week with a genuinely great redesign. The camera bar is 40 percent thinner, the glass runs edge to edge,...",
-      "url": "https://www.yankodesign.com/2026/08/12/the-pixel-11s-coolest-new-feature-is-actually-10-years-old/?utm_source=rss&utm_medium=rss&utm_campaign=the-pixel-11s-coolest-new-feature-is-actually-10-years-old",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/the-pixel-11s-coolest-new-feature-is-actually-10-years-old/google_pixel_11_series_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/the-pixel-11s-coolest-new-feature-is-actually-10-years-old/google_pixel_11_series_1.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-12T21:30:34+00:00"
     },
     {
       "id": "eee70ffe20368328",
@@ -624,9 +621,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/this-cork-cactus-looks-like-decor-and-acts-like-3-pieces-of-furniture/corctus-cork-cactus-stand-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/09/plane-dining-table-looks-like-a-precarious-game-of-jenga/plane-dining-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/05/02/mk1_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/this-rotating-solar-house-grows-fish-and-plants-entirely-on-its-own/the-eco-aquaponic-house-07.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/09/house-with-in-law-suite-draft/l_shaped_house_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/01/05/mesa01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/05/table-brings-electronic-waste-to-life-with-closed-loop-design/olo-01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -807,7 +804,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/godspeed-summer-exhibition-uppercut_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-12T08:00:26+00:00"
     },
@@ -937,19 +934,6 @@
       "published": "2026-08-12T00:31:57+00:00"
     },
     {
-      "id": "3737d98f69bbb3b3",
-      "title": "A Couple Turned a Pass-Through Space Into the Most Functional Dressing Room",
-      "summary": "When Sophie Simmons moved into her 331-square-foot New York apartment, she was living alone and planned on using the railroad apartment’s awkward middle room as her closet and living space for her “single girl setup.”“The room started as a small shoebox with a closet spanning one entire wall, and a bench seat on the other,” Sophie explains. The whole room revolved around her French Louis XVI-style John Richard coffee table that she had bought secondhand for $50. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/tiny-multifunctional-room-nyc-ba-37685123?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/sophie-s/before-after/sophie-s-closet-before-tagged-3",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/july/sophie-s/before-after/sophie-s-closet-before-tagged-3"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-11T22:00:00+00:00"
-    },
-    {
       "id": "ee88df3b06ab8020",
       "title": "Roca’s New Bathtub and Basin Turn Recycled PET Bottles Into Sculptural Bathroom Design",
       "summary": "Roca’s New Bathtub and Basin Turn Recycled PET Bottles Into Sculptural Bathroom Design The plastic bottles in your recycling bin have a surprisingly glamorous potential future. Roca’s Stonex material comes from recycled PET resin, and the expanded Ohtake...",
@@ -961,19 +945,6 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-11T20:30:28+00:00"
-    },
-    {
-      "id": "3b323a457dcb2f94",
-      "title": "My Bathroom Had Almost No Storage Until I Got an Over-the-Toilet Cabinet",
-      "summary": "When it comes to storage in my small bathroom, I have three options: an already-full medicine cabinet, a slim under-sink cabinet (and the tiny countertop) with barely enough room to fit cleaning supplies, and two floating glass shelves above my toilet. I’m not one for visual clutter, so I’ve only put a few items on the glass shelves (which makes them an impractical solution). READ MORE...",
-      "url": "https://www.apartmenttherapy.com/beautiful-over-the-toilet-storage-cabinet-review-37685812?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2020-10/Carina%20R/sueeggen021-crop",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2020-10/Carina%20R/sueeggen021-crop"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-11T20:15:00+00:00"
     },
     {
       "id": "0333ce9c9f0591ce",
@@ -1013,19 +984,6 @@
       "source": "Bob Vila",
       "source_url": "https://www.bobvila.com",
       "published": "2026-08-11T13:00:00+00:00"
-    },
-    {
-      "id": "d1cf59c92812e34d",
-      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
-      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-11T12:57:55+00:00"
     },
     {
       "id": "32f62694ecfe87ad",
@@ -1081,9 +1039,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/ex-mclaren-designers-just-built-a-130000-carbon-fiber-chair/ennua-element-01-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/the-plywood-chair-that-becomes-a-castle-in-2-moves/casul-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/07/auto-draft/batmobile_2020_gt_6.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/grid-modular-sound-system-also-doubles-as-modern-art/grid-010.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/09/peep-into-the-interior-of-this-is-it-the-largest-to-be-motor-catamaran-for-charter/This-is-it-catamaran-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/04/this-minimalist-bedside-table-is-definitely-too-smart-for-its-own-good/Nightable_sidetable_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/11/10/rek_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1461,7 +1419,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-blue-house-atelier-backlar-adaptive-reuse-sao-miguel-island-azores-portugal-architecture_dezeen_2364_col_9-scaled-1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-09T09:00:07+00:00"
     },
@@ -1632,19 +1590,6 @@
       "published": "2026-08-07T14:20:54+00:00"
     },
     {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -1738,7 +1683,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
@@ -2001,7 +1946,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/IMG_0412.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-08-04T16:48:36+00:00"
     },
@@ -2071,19 +2016,6 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
-    },
-    {
       "id": "b394ac9ab67d574a",
       "title": "The Furniture Trend of the Season? Crisp Outlines",
       "summary": "Fashion has long embraced contrast piping, and now interiors are following suit. Here's how to bring the look home.",
@@ -2145,8 +2077,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
       ],
       "source": "Interni magazine",
@@ -2193,7 +2125,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2270,11 +2202,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/09/DIY-Sideboard-Dining-Room.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/06/40-Outdoor-Coffee-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2371,19 +2303,6 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
-    },
-    {
-      "id": "6a8452150269ca98",
-      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
-      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2776,19 +2695,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
@@ -3417,7 +3323,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3647,7 +3553,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
@@ -3659,9 +3565,9 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
       ],
