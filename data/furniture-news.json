@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-14T13:34:06.529446+00:00",
-  "generated_at_human": "2026-08-14 13:34 UTC",
-  "total_items": 265,
+  "generated_at": "2026-08-14T15:02:56.751103+00:00",
+  "generated_at_human": "2026-08-14 15:02 UTC",
+  "total_items": 270,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -53,6 +54,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -61,8 +63,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 65,
+  "sources_count": 57,
+  "multi_photo_items": 66,
   "items": [
     {
       "id": "458d149e05d94a59",
@@ -72,7 +74,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=91937",
+        "https://i.archi.ru/i/1262/305304.jpg?r=52116",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -90,11 +92,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=2637",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=31949",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=88056",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=8924",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=32305"
+        "https://i.archi.ru/i/1262/310555.jpg?r=20600",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=70421",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=7407",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=91788",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=5497"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -108,7 +110,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=90502",
+        "https://i.archi.ru/i/1262/510881.jpg?r=14687",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -132,6 +134,37 @@
       "published": ""
     },
     {
+      "id": "76eec2a471bc132d",
+      "title": "Core77 Weekly Roundup (8-10-26 to 8-14-26)",
+      "summary": "Here's what we looked at this week: The MegCell Pulse: A 3D-printed guitar-playing contraption. Another low-tech disappearing-door solution from Japan. Sole : Partially 3D-printed DIY footwear. Design help needed: An easier, but uglier, automatic gate opener. Konny's Dual Support Hip Seat Carrier : A more ergonomic baby-carrying sling. Industrial designer Gudmundur Ludvik re-thinks the folding chair. Form follows function: The Godox C100 is a new camera type that's mostly viewfinder, no screen. The SkyNomad N90 Max , Xiaomi's shocking $45,000 luxury hybrid SUV. Low-tech toy design: This…",
+      "url": "https://www.core77.com/posts/145023/Core77-Weekly-Roundup-8-10-26-to-8-14-26",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1845211_lead_400_145023_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1845211_lead_400_145023_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-14T15:00:00+00:00"
+    },
+    {
+      "id": "c0fafee2c8ca7f9a",
+      "title": "Inside a North Carolina Lake House That Offers a Striking Rebuttal to the All-White Kitchen",
+      "summary": "Architect Jeffrey Dungan and interior designer Sean Anderson embrace earthy hues, natural textures, and sweeping water views to create a warm and inviting family retreat.",
+      "url": "https://www.veranda.com/decorating-ideas/house-tours/a73415899/dungan-anderson-north-carolina-lake-house/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/b9e66db3-644a-41cf-a766-7c0f64f6a670.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/b9e66db3-644a-41cf-a766-7c0f64f6a670.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/221be191-7a47-4323-b01d-5b362f00cc34.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/540b47d6-2b32-4e6b-b7dd-65b654355f2d.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/6667fd32-f2aa-4a96-a909-ae8ff7a7c9a4.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/8cc0df4e-e58f-49a8-a3f8-3b354e1b1a23.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/596221b6-c65f-49a1-8fc2-2493823f9390.jpg"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-08-14T14:30:00+00:00"
+    },
+    {
       "id": "8a5fe2126dc93778",
       "title": "Eight products that showcase the versatility of wood",
       "summary": "Dezeen Showroom: from lampshades and beds to chairs and kitchens, the following wooden products are all listed in our Showroom section. Timber has been used in the production of furnishings for thousands of years thanks to its durability, ease of access, straightforward woodworking techniques and aesthetic appeal. Contemporary design brands and craftspeople are still opting The post Eight products that showcase the versatility of wood appeared first on Dezeen .",
@@ -140,7 +173,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/theo-folding-chair-plank-showroom_dezeen_2364_col_3.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T13:00:18+00:00"
     },
@@ -256,7 +289,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/kimpton-ashbel-park-avenue-busta-studio_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T05:00:03+00:00"
     },
@@ -349,9 +382,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/these-contemporary-chairs-turn-sustainability-and-stillness-into-design/Cutzen_chair_furniture_00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/embrace-the-creepy-comfort-this-halloween-with-the-crocs-wednesday-stomp-clogs/Crocs_wednesday_stompclog_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/auto-draft/lego_ideas_tarantula_1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2023/09/this_miniature_Apple_Macintosh_hub_improves_your_productivity_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/09/29/micro_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/04/superbe_thinnest_hybrid_watch_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/09/teslaair_car_air_purifier_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -395,9 +428,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/4-ancient-japanese-crafts-reborn-as-furniture-you-can-actually-own/red-craft-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/03/07/cbenchstone_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/taking-inspiration-from-the-iconic-eames-lounge-chair-this-cantilevered-chair-was-built-to-lift-you-up/Cantilever-chair-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/05/09/oru_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/08/the-shell-table/the_shell_table_yanko_design_04.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/01/22/kumo.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/09/top-10-desks/top_10_desk_designs_yanko_design_hero.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -761,7 +794,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/SR-Ice-Cream-Miyakojima-kii_dezeen_2364_col_sq4.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-13T05:00:37+00:00"
     },
@@ -782,19 +815,6 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-08-13T03:04:47+00:00"
-    },
-    {
-      "id": "d3551efae2b3797b",
-      "title": "2 Paint Colors Made This Tiny Kitchen Feel Cozy Without Adding a Single Inch",
-      "summary": "Writer Sarah Ingle doesn’t hide the fact that her 10-square-foot kitchen, which she once referred to as a “chaotic corner” in her Brooklyn apartment, made her feel a little overwhelmed when she first moved in.Not only was the fridge outside the room, but the kitchen also had mismatched shelving and cabinetry. She shares that it felt more like “an afterthought.” That wasn’t going to work for her. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/moody-paris-inspired-kitchen-ba-37685180?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/sarah-l/before-after/tours-nyc-sarah-l-before-tagged-3069",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/sarah-l/before-after/tours-nyc-sarah-l-before-tagged-3069"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-12T22:00:00+00:00"
     },
     {
       "id": "da78b9d801cf5c38",
@@ -984,7 +1004,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/godspeed-summer-exhibition-uppercut_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-12T08:00:26+00:00"
     },
@@ -1161,6 +1181,19 @@
       "published": "2026-08-11T13:00:00+00:00"
     },
     {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
+    },
+    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -1174,19 +1207,6 @@
       "published": "2026-08-11T12:45:03+00:00"
     },
     {
-      "id": "25288eed417a619c",
-      "title": "A Michelin-starred Edinburgh favourite adds rooms to its restaurant",
-      "summary": "At Lyla, Stuart Ralston’s seafood-led tasting-menu experience now continues upstairs, with four Scarinish-designed bedrooms and breakfast in bed",
-      "url": "https://www.wallpaper.com/travel/restaurants/lyla-restaurant-and-rooms-edinburgh-review",
-      "image": "https://cdn.mos.cms.futurecdn.net/yr9EzaiJ5KwJt9VVRcqSaD.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/yr9EzaiJ5KwJt9VVRcqSaD.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-08-11T12:29:35+00:00"
-    },
-    {
       "id": "345cfa217ec62dca",
       "title": "The Unique Design Detail That Every Kitchen Island Needs",
       "summary": "This Davis, California, kitchen has a unique feature that instantly warms the space: a kitchen island with rounded corners.",
@@ -1197,8 +1217,8 @@
         "https://sunset.com/wp-content/uploads/2026/07/rug-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/pantry-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/island-stools-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/steamboat-rock-dinosaur-national-monument-pc-Sierralara-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/2026/08/mojito-shrimp_1.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/woman-airport-pc-hunterhaus-productions-getty.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -1313,8 +1333,8 @@
       "image": "https://sunset.com/wp-content/uploads/2026/07/II5FDYV5L2zaN7zC-Alila-Ventana-Big-Sur-2_a2ea8a.jpg?w=1200&h=600&crop=1",
       "images": [
         "https://sunset.com/wp-content/uploads/2026/07/II5FDYV5L2zaN7zC-Alila-Ventana-Big-Sur-2_a2ea8a.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/steamboat-rock-dinosaur-national-monument-pc-Sierralara-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/mojito-shrimp_1.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/woman-airport-pc-hunterhaus-productions-getty.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/highway-1-road-trip-mile-373-big-sur-0913-1.jpg?w=256&h=142&crop=1",
         "https://sunset.com/wp-content/uploads/Castle-Hot-Springs-soak-desert-view-DSC3761.jpg?w=256&h=142&crop=1",
         "https://img.sunset02.com/sites/default/files/image/2017/03/main/california-julia-pfeiffer-burns-state-park-50camp0217.jpg?w=256&h=142&crop=1"
@@ -1721,6 +1741,19 @@
       "published": "2026-08-07T14:20:54+00:00"
     },
     {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -2121,6 +2154,19 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
+    },
+    {
       "id": "b394ac9ab67d574a",
       "title": "The Furniture Trend of the Season? Crisp Outlines",
       "summary": "Fashion has long embraced contrast piping, and now interiors are following suit. Here's how to bring the look home.",
@@ -2395,6 +2441,19 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
+    },
+    {
+      "id": "6a8452150269ca98",
+      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
+      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2735,6 +2794,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
