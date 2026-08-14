@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-14T11:53:03.173831+00:00",
-  "generated_at_human": "2026-08-14 11:53 UTC",
-  "total_items": 268,
+  "generated_at": "2026-08-14T13:34:06.529446+00:00",
+  "generated_at_human": "2026-08-14 13:34 UTC",
+  "total_items": 265,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -54,7 +53,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -63,9 +61,27 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 64,
+  "sources_count": 55,
+  "multi_photo_items": 65,
   "items": [
+    {
+      "id": "458d149e05d94a59",
+      "title": "Добро пожаловать в мультфильм!",
+      "summary": "Студия ZARDECO с легкостью демонстрирует свой широкий креативный диапазон в интерьере ивент-пространства ONE TABLE art.studio, в котором с первого взгляда узнается источник вдохновения – знаменитый советский мультфильм «Алиса в Стране чудес».",
+      "url": "https://archi.ru/russia/102606/dobro-pozhalovat-v-multfilm",
+      "image": "https://i.archi.ru/i/1262/502742.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/502742.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=91937",
+        "https://i.archi.ru/i/1262/511650.jpg",
+        "https://i.archi.ru/i/1262/511653.jpg",
+        "https://i.archi.ru/i/1262/511651.jpg",
+        "https://i.archi.ru/i/1262/511652.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "90486e2c7d6f850a",
       "title": "Реинкарнация горы и лотоса",
@@ -74,11 +90,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=43045",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=23024",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=36138",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=76274",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=61558"
+        "https://i.archi.ru/i/1262/310555.jpg?r=2637",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=31949",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=88056",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=8924",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=32305"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -92,7 +108,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=8647",
+        "https://i.archi.ru/i/1262/510881.jpg?r=90502",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -109,29 +125,55 @@
       "url": "https://archi.ru/russia/102583/zabaikalskaya-ogranka",
       "image": "https://i.archi.ru/i/1262/501519.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/501519.jpg",
-        "https://i.archi.ru/i/1262/501529.jpg",
-        "https://i.archi.ru/i/1262/501528.jpg",
-        "https://i.archi.ru/i/1262/501530.jpg",
-        "https://i.archi.ru/i/1262/501525.jpg",
-        "https://i.archi.ru/i/1262/501531.jpg"
-      ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "7724bb57c7921ec3",
-      "title": "Проекция спирали, проекция волны",
-      "summary": "Архитекторы «Мезонпроект» спроектировали высотный жилой комплекс из четырех башен – недалеко у пересечения Новой Риги и Москвы-реки. Доминантность мотивирована как соседством Рублева-Архангельского с его СберСити, так и темой столкновения двух потоков: водного и автомобильного. Фасадный паттерн авторы подчинили суперграфике пиксельной спирали – она призвана оживить, а может быть, даже и трансформировать восприятие призматических объемов.",
-      "url": "https://archi.ru/russia/102500/proekciya-spirali-proekciya-volny",
-      "image": "https://i.archi.ru/i/1262/489660.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/489660.jpg"
+        "https://i.archi.ru/i/1262/501519.jpg"
       ],
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "8a5fe2126dc93778",
+      "title": "Eight products that showcase the versatility of wood",
+      "summary": "Dezeen Showroom: from lampshades and beds to chairs and kitchens, the following wooden products are all listed in our Showroom section. Timber has been used in the production of furnishings for thousands of years thanks to its durability, ease of access, straightforward woodworking techniques and aesthetic appeal. Contemporary design brands and craftspeople are still opting The post Eight products that showcase the versatility of wood appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/14/kitchens-chairs-seating-tables-lighting-wood-timber-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/08/theo-folding-chair-plank-showroom_dezeen_2364_col_3.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/theo-folding-chair-plank-showroom_dezeen_2364_col_3.jpg"
+      ],
+      "source": "Dezeen tag furniture",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-14T13:00:18+00:00"
+    },
+    {
+      "id": "be0b3950611dc81d",
+      "title": "Old Kitchen Whisks Aren't Trash: 10 Ways To Turn Them Into Home And Garden Treasures",
+      "summary": "You don't need to toss old kitchen whisks in the trash. Instead, these creative DIYs transform them into everything from centerpieces to hanging garden decor.",
+      "url": "https://www.hunker.com/2233927/ways-to-upcycle-old-kitchen-whisk-arent-trash/",
+      "image": "https://www.hunker.com/img/gallery/old-kitchen-whisks-arent-trash-10-ways-to-turn-them-into-home-and-garden-treasures/l-intro-1786389409.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/old-kitchen-whisks-arent-trash-10-ways-to-turn-them-into-home-and-garden-treasures/l-intro-1786389409.jpg",
+        "https://www.hunker.com/img/gallery/old-kitchen-whisks-arent-trash-10-ways-to-turn-them-into-home-and-garden-treasures/intro-1786389409.jpg",
+        "https://www.hunker.com/img/gallery/old-kitchen-whisks-arent-trash-10-ways-to-turn-them-into-home-and-garden-treasures/make-a-decorative-bird-cage-stand-1786389411.jpg",
+        "https://www.hunker.com/img/gallery/old-kitchen-whisks-arent-trash-10-ways-to-turn-them-into-home-and-garden-treasures/craft-some-dragonfly-decor-1786389411.jpg",
+        "https://www.hunker.com/img/gallery/old-kitchen-whisks-arent-trash-10-ways-to-turn-them-into-home-and-garden-treasures/create-rustic-wire-flowers-1786389412.jpg",
+        "https://www.hunker.com/img/gallery/old-kitchen-whisks-arent-trash-10-ways-to-turn-them-into-home-and-garden-treasures/use-a-whisk-as-a-bird-feeder-1786389412.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-14T12:00:00+00:00"
+    },
+    {
+      "id": "ca812bd4fdccdcc1",
+      "title": "Teal Walls Made This Kitchen Feel Dated — 3 DIYs Changed Everything",
+      "summary": "When Orima Kamalu describes the former kitchen in her colorful, DIY-filled house, it’s hard not to wonder why she wanted to make any changes at all.“The original kitchen was always a lovely, large open space with plenty of storage and room to move around. The units were all gloss-white with chrome-effect bar handles,” she explains. However, while the kitchen (which Orima thinks was last updated in the early 2000s) was functional, it wasn’t exactly their style. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/black-green-kitchen-makeover-ba-37685226?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/may/orima-k/before-after/orima-k-kitchen-before-lead",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/may/orima-k/before-after/orima-k-kitchen-before-lead"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-14T12:00:00+00:00"
     },
     {
       "id": "626f5772cba54dcf",
@@ -145,7 +187,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Covers-Slide-Over-Each-Shelf.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Existing-Shelves-Stay-Right-Where-They-Are.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Two-Years-Turned-This-Open-Lawn-Into-a-Garden-Filled-With-Native-Plants.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Furniture-Details-Keep-Showing-Up-in-Luxury-Interiors.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Turned-Heavy-Duty-Rope-Into-a-Doormat-With-the-Greeting-Built-Right-In.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -197,9 +239,9 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Instead-of-Putting-Appliances-on-Display-This-Kitchen-Hides-Them-Behind-Cabinet-Doors.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Tall-Doors-Create-One-Unbroken-Cabinet-Wall.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Two-Years-Turned-This-Open-Lawn-Into-a-Garden-Filled-With-Native-Plants.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/She-Turned-Heavy-Duty-Rope-Into-a-Doormat-With-the-Greeting-Built-Right-In.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Found-a-Way-to-Make-Her-Pantry-Shelves-Look-Like-Wood-Without-Replacing-Them.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Furniture-Details-Keep-Showing-Up-in-Luxury-Interiors.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Her-Boxwoods-Were-Turning-Brown.-The-Way-Theyd-Been-Trimmed-May-Explain-Why.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Furniture-Details-Keep-Showing-Up-in-Luxury-Interiors.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -307,9 +349,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/these-contemporary-chairs-turn-sustainability-and-stillness-into-design/Cutzen_chair_furniture_00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/04/draft/nmd_omega_2.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/top-10-lightweight-camping-gear-for-easy-carry-pending/top_10_lightweight_camping_gear_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2020/04/coffee/01-coffee_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/10/embrace-the-creepy-comfort-this-halloween-with-the-crocs-wednesday-stomp-clogs/Crocs_wednesday_stompclog_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/09/auto-draft/lego_ideas_tarantula_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2023/09/this_miniature_Apple_Macintosh_hub_improves_your_productivity_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -353,9 +395,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/4-ancient-japanese-crafts-reborn-as-furniture-you-can-actually-own/red-craft-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/the-rubiks-cube-chair-twists-up-fun-and-furniture/rubiks-cube-chair-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/04/24/jopple_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/05/13/workflow.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/03/07/cbenchstone_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/11/taking-inspiration-from-the-iconic-eames-lounge-chair-this-cantilevered-chair-was-built-to-lift-you-up/Cantilever-chair-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/05/09/oru_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -680,19 +722,6 @@
       "published": "2026-08-13T07:20:27+00:00"
     },
     {
-      "id": "0ef96881cb3f4b24",
-      "title": "She Took an Old French Provincial Dresser From Cream to High-Gloss Mint",
-      "summary": "A Dixie French Provincial dresser already had the details that make this furniture style stand out: bowed drawer fronts, a scalloped apron, carved feet, and ornate pulls. The problem was the aged cream finish, darkened grooves, and decades of wear covering those details. Kayla Payne of Painted by Kayla Payne refinished the dresser as part... The post She Took an Old French Provincial Dresser From Cream to High-Gloss Mint appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-took-an-old-french-provincial-dresser-from-cream-to-high-gloss-mint/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Took-an-Old-French-Provincial-Dresser-From-Cream-to-High-Gloss-Mint.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Took-an-Old-French-Provincial-Dresser-From-Cream-to-High-Gloss-Mint.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-13T06:49:19+00:00"
-    },
-    {
       "id": "425c620d48b1c559",
       "title": "26 homes that make a persuasive case for green interiors",
       "summary": "These stylish spaces will make you green with envy The post 26 homes that make a persuasive case for green interiors appeared first on Homes To Love .",
@@ -855,9 +884,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/this-cork-cactus-looks-like-decor-and-acts-like-3-pieces-of-furniture/corctus-cork-cactus-stand-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/the-most-sustainable-smartphone-is-coming-to-the-us-with-a-very-big-catch/fairphone-4-murena-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/this-lounge-chairs-shape-is-precisely-why-two-of-them-make-a-sofa/bunch-modular-seating-concept-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/03/these-3d-printed-hand-boards-are-created-from-plastic-waste-for-riding-the-waves/Handboard_3Dprinted-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/07/18/bojaki_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/12/geometric-coffee-tables-use-3d-printing-robots-and-recycled-plastic-to-create-organic-forms/loops-3d-printed-coffee-table-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/06/auto-draft/ciro_stool_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1132,19 +1161,6 @@
       "published": "2026-08-11T13:00:00+00:00"
     },
     {
-      "id": "d1cf59c92812e34d",
-      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
-      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-11T12:57:55+00:00"
-    },
-    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -1181,8 +1197,8 @@
         "https://sunset.com/wp-content/uploads/2026/07/rug-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/pantry-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/island-stools-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/mojito-shrimp_1.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/woman-airport-pc-hunterhaus-productions-getty.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/2026/08/steamboat-rock-dinosaur-national-monument-pc-Sierralara-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -1297,8 +1313,8 @@
       "image": "https://sunset.com/wp-content/uploads/2026/07/II5FDYV5L2zaN7zC-Alila-Ventana-Big-Sur-2_a2ea8a.jpg?w=1200&h=600&crop=1",
       "images": [
         "https://sunset.com/wp-content/uploads/2026/07/II5FDYV5L2zaN7zC-Alila-Ventana-Big-Sur-2_a2ea8a.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/mojito-shrimp_1.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/woman-airport-pc-hunterhaus-productions-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/steamboat-rock-dinosaur-national-monument-pc-Sierralara-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/highway-1-road-trip-mile-373-big-sur-0913-1.jpg?w=256&h=142&crop=1",
         "https://sunset.com/wp-content/uploads/Castle-Hot-Springs-soak-desert-view-DSC3761.jpg?w=256&h=142&crop=1",
         "https://img.sunset02.com/sites/default/files/image/2017/03/main/california-julia-pfeiffer-burns-state-park-50camp0217.jpg?w=256&h=142&crop=1"
@@ -1705,19 +1721,6 @@
       "published": "2026-08-07T14:20:54+00:00"
     },
     {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -2113,22 +2116,9 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
-    },
-    {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "b394ac9ab67d574a",
@@ -2180,7 +2170,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
@@ -2405,19 +2395,6 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
-    },
-    {
-      "id": "6a8452150269ca98",
-      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
-      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2758,19 +2735,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
