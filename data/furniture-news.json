@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-15T03:00:32.617286+00:00",
-  "generated_at_human": "2026-08-15 03:00 UTC",
-  "total_items": 266,
+  "generated_at": "2026-08-15T03:49:42.257224+00:00",
+  "generated_at_human": "2026-08-15 03:49 UTC",
+  "total_items": 240,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -38,7 +37,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -50,11 +48,8 @@
     "Stylepark DE",
     "Sunset",
     "Trendir",
-    "Trendir furniture",
-    "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -63,8 +58,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 65,
+  "sources_count": 52,
+  "multi_photo_items": 60,
   "items": [
     {
       "id": "458d149e05d94a59",
@@ -74,7 +69,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=56892",
+        "https://i.archi.ru/i/1262/305304.jpg?r=81186",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -92,11 +87,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=30484",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=3226",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=12251",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=37184",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=30732"
+        "https://i.archi.ru/i/1262/310555.jpg?r=57927",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=31992",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=4344",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=24577",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=83929"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -110,7 +105,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=20611",
+        "https://i.archi.ru/i/1262/510881.jpg?r=86413",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -202,9 +197,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-victorian-coffee-table-just-grew-robot-dog-legs/let-the-dog-out-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/07/21/cutpasteadore01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/12/top-25-furniture-designs-from-2018/top_furniture_designs_from_2018_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/how-a-soccer-stance-solved-one-of-furnitures-oldest-problems/spielbein-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/OO-STOOL-x-PLASTICIET-Limited-Edition-Designer.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/08/green/greenplanet_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/05/fossil-furniture-collection-uses-playful-monolithic-designs/fossil-01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -520,19 +515,6 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-08-13T20:00:00+00:00"
-    },
-    {
-      "id": "4f2e0f32031d9e9b",
-      "title": "Squirrel Chair For Sale",
-      "summary": "Last month, I went to Nashville where Travis Curtis taught a group of fellow woodworkers and me how to build a Jennie Chair and, for better or for worse, I decided it should be purple and have squirrels on it. The chair was built, woven and painted purple in five days. Mapping out and painting...",
-      "url": "https://blog.lostartpress.com/2026/08/13/squirrel-chair-for-sale/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_2683.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_2683.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-13T19:34:00+00:00"
     },
     {
       "id": "ad98e79a50f803dd",
@@ -1218,19 +1200,6 @@
       "published": "2026-08-11T13:00:00+00:00"
     },
     {
-      "id": "d1cf59c92812e34d",
-      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
-      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-11T12:57:55+00:00"
-    },
-    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -1612,19 +1581,6 @@
       "published": "2026-08-08T15:02:53+00:00"
     },
     {
-      "id": "ac0bd11829054b57",
-      "title": "LAP Open Wire: Saturday, Aug. 8, 2026",
-      "summary": "Comments are now closed. If we’ve not yet answered your question, we’ll get to it soon! Join us again on October 10. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions and questions about Lost Art Press, our cats, Shakespeare (me), Late 19th/early 20th-century...",
-      "url": "https://blog.lostartpress.com/2026/08/08/lap-open-wire-saturday-aug-8-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-08T12:00:00+00:00"
-    },
-    {
       "id": "3646dbe00bb324c6",
       "title": "Current Obsessions: Effortlessness",
       "summary": "Happy weekend! For you, a collection of links to peruse, from a poetic coffee table book to gravel gardens. Read on: Looking for quality outdoor fabric that’s actually tasteful and stylish? We found it. John Derian’s new leaf rugs are kinda wild but also oddly compelling. A strong case for the gravel garden as the best type of […]",
@@ -1726,32 +1682,6 @@
       "published": "2026-08-07T16:06:04+00:00"
     },
     {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
-      "id": "b9e697853d048199",
-      "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
-      "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
-      "url": "https://blog.lostartpress.com/2026/08/07/lap-open-wire-tomorrow-sat-aug-8-2026/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-07T12:55:52+00:00"
-    },
-    {
       "id": "2c1b88230afd880d",
       "title": "Bathroom always messy? Try this old-school cleaning method",
       "summary": "This makes sense. The post Bathroom always messy? Try this old-school cleaning method appeared first on Better Homes & Gardens Australia .",
@@ -1818,9 +1748,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2108,22 +2038,9 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
-    },
-    {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "48a0a15730ecb6e8",
@@ -2349,8 +2266,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/qYj9vw1O-1-ERNESTOMEDA_ONE-02_PARTICOLARE-4-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/MfoGDFaY-3-ERNESTOMEDA_ONE-02_PARTICOLARE-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-unnamed-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
         "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg"
       ],
       "source": "Interni magazine",
@@ -2387,19 +2304,6 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
-    },
-    {
-      "id": "6a8452150269ca98",
-      "title": "Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca",
-      "summary": "The sprawling, 35,000-square-metre building and its surrounding landscape form the latest attraction on Saadiyat Island. The post Mecanoo’s Natural History Museum Abu Dhabi Rises in the Midst of an Architectural Mecca appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/mecanoo-natural-history-museum-abu-dhabi/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/07/Azure-3-Natural-History-Museum-Abu-Dhabi-by-Ossip-Architectuurfotografie.jpeg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-07-30T19:18:52+00:00"
     },
     {
       "id": "72664b960ea7af2a",
@@ -2576,32 +2480,6 @@
       "published": "2026-07-28T05:12:08+00:00"
     },
     {
-      "id": "008c74a0d1d1467c",
-      "title": "An American, an Irish Chair, in Germany",
-      "summary": "I’ve taught woodworking at Dictum GmbH in Germany for many years. And it’s always a bit disorienting (but fun). I’m an American with a German last name who teaches people how to make chairs from Wales, Scotland and Ireland. And the students are German, Swedish, Mexican, Polish, Dutch…. And the class is in Bavaria. But...",
-      "url": "https://blog.lostartpress.com/2026/07/27/an-american-an-irish-chair-in-germany/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_2714-1.jpeg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-27T13:43:48+00:00"
-    },
-    {
-      "id": "af7c744ad1423fe8",
-      "title": "Kill Wood-boring Insects with Kitchen Appliances",
-      "summary": "When I first started harvesting green wood for my workshop, I was worried about bringing wood-boring insects into my workshop. It would be like letting loose 1,000 raccoons into a Golden Corral restaurant. So I got some advice from fellow woodworkers. All of the advice involved pesticides. And some of it sounded reckless. (Put the...",
-      "url": "https://blog.lostartpress.com/2026/07/27/kill-wood-boring-insects-with-kitchen-appliances/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/07/IMG_3057.jpeg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-07-27T11:37:28+00:00"
-    },
-    {
       "id": "669f862f6796f526",
       "title": "Inside Cinderella Deep, Geller Studio’s Raw and Ritualistic Redfern Workspace.",
       "summary": "Named after a nineteenth-century goldmine and grounded in the philosophy of Ubuntu, Cinderella Deep is Geller Studio's material-led workspace in Redfern. Off-form concrete, oxidising clay render and reclaimed heritage brick set an industrial, tactile tone, while Judd-inspired walnut joinery and a mix of vintage Bellini, Panton and Castorina & Co furniture bring warmth to the 200-square-metre space led by architect Valeria Geller. | The article Inside Cinderella Deep, Geller Studio’s Raw and Ritualistic Redfern Workspace. appeared first on Yellowtrace . |",
@@ -2740,19 +2618,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
@@ -3186,24 +3051,6 @@
       "published": "2026-06-24T17:00:31+00:00"
     },
     {
-      "id": "77037b44b90e5ca8",
-      "title": "Skip the Boring Gray Couch: 9 Camel Sofa Ideas That Actually Tie a Living Room Together",
-      "summary": "Camel is one of those colors that looks expensive without trying. It’s warm, it’s neutral, and it plays nice with almost anything you put next to it. These 9 camel sofa living rooms show you exactly how to build a room around one. Camel works because it sits right in the middle. It’s warm enough […] The post Skip the Boring Gray Couch: 9 Camel Sofa Ideas That Actually Tie a Living Room Together appeared first on Trendir .",
-      "url": "https://www.trendir.com/camel-sofa-living-room-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/06/Collage-of-Camel-Sofa-Living-Room-Ideas-1.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/06/Collage-of-Camel-Sofa-Living-Room-Ideas-1.png",
-        "https://cdn.trendir.com/wp-content/uploads/2016/09/Panton-Chair-Classic.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/07/low-mod-loft-king-contemporary.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/08/Barn-doors-used-to-divide-large-spaces.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/07/terrat-elms-boston-contemporary-sunroom.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/01/Modern-Minimal-Warmth.jpg"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-23T08:49:38+00:00"
-    },
-    {
       "id": "fa61e033f9e2e5da",
       "title": "Meridian rugs by Armadillo among six new products on Dezeen Showroom",
       "summary": "Dezeen Showroom: a series of rugs that foreground weaving patterns and fibres over colour and print are among six new products featured on Dezeen Showroom. Meridian rugs by Armadillo Rug brand Armadillo has released a collection of rugs named Meridian, which celebrate the tactile effects created by different weave styles, construction methods and fibre types. The post Meridian rugs by Armadillo among six new products on Dezeen Showroom appeared first on Dezeen .",
@@ -3417,24 +3264,6 @@
       "published": "2026-06-06T09:00:13+00:00"
     },
     {
-      "id": "f5c851431391c342",
-      "title": "24 Bedding Color Scheme Ideas That Make Seasonal Color Changes Feel Like a Ritual Worth Planning For",
-      "summary": "The bedding sets the whole tone before the rest of the room even gets a say. Color choice is the quietest decision in the space, but it’s the one that lingers, the one that decides whether mornings feel soft or scattered, whether the bed reads as a retreat or just a piece of furniture. These […] The post 24 Bedding Color Scheme Ideas That Make Seasonal Color Changes Feel Like a Ritual Worth Planning For appeared first on Trendir .",
-      "url": "https://www.trendir.com/bedding-color-scheme-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedding-Color-Scheme-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedding-Color-Scheme-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Olive-Linen-Retreat.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Teal-and-Amber-Wide-Stripe.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Abstract-Watercolor-Wash.webp",
-        "https://cdn.trendir.com/wp-content/uploads/2026/01/Soft-Luxury-Meets-Pet-Parenthood.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Dark-Wall-Contrast-Bed.jpg"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T23:00:00+00:00"
-    },
-    {
       "id": "74b0b8bc9f75520d",
       "title": "MillerKnoll CEO Andi Owen resigns and Herman Miller appoints new creative directors",
       "summary": "US furniture company MillerKnoll has announced leadership changes, including the resignation of CEO Andi Owen and the appointment of Kim Colin and Sam Hecht of London studio Industrial Facility as Herman Miller creative directors. According to the company, Owen, who served as CEO for eight years, resigned and will take a leave of absence due The post MillerKnoll CEO Andi Owen resigns and Herman Miller appoints new creative directors appeared first on Dezeen .",
@@ -3446,94 +3275,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-04T18:59:28+00:00"
-    },
-    {
-      "id": "0a9cefe4bd8d4db4",
-      "title": "27 Bedroom Rug Placement Ideas That Make You Realize Placement Was Always More Important Than the Rug Itself",
-      "summary": "Where a rug lands says more about a bedroom than the bed itself. Slide it under the bottom third, float it sideways past the nightstands, layer two and let the smaller one carry the pattern — every choice rewrites the way the floor reads. These 27 bedroom rug placement ideas pull from real rooms where […] The post 27 Bedroom Rug Placement Ideas That Make You Realize Placement Was Always More Important Than the Rug Itself appeared first on Trendir .",
-      "url": "https://www.trendir.com/bedroom-rug-placement-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T16:45:00+00:00"
-    },
-    {
-      "id": "a631a45cf6afb80a",
-      "title": "25 Boho Bedding Room Ideas That Make the Gap Between a Styled Bedroom and a Soulful One Very Clear",
-      "summary": "Boho bedrooms have never been about following rules. They’re about layering what feels good, what was loved long before it landed in your room, and what makes the space feel less like furniture and more like a soft place to land. These 25 boho bedding room ideas lean into texture, color, and the kind of […] The post 25 Boho Bedding Room Ideas That Make the Gap Between a Styled Bedroom and a Soulful One Very Clear appeared first on Trendir .",
-      "url": "https://www.trendir.com/boho-bedding-room-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Boho-Bedding-Room-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Boho-Bedding-Room-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T16:00:00+00:00"
-    },
-    {
-      "id": "b670566a7d630e6d",
-      "title": "26 Colorful Bedding Design Ideas That Make Choosing a Bold Color Feel Less Risky and More Exciting",
-      "summary": "Neutral bedrooms are having their moment, and yet here you are, drawn to the loud quilt, the marigold sham, the duvet you can spot from across the room. There’s a reason for that. Color in the bedroom changes the temperature of the whole space, the way you walk into it, the way mornings land. These26 […] The post 26 Colorful Bedding Design Ideas That Make Choosing a Bold Color Feel Less Risky and More Exciting appeared first on Trendir .",
-      "url": "https://www.trendir.com/colorful-bedding-design-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Colorful-Bedding-Design-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Colorful-Bedding-Design-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T10:30:00+00:00"
-    },
-    {
-      "id": "fa9de15943aec74e",
-      "title": "27 Dark Bedding Bedroom Ideas That Make Layering Deep Tones Feel Approachable and Genuinely Beautiful",
-      "summary": "Dark bedding has this way of making a bed look unmade in the most luxurious sense, like someone with taste just got up and left the room. The shadows pool in the folds, the whole space settles into itself, and suddenly mornings feel slower and evenings feel earned. These 27 dark bedding bedroom ideas lean […] The post 27 Dark Bedding Bedroom Ideas That Make Layering Deep Tones Feel Approachable and Genuinely Beautiful appeared first on Trendir .",
-      "url": "https://www.trendir.com/dark-bedding-bedroom-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Dark-Bedding-Bedroom-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Dark-Bedding-Bedroom-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T09:00:00+00:00"
-    },
-    {
-      "id": "3543f1a5d293241f",
-      "title": "27 Dresser Knob Design Ideas That Make a Budget Dresser Look Like It Was Worth Twice the Price",
-      "summary": "The whole personality of a dresser can shift on something the size of a thumbnail. Knobs are the punctuation marks of a room, quiet little decisions that change how a piece reads from across the floor. These 27 dresser knob design ideas show how much character lives in that one small choice. 27 Dresser Knob […] The post 27 Dresser Knob Design Ideas That Make a Budget Dresser Look Like It Was Worth Twice the Price appeared first on Trendir .",
-      "url": "https://www.trendir.com/dresser-knob-design-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Dresser-Knob-Design-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Dresser-Knob-Design-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Slim-Brushed-Nickel-Bar-Pulls-Across-a-Full-Kitchen.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Modern-Organic-Dining-Room-with-Bold-Striped-Drapes-and-Statement-Tree.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Cascading-Wood-Batten-Wall-and-Ceiling.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/French-Provincial-Refinished-Set.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Under-Cabinet-Lighting-with-Toe-Kick-Glow-in-a-Contemporary-Kitchen.jpg"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-03T23:45:00+00:00"
-    },
-    {
-      "id": "5af9eeaeda2e5554",
-      "title": "27 Floating Nightstand Ideas That Make Every Inch of Wall Space Feel Worth Thinking About",
-      "summary": "The nightstand has been doing the same job for a hundred years, taking up floor space nobody asked it to take. Pull it off the ground and something shifts. The wall does the heavy lifting, the floor breathes, and the whole bedroom suddenly feels lighter, more considered, more like a room someone actually thought about. […] The post 27 Floating Nightstand Ideas That Make Every Inch of Wall Space Feel Worth Thinking About appeared first on Trendir .",
-      "url": "https://www.trendir.com/floating-nightstand-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Floating-Nightstand-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Floating-Nightstand-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2016/07/Curtains-and-valance.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/12/18/long-half-log-dining-table-john-houshmand.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Slate-Blue-with-Scrollwork.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Printed-Panels-with-Scalloped-Valance.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Floating-Vanity-Vignette.jpg"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-03T16:45:00+00:00"
     },
     {
       "id": "f7c5783b4db3d864",
@@ -3552,24 +3293,6 @@
       "source": "DM tag furniture",
       "source_url": "https://design-milk.com",
       "published": "2026-06-02T15:00:45+00:00"
-    },
-    {
-      "id": "0a19b93c4b636efc",
-      "title": "27 Nightstand Decor Ideas That Give a Plain Nightstand the Personality Most Bedrooms Charge a Designer to Add",
-      "summary": "Nothing in a bedroom works harder for its square footage than the nightstand. It holds the lamp you reach for half-asleep, the book you swear you’ll finish, the small things that mean something. Done well, it doubles as a tiny still life that pulls the entire room together. These 27 nightstand decor ideas show how […] The post 27 Nightstand Decor Ideas That Give a Plain Nightstand the Personality Most Bedrooms Charge a Designer to Add appeared first on Trendir .",
-      "url": "https://www.trendir.com/nightstand-decor-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Nightstand-Decor-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Nightstand-Decor-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Sage-Green-Vintage-Upcycle.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Burl-Wood-With-Brass-Legs.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Floating-Vanity-Vignette.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Olive-Green-Subway.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Black-with-Warm-Wood-Base.jpg"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-01T23:45:00+00:00"
     },
     {
       "id": "eab29ab92e9ff8ea",
@@ -3634,19 +3357,6 @@
       "published": "2026-05-27T14:30:14+00:00"
     },
     {
-      "id": "25d25ab0f802dc6e",
-      "title": "26 Long TV Console Ideas That Make a Single Piece of Furniture Anchor the Whole Living Room",
-      "summary": "The long TV console is the most underestimated piece in a living room. It runs the length of the wall, holds the eye, and quietly decides whether the space feels styled or stranded. Get it right and the rest of the room more or less arranges itself. These 26 long TV console ideas are the […] The post 26 Long TV Console Ideas That Make a Single Piece of Furniture Anchor the Whole Living Room appeared first on Trendir .",
-      "url": "https://www.trendir.com/long-tv-console-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Long-TV-Console-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Long-TV-Console-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-26T23:45:00+00:00"
-    },
-    {
       "id": "9531212933199cd7",
       "title": "Kelly Wearstler’s H&M HOME Collection Refuses to Flatten Luxury",
       "summary": "The designer’s H&M HOME collaboration introduces furniture and objects that feel considered, tactile, and spatially minded, even within a global retail framework.",
@@ -3678,58 +3388,6 @@
       "published": "2026-05-26T15:00:28+00:00"
     },
     {
-      "id": "2a7e15325ef1c5b1",
-      "title": "27 Dresser Mirror Ideas That Interior Designers Are Tired of Being Asked About",
-      "summary": "A dresser without a mirror above it always feels like it’s missing the last sentence. The right pairing changes everything, pulling the eye up, doubling the light, and giving the surface below a reason to be styled with intention. These 27 dresser mirror ideas prove how much personality lives in that one decision, whether you […] The post 27 Dresser Mirror Ideas That Interior Designers Are Tired of Being Asked About appeared first on Trendir .",
-      "url": "https://www.trendir.com/dresser-mirror-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Dresser-Mirror-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Dresser-Mirror-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-25T11:15:00+00:00"
-    },
-    {
-      "id": "08b0e25b4dc1eef4",
-      "title": "27 Dresser Top Decor Ideas That Make You Realize the Surface Was Never the Problem",
-      "summary": "A dresser top is the easiest surface in the house to ignore, and the easiest one to get wrong. Pile on too much and it reads cluttered. Leave it bare and it reads forgotten. The trick is somewhere in between, and these 27 dresser top decor ideas land it from every angle, every aesthetic, every […] The post 27 Dresser Top Decor Ideas That Make You Realize the Surface Was Never the Problem appeared first on Trendir .",
-      "url": "https://www.trendir.com/dresser-top-decor-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Dresser-Top-Decor-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Dresser-Top-Decor-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-25T10:30:00+00:00"
-    },
-    {
-      "id": "f29796b88cb45114",
-      "title": "27 Entryway Dresser Ideas That Nobody Expected to Set the Tone for the Whole House",
-      "summary": "The entryway is the room everyone walks through and almost nobody plans. A dresser changes that, instantly. It holds the clutter, anchors the wall, and gives you a place to actually style — keys, books, a vase of whatever’s blooming. These 27 entryway dresser ideas show what happens when the piece by the door stops […] The post 27 Entryway Dresser Ideas That Nobody Expected to Set the Tone for the Whole House appeared first on Trendir .",
-      "url": "https://www.trendir.com/entryway-dresser-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Entryway-Dresser-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Entryway-Dresser-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-25T09:00:00+00:00"
-    },
-    {
-      "id": "cd917d4b9075753c",
-      "title": "26 Gold Nightstand Decor Ideas That Prove One Metallic Piece Outranks an Entire Bedroom Makeover",
-      "summary": "Gold has a way of softening a bedside that linen and wood alone can’t quite manage. The right warm-metal moment, whether it’s a lamp base, a frame, a drawer pull, or a single sculptural object, gives the eye somewhere to land before the light goes out. These 26 gold nightstand decor ideas prove that warmth […] The post 26 Gold Nightstand Decor Ideas That Prove One Metallic Piece Outranks an Entire Bedroom Makeover appeared first on Trendir .",
-      "url": "https://www.trendir.com/gold-nightstand-decor-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Gold-Nightstand-Decor-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Gold-Nightstand-Decor-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-25T03:59:26+00:00"
-    },
-    {
       "id": "30d9e8bea970ba52",
       "title": "The 30-Minute Spring Cleaning Reset: How to Make Your Home Feel New in Under an Hour",
       "summary": "Spring cleaning often carries the weight of a monumental task—ladders, heavy-duty scrubbing, and weekend-long commitments. However, in the world of modern interior design, a seasonal refresh is less about deep-cleaning and more about a visual reset. If you have 30 minutes, you can dramatically shift the energy of your home. By focusing on light, texture, […] You're reading The 30-Minute Spring Cleaning Reset: How to Make Your Home Feel New in Under an Hour , originally posted on Decoist . If you enjoyed this post, be sure to follow Decoist on Twitter , Facebook and Pinterest .",
@@ -3746,32 +3404,6 @@
       "source": "Decoist",
       "source_url": "https://www.decoist.com",
       "published": "2026-05-24T10:30:21+00:00"
-    },
-    {
-      "id": "af488b9ed9da9f74",
-      "title": "26 Long Dresser Stylings That Make People Ask If You Hired Someone to Do the Room",
-      "summary": "The dresser is the most underrated surface in the house. Not the coffee table, not the kitchen island — the dresser, that long flat stretch of wood you’ve been ignoring since you moved in. These 26 long dresser styling ideas show exactly what this piece can do when you stop thinking of it as just […] The post 26 Long Dresser Stylings That Make People Ask If You Hired Someone to Do the Room appeared first on Trendir .",
-      "url": "https://www.trendir.com/long-dresser-stylings/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Long-Dresser-Styling-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Long-Dresser-Styling-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-22T09:45:00+00:00"
-    },
-    {
-      "id": "8ebaa3f593d1eeb9",
-      "title": "27 Minimalist Nightstand Ideas That Make a Single Lamp and a Book Feel Like a Curated Choice",
-      "summary": "The nightstand is the most honest corner of a bedroom. It holds what you actually reach for, what you genuinely love, and what you can’t quite let go of. These 27 minimalist nightstand ideas show what it looks like when that small surface is treated with real intention, not just tidied up. 27 Minimalist Nightstand […] The post 27 Minimalist Nightstand Ideas That Make a Single Lamp and a Book Feel Like a Curated Choice appeared first on Trendir .",
-      "url": "https://www.trendir.com/minimalist-nightstand-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Minimalist-Nightstand-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Minimalist-Nightstand-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-22T09:00:00+00:00"
     },
     {
       "id": "fa95e78f26c9307f",
