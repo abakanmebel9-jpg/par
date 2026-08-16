@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-16T11:30:55.915250+00:00",
-  "generated_at_human": "2026-08-16 11:30 UTC",
-  "total_items": 268,
+  "generated_at": "2026-08-16T12:56:55.066959+00:00",
+  "generated_at_human": "2026-08-16 12:56 UTC",
+  "total_items": 273,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -42,6 +42,8 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
+    "Popular Woodworking",
+    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Stylepark DE",
@@ -53,14 +55,13 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 63,
   "items": [
     {
@@ -71,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=91528",
+        "https://i.archi.ru/i/1262/305304.jpg?r=74502",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -89,11 +90,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=50543",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=24733",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=96641",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=90627",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=33639"
+        "https://i.archi.ru/i/1262/310555.jpg?r=68204",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=72181",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=74636",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=34973",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=87210"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -107,7 +108,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=22382",
+        "https://i.archi.ru/i/1262/510881.jpg?r=93551",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -129,6 +130,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "9788e923ecde1889",
+      "title": "Renters Couldn't Renovate Their Dated Kitchen — So They Got Creative",
+      "summary": "Are you a renter feeling limited, home improvement-wise, by the terms of your lease or by the fact that you might someday move? Heed this advice from Lily F Tsutumida: “Do the math and consider what it’s worth for you to be happier in your space while you’re there; if it’s feasible, go for it! READ MORE...",
+      "url": "https://www.apartmenttherapy.com/blue-white-renter-friendly-kitchen-redo-300-dollars-ba-37686053?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2023-01/lily_kitchen/LilyFTsutsumida_114162902_IMG_6706-tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2023-01/lily_kitchen/LilyFTsutsumida_114162902_IMG_6706-tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-16T12:00:00+00:00"
     },
     {
       "id": "b9638c8c0a2808bf",
@@ -629,7 +643,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/08/641796/purestone_dual_brew_1.jpeg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-15T01:45:08+00:00"
     },
@@ -674,9 +688,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-victorian-coffee-table-just-grew-robot-dog-legs/let-the-dog-out-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/10/14/helios.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/06/29/coban_buffet_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/stool-designs/03_Sado_MartinLuu_UnconventionalChairDesign.png"
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/OO-STOOL-x-PLASTICIET-Limited-Edition-Designer.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/03/20/tree_bookcase_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/kidou-by-isabel-vera-modular-cork-seating-thats-playful-and-smart/kidou-modular-multipurpose-seating-07.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -694,6 +708,19 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-14T16:20:38+00:00"
+    },
+    {
+      "id": "697f89eb6636b2d1",
+      "title": "The Splinter Report: August 14th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week I went to Milwaukee Pipeline. Benefiting the casual... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-august-14th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/14093830/splinter-report-8-14.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/14093830/splinter-report-8-14.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-14T16:03:06+00:00"
     },
     {
       "id": "76eec2a471bc132d",
@@ -882,6 +909,19 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-13T17:20:24+00:00"
+    },
+    {
+      "id": "741a48cd86fab113",
+      "title": "The Stutey Lathe: A Different Way to Think About Woodturning",
+      "summary": "Woodworking is full of specialties. There’s carving, scroll saw work, marquetry, chairmaking, turning, and countless others. The deeper you dive into any one of those disciplines, the more you discover... Source",
+      "url": "https://www.popularwoodworking.com/tools/the-stutey-lathe-a-different-way-to-think-about-woodturning/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/11103748/stutey-lathe.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/11103748/stutey-lathe.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-13T15:31:56+00:00"
     },
     {
       "id": "1e57687c8fc142b2",
@@ -1950,9 +1990,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2217,7 +2257,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2318,7 +2358,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2441,8 +2481,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/qYj9vw1O-1-ERNESTOMEDA_ONE-02_PARTICOLARE-4-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/MfoGDFaY-3-ERNESTOMEDA_ONE-02_PARTICOLARE-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-unnamed-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
+        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg"
       ],
       "source": "Interni magazine",
@@ -2492,6 +2532,19 @@
       "source": "Azure magazine CA",
       "source_url": "https://www.azuremagazine.com",
       "published": "2026-07-30T19:18:52+00:00"
+    },
+    {
+      "id": "72664b960ea7af2a",
+      "title": "Post & Rung Standing Desk",
+      "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
+      "url": "https://www.popularwoodworking.com/projects/post-rung-standing-desk/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-30T15:23:28+00:00"
     },
     {
       "id": "1aac48720ac53800",
@@ -2915,6 +2968,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-17T10:00:34+00:00"
+    },
+    {
+      "id": "2415d48aa87c549b",
+      "title": "Mahogany Entry Table",
+      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
+      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-16T18:43:10+00:00"
     },
     {
       "id": "7d1022c9dc0de763",
@@ -3395,7 +3461,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3625,7 +3691,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
