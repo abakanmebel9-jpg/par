@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-16T18:42:17.158078+00:00",
-  "generated_at_human": "2026-08-16 18:42 UTC",
+  "generated_at": "2026-08-16T19:29:26.924760+00:00",
+  "generated_at_human": "2026-08-16 19:29 UTC",
   "total_items": 276,
   "sources_used": [
     "Apartment Therapy",
@@ -46,7 +46,6 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
-    "Sleeper magazine",
     "Stylepark DE",
     "Sunset",
     "Trendir",
@@ -63,8 +62,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 64,
+  "sources_count": 56,
+  "multi_photo_items": 63,
   "items": [
     {
       "id": "458d149e05d94a59",
@@ -74,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=30311",
+        "https://i.archi.ru/i/1262/305304.jpg?r=66009",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -92,11 +91,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=50022",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=39615",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=34713",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=25511",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=30611"
+        "https://i.archi.ru/i/1262/310555.jpg?r=80276",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=98646",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=40048",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=31200",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=63652"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -110,7 +109,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=41846",
+        "https://i.archi.ru/i/1262/510881.jpg?r=89704",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -132,6 +131,36 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "fc7b4202342f8a64",
+      "title": "Ditch The Paint And Stain: There's A Better Way To Update Honey Oak Cabinets",
+      "summary": "Removing that dated feel from honey oak cabinets is all about creating contrast and drawing the eye toward an often overlooked part of your kitchen instead.",
+      "url": "https://www.hunker.com/2235506/update-honey-oak-cabinets-no-paint-or-stain-change-backsplash/",
+      "image": "https://www.hunker.com/img/gallery/ditch-the-paint-and-stain-theres-a-better-way-to-update-honey-oak-cabinets/l-intro-1786550206.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-the-paint-and-stain-theres-a-better-way-to-update-honey-oak-cabinets/l-intro-1786550206.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-paint-and-stain-theres-a-better-way-to-update-honey-oak-cabinets/intro-1786550206.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-paint-and-stain-theres-a-better-way-to-update-honey-oak-cabinets/tips-for-using-a-tile-backsplash-to-update-your-honey-oak-cabinets-1786550208.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-16T19:00:00+00:00"
+    },
+    {
+      "id": "c76592ce3e5afb10",
+      "title": "Upcycle Old Kitchenware Into A Charming Piece For Your Table With A Pantry Staple",
+      "summary": "Don't throw out your chipped or cracked kitchenware. Instead, turn it into a cute decoration using something you probably have in your pantry.",
+      "url": "https://www.hunker.com/2235512/upcycle-old-pitcher-into-a-charming-diy-popcorn-kernels/",
+      "image": "https://www.hunker.com/img/gallery/upcycle-old-kitchenware-into-a-charming-piece-for-your-table-with-a-pantry-staple/l-intro-1786549680.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/upcycle-old-kitchenware-into-a-charming-piece-for-your-table-with-a-pantry-staple/l-intro-1786549680.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-old-kitchenware-into-a-charming-piece-for-your-table-with-a-pantry-staple/intro-1786549680.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-old-kitchenware-into-a-charming-piece-for-your-table-with-a-pantry-staple/crafting-your-charming-kitchenware-table-decor-1786549681.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-16T18:30:00+00:00"
     },
     {
       "id": "50bd1ac5bc406ec5",
@@ -250,21 +279,6 @@
       "published": "2026-08-16T12:30:00+00:00"
     },
     {
-      "id": "f60dc371c812e820",
-      "title": "Turn An Old Frying Pan Into Cute Countertop Storage With This Clever DIY",
-      "summary": "A frying pan may seem too shallow to store anything. But by modifying the shape and adding crafty embellishments, you can DIY an adorable storage solution.",
-      "url": "https://www.hunker.com/2235264/repurpose-frying-pan-countertop-storage-clever-diy/",
-      "image": "https://www.hunker.com/img/gallery/turn-an-old-frying-pan-into-cute-countertop-storage-with-this-clever-diy/l-intro-1786537167.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/turn-an-old-frying-pan-into-cute-countertop-storage-with-this-clever-diy/l-intro-1786537167.jpg",
-        "https://www.hunker.com/img/gallery/turn-an-old-frying-pan-into-cute-countertop-storage-with-this-clever-diy/intro-1786537167.jpg",
-        "https://www.hunker.com/img/gallery/turn-an-old-frying-pan-into-cute-countertop-storage-with-this-clever-diy/weave-a-countertop-storage-basket-from-a-pan-1786537169.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-16T12:00:00+00:00"
-    },
-    {
       "id": "9788e923ecde1889",
       "title": "Renters Couldn't Renovate Their Dated Kitchen — So They Got Creative",
       "summary": "Are you a renter feeling limited, home improvement-wise, by the terms of your lease or by the fact that you might someday move? Heed this advice from Lily F Tsutumida: “Do the math and consider what it’s worth for you to be happier in your space while you’re there; if it’s feasible, go for it! READ MORE...",
@@ -275,6 +289,19 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-16T12:00:00+00:00"
+    },
+    {
+      "id": "f60dc371c812e820",
+      "title": "Turn An Old Frying Pan Into Cute Countertop Storage With This Clever DIY",
+      "summary": "A frying pan may seem too shallow to store anything. But by modifying the shape and adding crafty embellishments, you can DIY an adorable storage solution.",
+      "url": "https://www.hunker.com/2235264/repurpose-frying-pan-countertop-storage-clever-diy/",
+      "image": "https://www.hunker.com/img/gallery/turn-an-old-frying-pan-into-cute-countertop-storage-with-this-clever-diy/l-intro-1786537167.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/turn-an-old-frying-pan-into-cute-countertop-storage-with-this-clever-diy/l-intro-1786537167.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
       "published": "2026-08-16T12:00:00+00:00"
     },
     {
@@ -350,19 +377,6 @@
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
       "id": "199348782a03c4ad",
       "title": "Did Courtney and Sev’s high-risk, high-reward family bathroom just make Block history?",
       "summary": "The contestants to beat are onto a winning streak The post Did Courtney and Sev’s high-risk, high-reward family bathroom just make Block history? appeared first on Homes To Love .",
@@ -386,6 +400,19 @@
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
@@ -537,9 +564,7 @@
       "url": "https://www.hunker.com/2233715/upcycle-old-glass-jars-vintage-countertop-storage/",
       "image": "https://www.hunker.com/img/gallery/upcycle-old-glass-jars-vintage-countertop-storage/l-intro-1786528880.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/upcycle-old-glass-jars-vintage-countertop-storage/l-intro-1786528880.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-glass-jars-vintage-countertop-storage/intro-1786528880.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-glass-jars-vintage-countertop-storage/crafting-vintage-style-storage-decor-with-an-old-glass-jar-1786528882.jpg"
+        "https://www.hunker.com/img/gallery/upcycle-old-glass-jars-vintage-countertop-storage/l-intro-1786528880.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -562,19 +587,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-15T22:30:19+00:00"
-    },
-    {
-      "id": "ad42193675aee5ab",
-      "title": "What Happens If You Mix Fabric Softener With Detergent?",
-      "summary": "If you mix fabric softener with detergent, they cancel each other out. Long term use of this mixture can clog your washing machine. Here's why it's a bad idea.",
-      "url": "https://www.hunker.com/2235455/what-happens-mix-fabric-softener-detergent/",
-      "image": "https://www.hunker.com/img/gallery/what-happens-if-you-mix-fabric-softener-with-detergent/l-intro-1786547818.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/what-happens-if-you-mix-fabric-softener-with-detergent/l-intro-1786547818.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-15T22:00:00+00:00"
     },
     {
       "id": "02ccee653dff2fe6",
@@ -765,9 +777,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/a-victorian-coffee-table-just-grew-robot-dog-legs/let-the-dog-out-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/unused-fishing-containers-turned-to-recycled-furniture/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/recycled-plastic-becomes-stone-like-sheets-for-sustainable-furniture-designs/design-declassified-recycled-plastic-stone-02.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/weber-is-shutting-off-the-june-ovens-ai-camera-and-a-90-air-fryer-already-does-the-same-thing/june_oven_vs_air_fryer_1.jpeg"
+        "https://www.yankodesign.com/images/design_news/2013/05/28/eira_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/01/23/worldofwonder_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/ai-helps-design-a-modular-couch-that-can-be-transported-in-a-big-envelope/2.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2340,7 +2352,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
         "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2472,23 +2484,6 @@
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
       "published": "2026-07-31T21:49:47+00:00"
-    },
-    {
-      "id": "f182c9ad3d97475e",
-      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
-      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-07-31T12:11:26+00:00"
     },
     {
       "id": "67a8a7b7427d13df",
