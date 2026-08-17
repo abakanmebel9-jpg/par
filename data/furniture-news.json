@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-17T13:50:17.386827+00:00",
-  "generated_at_human": "2026-08-17 13:50 UTC",
-  "total_items": 289,
+  "generated_at": "2026-08-17T14:38:25.457967+00:00",
+  "generated_at_human": "2026-08-17 14:38 UTC",
+  "total_items": 293,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -45,6 +45,7 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
+    "Sleeper magazine",
     "Stylepark DE",
     "Sunset",
     "Trendir",
@@ -61,8 +62,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 64,
+  "sources_count": 56,
+  "multi_photo_items": 65,
   "items": [
     {
       "id": "458d149e05d94a59",
@@ -72,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=30433",
+        "https://i.archi.ru/i/1262/305304.jpg?r=33917",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -90,11 +91,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=2116",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=98520",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=24060",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=8328",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=63386"
+        "https://i.archi.ru/i/1262/310555.jpg?r=99270",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=50313",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=13484",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=82925",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=29720"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -108,7 +109,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=51377",
+        "https://i.archi.ru/i/1262/510881.jpg?r=37073",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -132,6 +133,52 @@
       "published": ""
     },
     {
+      "id": "6a3e3ae01d8ed91a",
+      "title": "Is the Sunken Bathtub the New Conversation Pit?",
+      "summary": "It’s the bathroom trend that designers and architects are excited about, but are you ready to take the plunge?",
+      "url": "https://www.elledecor.com/design-decorate/trends/g73431035/sunken-bath-bathroom-trend/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/7f489e7d-8fbd-4921-8484-abcfa0bd2473.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/7f489e7d-8fbd-4921-8484-abcfa0bd2473.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/ba1a0b60-c2e6-4aa0-b505-7cbc5a43ad6f.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/1b009102-3340-4a89-a1f5-8ab7b029e12b.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/bdf42d4c-bd2b-4f48-ab3d-a64927a8d07d.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/6e983a65-c883-4d53-aea7-4173ad152c15.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/f9cec274-9370-4740-b7f6-6b5912ed1f14.jpeg"
+      ],
+      "source": "Elle Decor",
+      "source_url": "https://www.elledecor.com",
+      "published": "2026-08-17T14:00:00+00:00"
+    },
+    {
+      "id": "60c56a29a4afa5dc",
+      "title": "Upcycle Old Milk Jugs Into Clever Bathroom Storage",
+      "summary": "You need to organize your bathroom clutter, but can't fit new storage supplies into the budget. Got an empty milk jug? You've got the start of a DIY solution.",
+      "url": "https://www.hunker.com/2236311/upcycle-old-milk-jugs-bathroom-storage-organizer/",
+      "image": "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/l-intro-1786635458.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/l-intro-1786635458.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/intro-1786635458.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/how-to-turn-an-empty-milk-jug-into-a-bathroom-organizer-1786635459.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-17T14:00:00+00:00"
+    },
+    {
+      "id": "210b2691225c79ad",
+      "title": "carved travertine transforms paving, furniture, and planting across spanish historic old town",
+      "summary": "in banyoles, mias architects completes the transformation of the historic center with an intervention in plaça d’en ges and the surrounding streets. The post carved travertine transforms paving, furniture, and planting across spanish historic old town appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/carved-travertine-transforms-paving-furniture-and-planting-across-spanish-historic-old-town/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/08/banyoles-spain-mias-architects-historic-center-travertine-stone-designboom-700-500x400-22b08q85r427.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/08/banyoles-spain-mias-architects-historic-center-travertine-stone-designboom-700-500x400-22b08q85r427.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-08-17T13:56:52+00:00"
+    },
+    {
       "id": "7f2e997b250cb0e2",
       "title": "Hotel Chalet Mirabell Makes the South Tyrolean Landscape the Main Attraction",
       "summary": "With a 64,000-square-foot spa, tiered timber architecture, and sweeping alpine views, the Italian retreat is designed around finding room to slow down",
@@ -148,6 +195,19 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
+    },
+    {
+      "id": "66c7a16a8921c33d",
+      "title": "New colour palette by Raffaella Mangiarotti and Lapalma",
+      "summary": "Dezeen Showroom: Italian brand Lapalma has collaborated with architect and designer Raffaella Mangiarotti on a new kaleidoscopic palette of colourways for its catalogue. Lapalma describes its new colour palette, which debuted at Salone del Mobile, as a \"chromatic alphabet\" of 16 distinct shades that can be applied to a spectrum of its products. Existing colours Bianco, The post New colour palette by Raffaella Mangiarotti and Lapalma appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/17/new-colour-palette-by-raffaella-mangiarotti-lapalma-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/08/new-colour-palette-raffaella-mangiarotti-lapalma-showroom_dezeen_2364_col_7.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/new-colour-palette-raffaella-mangiarotti-lapalma-showroom_dezeen_2364_col_7.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-17T13:00:19+00:00"
     },
     {
       "id": "e13928aa2401791f",
@@ -522,9 +582,7 @@
       "url": "https://www.hunker.com/2236971/kitchen-appliance-set-soda-stream-glass-carafe-only-buy-costco/",
       "image": "https://www.hunker.com/img/gallery/the-cool-kitchen-appliance-set-you-can-only-buy-at-costco/l-intro-1786708869.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/the-cool-kitchen-appliance-set-you-can-only-buy-at-costco/l-intro-1786708869.jpg",
-        "https://www.hunker.com/img/gallery/the-cool-kitchen-appliance-set-you-can-only-buy-at-costco/intro-1786708869.jpg",
-        "https://www.hunker.com/img/gallery/the-cool-kitchen-appliance-set-you-can-only-buy-at-costco/why-costcos-sodastream-duo-stands-out-1786708870.jpg"
+        "https://www.hunker.com/img/gallery/the-cool-kitchen-appliance-set-you-can-only-buy-at-costco/l-intro-1786708869.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -571,9 +629,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/cat-tree-concept-proposes-a-multifunctional-and-risky-design/slash-cat-tree-concept-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/Please-Hold-Up-Sample.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/outdoor-gear-of-august-2026/5_best_outdoor_gear_august_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/06/ahn-kihyuns-new-experimental-chair-lets-you-keep-eggs-from-cracking/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/09/20/rope_stool_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/09/compact-living-just-got-easier/airea_airpurifier_sidetable_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -663,7 +721,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/08/weber-is-shutting-off-the-june-ovens-ai-camera-and-a-90-air-fryer-already-does-the-same-thing/june_oven_vs_air_fryer_1.jpeg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-16T17:20:28+00:00"
     },
@@ -813,19 +871,6 @@
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
       "id": "f79be356c836e8ae",
       "title": "Door or no door? Adam and Jolene’s main bathroom on ‘The Block’ sparks privacy debate",
       "summary": "The cattle station managers get pipped at the post once again The post Door or no door? Adam and Jolene’s main bathroom on ‘The Block’ sparks privacy debate appeared first on Homes To Love .",
@@ -862,6 +907,19 @@
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
@@ -980,9 +1038,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-modular-chair-that-lets-you-swap-parts-like-a-building/facade-012.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/unique-table-designed-with-loads-of-storage-space-that-furniture-lovers-will-be-absolutely-smitten-with/Dezin-Table_Overlap_3.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/09/14/dolly_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/03/06/pages_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/10/28/stooka_chair.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/11/15/yoyo01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/08/guacal/pet_yanko_design_04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1352,8 +1410,8 @@
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/bar-shed-drinks-and-flowers-sun-2148-58510-0826.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/steamboat-rock-dinosaur-national-monument-pc-Sierralara-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/hollywood-farmers-market-pc-barry-winiker-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/reading-book-hammock.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
       ],
       "source": "Sunset",
@@ -1512,19 +1570,6 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-08-13T07:40:20+00:00"
-    },
-    {
-      "id": "a2e090c2fd462631",
-      "title": "island records and emi turn their king’s cross headquarters into a spatial mixtape",
-      "summary": "the king’s cross office trades corporate neutrality for pantone yellow, a deconstructed union jack and more than 70 works of art. The post island records and emi turn their king’s cross headquarters into a spatial mixtape appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/island-records-and-emi-turn-their-kings-cross-headquarters-into-a-spatial-mixtape/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/08/island-records-emi-kings-cross-headquarters-spatial-mixtape-interesting-projects-studio-eye-designboom-2-500x400-22b08q85r488.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/08/island-records-emi-kings-cross-headquarters-spatial-mixtape-interesting-projects-studio-eye-designboom-2-500x400-22b08q85r488.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-08-13T07:20:27+00:00"
     },
     {
       "id": "425c620d48b1c559",
@@ -2135,12 +2180,7 @@
       "url": "https://www.elledecor.com/design-decorate/house-interiors/a64165272/capri-island-villa/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/edc020116capri01-67d1daa3ad5e5.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/edc020116capri01-67d1daa3ad5e5.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/edc020116capri08-67d1daa3a19c2.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/edc020116capri02-67d1d923cb60e.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/edc020116capri03-67d1d9ae6e2cd.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/edc090117horton07-65e77d60663b5.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/e10f8c49-22e4-4531-9e12-4221384c3faa.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/edc020116capri01-67d1daa3ad5e5.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -2675,6 +2715,23 @@
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
       "published": "2026-07-31T21:49:47+00:00"
+    },
+    {
+      "id": "f182c9ad3d97475e",
+      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
+      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-31T12:11:26+00:00"
     },
     {
       "id": "67a8a7b7427d13df",
