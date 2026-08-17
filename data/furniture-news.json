@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-17T11:35:30.900143+00:00",
-  "generated_at_human": "2026-08-17 11:35 UTC",
-  "total_items": 283,
+  "generated_at": "2026-08-17T13:01:55.437750+00:00",
+  "generated_at_human": "2026-08-17 13:01 UTC",
+  "total_items": 291,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -45,6 +45,7 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
+    "Sleeper magazine",
     "Stylepark DE",
     "Sunset",
     "Trendir",
@@ -61,8 +62,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 63,
+  "sources_count": 56,
+  "multi_photo_items": 65,
   "items": [
     {
       "id": "458d149e05d94a59",
@@ -72,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=29467",
+        "https://i.archi.ru/i/1262/305304.jpg?r=16245",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -90,11 +91,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=20278",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=1219",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=85185",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=61596",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=58532"
+        "https://i.archi.ru/i/1262/310555.jpg?r=74542",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=19492",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=35924",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=39031",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=22811"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -108,7 +109,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=80185",
+        "https://i.archi.ru/i/1262/510881.jpg?r=59368",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -130,6 +131,125 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "7f2e997b250cb0e2",
+      "title": "Hotel Chalet Mirabell Makes the South Tyrolean Landscape the Main Attraction",
+      "summary": "With a 64,000-square-foot spa, tiered timber architecture, and sweeping alpine views, the Italian retreat is designed around finding room to slow down",
+      "url": "https://design-milk.com/hotel-chalet-mirabell-south-tyrol-italy/",
+      "image": "https://design-milk.com/images/2026/08/Chalet-Mirabell-9.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/08/Chalet-Mirabell-9.jpg",
+        "https://design-milk.com/images/2026/08/Chalet-Mirabell-8.jpg",
+        "https://design-milk.com/images/2026/08/Chalet-Mirabell-5.jpg",
+        "https://design-milk.com/images/2026/08/Chalet-Mirabell-2.jpg",
+        "https://design-milk.com/images/2026/08/Chalet-Mirabell-7.jpg",
+        "https://design-milk.com/images/2026/08/Chalet-Mirabell-6.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-08-17T13:00:49+00:00"
+    },
+    {
+      "id": "e13928aa2401791f",
+      "title": "The Leitz Portable Desk Organizer for Hot-Desking",
+      "summary": "It must be hard to believe, for those that work in hot-desking situations, that there was once a time when professionals all had their own offices. Instead, the current mode is that workers keep their stuff in a locker, and break it out when a desk is available. To make this easier, German office products brand Leitz created this Hanging Desk Organizer . It's a felt storage caddy that, once pulled out of the locker, can hang from the side of a slab desk. While the material looks like felt, it's actually Thermofelt, a heat-formed polyester felt made from recycled plastic. A mechanism allows…",
+      "url": "https://www.core77.com/posts/145074/The-Leitz-Portable-Desk-Organizer-for-Hot-Desking",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1845850_lead_400_145074_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1845850_lead_400_145074_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-17T13:00:00+00:00"
+    },
+    {
+      "id": "23757f8f2e7c2921",
+      "title": "I Turned a Useless Wall in My 1930s Galley Kitchen into a Storage Haven",
+      "summary": "My little corner house is a colonial-style home built in the 1930s, when galley kitchens were incredibly common and larger formal dining rooms were prioritized. The galley kitchen doesn’t necessarily feel cramped, but its layout is incredibly awkward. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/yamazaki-home-tower-storage-rack-review-37686042?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-08/yamazaki-tower-storage-rack/kitchen-before-rack-lead",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-08/yamazaki-tower-storage-rack/kitchen-before-rack-lead"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-17T12:30:00+00:00"
+    },
+    {
+      "id": "063c7922260a53e0",
+      "title": "The Best Wood Stains of 2026, Picks from Our Experts",
+      "summary": "For excellent coverage and color that won't fade from your next woodworking project, start with the best wood stain. Here, we cover shopping tips and recommendations. The post The Best Wood Stains of 2026, Picks from Our Experts appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/interior/best-wood-stains/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2019/10/Best_Wood_Stain_for_Furniture.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2019/10/Best_Wood_Stain_for_Furniture.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-08-17T12:03:00+00:00"
+    },
+    {
+      "id": "367844bedeab2c6d",
+      "title": "These Rooms Show What a Rug Does That Furniture Alone Can’t",
+      "summary": "Sofas, tables, beds, and chairs determine how a room functions, but their placement does not always make them feel connected. Rugs fill the floor between those pieces, define where one furniture group ends, and add color or texture where hard flooring would remain exposed. These rooms show the difference through placement rather than elaborate rug... The post These Rooms Show What a Rug Does That Furniture Alone Can’t appeared first on Homedit .",
+      "url": "https://www.homedit.com/these-rooms-show-what-a-rug-does-that-furniture-alone-cant/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Take-Away-the-Rug-and-These-Rooms-Would-Feel-Unfinished.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Take-Away-the-Rug-and-These-Rooms-Would-Feel-Unfinished.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Teal-Connects-the-Sofa-With-Smaller-Accents.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Texture-on-the-Wall-Meets-Texture-on-the-Floor.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Every-Patio-Needs-a-Grid.-This-One-Uses-Irregular-Granite-Instead.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Island-Seating-Is-Moving-Beyond-the-Basic-Counter-Overhang.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Oak-Cabinets-Stiffkey-Blue-and-They-Look-Like-a-Different-Kitchen.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-17T12:00:22+00:00"
+    },
+    {
+      "id": "4d84d7fd6d2d8db1",
+      "title": "Your shower drain slows and stinks: here’s the $5 fix almost every bathroom is missing",
+      "summary": "You step into the shower and the water starts pooling around your ankles again. There’s a sour smell drifting up from the drain that no amount of scrubbing seems to fix. And the worst part? You already tried everything obvious. You ran the hot water longer. You dumped a kettle of boiling water down after […] The post Your shower drain slows and stinks: here’s the $5 fix almost every bathroom is missing appeared first on Trendir .",
+      "url": "https://www.trendir.com/your-shower-drain-slows-and-stinks-heres-the-5-fix-almost-every-bathroom-is-missing/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/metal-bathtub-drain-clogged-with-hair-strands.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/metal-bathtub-drain-clogged-with-hair-strands.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/05/large-coffee-tables.png",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/11/28/7-furniture-designs-inspired-animals.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/trends/2015/01/11/unusual-home-design-abstract-tile-design.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/12/20/7-time-kitchen-snaidero-timeless-teak.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/cracked-foundation-wall-below-white-siding-exterior.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-08-17T12:00:00+00:00"
+    },
+    {
+      "id": "8b6ed515518da4c3",
+      "title": "She Removed the Closet Doors and Added 2 IKEA BILLYs Instead",
+      "summary": "Although closets can be great for stashing coats, scarves, umbrellas, games, sports equipment, and more behind closed doors, recently designers and DIYers have proven that removing the doors can also be quite fruitful — that is, if you want to create an alcove-esque design feature without having to do much demo. (Check out this closet-turned-home office or this cute entryway bench for inspiration! READ MORE...",
+      "url": "https://www.apartmenttherapy.com/gray-closet-redo-1600-dollars-ikea-billy-ba-37686067?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-08/Alice%20Kuaban%20coat%20closet/AliceKuaban_before_horiz_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-08/Alice%20Kuaban%20coat%20closet/AliceKuaban_before_horiz_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-17T12:00:00+00:00"
+    },
+    {
+      "id": "79db5d1a42c41639",
+      "title": "Teaching With Your Teacher",
+      "summary": "I started teaching chairmaking one year ago, fresh off a week assisting Chrisopher Schwarz’s Chairmaker’s Toolbox class. I had just a few chairs under my belt and probably wasn’t quite ready to teach anyone else how to make them, but I had a willing co-teacher and enough reckless abandon to try. We set off on...",
+      "url": "https://blog.lostartpress.com/2026/08/17/teaching-with-your-teacher/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/KCWG.jpeg?resize=640%2C479&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/KCWG.jpeg?resize=640%2C479&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-17T11:46:30+00:00"
     },
     {
       "id": "279df64fe372b45a",
@@ -173,7 +293,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Thick-Counter-Turns-Toward-the-Seating-Side.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Every-Patio-Needs-a-Grid.-This-One-Uses-Irregular-Granite-Instead.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Thick-Wood-Slab-Projects-Past-the-Island-Base.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Couldnt-Bring-Himself-to-Remove-This-Giant-Juniper-So-He-Cut-It-Into-a-New-Shape.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Rooms-Show-What-a-Rug-Does-That-Furniture-Alone-Cant.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Oak-Cabinets-Stiffkey-Blue-and-They-Look-Like-a-Different-Kitchen.jpg"
       ],
       "source": "Homedit",
@@ -321,12 +441,7 @@
       "url": "https://www.homedit.com/ditch-the-white-sink-for-this-striking-stone-alternative/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Ditch-the-White-Sink-for-This-Striking-Stone-Alternative.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Ditch-the-White-Sink-for-This-Striking-Stone-Alternative.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/An-Open-Metal-Base-Leaves-the-Stone-on-Display.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Every-Patio-Needs-a-Grid.-This-One-Uses-Irregular-Granite-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Couldnt-Bring-Himself-to-Remove-This-Giant-Juniper-So-He-Cut-It-Into-a-New-Shape.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Island-Seating-Is-Moving-Beyond-the-Basic-Counter-Overhang.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Oak-Cabinets-Stiffkey-Blue-and-They-Look-Like-a-Different-Kitchen.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Ditch-the-White-Sink-for-This-Striking-Stone-Alternative.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -457,9 +572,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/05/05/tilta_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/auto-draft/ivation_ez_bed_7.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/04/diy-interactive-smart-coffee-table-uses-second-hand-products-and-reclaimed-materials/diy-interactive-smart-coffee-table-10.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/06/cat-tree-concept-proposes-a-multifunctional-and-risky-design/slash-cat-tree-concept-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/Please-Hold-Up-Sample.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/outdoor-gear-of-august-2026/5_best_outdoor_gear_august_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -699,6 +814,19 @@
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
       "id": "f79be356c836e8ae",
       "title": "Door or no door? Adam and Jolene’s main bathroom on ‘The Block’ sparks privacy debate",
       "summary": "The cattle station managers get pipped at the post once again The post Door or no door? Adam and Jolene’s main bathroom on ‘The Block’ sparks privacy debate appeared first on Homes To Love .",
@@ -735,19 +863,6 @@
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
@@ -826,19 +941,6 @@
       "published": "2026-08-16T08:12:43+00:00"
     },
     {
-      "id": "12defd62ab544a87",
-      "title": "He Rebuilt His Deep Pantry So Every Shelf Lights Up When the Door Opens",
-      "summary": "Want a pantry that stores more without losing food behind rows of boxes and containers? Deep shelves become harder to use once the front fills up, leaving food hidden in the back and large appliances competing for space. Reddit user u/dota2duhfuq had that problem in a narrow pantry beside the refrigerator. Three dark wood shelves... The post He Rebuilt His Deep Pantry So Every Shelf Lights Up When the Door Opens appeared first on Homedit .",
-      "url": "https://www.homedit.com/he-rebuilt-his-deep-pantry-so-every-shelf-lights-up-when-the-door-opens/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Rebuilt-His-Deep-Pantry-So-Every-Shelf-Lights-Up-When-the-Door-Opens.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Rebuilt-His-Deep-Pantry-So-Every-Shelf-Lights-Up-When-the-Door-Opens.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-16T07:01:52+00:00"
-    },
-    {
       "id": "db677d82e7dceb2f",
       "title": "NUA Arquitectures renovates Catalan textile warehouse with timber office block",
       "summary": "Spanish studio NUA Arquitectures has renovated a textile warehouse near Barcelona, using timber partitions to create a small office block within its concrete-and-brick structure. The project was completed for Tuvatèxtil, one of the last companies still operating in El Pont d'Armentera – once the most important textile hub in southern Catalonia, home to 12 factories. The post NUA Arquitectures renovates Catalan textile warehouse with timber office block appeared first on Dezeen .",
@@ -862,8 +964,8 @@
         "https://sunset.com/wp-content/uploads/2026/07/rug-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/pantry-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/island-stools-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/hollywood-farmers-market-pc-barry-winiker-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/reading-book-hammock.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/2026/08/bar-shed-drinks-and-flowers-sun-2148-58510-0826.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/steamboat-rock-dinosaur-national-monument-pc-Sierralara-getty.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -879,9 +981,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-modular-chair-that-lets-you-swap-parts-like-a-building/facade-012.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/09/11/cora_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/this-distinctive-wood-like-material-is-made-from-worthless-scraps-of-wood/forestbank-11.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/03/29/Rotate_it.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/05/unique-table-designed-with-loads-of-storage-space-that-furniture-lovers-will-be-absolutely-smitten-with/Dezin-Table_Overlap_3.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/09/14/dolly_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/03/06/pages_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1019,9 +1121,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/5-furniture-pieces-so-geometric-they-could-hang-in-a-gallery/Geometric-Furniture_Sculptural-Designs_14.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/02/nike_runaid_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/04/fiio-snowsky-anytime-headphones-boast-y2k-style-aesthetics-and-powerful-sound/Fiio-SNOWSKY-Anytime-Headphones-7.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/the-blackbox-that-lets-you-edit-4k-videos-on-your-phone/gnarbox_ssd_cover.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/02/07/b_and_o_concept.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/08/auto-draft/native_union_marquetry_charger_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/outdoor-gear-of-august-2026/5_best_outdoor_gear_august_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1264,8 +1366,8 @@
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/hollywood-farmers-market-pc-barry-winiker-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/reading-book-hammock.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/bar-shed-drinks-and-flowers-sun-2148-58510-0826.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/steamboat-rock-dinosaur-national-monument-pc-Sierralara-getty.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
       ],
       "source": "Sunset",
@@ -2129,7 +2231,7 @@
         "https://cdn.trendir.com/wp-content/uploads/old/trends/futuristic-backyard-sheds-offices-studios-log-pile-workspace.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2016/07/Front-outdoor-area-with-a-fire-pit-and-a-hot-tub.jpg"
       ],
-      "source": "Trendir",
+      "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-08-07T11:30:37+00:00"
     },
@@ -2144,7 +2246,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
       ],
       "source": "Interni magazine",
@@ -2158,12 +2260,7 @@
       "url": "https://design-milk.com/tan-france-castlery-first-furniture-collection/",
       "image": "https://design-milk.com/images/2026/08/260523_CASTLERY0104_FINAL-2.jpg",
       "images": [
-        "https://design-milk.com/images/2026/08/260523_CASTLERY0104_FINAL-2.jpg",
-        "https://design-milk.com/images/2026/08/Rayan-Floor-Mirror-120cmW×200cmH-Set_1.jpg",
-        "https://design-milk.com/images/2026/08/Tarin-Drink-Table-Set_1.jpg",
-        "https://design-milk.com/images/2026/08/Avan-Dining-Chair-Basketweave-Cream-Set_1.jpg",
-        "https://design-milk.com/images/2026/08/Kagan-Leather-Extended-3-Seater-Sofa-Moss-Set_1.jpg",
-        "https://design-milk.com/images/2026/08/Anika-Table-Lamp-Orange-Set_1.jpg"
+        "https://design-milk.com/images/2026/08/260523_CASTLERY0104_FINAL-2.jpg"
       ],
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
@@ -2458,9 +2555,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2592,6 +2689,23 @@
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
       "published": "2026-07-31T21:49:47+00:00"
+    },
+    {
+      "id": "f182c9ad3d97475e",
+      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
+      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-31T12:11:26+00:00"
     },
     {
       "id": "67a8a7b7427d13df",
