@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-18T22:36:03.602117+00:00",
-  "generated_at_human": "2026-08-18 22:36 UTC",
-  "total_items": 275,
+  "generated_at": "2026-08-18T23:32:10.563685+00:00",
+  "generated_at_human": "2026-08-18 23:32 UTC",
+  "total_items": 287,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Bob Vila",
     "Core77",
     "DM tag bathroom",
@@ -18,7 +19,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -37,6 +37,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -52,15 +53,15 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 64,
   "items": [
     {
@@ -71,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=59613",
+        "https://i.archi.ru/i/1262/305304.jpg?r=97892",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -89,11 +90,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=37541",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=25036",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=17178",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=16061",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=36123"
+        "https://i.archi.ru/i/1262/310555.jpg?r=21915",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=11978",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=89308",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=55290",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=41726"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -107,7 +108,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=17986",
+        "https://i.archi.ru/i/1262/510881.jpg?r=63608",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -269,6 +270,19 @@
       "published": "2026-08-18T14:00:00+00:00"
     },
     {
+      "id": "27fcc1bd5c317230",
+      "title": "5 Products to Give the Living Room a Fall Reset",
+      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-18T13:44:03+00:00"
+    },
+    {
       "id": "5de0a1c16af98d62",
       "title": "White Vanity Tops Aren’t the Only Option, These Bathrooms Make the Counter Part of the Room",
       "summary": "White porcelain already occupies sinks, tubs, and toilets, yet many bathrooms repeat white across the vanity top. Countertops offer space for color, stone patterns, dark finishes, and thicker edges without changing the fixtures. Black counters can merge with dark cabinetry, pink terrazzo can frame a white basin, and thick surfaces can give a vanity more... The post White Vanity Tops Aren’t the Only Option, These Bathrooms Make the Counter Part of the Room appeared first on Homedit .",
@@ -295,7 +309,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/08/the-kitchen-ai-that-finally-makes-sense-built-by-someone-who-cooks/studio-chef-01.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-18T13:20:35+00:00"
     },
@@ -747,6 +761,19 @@
       "published": "2026-08-17T12:00:00+00:00"
     },
     {
+      "id": "79db5d1a42c41639",
+      "title": "Teaching With Your Teacher",
+      "summary": "I started teaching chairmaking one year ago, fresh off a week assisting Christopher Schwarz’s Chairmaker’s Toolbox class. I had just a few chairs under my belt and probably wasn’t quite ready to teach anyone else how to make them, but I had a willing co-teacher and enough reckless abandon to try. We set off on...",
+      "url": "https://blog.lostartpress.com/2026/08/17/teaching-with-your-teacher/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/KCWG.jpeg?resize=640%2C479&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/KCWG.jpeg?resize=640%2C479&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-17T11:46:30+00:00"
+    },
+    {
       "id": "279df64fe372b45a",
       "title": "Clever ways to hide cords in your home",
       "summary": "We spend hours choosing paint colours, cushions and furniture, only for a handful of cables to undo all that hard work. From the tangle behind the TV to the charger trailing across your bedside table, cords have a habit of making themselves at home wherever they aren’t wanted. Match cords to the wall Sometimes the […] The post Clever ways to hide cords in your home appeared first on SA Garden and Home .",
@@ -810,6 +837,19 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-08-17T10:00:44+00:00"
+    },
+    {
+      "id": "a386f4d83bdf158d",
+      "title": "Don Weber’s Slides (Part 3)",
+      "summary": "This is the final post in a three-post series featuring images from a carousel of Don Weber’s slides, which he found while working with us on a profile for The Stick Chair Journal No. 4. This post features images of chairs and a wonderful series of photos from a Country Workshops chairmaking class, taught by...",
+      "url": "https://blog.lostartpress.com/2026/08/17/don-webers-slides-part-3/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-124-copy-1.jpg?resize=640%2C415&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-124-copy-1.jpg?resize=640%2C415&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-17T10:00:00+00:00"
     },
     {
       "id": "76b5e9f93de3dede",
@@ -1070,6 +1110,19 @@
       "published": "2026-08-16T13:00:00+00:00"
     },
     {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
       "id": "3fc544414ff6f9cf",
       "title": "The Block judges liked as much as they hated in Rick and Tayla’s family bathroom",
       "summary": "The judges saw promise in the father-daughter duo, who \"have shown us they have an approach that isn't the same as everybody else,\" despite a mixed Week 2 reveal The post The Block judges liked as much as they hated in Rick and Tayla’s family bathroom appeared first on Homes To Love .",
@@ -1135,19 +1188,6 @@
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
       "id": "ea562c3eb99639d3",
       "title": "The Block 2026 main bathrooms: The most beige season ever",
       "summary": "We’re seeing more of the same in week 2. The post The Block 2026 main bathrooms: The most beige season ever appeared first on Home Beautiful .",
@@ -1164,6 +1204,19 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-08-16T10:41:56+00:00"
+    },
+    {
+      "id": "cfa0cee7e00cdf5e",
+      "title": "Don Weber’s Slides (Part 2)",
+      "summary": "This is the second post in a three-post series featuring images from a carousel of Don Weber’s slides, which he found while working with us on a profile for The Stick Chair Journal No. 4. These images show chairmakers, Don’s journey to the Wycombe woodlands, Don’s pole lathe and his Welsh left-handed writing chair. Captions...",
+      "url": "https://blog.lostartpress.com/2026/08/16/don-webers-slides-part-2/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-70-copy-1.jpg?resize=640%2C410&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-70-copy-1.jpg?resize=640%2C410&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-16T10:00:00+00:00"
     },
     {
       "id": "cee994095b841862",
@@ -1219,9 +1272,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-modular-chair-that-lets-you-swap-parts-like-a-building/facade-012.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/draft-desk/generative_desk_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/black-and-white-halloween-decorations-accessories-for-minimalist-homes/5_best_black_white_halloween_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/a-minimalist-two-piece-design-redefining-functionality-sustainability-and-aesthetic-balance/Slot_chair_furniture_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/04/a-hay-rake-inspired-this-surprisingly-beautiful-entryway-piece/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/01/draft/baithak_stool_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/11/09/arco.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1272,6 +1325,19 @@
       "published": "2026-08-15T10:00:47+00:00"
     },
     {
+      "id": "bf7fd661f93ef802",
+      "title": "Don Weber’s Slides (Part 1)",
+      "summary": "While working on Don Weber’s profile for The Stick Chair Journal No. 4, Don told me that he had a carousel of slides that might of interest. These were images he used during a talk he gave with Michael Dunbar, and, he believes, Jennie Alexander, at a chair symposium at Winterthur Museum, Garden & Library....",
+      "url": "https://blog.lostartpress.com/2026/08/15/don-webers-slides-part-1/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-1-copy.jpg?resize=640%2C432&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-1-copy.jpg?resize=640%2C432&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-15T10:00:00+00:00"
+    },
+    {
       "id": "c5185888153d58b8",
       "title": "Current Obsessions: Escapism",
       "summary": "On deck this weekend? Height-of-summer markets, three books we’re eyeing, statuesque flowers for the garden, and more. Read on: Ooh, we love this Danish brand that “approaches furniture like a pattern maker approaches a garment”—and now it’s available via DWR (hat tip: Fan). Going on this weekend in Maine: High Season Market, ft. many Remodelista […]",
@@ -1307,9 +1373,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/5-furniture-pieces-so-geometric-they-could-hang-in-a-gallery/Geometric-Furniture_Sculptural-Designs_14.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/top-5-smart-rings/top_5_smart_rings_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/01/auto-draft/eksovest_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/10/smooth_iron_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/12/this-500-million-year-old-nautilus-shell-is-now-a-speaker/steampunk-nautilus-haptic-speaker-09.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/02/auto-draft/transparent_iphone_air_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2018/08/green/greenplanet_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1489,6 +1555,19 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-13T21:30:59+00:00"
+    },
+    {
+      "id": "4f2e0f32031d9e9b",
+      "title": "Squirrel Chair For Sale",
+      "summary": "Last month, I went to Nashville where Travis Curtis taught a group of fellow woodworkers and me how to build a Jennie Chair and, for better or for worse, I decided it should be purple and have squirrels on it. The chair was built, woven and painted purple in five days. Mapping out and painting...",
+      "url": "https://blog.lostartpress.com/2026/08/13/squirrel-chair-for-sale/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_2683.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_2683.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-13T19:34:00+00:00"
     },
     {
       "id": "ad98e79a50f803dd",
@@ -1859,6 +1938,19 @@
       "published": "2026-08-11T13:54:01+00:00"
     },
     {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
+    },
+    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -2064,6 +2156,19 @@
       "published": "2026-08-09T08:00:00+00:00"
     },
     {
+      "id": "ac0bd11829054b57",
+      "title": "LAP Open Wire: Saturday, Aug. 8, 2026",
+      "summary": "Comments are now closed. If we’ve not yet answered your question, we’ll get to it soon! Join us again on October 10. Welcome to Lost Art Press Open Wire, where until 5 p.m. Eastern, you can ask any and all woodworking questions and questions about Lost Art Press, our cats, Shakespeare (me), Late 19th/early 20th-century...",
+      "url": "https://blog.lostartpress.com/2026/08/08/lap-open-wire-saturday-aug-8-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3822.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-08T12:00:00+00:00"
+    },
+    {
       "id": "3646dbe00bb324c6",
       "title": "Current Obsessions: Effortlessness",
       "summary": "Happy weekend! For you, a collection of links to peruse, from a poetic coffee table book to gravel gardens. Read on: Looking for quality outdoor fabric that’s actually tasteful and stylish? We found it. John Derian’s new leaf rugs are kinda wild but also oddly compelling. A strong case for the gravel garden as the best type of […]",
@@ -2127,6 +2232,32 @@
       "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-08-07T16:06:04+00:00"
+    },
+    {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
+      "id": "b9e697853d048199",
+      "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
+      "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
+      "url": "https://blog.lostartpress.com/2026/08/07/lap-open-wire-tomorrow-sat-aug-8-2026/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_3880.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-07T12:55:52+00:00"
     },
     {
       "id": "2ad49e781ab5eb8e",
@@ -2387,9 +2518,22 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "48a0a15730ecb6e8",
@@ -2936,6 +3080,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
