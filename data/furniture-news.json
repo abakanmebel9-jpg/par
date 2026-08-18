@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-18T09:44:25.395947+00:00",
-  "generated_at_human": "2026-08-18 09:44 UTC",
-  "total_items": 289,
+  "generated_at": "2026-08-18T10:40:09.219866+00:00",
+  "generated_at_human": "2026-08-18 10:40 UTC",
+  "total_items": 290,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -45,6 +45,7 @@
     "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
+    "Sleeper magazine",
     "Stylepark DE",
     "Sunset",
     "Trendir",
@@ -61,8 +62,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 65,
+  "sources_count": 56,
+  "multi_photo_items": 66,
   "items": [
     {
       "id": "458d149e05d94a59",
@@ -72,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=39056",
+        "https://i.archi.ru/i/1262/305304.jpg?r=83485",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -90,11 +91,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=81815",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=12283",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=13161",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=24183",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=91349"
+        "https://i.archi.ru/i/1262/310555.jpg?r=9560",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=91311",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=72936",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=14011",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=37855"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -108,7 +109,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=10550",
+        "https://i.archi.ru/i/1262/510881.jpg?r=27723",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -132,6 +133,55 @@
       "published": ""
     },
     {
+      "id": "5af8350e532835cb",
+      "title": "They Raised the Washer and Dryer Off the Floor and Built Storage Around Them",
+      "summary": "Front-loading washers solve one problem while creating another: loading and unloading still means reaching close to floor level. Pedestals can raise the doors, though they often become another pair of boxes beneath the machines. Reddit user u/balanoff took a different route during a laundry room remodel. The washer and dryer were placed on a built-in... The post They Raised the Washer and Dryer Off the Floor and Built Storage Around Them appeared first on Homedit .",
+      "url": "https://www.homedit.com/they-raised-the-washer-and-dryer-off-the-floor-and-built-storage-around-them/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/They-Raised-the-Washer-and-Dryer-Off-the-Floor-and-Built-Storage-Around-Them.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/They-Raised-the-Washer-and-Dryer-Off-the-Floor-and-Built-Storage-Around-Them.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Cabinets-Took-Storage-From-Floor-to-Ceiling.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Built-In-Platform-Raised-Both-Appliance-Doors.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Narrow-Floor-Plan-Had-More-Room-Above-Than-Beside-the-Machines.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Washer-and-Dryer-Started-at-Floor-Level.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Coffee-Tables-Are-Breaking-Out-of-the-Standard-Four-Legged-Shape.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-18T10:33:17+00:00"
+    },
+    {
+      "id": "444be899991afde6",
+      "title": "Instead of Painting This Dresser One Color, She Used Eight From Top to Bottom",
+      "summary": "Painting a dresser with this many drawer sizes can make the front look even more disjointed, especially when narrow, wide, and square drawers compete for attention. Homedit contributor Brittney Smart used that irregular layout as the basis for the paint scheme instead of trying to hide it. Eight colors move from orange and coral at... The post Instead of Painting This Dresser One Color, She Used Eight From Top to Bottom appeared first on Homedit .",
+      "url": "https://www.homedit.com/instead-of-painting-this-dresser-one-color-she-used-eight-from-top-to-bottom/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Instead-of-Painting-This-Dresser-One-Color-She-Used-Eight-From-Top-to-Bottom.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Instead-of-Painting-This-Dresser-One-Color-She-Used-Eight-From-Top-to-Bottom.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Eight-Colors-Read-as-One-Vertical-Sequence.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Metal-Legs-Lift-the-Darkest-Color-Off-the-Floor.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Smaller-Drawers-Break-Up-the-Middle-of-the-Color-Sequence.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Blue-Drawers-Anchor-the-Bottom-of-the-Dresser.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Drawers-Are-Painted-Before-Going-Back-Into-the-Frame.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-18T10:15:27+00:00"
+    },
+    {
+      "id": "e9b7b8cef1088b13",
+      "title": "Barbican and Made.com launch homeware collection celebrating iconic London estate",
+      "summary": "The Barbican Centre shop has launched a homeware collection with online retailer Made.com, which includes furniture and lighting modelled on details of the brutalist housing complex in central London. Geometric, gridded and curved architectural references feature throughout the 23-piece MADE x Barbican homeware collection, which also includes textiles and accessories. According to the Barbican, the The post Barbican and Made.com launch homeware collection celebrating iconic London estate appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/18/barbican-made-homeware/",
+      "image": "http://static.dezeen.com/uploads/2026/08/barbican-made-furniture-homeware-design-london_dezeen_2364_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/barbican-made-furniture-homeware-design-london_dezeen_2364_sq.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-18T10:00:46+00:00"
+    },
+    {
       "id": "7be658ee4af83a1d",
       "title": "This Clock Looks Like It’s Sinking Into a Desk and It’s Not a Trick",
       "summary": "This Clock Looks Like It’s Sinking Into a Desk and It’s Not a Trick Clock design hasn’t changed much in its fundamentals for generations. The round face, the numbered ring, the hands that sweep from hour to hour, these...",
@@ -152,11 +202,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Coffee-Tables-Are-Breaking-Out-of-the-Standard-Four-Legged-Shape.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Coffee-Tables-Are-Breaking-Out-of-the-Standard-Four-Legged-Shape.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Instead-of-Painting-This-Dresser-One-Color-She-Used-Eight-From-Top-to-Bottom.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Dont-Toss-Those-Plastic-Bottles-Yet-They-Have-a-Back-to-School-Use.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Forget-Paved-Garden-Paths-Gravel-and-Stepping-Stones-Created-a-Softer-Way-Through-the-Garden.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Rooms-Show-What-a-Rug-Does-That-Furniture-Alone-Cant.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Island-Seating-Is-Moving-Beyond-the-Basic-Counter-Overhang.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Oak-Cabinets-Stiffkey-Blue-and-They-Look-Like-a-Different-Kitchen.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Island-Seating-Is-Moving-Beyond-the-Basic-Counter-Overhang.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -312,19 +362,6 @@
       "published": "2026-08-17T17:00:00+00:00"
     },
     {
-      "id": "85dd2c1bc824241c",
-      "title": "This Desk Lamp Puts a Spotlight in a Ring Light With One Knob",
-      "summary": "This Desk Lamp Puts a Spotlight in a Ring Light With One Knob Desk lighting has long been a compromise between task and atmosphere. Professional lamps tend to lean one way or the other: too directional and harsh...",
-      "url": "https://www.yankodesign.com/2026/08/17/this-desk-lamp-puts-a-spotlight-in-a-ring-light-with-one-knob/?utm_source=rss&utm_medium=rss&utm_campaign=this-desk-lamp-puts-a-spotlight-in-a-ring-light-with-one-knob",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/642149/focus-light-dual-light-lamp-concept-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/642149/focus-light-dual-light-lamp-concept-01.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-17T16:20:24+00:00"
-    },
-    {
       "id": "469cfdc32d0929cf",
       "title": "Custom Edge Protection, Part 1: Crafting a Riveted Leather Edge Scabbard",
       "summary": "Every woodworker knows the importance of keeping edge tools sharp, but protecting those razor-sharp edges when tools are tucked into a drawer or tossed into a travel bag is just... Source",
@@ -473,12 +510,7 @@
       "url": "https://www.homedit.com/these-rooms-show-what-a-rug-does-that-furniture-alone-cant/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Take-Away-the-Rug-and-These-Rooms-Would-Feel-Unfinished.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Take-Away-the-Rug-and-These-Rooms-Would-Feel-Unfinished.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Teal-Connects-the-Sofa-With-Smaller-Accents.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Texture-on-the-Wall-Meets-Texture-on-the-Floor.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Coffee-Tables-Are-Breaking-Out-of-the-Standard-Four-Legged-Shape.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Dont-Toss-Those-Plastic-Bottles-Yet-They-Have-a-Back-to-School-Use.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Forget-Paved-Garden-Paths-Gravel-and-Stepping-Stones-Created-a-Softer-Way-Through-the-Garden.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Take-Away-the-Rug-and-These-Rooms-Would-Feel-Unfinished.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -584,12 +616,7 @@
       "url": "https://www.homedit.com/kitchen-island-seating-is-moving-beyond-the-basic-counter-overhang/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Island-Seating-Is-Moving-Beyond-the-Basic-Counter-Overhang.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Island-Seating-Is-Moving-Beyond-the-Basic-Counter-Overhang.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Thick-Counter-Turns-Toward-the-Seating-Side.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Coffee-Tables-Are-Breaking-Out-of-the-Standard-Four-Legged-Shape.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Thick-Wood-Slab-Projects-Past-the-Island-Base.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Dont-Toss-Those-Plastic-Bottles-Yet-They-Have-a-Back-to-School-Use.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Forget-Paved-Garden-Paths-Gravel-and-Stepping-Stones-Created-a-Softer-Way-Through-the-Garden.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Island-Seating-Is-Moving-Beyond-the-Basic-Counter-Overhang.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -656,7 +683,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -746,7 +773,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-dean-munich-tatjana-von-stein_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
     },
@@ -804,9 +831,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/10/havana-lounge-chair/havana_lounge_chair_yanko_design_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/04/artu/artu_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/Tempo_sound-wall-panels_aesthetic-acoustic-panels_textured-wall-interior-11.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/02/06/hudson_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/06/hammock_throne_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/01/cushy-box-inspired-armchair-concept-could-bring-out-your-inner-cat/box-armchair-concept-06.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1108,8 +1135,8 @@
         "https://sunset.com/wp-content/uploads/2026/07/rug-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/pantry-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/island-stools-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/hollywood-farmers-market-pc-barry-winiker-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/reading-book-hammock.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/2026/08/palm-springs-moroccan-home-tour-exterior-1220.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/pasta-basil-tomatoes-feta.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -1155,7 +1182,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/ome-dezin_lumens_dezeen_sqex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-15T17:00:12+00:00"
     },
@@ -1365,7 +1392,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/kimpton-ashbel-park-avenue-busta-studio_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T05:00:03+00:00"
     },
@@ -1548,19 +1575,6 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-08-13T10:59:23+00:00"
-    },
-    {
-      "id": "afdaffe1460bc9ac",
-      "title": "AKSH Architects transforms disused buildings in India into \"timeless and earthy\" retreat",
-      "summary": "Indian studio AKSH Architects has completed The Earthen Retreat, a cluster of guesthouses in Pune created by repurposing several small abandoned buildings and coating them with mud and lime plaster. The 557-square-metre plot was previously occupied by four site offices and storage units that had outlived their original purpose. While maintaining the existing timber and The post AKSH Architects transforms disused buildings in India into \"timeless and earthy\" retreat appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/13/aksh-architects-earthen-retreat/",
-      "image": "http://static.dezeen.com/uploads/2026/08/aksh-architects-the-earthen-retreat-india-sq_dezeen_2364_col_1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/08/aksh-architects-the-earthen-retreat-india-sq_dezeen_2364_col_1.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-13T10:30:58+00:00"
     },
     {
       "id": "0db128c1f18f7a10",
@@ -2532,7 +2546,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2719,6 +2733,23 @@
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
       "published": "2026-07-31T21:49:47+00:00"
+    },
+    {
+      "id": "f182c9ad3d97475e",
+      "title": "The Inn on Biltmore Estate unveils reimagined guestrooms",
+      "summary": "Roam Interior Design Studio has completed renovations to The Inn on Biltmore Estate’s 210 guestrooms. Situated close to Biltmore House, […] The post The Inn on Biltmore Estate unveils reimagined guestrooms appeared first on Sleeper .",
+      "url": "https://www.sleepermagazine.com/stories/projects/the-inn-on-biltmore-estate-unveils-reimagined-guestrooms/",
+      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+      "images": [
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-1.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2020/07/premier-inn-milton-keynes-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2016/08/Holidayinn2-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2014/09/347504-uai.jpg",
+        "https://www.sleepermagazine.com/wp-content/uploads/2026/07/The-Inn-on-Biltmore-Estate-guestroom-3.jpg"
+      ],
+      "source": "Sleeper magazine",
+      "source_url": "https://sleepermagazine.com",
+      "published": "2026-07-31T12:11:26+00:00"
     },
     {
       "id": "67a8a7b7427d13df",
@@ -3757,19 +3788,6 @@
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-06-04T23:00:00+00:00"
-    },
-    {
-      "id": "74b0b8bc9f75520d",
-      "title": "MillerKnoll CEO Andi Owen resigns and Herman Miller appoints new creative directors",
-      "summary": "US furniture company MillerKnoll has announced leadership changes, including the resignation of CEO Andi Owen and the appointment of Kim Colin and Sam Hecht of London studio Industrial Facility as Herman Miller creative directors. According to the company, Owen, who served as CEO for eight years, resigned and will take a leave of absence due The post MillerKnoll CEO Andi Owen resigns and Herman Miller appoints new creative directors appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/04/millerknoll-ceo-resigns-creative-director/",
-      "image": "http://static.dezeen.com/uploads/2024/02/andi-owen-millerknoll-sq_dezeen_1704_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2024/02/andi-owen-millerknoll-sq_dezeen_1704_col_0.jpg"
-      ],
-      "source": "Dezeen tag furniture",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-04T18:59:28+00:00"
     },
     {
       "id": "0a9cefe4bd8d4db4",
