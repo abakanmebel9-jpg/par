@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-18T14:46:19.987109+00:00",
-  "generated_at_human": "2026-08-18 14:46 UTC",
-  "total_items": 284,
+  "generated_at": "2026-08-18T15:40:49.194617+00:00",
+  "generated_at_human": "2026-08-18 15:40 UTC",
+  "total_items": 291,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -41,6 +41,8 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
+    "Popular Woodworking",
+    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -60,7 +62,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 56,
   "multi_photo_items": 65,
   "items": [
     {
@@ -71,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=21300",
+        "https://i.archi.ru/i/1262/305304.jpg?r=1693",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -89,11 +91,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=77898",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=28742",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=8657",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=84345",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=723"
+        "https://i.archi.ru/i/1262/310555.jpg?r=19928",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=23221",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=70578",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=28169",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=65555"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -107,7 +109,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=92620",
+        "https://i.archi.ru/i/1262/510881.jpg?r=34951",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -129,6 +131,45 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "e36d413093e6944b",
+      "title": "I Am My Own Limitations",
+      "summary": "Why I am not designing my own plans A craftsperson can intuitively build a chair, solving problems like comfort or build technique in their design. However, they then quickly become... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/i-am-my-own-limitations/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/20132634/edf9e64d-0dd5-4846-af11-d754699549b3_783x551.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/07/20132634/edf9e64d-0dd5-4846-af11-d754699549b3_783x551.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-18T15:23:05+00:00"
+    },
+    {
+      "id": "423382c53e86c105",
+      "title": "Hardware Resources Offers Free Kitchen Design Tools",
+      "summary": "Hardware Resources has added free 2D and 3D kitchen design visualization tools to its company website. “The 2D visualizer is an AI-powered tool that provides quick inspiration for projects,” the... The post Hardware Resources Offers Free Kitchen Design Tools appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/hardware-resources-offers-free-kitchen-design-tools",
+      "image": "https://www.woodshopnews.com/uploads/2026/08/visualizer500x280_WSN.jpg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/08/visualizer500x280_WSN.jpg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-08-18T15:13:27+00:00"
+    },
+    {
+      "id": "9f8407ae3a21fc0c",
+      "title": "A Clock That Lives on the Edge",
+      "summary": "At first blush, this might seem an odd form for a desk clock. South Korean industrial designer HoHyeon Lim explains why he chose the shape: \"Inspired by how we use corners to support and lean objects, this desk object concentrates weight and function at the edge, becoming a subtle anchor in everyday space.\" Because the piece is hollow, the user can provide their ballast of choice to give it some heft. It's called the Edge Clock, and it appears to be a concept piece rather than something headed for production.",
+      "url": "https://www.core77.com/posts/145100/A-Clock-That-Lives-on-the-Edge",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846211_lead_400_145100_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846211_lead_400_145100_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-18T15:00:00+00:00"
     },
     {
       "id": "d304cd77e30334cc",
@@ -502,6 +543,19 @@
       "published": "2026-08-17T17:00:00+00:00"
     },
     {
+      "id": "469cfdc32d0929cf",
+      "title": "Custom Edge Protection, Part 1: Crafting a Riveted Leather Edge Scabbard",
+      "summary": "Every woodworker knows the importance of keeping edge tools sharp, but protecting those razor-sharp edges when tools are tucked into a drawer or tossed into a travel bag is just... Source",
+      "url": "https://www.popularwoodworking.com/projects/custom-edge-protection-part-1-crafting-a-riveted-leather-edge-scabbard/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-17T15:55:43+00:00"
+    },
+    {
       "id": "2fd69bb2d4228705",
       "title": "Sigma's Minimalist BF Camera",
       "summary": "Japanese camera company calls their BF model\"radically simple.\" It's machined out of a single block of aluminum, a process that reportedly takes seven(!) hours. \"By simplifying and stripping away all excess elements,\" the company writes, \"this full-frame mirrorless camera redefines the process of taking a photograph as a natural act.\" The Sigma BF's most important feature is its simplicity. We wanted to create the easiest camera to use, inspired by the humble beginnings of the camera obscura. While the lens remains the soul of photography, the camera still profoundly shapes the images you…",
@@ -790,7 +844,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -867,7 +921,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-dean-munich-tatjana-von-stein_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
     },
@@ -912,9 +966,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/08/09/pet_stool.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/auto-draft/muddycap_fader_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/11/auto-draft/torp_swedish_rag_tables_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/04/sit-to-stand-desk/sit_to_stand_desk_yanko_design-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/04/cat-happiness/22-cathouse_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/05/20/slope_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1040,19 +1094,6 @@
       "published": "2026-08-16T13:00:00+00:00"
     },
     {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
       "id": "3fc544414ff6f9cf",
       "title": "The Block judges liked as much as they hated in Rick and Tayla’s family bathroom",
       "summary": "The judges saw promise in the father-daughter duo, who \"have shown us they have an approach that isn't the same as everybody else,\" despite a mixed Week 2 reveal The post The Block judges liked as much as they hated in Rick and Tayla’s family bathroom appeared first on Homes To Love .",
@@ -1115,6 +1156,19 @@
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
@@ -1202,9 +1256,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-modular-chair-that-lets-you-swap-parts-like-a-building/facade-012.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/muutos-heart-shaped-chair-reimagines-emotion-through-scandinavian-design/heart_chair_furniture_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/01/16/ant_table.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/furnitype_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/05/auto-draft/oksys_pininfarina_chaise_lounge_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/12/28/bomb_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/02/this-office-desk-acknowledges-the-furry-companion-under-your-feet/Central_bark_desk_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1219,7 +1273,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/ome-dezin_lumens_dezeen_sqex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-15T17:00:12+00:00"
     },
@@ -1303,9 +1357,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/5-furniture-pieces-so-geometric-they-could-hang-in-a-gallery/Geometric-Furniture_Sculptural-Designs_14.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/05/17/aero_slippers.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/03/21/babycotpod01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/07/outdoor-furniture-ds/outdoor_furniture_mororo_yanko_design-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/T-CORD-Chair-Design.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/08/08/elagone_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/02/301351/01_oblak_markstanisic_sleepspeaker.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1336,6 +1390,19 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-14T16:20:38+00:00"
+    },
+    {
+      "id": "697f89eb6636b2d1",
+      "title": "The Splinter Report: August 14th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week I went to Milwaukee Pipeline. Benefiting the casual... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-august-14th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/14093830/splinter-report-8-14.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/14093830/splinter-report-8-14.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-14T16:03:06+00:00"
     },
     {
       "id": "76eec2a471bc132d",
@@ -1416,7 +1483,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/kimpton-ashbel-park-avenue-busta-studio_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T05:00:03+00:00"
     },
@@ -1446,6 +1513,19 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T04:00:10+00:00"
+    },
+    {
+      "id": "304f9d4050a8170a",
+      "title": "zayed national museum’s interiors weave emirati craft, material, and cycles of time",
+      "summary": "wool, rope, ceramics, camel leather, and local stone appear across the museum interiors. The post zayed national museum’s interiors weave emirati craft, material, and cycles of time appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/08/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio-designboom-700-500x400-22b08q85r646.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/08/zayed-national-museum-interiors-emirati-craft-material-cycles-time-agata-kurzela-studio-designboom-700-500x400-22b08q85r646.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-08-13T23:55:29+00:00"
     },
     {
       "id": "0db4175168318e05",
@@ -1498,6 +1578,19 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-13T17:20:24+00:00"
+    },
+    {
+      "id": "741a48cd86fab113",
+      "title": "The Stutey Lathe: A Different Way to Think About Woodturning",
+      "summary": "Woodworking is full of specialties. There’s carving, scroll saw work, marquetry, chairmaking, turning, and countless others. The deeper you dive into any one of those disciplines, the more you discover... Source",
+      "url": "https://www.popularwoodworking.com/tools/the-stutey-lathe-a-different-way-to-think-about-woodturning/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/11103748/stutey-lathe.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/11103748/stutey-lathe.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-13T15:31:56+00:00"
     },
     {
       "id": "1e57687c8fc142b2",
@@ -1742,32 +1835,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-12T17:49:00+00:00"
-    },
-    {
-      "id": "5c19b9e006895d0e",
-      "title": "FANUC will feature the CRX-10iA Collaborative Robot",
-      "summary": "FANUC America will demonstrate its CRX-10iA collaborative robot at IWF 2026, showcasing automated Shaker panel production. The robot uses 2DV iRVision to locate components, pick and place rails, and simulate adhesive application, highlighting the benefits of collaborative automation in woodworking manufacturing. The post FANUC will feature the CRX-10iA Collaborative Robot appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/fanuc-will-feature-the-crx-10ia-collaborative-robot",
-      "image": "https://www.woodshopnews.com/uploads/2026/08/CRX-10iA-Sanding-Cabinet-Door-Large.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/08/CRX-10iA-Sanding-Cabinet-Door-Large.jpg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-08-12T16:57:09+00:00"
-    },
-    {
-      "id": "ca222d068d8a1b37",
-      "title": "Build a stronger, lighter, and greener future with Gurit PET",
-      "summary": "Gurit PET structural foam core, made from recycled PET, is a lighter and more durable alternative to traditional materials like plywood and MDF. It offers excellent strength-to-weight performance, moisture resistance, and is fully recyclable, supporting sustainability goals. The post Build a stronger, lighter, and greener future with Gurit PET appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/build-a-stronger-lighter-and-greener-future-with-gurit-pet",
-      "image": "https://www.woodshopnews.com/uploads/2026/08/Gurit-image-scaled.jpg",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/08/Gurit-image-scaled.jpg"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-08-12T16:44:58+00:00"
     },
     {
       "id": "91a491b5d362d6b6",
@@ -2786,6 +2853,19 @@
       "published": "2026-07-30T19:58:26+00:00"
     },
     {
+      "id": "72664b960ea7af2a",
+      "title": "Post & Rung Standing Desk",
+      "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
+      "url": "https://www.popularwoodworking.com/projects/post-rung-standing-desk/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-30T15:23:28+00:00"
+    },
+    {
       "id": "1aac48720ac53800",
       "title": "The Editors’ Cut: Finds for the Unplugged Summer Kitchen",
       "summary": "Welcome to The Editors’ Cut, our monthly column dedicated to beautiful and useful finds for all over the house. In this installment: August is for icebox cakes, tomato sandwiches, cartons of berries on the counter, and ice cream dinners. Time to lean into the unplugged, old-fashioned, slightly retro kitchen, where you can toss together a […]",
@@ -3176,6 +3256,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-17T10:00:34+00:00"
+    },
+    {
+      "id": "2415d48aa87c549b",
+      "title": "Mahogany Entry Table",
+      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
+      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-07-16T18:43:10+00:00"
     },
     {
       "id": "7d1022c9dc0de763",
