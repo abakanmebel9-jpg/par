@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-18T04:46:47.959820+00:00",
-  "generated_at_human": "2026-08-18 04:46 UTC",
-  "total_items": 286,
+  "generated_at": "2026-08-18T05:39:21.424586+00:00",
+  "generated_at_human": "2026-08-18 05:39 UTC",
+  "total_items": 290,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Bob Vila",
     "Core77",
     "DM tag bathroom",
@@ -21,6 +22,7 @@
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
+    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -51,6 +53,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -59,7 +62,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 53,
+  "sources_count": 56,
   "multi_photo_items": 65,
   "items": [
     {
@@ -70,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=66702",
+        "https://i.archi.ru/i/1262/305304.jpg?r=67600",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -88,11 +91,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=89369",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=86528",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=4285",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=93102",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=6530"
+        "https://i.archi.ru/i/1262/310555.jpg?r=38813",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=19727",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=85626",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=98792",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=14766"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -106,7 +109,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=1110",
+        "https://i.archi.ru/i/1262/510881.jpg?r=6772",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -130,6 +133,19 @@
       "published": ""
     },
     {
+      "id": "f070a788d8d64c5f",
+      "title": "Shahar Livne's The Devil's Milk furniture explores how rubber \"shaped human culture\"",
+      "summary": "Designer Shahar Livne has created The Devil's Milk, a collection of designs that investigate rubber production and its history of violence and abuse. The designs, which Livne created over two years, include a scale, a cabinet and a bench, made from different types of rubber. \"The concept behind the Devil's Milk project was to investigate The post Shahar Livne's The Devil's Milk furniture explores how rubber \"shaped human culture\" appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/18/the-devils-milk-furniture-rubber-shahar-livne/",
+      "image": "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
+      ],
+      "source": "Dezeen tag cabinets",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-18T05:00:26+00:00"
+    },
+    {
       "id": "3d12f44d4e4d6ef6",
       "title": "Inside the Bali Body founder’s spectacular $11.5 million Brighton home",
       "summary": "The restort-style Melbourne home comes with a pool, sports court, wellness retreat and one seriously impressove kitchen. The post Inside the Bali Body founder’s spectacular $11.5 million Brighton home appeared first on Home Beautiful .",
@@ -137,15 +153,30 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/bali-body-2-6a83d3bdae77a.png?format=auto&v=1787024329",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/bali-body-2-6a83d3bdae77a.png?format=auto&v=1787024329",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/best-washable-rugs-australia-2026-6a83e65298335.png?w=2732&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/09/storage-bed-australia-68c269661f52c.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-cherie-barber-6a82c22bc36e2.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/1-6a83cf3dabab4-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/3-6a83cf4120681-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/8-6a83cf49c305f-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/5-6a83cf449845b-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/3-6a83cf4120681-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-08-18T03:39:48+00:00"
+    },
+    {
+      "id": "8b7179035a97ee0e",
+      "title": "Easily Upcycle Old Wood Pallets Into A Clever Laundry Basket Storage System",
+      "summary": "You can avoid endless laundry room clutter and baskets all over the house with this easy, budget-friendly storage system DIY made from wood pallets.",
+      "url": "https://www.hunker.com/2237125/easily-upcycle-old-wood-pallets-diy-laundry-basket-storage-system/",
+      "image": "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-clever-laundry-basket-storage-system/l-intro-1786721229.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-clever-laundry-basket-storage-system/l-intro-1786721229.jpg",
+        "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-clever-laundry-basket-storage-system/intro-1786721229.jpg",
+        "https://www.hunker.com/img/gallery/easily-upcycle-old-wood-pallets-into-a-clever-laundry-basket-storage-system/how-to-build-a-convenient-laundry-basket-organizer-1786721230.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-18T03:00:00+00:00"
     },
     {
       "id": "713de69a0c0f84de",
@@ -156,9 +187,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/ahg-x-kmart-beds-6a7939479f756.png?format=auto&v=1786329421",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/ahg-x-kmart-beds-6a7939479f756.png?w=2731&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/1920-x-1080-commercial-feat-image-5-6a839f4de27f0.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/2-6a82775d28d5d.jpg?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t121655.461-6a681137d7c9d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/best-serving-plates-australia-6a82b1c6d758c.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/mt-tamborine-cottage-and-garden-6a82a5a25522e.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/gettyimages-2282977510-6a793c9d59bbf-scaled.jpg?format=auto&resize=2560%2C1707"
       ],
       "source": "Homes To Love AU",
@@ -285,9 +316,7 @@
       "url": "https://www.hunker.com/2236311/upcycle-old-milk-jugs-bathroom-storage-organizer/",
       "image": "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/l-intro-1786635458.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/l-intro-1786635458.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/intro-1786635458.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/how-to-turn-an-empty-milk-jug-into-a-bathroom-organizer-1786635459.jpg"
+        "https://www.hunker.com/img/gallery/upcycle-old-milk-jugs-into-clever-bathroom-storage/l-intro-1786635458.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -571,7 +600,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -611,11 +640,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/09/storage-bed-australia-68c269661f52c.png?format=auto&v=1758079218",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/09/storage-bed-australia-68c269661f52c.png?format=auto&v=1758079218",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/best-washable-rugs-australia-2026-6a83e65298335.png?w=2732&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/09/storage-bed-australia-68c269661f52c.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-cherie-barber-6a82c22bc36e2.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/02/rachel-weisz-headshot-1-67c780a814fb7.png?w=2048&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/best-eofy-bedding-sales-australia-2026-pillow-talk-hommey-6a3090a356cf8.png?resize=1950%2C1462&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/04/bedding-bed-sheets-quilt-pillows-doona-bloom-69f0358727872-scaled.jpg?crop=0px%2C843px%2C1704px%2C1282px&resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -629,10 +658,10 @@
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/04/pink-bathroom-design-ideas-2026-6a8286e94f369.jpg?format=auto&v=1786939193",
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/04/pink-bathroom-design-ideas-2026-6a8286e94f369.jpg?format=auto&v=1786939193",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/ahg-x-kmart-beds-6a7939479f756.png?w=2731&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/04/pink-bathroom-design-ideas-2026-6a8286e94f369.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/1920-x-1080-commercial-feat-image-5-6a839f4de27f0.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/2-6a82775d28d5d.jpg?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t121655.461-6a681137d7c9d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/best-serving-plates-australia-6a82b1c6d758c.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/01/round-bath-6810448c42b71.jpg?w=2304&format=auto"
       ],
       "source": "Homes To Love AU",
@@ -661,22 +690,9 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-dean-munich-tatjana-von-stein_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
-    },
-    {
-      "id": "abca8322c14f0a16",
-      "title": "Forget Shelves: A Smarter Way To Store Toilet Paper And Towels In A Small Bathroom",
-      "summary": "It might have a tiny footprint, but this bathroom storage solution can hold both toilet paper rolls and towels in one convenient, easy-to-reach place.",
-      "url": "https://www.hunker.com/2235577/shelves-alternative-smarter-way-to-store-toilet-paper-towels-small-bathroom-storage-tower/",
-      "image": "https://www.hunker.com/img/gallery/forget-shelves-a-smarter-way-to-store-toilet-paper-and-towels-in-a-small-bathroom/l-intro-1786552486.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/forget-shelves-a-smarter-way-to-store-toilet-paper-and-towels-in-a-small-bathroom/l-intro-1786552486.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-17T03:00:00+00:00"
     },
     {
       "id": "a7317560c730e11f",
@@ -719,9 +735,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/a-coin-sized-disc-just-reinvented-the-multi-tool-nobody-could-fix/variant-5.jpg",
         "https://www.yankodesign.com/images/design_news/2026/07/draft-edge-and-pop/Dual-3-in-1-Damascus-EDC-Knife-Phone-Stand-Bottle-Opener_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/orange-is-a-modular-stool-inspired-by-the-fruit-of-the-same-name/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/this-ready-to-assemble-flat-pack-furniture-set-is-made-from-a-single-piece-of-plywood/leaning-chair-4.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/a-console-table-with-wooden-pages-built-into-its-surface/flitter-00.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/11/your-own-little-world/planet_furniture_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/space-saving-furniture/top_5_space_saving_furniture_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/weely_wally_sydney_pet_house-yankodesign-04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -897,7 +913,7 @@
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-site-feature-horizontal-1920-x-1080-2026-08-13t100719.242-6a7d0ac1dceee.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-08-06t112331.895-6a73e45a18ef3.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-site-feature-horizontal-1920-x-1080-2026-08-13t100800.787-6a7d0af12748d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/copy-of-site-feature-horizontal-1920-x-1080-2026-07-28t121655.461-6a681137d7c9d.png?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/2-6a82775d28d5d.jpg?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -976,11 +992,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/the-block-2026_adam-and-jolene-main-bathroom-6-6a7bef80245cc-scaled.jpg?format=auto&v=1786507151",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/the-block-2026_adam-and-jolene-main-bathroom-6-6a7bef80245cc-scaled.jpg?format=auto&v=1786507151",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/09/storage-bed-australia-68c269661f52c.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/best-washable-rugs-australia-2026-6a83e65298335.png?w=2732&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-cherie-barber-6a82c22bc36e2.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-block-2026-courtney-and-sev-main-bathroom-1-6a7be77a9dc22-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-block-2026-courtney-and-sev-main-bathroom-5-6a7be787df17e-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-block-2026_adam-and-jolene-main-bathroom-1-6a7bed39710f3-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-block-2026-chantel-and-wyatt-main-bathrooms-2-6a7bedaf5c602-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-block-2026_adam-and-jolene-main-bathroom-1-6a7bed39710f3-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1114,7 +1130,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/ome-dezin_lumens_dezeen_sqex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-15T17:00:12+00:00"
     },
@@ -1324,7 +1340,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/kimpton-ashbel-park-avenue-busta-studio_dezeen_2364_col_sq1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T05:00:03+00:00"
     },
@@ -1621,7 +1637,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/SR-Ice-Cream-Miyakojima-kii_dezeen_2364_col_sq4.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-13T05:00:37+00:00"
     },
@@ -1841,19 +1857,6 @@
       "published": "2026-08-12T00:50:00+00:00"
     },
     {
-      "id": "ccdccf21e253855b",
-      "title": "The best upholstery cleaners in Australia to give your furniture a refresh",
-      "summary": "Your only regret will be not getting your hands on one sooner The post The best upholstery cleaners in Australia to give your furniture a refresh appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/lifestyle/cleaning/best-upholstery-cleaner-australia/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/11/best-upholstery-steam-cleaners-69645f812d164.png?format=auto&v=1768185757",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2025/11/best-upholstery-steam-cleaners-69645f812d164.png?format=auto&v=1768185757"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-08-12T00:31:57+00:00"
-    },
-    {
       "id": "ee88df3b06ab8020",
       "title": "Roca’s New Bathtub and Basin Turn Recycled PET Bottles Into Sculptural Bathroom Design",
       "summary": "Roca’s New Bathtub and Basin Turn Recycled PET Bottles Into Sculptural Bathroom Design The plastic bottles in your recycling bin have a surprisingly glamorous potential future. Roca’s Stonex material comes from recycled PET resin, and the expanded Ohtake...",
@@ -1891,6 +1894,19 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-08-11T13:54:01+00:00"
+    },
+    {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
     },
     {
       "id": "32f62694ecfe87ad",
@@ -2194,6 +2210,19 @@
       "published": "2026-08-07T16:06:04+00:00"
     },
     {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -2234,9 +2263,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2494,6 +2523,19 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "48a0a15730ecb6e8",
@@ -3049,6 +3091,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
@@ -3868,7 +3923,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ejr-barnes-chaise-longue-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-30T09:00:47+00:00"
     },
