@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-19T11:35:07.818889+00:00",
-  "generated_at_human": "2026-08-19 11:35 UTC",
-  "total_items": 285,
+  "generated_at": "2026-08-19T13:04:19.971291+00:00",
+  "generated_at_human": "2026-08-19 13:04 UTC",
+  "total_items": 287,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
@@ -18,7 +18,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -62,8 +61,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 64,
+  "sources_count": 55,
+  "multi_photo_items": 65,
   "items": [
     {
       "id": "458d149e05d94a59",
@@ -73,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=5624",
+        "https://i.archi.ru/i/1262/305304.jpg?r=38522",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -91,11 +90,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=62347",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=42417",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=14579",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=90268",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=37752"
+        "https://i.archi.ru/i/1262/310555.jpg?r=83890",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=13823",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=53605",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=22534",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=38254"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -109,7 +108,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=52488",
+        "https://i.archi.ru/i/1262/510881.jpg?r=3824",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -120,6 +119,37 @@
       "published": ""
     },
     {
+      "id": "c5303e06e15d49ba",
+      "title": "A Sectional Hiking Stick with Tools in Each Section",
+      "summary": "This product sits at the intersection between hikers and the EDC crowd. The Tactical Hiking Stick , by a faceless no-history company called TerraTactic, consists of eight aluminum sections that can each be fitted with one of the included tools. It's meant to provide a handy way to tote them all in a single object, theoretically freeing up bag or belt space; the trade-off is that you need to unscrew the stick to get to the tool. It comes with a magnetic compass, an emergency whistle, a bottle opener, a harpoon, a screwdriver, a knife, a fire starter, a paracord bundle and a wood saw. The…",
+      "url": "https://www.core77.com/posts/145110/A-Sectional-Hiking-Stick-with-Tools-in-Each-Section",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846288_lead_400_145110_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846288_lead_400_145110_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-19T13:00:00+00:00"
+    },
+    {
+      "id": "6b7a6cc1e59a4675",
+      "title": "Almost everyone puts a rug by the kitchen sink, and it’s quietly damaging the floor: a 3-second fix stops it",
+      "summary": "If you’ve got a soft rug or a memory-foam mat in front of your kitchen sink to catch splashes, you’re doing what almost every American home does. It feels obvious. It feels tidy. It even feels like you’re being kind to your floor. You’re not. You’re slowly wrecking it. The floor under that mat is […] The post Almost everyone puts a rug by the kitchen sink, and it’s quietly damaging the floor: a 3-second fix stops it appeared first on Trendir .",
+      "url": "https://www.trendir.com/almost-everyone-puts-a-rug-by-the-kitchen-sink-and-its-quietly-damaging-the-floor-a-3-second-fix-stops-it/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/sage-green-mat-water-ring-wood-floor.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/sage-green-mat-water-ring-wood-floor.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/05/Modern-Black-Japanese-Soaking-Tub.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/02/Upholstered-Platform-Bed-All-Modern.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/06/That-House-by-Austin-Maynard.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/white-sneakers-by-door-with-wet-footprints.png",
+        "https://cdn.trendir.com/wp-content/uploads/old/trends/2015/01/11/unusual-home-design-abstract-tile-design.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-08-19T12:00:00+00:00"
+    },
+    {
       "id": "cdbd937daeb29d83",
       "title": "Small Decor Accents Can Change a Room Without Adding More Furniture",
       "summary": "Rooms can feel unfinished even when all the main furniture is in place. Empty surfaces, disconnected colors, and gaps between larger pieces do not always call for another piece of furniture. Since Homedit has covered interior design ideas and tips since 2008, we continue to see interior designers solve these gaps with small decor accents.... The post Small Decor Accents Can Change a Room Without Adding More Furniture appeared first on Homedit .",
@@ -128,10 +158,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Small-Decor-Accents-Can-Change-a-Room-Without-Adding-More-Furniture.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Wood-Cabinets-Hague-Blue-Instead-of-Replacing-the-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/White-Vanity-Tops-Arent-the-Only-Option-These-Bathrooms-Make-the-Counter-Part-of-the-Room.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Oversized-Lamp-Fills-a-Narrow-Section-of-Wall.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Small-Mirrors-Turn-One-Wall-Into-a-Group.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Blue-and-White-Ceramics-Repeat-Colors-Across-the-Room.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Blue-and-White-Ceramics-Repeat-Colors-Across-the-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Paint-Wont-Hide-Every-Flaw-in-Wood-Furniture-This-Prep-Method-Can.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -159,10 +189,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Paint-Wont-Hide-Every-Flaw-in-Wood-Furniture-This-Prep-Method-Can.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Wood-Cabinets-Hague-Blue-Instead-of-Replacing-the-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/White-Vanity-Tops-Arent-the-Only-Option-These-Bathrooms-Make-the-Counter-Part-of-the-Room.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Remove-Sanding-Dust-Before-Paint.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Check-the-Surface-After-Sanding.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Sand-the-Repair-Flush-With-the-Wood.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Sand-the-Repair-Flush-With-the-Wood.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Scrape-Excess-Filler-Across-the-Surface.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -257,6 +287,22 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-08-19T03:40:19+00:00"
+    },
+    {
+      "id": "cad7133fcc46dbe6",
+      "title": "The Thrift Store Find I Used To Create A Rustic Bathroom Vanity With A Clever DIY",
+      "summary": "Looking for a low-cost vanity, this DIYer found a thrifted antique biscuit table and a vessel sink made an ideal pairing for a charming rustic bathroom upgrade.",
+      "url": "https://www.hunker.com/2239367/thrifted-fix-biscuit-table-antique-rustic-bathroom-vanity/",
+      "image": "https://www.hunker.com/img/gallery/the-thrift-store-find-i-used-to-create-a-rustic-bathroom-vanity-with-a-clever-diy/l-intro-1787070330.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-thrift-store-find-i-used-to-create-a-rustic-bathroom-vanity-with-a-clever-diy/l-intro-1787070330.jpg",
+        "https://www.hunker.com/img/gallery/the-thrift-store-find-i-used-to-create-a-rustic-bathroom-vanity-with-a-clever-diy/intro-1787070330.jpg",
+        "https://www.hunker.com/img/gallery/the-thrift-store-find-i-used-to-create-a-rustic-bathroom-vanity-with-a-clever-diy/the-perfect-table-for-a-bathroom-vessel-sink-1787070332.jpg",
+        "https://www.hunker.com/img/gallery/the-thrift-store-find-i-used-to-create-a-rustic-bathroom-vanity-with-a-clever-diy/lumps-in-the-gravy-struggles-modifying-my-biscuit-table-1787070333.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-19T03:00:00+00:00"
     },
     {
       "id": "d61602a2f07e41d1",
@@ -558,7 +604,7 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Coffee-Tables-Are-Breaking-Out-of-the-Standard-Four-Legged-Shape.jpg"
       ],
-      "source": "Homedit",
+      "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-18T08:28:53+00:00"
     },
@@ -814,24 +860,6 @@
       "published": "2026-08-17T12:03:00+00:00"
     },
     {
-      "id": "4d84d7fd6d2d8db1",
-      "title": "Your shower drain slows and stinks: here’s the $5 fix almost every bathroom is missing",
-      "summary": "You step into the shower and the water starts pooling around your ankles again. There’s a sour smell drifting up from the drain that no amount of scrubbing seems to fix. And the worst part? You already tried everything obvious. You ran the hot water longer. You dumped a kettle of boiling water down after […] The post Your shower drain slows and stinks: here’s the $5 fix almost every bathroom is missing appeared first on Trendir .",
-      "url": "https://www.trendir.com/your-shower-drain-slows-and-stinks-heres-the-5-fix-almost-every-bathroom-is-missing/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/metal-bathtub-drain-clogged-with-hair-strands.jpg",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/metal-bathtub-drain-clogged-with-hair-strands.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/05/large-coffee-tables.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/11/28/7-furniture-designs-inspired-animals.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/trends/2015/01/11/unusual-home-design-abstract-tile-design.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/12/20/7-time-kitchen-snaidero-timeless-teak.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/cracked-foundation-wall-below-white-siding-exterior.jpg"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-08-17T12:00:00+00:00"
-    },
-    {
       "id": "68f1634dcaa3f390",
       "title": "DIY Farmhouse Console Table with Free Plans",
       "summary": "Build a DIY farmhouse console table with eight 2×6 boards, free plans, and step-by-step instructions for a chunky entryway table. The post DIY Farmhouse Console Table with Free Plans appeared first on Shanty 2 Chic .",
@@ -847,6 +875,19 @@
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
+      "published": "2026-08-17T12:00:00+00:00"
+    },
+    {
+      "id": "4d84d7fd6d2d8db1",
+      "title": "Your shower drain slows and stinks: here’s the $5 fix almost every bathroom is missing",
+      "summary": "You step into the shower and the water starts pooling around your ankles again. There’s a sour smell drifting up from the drain that no amount of scrubbing seems to fix. And the worst part? You already tried everything obvious. You ran the hot water longer. You dumped a kettle of boiling water down after […] The post Your shower drain slows and stinks: here’s the $5 fix almost every bathroom is missing appeared first on Trendir .",
+      "url": "https://www.trendir.com/your-shower-drain-slows-and-stinks-heres-the-5-fix-almost-every-bathroom-is-missing/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/metal-bathtub-drain-clogged-with-hair-strands.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/metal-bathtub-drain-clogged-with-hair-strands.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
       "published": "2026-08-17T12:00:00+00:00"
     },
     {
@@ -949,7 +990,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -1021,22 +1062,9 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-dean-munich-tatjana-von-stein_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
-    },
-    {
-      "id": "a7317560c730e11f",
-      "title": "This “Sterile” Basement Bedroom Got an Old-World Redo for Just $2,000",
-      "summary": "Adding texture and architectural detail to walls is a surefire way to make a home look custom and character-filled rather than builder-grade — especially in a bedroom.You can see what a huge difference it makes in designer Cerrissa Fitz’s (@piranhadesign) basement bedroom, which she took from “sterile” and “boxy,” as she wrote on Instagram, to an “old-world vibe.”Although Cerrissa is an interior designer, this was her first time dabbling in DIY. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/bedroom-redo-stone-fluting-board-and-batten-walls-ba-37686058?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-02/cerissa%20bedroom/cerissa_before_horiz-tag",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-02/cerissa%20bedroom/cerissa_before_horiz-tag"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-16T22:00:24+00:00"
     },
     {
       "id": "f3b4ff35518cacaa",
@@ -1066,9 +1094,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/02/13/grikis_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/cornice-stools/cornice_stools_yanko_design_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/01/30/masters_00.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/08/these-japanese-inspired-office-pods-offer-an-oasis-in-busy-workplaces/zen-pod-13.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/03/366470/08_nonsquare_yujungpark_storage.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/06/630866/swap_arcade_cabinet_1.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1326,8 +1354,8 @@
         "https://sunset.com/wp-content/uploads/2026/07/rug-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/pantry-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/island-stools-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/living-area-seattle-condo-shannon-adamson-pc-miranda-estes.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/concrete-collaborative-kids-jumping-into-pool-pr-0826.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/2026/08/palm-springs-moroccan-home-tour-exterior-1220.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/pasta-basil-tomatoes-feta.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -1343,9 +1371,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-modular-chair-that-lets-you-swap-parts-like-a-building/facade-012.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/home-office-solutions/1-vorstand_yankodesign.jpeg",
-        "https://www.yankodesign.com/images/design_news/2013/02/11/dome_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/07/skrolla-is-a-striking-lounge-chair-that-curves-and-bends-to-offer-a-comfortable-seat/skrolla-6.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/09/this_table_exapands_from_2_to_12_seater_in_seconds_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/08/01/dedalo_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/03/dotti-seating/dotti_seating_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1360,7 +1388,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/ome-dezin_lumens_dezeen_sqex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-15T17:00:12+00:00"
     },
@@ -1444,9 +1472,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/5-furniture-pieces-so-geometric-they-could-hang-in-a-gallery/Geometric-Furniture_Sculptural-Designs_14.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/01/a-single-pillar-elevates-this-cabin-above-finlands-dense-forest-for-an-immersive-winter-getaway/00_Niliaitta_StudioPuisto_BlackForestCabin_new.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/auto-draft/positive_grid_spark_go_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/04/this-tiny-90000-rpm-air-duster-doubles-as-a-portable-fan-10000mah-power-bank/HALO_modular_Air_Duster.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/03/this-ergonomic-standing-desk-is-what-your-work-from-home-regime-needs/Standsome-wooden-standing-desk_7.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/03/auto-draft/W2-Romotow-T8-caravan-12.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/dual_temperature_system_neckband_helps_you_cool_your_body_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1650,8 +1678,8 @@
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/living-area-seattle-condo-shannon-adamson-pc-miranda-estes.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/concrete-collaborative-kids-jumping-into-pool-pr-0826.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/palm-springs-moroccan-home-tour-exterior-1220.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/pasta-basil-tomatoes-feta.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
       ],
       "source": "Sunset",
@@ -2524,7 +2552,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
