@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-19T08:50:27.734451+00:00",
-  "generated_at_human": "2026-08-19 08:50 UTC",
-  "total_items": 282,
+  "generated_at": "2026-08-19T09:44:31.806546+00:00",
+  "generated_at_human": "2026-08-19 09:44 UTC",
+  "total_items": 284,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
@@ -18,6 +18,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -54,13 +55,14 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 56,
   "multi_photo_items": 64,
   "items": [
     {
@@ -71,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=88463",
+        "https://i.archi.ru/i/1262/305304.jpg?r=81147",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -89,11 +91,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=80337",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=44434",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=34084",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=42454",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=23489"
+        "https://i.archi.ru/i/1262/310555.jpg?r=81837",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=83980",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=21715",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=35093",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=67401"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -107,7 +109,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=25436",
+        "https://i.archi.ru/i/1262/510881.jpg?r=45266",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -116,6 +118,37 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "94c53e2e814efe2b",
+      "title": "Paint Won’t Hide Every Flaw in Wood Furniture, This Prep Method Can",
+      "summary": "Paint can change color, cover grain, and give worn wood furniture a new finish, yet dents, gouges, knots, and chipped edges can remain visible under each coat. Those defects need repair before the first coat reaches the wood. Homedit contributor Brittney Smart used wood filler during her dresser project to correct flaws across the unfinished... The post Paint Won’t Hide Every Flaw in Wood Furniture, This Prep Method Can appeared first on Homedit .",
+      "url": "https://www.homedit.com/paint-wont-hide-every-flaw-in-wood-furniture-this-prep-method-can/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Paint-Wont-Hide-Every-Flaw-in-Wood-Furniture-This-Prep-Method-Can.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Paint-Wont-Hide-Every-Flaw-in-Wood-Furniture-This-Prep-Method-Can.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Wood-Cabinets-Hague-Blue-Instead-of-Replacing-the-Kitchen.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/White-Vanity-Tops-Arent-the-Only-Option-These-Bathrooms-Make-the-Counter-Part-of-the-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Remove-Sanding-Dust-Before-Paint.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Check-the-Surface-After-Sanding.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Sand-the-Repair-Flush-With-the-Wood.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-19T09:40:24+00:00"
+    },
+    {
+      "id": "7d428b6ee6712289",
+      "title": "Polaroid Just Made the Pokémon Camera Every Fan Wants",
+      "summary": "Polaroid Just Made the Pokémon Camera Every Fan Wants It’s been 30 years since Pokémon invaded our lives and we’ve witnessed a whole generation of trainers trying to catch them all. The beloved franchise...",
+      "url": "https://www.yankodesign.com/2026/08/19/polaroid-just-made-the-pokemon-camera-every-fan-wants/?utm_source=rss&utm_medium=rss&utm_campaign=polaroid-just-made-the-pokemon-camera-every-fan-wants",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/polaroid-just-made-the-pokemon-camera-every-fan-wants/pokemon-polaroid-01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/polaroid-just-made-the-pokemon-camera-every-fan-wants/pokemon-polaroid-01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-19T09:15:49+00:00"
     },
     {
       "id": "7595f588bddaefaa",
@@ -396,12 +429,7 @@
       "url": "https://www.homedit.com/he-removed-all-the-pantry-shelves-and-ended-up-with-more-storage/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-All-the-Pantry-Shelves-and-Ended-Up-With-More-Storage.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-All-the-Pantry-Shelves-and-Ended-Up-With-More-Storage.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Wood-Cabinets-Hague-Blue-Instead-of-Replacing-the-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/White-Vanity-Tops-Arent-the-Only-Option-These-Bathrooms-Make-the-Counter-Part-of-the-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Penny-Tile-Turned-the-Counter-Into-a-Defined-Work-Zone.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Butcher-Block-Gave-the-Pantry-Something-Shelves-Couldnt.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Floor-to-Ceiling-Cabinets-Put-the-Tall-Wall-to-Work.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-All-the-Pantry-Shelves-and-Ended-Up-With-More-Storage.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -895,7 +923,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -967,7 +995,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-dean-munich-tatjana-von-stein_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
     },
@@ -1012,9 +1040,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/01/this-cabinet-on-wheels-can-fetch-you-things-like-a-loyal-canine/labrador-retriever-robot-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/live-edge-furniture/living_edge_furniture_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/burnt-cork-highlights-resiliency-in-eclectic-furniture-collection/3.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/02/13/grikis_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/06/cornice-stools/cornice_stools_yanko_design_02.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/01/30/masters_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1127,6 +1155,19 @@
       "published": "2026-08-16T13:00:00+00:00"
     },
     {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
       "id": "3fc544414ff6f9cf",
       "title": "The Block judges liked as much as they hated in Rick and Tayla’s family bathroom",
       "summary": "The judges saw promise in the father-daughter duo, who \"have shown us they have an approach that isn't the same as everybody else,\" despite a mixed Week 2 reveal The post The Block judges liked as much as they hated in Rick and Tayla’s family bathroom appeared first on Homes To Love .",
@@ -1189,19 +1230,6 @@
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
@@ -1289,9 +1317,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-modular-chair-that-lets-you-swap-parts-like-a-building/facade-012.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/10/auto-draft/black_match_table_12.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/01/15/nitska_08.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/375535/Eleven-Desk-Details.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/06/home-office-solutions/1-vorstand_yankodesign.jpeg",
+        "https://www.yankodesign.com/images/design_news/2013/02/11/dome_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/07/skrolla-is-a-striking-lounge-chair-that-curves-and-bends-to-offer-a-comfortable-seat/skrolla-6.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1306,7 +1334,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/ome-dezin_lumens_dezeen_sqex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-15T17:00:12+00:00"
     },
@@ -1390,9 +1418,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/5-furniture-pieces-so-geometric-they-could-hang-in-a-gallery/Geometric-Furniture_Sculptural-Designs_14.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/04/30/vega.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/06/225782/odyssey_space_inspired_watch_01_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/one-beautiful-bendy-phone/orbit_smartphone_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/01/a-single-pillar-elevates-this-cabin-above-finlands-dense-forest-for-an-immersive-winter-getaway/00_Niliaitta_StudioPuisto_BlackForestCabin_new.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/03/auto-draft/positive_grid_spark_go_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/04/this-tiny-90000-rpm-air-duster-doubles-as-a-portable-fan-10000mah-power-bank/HALO_modular_Air_Duster.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1477,7 +1505,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/theo-folding-chair-plank-showroom_dezeen_2364_col_3.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T13:00:18+00:00"
     },
@@ -2483,7 +2511,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2537,8 +2565,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2579,7 +2607,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -3629,7 +3657,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
