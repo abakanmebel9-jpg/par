@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-19T20:39:14.247379+00:00",
-  "generated_at_human": "2026-08-19 20:39 UTC",
-  "total_items": 284,
+  "generated_at": "2026-08-19T21:35:19.362592+00:00",
+  "generated_at_human": "2026-08-19 21:35 UTC",
+  "total_items": 283,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -19,6 +19,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -61,7 +62,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
+  "sources_count": 56,
   "multi_photo_items": 66,
   "items": [
     {
@@ -72,11 +73,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=85456",
-        "https://i.archi.ru/i/1262/94938.jpg?r=56735",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=26021",
-        "https://i.archi.ru/news/quadratic/459160.png?r=54974",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=19957"
+        "https://i.archi.ru/i/1262/310555.jpg?r=27284",
+        "https://i.archi.ru/i/1262/94938.jpg?r=2775",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=12517",
+        "https://i.archi.ru/news/quadratic/459160.png?r=5155",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=7267"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -90,7 +91,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=4064",
+        "https://i.archi.ru/i/1262/305304.jpg?r=5009",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -108,11 +109,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=69059",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=46017",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=20685",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=49067",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=65477"
+        "https://i.archi.ru/i/1262/310555.jpg?r=83778",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=97196",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=27409",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=5791",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=95420"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -862,19 +863,6 @@
       "published": "2026-08-17T14:00:00+00:00"
     },
     {
-      "id": "210b2691225c79ad",
-      "title": "carved travertine transforms paving, furniture, and planting across spanish historic old town",
-      "summary": "in banyoles, mias architects completes the transformation of the historic center with an intervention in plaça d’en ges and the surrounding streets. The post carved travertine transforms paving, furniture, and planting across spanish historic old town appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/carved-travertine-transforms-paving-furniture-and-planting-across-spanish-historic-old-town/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/08/banyoles-spain-mias-architects-historic-center-travertine-stone-designboom-700-500x400-22b08q85r427.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/08/banyoles-spain-mias-architects-historic-center-travertine-stone-designboom-700-500x400-22b08q85r427.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-08-17T13:56:52+00:00"
-    },
-    {
       "id": "7f2e997b250cb0e2",
       "title": "Hotel Chalet Mirabell Makes the South Tyrolean Landscape the Main Attraction",
       "summary": "With a 64,000-square-foot spa, tiered timber architecture, and sweeping alpine views, the Italian retreat is designed around finding room to slow down",
@@ -1049,7 +1037,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -1121,7 +1109,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-dean-munich-tatjana-von-stein_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
     },
@@ -1153,9 +1141,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/02/vko/vko_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/11/draft-petal-chair/petal_chair_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/fluff-stack-is-a-fluffy-furniture-set-made-from-denim-waste/FLuffy-denim-furniture_rcycled_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/Carpet-Matter-Coffee-Table-Design.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/10/design-forward-7-cutting-edge-modular-furniture-trends-of-2024/00-modular.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/07/social-distancing-furniture/10-clikclax_yankodesign.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1255,19 +1243,6 @@
       "published": "2026-08-16T13:00:00+00:00"
     },
     {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
       "id": "3fc544414ff6f9cf",
       "title": "The Block judges liked as much as they hated in Rick and Tayla’s family bathroom",
       "summary": "The judges saw promise in the father-daughter duo, who \"have shown us they have an approach that isn't the same as everybody else,\" despite a mixed Week 2 reveal The post The Block judges liked as much as they hated in Rick and Tayla’s family bathroom appeared first on Homes To Love .",
@@ -1330,6 +1305,19 @@
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
@@ -1434,7 +1422,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/ome-dezin_lumens_dezeen_sqex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-15T17:00:12+00:00"
     },
@@ -2528,7 +2516,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2581,9 +2569,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
         "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
