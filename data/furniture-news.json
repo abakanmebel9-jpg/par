@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-19T13:54:49.764868+00:00",
-  "generated_at_human": "2026-08-19 13:54 UTC",
-  "total_items": 286,
+  "generated_at": "2026-08-19T14:46:48.697609+00:00",
+  "generated_at_human": "2026-08-19 14:46 UTC",
+  "total_items": 287,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru Projects",
@@ -63,7 +63,7 @@
     "Мебель-expo"
   ],
   "sources_count": 56,
-  "multi_photo_items": 65,
+  "multi_photo_items": 66,
   "items": [
     {
       "id": "458d149e05d94a59",
@@ -73,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=79423",
+        "https://i.archi.ru/i/1262/305304.jpg?r=417",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -91,11 +91,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=76262",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=6501",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=17505",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=77289",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=40525"
+        "https://i.archi.ru/i/1262/310555.jpg?r=53434",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=28550",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=26171",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=59587",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=89955"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -109,7 +109,7 @@
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
         "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=89729",
+        "https://i.archi.ru/i/1262/510881.jpg?r=70927",
         "https://i.archi.ru/i/1262/509273.png",
         "https://i.archi.ru/i/1262/509280.png",
         "https://i.archi.ru/i/1262/509272.png",
@@ -118,6 +118,47 @@
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "d5993972c3de062f",
+      "title": "Upcycle An Old Pillowcase Into A Clever Storage System For Toilet Paper",
+      "summary": "Got old pillowcases tucked away? With this genius and affordable DIY hack, you can turn them into a surprisingly elegant toilet paper storage you'd love.",
+      "url": "https://www.hunker.com/2236932/upcycle-pillowcase-toilet-paper-storage-system/",
+      "image": "https://www.hunker.com/img/gallery/upcycle-pillowcase-toilet-paper-storage-system/l-intro-1786980982.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/upcycle-pillowcase-toilet-paper-storage-system/l-intro-1786980982.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-pillowcase-toilet-paper-storage-system/intro-1786980982.jpg",
+        "https://www.hunker.com/img/gallery/upcycle-pillowcase-toilet-paper-storage-system/how-to-craft-a-beautiful-toilet-paper-storage-box-using-a-pillowcase-1786980984.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-19T14:00:00+00:00"
+    },
+    {
+      "id": "1c8ec407101d1284",
+      "title": "The Emergent Low-Effort Way to Share Dimensions for Plans",
+      "summary": "South-Carolina-based horse-riding enthusiast Nathan Weeda built this rocking horse for his daughter: It went viral on social media. Weeda was subsequently so inundated with requests for plans—which he has no time for—that he subsequently released this walkaround video: However, the requests didn't subside, with demands for dimensions coming in. Weeda then released this video, with the caption \"Y'all better have a quick pause finger!\" Now that we all have cameras in our pockets, this has indeed become a common way to share dimensions, and not just on social media. In my work with…",
+      "url": "https://www.core77.com/posts/145113/The-Emergent-Low-Effort-Way-to-Share-Dimensions-for-Plans",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846305_lead_400_145113_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846305_lead_400_145113_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-19T14:00:00+00:00"
+    },
+    {
+      "id": "5790fcb418ea4b07",
+      "title": "9 Dated Kitchen Trends That Don't Add Value to Your Home",
+      "summary": "One of the most interesting home kitchens I’ve ever seen combined aspects of Americana and Greek styles. It was in Illinois and I had never seen anything like it. The kitchen had carved wood valances around a fake shingled roof, all accented by regal Greek columns that you might find in a fast-casual gyro shop. I was house hunting at the time and ultimately passed on this spectacular piece of property with this, let’s just say, unique kitchen. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/kitchen-trends-to-avoid-according-to-real-estate-agents-37686207?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//stock/shutterstock_1105740260",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//stock/shutterstock_1105740260"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-19T13:15:00+00:00"
     },
     {
       "id": "c5303e06e15d49ba",
@@ -213,6 +254,19 @@
       "published": "2026-08-19T09:15:49+00:00"
     },
     {
+      "id": "2afb2f95ffb1623e",
+      "title": "IKEA launches collectible design objects \"at a price that people can afford\"",
+      "summary": "Furniture company IKEA has launched the limited-edition Konstrunda collection, an assortment of furniture and homeware objects that reimagine collectible design from the likes of Andu Masebo at an affordable price point. Konstrunda, or Art Tour, consists of 22 pieces by seven designers, including work from Masebo, Italian designer Emanuele Stamuli and Swedish talents like Lisa Hilland, The post IKEA launches collectible design objects \"at a price that people can afford\" appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/19/ikea-konstrunda-collection-collectible-design-art/",
+      "image": "http://static.dezeen.com/uploads/2026/08/konstrunda-collection-ikea_dezeen_2364_sq-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/konstrunda-collection-ikea_dezeen_2364_sq-1.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-19T08:00:54+00:00"
+    },
+    {
       "id": "7595f588bddaefaa",
       "title": "IKEA's most recent collection is an \"entry point\" for young collectors",
       "summary": "Furniture company IKEA has launched the limited-edition Konstrunda collection, an assortment of furniture and homeware objects that reimagine collectible design from the likes of Andu Masebo at an affordable price point. Konstrunda, or Art Tour, consists of 22 pieces by seven designers, including work from Masebo, Italian designer Emanuele Stamuli and Swedish talents like Lisa Hilland, The post IKEA's most recent collection is an \"entry point\" for young collectors appeared first on Dezeen .",
@@ -221,7 +275,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/konstrunda-collection-ikea_dezeen_2364_sq-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-19T08:00:54+00:00"
     },
@@ -835,19 +889,6 @@
       "published": "2026-08-17T13:00:00+00:00"
     },
     {
-      "id": "23757f8f2e7c2921",
-      "title": "I Turned a Useless Wall in My 1930s Galley Kitchen into a Storage Haven",
-      "summary": "My little corner house is a colonial-style home built in the 1930s, when galley kitchens were incredibly common and larger formal dining rooms were prioritized. The galley kitchen doesn’t necessarily feel cramped, but its layout is incredibly awkward. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/yamazaki-home-tower-storage-rack-review-37686042?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-08/yamazaki-tower-storage-rack/kitchen-before-rack-lead",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-08/yamazaki-tower-storage-rack/kitchen-before-rack-lead"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-17T12:30:00+00:00"
-    },
-    {
       "id": "063c7922260a53e0",
       "title": "The Best Wood Stains of 2026, Picks from Our Experts",
       "summary": "For excellent coverage and color that won't fade from your next woodworking project, start with the best wood stain. Here, we cover shopping tips and recommendations. The post The Best Wood Stains of 2026, Picks from Our Experts appeared first on Bob Vila .",
@@ -889,19 +930,6 @@
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
-      "published": "2026-08-17T12:00:00+00:00"
-    },
-    {
-      "id": "8b6ed515518da4c3",
-      "title": "She Removed the Closet Doors and Added 2 IKEA BILLYs Instead",
-      "summary": "Although closets can be great for stashing coats, scarves, umbrellas, games, sports equipment, and more behind closed doors, recently designers and DIYers have proven that removing the doors can also be quite fruitful — that is, if you want to create an alcove-esque design feature without having to do much demo. (Check out this closet-turned-home office or this cute entryway bench for inspiration! READ MORE...",
-      "url": "https://www.apartmenttherapy.com/gray-closet-redo-1600-dollars-ikea-billy-ba-37686067?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-08/Alice%20Kuaban%20coat%20closet/AliceKuaban_before_horiz_tagged",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2022-08/Alice%20Kuaban%20coat%20closet/AliceKuaban_before_horiz_tagged"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-08-17T12:00:00+00:00"
     },
     {
@@ -1210,6 +1238,19 @@
       "published": "2026-08-16T13:00:00+00:00"
     },
     {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
       "id": "3fc544414ff6f9cf",
       "title": "The Block judges liked as much as they hated in Rick and Tayla’s family bathroom",
       "summary": "The judges saw promise in the father-daughter duo, who \"have shown us they have an approach that isn't the same as everybody else,\" despite a mixed Week 2 reveal The post The Block judges liked as much as they hated in Rick and Tayla’s family bathroom appeared first on Homes To Love .",
@@ -1272,19 +1313,6 @@
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
@@ -1699,19 +1727,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-13T14:00:00+00:00"
-    },
-    {
-      "id": "2ddc2b7a0f565078",
-      "title": "Amona Lab's Wildly Different Take on Domestic Furniture",
-      "summary": "A new Chinese company called Amona Lab has debuted their wildly different take on domestic furniture. They've designed a line of modular storage units that's unlike anything I've seen in the West—at least in the domestic space. In my eyes, the company's style borrows from laboratories, examination rooms, industrial kitchens and even garages. I find it oddly appealing: It's such an interesting take. They don't do upper cabinets, instead opting for pegboard-style open storage. Down below, everything touching the floor is on wheels. They use metal, glass and wood. The look is clean, almost…",
-      "url": "https://www.core77.com/posts/145064/Amona-Labs-Wildly-Different-Take-on-Domestic-Furniture",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1845696_lead_400_145064_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1845696_lead_400_145064_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-08-13T13:00:00+00:00"
     },
     {
       "id": "f98257830345a4ac",
@@ -2348,9 +2363,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2649,7 +2664,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2726,11 +2741,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/04/DIY-Bench-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/03/DIY-Craft-Cabinet.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/02/DIY-Twin-Bed-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3686,7 +3701,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
