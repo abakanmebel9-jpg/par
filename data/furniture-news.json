@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-19T14:46:48.697609+00:00",
-  "generated_at_human": "2026-08-19 14:46 UTC",
-  "total_items": 287,
+  "generated_at": "2026-08-19T15:40:32.563873+00:00",
+  "generated_at_human": "2026-08-19 15:40 UTC",
+  "total_items": 286,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Bob Vila",
@@ -62,9 +63,27 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
+  "sources_count": 57,
   "multi_photo_items": 66,
   "items": [
+    {
+      "id": "215cdbb0eb5e623a",
+      "title": "Мягкая пластика нового просвещения",
+      "summary": "Школу, которая появится в новых высотных кварталах «Сет» и «Веер», вполне справедливо можно назвать доминантой будущего района. Проект разработали архитекторы образовательной среды из бюро Имаго, а фасады выбирали по конкурсу. Его выиграло бюро GAFA, предложив равномерную сетку из объемных модулей, которые создают любопытный эффект «мягкой» архитектуры. Образность такого решения близка детям разного возраста и подходит статусу образовательного комплекса – после завершения строительства его передадут рейтинговой школе № 1329.",
+      "url": "https://archi.ru/russia/102449/myagkaya-plastika-novogo-prosvescheniya",
+      "image": "https://i.archi.ru/i/1262/496015.png",
+      "images": [
+        "https://i.archi.ru/i/1262/496015.png",
+        "https://i.archi.ru/i/1262/310555.jpg?r=94670",
+        "https://i.archi.ru/i/1262/94938.jpg?r=19781",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=77623",
+        "https://i.archi.ru/news/quadratic/459160.png?r=58280",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=98916"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "458d149e05d94a59",
       "title": "Добро пожаловать в мультфильм!",
@@ -73,7 +92,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=417",
+        "https://i.archi.ru/i/1262/305304.jpg?r=74915",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -91,11 +110,11 @@
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
         "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=53434",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=28550",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=26171",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=59587",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=89955"
+        "https://i.archi.ru/i/1262/310555.jpg?r=15073",
+        "https://i.archi.ru/news/quadratic/371581.jpg?r=16095",
+        "https://i.archi.ru/news/quadratic/371497.jpg?r=37147",
+        "https://i.archi.ru/news/quadratic/433300.jpg?r=58822",
+        "https://i.archi.ru/news/quadratic/459017.jpg?r=45398"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -108,14 +127,9 @@
       "url": "https://archi.ru/world/102452/dizain-barov-v-sssr-na-primere-rigi--kh",
       "image": "https://i.archi.ru/i/1262/509252.png",
       "images": [
-        "https://i.archi.ru/i/1262/509252.png",
-        "https://i.archi.ru/i/1262/510881.jpg?r=70927",
-        "https://i.archi.ru/i/1262/509273.png",
-        "https://i.archi.ru/i/1262/509280.png",
-        "https://i.archi.ru/i/1262/509272.png",
-        "https://i.archi.ru/i/1262/509276.png"
+        "https://i.archi.ru/i/1262/509252.png"
       ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -263,19 +277,6 @@
         "http://static.dezeen.com/uploads/2026/08/konstrunda-collection-ikea_dezeen_2364_sq-1.jpg"
       ],
       "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-19T08:00:54+00:00"
-    },
-    {
-      "id": "7595f588bddaefaa",
-      "title": "IKEA's most recent collection is an \"entry point\" for young collectors",
-      "summary": "Furniture company IKEA has launched the limited-edition Konstrunda collection, an assortment of furniture and homeware objects that reimagine collectible design from the likes of Andu Masebo at an affordable price point. Konstrunda, or Art Tour, consists of 22 pieces by seven designers, including work from Masebo, Italian designer Emanuele Stamuli and Swedish talents like Lisa Hilland, The post IKEA's most recent collection is an \"entry point\" for young collectors appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/19/ikea-konstrunda-collection-collectible-design-art/",
-      "image": "http://static.dezeen.com/uploads/2026/08/konstrunda-collection-ikea_dezeen_2364_sq-1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/08/konstrunda-collection-ikea_dezeen_2364_sq-1.jpg"
-      ],
-      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-19T08:00:54+00:00"
     },
@@ -909,11 +910,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Console-Table-3.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Console-Table-3.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/12/Purdy-final-2.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/console-table-2.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/01/DIY-Dining-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/04/DIY-Door-Hanger.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -1123,9 +1124,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/these-japanese-inspired-office-pods-offer-an-oasis-in-busy-workplaces/zen-pod-13.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/03/366470/08_nonsquare_yujungpark_storage.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/630866/swap_arcade_cabinet_1.jpeg"
+        "https://www.yankodesign.com/images/design_news/2021/12/gradient-space/gradient_space_architecture_yanko_design_11.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/04/12/geek_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/12/lenovos-e-waste-gets-a-new-life-at-the-annual-tech-world-event-as-3d-printed-furniture/Lenovo_ewaste_furniture_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1238,19 +1239,6 @@
       "published": "2026-08-16T13:00:00+00:00"
     },
     {
-      "id": "6dd800abb2abfe54",
-      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
-      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-16T11:00:00+00:00"
-    },
-    {
       "id": "3fc544414ff6f9cf",
       "title": "The Block judges liked as much as they hated in Rick and Tayla’s family bathroom",
       "summary": "The judges saw promise in the father-daughter duo, who \"have shown us they have an approach that isn't the same as everybody else,\" despite a mixed Week 2 reveal The post The Block judges liked as much as they hated in Rick and Tayla’s family bathroom appeared first on Homes To Love .",
@@ -1313,6 +1301,19 @@
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
+      "published": "2026-08-16T11:00:00+00:00"
+    },
+    {
+      "id": "6dd800abb2abfe54",
+      "title": "Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More",
+      "summary": "Patio sets, pergolas, gazebos, chairs, umbrellas, and outdoor decor are marked down as summer winds down, with deals starting at $24.98. The post Lowe’s End-of-Season Patio Sale Drops Prices Up to 50% on Furniture, Gazebos, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/lowes-end-of-season-patio-sale-august-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/08/Lowes-End-of-Season-Patio-Sale-1.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
       "published": "2026-08-16T11:00:00+00:00"
     },
     {
@@ -1501,9 +1502,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/5-furniture-pieces-so-geometric-they-could-hang-in-a-gallery/Geometric-Furniture_Sculptural-Designs_14.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/03/this-ergonomic-standing-desk-is-what-your-work-from-home-regime-needs/Standsome-wooden-standing-desk_7.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/auto-draft/W2-Romotow-T8-caravan-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/dual_temperature_system_neckband_helps_you_cool_your_body_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/11/09/twin_drum.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/03/543096/hancept_zero_mk2_edc_pen_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/06/319936/WYN_Bullet_emergency_window_breaker_hero.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1714,19 +1715,6 @@
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
       "published": "2026-08-13T15:15:12+00:00"
-    },
-    {
-      "id": "397de655c5e5c04a",
-      "title": "Vintage Folding Railcar Sinks for Sleeper Cars",
-      "summary": "In an earlier post, we looked at the space-saving sinks used in the Barbican , circa the 1960s. Eighty years before that, other organizations had the same problem, of how to stuff a sink in a very limited space. Those organizations were 19th-century railcar manufacturers, like Pullman. As sleeper cars became a thing, railcar designers developed folding sinks: Today at least one company, Watermark Fixtures , still makes replicas. Theirs is made out of cast-iron and porcelain: Here's an example of one that's been installed, by architecture and interiors firm Cicada , in a tight basement…",
-      "url": "https://www.core77.com/posts/145066/Vintage-Folding-Railcar-Sinks-for-Sleeper-Cars",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1845731_lead_400_145066_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1845731_lead_400_145066_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-08-13T14:00:00+00:00"
     },
     {
       "id": "f98257830345a4ac",
@@ -3925,11 +3913,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/10/DIY-Oudoor-Lounge-Chair-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/02/How-to-build-a-dresser-with-drawers.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/View-recent-photos.png",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731.jpeg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
