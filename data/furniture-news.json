@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-20T15:44:42.408479+00:00",
-  "generated_at_human": "2026-08-20 15:44 UTC",
-  "total_items": 273,
+  "generated_at": "2026-08-20T16:47:12.278045+00:00",
+  "generated_at_human": "2026-08-20 16:47 UTC",
+  "total_items": 278,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -53,6 +54,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -61,7 +63,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
+  "sources_count": 57,
   "multi_photo_items": 66,
   "items": [
     {
@@ -72,11 +74,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=38317",
-        "https://i.archi.ru/i/1262/94938.jpg?r=74697",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=96785",
-        "https://i.archi.ru/news/quadratic/459160.png?r=6324",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=25774"
+        "https://i.archi.ru/i/1262/310555.jpg?r=44778",
+        "https://i.archi.ru/i/1262/94938.jpg?r=45981",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=79448",
+        "https://i.archi.ru/news/quadratic/459160.png?r=36810",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=35132"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -90,7 +92,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=34989",
+        "https://i.archi.ru/i/1262/305304.jpg?r=72298",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -794,6 +796,19 @@
       "published": "2026-08-18T14:00:00+00:00"
     },
     {
+      "id": "27fcc1bd5c317230",
+      "title": "5 Products to Give the Living Room a Fall Reset",
+      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-18T13:44:03+00:00"
+    },
+    {
       "id": "c406e4f1782c4a00",
       "title": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks",
       "summary": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks Most kitchen tech is designed by people who think about kitchens. Nicolas Reynard’s StudioChef KAI was designed by someone who has actually worked in one...",
@@ -1474,8 +1489,8 @@
         "https://sunset.com/wp-content/uploads/2026/07/rug-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/pantry-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
         "https://sunset.com/wp-content/uploads/2026/07/island-stools-davis-kitchen-yvonne-harty-pc-rachel-seva.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/living-area-seattle-condo-shannon-adamson-pc-miranda-estes.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/concrete-collaborative-kids-jumping-into-pool-pr-0826.jpg?w=1200&h=600&crop=1"
+        "https://sunset.com/wp-content/uploads/2026/08/home-decor-shopping-pc-Mint-Images-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/cultured-abalone-farm-shell-on-beach-unsplash-0826.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -2004,6 +2019,19 @@
       "published": "2026-08-11T13:54:01+00:00"
     },
     {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
+    },
+    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -2256,6 +2284,19 @@
       "published": "2026-08-07T16:06:04+00:00"
     },
     {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -2492,6 +2533,19 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
+    },
+    {
       "id": "48a0a15730ecb6e8",
       "title": "Forget the Matching Sofa Set and Let an Accent Chair Steal the Show",
       "summary": "Accent chairs no longer serve as the last piece added after the sofa. Many living rooms use one to introduce a different color, material, texture, or silhouette, giving the seating area a focal point without replacing the main furniture. Some stand out through bold upholstery, others through sculptural forms, exposed wood frames, or patterned fabric.... The post Forget the Matching Sofa Set and Let an Accent Chair Steal the Show appeared first on Homedit .",
@@ -2710,8 +2764,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/qYj9vw1O-1-ERNESTOMEDA_ONE-02_PARTICOLARE-4-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/MfoGDFaY-3-ERNESTOMEDA_ONE-02_PARTICOLARE-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-unnamed-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-DoimoCucine_composizione-Rima_collezione-Impronta_set_01.jpg",
+        "https://www.internimagazine.it/content/uploads/2023/10/apertura-01_SensoWash®-D-Neo_alta-P_15B8BB77D5B_868705_4-orizz.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_2-ERNESTOMEDA_ONE-02_GENERALE-2.jpg"
       ],
       "source": "Interni magazine",
@@ -3005,6 +3059,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
