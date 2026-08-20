@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-20T22:38:46.579139+00:00",
-  "generated_at_human": "2026-08-20 22:38 UTC",
+  "generated_at": "2026-08-20T23:35:29.348959+00:00",
+  "generated_at_human": "2026-08-20 23:35 UTC",
   "total_items": 272,
   "sources_used": [
     "Apartment Therapy",
@@ -20,6 +20,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -56,14 +57,15 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 64,
+  "sources_count": 58,
+  "multi_photo_items": 63,
   "items": [
     {
       "id": "215cdbb0eb5e623a",
@@ -73,11 +75,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=63204",
-        "https://i.archi.ru/i/1262/94938.jpg?r=68569",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=79100",
-        "https://i.archi.ru/news/quadratic/459160.png?r=88537",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=91558"
+        "https://i.archi.ru/i/1262/310555.jpg?r=4404",
+        "https://i.archi.ru/i/1262/94938.jpg?r=60447",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=16834",
+        "https://i.archi.ru/news/quadratic/459160.png?r=2301",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=17420"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -91,7 +93,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=93897",
+        "https://i.archi.ru/i/1262/305304.jpg?r=27962",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -128,6 +130,19 @@
       "published": ""
     },
     {
+      "id": "e0db7e9f0b93c4f8",
+      "title": "No Staples, No Refills, No Bent Corners – This $35 Desk Tool Fixed Everything Wrong With the Office Stapler",
+      "summary": "No Staples, No Refills, No Bent Corners – This $35 Desk Tool Fixed Everything Wrong With the Office Stapler The mechanism behind PaperLock is simple, in the way good design is simple. Press the lever and a small cutting element punches through the stack,...",
+      "url": "https://www.yankodesign.com/2026/08/20/no-staples-no-refills-no-bent-corners-this-35-desk-tool-fixed-everything-wrong-with-the-office-stapler/?utm_source=rss&utm_medium=rss&utm_campaign=no-staples-no-refills-no-bent-corners-this-35-desk-tool-fixed-everything-wrong-with-the-office-stapler",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/draft-stapler/paperlock_stapler_yanko_design_07.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/draft-stapler/paperlock_stapler_yanko_design_07.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-20T23:30:39+00:00"
+    },
+    {
       "id": "db4b9f089c5ed665",
       "title": "Yes, You Should Be Catching Lint From the Washing Machine Before It Clogs Your Drains",
       "summary": "Neglecting your washing machine filter can cause blockages, slow draining, bad smells, and even water pump damage. The post Yes, You Should Be Catching Lint From the Washing Machine Before It Clogs Your Drains appeared first on Bob Vila .",
@@ -150,9 +165,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/these-cinema-seats-were-designed-to-isolate-movie-goers-in-a-post-covid-world/layer_sequel_seat_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/04/02/flexi_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/tom-black-carves-travertine-tables-that-look-like-theyre-floating/coffee-table-01-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/08/02/daddylonglegs02.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/Nicola-Stäubli-Reversible-Chair-Features.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/03/ollie-chair-from-sheet-to-seat/ollie_chair_pledge_cover.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -546,9 +561,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/someone-finally-bent-a-desk-to-put-your-monitor-higher-and-hands-low/hollow-desk-concept-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/tabs/tabs_desk_yanko_design_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/work-gear-ds/07-qwork_yankodesign.jpeg",
-        "https://www.yankodesign.com/images/design_news/2022/11/create-furniture-with-an-experimental-wooden-clip-system/Wooden_Furniture_Clip_5.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/12/this-modular-chair-transforms-into-3-designs-with-one-sphere/pla-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/this-simplistic-wooden-chair-imagines-a-future-google-that-has-gone-back-to-nature/seed-chair-google_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/06/libernovo-omni-dynamic-ergonomic-chair-brings-back-the-joy-of-sitting/LiberNovo_Omni_Worlds_First_Dynamic_Ergonomic_Chair_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2009,24 +2024,6 @@
       "published": "2026-08-11T05:23:56+00:00"
     },
     {
-      "id": "3e30f1bc197581d4",
-      "title": "Former McLaren Designers Bring Supercar Thinking to Furniture",
-      "summary": "With a carbon fiber structure, bespoke finishes, and automotive-level precision, Ennua’s Element 01 translates supercar designs into functional art",
-      "url": "https://design-milk.com/ennua-element-01-mclaren-designers/",
-      "image": "https://design-milk.com/images/2026/08/Ennua_015.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/08/Ennua_015.jpg",
-        "https://design-milk.com/images/2026/08/Ennua_018.jpg",
-        "https://design-milk.com/images/2026/08/ENNUA_025.jpg",
-        "https://design-milk.com/images/2026/08/Ennua_017.jpg",
-        "https://design-milk.com/images/2026/08/Ennua_014.jpg",
-        "https://design-milk.com/images/2026/08/Ennua_013.jpg"
-      ],
-      "source": "Design Milk",
-      "source_url": "https://design-milk.com",
-      "published": "2026-08-10T17:00:09+00:00"
-    },
-    {
       "id": "8411f23c12966e9c",
       "title": "Organic Modern Is Defining Home Décor Right Now",
       "summary": "Natural materials, handcrafted pieces, and sculptural furniture define the most popular home décor right now. Designers refer to the look as Organic Modern, a style that combines clean lines with warm wood tones, statement stone, textured finishes, handmade ceramics, and earthy colors instead of perfectly matched furniture and polished surfaces. These interiors show how the... The post Organic Modern Is Defining Home Décor Right Now appeared first on Homedit .",
@@ -2250,8 +2247,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2440,7 +2437,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
