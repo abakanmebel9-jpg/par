@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-20T13:06:18.301497+00:00",
-  "generated_at_human": "2026-08-20 13:06 UTC",
-  "total_items": 280,
+  "generated_at": "2026-08-20T14:49:10.421283+00:00",
+  "generated_at_human": "2026-08-20 14:49 UTC",
+  "total_items": 279,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,6 +20,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -63,7 +64,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
+  "sources_count": 58,
   "multi_photo_items": 66,
   "items": [
     {
@@ -74,11 +75,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=49943",
-        "https://i.archi.ru/i/1262/94938.jpg?r=69018",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=50887",
-        "https://i.archi.ru/news/quadratic/459160.png?r=34709",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=68394"
+        "https://i.archi.ru/i/1262/310555.jpg?r=53648",
+        "https://i.archi.ru/i/1262/94938.jpg?r=85057",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=37474",
+        "https://i.archi.ru/news/quadratic/459160.png?r=80188",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=26852"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -92,7 +93,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=23865",
+        "https://i.archi.ru/i/1262/305304.jpg?r=27689",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -127,6 +128,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "66dffd3919590834",
+      "title": "Duravit Introduces Balcoon, Designed by Patricia Urquiola",
+      "summary": "N NKBA Staff Posted: Aug 19, 2026 1:24 pm Partnered Content Architectural Aesthetic Meets Functional Elegance in the Bath Multi-award winning architect and product designer Patricia Urquiola has created her first bathroom collection for Duravit: Balcoon . The Balcoon sinks, bathroom furniture, and bathtubs create a fascinating combination of modernity and timeless elegance–minimalistic yet also with a strong design identity. Central to the collection are the stunning countertop sinks which serve as sculptural focal points. “I started with two essential forms: a cubic base and a cylindrical…",
+      "url": "https://nkba.org/news/sponsored-content/duravit-introduces-balcoon-designed-by-patricia-urquiola/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/08/04_Balcoon.jpg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/08/04_Balcoon.jpg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-08-20T14:09:57+00:00"
     },
     {
       "id": "16922477df7ea95f",
@@ -258,6 +272,37 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-20T08:15:57+00:00"
+    },
+    {
+      "id": "2d0bbd3bfc927046",
+      "title": "Kitchen(s) of the Week: 16 Favorite Indoor/Outdoor Spaces from the Remodelista Archives",
+      "summary": "Consider it an upgrade from the window above the sink: kitchens that open fully to the outdoors, letting in summer breezes while you cook and encouraging dinners that spill onto the lawn in good weather (and back inside when the evening gets chilly). Here are 16 favorites. More of our all-time favorite kitchens: 13 Favorite […]",
+      "url": "https://www.remodelista.com/posts/favorite-indoor-outdoor-kitchens-remodelista-archives/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2017/06/malcolm-davis-20th-street-indoor-outdoor-kitchen-4.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2017/06/malcolm-davis-20th-street-indoor-outdoor-kitchen-4.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-08-20T08:00:13+00:00"
+    },
+    {
+      "id": "1e57687c8fc142b2",
+      "title": "These Two Products Completely Changed My Outdoor Deck",
+      "summary": "A sectional and fire pit really transformed the deck of one Sunset writer into a chic outdoor room for year-round hangouts.",
+      "url": "https://sunset.com/home-garden/outdoor-living/outdoor-deck-furniture",
+      "image": "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
+      "images": [
+        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
+        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
+        "https://sunset.com/wp-content/uploads/2026/08/home-decor-shopping-pc-Mint-Images-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/cultured-abalone-farm-shell-on-beach-unsplash-0826.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
+      ],
+      "source": "Sunset",
+      "source_url": "https://www.sunset.com",
+      "published": "2026-08-20T07:45:05+00:00"
     },
     {
       "id": "b12d574752c407cc",
@@ -460,24 +505,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-19T16:49:05+00:00"
-    },
-    {
-      "id": "1e57687c8fc142b2",
-      "title": "These Two Products Completely Changed My Outdoor Deck",
-      "summary": "A sectional and fire pit really transformed the deck of one Sunset writer into a chic outdoor room for year-round hangouts.",
-      "url": "https://sunset.com/home-garden/outdoor-living/outdoor-deck-furniture",
-      "image": "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
-      "images": [
-        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/home-decor-shopping-pc-Mint-Images-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/cultured-abalone-farm-shell-on-beach-unsplash-0826.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
-      ],
-      "source": "Sunset",
-      "source_url": "https://www.sunset.com",
-      "published": "2026-08-19T16:35:42+00:00"
     },
     {
       "id": "3897d84b71891e84",
@@ -729,19 +756,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-08-18T18:15:00+00:00"
-    },
-    {
-      "id": "6f221ec52eae0b56",
-      "title": "This Interior Designer Fit Four Distinct \"Rooms\" Into His 230-Square-Foot Studio",
-      "summary": "Interior Designer Jean Pierre Ortiz transformed a blank studio into a home with an entryway area, living room area, dining/work area, and bedroom area by making every piece work harder. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/230-square-foot-crown-heights-studio-37685032?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/jean-o/tours-brooklyn-jean-o-lead-2",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/jean-o/tours-brooklyn-jean-o-lead-2"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-18T16:00:00+00:00"
     },
     {
       "id": "e36d413093e6944b",
@@ -1221,7 +1235,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -1293,7 +1307,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-dean-munich-tatjana-von-stein_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
     },
@@ -2528,7 +2542,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2856,19 +2870,6 @@
       "published": "2026-07-30T08:00:13+00:00"
     },
     {
-      "id": "623f669841ee2e6e",
-      "title": "Kitchen of the Week: A Small Off-Grid Kitchen in an Architect-Designed Guest Cabin",
-      "summary": "Who says you can’t go home? A while back we dropped in on an off-grid cabin in eastern Ohio; designed and built by Greg Dutton (then of Midland Architecture, now of Greg Dutton Studio) on his parents’ 2,000-acre property, it serves as a guest quarters for him and his siblings. Today we’re taking a closer […]",
-      "url": "https://www.remodelista.com/posts/off-grid-guest-cabin-small-kitchen-midland-architecture/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2020/09/greg-dutton-midland-architecture-the-hut-ohio-valley-kitchen.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2020/09/greg-dutton-midland-architecture-the-hut-ohio-valley-kitchen.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-07-30T08:00:05+00:00"
-    },
-    {
       "id": "2da41466286c6f25",
       "title": "ElemenTap, la modularità come principio progettuale",
       "summary": "Ritmonio inaugura un nuovo capitolo della propria storia presentando un’evoluzione che mixa rigore tecnico, benessere, estetica. Oltre la zona bagno The post ElemenTap, la modularità come principio progettuale appeared first on Interni Magazine .",
@@ -3098,19 +3099,6 @@
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
       "published": "2026-07-22T08:00:38+00:00"
-    },
-    {
-      "id": "ebbdfc8a5f55c358",
-      "title": "Consumer Uncertainty Continues to Impact Industry Growth, as K&B Industry Pros Downgrade Expectations for 2026",
-      "summary": "N NKBA Staff Posted: Jul 21, 2026 5:17 pm Kitchen & Bath Market Index Positive Near-Term Activity Offers Optimism for Improving Conditions Image courtesy of Getty Images. By NKBA Editorial Staff The Kitchen & Bath Market Index (KBMI), which measures growth in the U.S. residential kitchen and bath industry, remained flat year-over-year at 53 out of 100, as K&B pros said ongoing consumer uncertainty, driven largely by rising material costs and trade tensions, is slowing demand and limiting growth. The 2Q26 Kitchen and Bath Market Index (KBMI) Report , conducted jointly by the NKBA and John…",
-      "url": "https://nkba.org/research/kitchen-bath-market-index/consumer-uncertainty-continues-to-impact-industry-growth-as-kb-industry-pros-downgrade-expectations-for-2026/",
-      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Kitchen_Remodel_Getty.jpg",
-      "images": [
-        "https://kb-media.nkba.org/wp-content/uploads/2026/07/New_Kitchen_Remodel_Getty.jpg"
-      ],
-      "source": "NKBA",
-      "source_url": "https://www.nkba.org",
-      "published": "2026-07-21T21:17:57+00:00"
     },
     {
       "id": "c00cba595270b915",
