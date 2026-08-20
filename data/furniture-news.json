@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-20T10:41:30.664441+00:00",
-  "generated_at_human": "2026-08-20 10:41 UTC",
-  "total_items": 276,
+  "generated_at": "2026-08-20T11:36:48.362341+00:00",
+  "generated_at_human": "2026-08-20 11:36 UTC",
+  "total_items": 277,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
     "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
@@ -63,8 +64,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 66,
+  "sources_count": 58,
+  "multi_photo_items": 65,
   "items": [
     {
       "id": "215cdbb0eb5e623a",
@@ -74,11 +75,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=25281",
-        "https://i.archi.ru/i/1262/94938.jpg?r=28178",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=72737",
-        "https://i.archi.ru/news/quadratic/459160.png?r=72733",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=19712"
+        "https://i.archi.ru/i/1262/310555.jpg?r=62708",
+        "https://i.archi.ru/i/1262/94938.jpg?r=37948",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=86604",
+        "https://i.archi.ru/news/quadratic/459160.png?r=7020",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=16317"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -92,7 +93,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=57423",
+        "https://i.archi.ru/i/1262/305304.jpg?r=87952",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -103,22 +104,48 @@
       "published": ""
     },
     {
+      "id": "55ca951894a7681f",
+      "title": "LVL-брус в интерьере: конструкционный материал как часть дизайна",
+      "summary": "LVL-брус чаще воспринимают как материал для несущих конструкций большепролетных сооружений: межэтажных перекрытий, стропильных систем, трехшарнирных рам и других инженерных узлов. Однако область его применения включает и декоративные решения, как производство мебели, дверей, лестниц, витражей. Архитектор может работать с одним материалом сразу и как с конструкцией, и как с эстетической частью интерьера.",
+      "url": "http://archi.ru/tech/news_102599.html",
+      "image": "https://i.archi.ru/i/1262/511386.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/511386.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
       "id": "90486e2c7d6f850a",
       "title": "Реинкарнация горы и лотоса",
       "summary": "По проекту бюро АСАДОВ в Благовещенске построен новый пассажирский терминал Международного аэропорта имени Николая Муравьева-Амурского (Игнатьево), который свяжет российские горда с Китаем и Вьетнамом. Аэропорт получил сквозной дизайн: фасадное решение, интерьеры и благоустройство площади-парка основаны на треугольном модуле и единой цветовой гамме, которые отсылают к необычным явлениям амурского края – дальневосточному лотосу, «горящим горам» и космодрому «Восточный».",
       "url": "https://archi.ru/russia/102104/reinkarnaciya-gory-i-lotosa",
       "image": "https://i.archi.ru/i/1262/499156.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/499156.jpg",
-        "https://i.archi.ru/i/1262/310555.jpg?r=38511",
-        "https://i.archi.ru/news/quadratic/371581.jpg?r=15949",
-        "https://i.archi.ru/news/quadratic/371497.jpg?r=51139",
-        "https://i.archi.ru/news/quadratic/433300.jpg?r=1739",
-        "https://i.archi.ru/news/quadratic/459017.jpg?r=9537"
+        "https://i.archi.ru/i/1262/499156.jpg"
       ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "622bb085b0c5a453",
+      "title": "Blinds down for privacy? A 2-second flip does the same job, no faded stripe on the floor",
+      "summary": "Walk any American neighborhood at lunchtime and count the windows with the blinds pulled shut, slats tipped down toward the floor. It’s the default. It feels neat from the couch. It feels private. Most people have been closing them that way since they were kids. But that closed-down position is the reason the floor by […] The post Blinds down for privacy? A 2-second flip does the same job, no faded stripe on the floor appeared first on Trendir .",
+      "url": "https://www.trendir.com/blinds-down-for-privacy-a-2-second-flip-does-the-same-job-no-faded-stripe-on-the-floor/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/wood-blinds-sunlight-shadow-stripes-living-room-sofa.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/wood-blinds-sunlight-shadow-stripes-living-room-sofa.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/10/Irregular-textile-pattern.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/ultimate-party-house-with-multi-colored-lighting-and-waterfalls-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/diagonal-roofline-defines-extensive-canadian-hill-lot-home-2-front-angle-view.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/artistic-tile-pampa-leather-collection-cowhide-tiles.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Dark-Painted-Dresser-with-Cane-Pulls.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-08-20T11:00:00+00:00"
     },
     {
       "id": "9b8d4a0b6f34a3f9",
@@ -355,9 +382,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/someone-finally-bent-a-desk-to-put-your-monitor-higher-and-hands-low/hollow-desk-concept-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/transform_box_yanko_design-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/04/pages_adjustable_chair_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/09/27/tephra01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/09/plint/plint_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/10/governors-point-is-he-ultimate-eco-luxury-escape-youll-wish-you-lived-in/View-from-water-V02.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/08/atable/atable_04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -386,8 +413,8 @@
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/home-decor-shopping-pc-Mint-Images-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/cultured-abalone-farm-shell-on-beach-unsplash-0826.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/living-area-seattle-condo-shannon-adamson-pc-miranda-estes.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/concrete-collaborative-kids-jumping-into-pool-pr-0826.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
       ],
       "source": "Sunset",
@@ -789,12 +816,7 @@
       "url": "https://www.trendir.com/warning-this-one-mistake-in-almost-every-home-puts-everyone-inside-at-risk-of-fire-or-gas-leaks/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/smoke-detector-with-open-battery-door-on-stained-ceiling.jpg",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/smoke-detector-with-open-battery-door-on-stained-ceiling.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/07/bath-towels-folded-bar-home-bathroom-morning-light.png",
-        "https://cdn.trendir.com/wp-content/uploads/2016/07/Strada-Premium-Wall-Unit.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/07/variegated-plant-terracotta-pot-fallen-leaves-floor.png",
-        "https://cdn.trendir.com/wp-content/uploads/2017/05/Tips-to-Update-Your-Kitchen-on-a-Tight-Budget-paint-cabinetry.png",
-        "https://cdn.trendir.com/wp-content/uploads/2016/09/Bright-Woods-Collection-illuminated-stools.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/smoke-detector-with-open-battery-door-on-stained-ceiling.jpg"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -905,19 +927,6 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-08-17T23:10:13+00:00"
-    },
-    {
-      "id": "c288222439f8f17e",
-      "title": "the frankfurt kitchen and margarete schütte-lihotzky’s vision of a ‘machine for living’",
-      "summary": "nearly everything in this domestic space, the double-basin sink, the easy to reach cabinets, the ease of access, championed a future where the kitchen becomes a 'laboratory' for creation. The post the frankfurt kitchen and margarete schütte-lihotzky’s vision of a ‘machine for living’ appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/margarete-schutte-lihotzky-envisioned-frankfurt-kitchen-machine-for-living/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/08/frankfurt-kitchen-designboom-700-500x400-22b08q85r906.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/08/frankfurt-kitchen-designboom-700-500x400-22b08q85r906.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-08-17T20:35:05+00:00"
     },
     {
       "id": "609dbbe53f881e41",
@@ -1169,7 +1178,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -1241,7 +1250,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-dean-munich-tatjana-von-stein_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
     },
@@ -2285,9 +2294,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
