@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-20T18:54:49.514840+00:00",
-  "generated_at_human": "2026-08-20 18:54 UTC",
-  "total_items": 275,
+  "generated_at": "2026-08-20T19:39:31.642836+00:00",
+  "generated_at_human": "2026-08-20 19:39 UTC",
+  "total_items": 272,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,6 +20,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -63,7 +64,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
+  "sources_count": 58,
   "multi_photo_items": 65,
   "items": [
     {
@@ -74,11 +75,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=15304",
-        "https://i.archi.ru/i/1262/94938.jpg?r=27691",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=80396",
-        "https://i.archi.ru/news/quadratic/459160.png?r=92977",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=2052"
+        "https://i.archi.ru/i/1262/310555.jpg?r=29798",
+        "https://i.archi.ru/i/1262/94938.jpg?r=82291",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=94322",
+        "https://i.archi.ru/news/quadratic/459160.png?r=25029",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=40064"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -92,7 +93,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=89371",
+        "https://i.archi.ru/i/1262/305304.jpg?r=14634",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -524,19 +525,6 @@
       "published": "2026-08-19T15:53:23+00:00"
     },
     {
-      "id": "d5993972c3de062f",
-      "title": "Upcycle An Old Pillowcase Into A Clever Storage System For Toilet Paper",
-      "summary": "Got old pillowcases tucked away? With this genius and affordable DIY hack, you can turn them into a surprisingly elegant toilet paper storage you'd love.",
-      "url": "https://www.hunker.com/2236932/upcycle-pillowcase-toilet-paper-storage-system/",
-      "image": "https://www.hunker.com/img/gallery/upcycle-pillowcase-toilet-paper-storage-system/l-intro-1786980982.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/upcycle-pillowcase-toilet-paper-storage-system/l-intro-1786980982.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-19T14:00:00+00:00"
-    },
-    {
       "id": "1c8ec407101d1284",
       "title": "The Emergent Low-Effort Way to Share Dimensions for Plans",
       "summary": "South-Carolina-based horse-riding enthusiast Nathan Weeda built this rocking horse for his daughter: It went viral on social media. Weeda was subsequently so inundated with requests for plans—which he has no time for—that he subsequently released this walkaround video: However, the requests didn't subside, with demands for dimensions coming in. Weeda then released this video, with the caption \"Y'all better have a quick pause finger!\" Now that we all have cameras in our pockets, this has indeed become a common way to share dimensions, and not just on social media. In my work with…",
@@ -550,17 +538,17 @@
       "published": "2026-08-19T14:00:00+00:00"
     },
     {
-      "id": "5790fcb418ea4b07",
-      "title": "9 Dated Kitchen Trends That Don't Add Value to Your Home",
-      "summary": "One of the most interesting home kitchens I’ve ever seen combined aspects of Americana and Greek styles. It was in Illinois and I had never seen anything like it. The kitchen had carved wood valances around a fake shingled roof, all accented by regal Greek columns that you might find in a fast-casual gyro shop. I was house hunting at the time and ultimately passed on this spectacular piece of property with this, let’s just say, unique kitchen. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/kitchen-trends-to-avoid-according-to-real-estate-agents-37686207?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//stock/shutterstock_1105740260",
+      "id": "d5993972c3de062f",
+      "title": "Upcycle An Old Pillowcase Into A Clever Storage System For Toilet Paper",
+      "summary": "Got old pillowcases tucked away? With this genius and affordable DIY hack, you can turn them into a surprisingly elegant toilet paper storage you'd love.",
+      "url": "https://www.hunker.com/2236932/upcycle-pillowcase-toilet-paper-storage-system/",
+      "image": "https://www.hunker.com/img/gallery/upcycle-pillowcase-toilet-paper-storage-system/l-intro-1786980982.jpg",
       "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//stock/shutterstock_1105740260"
+        "https://www.hunker.com/img/gallery/upcycle-pillowcase-toilet-paper-storage-system/l-intro-1786980982.jpg"
       ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-19T13:15:00+00:00"
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-19T14:00:00+00:00"
     },
     {
       "id": "c5303e06e15d49ba",
@@ -1213,7 +1201,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/dopamine-decor-instagram-sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T09:00:40+00:00"
     },
@@ -1231,19 +1219,6 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-08-17T09:00:00+00:00"
-    },
-    {
-      "id": "f46928d0e584f41c",
-      "title": "Waugh Thistleton Architects set to build \"tallest mass timber office building in the US\"",
-      "summary": "Architecture studios Waugh Thistleton Architects and Mithun have designed a 12-storey mass-timber office block in Bellevue, Washington. Designed for developer and contractor Skanska, the Bevel tower will become the tallest timber office building in the USA, when it completes. It is also Waugh Thistleton Architects' first project in the US. \"Bevel will be our first The post Waugh Thistleton Architects set to build \"tallest mass timber office building in the US\" appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/17/us-tallest-mass-timber-office-building-waugh-thistleton-architects/",
-      "image": "http://static.dezeen.com/uploads/2026/08/us-tallest-mass-timber-office-building-waugh-thistleton-architects_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/08/us-tallest-mass-timber-office-building-waugh-thistleton-architects_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-17T08:11:57+00:00"
     },
     {
       "id": "1e7a5ab23986da79",
@@ -1557,19 +1532,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-08-15T08:00:41+00:00"
-    },
-    {
-      "id": "fda5ab306954eb60",
-      "title": "This Brutalism-inspired ceramic brewer makes pour-over coffee and gongfu tea in the same set",
-      "summary": "This Brutalism-inspired ceramic brewer makes pour-over coffee and gongfu tea in the same set ﻿ Some brewing setups look like they belong in a kitchen. Purestone looks like it escaped from an architect’s desk. With its faceted black ceramic...",
-      "url": "https://www.yankodesign.com/2026/08/14/this-brutalism-inspired-ceramic-brewer-makes-pour-over-coffee-and-gongfu-tea-in-the-same-set/?utm_source=rss&utm_medium=rss&utm_campaign=this-brutalism-inspired-ceramic-brewer-makes-pour-over-coffee-and-gongfu-tea-in-the-same-set",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/641796/purestone_dual_brew_1.jpeg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/641796/purestone_dual_brew_1.jpeg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-15T01:45:08+00:00"
     },
     {
       "id": "98056320bcc662e1",
@@ -2295,7 +2257,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2484,7 +2446,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
