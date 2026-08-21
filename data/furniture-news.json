@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-21T07:02:48.393105+00:00",
-  "generated_at_human": "2026-08-21 07:02 UTC",
-  "total_items": 272,
+  "generated_at": "2026-08-21T07:53:24.408784+00:00",
+  "generated_at_human": "2026-08-21 07:53 UTC",
+  "total_items": 277,
   "sources_used": [
     "Apartment Therapy",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -17,7 +18,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -52,6 +52,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -60,7 +61,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 62,
   "items": [
     {
@@ -310,9 +311,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/sonnet_chair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/12/auto-draft/quetzal_lamp_2.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/buffalo-seating-collection/buffalo_seating_collection_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/top-5-outdoor-kitchen-appliances/top_5_outdoor_kitchen_appliances_camping_yanko_design_hero.jpeg"
+        "https://www.yankodesign.com/images/design_news/2018/12/a-range-hood-that-doesnt-totally-suck/fineloof_kitchen_hood_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/04/26/exploration_tools_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/10/pop-culture-inspired-footwear/top_5_pop_culture_inspired_footwear_yanko_design_hero.webp"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -882,6 +883,19 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "id": "27fcc1bd5c317230",
+      "title": "5 Products to Give the Living Room a Fall Reset",
+      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-18T13:44:03+00:00"
     },
     {
       "id": "c406e4f1782c4a00",
@@ -1999,6 +2013,19 @@
       "published": "2026-08-11T13:54:01+00:00"
     },
     {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
+    },
+    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -2233,6 +2260,19 @@
       "published": "2026-08-07T16:06:04+00:00"
     },
     {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -2274,8 +2314,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2464,9 +2504,22 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "48a0a15730ecb6e8",
@@ -2982,6 +3035,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "89a3789addc1f0e5",
