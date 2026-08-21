@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-21T08:53:27.870029+00:00",
-  "generated_at_human": "2026-08-21 08:53 UTC",
-  "total_items": 271,
+  "generated_at": "2026-08-21T09:48:26.166198+00:00",
+  "generated_at_human": "2026-08-21 09:48 UTC",
+  "total_items": 273,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -18,6 +18,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -61,9 +62,42 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 61,
+  "sources_count": 56,
+  "multi_photo_items": 62,
   "items": [
+    {
+      "id": "2ffdb9afd6147f61",
+      "title": "A new residency from Belmond and Loewe brings artists to the Mallorcan town of Deià",
+      "summary": "Three former finalists of the Loewe Foundation Craft Prize will take up residence at La Residencia, A Belmond Hotel, Belmond’s art-filled retreat on the Spanish island",
+      "url": "https://www.wallpaper.com/fashion-beauty/loewe-foundation-craft-prize-la-residencia-belmond-hotel-mallorca",
+      "image": "https://cdn.mos.cms.futurecdn.net/gRaTHUdau6BNQvAmiEwrT7.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/gRaTHUdau6BNQvAmiEwrT7.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-08-21T09:45:38+00:00"
+    },
+    {
+      "id": "9c41f8829e1c3c89",
+      "title": "Living Room Seating Doesn’t Have to Start and End With a Sofa",
+      "summary": "Sofa often takes the largest share of a living room, but it does not need to provide every type of seat. Chaise lounges create space to stretch out, benches add seats without another tall back, ottomans extend armchairs, while paired lounge chairs can form a conversation area away from the main seating group. Seat shape... The post Living Room Seating Doesn’t Have to Start and End With a Sofa appeared first on Homedit .",
+      "url": "https://www.homedit.com/living-room-seating-doesnt-have-to-start-and-end-with-a-sofa/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Living-Room-Seating-Doesnt-Have-to-Start-and-End-With-a-Sofa.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Living-Room-Seating-Doesnt-Have-to-Start-and-End-With-a-Sofa.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Choose-a-chair-with-an-open-frame.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Add-a-bench-when-another-full-chair-would-take-up-too-much-space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Use-a-daybed-where-a-sofa-back-would-block-the-room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Let-an-oversized-chair-hold-a-corner-on-its-own.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Give-a-chaise-its-own-reading-corner.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-21T09:04:35+00:00"
+    },
     {
       "id": "33ff9ff979145f5c",
       "title": "She Turned a 4×4 Wood Post Into a Back-to-School Crayon Organizer",
@@ -74,9 +108,9 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Turned-a-4x4-Wood-Post-Into-a-Back-to-School-Crayon-Organizer.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Long-Shape-Keeps-Supplies-in-One-Row.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Finished-Organizer-Holds-More-Than-Crayons.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Your-Living-Room-Can-Have-All-the-Right-Furniture-and-Still-Look-Unfinished-These-8-Details-Pull-It-Together.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Finish-Extends-Around-Each-Opening.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Lacquer-Seals-the-Exposed-Wood.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Lacquer-Seals-the-Exposed-Wood.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Crayons-Stay-Visible-From-Above.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -342,9 +376,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/sonnet_chair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/12/a-range-hood-that-doesnt-totally-suck/fineloof_kitchen_hood_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/04/26/exploration_tools_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/pop-culture-inspired-footwear/top_5_pop_culture_inspired_footwear_yanko_design_hero.webp"
+        "https://www.yankodesign.com/images/design_news/2021/10/auto-draft/a-pot_self_watering_planter_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/01/auto-draft/loreal_uv_sense_3.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/beyond-color-how-pitakas-sunset-collection-is-shaping-the-future-of-emotional-design/PITAKA_sunset_collection_of_phone_case_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -370,12 +404,7 @@
       "url": "https://www.homedit.com/couple-turned-one-blank-tv-wall-into-custom-built-ins/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Couple-Turned-One-Blank-TV-Wall-Into-Custom-Built-Ins.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Couple-Turned-One-Blank-TV-Wall-Into-Custom-Built-Ins.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Painted-Doors-Completed-the-Built-In-Look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Wood-Shelves-Broke-Up-the-White-Cabinetry.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Cabinet-Construction-Focused-on-Storage.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Paper-Sketch-Established-the-Entire-Layout.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Your-Living-Room-Can-Have-All-the-Right-Furniture-and-Still-Look-Unfinished-These-8-Details-Pull-It-Together.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Couple-Turned-One-Blank-TV-Wall-Into-Custom-Built-Ins.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -664,9 +693,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/someone-finally-bent-a-desk-to-put-your-monitor-higher-and-hands-low/hollow-desk-concept-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/04/311502/03_IKEAStudio_IKEAAppleSPACE10_ARApp.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/a-creative-and-adjustable-hanger-inspired-by-music-and-functionality/Dot_hanger_modular_06.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/12/auto-draft/narl_chair_06.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/08/these-contemporary-chairs-turn-sustainability-and-stillness-into-design/Cutzen_chair_furniture_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/10/sole-sculptural-bench/sole_sculptural_bench_yanko_design_06.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/06/suzak_cover.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2463,7 +2492,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
