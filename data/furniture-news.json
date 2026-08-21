@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-21T11:35:54.585581+00:00",
-  "generated_at_human": "2026-08-21 11:35 UTC",
-  "total_items": 263,
+  "generated_at": "2026-08-21T13:05:36.465369+00:00",
+  "generated_at_human": "2026-08-21 13:05 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -52,6 +53,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -60,9 +62,71 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 56,
   "multi_photo_items": 61,
   "items": [
+    {
+      "id": "182bd58bf9be94a3",
+      "title": "A Slick, Minimalist Height-Adjustable Side Table",
+      "summary": "This elegant Hopper side table is by Swedish designer Mattias Stenberg . It features an offset leg, as it's meant to be cantilevered over a chair or sofa. The circular black things you see on the feet aren't wheels, but low-friction glides that allow you to smoothly move the table or pivot it into position. On the top you see this flush button. That allows you to change the table's height, thanks to a lift mechanism concealed within the leg. The table is available with tops made of glass, wood or powder-coated metal. It's in production by Swedish furniture brand Materia .",
+      "url": "https://www.core77.com/posts/145139/A-Slick-Minimalist-Height-Adjustable-Side-Table",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846730_lead_400_145139_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846730_lead_400_145139_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-21T13:00:00+00:00"
+    },
+    {
+      "id": "d9933f861ef967bb",
+      "title": "Skip the Sconces, These Bathroom Mirrors Put the Light Behind the Glass Instead",
+      "summary": "Bathroom mirrors used to have one job, while sconces or vanity lights handled another. These designs collapse those two elements into one, hiding the light source behind the glass and letting it escape around the edges. The result changes more than the fixture count. Mirrors appear to float off the wall, dark finishes gain sharp... The post Skip the Sconces, These Bathroom Mirrors Put the Light Behind the Glass Instead appeared first on Homedit .",
+      "url": "https://www.homedit.com/skip-the-sconces-these-bathroom-mirrors-put-the-light-behind-the-glass-instead/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Skip-the-Sconces-These-Bathroom-Mirrors-Put-the-Light-Behind-the-Glass-Instead.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Skip-the-Sconces-These-Bathroom-Mirrors-Put-the-Light-Behind-the-Glass-Instead.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Narrow-Light-Strip-Breaks-Up-a-Dark-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Stone-Counter-and-Mirror-Share-the-Same-Width.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Sloped-Laundry-Nook-Lost-Its-Wire-Shelf-and-Gained-Built-In-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Living-Room-Seating-Doesnt-Have-to-Start-and-End-With-a-Sofa.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Turned-a-4x4-Wood-Post-Into-a-Back-to-School-Crayon-Organizer.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-21T12:13:23+00:00"
+    },
+    {
+      "id": "e071b4dbe79157b6",
+      "title": "Your knives keep going dull no matter how often you sharpen them, it’s one thing almost every kitchen gets wrong",
+      "summary": "You buy a nice chef’s knife. Right out of the box, it slides through a tomato like warm butter. Two weeks later, you’re pressing down hard and the skin is squishing out from under the blade instead of getting cut. So you sharpen it. Feels great for a couple of days. Then it’s dull again. […] The post Your knives keep going dull no matter how often you sharpen them, it’s one thing almost every kitchen gets wrong appeared first on Trendir .",
+      "url": "https://www.trendir.com/your-knives-keep-going-dull-no-matter-how-often-you-sharpen-them-its-one-thing-almost-every-kitchen-gets-wrong/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/cozy-family-kitchen-cutting-board-fresh-vegetables.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/cozy-family-kitchen-cutting-board-fresh-vegetables.png",
+        "https://cdn.trendir.com/wp-content/uploads/2026/07/black-soot-cloud-above-single-wick-candle.png",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/stained-gray-blazer-hanging-in-garment-bag.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/07/black-power-cord-plugged-into-wall-outlet.png",
+        "https://cdn.trendir.com/wp-content/uploads/2016/07/Strada-Premium-Wall-Unit.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/French-Country-Sink-Hall.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-08-21T12:00:00+00:00"
+    },
+    {
+      "id": "7f6358836394f9ad",
+      "title": "This Kitchen Was Anything but Functional Until It Got a Light, Modern Redo",
+      "summary": "Sometimes you’ve gotta go big when it comes to a renovation, and that doesn’t always mean in terms of scale. Often, it’s about the scope of the work and taking a chance on layout tweaks and storage changes to find what works for you. That was the case for designer Anita Yokota and her late ’90s cook space, which she shares with her husband, Travis, and three daughters. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/california-casual-kitchen-ba-37686096?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/style/2021-02/Anita%20Yokoto%20B%2BA/white-Kitchen-before",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/style/2021-02/Anita%20Yokoto%20B%2BA/white-Kitchen-before"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-21T12:00:00+00:00"
+    },
     {
       "id": "29d5ca408d8a5adc",
       "title": "This Sloped Laundry Nook Lost Its Wire Shelf and Gained Built-In Storage",
@@ -71,11 +135,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Sloped-Laundry-Nook-Lost-Its-Wire-Shelf-and-Gained-Built-In-Storage.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Sloped-Laundry-Nook-Lost-Its-Wire-Shelf-and-Gained-Built-In-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Skip-the-Sconces-These-Bathroom-Mirrors-Put-the-Light-Behind-the-Glass-Instead.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Sloped-Space-Now-Holds-Two-Types-of-Storage.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/WASH-DRY-Marks-the-Entrance.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Black-Penny-Tiles-Formed-Letters-Inside-the-White-Field.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Brass-Latch-Replaced-Standard-Cabinet-Pulls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Cabinet-Fits-Where-Ceiling-Height-Allows-It.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Brass-Latch-Replaced-Standard-Cabinet-Pulls.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -121,12 +185,7 @@
       "url": "https://www.homedit.com/she-turned-a-4x4-wood-post-into-a-back-to-school-crayon-organizer/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Turned-a-4x4-Wood-Post-Into-a-Back-to-School-Crayon-Organizer.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Turned-a-4x4-Wood-Post-Into-a-Back-to-School-Crayon-Organizer.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Long-Shape-Keeps-Supplies-in-One-Row.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Finished-Organizer-Holds-More-Than-Crayons.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Finish-Extends-Around-Each-Opening.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Lacquer-Seals-the-Exposed-Wood.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Crayons-Stay-Visible-From-Above.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Turned-a-4x4-Wood-Post-Into-a-Back-to-School-Crayon-Organizer.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -325,9 +384,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/this-coffee-table-turns-into-abstract-sculpture-by-loosening-2-knobs/interactive-segmented-tables-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/09/i-sat-in-the-6000-robotic-massage-chair-at-ifa-2024-a-luxurious-hands-on-with-the-bodyfriend-quantum/bodyfriend_quantum_robot_massage_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/08/30/hip_hop.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/10/furniture-designs-of-oct/5_best_furniture_designs_october_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/fels-stool/fels_stool_out_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/05/air-purifier-concept-adds-lighting-element-to-bring-better-ambience-to-your-space/airglow-01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -577,19 +636,6 @@
       "published": "2026-08-20T06:59:46+00:00"
     },
     {
-      "id": "55b9bead53481a4a",
-      "title": "Think This Is Just a Wall of Cabinets? Look What This Small Kitchen Fits Behind the Doors",
-      "summary": "Small apartments often force several household functions into one room. This kitchen treats that problem as a cabinet-design challenge, fitting cooking, washing, food storage, cleanup, and extra work space across one compact wall. Closed wood fronts hide much of the setup. What first looks like a bank of tall cabinets starts to make sense once... The post Think This Is Just a Wall of Cabinets? Look What This Small Kitchen Fits Behind the Doors appeared first on Homedit .",
-      "url": "https://www.homedit.com/think-this-is-just-a-wall-of-cabinets-look-what-this-small-kitchen-fits-behind-the-doors/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Think-This-Is-Just-a-Wall-of-Cabinets-Look-What-This-Small-Kitchen-Fits-Behind-the-Doors.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Think-This-Is-Just-a-Wall-of-Cabinets-Look-What-This-Small-Kitchen-Fits-Behind-the-Doors.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-20T06:13:38+00:00"
-    },
-    {
       "id": "d8544ad214e8df6d",
       "title": "Cet hôtel familial sur la presqu’île de Giens a été métamorphosé sous l’impulsion d’un architecte d’intérieur de renom",
       "summary": "Adresse familiale et confidentielle située sur la presqu’île de Giens, l’hôtel Le Provençal se dévoile après une métamorphose orchestrée par l’architecte d’intérieur Rodolphe Parente. Une transformation respectueuse, portée par la nouvelle génération de propriétaires, déterminée à faire vivre et perdurer ce précieux héritage.",
@@ -656,19 +702,6 @@
       "published": "2026-08-19T21:41:45+00:00"
     },
     {
-      "id": "ac3e2a78aa53e0b4",
-      "title": "Skip The Cleaning Vinegar: A Safer Way To Clean Wood Floors Without Damage",
-      "summary": "Cleaning vinegar can damage the finish on hardwood floors. Plain water, or water with dish soap or a specialized product, is the safer way to clean wood floors.",
-      "url": "https://www.hunker.com/2238025/cleaning-vinegar-alternative-wood-floors-dish-soap/",
-      "image": "https://www.hunker.com/img/gallery/skip-the-cleaning-vinegar-a-safer-way-to-clean-wood-floors-without-damage/l-intro-1786970663.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-the-cleaning-vinegar-a-safer-way-to-clean-wood-floors-without-damage/l-intro-1786970663.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-19T20:00:00+00:00"
-    },
-    {
       "id": "8e704b8fce368c3f",
       "title": "The Growing Backlash Against Flock Surveillance Cameras, Explained",
       "summary": "Flock cameras are on people's minds lately, and not in a good way. The post The Growing Backlash Against Flock Surveillance Cameras, Explained appeared first on Family Handyman .",
@@ -704,9 +737,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/someone-finally-bent-a-desk-to-put-your-monitor-higher-and-hands-low/hollow-desk-concept-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/these-contemporary-chairs-turn-sustainability-and-stillness-into-design/Cutzen_chair_furniture_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/10/sole-sculptural-bench/sole_sculptural_bench_yanko_design_06.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/suzak_cover.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/02/11/dome_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/code_reel_table_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/08/yd_chair_designs_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -758,12 +791,7 @@
       "url": "https://www.trendir.com/almost-everyone-puts-a-rug-by-the-kitchen-sink-and-its-quietly-damaging-the-floor-a-3-second-fix-stops-it/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/sage-green-mat-water-ring-wood-floor.jpg",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/sage-green-mat-water-ring-wood-floor.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/05/Modern-Black-Japanese-Soaking-Tub.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/02/Upholstered-Platform-Bed-All-Modern.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/06/That-House-by-Austin-Maynard.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/white-sneakers-by-door-with-wet-footprints.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/trends/2015/01/11/unusual-home-design-abstract-tile-design.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/sage-green-mat-water-ring-wood-floor.jpg"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -923,6 +951,19 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-18T14:00:00+00:00"
+    },
+    {
+      "id": "27fcc1bd5c317230",
+      "title": "5 Products to Give the Living Room a Fall Reset",
+      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-18T13:44:03+00:00"
     },
     {
       "id": "c406e4f1782c4a00",
@@ -1578,19 +1619,6 @@
       "published": "2026-08-14T16:03:06+00:00"
     },
     {
-      "id": "76eec2a471bc132d",
-      "title": "Core77 Weekly Roundup (8-10-26 to 8-14-26)",
-      "summary": "Here's what we looked at this week: The MegCell Pulse: A 3D-printed guitar-playing contraption. Another low-tech disappearing-door solution from Japan. Sole : Partially 3D-printed DIY footwear. Design help needed: An easier, but uglier, automatic gate opener. Konny's Dual Support Hip Seat Carrier : A more ergonomic baby-carrying sling. Industrial designer Gudmundur Ludvik re-thinks the folding chair. Form follows function: The Godox C100 is a new camera type that's mostly viewfinder, no screen. The SkyNomad N90 Max , Xiaomi's shocking $45,000 luxury hybrid SUV. Low-tech toy design: This…",
-      "url": "https://www.core77.com/posts/145023/Core77-Weekly-Roundup-8-10-26-to-8-14-26",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1845211_lead_400_145023_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1845211_lead_400_145023_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-08-14T15:00:00+00:00"
-    },
-    {
       "id": "c0fafee2c8ca7f9a",
       "title": "Inside a North Carolina Lake House That Offers a Striking Rebuttal to the All-White Kitchen",
       "summary": "Architect Jeffrey Dungan and interior designer Sean Anderson embrace earthy hues, natural textures, and sweeping water views to create a warm and inviting family retreat.",
@@ -1686,19 +1714,6 @@
       "source": "Lost Art Press",
       "source_url": "https://blog.lostartpress.com",
       "published": "2026-08-13T19:34:00+00:00"
-    },
-    {
-      "id": "741a48cd86fab113",
-      "title": "The Stutey Lathe: A Different Way to Think About Woodturning",
-      "summary": "Woodworking is full of specialties. There’s carving, scroll saw work, marquetry, chairmaking, turning, and countless others. The deeper you dive into any one of those disciplines, the more you discover... Source",
-      "url": "https://www.popularwoodworking.com/tools/the-stutey-lathe-a-different-way-to-think-about-woodturning/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/11103748/stutey-lathe.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/11103748/stutey-lathe.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-13T15:31:56+00:00"
     },
     {
       "id": "fdbb63c9f5e06ef1",
@@ -1914,6 +1929,19 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-08-11T13:54:01+00:00"
+    },
+    {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
     },
     {
       "id": "32f62694ecfe87ad",
@@ -2150,6 +2178,19 @@
       "published": "2026-08-07T16:06:04+00:00"
     },
     {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -2190,9 +2231,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2386,6 +2427,19 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
+    },
+    {
       "id": "48a0a15730ecb6e8",
       "title": "Forget the Matching Sofa Set and Let an Accent Chair Steal the Show",
       "summary": "Accent chairs no longer serve as the last piece added after the sofa. Many living rooms use one to introduce a different color, material, texture, or silhouette, giving the seating area a focal point without replacing the main furniture. Some stand out through bold upholstery, others through sculptural forms, exposed wood frames, or patterned fabric.... The post Forget the Matching Sofa Set and Let an Accent Chair Steal the Show appeared first on Homedit .",
@@ -2464,7 +2518,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2886,6 +2940,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
@@ -3410,7 +3477,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
