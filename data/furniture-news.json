@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-21T20:36:03.951549+00:00",
-  "generated_at_human": "2026-08-21 20:36 UTC",
-  "total_items": 264,
+  "generated_at": "2026-08-21T21:34:21.285529+00:00",
+  "generated_at_human": "2026-08-21 21:34 UTC",
+  "total_items": 265,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -21,6 +21,7 @@
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
+    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -54,15 +55,29 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 56,
   "multi_photo_items": 60,
   "items": [
+    {
+      "id": "a984245abf2d69fd",
+      "title": "Bevel Is Set to Become the Tallest Mass Timber Office Building in North America",
+      "summary": "Bevel Is Set to Become the Tallest Mass Timber Office Building in North America When Waugh Thistleton Architects and Mithun sat down to design Bevel, the brief was as clear as it was ambitious: build an office tower in...",
+      "url": "https://www.yankodesign.com/2026/08/21/bevel-is-set-to-become-the-tallest-mass-timber-office-building-in-north-america/?utm_source=rss&utm_medium=rss&utm_campaign=bevel-is-set-to-become-the-tallest-mass-timber-office-building-in-north-america",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/bevel/bevel_yanko_design_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/bevel/bevel_yanko_design_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-21T21:30:41+00:00"
+    },
     {
       "id": "bd83b1bc230441a8",
       "title": "minqa atelier steps charred timber refuge down a steep slope in ecuador’s chocó forest",
@@ -1094,7 +1109,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -1196,9 +1211,9 @@
       "title": "Hotel Chalet Mirabell Makes the South Tyrolean Landscape the Main Attraction",
       "summary": "With a 64,000-square-foot spa, tiered timber architecture, and sweeping alpine views, the Italian retreat is designed around finding room to slow down",
       "url": "https://design-milk.com/hotel-chalet-mirabell-south-tyrol-italy/",
-      "image": "https://design-milk.com/images/2026/08/Chalet-Mirabell-9.jpg",
+      "image": "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg",
       "images": [
-        "https://design-milk.com/images/2026/08/Chalet-Mirabell-9.jpg",
+        "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg",
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-8.jpg",
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-5.jpg",
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-2.jpg",
