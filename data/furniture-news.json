@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-22T11:30:58.148532+00:00",
-  "generated_at_human": "2026-08-22 11:30 UTC",
-  "total_items": 262,
+  "generated_at": "2026-08-22T12:56:15.706117+00:00",
+  "generated_at_human": "2026-08-22 12:56 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -55,6 +56,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -63,7 +65,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
+  "sources_count": 59,
   "multi_photo_items": 60,
   "items": [
     {
@@ -74,11 +76,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=85977",
-        "https://i.archi.ru/i/1262/94938.jpg?r=72290",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=45241",
-        "https://i.archi.ru/news/quadratic/459160.png?r=14680",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=65963"
+        "https://i.archi.ru/i/1262/310555.jpg?r=90718",
+        "https://i.archi.ru/i/1262/94938.jpg?r=61453",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=80146",
+        "https://i.archi.ru/news/quadratic/459160.png?r=96743",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=30919"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -92,7 +94,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=68089",
+        "https://i.archi.ru/i/1262/305304.jpg?r=13232",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -127,6 +129,50 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "1edd0e5fefa0f5c1",
+      "title": "Joy in Creativity: Tan France’s Castlery collab contract includes ‘one of everything’",
+      "summary": "The design icon shares how creativity, connection and family bring him joy, and what to expect from his new furniture range. The post Joy in Creativity: Tan France’s Castlery collab contract includes ‘one of everything’ appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/lifestyle/joy-in-creativity-tan-france/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/08/tan-france-castlery-furniture-range-1-better-homes-and-gardens-joy-in-creativity-series-editor-megan-osborne-6a898b0a61de6.jpg?format=auto&v=1787398947",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/08/tan-france-castlery-furniture-range-1-better-homes-and-gardens-joy-in-creativity-series-editor-megan-osborne-6a898b0a61de6.jpg?format=auto&v=1787398947"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-22T12:42:06+00:00"
+    },
+    {
+      "id": "0b1cf51609c918d9",
+      "title": "They Took an Old Wood Dresser From Brown to White With New Black Hardware",
+      "summary": "Dark brown wood, drop pulls, and round knobs covered a dresser that still had plenty of usable storage. The finish made the piece look tied to another era, but the drawer layout, wide top, and curved base gave the owner little reason to replace the furniture itself. Reddit user u/MarcGunt treated the dresser as a... The post They Took an Old Wood Dresser From Brown to White With New Black Hardware appeared first on Homedit .",
+      "url": "https://www.homedit.com/they-took-an-old-wood-dresser-from-brown-to-white-with-new-black-hardware/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/They-Took-an-Old-Wood-Dresser-From-Brown-to-White-With-New-Black-Hardware.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/They-Took-an-Old-Wood-Dresser-From-Brown-to-White-With-New-Black-Hardware.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Straight-Black-Pulls-Replaced-the-Curved-Hardware.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/New-Drawer-Guides-Addressed-Wear-Inside-the-Dresser.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Sanding-Blocks-Prepared-the-Existing-Finish.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Eleven-Drawers-Return-to-the-Same-Frame.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Black-Hardware-Creates-the-Main-Contrast.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-22T12:19:16+00:00"
+    },
+    {
+      "id": "4d00bc6eeb5b26d4",
+      "title": "10 Best Tech Gadgets for Men In 2026 Who Think Their Smartphone Has Gotten Too Big for Its Boots",
+      "summary": "10 Best Tech Gadgets for Men In 2026 Who Think Their Smartphone Has Gotten Too Big for Its Boots The smartphone got away from us. What started as a communication tool is now an alarm clock, a boarding pass, a camera, a bank, a...",
+      "url": "https://www.yankodesign.com/2026/08/22/10-best-tech-gadgets-for-men-in-2026-who-think-their-smartphone-has-gotten-too-big-for-its-boots/?utm_source=rss&utm_medium=rss&utm_campaign=10-best-tech-gadgets-for-men-in-2026-who-think-their-smartphone-has-gotten-too-big-for-its-boots",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/gadgets-for-men-who-think-their-smartphone-has-gotten-too-big-for-its-boots/10_best_gadgets_men_smartphone_yanko_design_hero.webp",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/gadgets-for-men-who-think-their-smartphone-has-gotten-too-big-for-its-boots/10_best_gadgets_men_smartphone_yanko_design_hero.webp"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-22T11:40:41+00:00"
     },
     {
       "id": "234b319042ea4599",
@@ -169,11 +215,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-the-Wire-Pantry-Shelves-and-Built-a-Counter-Into-the-Middle.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-the-Wire-Pantry-Shelves-and-Built-a-Counter-Into-the-Middle.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Skip-the-Sconces-These-Bathroom-Mirrors-Put-the-Light-Behind-the-Glass-Instead.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Power-Is-Moving-Above-the-Walnut-Counter.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Shelf-Spacing-Was-Set-Around-What-the-Owner-Stores.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Walnut-Countertop-Breaks-the-Storage-Into-Two-Levels.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Solid-Shelves-Were-Built-Around-the-Angled-Walls.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Solid-Shelves-Were-Built-Around-the-Angled-Walls.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Wire-Racks-Filled-the-Pantry-Without-Giving-It-a-Work-Surface.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -201,12 +247,7 @@
       "url": "https://www.homedit.com/he-removed-the-wall-between-the-kitchen-and-living-room-but-kept-the-studs/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-the-Wall-Between-the-Kitchen-and-Living-Room-but-Kept-the-Studs.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-the-Wall-Between-the-Kitchen-and-Living-Room-but-Kept-the-Studs.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Timber-Posts-Mark-the-Old-Wall-Without-Closing-the-Rooms.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Small-Breakfast-Counter-Uses-the-Former-Empty-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Narrow-Cabinet-Ends-Hold-Bottles-Books-and-Cutting-Boards.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Structural-Studs-Became-Display-Shelves.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Skip-the-Sconces-These-Bathroom-Mirrors-Put-the-Light-Behind-the-Glass-Instead.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-the-Wall-Between-the-Kitchen-and-Living-Room-but-Kept-the-Studs.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -448,19 +489,6 @@
       "published": "2026-08-21T09:04:35+00:00"
     },
     {
-      "id": "33ff9ff979145f5c",
-      "title": "She Turned a 4×4 Wood Post Into a Back-to-School Crayon Organizer",
-      "summary": "Crayons and colored pencils need to stay within reach on a kids’ art table, but separate cups and bins can take up much of the surface meant for drawing. DIYer Emily Burmeister used a two-foot piece of 4×4 lumber to put the storage into one narrow strip of wood instead. Nine holes drilled about 3.5... The post She Turned a 4×4 Wood Post Into a Back-to-School Crayon Organizer appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-turned-a-4x4-wood-post-into-a-back-to-school-crayon-organizer/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Turned-a-4x4-Wood-Post-Into-a-Back-to-School-Crayon-Organizer.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Turned-a-4x4-Wood-Post-Into-a-Back-to-School-Crayon-Organizer.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-21T08:08:20+00:00"
-    },
-    {
       "id": "b5be37b176c369e5",
       "title": "ZHA proposes interconnected forest neighbourhoods for Baku Expo City masterplan",
       "summary": "Architecture studio ZHA has unveiled its masterplan for Baku Expo City in Azerbaijan, where overlapping stacked homes with green roofs will flank an extension to the city's exhibition centre. The 198-hectare-site in Baku will have residences ranging from one-bedroom flats to larger family homes. ZHA's masterplan also includes civic institutions and cultural venues, as well The post ZHA proposes interconnected forest neighbourhoods for Baku Expo City masterplan appeared first on Dezeen .",
@@ -625,9 +653,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/auto-draft/sipario_multifunctional_furniture_design_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/03/kidzilla-colorful-chair-can-transform-into-a-desk-and-an-activity-station/kidzilla-3.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/office-furniture/top_10_office_furniture_yanko_design_hero.jpeg"
+        "https://www.yankodesign.com/images/design_news/2022/04/low-wall-turns-a-simple-side-table-into-a-bookshelf/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/10/this-office-furniture-finally-makes-plant-care-effortless/plantable-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/08/burnt-cork-highlights-resiliency-in-eclectic-furniture-collection/3.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -656,9 +684,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/sonnet_chair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/titan-x-yanko-design-retrofuturism-challenge-announces-innovative-winning-designs/titan_yanko_design_retrofuturism_winners_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/auto-draft/mesh_organizer_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/03/30/nokia_nia_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/09/auto-draft/gamebaby_iphone_case_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/05/draft-tenniix/T_APEX_Tenniix_First_Vision_Based_Al_Tennis_Robot_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/07/interview-answers-from-design-interns-at-facebook-interview-2/131_1-_-Intern-interview-2-title-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1078,6 +1106,19 @@
       "published": "2026-08-18T14:00:00+00:00"
     },
     {
+      "id": "27fcc1bd5c317230",
+      "title": "5 Products to Give the Living Room a Fall Reset",
+      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-18T13:44:03+00:00"
+    },
+    {
       "id": "c406e4f1782c4a00",
       "title": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks",
       "summary": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks Most kitchen tech is designed by people who think about kitchens. Nicolas Reynard’s StudioChef KAI was designed by someone who has actually worked in one...",
@@ -1449,19 +1490,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-17T05:00:06+00:00"
-    },
-    {
-      "id": "0a9efc8e489b0ad5",
-      "title": "Here’s what to expect from My Kitchen Rules 2025",
-      "summary": "Will Manu and Colin be returning? The post Here’s what to expect from My Kitchen Rules 2025 appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/lifestyle/my-kitchen-rules-2025/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/08/mkr-judges-2-68ad214cdcb40.png?format=auto&v=1756176716",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/08/mkr-judges-2-68ad214cdcb40.png?format=auto&v=1756176716"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-08-17T04:05:27+00:00"
     },
     {
       "id": "bead82eb7aac1729",
@@ -1947,6 +1975,19 @@
       "published": "2026-08-11T13:54:01+00:00"
     },
     {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
+    },
+    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -2181,6 +2222,19 @@
       "published": "2026-08-07T16:06:04+00:00"
     },
     {
+      "id": "66ed4c9fafa3454b",
+      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
+      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-07T13:00:00+00:00"
+    },
+    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -2221,9 +2275,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2415,6 +2469,19 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "48a0a15730ecb6e8",
@@ -2891,6 +2958,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
