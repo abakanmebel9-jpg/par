@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-22T15:31:08.193188+00:00",
-  "generated_at_human": "2026-08-22 15:31 UTC",
-  "total_items": 267,
+  "generated_at": "2026-08-22T16:35:46.696068+00:00",
+  "generated_at_human": "2026-08-22 16:35 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,6 +20,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -64,8 +65,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 58,
-  "multi_photo_items": 59,
+  "sources_count": 59,
+  "multi_photo_items": 61,
   "items": [
     {
       "id": "215cdbb0eb5e623a",
@@ -75,11 +76,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=85571",
-        "https://i.archi.ru/i/1262/94938.jpg?r=60945",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=20936",
-        "https://i.archi.ru/news/quadratic/459160.png?r=75823",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=94702"
+        "https://i.archi.ru/i/1262/310555.jpg?r=78915",
+        "https://i.archi.ru/i/1262/94938.jpg?r=7691",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=75657",
+        "https://i.archi.ru/news/quadratic/459160.png?r=80643",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=92063"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -93,7 +94,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=16742",
+        "https://i.archi.ru/i/1262/305304.jpg?r=91463",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -128,6 +129,36 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "369115ddb8774468",
+      "title": "Purple Vs. Blue Painter's Tape: What's The Difference?",
+      "summary": "Whether you're painting baseboards, trim, wallpaper, or cabinets, these tasks require different tape. Here's how to determine whether you need blue or purple.",
+      "url": "https://www.hunker.com/2239792/purple-vs-blue-painters-tape-whats-the-difference/",
+      "image": "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/l-intro-1787135012.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/l-intro-1787135012.jpg",
+        "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/intro-1787135012.jpg",
+        "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/when-to-use-purple-or-blue-painters-tape-1787135013.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-22T16:30:00+00:00"
+    },
+    {
+      "id": "2e73fce270e080e4",
+      "title": "The Nostalgic Household Staple We Want Back In The Kitchen",
+      "summary": "More versatile than most vintage small appliances, this '90s kitchen staple deserves a spot on any counter. Learn what this retro item can do and how to get it.",
+      "url": "https://www.hunker.com/2241602/nostalgic-household-staple-clark-snakmaster/",
+      "image": "https://www.hunker.com/img/gallery/nostalgic-household-staple-clark-snakmaster/l-intro-1787326309.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/nostalgic-household-staple-clark-snakmaster/l-intro-1787326309.jpg",
+        "https://www.hunker.com/img/gallery/nostalgic-household-staple-clark-snakmaster/intro-1787326309.jpg",
+        "https://www.hunker.com/img/gallery/nostalgic-household-staple-clark-snakmaster/using-the-clark-snakmaster-and-how-to-find-one-today-1787326310.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-22T15:30:00+00:00"
     },
     {
       "id": "2cb78a009a89026c",
@@ -718,19 +749,6 @@
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
-      "published": "2026-08-20T12:00:00+00:00"
-    },
-    {
-      "id": "8a2538a2e0e6ad7c",
-      "title": "A Cramped Galley Kitchen Had One Problem — They Completely Opened It Up",
-      "summary": "Sometimes inspiration strikes where you’d least expect it — and closer to home than you’d imagine. For homeowners Sean and Brian, that couldn’t be more true: All it took was viewing their friend’s renovated, open kitchen — a friend who just happened to live in the same building. That layout showed them what they were missing, namely a space that would make entertaining so much more enjoyable. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/dark-cramped-galley-kitchen-ba-37686092?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/style/2022-01/Before%20and%20After/Murrary-Hill-kitchen-before-2",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/style/2022-01/Before%20and%20After/Murrary-Hill-kitchen-before-2"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-08-20T12:00:00+00:00"
     },
     {
@@ -2261,7 +2279,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2450,7 +2468,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
