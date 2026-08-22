@@ -1,11 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-22T08:42:18.219215+00:00",
-  "generated_at_human": "2026-08-22 08:42 UTC",
-  "total_items": 264,
+  "generated_at": "2026-08-22T09:36:23.284881+00:00",
+  "generated_at_human": "2026-08-22 09:36 UTC",
+  "total_items": 267,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -63,9 +65,71 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 59,
+  "sources_count": 59,
+  "multi_photo_items": 61,
   "items": [
+    {
+      "id": "215cdbb0eb5e623a",
+      "title": "Мягкая пластика нового просвещения",
+      "summary": "Школу, которая появится в новых высотных кварталах «Сет» и «Веер», вполне справедливо можно назвать доминантой будущего района. Проект разработали архитекторы образовательной среды из бюро Имаго, а фасады выбирали по конкурсу. Его выиграло бюро GAFA, предложив равномерную сетку из объемных модулей, которые создают любопытный эффект «мягкой» архитектуры. Образность такого решения близка детям разного возраста и подходит статусу образовательного комплекса – после завершения строительства его передадут рейтинговой школе № 1329.",
+      "url": "https://archi.ru/russia/102449/myagkaya-plastika-novogo-prosvescheniya",
+      "image": "https://i.archi.ru/i/1262/496015.png",
+      "images": [
+        "https://i.archi.ru/i/1262/496015.png",
+        "https://i.archi.ru/i/1262/310555.jpg?r=60035",
+        "https://i.archi.ru/i/1262/94938.jpg?r=56337",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=14846",
+        "https://i.archi.ru/news/quadratic/459160.png?r=18438",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=3456"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "458d149e05d94a59",
+      "title": "Добро пожаловать в мультфильм!",
+      "summary": "Студия ZARDECO с легкостью демонстрирует свой широкий креативный диапазон в интерьере ивент-пространства ONE TABLE art.studio, в котором с первого взгляда узнается источник вдохновения – знаменитый советский мультфильм «Алиса в Стране чудес».",
+      "url": "https://archi.ru/russia/102606/dobro-pozhalovat-v-multfilm",
+      "image": "https://i.archi.ru/i/1262/502742.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/502742.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=49810",
+        "https://i.archi.ru/i/1262/511650.jpg",
+        "https://i.archi.ru/i/1262/511653.jpg",
+        "https://i.archi.ru/i/1262/511651.jpg",
+        "https://i.archi.ru/i/1262/511652.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "55ca951894a7681f",
+      "title": "LVL-брус в интерьере: конструкционный материал как часть дизайна",
+      "summary": "LVL-брус чаще воспринимают как материал для несущих конструкций большепролетных сооружений: межэтажных перекрытий, стропильных систем, трехшарнирных рам и других инженерных узлов. Однако область его применения включает и декоративные решения, как производство мебели, дверей, лестниц, витражей. Архитектор может работать с одним материалом сразу и как с конструкцией, и как с эстетической частью интерьера.",
+      "url": "http://archi.ru/tech/news_102599.html",
+      "image": "https://i.archi.ru/i/1262/511386.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/511386.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "90486e2c7d6f850a",
+      "title": "Реинкарнация горы и лотоса",
+      "summary": "По проекту бюро АСАДОВ в Благовещенске построен новый пассажирский терминал Международного аэропорта имени Николая Муравьева-Амурского (Игнатьево), который свяжет российские горда с Китаем и Вьетнамом. Аэропорт получил сквозной дизайн: фасадное решение, интерьеры и благоустройство площади-парка основаны на треугольном модуле и единой цветовой гамме, которые отсылают к необычным явлениям амурского края – дальневосточному лотосу, «горящим горам» и космодрому «Восточный».",
+      "url": "https://archi.ru/russia/102104/reinkarnaciya-gory-i-lotosa",
+      "image": "https://i.archi.ru/i/1262/499156.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/499156.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "f1c083c7bbbe57f3",
       "title": "Modern bathroom ideas that turn your bathroom into the most precious room of the house",
@@ -127,9 +191,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-navy-chair-that-refused-to-be-replaced/swivel-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/09/playwood_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/02/10/affinity_chair.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/miniforms-nebula-collection-brings-cloud-like-comfort-to-your-home-having-you-relax-like-never-before/Nebulona_furniture_collection_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/07/lives-post-beam-workspace/lives_post_beam_workspace_yanko_design_02.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/06/this-circular-lever-makes-easy-assembly-furniture-much-easier-watch-the-video/05-Nine-Stories_Lever_Furniture-Design_IKEA_yankodesign_video.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/01/25/cirrus_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -266,7 +330,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Stone-Counter-and-Mirror-Share-the-Same-Width.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/This-1960s-Kitchen-Preserves-a-Cabinet-Design-You-Rarely-See-Today.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Sloped-Laundry-Nook-Lost-Its-Wire-Shelf-and-Gained-Built-In-Storage.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/He-Removed-the-Wall-Between-the-Kitchen-and-Living-Room-but-Kept-the-Studs.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/What-Happens-If-You-Mix-Baking-Soda-And-Vinegar-To-Clean-Grout.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -535,9 +599,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/this-modular-climbing-wall-system-comprised-of-felt-modules-and-a-magnetized-assembly-system-is-for-cats-of-all-sizes-and-ages/01_nyanpeki_lixil_catwall_furnituredesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/289584/06_ASSORTI_DesignerdotByungJunLee_ParentChildRefrigerator.png",
-        "https://www.yankodesign.com/images/design_news/2013/07/31/onda_00.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/10/auto-draft/sipario_multifunctional_furniture_design_03.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/03/kidzilla-colorful-chair-can-transform-into-a-desk-and-an-activity-station/kidzilla-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/03/office-furniture/top_10_office_furniture_yanko_design_hero.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -581,9 +645,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/sonnet_chair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/storyteller-overland-turn-4x4-grenadier-into-grand-bohemian-camper-with-pop-top-roof-and-off-grid-capabilities/Storyteller-Overland-Grand-Bohemian-13.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/chair-designs/top_10_chair_designs_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2012/04/27/fffff.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/04/titan-x-yanko-design-retrofuturism-challenge-announces-innovative-winning-designs/titan_yanko_design_retrofuturism_winners_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/08/auto-draft/mesh_organizer_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/03/30/nokia_nia_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1247,19 +1311,6 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
-    },
-    {
-      "id": "063c7922260a53e0",
-      "title": "The Best Wood Stains of 2026, Picks from Our Experts",
-      "summary": "For excellent coverage and color that won't fade from your next woodworking project, start with the best wood stain. Here, we cover shopping tips and recommendations. The post The Best Wood Stains of 2026, Picks from Our Experts appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/interior/best-wood-stains/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2019/10/Best_Wood_Stain_for_Furniture.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2019/10/Best_Wood_Stain_for_Furniture.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-17T12:03:00+00:00"
     },
     {
       "id": "68f1634dcaa3f390",
@@ -2485,7 +2536,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -3418,7 +3469,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
