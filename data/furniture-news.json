@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-22T10:34:47.596860+00:00",
-  "generated_at_human": "2026-08-22 10:34 UTC",
-  "total_items": 267,
+  "generated_at": "2026-08-22T11:30:58.148532+00:00",
+  "generated_at_human": "2026-08-22 11:30 UTC",
+  "total_items": 262,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -56,7 +55,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -65,7 +63,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 59,
+  "sources_count": 57,
   "multi_photo_items": 60,
   "items": [
     {
@@ -76,11 +74,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=60764",
-        "https://i.archi.ru/i/1262/94938.jpg?r=98755",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=48867",
-        "https://i.archi.ru/news/quadratic/459160.png?r=40557",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=841"
+        "https://i.archi.ru/i/1262/310555.jpg?r=85977",
+        "https://i.archi.ru/i/1262/94938.jpg?r=72290",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=45241",
+        "https://i.archi.ru/news/quadratic/459160.png?r=14680",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=65963"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -94,7 +92,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=74318",
+        "https://i.archi.ru/i/1262/305304.jpg?r=68089",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -129,6 +127,39 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "234b319042ea4599",
+      "title": "Bed Frames Don’t Have to Be Four Legs Under a Mattress, These Designs Prove It",
+      "summary": "Most beds still follow the same formula: mattress, rectangular frame, four legs, and two separate nightstands. These designs show how much can change when the frame becomes part of the bedroom plan instead of a support hidden beneath the mattress. Platforms extend past the mattress, upholstered bases replace exposed legs, cabinetry surrounds the sleeping area,... The post Bed Frames Don’t Have to Be Four Legs Under a Mattress, These Designs Prove It appeared first on Homedit .",
+      "url": "https://www.homedit.com/bed-frames-dont-have-to-be-four-legs-under-a-mattress-these-designs-prove-it/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Bed-Frames-Dont-Have-to-Be-Four-Legs-Under-a-Mattress-These-Designs-Prove-It.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Bed-Frames-Dont-Have-to-Be-Four-Legs-Under-a-Mattress-These-Designs-Prove-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Bedside-Shelf-Becomes-Part-of-the-Bed-Structure.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Cabinetry-Creates-a-Sleeping-Niche-Around-the-Mattress.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-the-Wire-Pantry-Shelves-and-Built-a-Counter-Into-the-Middle.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-1960s-Kitchen-Preserves-a-Cabinet-Design-You-Rarely-See-Today.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/What-Happens-If-You-Mix-Baking-Soda-And-Vinegar-To-Clean-Grout.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-22T11:05:56+00:00"
+    },
+    {
+      "id": "9e37e9ac644a88a6",
+      "title": "He Transforms Wood Pallets Into A Stunning Dining Table",
+      "summary": "If you're looking for some unique, affordable furniture, watch how a TikToker transforms the planks of an old palette into a sleek, stylish dining room table.",
+      "url": "https://www.hunker.com/2242057/wood-pallets-dining-table-skilled-diy/",
+      "image": "https://www.hunker.com/img/gallery/he-transforms-wood-pallets-into-a-stunning-dining-table/l-intro-1787337679.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/he-transforms-wood-pallets-into-a-stunning-dining-table/l-intro-1787337679.jpg",
+        "https://www.hunker.com/img/gallery/he-transforms-wood-pallets-into-a-stunning-dining-table/intro-1787337679.jpg",
+        "https://www.hunker.com/img/gallery/he-transforms-wood-pallets-into-a-stunning-dining-table/how-to-build-a-charming-wood-pallet-dining-table-1787337681.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-22T11:00:00+00:00"
     },
     {
       "id": "787960483359ac06",
@@ -188,12 +219,7 @@
       "url": "https://www.homedit.com/this-1960s-kitchen-preserves-a-cabinet-design-you-rarely-see-today/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/This-1960s-Kitchen-Preserves-a-Cabinet-Design-You-Rarely-See-Today.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-1960s-Kitchen-Preserves-a-Cabinet-Design-You-Rarely-See-Today.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Skip-the-Sconces-These-Bathroom-Mirrors-Put-the-Light-Behind-the-Glass-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Cabinets-Were-Built-Very-Differently-in-the-1960s-and-This-One-Survived.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Peninsula-Breaks-Away-From-the-Standard-Rectangle.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Upper-Cabinets-Extend-Into-the-Ceiling.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-the-Wire-Pantry-Shelves-and-Built-a-Counter-Into-the-Middle.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-1960s-Kitchen-Preserves-a-Cabinet-Design-You-Rarely-See-Today.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -209,9 +235,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-navy-chair-that-refused-to-be-replaced/swivel-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/lives-post-beam-workspace/lives_post_beam_workspace_yanko_design_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/this-circular-lever-makes-easy-assembly-furniture-much-easier-watch-the-video/05-Nine-Stories_Lever_Furniture-Design_IKEA_yankodesign_video.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/01/25/cirrus_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/09/aka/akami_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/21_ranchosansimeon_weberarquitectos_volcaniccabin.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/03/16/cromatti.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -448,19 +474,6 @@
       "published": "2026-08-21T08:00:45+00:00"
     },
     {
-      "id": "8d34c1a86110ac9c",
-      "title": "These Oak Kitchen Cabinets Look Completely Different With Cashmere Paint",
-      "summary": "Oak cabinets covered much of this kitchen, from the cabinets surrounding the cooktop to tall storage near the sink, paired with black granite worktops, gray floor tiles, and silver handles. Instead of removing the fitted cabinetry, the doors and frames were prepared for a spray finish as part of a makeover shared by Instagram creator... The post These Oak Kitchen Cabinets Look Completely Different With Cashmere Paint appeared first on Homedit .",
-      "url": "https://www.homedit.com/these-oak-kitchen-cabinets-look-completely-different-with-cashmere-paint/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Oak-Kitchen-Cabinets-Look-Completely-Different-in-Cashmere.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Oak-Kitchen-Cabinets-Look-Completely-Different-in-Cashmere.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-21T06:26:03+00:00"
-    },
-    {
       "id": "fe226914f769fd44",
       "title": "The best built-in, freestanding and portable barbecues to invest in ahead of summer",
       "summary": "Get your backyard ready for barbie weather The post The best built-in, freestanding and portable barbecues to invest in ahead of summer appeared first on Homes To Love .",
@@ -632,21 +645,6 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-08-20T20:26:16+00:00"
-    },
-    {
-      "id": "8ba2100f92158884",
-      "title": "This Familiar Kitchen Backsplash Has A Completely Different Look Now",
-      "summary": "This tile has long been a go-to for backsplashes. But today's options go well beyond the plain look, thanks to bolder colors, tactile finishes, and more.",
-      "url": "https://www.hunker.com/2239775/kitchen-backsplash-subway-tiles-modern-styles-look-different/",
-      "image": "https://www.hunker.com/img/gallery/this-familiar-kitchen-backsplash-has-a-completely-different-look-now/l-intro-1787131467.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/this-familiar-kitchen-backsplash-has-a-completely-different-look-now/l-intro-1787131467.jpg",
-        "https://www.hunker.com/img/gallery/this-familiar-kitchen-backsplash-has-a-completely-different-look-now/intro-1787131467.jpg",
-        "https://www.hunker.com/img/gallery/this-familiar-kitchen-backsplash-has-a-completely-different-look-now/experiment-with-pattern-size-and-finish-when-color-isnt-enough-1787131469.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-20T20:00:00+00:00"
     },
     {
       "id": "9a2adeb589c0acd0",
@@ -1078,19 +1076,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-18T14:00:00+00:00"
-    },
-    {
-      "id": "27fcc1bd5c317230",
-      "title": "5 Products to Give the Living Room a Fall Reset",
-      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-18T13:44:03+00:00"
     },
     {
       "id": "c406e4f1782c4a00",
@@ -1962,19 +1947,6 @@
       "published": "2026-08-11T13:54:01+00:00"
     },
     {
-      "id": "d1cf59c92812e34d",
-      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
-      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-11T12:57:55+00:00"
-    },
-    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -2207,19 +2179,6 @@
       "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-08-07T16:06:04+00:00"
-    },
-    {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
     },
     {
       "id": "b9e697853d048199",
@@ -2458,19 +2417,6 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
-    },
-    {
       "id": "48a0a15730ecb6e8",
       "title": "Forget the Matching Sofa Set and Let an Accent Chair Steal the Show",
       "summary": "Accent chairs no longer serve as the last piece added after the sofa. Many living rooms use one to introduce a different color, material, texture, or silhouette, giving the seating area a focal point without replacing the main furniture. Some stand out through bold upholstery, others through sculptural forms, exposed wood frames, or patterned fabric.... The post Forget the Matching Sofa Set and Let an Accent Chair Steal the Show appeared first on Homedit .",
@@ -2506,9 +2452,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2549,7 +2495,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2945,19 +2891,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
@@ -3482,7 +3415,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
