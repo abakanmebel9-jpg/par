@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-23T08:43:22.170389+00:00",
-  "generated_at_human": "2026-08-23 08:43 UTC",
-  "total_items": 270,
+  "generated_at": "2026-08-23T09:37:26.574951+00:00",
+  "generated_at_human": "2026-08-23 09:37 UTC",
+  "total_items": 263,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,7 +20,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -44,8 +43,6 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
-    "Popular Woodworking",
-    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -65,7 +62,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 59,
+  "sources_count": 56,
   "multi_photo_items": 60,
   "items": [
     {
@@ -76,11 +73,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=16745",
-        "https://i.archi.ru/i/1262/94938.jpg?r=65474",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=23829",
-        "https://i.archi.ru/news/quadratic/459160.png?r=40993",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=56652"
+        "https://i.archi.ru/i/1262/310555.jpg?r=11019",
+        "https://i.archi.ru/i/1262/94938.jpg?r=65170",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=37259",
+        "https://i.archi.ru/news/quadratic/459160.png?r=18312",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=85263"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -137,6 +134,21 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "c793d0e41d268d7a",
+      "title": "How do you build a universe fit for a Pedro Almodóvar film?",
+      "summary": "As Pedro Almodóvar's 'Bitter Christmas' hits the cinema at the end of the month, Wallpaper* speaks to art director Antxón Gómez, who has worked on 13 of Almodóvar’s films over the past three decades, on how the Spanish director's cinematic universe is crafted through furniture and design",
+      "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
+      "image": "https://cdn.mos.cms.futurecdn.net/3A4nKzKiBTJZ9v38QRVJs7.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/3A4nKzKiBTJZ9v38QRVJs7.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-08-23T09:00:00+00:00"
     },
     {
       "id": "e8d8f0fc782d0d62",
@@ -479,19 +491,6 @@
       "published": "2026-08-21T19:30:00+00:00"
     },
     {
-      "id": "feeb185dd9c20ab4",
-      "title": "The Splinter Report: August 21st",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at a rock bench. I was... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-august-21st/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/21125327/splinter-report-8-21.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/21125327/splinter-report-8-21.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-21T16:57:54+00:00"
-    },
-    {
       "id": "964f4b109b9ea559",
       "title": "Core77 Weekly Roundup (8-17-26 to 8-21-26)",
       "summary": "Here's what we looked at this week: In Holland, a self-powered river crossing for bikes. The Leitz Portable Desk Organizer for hot-desking. Sigma's minimalist unibody BF camera , by Iwasaki Design Studio. An \"aerial school bus\" system for kids who commute from gorge to canyon rim for school. CMPT's take on the apple box. Felice Varini's optical-illusion interiors. A clock that lives on the edge , by industrial designer HoHyeon Lim. A sectional hiking stick with tools in each section. The emergent low-effort way to share dimensions for plans. Toyomitsu's brilliant design for a specialty…",
@@ -583,9 +582,7 @@
       "url": "https://www.wallpaper.com/fashion-beauty/loewe-foundation-craft-prize-la-residencia-belmond-hotel-mallorca",
       "image": "https://cdn.mos.cms.futurecdn.net/gRaTHUdau6BNQvAmiEwrT7.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/gRaTHUdau6BNQvAmiEwrT7.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/gRaTHUdau6BNQvAmiEwrT7.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -741,9 +738,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/05/20/breezesavannahrockerodechair01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/08/scandinavian-inspired-storage-ds/minimal_scandinavian_inspired_shelving_units_08.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/02/swan/swan_04.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/06/mixcube-is-a-modular-office-solution-for-dynamic-workspaces/Sunon-Furniture-Mixcube-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/05/10-best-sustainable-seating-solutions/10_best_sustainable_seating_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/06/a-table-for-urban-nomads/city_table_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1116,19 +1113,6 @@
       "published": "2026-08-18T20:30:28+00:00"
     },
     {
-      "id": "e36d413093e6944b",
-      "title": "I Am My Own Limitations",
-      "summary": "Why I am not designing my own plans A craftsperson can intuitively build a chair, solving problems like comfort or build technique in their design. However, they then quickly become... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/i-am-my-own-limitations/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/20132634/edf9e64d-0dd5-4846-af11-d754699549b3_783x551.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/20132634/edf9e64d-0dd5-4846-af11-d754699549b3_783x551.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-18T15:23:05+00:00"
-    },
-    {
       "id": "9f8407ae3a21fc0c",
       "title": "A Clock That Lives on the Edge",
       "summary": "At first blush, this might seem an odd form for a desk clock. South Korean industrial designer HoHyeon Lim explains why he chose the shape: \"Inspired by how we use corners to support and lean objects, this desk object concentrates weight and function at the edge, becoming a subtle anchor in everyday space.\" Because the piece is hollow, the user can provide their ballast of choice to give it some heft. It's called the Edge Clock, and it appears to be a concept piece rather than something headed for production.",
@@ -1337,19 +1321,6 @@
       "source": "Yellowtrace",
       "source_url": "https://www.yellowtrace.com.au",
       "published": "2026-08-17T19:30:41+00:00"
-    },
-    {
-      "id": "469cfdc32d0929cf",
-      "title": "Custom Edge Protection, Part 1: Crafting a Riveted Leather Edge Scabbard",
-      "summary": "Every woodworker knows the importance of keeping edge tools sharp, but protecting those razor-sharp edges when tools are tucked into a drawer or tossed into a travel bag is just... Source",
-      "url": "https://www.popularwoodworking.com/projects/custom-edge-protection-part-1-crafting-a-riveted-leather-edge-scabbard/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-17T15:55:43+00:00"
     },
     {
       "id": "2fd69bb2d4228705",
@@ -1715,19 +1686,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-08-15T08:00:41+00:00"
-    },
-    {
-      "id": "697f89eb6636b2d1",
-      "title": "The Splinter Report: August 14th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week I went to Milwaukee Pipeline. Benefiting the casual... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-august-14th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/14093830/splinter-report-8-14.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/14093830/splinter-report-8-14.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-14T16:03:06+00:00"
     },
     {
       "id": "c0fafee2c8ca7f9a",
@@ -2141,19 +2099,6 @@
       "published": "2026-08-10T08:00:39+00:00"
     },
     {
-      "id": "a46ae58da4161e7b",
-      "title": "This Koala sofa solves 3 common styling dilemmas – and it’s $650 off for Afterpay Day",
-      "summary": "Our go-to Aussie brand just got a whole lot more affordable. The post This Koala sofa solves 3 common styling dilemmas – and it’s $650 off for Afterpay Day appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/shopping/koala-sales/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/02/koala-sofa-bed-sale-koala-mattress-sale-koala-sale-2026-69f99204af11a.png?format=auto&v=1777965213",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/02/koala-sofa-bed-sale-koala-mattress-sale-koala-sale-2026-69f99204af11a.png?format=auto&v=1777965213"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-10T02:21:16+00:00"
-    },
-    {
       "id": "26a7ee92b80ffdda",
       "title": "Lapis by Studio Eigen: A Padua Penthouse",
       "summary": "Lapis is a 2023 penthouse in Padua, Italy, designed by Studio Eigen as a complete reworking of the home’s internal arrangement. Separate living and kitchen areas give way to an open plan, where smoked glass and a full-height bookcase create visual filters between entry, sitting, and dining areas. Across the home, concealed storage and a […] The post Lapis by Studio Eigen: A Padua Penthouse first appeared on HomeAdore .",
@@ -2324,9 +2269,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2515,7 +2460,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2611,7 +2556,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2776,19 +2721,6 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
-    },
-    {
-      "id": "72664b960ea7af2a",
-      "title": "Post & Rung Standing Desk",
-      "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
-      "url": "https://www.popularwoodworking.com/projects/post-rung-standing-desk/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-30T15:23:28+00:00"
     },
     {
       "id": "315206e97784de7a",
@@ -3064,19 +2996,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-17T10:00:34+00:00"
-    },
-    {
-      "id": "2415d48aa87c549b",
-      "title": "Mahogany Entry Table",
-      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
-      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-16T18:43:10+00:00"
     },
     {
       "id": "24cb70d82462b13b",
@@ -3531,7 +3450,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3834,19 +3753,6 @@
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
       "published": "2026-05-25T10:30:00+00:00"
-    },
-    {
-      "id": "f29796b88cb45114",
-      "title": "27 Entryway Dresser Ideas That Nobody Expected to Set the Tone for the Whole House",
-      "summary": "The entryway is the room everyone walks through and almost nobody plans. A dresser changes that, instantly. It holds the clutter, anchors the wall, and gives you a place to actually style — keys, books, a vase of whatever’s blooming. These 27 entryway dresser ideas show what happens when the piece by the door stops […] The post 27 Entryway Dresser Ideas That Nobody Expected to Set the Tone for the Whole House appeared first on Trendir .",
-      "url": "https://www.trendir.com/entryway-dresser-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Entryway-Dresser-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Entryway-Dresser-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-25T09:00:00+00:00"
     }
   ]
 }
