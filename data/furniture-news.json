@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-23T06:56:37.433350+00:00",
-  "generated_at_human": "2026-08-23 06:56 UTC",
-  "total_items": 269,
+  "generated_at": "2026-08-23T07:42:35.197032+00:00",
+  "generated_at_human": "2026-08-23 07:42 UTC",
+  "total_items": 261,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -23,16 +23,15 @@
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
-    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
+    "Dezeen tag offices",
     "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
     "Gardenista",
     "Home Adore",
-    "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
     "Homes To Love AU",
@@ -64,8 +63,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 58,
-  "multi_photo_items": 60,
+  "sources_count": 57,
+  "multi_photo_items": 57,
   "items": [
     {
       "id": "215cdbb0eb5e623a",
@@ -75,11 +74,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=8014",
-        "https://i.archi.ru/i/1262/94938.jpg?r=21720",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=54545",
-        "https://i.archi.ru/news/quadratic/459160.png?r=19668",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=12723"
+        "https://i.archi.ru/i/1262/310555.jpg?r=96759",
+        "https://i.archi.ru/i/1262/94938.jpg?r=95938",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=77942",
+        "https://i.archi.ru/news/quadratic/459160.png?r=79993",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=17214"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -138,6 +137,24 @@
       "published": ""
     },
     {
+      "id": "4a84c5bd4d6810f3",
+      "title": "No Room for Kitchen Wall Art? The Window Ledge Is Becoming the Next Display Shelf",
+      "summary": "Kitchen walls fill up fast once cabinets, backsplash tile, windows, and appliances are in place. Instagram creator @homewithemily27 used the window ledge behind her sink instead, leaning framed prints between potted plants rather than searching for another section of wall. Her coffee guide caught our attention because Homedit has a similar option in our printable... The post No Room for Kitchen Wall Art? The Window Ledge Is Becoming the Next Display Shelf appeared first on Homedit .",
+      "url": "https://www.homedit.com/no-room-for-kitchen-wall-art-the-window-ledge-is-becoming-the-next-display-shelf/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/No-Room-for-Kitchen-Wall-Art-The-Window-Ledge-Is-Becoming-the-Next-Display-Shelf.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/No-Room-for-Kitchen-Wall-Art-The-Window-Ledge-Is-Becoming-the-Next-Display-Shelf.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Small-Frames-Can-Work-Around-Faucets-and-Windows.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Sink-Window-Uses-Space-the-Countertop-Doesnt-Have-to-Give-Up.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Window-Ledge-Takes-the-Place-of-a-Picture-Shelf.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Printable-Files-Let-the-Frame-Size-Follow-the-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Coffee-Types-Become-a-Graphic-Pattern.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-23T06:59:53+00:00"
+    },
+    {
       "id": "38b7babfcd1777e5",
       "title": "blue portals and brick vaults shape DKA’s apartment renovation in rome",
       "summary": "historic ceilings stay firmly in view as color, custom furniture and a few strategic openings loosen up the roman interior. The post blue portals and brick vaults shape DKA’s apartment renovation in rome appeared first on designboom | architecture & design magazine .",
@@ -149,6 +166,19 @@
       "source": "Design Boom architecture",
       "source_url": "https://www.designboom.com",
       "published": "2026-08-23T06:14:46+00:00"
+    },
+    {
+      "id": "523d349c36c873d4",
+      "title": "KTGY revamps interiors of Fairmont Hotel in Chicago",
+      "summary": "US architecture studio KTGY has revamped the interiors of the HOK-designed Fairmont Hotel off of Chicago's Millennium Park. KTGY was brought on to refresh the detailing and bring light into the dark spaces of the hotel, with a focus on the premium rooms and lounges. In total, the studio renovated 83 rooms, as well as The post KTGY revamps interiors of Fairmont Hotel in Chicago appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/23/ktgy-revamps-interiors-fairmont-hotel-chicago/",
+      "image": "http://static.dezeen.com/uploads/2026/08/ktgy-fairmont-renovation-chicago_dezeen_2364_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/ktgy-fairmont-renovation-chicago_dezeen_2364_sq.jpg"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-23T05:00:29+00:00"
     },
     {
       "id": "9ce64777ab8b3ba3",
@@ -342,12 +372,7 @@
       "url": "https://www.homedit.com/this-pantry-gave-up-a-row-of-shelves-to-make-room-for-a-counter/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-the-Wire-Pantry-Shelves-and-Built-a-Counter-Into-the-Middle.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-the-Wire-Pantry-Shelves-and-Built-a-Counter-Into-the-Middle.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Power-Is-Moving-Above-the-Walnut-Counter.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Shelf-Spacing-Was-Set-Around-What-the-Owner-Stores.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Walnut-Countertop-Breaks-the-Storage-Into-Two-Levels.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Solid-Shelves-Were-Built-Around-the-Angled-Walls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Wire-Racks-Filled-the-Pantry-Without-Giving-It-a-Work-Surface.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Removed-the-Wire-Pantry-Shelves-and-Built-a-Counter-Into-the-Middle.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -404,9 +429,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-navy-chair-that-refused-to-be-replaced/swivel-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/rolly-is-a-playful-rolling-table-that-makes-a-simple-furniture-enjoyable/rolly-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/343286/02_standingchair_ariellevay_experimentalchair.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/12/291471/1_Dong-Dong-sofa_-Su-Yeon_Dong-Hyeon_massage-furniture-relaxation.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/10/auto-draft/canopy3.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/08/mondos/mondos_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/02/geode_cover.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -517,19 +542,6 @@
       "source": "Woodshop News",
       "source_url": "https://www.woodshopnews.com",
       "published": "2026-08-21T13:00:00+00:00"
-    },
-    {
-      "id": "d9933f861ef967bb",
-      "title": "Skip the Sconces, These Bathroom Mirrors Put the Light Behind the Glass Instead",
-      "summary": "Bathroom mirrors used to have one job, while sconces or vanity lights handled another. These designs collapse those two elements into one, hiding the light source behind the glass and letting it escape around the edges. The result changes more than the fixture count. Mirrors appear to float off the wall, dark finishes gain sharp... The post Skip the Sconces, These Bathroom Mirrors Put the Light Behind the Glass Instead appeared first on Homedit .",
-      "url": "https://www.homedit.com/skip-the-sconces-these-bathroom-mirrors-put-the-light-behind-the-glass-instead/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Skip-the-Sconces-These-Bathroom-Mirrors-Put-the-Light-Behind-the-Glass-Instead.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Skip-the-Sconces-These-Bathroom-Mirrors-Put-the-Light-Behind-the-Glass-Instead.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-21T12:13:23+00:00"
     },
     {
       "id": "e071b4dbe79157b6",
@@ -758,9 +770,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/sonnet_chair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/04/08/nota_cup.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/04/14/voronoi_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/380734/Tozzbike-Pipegun-electric-kick-bike-2.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/01/auto-draft/guitar_cutting_board_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/08/30/blackberry_peer.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/oppo-find-x5-pro-review/oppo-find-x5-pro-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -863,24 +875,6 @@
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
       "published": "2026-08-20T07:45:05+00:00"
-    },
-    {
-      "id": "22c2039a6a062901",
-      "title": "Inside the beauty salon that’s the best kept secret of Sydney’s elite",
-      "summary": "Tucked in a heritage building in Balmain, Diandra Politano’s cult skin clinic is a Parisian-inspired haven frequented by those in the know. The post Inside the beauty salon that’s the best kept secret of Sydney’s elite appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/lifestyle/diandra-politano-beauty-salon-balmain/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/diandra-politano-beauty-salon-6a869a6fa61be.jpg?format=auto&v=1787206282",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/diandra-politano-beauty-salon-6a869a6fa61be.jpg?format=auto&v=1787206282",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/heating-6a86a3a0d362b.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/10/The-Lost-Flowers-Of-Alice-Hart-Amazon-Prime-Images-5.jpg?w=2304",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/28514/rebecca-hooton-writer.jpg?w=2048&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/diandra-politano-facialist-aesthetician-sydney-3_w1500-6a8697c3d76ca.jpg?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-20T06:59:46+00:00"
     },
     {
       "id": "d8544ad214e8df6d",
@@ -1271,27 +1265,9 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag cabinets",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
-    },
-    {
-      "id": "3d12f44d4e4d6ef6",
-      "title": "Inside the Bali Body founder’s spectacular $11.5 million Brighton home",
-      "summary": "The restort-style Melbourne home comes with a pool, sports court, wellness retreat and one seriously impressove kitchen. The post Inside the Bali Body founder’s spectacular $11.5 million Brighton home appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/home-tours/bali-body-founders-brighton-home/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/bali-body-2-6a83d3bdae77a.png?format=auto&v=1787024329",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/bali-body-2-6a83d3bdae77a.png?format=auto&v=1787024329",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/heating-6a86a3a0d362b.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/1-6a83cf3dabab4-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/3-6a83cf4120681-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/8-6a83cf49c305f-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/5-6a83cf449845b-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-18T03:39:48+00:00"
     },
     {
       "id": "713de69a0c0f84de",
@@ -1496,24 +1472,6 @@
       "published": "2026-08-17T09:00:40+00:00"
     },
     {
-      "id": "1e7a5ab23986da79",
-      "title": "Your bedroom isn’t too small, you just need one of these storage beds",
-      "summary": "Don't let a lack of storage put your linen shopping on pause The post Your bedroom isn’t too small, you just need one of these storage beds appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/shopping/best-storage-beds/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/09/storage-bed-australia-68c269661f52c.png?format=auto&v=1758079218",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/09/storage-bed-australia-68c269661f52c.png?format=auto&v=1758079218",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/09/storage-bed-australia-68c269661f52c.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/heating-6a86a3a0d362b.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/02/rachel-weisz-headshot-1-67c780a814fb7.png?w=2048&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2609p190_marleting-cover_v0.3-6a66a6701347a-scaled.jpg?resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/06/best-eofy-bedding-sales-australia-2026-pillow-talk-hommey-6a3090a356cf8.png?resize=1950%2C1462&format=auto"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-17T06:39:28+00:00"
-    },
-    {
       "id": "7e0b68a467b60e4e",
       "title": "Tatjana von Stein blends Jugendstil style with 1980s glamour for The Dean Munich",
       "summary": "French-German designer Tatjana von Stein designed hundreds of bespoke lights and furnishings for this hotel in Munich, drawing on the city's art nouveau style and its exuberant nightlife history. The Dean Munich is the latest offering from the Irish hotel chain, with 281 rooms and suites, three bars, and a signature Japanese restaurant named Ibasho. The post Tatjana von Stein blends Jugendstil style with 1980s glamour for The Dean Munich appeared first on Dezeen .",
@@ -1605,19 +1563,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-08-16T13:22:22+00:00"
-    },
-    {
-      "id": "ea562c3eb99639d3",
-      "title": "The Block 2026 main bathrooms: The most beige season ever",
-      "summary": "We’re seeing more of the same in week 2. The post The Block 2026 main bathrooms: The most beige season ever appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/renovation-ideas/the-block/the-block-2026-main-bathroom-reveals/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/the-block-2026_adam-and-jolene-main-bathroom-6-6a7bef80245cc-scaled.jpg?format=auto&v=1786507151",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/the-block-2026_adam-and-jolene-main-bathroom-6-6a7bef80245cc-scaled.jpg?format=auto&v=1786507151"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-16T10:41:56+00:00"
     },
     {
       "id": "cfa0cee7e00cdf5e",
@@ -1865,19 +1810,6 @@
       "published": "2026-08-13T08:00:06+00:00"
     },
     {
-      "id": "2e0b9b9392346fcb",
-      "title": "Small wonder: How a slender kitchen maximised under-stair space",
-      "summary": "This clever, compact kitchen hides plenty of functional features beneath the stairs. The post Small wonder: How a slender kitchen maximised under-stair space appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/kitchen-ideas/small-kitchens/how-a-small-kitchen-gained-extra-space-with-under-stair-storage/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/small-black-and-white-kitchen-with-dual-height-benchtop-marble-6a7d480804e72.jpg?format=auto&v=1786600467",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/small-black-and-white-kitchen-with-dual-height-benchtop-marble-6a7d480804e72.jpg?format=auto&v=1786600467"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-13T07:40:20+00:00"
-    },
-    {
       "id": "abab49f30e1c76fd",
       "title": "Национальная премия «Золотая Кабриоль»",
       "summary": "АМДПР вновь проведет церемонию награждения национальной премии «Золотая Кабриоль» на выставке «Мебель». Приглашаем принять участие в XXII Национальной премии в области промышленного дизайна мебели «Золотая Кабриоль» , учрежденной многолетним партнером выставки «Мебель» – Ассоциацией предприятий мебельной и деревообрабатывающей промышленности России. Подробнее о конкурсе и заявка на участие Победителям будут вручены дипломы, статуэтки и призы от наших партнеров на торжественной церемонии награждения национальной премии «Золотая Кабриоль» 26 ноября 2026 года в 12:00 на международной выставке…",
@@ -1902,19 +1834,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-13T05:00:37+00:00"
-    },
-    {
-      "id": "c0e29887c11fab9d",
-      "title": "Perfect pitch: A neutral palette reaches stylish new heights in this coastal kitchen",
-      "summary": "Classic colours, pitched ceilings and stunning sea views elevate a timeless, beachy kitchen design. The post Perfect pitch: A neutral palette reaches stylish new heights in this coastal kitchen appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/kitchen-ideas/neutral-coastal-kitchen/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/white-coastal-kitchen-pitched-ceiling-6a7d1ea5763bb-scaled.jpg?format=auto&v=1786600477",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/white-coastal-kitchen-pitched-ceiling-6a7d1ea5763bb-scaled.jpg?format=auto&v=1786600477"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-13T03:04:47+00:00"
     },
     {
       "id": "ade56241df6f7da5",
@@ -1954,19 +1873,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-08-12T08:00:14+00:00"
-    },
-    {
-      "id": "20fa8853e9fab0ba",
-      "title": "The ‘Love Island’ villa is an aphrodisiac (and the experts agree)",
-      "summary": "We reveal the insider secrets you've always wanted to know... The post The ‘Love Island’ villa is an aphrodisiac (and the experts agree) appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/lifestyle/love-island-villa-aphrodisiac/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/love-island-usa-villa-2026-hero-6a7bfbeb573a0-scaled.jpg?format=auto&v=1786510497",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/love-island-usa-villa-2026-hero-6a7bfbeb573a0-scaled.jpg?format=auto&v=1786510497"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-12T06:10:06+00:00"
     },
     {
       "id": "80c30dbbb5e2ffba",
@@ -2075,19 +1981,6 @@
       "published": "2026-08-11T07:32:57+00:00"
     },
     {
-      "id": "d0273100ed70a89b",
-      "title": "5 tips for creating an organised pantry that stays that way",
-      "summary": "How to organise your pantry like a pro. The post 5 tips for creating an organised pantry that stays that way appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/kitchen-ideas/storage/pantry-organisation/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2018/03/pantry-organisation-tips.jpg?format=auto&v=1784006534",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2018/03/pantry-organisation-tips.jpg?format=auto&v=1784006534"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-11T05:23:56+00:00"
-    },
-    {
       "id": "8411f23c12966e9c",
       "title": "Organic Modern Is Defining Home Décor Right Now",
       "summary": "Natural materials, handcrafted pieces, and sculptural furniture define the most popular home décor right now. Designers refer to the look as Organic Modern, a style that combines clean lines with warm wood tones, statement stone, textured finishes, handmade ceramics, and earthy colors instead of perfectly matched furniture and polished surfaces. These interiors show how the... The post Organic Modern Is Defining Home Décor Right Now appeared first on Homedit .",
@@ -2125,19 +2018,6 @@
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
       "published": "2026-08-10T08:00:39+00:00"
-    },
-    {
-      "id": "a46ae58da4161e7b",
-      "title": "This Koala sofa solves 3 common styling dilemmas – and it’s $650 off for Afterpay Day",
-      "summary": "Our go-to Aussie brand just got a whole lot more affordable. The post This Koala sofa solves 3 common styling dilemmas – and it’s $650 off for Afterpay Day appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/shopping/koala-sales/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/02/koala-sofa-bed-sale-koala-mattress-sale-koala-sale-2026-69f99204af11a.png?format=auto&v=1777965213",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/02/koala-sofa-bed-sale-koala-mattress-sale-koala-sale-2026-69f99204af11a.png?format=auto&v=1777965213"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-10T02:21:16+00:00"
     },
     {
       "id": "26a7ee92b80ffdda",
@@ -2554,9 +2434,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2597,7 +2477,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2889,7 +2769,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/public-art-company-studio_dezeen_sq1ex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen tag offices",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-26T16:00:27+00:00"
     },
@@ -3517,7 +3397,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
