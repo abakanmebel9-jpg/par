@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-23T18:44:12.195217+00:00",
-  "generated_at_human": "2026-08-23 18:44 UTC",
-  "total_items": 267,
+  "generated_at": "2026-08-23T19:30:16.167709+00:00",
+  "generated_at_human": "2026-08-23 19:30 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,7 +20,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -65,7 +64,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 59,
+  "sources_count": 58,
   "multi_photo_items": 60,
   "items": [
     {
@@ -76,11 +75,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=82830",
-        "https://i.archi.ru/i/1262/94938.jpg?r=6325",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=69766",
-        "https://i.archi.ru/news/quadratic/459160.png?r=1917",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=38469"
+        "https://i.archi.ru/i/1262/310555.jpg?r=51345",
+        "https://i.archi.ru/i/1262/94938.jpg?r=90509",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=96933",
+        "https://i.archi.ru/news/quadratic/459160.png?r=66632",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=10698"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -137,6 +136,21 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "ea6eb7d93d35963e",
+      "title": "Forget Curtains: There's A Cuter Way To Decorate Your Kitchen Windows For Fall",
+      "summary": "You don't have to rely on plain curtains in your kitchen. Instead, this festive option can bring a twinkle and some warm fall vibes to your window.",
+      "url": "https://www.hunker.com/2240247/cuter-way-to-decorate-kitchen-window-fall-garland/",
+      "image": "https://www.hunker.com/img/gallery/forget-curtains-theres-a-cuter-way-to-decorate-your-kitchen-windows-for-fall/l-intro-1787164312.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/forget-curtains-theres-a-cuter-way-to-decorate-your-kitchen-windows-for-fall/l-intro-1787164312.jpg",
+        "https://www.hunker.com/img/gallery/forget-curtains-theres-a-cuter-way-to-decorate-your-kitchen-windows-for-fall/intro-1787164312.jpg",
+        "https://www.hunker.com/img/gallery/forget-curtains-theres-a-cuter-way-to-decorate-your-kitchen-windows-for-fall/make-your-kitchen-window-look-magically-fall-with-garland-lights-1787164314.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-23T19:00:00+00:00"
     },
     {
       "id": "e8a4c06e19673145",
@@ -291,9 +305,7 @@
       "url": "https://www.hunker.com/2240500/cuter-way-to-organize-entryway-clutter-diy-storage/",
       "image": "https://www.hunker.com/img/gallery/not-cabinets-or-shelves-a-cuter-way-to-add-storage-to-your-cluttered-entryway/l-intro-1787180922.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-cabinets-or-shelves-a-cuter-way-to-add-storage-to-your-cluttered-entryway/l-intro-1787180922.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-or-shelves-a-cuter-way-to-add-storage-to-your-cluttered-entryway/intro-1787180922.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-or-shelves-a-cuter-way-to-add-storage-to-your-cluttered-entryway/this-diy-removes-entryway-clutter-and-makes-a-statement-1787180924.jpg"
+        "https://www.hunker.com/img/gallery/not-cabinets-or-shelves-a-cuter-way-to-add-storage-to-your-cluttered-entryway/l-intro-1787180922.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -2515,7 +2527,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
