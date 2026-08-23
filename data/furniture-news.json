@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-23T20:34:43.102702+00:00",
-  "generated_at_human": "2026-08-23 20:34 UTC",
-  "total_items": 268,
+  "generated_at": "2026-08-23T21:31:35.555516+00:00",
+  "generated_at_human": "2026-08-23 21:31 UTC",
+  "total_items": 269,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,6 +20,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -64,9 +65,27 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 58,
-  "multi_photo_items": 60,
+  "sources_count": 59,
+  "multi_photo_items": 61,
   "items": [
+    {
+      "id": "6764ad067ee93f77",
+      "title": "С ювелирной точностью",
+      "summary": "До 4 октября в Государственном музее архитектуры проходит выставка «Федор Шехтель. Грезы русского модерна», приуроченная к столетию со дня смерти архитектора. В парадной анфиладе усадьбы Талызиных собрали две с половиной сотни экспонатов – графику, фотографии, макеты, мебель, книги и семейные реликвии.",
+      "url": "https://archi.ru/russia/102628/grezy-o-shekhtele",
+      "image": "https://i.archi.ru/i/1262/512742.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/512742.jpg",
+        "https://i.archi.ru/i/1262/405309.jpg?r=70030",
+        "https://i.archi.ru/i/1262/512676.jpg",
+        "https://i.archi.ru/i/1262/512516.jpg",
+        "https://i.archi.ru/i/1262/512749.jpg",
+        "https://i.archi.ru/i/1262/512752.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "215cdbb0eb5e623a",
       "title": "Мягкая пластика нового просвещения",
@@ -75,26 +94,13 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=77234",
-        "https://i.archi.ru/i/1262/94938.jpg?r=96953",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=94489",
-        "https://i.archi.ru/news/quadratic/459160.png?r=60746",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=73209"
+        "https://i.archi.ru/i/1262/310555.jpg?r=54972",
+        "https://i.archi.ru/i/1262/94938.jpg?r=68308",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=5458",
+        "https://i.archi.ru/news/quadratic/459160.png?r=61691",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=61804"
       ],
       "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "6764ad067ee93f77",
-      "title": "С ювелирной точностью",
-      "summary": "До 4 октября в Государственном музее архитектуры проходит выставка «Федор Шехтель. Грезы русского модерна», приуроченная к столетию со дня смерти архитектора. В парадной анфиладе усадьбы Талызиных собрали две с половиной сотни экспонатов – графику, фотографии, макеты, мебель, книги и семейные реликвии.",
-      "url": "https://archi.ru/russia/102628/grezy-o-shekhtele",
-      "image": "https://i.archi.ru/i/1262/512742.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/512742.jpg"
-      ],
-      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -136,6 +142,21 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "2a1b55e08ab52fdc",
+      "title": "Turn An Old Hutch Top Into Gorgeous Toilet Paper Storage",
+      "summary": "Fun fact - many hutches are actually two pieces of furniture. The upper, cabinet part, can be detached and used to stash toilet paper, towels, and more.",
+      "url": "https://www.hunker.com/2240463/turn-hutch-into-gorgeous-diy-toilet-paper-storage/",
+      "image": "https://www.hunker.com/img/gallery/turn-an-old-hutch-top-into-gorgeous-toilet-paper-storage/l-intro-1787177329.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/turn-an-old-hutch-top-into-gorgeous-toilet-paper-storage/l-intro-1787177329.jpg",
+        "https://www.hunker.com/img/gallery/turn-an-old-hutch-top-into-gorgeous-toilet-paper-storage/intro-1787177329.jpg",
+        "https://www.hunker.com/img/gallery/turn-an-old-hutch-top-into-gorgeous-toilet-paper-storage/transform-your-hutch-top-1787177331.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-23T20:30:00+00:00"
     },
     {
       "id": "ea6eb7d93d35963e",
@@ -181,21 +202,6 @@
       "published": "2026-08-23T13:30:00+00:00"
     },
     {
-      "id": "676104487d60108a",
-      "title": "Woman Uses An Old Kitchen Whisk To Make Beautiful Porch Decor On A Budget",
-      "summary": "Don't throw out an old kitchen whisk. With a few beads, wire, and paint, you can make a cute dragon fly ornament for your porch. Here's how.",
-      "url": "https://www.hunker.com/2240032/diy-porch-decor-budget-repurpose-kitchen-whisk-dragonfly/",
-      "image": "https://www.hunker.com/img/gallery/woman-uses-an-old-kitchen-whisk-to-make-beautiful-porch-decor-on-a-budget/l-intro-1787153050.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/woman-uses-an-old-kitchen-whisk-to-make-beautiful-porch-decor-on-a-budget/l-intro-1787153050.jpg",
-        "https://www.hunker.com/img/gallery/woman-uses-an-old-kitchen-whisk-to-make-beautiful-porch-decor-on-a-budget/intro-1787153050.jpg",
-        "https://www.hunker.com/img/gallery/woman-uses-an-old-kitchen-whisk-to-make-beautiful-porch-decor-on-a-budget/how-to-transform-a-whisk-into-porch-dcor-1787153052.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-23T12:00:00+00:00"
-    },
-    {
       "id": "9a494bcae6bd44bc",
       "title": "An Awkward and Dark Kitchen Is Now a Chef’s Dream Thanks to IKEA Cabinets",
       "summary": "When interior decorator Katie Woodman and her husband, Joseph, first found their split-level house in Ft. Collins, Colorado, they fell hard for its unique features, including a treehouse-like upper deck, a huge wood-burning fireplace, vaulted ceilings, and a large solarium perfect for plant babies. READ MORE...",
@@ -206,6 +212,19 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-23T12:00:00+00:00"
+    },
+    {
+      "id": "676104487d60108a",
+      "title": "Woman Uses An Old Kitchen Whisk To Make Beautiful Porch Decor On A Budget",
+      "summary": "Don't throw out an old kitchen whisk. With a few beads, wire, and paint, you can make a cute dragon fly ornament for your porch. Here's how.",
+      "url": "https://www.hunker.com/2240032/diy-porch-decor-budget-repurpose-kitchen-whisk-dragonfly/",
+      "image": "https://www.hunker.com/img/gallery/woman-uses-an-old-kitchen-whisk-to-make-beautiful-porch-decor-on-a-budget/l-intro-1787153050.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/woman-uses-an-old-kitchen-whisk-to-make-beautiful-porch-decor-on-a-budget/l-intro-1787153050.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
       "published": "2026-08-23T12:00:00+00:00"
     },
     {
@@ -846,9 +865,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/modular-furniture-system-brings-eco-friendly-circular-approach-to-design/cosmoplast-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/08/167162/convert_a_bench_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/08/plywood-desk-concepts-use-waves-to-create-easy-access-storage-spaces/aalto-desk-concept-original-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/05/cloud_rocking_chair_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/Blueair-Blue-Signature-Review-YankoDesign-layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/12/21/ivetta_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2336,9 +2355,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2527,7 +2546,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
