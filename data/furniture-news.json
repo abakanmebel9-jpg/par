@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-23T03:12:05.524710+00:00",
-  "generated_at_human": "2026-08-23 03:12 UTC",
-  "total_items": 269,
+  "generated_at": "2026-08-23T04:48:11.048816+00:00",
+  "generated_at_human": "2026-08-23 04:48 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,10 +20,10 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
+    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -75,11 +75,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=78757",
-        "https://i.archi.ru/i/1262/94938.jpg?r=48139",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=17458",
-        "https://i.archi.ru/news/quadratic/459160.png?r=14450",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=23204"
+        "https://i.archi.ru/i/1262/310555.jpg?r=7454",
+        "https://i.archi.ru/i/1262/94938.jpg?r=68858",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=72488",
+        "https://i.archi.ru/news/quadratic/459160.png?r=94549",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=53611"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -93,7 +93,7 @@
       "image": "https://i.archi.ru/i/1262/502742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/502742.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=46307",
+        "https://i.archi.ru/i/1262/305304.jpg?r=83179",
         "https://i.archi.ru/i/1262/511650.jpg",
         "https://i.archi.ru/i/1262/511653.jpg",
         "https://i.archi.ru/i/1262/511651.jpg",
@@ -128,21 +128,6 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
-    },
-    {
-      "id": "9ce64777ab8b3ba3",
-      "title": "Don't Toss Old Plastic Lids — Make Cute Toilet Paper Holders For Your Bathroom",
-      "summary": "You don't need to spend a ton to make toilet paper look neat. With this DIY, you can transform an old plastic lid into attractive, textural TP storage.",
-      "url": "https://www.hunker.com/2234890/dont-toss-old-plastic-lids-diy-toilet-paper-holder/",
-      "image": "https://www.hunker.com/img/gallery/dont-toss-old-plastic-lids-make-cute-toilet-paper-holders-for-your-bathroom/l-intro-1786473557.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/dont-toss-old-plastic-lids-make-cute-toilet-paper-holders-for-your-bathroom/l-intro-1786473557.jpg",
-        "https://www.hunker.com/img/gallery/dont-toss-old-plastic-lids-make-cute-toilet-paper-holders-for-your-bathroom/intro-1786473557.jpg",
-        "https://www.hunker.com/img/gallery/dont-toss-old-plastic-lids-make-cute-toilet-paper-holders-for-your-bathroom/weave-sides-onto-the-plastic-lid-base-for-a-tp-holder-1786473559.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-23T02:00:00+00:00"
     },
     {
       "id": "a19d4e015744585c",
@@ -194,7 +179,9 @@
       "url": "https://www.hunker.com/2239792/purple-vs-blue-painters-tape-whats-the-difference/",
       "image": "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/l-intro-1787135012.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/l-intro-1787135012.jpg"
+        "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/l-intro-1787135012.jpg",
+        "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/intro-1787135012.jpg",
+        "https://www.hunker.com/img/gallery/purple-vs-blue-painters-tape-whats-the-difference/when-to-use-purple-or-blue-painters-tape-1787135013.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -238,6 +225,19 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-22T13:20:10+00:00"
+    },
+    {
+      "id": "17d1d789a1fccc79",
+      "title": "Woodworking’s next chapter",
+      "summary": "With CNC machines now commonplace, workshops prepare for the next wave of automation with advanced robotics and AI integration. The post Woodworking’s next chapter appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/woodworkings-next-chapter",
+      "image": "https://www.woodshopnews.com/uploads/2026/08/Robotics-Solution-Carving.jpg",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/08/Robotics-Solution-Carving.jpg"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-08-22T13:00:00+00:00"
     },
     {
       "id": "1edd0e5fefa0f5c1",
@@ -706,9 +706,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/08/auto-draft/herringbone_table_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/10/auto-draft/ebba_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/01/22/kumo.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/11/27/hican_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/03/auto-draft/04_dag_gärsnäs_daybed.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/top-10-chairs/top_10_chair_design_trends_2022_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1263,7 +1263,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -2302,9 +2302,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2493,7 +2493,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2546,9 +2546,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2589,7 +2589,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -3509,7 +3509,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3825,19 +3825,6 @@
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
       "published": "2026-05-25T09:00:00+00:00"
-    },
-    {
-      "id": "cd917d4b9075753c",
-      "title": "26 Gold Nightstand Decor Ideas That Prove One Metallic Piece Outranks an Entire Bedroom Makeover",
-      "summary": "Gold has a way of softening a bedside that linen and wood alone can’t quite manage. The right warm-metal moment, whether it’s a lamp base, a frame, a drawer pull, or a single sculptural object, gives the eye somewhere to land before the light goes out. These 26 gold nightstand decor ideas prove that warmth […] The post 26 Gold Nightstand Decor Ideas That Prove One Metallic Piece Outranks an Entire Bedroom Makeover appeared first on Trendir .",
-      "url": "https://www.trendir.com/gold-nightstand-decor-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Gold-Nightstand-Decor-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Gold-Nightstand-Decor-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-25T03:59:26+00:00"
     }
   ]
 }
