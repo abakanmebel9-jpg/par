@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-23T22:33:42.957369+00:00",
-  "generated_at_human": "2026-08-23 22:33 UTC",
-  "total_items": 268,
+  "generated_at": "2026-08-23T23:31:03.559791+00:00",
+  "generated_at_human": "2026-08-23 23:31 UTC",
+  "total_items": 263,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -20,7 +19,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -56,7 +54,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design furniture",
     "Yanko Design home",
@@ -64,7 +61,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 58,
+  "sources_count": 55,
   "multi_photo_items": 61,
   "items": [
     {
@@ -75,7 +72,7 @@
       "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512742.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=77388",
+        "https://i.archi.ru/i/1262/405309.jpg?r=27754",
         "https://i.archi.ru/i/1262/512676.jpg",
         "https://i.archi.ru/i/1262/512516.jpg",
         "https://i.archi.ru/i/1262/512749.jpg",
@@ -93,11 +90,11 @@
       "image": "https://i.archi.ru/i/1262/496015.png",
       "images": [
         "https://i.archi.ru/i/1262/496015.png",
-        "https://i.archi.ru/i/1262/310555.jpg?r=31598",
-        "https://i.archi.ru/i/1262/94938.jpg?r=5982",
-        "https://i.archi.ru/news/quadratic/511910.jpg?r=81973",
-        "https://i.archi.ru/news/quadratic/459160.png?r=50104",
-        "https://i.archi.ru/news/quadratic/511185.jpg?r=38420"
+        "https://i.archi.ru/i/1262/310555.jpg?r=35442",
+        "https://i.archi.ru/i/1262/94938.jpg?r=2981",
+        "https://i.archi.ru/news/quadratic/511910.jpg?r=87480",
+        "https://i.archi.ru/news/quadratic/459160.png?r=50265",
+        "https://i.archi.ru/news/quadratic/511185.jpg?r=54723"
       ],
       "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
@@ -141,6 +138,19 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "1b3207eac2d1b44e",
+      "title": "I Thought I Wanted an All-White Kitchen — Then I Made It Feel Like Me",
+      "summary": "When I first discovered the town of Hudson, New York, I felt like a kid in a candy store. There was so much that I wanted to explore. It’s the type of town that seems to have it all: picturesque streets filled with historical homes, rows of antique shops and boutiques, and scenic drives that lead you to local farm stands, wildflower fields, and nature trails. What more could you ask for? READ MORE...",
+      "url": "https://www.apartmenttherapy.com/white-kitchen-dining-makeover-blue-paint-before-after-37686109?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2024-07/vibiest-towns/hudson/hudson-dining-room/hudson-dining-room-before-tagged-2",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/special-projects/2024-07/vibiest-towns/hudson/hudson-dining-room/hudson-dining-room-before-tagged-2"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-23T22:00:00+00:00"
     },
     {
       "id": "2a1b55e08ab52fdc",
@@ -459,7 +469,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/ktgy-fairmont-renovation-chicago_dezeen_2364_sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-23T05:00:29+00:00"
     },
@@ -579,9 +589,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-navy-chair-that-refused-to-be-replaced/swivel-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/this-table-lets-four-woods-melt-into-one-beautiful-gradient/Color_gradient_table_furniture_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/top-10-coffee-tables/top_10_coffee_tables_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2022/03/wooden-furniture/wooden_furniture_japandi_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/03/you-may-just-want-this-visually-appealing-locker-furniture-in-your-space/dalform-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/359533/03_cassle_soobincho_catfurniture.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/403011/wait-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -612,19 +622,6 @@
       "source": "Design Boom architecture",
       "source_url": "https://www.designboom.com",
       "published": "2026-08-21T20:35:52+00:00"
-    },
-    {
-      "id": "b7c1d9d61f818a84",
-      "title": "IKEA’s $13 Storage Gem Solved My Small Living Room Problems",
-      "summary": "You know when people ask you what you like to do for fun? My response is always, “I like to stroll around IKEA and see the latest and greatest.” (And, of course, enjoy some meatballs too). Usually there’s something that piques my interest, but never have I been as gobsmacked as I was when I spotted the KJUGE storage pouf out of the corner of my eye. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/ikea-kjuge-pouf-product-review-37687013?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/living/2026/2026-08/ikea-storage-pouf/storage-pouf-2-lead",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/living/2026/2026-08/ikea-storage-pouf/storage-pouf-2-lead"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-21T19:30:00+00:00"
     },
     {
       "id": "feeb185dd9c20ab4",
@@ -1268,19 +1265,6 @@
       "published": "2026-08-18T14:00:00+00:00"
     },
     {
-      "id": "27fcc1bd5c317230",
-      "title": "5 Products to Give the Living Room a Fall Reset",
-      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-18T13:44:03+00:00"
-    },
-    {
       "id": "c406e4f1782c4a00",
       "title": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks",
       "summary": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks Most kitchen tech is designed by people who think about kitchens. Nicolas Reynard’s StudioChef KAI was designed by someone who has actually worked in one...",
@@ -1738,9 +1722,9 @@
         "https://hips.hearstapps.com/hmg-prod/images/f5829fc3-10a3-480d-aa67-4cc9e050019c.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/81b815c0-d2f4-44ef-afa3-7cc8ee0a6255.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/f43f0b81-307c-4204-9aab-068d37a09c39.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/ea085de2-e515-48c7-8525-25ba4bc22d43.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/9c63f767-298c-484a-a5f8-b0006138abc2.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/2d2466cc-f453-4a89-823d-aeba89290037.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/9c63f767-298c-484a-a5f8-b0006138abc2.jpeg"
+        "https://hips.hearstapps.com/hmg-prod/images/ea085de2-e515-48c7-8525-25ba4bc22d43.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -2080,19 +2064,6 @@
       "published": "2026-08-11T13:54:01+00:00"
     },
     {
-      "id": "d1cf59c92812e34d",
-      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
-      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-11T12:57:55+00:00"
-    },
-    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -2286,19 +2257,6 @@
       "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-08-07T16:06:04+00:00"
-    },
-    {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
     },
     {
       "id": "b9e697853d048199",
@@ -2532,22 +2490,9 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
-    },
-    {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "48a0a15730ecb6e8",
@@ -3011,19 +2956,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
