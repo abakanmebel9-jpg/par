@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-24T16:50:55.355048+00:00",
-  "generated_at_human": "2026-08-24 16:50 UTC",
+  "generated_at": "2026-08-24T17:39:56.933721+00:00",
+  "generated_at_human": "2026-08-24 17:39 UTC",
   "total_items": 270,
   "sources_used": [
     "Apartment Therapy",
@@ -20,10 +20,10 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
+    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -66,7 +66,7 @@
     "Мебель-expo"
   ],
   "sources_count": 59,
-  "multi_photo_items": 62,
+  "multi_photo_items": 61,
   "items": [
     {
       "id": "6764ad067ee93f77",
@@ -76,7 +76,7 @@
       "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512742.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=14027",
+        "https://i.archi.ru/i/1262/405309.jpg?r=29857",
         "https://i.archi.ru/i/1262/512676.jpg",
         "https://i.archi.ru/i/1262/512516.jpg",
         "https://i.archi.ru/i/1262/512749.jpg",
@@ -94,10 +94,10 @@
       "image": "https://i.archi.ru/i/1262/509814.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509814.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=28044",
-        "https://i.archi.ru/news/quadratic/434427.jpg?r=94483",
-        "https://i.archi.ru/news/quadratic/434428.jpg?r=40899",
-        "https://i.archi.ru/news/quadratic/434426.jpg?r=49346",
+        "https://i.archi.ru/i/1262/305304.jpg?r=30580",
+        "https://i.archi.ru/news/quadratic/434427.jpg?r=84069",
+        "https://i.archi.ru/news/quadratic/434428.jpg?r=15136",
+        "https://i.archi.ru/news/quadratic/434426.jpg?r=42450",
         "https://i.archi.ru/i/1262/508910.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -142,6 +142,21 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "19361365d086776a",
+      "title": "Genesis ventures into the full-size, super luxury SUV market with the new all-electric GV90",
+      "summary": "The Genesis GV90 is an SUV with architectural interiors, complete with four swivelling seats and options that run to underfloor heating",
+      "url": "https://www.wallpaper.com/transportation/genesis-electric-gv90-suv-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/Ka6brPvyWTLfgq92SK4hUn.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/Ka6brPvyWTLfgq92SK4hUn.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-08-24T17:36:52+00:00"
     },
     {
       "id": "a650d6c94a139912",
@@ -601,9 +616,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/backflip-chair/backflip_chair_yanko_design_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/06/21/air_drop.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/google-didnt-talk-about-this-even-once-during-their-i-o-2023-event/google_io_assistant_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/these-innovative-product-designs-are-all-you-need-to-stay-toasty-cozy-this-winter-season/winter_products_yanko_design_grill_heater_outdoor_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/11/auto-draft/6-baniya_airport_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/10/31/enjoy_together_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/apples-smallest-mac-device-finally-gets-the-m2-chip-upgrade/apple_mac_mini_m2_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -805,9 +820,7 @@
       "url": "https://www.wallpaper.com/design-interiors/interior-design/bathroom-design-trends-ideas-2027",
       "image": "https://cdn.mos.cms.futurecdn.net/bathrooms-w34M9UZpBNswC6tzJRwok9.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/bathrooms-w34M9UZpBNswC6tzJRwok9.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/bathrooms-w34M9UZpBNswC6tzJRwok9.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -1186,8 +1199,8 @@
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/burger-Kona-Kai-San-Diego_Kona-Kai-San-Diego.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/travel-camping-on-farms-california.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/mccloud-mercantile-hotel-aerial-pc-pusher-1.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/crowded-airport-pc-baona-getty.jpeg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
       ],
       "source": "Sunset",
@@ -1531,7 +1544,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -2616,7 +2629,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2712,7 +2725,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -3593,7 +3606,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3839,24 +3852,6 @@
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
       "published": "2026-05-26T23:45:00+00:00"
-    },
-    {
-      "id": "9531212933199cd7",
-      "title": "Kelly Wearstler’s H&M HOME Collection Refuses to Flatten Luxury",
-      "summary": "The designer’s H&M HOME collaboration introduces furniture and objects that feel considered, tactile, and spatially minded, even within a global retail framework.",
-      "url": "https://design-milk.com/kelly-wearstlers-hm-home-collection-refuses-to-flatten-luxury/",
-      "image": "https://design-milk.com/images/2026/05/Kelly-Wearstler-HM-HOME-18.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/05/Kelly-Wearstler-HM-HOME-18.jpg",
-        "https://design-milk.com/images/2026/05/Kelly-Wearstler-HM-HOME-17.jpg",
-        "https://design-milk.com/images/2026/05/Kelly-Wearstler-HM-HOME-15.jpg",
-        "https://design-milk.com/images/2026/05/Kelly-Wearstler-HM-HOME-14.jpg",
-        "https://design-milk.com/images/2026/05/Kelly-Wearstler-HM-HOME-12.jpg",
-        "https://design-milk.com/images/2026/05/Kelly-Wearstler-HM-HOME-10.jpg"
-      ],
-      "source": "DM tag furniture",
-      "source_url": "https://design-milk.com",
-      "published": "2026-05-26T17:00:40+00:00"
     }
   ]
 }
