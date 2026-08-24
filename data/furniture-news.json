@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-24T11:38:32.450124+00:00",
-  "generated_at_human": "2026-08-24 11:38 UTC",
-  "total_items": 267,
+  "generated_at": "2026-08-24T13:08:37.053164+00:00",
+  "generated_at_human": "2026-08-24 13:08 UTC",
+  "total_items": 270,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -59,14 +59,15 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 59,
-  "multi_photo_items": 61,
+  "sources_count": 60,
+  "multi_photo_items": 62,
   "items": [
     {
       "id": "6764ad067ee93f77",
@@ -76,7 +77,7 @@
       "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512742.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=72892",
+        "https://i.archi.ru/i/1262/405309.jpg?r=57162",
         "https://i.archi.ru/i/1262/512676.jpg",
         "https://i.archi.ru/i/1262/512516.jpg",
         "https://i.archi.ru/i/1262/512749.jpg",
@@ -94,10 +95,10 @@
       "image": "https://i.archi.ru/i/1262/509814.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509814.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=29351",
-        "https://i.archi.ru/news/quadratic/434427.jpg?r=23285",
-        "https://i.archi.ru/news/quadratic/434428.jpg?r=70735",
-        "https://i.archi.ru/news/quadratic/434426.jpg?r=80498",
+        "https://i.archi.ru/i/1262/305304.jpg?r=13213",
+        "https://i.archi.ru/news/quadratic/434427.jpg?r=51418",
+        "https://i.archi.ru/news/quadratic/434428.jpg?r=47012",
+        "https://i.archi.ru/news/quadratic/434426.jpg?r=83296",
         "https://i.archi.ru/i/1262/508910.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -142,6 +143,94 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "45828005ea05cf39",
+      "title": "Two Experimental Mobile Drawer Designs",
+      "summary": "Keiji Ashizawa has a background most architects don't: After gaining his degree, he worked with a metalworking shop that produced furniture and lighting. When he eventually set up his own architecture and design studio, the metal fabrication background continued to inform his work. Ashizawa, who designs both buildings and furniture, created these two experimental mobile drawer designs that rely on a minimal amount of steel to provide a skeletal structure. Bon Drawer features gestural side supports joined by two horizontal bars. Five small square-stock rails are attached to each support,…",
+      "url": "https://www.core77.com/posts/145151/Two-Experimental-Mobile-Drawer-Designs",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846969_lead_400_145151_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846969_lead_400_145151_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-24T13:00:00+00:00"
+    },
+    {
+      "id": "894bfb92c331e3e0",
+      "title": "8 Chairs Rethinking a Familiar Form",
+      "summary": "From circular materials and residential-inspired office seating to colorful updates of design classics, these chairs prove there’s still plenty of room to reinvent how we sit",
+      "url": "https://design-milk.com/new-chair-designs-2026/",
+      "image": "https://design-milk.com/images/2026/08/x-Ocee-3.png",
+      "images": [
+        "https://design-milk.com/images/2026/08/x-Ocee-3.png",
+        "https://design-milk.com/images/2026/08/HM_2594901_100791090_spruce_album_v1_0577_MAIN.jpeg",
+        "https://design-milk.com/images/2026/08/OA_TETBURY_062_edit.jpg",
+        "https://design-milk.com/images/2026/08/Odyssey-Chair_Madheke.jpg",
+        "https://design-milk.com/images/2026/08/HELLER_MBCOLLECTION_02_030426.jpeg",
+        "https://design-milk.com/images/2026/08/Teknion_Blink-Chair_9.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-08-24T12:00:45+00:00"
+    },
+    {
+      "id": "9aa07f77e743182c",
+      "title": "This 200-Square-Foot Kitchen Didn’t Gain an Inch — But You’d Never Know",
+      "summary": "Small kitchens certainly aren’t unusable. In fact, there are plenty of space-savvy kitchen finds that can make tiny studio or galley kitchens work successfully.But sometimes, a small kitchen begs for a total renovation, which was the case for Bri Williams and her husband, Denver, and their 200-square-foot kitchen. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/green-white-kitchen-makeover-before-after-37686114?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-09/bri-w-kitchen/bri-w-kitchen-before-tag",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-09/bri-w-kitchen/bri-w-kitchen-before-tag"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-24T12:00:00+00:00"
+    },
+    {
+      "id": "8cfdf92c74ff11db",
+      "title": "Before & After: A Renter-Friendly (and Budget-Friendly) DIY Project with Bright Red Paint",
+      "summary": "When you’re armed with creativity and DIY know-how, every piece of secondhand furniture has potential. From bad shellac to dated hardware, you can see past the imperfections to a whole new look. And if you’re interior decorator Imani Keal — whose Washington, D.C., apartment is an ode to ingenious renter-friendly DIYs and plenty of pattern mixing — then that look is going to be maximalist in the best way. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/before-and-after-maximalist-furniture-flip-37560189?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/valspar/video-features/w-tags/202606_ATM_Desk_Flip_Horizontal_Before-Tag",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//cs/2026/at/valspar/video-features/w-tags/202606_ATM_Desk_Flip_Horizontal_Before-Tag"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-24T12:00:00+00:00"
+    },
+    {
+      "id": "68ea1b2d2fd336af",
+      "title": "Villa Watchtower: A House Framed by the Andalusian Horizon",
+      "summary": "Villa Watchtower rises from one of the highest points of La Reserva de Sotogrande, Spain, where Manuel Ruiz Moriche and ARK Architects shape a contemporary house around broad views of the Mediterranean Sea and Andalusian landscape. Expansive glazing, terraces, landscaped patios, and a long infinity pool extend the residence toward its setting, while stone, timber, […] The post Villa Watchtower: A House Framed by the Andalusian Horizon first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/08/24/villa-watchtower-a-house-framed-by-the-andalusian-horizon/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/08/001-villa-watchtower-a-house-framed-by-the-andalusian-horizon.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/08/001-villa-watchtower-a-house-framed-by-the-andalusian-horizon.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/001-villa-watchtower-a-house-framed-by-the-andalusian-horizon.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/002-villa-watchtower-a-house-framed-by-the-andalusian-horizon.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/003-villa-watchtower-a-house-framed-by-the-andalusian-horizon.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/004-villa-watchtower-a-house-framed-by-the-andalusian-horizon.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/006-villa-watchtower-a-house-framed-by-the-andalusian-horizon.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-08-24T11:58:29+00:00"
+    },
+    {
+      "id": "57f96764c772fb52",
+      "title": "5 Desk Gadgets & Tools Of August 2026 That Make Working From Home Feel Like a Studio",
+      "summary": "5 Desk Gadgets & Tools Of August 2026 That Make Working From Home Feel Like a Studio Most home offices look like what they are: a corner negotiated with practicality. The lamp was already there. The desk is covered in objects that...",
+      "url": "https://www.yankodesign.com/2026/08/24/5-desk-gadgets-tools-of-august-2026-that-make-working-from-home-feel-like-a-studio/?utm_source=rss&utm_medium=rss&utm_campaign=5-desk-gadgets-tools-of-august-2026-that-make-working-from-home-feel-like-a-studio",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/desk-gadgets-that-make-working-from-home-feel-like-a-studio-not-a-spare-room/5_best_desk_gadgets_yanko_design_hero.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/desk-gadgets-that-make-working-from-home-feel-like-a-studio-not-a-spare-room/5_best_desk_gadgets_yanko_design_hero.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-24T11:40:49+00:00"
     },
     {
       "id": "d419e393dad821e4",
@@ -428,9 +517,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/backflip-chair/backflip_chair_yanko_design_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/05/penguin/penguin_07.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/02/06/magnetation_stress_reliever01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/08/auto-draft/titan_eyex_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/12/footwear-for-sneaker-heads/top_10_footwear_designs_sneaker_heads_yanko_design_hero.jpeg",
+        "https://www.yankodesign.com/images/design_news/2025/03/hmd-amped-earbuds-can-wirelessly-charge-your-phone-yet-offer-few-days-of-non-stop-music/HMD-Amped-Earbuds-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/01/design-thoughts-for-2019/28-2019-thoughts.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -685,19 +774,6 @@
       "published": "2026-08-21T22:30:45+00:00"
     },
     {
-      "id": "1c45aacac0a3407e",
-      "title": "They Made a Blank-Box Living Room Look Custom Without Hiring a Carpenter",
-      "summary": "Meredith Rose’s wedding registry included something not all registries do: power tools, which she was eager to use post-wedding to turn her townhouse into a space that actually reflected her design aesthetic.“My style is pretty classic in all areas of my life, so I wanted my home to feel the same way,” says Rose, who is based in Charlottesville, Virginia. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/living-room-built-ins-ba-37686100?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/style/2021-01/B%2BA%20Sarah%20Lyon/White-Living-Room-Before",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/style/2021-01/B%2BA%20Sarah%20Lyon/White-Living-Room-Before"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-21T22:00:00+00:00"
-    },
-    {
       "id": "feeb185dd9c20ab4",
       "title": "The Splinter Report: August 21st",
       "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at a rock bench. I was... Source",
@@ -935,9 +1011,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/06/11/hybrid_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/transforming-furniture-ds/overtunedchair-1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2011/01/31/chinese_bookshelf.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/03/22/ariva_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/09/12/benchgroup_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/desk-gadgets-that-make-working-from-home-feel-like-a-studio-not-a-spare-room/5_best_desk_gadgets_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1054,8 +1130,8 @@
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/burger-Kona-Kai-San-Diego_Kona-Kai-San-Diego.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/travel-camping-on-farms-california.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/mccloud-mercantile-hotel-aerial-pc-pusher-1.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/crowded-airport-pc-baona-getty.jpeg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
       ],
       "source": "Sunset",
@@ -1236,19 +1312,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-08-19T08:00:00+00:00"
-    },
-    {
-      "id": "6f211bd2cfa5a1ca",
-      "title": "An essential directory of Anna Castelli Ferrieri's most notable designs",
-      "summary": "Dubbed ‘the Queen of Plastic’, Anna Castelli Ferrieri is best known for co-founding the Italian furniture brand Kartell. Here is everything you need to know about her trailblazing works",
-      "url": "https://www.wallpaper.com/design-interiors/anna-castelli-ferrieri-kartell-ultimate-guide",
-      "image": "https://cdn.mos.cms.futurecdn.net/ahhhtAVRKbMMAXJRvfhVzg.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/ahhhtAVRKbMMAXJRvfhVzg.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-08-19T06:00:00+00:00"
     },
     {
       "id": "7d7e0ede37972bc5",
@@ -1492,19 +1555,6 @@
       "published": "2026-08-17T15:55:43+00:00"
     },
     {
-      "id": "2fd69bb2d4228705",
-      "title": "Sigma's Minimalist BF Camera",
-      "summary": "Japanese camera company calls their BF model\"radically simple.\" It's machined out of a single block of aluminum, a process that reportedly takes seven(!) hours. \"By simplifying and stripping away all excess elements,\" the company writes, \"this full-frame mirrorless camera redefines the process of taking a photograph as a natural act.\" The Sigma BF's most important feature is its simplicity. We wanted to create the easiest camera to use, inspired by the humble beginnings of the camera obscura. While the lens remains the soul of photography, the camera still profoundly shapes the images you…",
-      "url": "https://www.core77.com/posts/145087/Sigmas-Minimalist-BF-Camera",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846061_lead_400_145087_.png",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846061_lead_400_145087_.png"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-08-17T15:00:00+00:00"
-    },
-    {
       "id": "6a3e3ae01d8ed91a",
       "title": "Is the Sunken Bathtub the New Conversation Pit?",
       "summary": "It’s the bathroom trend that designers and architects are excited about, but are you ready to take the plunge?",
@@ -1718,12 +1768,7 @@
       "url": "https://homeadore.com/2026/08/16/kas-residence-a-house-for-family-and-friends/",
       "image": "https://homeadore.com/wp-content/uploads/2026/08/001-kas-residence-a-house-for-family-and-friends.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/08/001-kas-residence-a-house-for-family-and-friends.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/003-kas-residence-a-house-for-family-and-friends.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/006-kas-residence-a-house-for-family-and-friends.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/007-kas-residence-a-house-for-family-and-friends.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/008-kas-residence-a-house-for-family-and-friends.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/010-kas-residence-a-house-for-family-and-friends.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/08/001-kas-residence-a-house-for-family-and-friends.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -2612,7 +2657,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
       ],
@@ -2655,7 +2700,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2707,10 +2752,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/04/DIY-City-Map-Art.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3536,7 +3581,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
@@ -3747,8 +3792,8 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/05/IMG_1731-1.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Clip-Frames-by-Shanty2Chic.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Twin-Platform-Bed.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/12/Purdy-final-2.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/08/DIY-Dining-Room-Shelves-by-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
