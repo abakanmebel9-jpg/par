@@ -1,8 +1,8 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-24T17:39:56.933721+00:00",
-  "generated_at_human": "2026-08-24 17:39 UTC",
+  "generated_at": "2026-08-24T18:54:02.233797+00:00",
+  "generated_at_human": "2026-08-24 18:54 UTC",
   "total_items": 270,
   "sources_used": [
     "Apartment Therapy",
@@ -20,6 +20,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -65,7 +66,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 59,
+  "sources_count": 60,
   "multi_photo_items": 61,
   "items": [
     {
@@ -76,7 +77,7 @@
       "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512742.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=29857",
+        "https://i.archi.ru/i/1262/405309.jpg?r=41238",
         "https://i.archi.ru/i/1262/512676.jpg",
         "https://i.archi.ru/i/1262/512516.jpg",
         "https://i.archi.ru/i/1262/512749.jpg",
@@ -94,10 +95,10 @@
       "image": "https://i.archi.ru/i/1262/509814.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509814.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=30580",
-        "https://i.archi.ru/news/quadratic/434427.jpg?r=84069",
-        "https://i.archi.ru/news/quadratic/434428.jpg?r=15136",
-        "https://i.archi.ru/news/quadratic/434426.jpg?r=42450",
+        "https://i.archi.ru/i/1262/305304.jpg?r=72897",
+        "https://i.archi.ru/news/quadratic/434427.jpg?r=97674",
+        "https://i.archi.ru/news/quadratic/434428.jpg?r=83123",
+        "https://i.archi.ru/news/quadratic/434426.jpg?r=69510",
         "https://i.archi.ru/i/1262/508910.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -144,6 +145,21 @@
       "published": ""
     },
     {
+      "id": "656b625810e86d3d",
+      "title": "The Aboard T4 brings modernist architecture to the open road",
+      "summary": "Aboard’s forthcoming T4 travel trailer is a mobile modernist space with a battery and range extender for off-grid operations",
+      "url": "https://www.wallpaper.com/transportation/the-aboard-t4-brings-modernist-architecture-to-the-open-road",
+      "image": "https://cdn.mos.cms.futurecdn.net/zdeYygjVcS4NfEdccasMXC.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/zdeYygjVcS4NfEdccasMXC.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-08-24T18:15:41+00:00"
+    },
+    {
       "id": "19361365d086776a",
       "title": "Genesis ventures into the full-size, super luxury SUV market with the new all-electric GV90",
       "summary": "The Genesis GV90 is an SUV with architectural interiors, complete with four swivelling seats and options that run to underfloor heating",
@@ -157,6 +173,19 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-08-24T17:36:52+00:00"
+    },
+    {
+      "id": "42e360209580c8b3",
+      "title": "Construction begins on world's tallest jail in Manhattan",
+      "summary": "A skyscraper-sized jail designed by architecture office HOK is undergoing site preparation in New York City's Chinatown as one of the four new borough-based complexes designed to replace the city's notorious Rikers Island jail complex. The Manhattan Detention Facility will be located at 125 White Street in Chinatown, on the same site as the former The post Construction begins on world's tallest jail in Manhattan appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/08/24/manhattan-jail-hok-chinatown-construction/",
+      "image": "http://static.dezeen.com/uploads/2026/08/manhattan-detention-facility-new-york-hok_dezeen_2364_sq-1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/manhattan-detention-facility-new-york-hok_dezeen_2364_sq-1.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-08-24T16:52:16+00:00"
     },
     {
       "id": "a650d6c94a139912",
@@ -740,9 +769,7 @@
       "url": "https://www.wallpaper.com/design-interiors/pedro-almodovar-bitter-christmas-set-design",
       "image": "https://cdn.mos.cms.futurecdn.net/3A4nKzKiBTJZ9v38QRVJs7.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/3A4nKzKiBTJZ9v38QRVJs7.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/3A4nKzKiBTJZ9v38QRVJs7.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -1080,9 +1107,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/chrome-spheres-are-now-furniture-and-its-surprisingly-beautiful/wishes-0111.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/11/desk-designs/desk_designs_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/12/350134/06_adifferentspin_koenboersma_woodfurniture.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/11/auto-draft/1085_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/01/auto-draft/fullgrown_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/07/30/slo_gen_table.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/desk-gadgets-that-make-working-from-home-feel-like-a-studio-not-a-spare-room/5_best_desk_gadgets_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1303,19 +1330,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-19T17:20:56+00:00"
-    },
-    {
-      "id": "3897d84b71891e84",
-      "title": "dp6 adds timber painter’s studio to renovated home in the netherlands",
-      "summary": "behind its canal-facing façade, the home quietly turns its back on the city to make room for art, greenery and light. The post dp6 adds timber painter’s studio to renovated home in the netherlands appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/timber-painters-studio-garden-dp6s-home-renovation-netherlands/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/08/timber-painters-studio-garden-dp6s-home-renovation-netherlands1-500x400-22b08q85r809.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/08/timber-painters-studio-garden-dp6s-home-renovation-netherlands1-500x400-22b08q85r809.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-08-19T15:53:23+00:00"
     },
     {
       "id": "1c8ec407101d1284",
@@ -2385,19 +2399,6 @@
       "published": "2026-08-07T16:06:04+00:00"
     },
     {
-      "id": "66ed4c9fafa3454b",
-      "title": "Great Food and Design are Abundant at Jeju in East Vancouver",
-      "summary": "A family-operated restaurant carries a Korean island community’s spirit to Canada’s west coast. The post Great Food and Design are Abundant at Jeju in East Vancouver appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/jeju-restaurant-vancouver-daughters/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Daughters-Jeju-1.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-07T13:00:00+00:00"
-    },
-    {
       "id": "b9e697853d048199",
       "title": "LAP Open Wire Tomorrow (Sat., Aug. 8, 2026)",
       "summary": "Tomorrow (Aug. 8) is Open Wire day – a chance for you to ask any and all woodworking questions and get answers from Chris and me, as well as from your fellow woodworkers. The Open Wire post will be live here on the blog at 8 a.m. tomorrow for you to post questions in the...",
@@ -2438,9 +2439,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/01_Casa-Italia-Milano-Cortina-2026_installation-view-MUSA_Triennale-Milano_ph_Pietro-Savorelli-c-CONI.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2629,7 +2630,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2725,7 +2726,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -3606,7 +3607,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
