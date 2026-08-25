@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-25T11:37:26.147550+00:00",
-  "generated_at_human": "2026-08-25 11:37 UTC",
-  "total_items": 278,
+  "generated_at": "2026-08-25T13:06:20.240837+00:00",
+  "generated_at_human": "2026-08-25 13:06 UTC",
+  "total_items": 275,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -20,6 +19,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -56,7 +56,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -65,7 +64,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 59,
+  "sources_count": 58,
   "multi_photo_items": 61,
   "items": [
     {
@@ -76,7 +75,7 @@
       "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512742.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=15452",
+        "https://i.archi.ru/i/1262/405309.jpg?r=56800",
         "https://i.archi.ru/i/1262/512676.jpg",
         "https://i.archi.ru/i/1262/512516.jpg",
         "https://i.archi.ru/i/1262/512749.jpg",
@@ -94,10 +93,10 @@
       "image": "https://i.archi.ru/i/1262/509814.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509814.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=86811",
-        "https://i.archi.ru/news/quadratic/434427.jpg?r=39381",
-        "https://i.archi.ru/news/quadratic/434428.jpg?r=49525",
-        "https://i.archi.ru/news/quadratic/434426.jpg?r=93116",
+        "https://i.archi.ru/i/1262/305304.jpg?r=97951",
+        "https://i.archi.ru/news/quadratic/434427.jpg?r=25081",
+        "https://i.archi.ru/news/quadratic/434428.jpg?r=385",
+        "https://i.archi.ru/news/quadratic/434426.jpg?r=41186",
         "https://i.archi.ru/i/1262/508910.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -144,6 +143,83 @@
       "published": ""
     },
     {
+      "id": "5846847e4b3ccab6",
+      "title": "She Upcycles Old Wood Pallets Into A Space-Saving Outdoor Storage System",
+      "summary": "Deconstructing and reusing pallets not only saves you money (and saves wood from going to the landfill), it also allows you to customize the storage you want.",
+      "url": "https://www.hunker.com/2240836/upcycle-old-wood-pallets-space-saving-outdoor-storage-system-diy/",
+      "image": "https://www.hunker.com/img/gallery/she-upcycles-old-wood-pallets-into-a-space-saving-outdoor-storage-system/l-intro-1787237569.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/she-upcycles-old-wood-pallets-into-a-space-saving-outdoor-storage-system/l-intro-1787237569.jpg",
+        "https://www.hunker.com/img/gallery/she-upcycles-old-wood-pallets-into-a-space-saving-outdoor-storage-system/intro-1787237569.jpg",
+        "https://www.hunker.com/img/gallery/she-upcycles-old-wood-pallets-into-a-space-saving-outdoor-storage-system/use-old-pallets-to-make-an-open-cabinet-for-garden-tools-1787237570.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-25T13:00:00+00:00"
+    },
+    {
+      "id": "84109778b187be2e",
+      "title": "She Was Done With Millennial Gray, So Her Victorian Bathroom Went Pink",
+      "summary": "After living with millennial gray throughout her previous house, Reddit user u/Foreign_Cookie_1989 wanted color when she bought a Victorian home. The bathroom became the first room to change, replacing beige tile, vinyl flooring, a bathtub, and a separate enclosed shower. Green was the original plan, but research into Victorian bathrooms pushed the palette toward pink.... The post She Was Done With Millennial Gray, So Her Victorian Bathroom Went Pink appeared first on Homedit .",
+      "url": "https://www.homedit.com/she-was-done-with-millennial-gray-so-her-victorian-bathroom-went-pink/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Victorian-Bathroom-Took-an-Unexpected-Turn-With-Pink-Tile.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Victorian-Bathroom-Took-an-Unexpected-Turn-With-Pink-Tile.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Traditional-Radiator-Became-Part-of-the-Design.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Pink-Vanity-Balanced-the-Victorian-Color-Palette.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Plants-Softened-the-Wall-Above-the-Toilet.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Pink-Tile-Started-Defining-the-New-Bathroom.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Demolition-Revealed-More-Than-Old-Tile.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-25T12:43:14+00:00"
+    },
+    {
+      "id": "be28624a0945a1a9",
+      "title": "How to Make a Cabinet Door",
+      "summary": "A tongue-and-groove router bit set gets the job done fast. When you learn how to make cabinet doors, you will have mastered one of the basic skills in woodworking. Doors... Source",
+      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-door/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-25T12:37:20+00:00"
+    },
+    {
+      "id": "753c24f487146631",
+      "title": "Upholstery Isn’t Staying on the Bed, This Bedroom Carries It Across the Furniture",
+      "summary": "Upholstery has a much bigger job in this bedroom than covering the bed and chair. It turns up on the vanity, wraps around the nightstand, covers the bed frame, and replaces many of the hard furniture edges found across a bedroom. Look past the velvet, glass lights, and dark palette, and that repeated use of... The post Upholstery Isn’t Staying on the Bed, This Bedroom Carries It Across the Furniture appeared first on Homedit .",
+      "url": "https://www.homedit.com/upholstery-isnt-staying-on-the-bed-this-bedroom-carries-it-across-the-furniture/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Upholstery-Isnt-Staying-on-the-Bed-This-Bedroom-Carries-It-Across-the-Furniture.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Upholstery-Isnt-Staying-on-the-Bed-This-Bedroom-Carries-It-Across-the-Furniture.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2015/08/Fine-project-Boora-Architects-Home-Library.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Dressing-Area-Uses-Curves-Instead-of-Hard-Corners.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Victorian-Bathroom-Took-an-Unexpected-Turn-With-Pink-Tile.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/That-90s-Black-Granite-Countertop-Didnt-Need-to-Come-Out-After-All.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Couple-Kept-the-Breakfast-Nook-and-Built-the-Seating-Into-the-Kitchen-Instead.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-25T12:00:57+00:00"
+    },
+    {
+      "id": "a1dad41397a8b099",
+      "title": "This Kitchen Got a DIY Makeover for Only $2,000 — Now It's a Boho Dream",
+      "summary": "A lot of great things came out of the 1990s — and there are plenty of design trends making a comeback that we love to see. But some of the decade’s looks could use a refresher, like the super-brown kitchen in designer Sheryl Sanders’s home.After living in the home for only two months, she knew she needed to do something to modernize the cooking space.Since the old cabinet boxes were solid wood and in great condition, she decided she could get away with just replacing the doors. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/scandi-boho-kitchen-remodel-ba-37686124?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-02/Sheryl_Sanders_kitchen_before_1_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-02/Sheryl_Sanders_kitchen_before_1_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-25T12:00:00+00:00"
+    },
+    {
       "id": "1fd2a447e363c885",
       "title": "Toddler in the house? One thing in your kitchen is a bigger risk than most parents think",
       "summary": "If you’ve got a toddler in the house, you’ve already done the obvious stuff. Outlet covers. Cabinet latches. TV strapped to the wall. Cleaners moved up high. You baby-proofed the bathroom, checked the crib, watched the stairs. The thing almost no parent thinks about, and it’s sitting at your child’s eye level right now in […] The post Toddler in the house? One thing in your kitchen is a bigger risk than most parents think appeared first on Trendir .",
@@ -171,8 +247,8 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/08/That-90s-Black-Granite-Countertop-Didnt-Need-to-Come-Out-After-All.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Brown-Cabinets-and-Yellow-Walls-Surrounded-the-Black-Granite.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Black-Paint-Connected-the-Cabinets-With-the-Existing-Stone.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Goodbye-Bulky-Kitchen-Appliances-Technology-Is-Becoming-Part-of-the-Kitchen-Design.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-and-After-Shows-How-Much-of-the-Bar-Stayed.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/This-Victorian-Bathroom-Took-an-Unexpected-Turn-With-Pink-Tile.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Couple-Kept-the-Breakfast-Nook-and-Built-the-Seating-Into-the-Kitchen-Instead.jpg"
       ],
       "source": "Homedit",
@@ -214,12 +290,7 @@
       "url": "https://www.homedit.com/this-couple-kept-the-breakfast-nook-and-built-the-seating-into-the-kitchen-instead/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Couple-Kept-the-Breakfast-Nook-and-Built-the-Seating-Into-the-Kitchen-Instead.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Couple-Kept-the-Breakfast-Nook-and-Built-the-Seating-Into-the-Kitchen-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Built-In-Benches-Give-the-Breakfast-Nook-a-Smaller-Footprint.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Checkerboard-Tile-Replaces-the-Small-Brown-Floor-Pattern.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Four-Chairs-Filled-the-Breakfast-Nook.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Old-Galley-Packed-Storage-Below-Deep-Soffits.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Range-and-Refrigerator-Fit-Into-One-Cabinet-Run.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Couple-Kept-the-Breakfast-Nook-and-Built-the-Seating-Into-the-Kitchen-Instead.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -245,12 +316,7 @@
       "url": "https://www.homedit.com/raised-planting-beds-are-turning-flat-gardens-into-layered-landscapes/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Raised-Planting-Beds-Are-Turning-Flat-Gardens-Into-Layered-Landscapes.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Raised-Planting-Beds-Are-Turning-Flat-Gardens-Into-Layered-Landscapes.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Goodbye-Bulky-Kitchen-Appliances-Technology-Is-Becoming-Part-of-the-Kitchen-Design.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/That-90s-Black-Granite-Countertop-Didnt-Need-to-Come-Out-After-All.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Couple-Kept-the-Breakfast-Nook-and-Built-the-Seating-Into-the-Kitchen-Instead.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Black-Vinyl-Barstools-Got-a-New-Finish-Without-Replacing-the-Upholstery.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Damaged-Front-Door-Looked-Ready-for-Replacement-Until-the-Wood-Finish-Was-Sprayed-Blue.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Raised-Planting-Beds-Are-Turning-Flat-Gardens-Into-Layered-Landscapes.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -379,9 +445,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/jacob-armchair/jacob_armchair_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/the_portable_hammock_stand_that_sets_up_in_3_seconds_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/12/2017s-top-medical-designs-the-future-of-healthcare/best_medical_designs_of_2017_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/02/27/ams_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/09/nintendo-switch-tabla-concept-turns-traditional-music-into-playful-learning/nintendo-table-music-instrument-accessory-concept-05.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/12/16/xplus_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/10/good-things-come-in-threes/valluse_module_luggage_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -447,31 +513,13 @@
       "published": "2026-08-24T19:30:00+00:00"
     },
     {
-      "id": "c19e3cc06e7aac43",
-      "title": "SylvanSport VIRE packs king-size bed, wet bath, and full kitchen into 19.5-foot trailer",
-      "summary": "SylvanSport VIRE packs king-size bed, wet bath, and full kitchen into 19.5-foot trailer Aerodynamic design is one thing not many companies would want to compromise on in their camping trailers to enhance indoor living space. SylvanSport, based in...",
-      "url": "https://www.yankodesign.com/2026/08/24/sylvansport-vire-packs-king-size-bed-wet-bath-and-full-kitchen-into-19-5-foot-trailer/?utm_source=rss&utm_medium=rss&utm_campaign=sylvansport-vire-packs-king-size-bed-wet-bath-and-full-kitchen-into-19-5-foot-trailer",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/sylvansport-vire-packs-king-size-bed-wet-bath-and-full-kitchen-into-19-5-foot-trailer/SylvanSport-VIRE-Camper-Trailer-17.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/sylvansport-vire-packs-king-size-bed-wet-bath-and-full-kitchen-into-19-5-foot-trailer/SylvanSport-VIRE-Camper-Trailer-17.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-24T19:15:05+00:00"
-    },
-    {
       "id": "1b6fc07bd3c85751",
       "title": "Why Settle For Paint When There Are 7 Smarter Ways To Update Golden Oak Cabinets",
       "summary": "Golden oak cabinets were once a wonderful trend, but now they're woefully dated. Still, they don't need replacing, just updating with one of these methods.",
       "url": "https://www.hunker.com/2241146/ways-update-golden-oak-cabinets-without-paint/",
       "image": "https://www.hunker.com/img/gallery/why-settle-for-paint-when-there-are-7-smarter-ways-to-update-golden-oak-cabinets/l-intro-1787254384.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/why-settle-for-paint-when-there-are-7-smarter-ways-to-update-golden-oak-cabinets/l-intro-1787254384.jpg",
-        "https://www.hunker.com/img/gallery/why-settle-for-paint-when-there-are-7-smarter-ways-to-update-golden-oak-cabinets/intro-1787254384.jpg",
-        "https://www.hunker.com/img/gallery/why-settle-for-paint-when-there-are-7-smarter-ways-to-update-golden-oak-cabinets/ceruse-your-cabinet-doors-1787254386.jpg",
-        "https://www.hunker.com/img/gallery/why-settle-for-paint-when-there-are-7-smarter-ways-to-update-golden-oak-cabinets/darken-your-cabinet-fronts-with-a-layer-of-wax-1787254387.jpg",
-        "https://www.hunker.com/img/gallery/why-settle-for-paint-when-there-are-7-smarter-ways-to-update-golden-oak-cabinets/brighten-up-your-backsplash-1787254387.jpg",
-        "https://www.hunker.com/img/gallery/why-settle-for-paint-when-there-are-7-smarter-ways-to-update-golden-oak-cabinets/change-up-your-hardware-1787254388.jpg"
+        "https://www.hunker.com/img/gallery/why-settle-for-paint-when-there-are-7-smarter-ways-to-update-golden-oak-cabinets/l-intro-1787254384.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -780,19 +828,6 @@
       "published": "2026-08-24T06:57:08+00:00"
     },
     {
-      "id": "04d41d715f43c918",
-      "title": "Kitchen Cabinet Handles Aren’t Staying Small, They’re Becoming Part of the Cabinet Design",
-      "summary": "Cabinet handles used to be one of the last choices made in a kitchen, picked after the door style, color, countertop, and appliances were set. A small pull or knob finished the cabinet without asking for much attention. The kitchens below show a different approach. Handles stretch across wide drawers, run down tall cabinet doors,... The post Kitchen Cabinet Handles Aren’t Staying Small, They’re Becoming Part of the Cabinet Design appeared first on Homedit .",
-      "url": "https://www.homedit.com/kitchen-cabinet-handles-arent-staying-small-theyre-becoming-part-of-the-cabinet-design/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Cabinet-Handles-Arent-Staying-Small-Theyre-Becoming-Part-of-the-Cabinet-Design.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Cabinet-Handles-Arent-Staying-Small-Theyre-Becoming-Part-of-the-Cabinet-Design.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-24T06:54:48+00:00"
-    },
-    {
       "id": "fe3843766038afe3",
       "title": "Yarlington Lodge at The Newt in Somerset blends \"little snippets of history with life today\"",
       "summary": "British studio Richard Parr Associates has renovated a trio of 19th-century buildings at The Newt in Somerset hotel in England, restoring their interiors to nod to the site's past. Named Yarlington Lodge, the buildings are spread across five hectares of rural land at The Newt in Somerset, a luxury estate, hotel and working farm located The post Yarlington Lodge at The Newt in Somerset blends \"little snippets of history with life today\" appeared first on Dezeen .",
@@ -880,9 +915,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/backflip-chair/backflip_chair_yanko_design_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/03/02/kids_dinnerset.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/08/10-best-back-to-school-products-you-need-in-your-stationery-kit-images-pending/Back-to-school_everlasting-pencil_12.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/cat-tree-concept-proposes-a-multifunctional-and-risky-design/slash-cat-tree-concept-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/09/meet-torras-flexline-67w-the-retractable-charger-that-tames-cable-chaos/TORRAS_FlexLine_67W_Retractable_USB_C_Charger_Block_for_iPhone_17_Charger_Fast_Charging_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/07/toaster_Inspired_dishwasher_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/08/top-10-products-to-build-a-pinterest-worthy-and-cleverly-planned-bedroom-for-you/Bedroom-deisgns.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1072,9 +1107,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-navy-chair-that-refused-to-be-replaced/swivel-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/kartell-reimagines-iconic-chairs-in-barbie-pink-at-milan-design-week/Kartell_barbie_chairs_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/office-pod/jetson_office_pod_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/why-does-every-kids-chair-feel-disposable-rocco-disagrees/rocco-02-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/06/comfortable-and-aesthetic-rocker-is-made-from-a-single-plywood/curvesse-05.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/11/stool-designs/top_10_stool_designs_hero_yanko_design.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/07/04/hidden_friend.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1407,8 +1442,8 @@
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-lifestyle.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit.jpg",
         "https://sunset.com/wp-content/uploads/2026/08/outer-firepit-table.jpg",
-        "https://sunset.com/wp-content/uploads/2026/08/pottery-barn-woodside-sectional.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/hedgerow-farms-pollinators-milkweed-sun-5030-0826.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/mccloud-mercantile-hotel-aerial-pc-pusher-1.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/crowded-airport-pc-baona-getty.jpeg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/deck-before.jpg?w=1024"
       ],
       "source": "Sunset",
@@ -1633,19 +1668,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-18T15:00:00+00:00"
-    },
-    {
-      "id": "27fcc1bd5c317230",
-      "title": "5 Products to Give the Living Room a Fall Reset",
-      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-18T13:44:03+00:00"
     },
     {
       "id": "c406e4f1782c4a00",
@@ -1962,19 +1984,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-08-16T18:26:22+00:00"
-    },
-    {
-      "id": "73788c9ffdae2689",
-      "title": "Weber Is Shutting Off the June Oven’s AI Camera, and a $90 Air Fryer Already Does The Same Thing",
-      "summary": "Weber Is Shutting Off the June Oven’s AI Camera, and a $90 Air Fryer Already Does The Same Thing Somewhere in a warehouse in Illinois, someone at Weber is about to flip a switch that turns a $999 oven back into a very expensive...",
-      "url": "https://www.yankodesign.com/2026/08/16/weber-is-shutting-off-the-june-ovens-ai-camera-and-a-90-air-fryer-already-does-the-same-thing/?utm_source=rss&utm_medium=rss&utm_campaign=weber-is-shutting-off-the-june-ovens-ai-camera-and-a-90-air-fryer-already-does-the-same-thing",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/weber-is-shutting-off-the-june-ovens-ai-camera-and-a-90-air-fryer-already-does-the-same-thing/june_oven_vs_air_fryer_1.jpeg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/weber-is-shutting-off-the-june-ovens-ai-camera-and-a-90-air-fryer-already-does-the-same-thing/june_oven_vs_air_fryer_1.jpeg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-16T17:20:28+00:00"
     },
     {
       "id": "1003a4527c7560cf",
@@ -2352,19 +2361,6 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-08-11T13:54:01+00:00"
-    },
-    {
-      "id": "d1cf59c92812e34d",
-      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
-      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-11T12:57:55+00:00"
     },
     {
       "id": "32f62694ecfe87ad",
@@ -2775,22 +2771,9 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
-    },
-    {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "48a0a15730ecb6e8",
@@ -3191,19 +3174,6 @@
       "published": "2026-07-22T21:00:00+00:00"
     },
     {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
-    },
-    {
       "id": "c00cba595270b915",
       "title": "Emma Lunn turns her love of sourcing European objets into a job",
       "summary": "When most of us were holed up at home, juggling work with school schedules, learning to make bread and becoming… The post Emma Lunn turns her love of sourcing European objets into a job appeared first on The Interiors Addict .",
@@ -3259,19 +3229,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-07-17T10:00:34+00:00"
-    },
-    {
-      "id": "2415d48aa87c549b",
-      "title": "Mahogany Entry Table",
-      "summary": "Solid mahogany, frame and panel assemblies, and simple construction are the foundations of this versatile table. Often, pieces of furniture are designed with one simple function (or use) in mind... Source",
-      "url": "https://www.popularwoodworking.com/projects/mahogany-entry-table/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/06/29132745/entrytable.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-16T18:43:10+00:00"
     },
     {
       "id": "24cb70d82462b13b",
