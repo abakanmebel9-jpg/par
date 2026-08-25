@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-25T15:54:28.525671+00:00",
-  "generated_at_human": "2026-08-25 15:54 UTC",
-  "total_items": 277,
+  "generated_at": "2026-08-25T16:50:09.073382+00:00",
+  "generated_at_human": "2026-08-25 16:50 UTC",
+  "total_items": 278,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,11 +20,9 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
-    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -58,14 +56,13 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 59,
+  "sources_count": 56,
   "multi_photo_items": 60,
   "items": [
     {
@@ -76,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512742.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=79551",
+        "https://i.archi.ru/i/1262/405309.jpg?r=64248",
         "https://i.archi.ru/i/1262/512676.jpg",
         "https://i.archi.ru/i/1262/512516.jpg",
         "https://i.archi.ru/i/1262/512749.jpg",
@@ -94,10 +91,10 @@
       "image": "https://i.archi.ru/i/1262/509814.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509814.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=52239",
-        "https://i.archi.ru/news/quadratic/434427.jpg?r=39250",
-        "https://i.archi.ru/news/quadratic/434428.jpg?r=88277",
-        "https://i.archi.ru/news/quadratic/434426.jpg?r=98557",
+        "https://i.archi.ru/i/1262/305304.jpg?r=74145",
+        "https://i.archi.ru/news/quadratic/434427.jpg?r=39498",
+        "https://i.archi.ru/news/quadratic/434428.jpg?r=78916",
+        "https://i.archi.ru/news/quadratic/434426.jpg?r=89798",
         "https://i.archi.ru/i/1262/508910.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -142,6 +139,34 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "be880e492f64789c",
+      "title": "Woman Uses Temporary Tattoos To DIY Beautiful Decor On A Thrift Store Budget",
+      "summary": "This DIY emulates pretty floral decor pieces you've probably seen on the shelves of fancy homeware stores - and you just need two affordable items to make it.",
+      "url": "https://www.hunker.com/2240853/temporary-tattoo-candle-diy-thrift-store-budget/",
+      "image": "https://www.hunker.com/img/gallery/woman-uses-temporary-tattoos-to-diy-beautiful-decor-on-a-thrift-store-budget/l-intro-1787240167.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/woman-uses-temporary-tattoos-to-diy-beautiful-decor-on-a-thrift-store-budget/l-intro-1787240167.jpg",
+        "https://www.hunker.com/img/gallery/woman-uses-temporary-tattoos-to-diy-beautiful-decor-on-a-thrift-store-budget/intro-1787240167.jpg",
+        "https://www.hunker.com/img/gallery/woman-uses-temporary-tattoos-to-diy-beautiful-decor-on-a-thrift-store-budget/how-to-upgrade-basic-candles-with-temporary-tattoos-1787240168.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-25T16:00:00+00:00"
+    },
+    {
+      "id": "39771bdf0d8614ab",
+      "title": "He Gutted a Dated 600-Square-Foot NYC Apartment, Exposing the Original Beams",
+      "summary": "After uncovering original wood beams beneath the ceiling, Sean Matthew Robinson transformed a dated Hell’s Kitchen apartment into a warm, modern loft with exposed brick, custom storage, and a sleek Scandinavian-inspired kitchen. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/small-hells-kitchen-apartment-renovation-tour-37686709?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/sean-r/tours-newyork-sean-r-14",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/sean-r/tours-newyork-sean-r-14"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-25T16:00:00+00:00"
     },
     {
       "id": "7570f771193652cd",
@@ -522,19 +547,6 @@
       "published": "2026-08-24T23:50:46+00:00"
     },
     {
-      "id": "3fd269f2f1e763d3",
-      "title": "This Desk Lamp Finally Solved the Cord Problem Every Remote Worker Just Accepts",
-      "summary": "This Desk Lamp Finally Solved the Cord Problem Every Remote Worker Just Accepts Oftentimes, the way light falls in a room dictates how productive you are or how well you can finish your study, work, or task. Sometimes,...",
-      "url": "https://www.yankodesign.com/2026/08/24/this-desk-lamp-finally-solved-the-cord-problem-every-remote-worker-just-accepts/?utm_source=rss&utm_medium=rss&utm_campaign=this-desk-lamp-finally-solved-the-cord-problem-every-remote-worker-just-accepts",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/this-desk-lamp-finally-solved-the-cord-problem-every-remote-worker-just-accepts/Infinite-Solas-Lamp_Desk_wireless_4.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/this-desk-lamp-finally-solved-the-cord-problem-every-remote-worker-just-accepts/Infinite-Solas-Lamp_Desk_wireless_4.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-24T23:30:07+00:00"
-    },
-    {
       "id": "ab15c3f3d0dde753",
       "title": "This Award-Winning Armchair Proves One Bold Detail Changes Everything",
       "summary": "This Award-Winning Armchair Proves One Bold Detail Changes Everything Pepê Lima’s Jacob armchair doesn’t ease itself into a room — it arrives. Designed for Indonesian furniture brand Blackwood, the chair took home three accolades...",
@@ -572,9 +584,7 @@
       "url": "https://www.hunker.com/2236922/upcycle-old-wood-fence-countertop-storage-space-diy-riser/",
       "image": "https://www.hunker.com/img/gallery/upcycle-old-wood-into-countertop-storage-space-with-a-clever-diy/l-intro-1786693909.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/upcycle-old-wood-into-countertop-storage-space-with-a-clever-diy/l-intro-1786693909.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-wood-into-countertop-storage-space-with-a-clever-diy/intro-1786693909.jpg",
-        "https://www.hunker.com/img/gallery/upcycle-old-wood-into-countertop-storage-space-with-a-clever-diy/putting-together-your-diy-riser-1786693912.jpg"
+        "https://www.hunker.com/img/gallery/upcycle-old-wood-into-countertop-storage-space-with-a-clever-diy/l-intro-1786693909.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -907,7 +917,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/the-newt-in-somerset-yarlington-lodge-sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-24T05:00:18+00:00"
     },
@@ -1125,7 +1135,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/ktgy-fairmont-renovation-chicago_dezeen_2364_sq.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-23T05:00:29+00:00"
     },
@@ -1762,7 +1772,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag cabinets",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -2780,7 +2790,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2863,7 +2873,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -3718,7 +3728,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/05/ikea-ps-collection-furniture_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-11T09:00:14+00:00"
     },
