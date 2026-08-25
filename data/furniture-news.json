@@ -1,13 +1,15 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-24T23:30:57.730895+00:00",
-  "generated_at_human": "2026-08-24 23:30 UTC",
-  "total_items": 260,
+  "generated_at": "2026-08-25T01:48:04.314510+00:00",
+  "generated_at_human": "2026-08-25 01:48 UTC",
+  "total_items": 270,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
+    "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
     "DM tag bathroom",
@@ -18,11 +20,9 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
-    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -55,6 +55,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -63,7 +64,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
+  "sources_count": 58,
   "multi_photo_items": 61,
   "items": [
     {
@@ -74,7 +75,7 @@
       "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512742.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=48442",
+        "https://i.archi.ru/i/1262/405309.jpg?r=16209",
         "https://i.archi.ru/i/1262/512676.jpg",
         "https://i.archi.ru/i/1262/512516.jpg",
         "https://i.archi.ru/i/1262/512749.jpg",
@@ -92,10 +93,10 @@
       "image": "https://i.archi.ru/i/1262/509814.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509814.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=28269",
-        "https://i.archi.ru/news/quadratic/434427.jpg?r=40692",
-        "https://i.archi.ru/news/quadratic/434428.jpg?r=89354",
-        "https://i.archi.ru/news/quadratic/434426.jpg?r=55662",
+        "https://i.archi.ru/i/1262/305304.jpg?r=50181",
+        "https://i.archi.ru/news/quadratic/434427.jpg?r=87079",
+        "https://i.archi.ru/news/quadratic/434428.jpg?r=67840",
+        "https://i.archi.ru/news/quadratic/434426.jpg?r=21674",
         "https://i.archi.ru/i/1262/508910.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -142,6 +143,37 @@
       "published": ""
     },
     {
+      "id": "7d5e42d386d280b9",
+      "title": "A Home in the Garden: Two Landscapes for One House",
+      "summary": "A Home in the Garden, a 2024 house in Göd, Hungary, by Amoeba.Group, treats landscape as an active part of family life rather than a decorative perimeter. Its interiors address the garden through varied orientations and window types, while the grounds shift from a bright, long-blooming street garden to a shaded woodland setting for quiet […] The post A Home in the Garden: Two Landscapes for One House first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/08/24/a-home-in-the-garden-two-landscapes-for-one-house/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/08/001-a-home-in-the-garden-two-landscapes-for-one-house.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/08/001-a-home-in-the-garden-two-landscapes-for-one-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/005-a-home-in-the-garden-two-landscapes-for-one-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/006-a-home-in-the-garden-two-landscapes-for-one-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/001-a-home-in-the-garden-two-landscapes-for-one-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/002-a-home-in-the-garden-two-landscapes-for-one-house.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/004-a-home-in-the-garden-two-landscapes-for-one-house.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-08-24T23:50:46+00:00"
+    },
+    {
+      "id": "3fd269f2f1e763d3",
+      "title": "This Desk Lamp Finally Solved the Cord Problem Every Remote Worker Just Accepts",
+      "summary": "This Desk Lamp Finally Solved the Cord Problem Every Remote Worker Just Accepts Oftentimes, the way light falls in a room dictates how productive you are or how well you can finish your study, work, or task. Sometimes,...",
+      "url": "https://www.yankodesign.com/2026/08/24/this-desk-lamp-finally-solved-the-cord-problem-every-remote-worker-just-accepts/?utm_source=rss&utm_medium=rss&utm_campaign=this-desk-lamp-finally-solved-the-cord-problem-every-remote-worker-just-accepts",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/this-desk-lamp-finally-solved-the-cord-problem-every-remote-worker-just-accepts/Infinite-Solas-Lamp_Desk_wireless_4.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/this-desk-lamp-finally-solved-the-cord-problem-every-remote-worker-just-accepts/Infinite-Solas-Lamp_Desk_wireless_4.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-24T23:30:07+00:00"
+    },
+    {
       "id": "ab15c3f3d0dde753",
       "title": "This Award-Winning Armchair Proves One Bold Detail Changes Everything",
       "summary": "This Award-Winning Armchair Proves One Bold Detail Changes Everything Pepê Lima’s Jacob armchair doesn’t ease itself into a room — it arrives. Designed for Indonesian furniture brand Blackwood, the chair took home three accolades...",
@@ -151,9 +183,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/jacob-armchair/jacob_armchair_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/5-ark_desk_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/03/18/P3170079_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/374665/pet_product_design_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/05/auto-draft/dnsys_x1_exoskeleton_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/04/helix-lamp-is-an-innovative-3d-printed-lighting-solution-for-modern-spaces/Helix_lamp_lighting_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/03/yd-talks-with-sam-does-design-about-designing-the-weight-lamp-for-gantri/sam_gwilt_the_weight_lamp_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -437,19 +469,6 @@
       "published": "2026-08-24T11:58:29+00:00"
     },
     {
-      "id": "57f96764c772fb52",
-      "title": "5 Desk Gadgets & Tools Of August 2026 That Make Working From Home Feel Like a Studio",
-      "summary": "5 Desk Gadgets & Tools Of August 2026 That Make Working From Home Feel Like a Studio Most home offices look like what they are: a corner negotiated with practicality. The lamp was already there. The desk is covered in objects that...",
-      "url": "https://www.yankodesign.com/2026/08/24/5-desk-gadgets-tools-of-august-2026-that-make-working-from-home-feel-like-a-studio/?utm_source=rss&utm_medium=rss&utm_campaign=5-desk-gadgets-tools-of-august-2026-that-make-working-from-home-feel-like-a-studio",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/desk-gadgets-that-make-working-from-home-feel-like-a-studio-not-a-spare-room/5_best_desk_gadgets_yanko_design_hero.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/desk-gadgets-that-make-working-from-home-feel-like-a-studio-not-a-spare-room/5_best_desk_gadgets_yanko_design_hero.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-24T11:40:49+00:00"
-    },
-    {
       "id": "d419e393dad821e4",
       "title": "Hotel towels feel plush for years and yours don’t: here’s what almost everyone does wrong",
       "summary": "You keep the good towels folded in the linen closet for guests. You dry off with the old scratchy ones every morning. It feels responsible. But pull the good ones down for a weekend visitor, and if they feel a little flat, a little slick, less thirsty than the day you bought them, that’s not […] The post Hotel towels feel plush for years and yours don’t: here’s what almost everyone does wrong appeared first on Trendir .",
@@ -592,6 +611,19 @@
       "published": "2026-08-24T05:00:18+00:00"
     },
     {
+      "id": "bd694e813d900693",
+      "title": "I tested the $16 Bunnings toilet cleaner everyone is using on shower glass, here’s my verdict",
+      "summary": "It's changing the way people tackle bathroom grime. The post I tested the $16 Bunnings toilet cleaner everyone is using on shower glass, here’s my verdict appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/lifestyle/one-shot-thick-shower-cleaner/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/08/one-shot-thick-before-and-after-1-6a8bb3c1aa2bf.jpg?format=auto&v=1787540422",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/08/one-shot-thick-before-and-after-1-6a8bb3c1aa2bf.jpg?format=auto&v=1787540422"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-24T03:06:59+00:00"
+    },
+    {
       "id": "a159b34420a0786a",
       "title": "26 of the best bedrooms in The Block history, from beige to bold",
       "summary": "Did your favourite Block bedroom make the cut? The post 26 of the best bedrooms in The Block history, from beige to bold appeared first on Homes To Love .",
@@ -626,19 +658,6 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-08-24T02:47:19+00:00"
-    },
-    {
-      "id": "881ad24884d9828a",
-      "title": "The Type Of Oil You Don't Want To Use To Keep Grass From Sticking To Your Lawn Mower",
-      "summary": "While it might seem all oils help prevent grass from clumping under your mower deck, one common waste oil could be bad for the mower, the grass, and you.",
-      "url": "https://www.hunker.com/2240754/motor-oil-avoid-using-keep-grass-from-sticking-to-lawn-mower/",
-      "image": "https://www.hunker.com/img/gallery/the-type-of-oil-you-dont-want-to-use-to-keep-grass-from-sticking-to-your-lawn-mower/l-intro-1787235768.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/the-type-of-oil-you-dont-want-to-use-to-keep-grass-from-sticking-to-your-lawn-mower/l-intro-1787235768.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-23T23:00:00+00:00"
     },
     {
       "id": "1b3207eac2d1b44e",
@@ -676,9 +695,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/backflip-chair/backflip_chair_yanko_design_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/10/auto-draft/vibra_instrument_for_hearing_impaired_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/iphone-17e-gets-magsafe-but-no-dynamic-island-or-gemini-apple-intelligence-is-it-worth-buying/apple_iphone_17e_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/top-5-chairs/top_5_chair_designs_yanko_design_hero.jpeg"
+        "https://www.yankodesign.com/images/design_news/2022/08/lg-the-tech-company-is-now-making-furniture-that-can-purify-air/lg_aero_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/04/mindful-smartphone-detox-device-for-healthier-habits-and-balanced-digital-life/Muto_smartphone_detox_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/draft-red-dot-product/2025_red_dot_awards_product_design_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -771,10 +790,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/block-6a87acb5b4bc6.jpg?format=auto&v=1787536393",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/best-eofy-fridge-sales-australia-2026-samsung-lg-westinghouse-best-fridge-brands-6a31e1feab0e6.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/heating-6a86a3a0d362b.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/block-6a87acb5b4bc6.jpg?w=2729&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/h3-3-6a86499e2e06b-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/h3-4-6a850313e3ecc-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/04/country-road-6a8cf2ea6457e.png?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-georgia-huestis-1-6a8ccd4c667b0.jpg?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/h3-3-6a86499e2e06b-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -846,6 +865,19 @@
       "published": "2026-08-22T13:00:00+00:00"
     },
     {
+      "id": "1edd0e5fefa0f5c1",
+      "title": "Joy in Creativity: Tan France’s Castlery collab contract includes ‘one of everything’",
+      "summary": "The design icon shares how creativity, connection and family bring him joy, and what to expect from his new furniture range. The post Joy in Creativity: Tan France’s Castlery collab contract includes ‘one of everything’ appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/lifestyle/joy-in-creativity-tan-france/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/08/tan-france-castlery-furniture-range-1-better-homes-and-gardens-joy-in-creativity-series-editor-megan-osborne-6a898b0a61de6.jpg?format=auto&v=1787398947",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/08/tan-france-castlery-furniture-range-1-better-homes-and-gardens-joy-in-creativity-series-editor-megan-osborne-6a898b0a61de6.jpg?format=auto&v=1787398947"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-22T12:42:06+00:00"
+    },
+    {
       "id": "f1c083c7bbbe57f3",
       "title": "Modern bathroom ideas that turn your bathroom into the most precious room of the house",
       "summary": "Here are our best bathroom design ideas for 2027: elevate your wellness space with wood panelling, serene colour palettes and unexpected material combination",
@@ -868,9 +900,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-navy-chair-that-refused-to-be-replaced/swivel-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/07/out_of_the_bag.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/seating/homework_seating_collection_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/07/auto-draft/halsey_fracture_cabinet_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/10/01/tree_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/this-tiny-cabin-features-glazed-glass-walls-to-help-you-escape-the-city-and-connect-with-nature/00_miniblok_novablok_tiny-glass-cabin-in-nature.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/07/27/two_leg.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1025,6 +1057,19 @@
       "published": "2026-08-21T05:00:52+00:00"
     },
     {
+      "id": "e6c92a39bef1a531",
+      "title": "The best outdoor furniture for every Australian backyard, balcony, and patio",
+      "summary": "Entertaining season starts now The post The best outdoor furniture for every Australian backyard, balcony, and patio appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/best-outdoor-furniture/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/10/best-outdoor-furniture-australia-2026-outdoor-sofa-outdoor-dining-settings-6a87d9059ab9a.png?format=auto&v=1787287841",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/10/best-outdoor-furniture-australia-2026-outdoor-sofa-outdoor-dining-settings-6a87d9059ab9a.png?format=auto&v=1787287841"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-21T04:53:15+00:00"
+    },
+    {
       "id": "1ed0f458bce1acd2",
       "title": "Nômade Temple Ibiza gives the island a new place of worship",
       "summary": "A subterranean spa, cove-side dining and a shaman in-residence set the rhythm at Nômade’s new retreat on Ibiza’s northern shore",
@@ -1036,6 +1081,45 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-08-21T04:00:00+00:00"
+    },
+    {
+      "id": "e6f1d06a5b89bc31",
+      "title": "My Kitchen Rules: Where are the past winners of MKR now?",
+      "summary": "A look back at some of our faves. The post My Kitchen Rules: Where are the past winners of MKR now? appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/lifestyle/mkr-where-are-they-now/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/09/mkr-winners-6a87cc1e85491.png?format=auto&v=1787284510",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/09/mkr-winners-6a87cc1e85491.png?format=auto&v=1787284510"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-21T03:56:56+00:00"
+    },
+    {
+      "id": "3bc4a3696a9bf4ad",
+      "title": "Everything you need to know about My Kitchen Rules 2026",
+      "summary": "All the details in one place. The post Everything you need to know about My Kitchen Rules 2026 appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/lifestyle/my-kitchen-rules/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/08/mkr-judges-6a87bbcb2e41f.png?format=auto&v=1787280331",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/08/mkr-judges-6a87bbcb2e41f.png?format=auto&v=1787280331"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-21T02:51:57+00:00"
+    },
+    {
+      "id": "c5392823c8211f3d",
+      "title": "Meet the teams of My Kitchen Rules 2026",
+      "summary": "Everyone we've met so far! The post Meet the teams of My Kitchen Rules 2026 appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/lifestyle/my-kitchen-rules-contestants-2026/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/08/my-kitchen-rules-2026-teams-6a87b23062537.png?format=auto&v=1787277872",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/08/my-kitchen-rules-2026-teams-6a87b23062537.png?format=auto&v=1787277872"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-21T02:10:54+00:00"
     },
     {
       "id": "db4b9f089c5ed665",
@@ -1140,12 +1224,7 @@
       "url": "https://homeadore.com/2026/08/20/inside-a-contemporary-como-residence-art-meets-contemporary-craft/",
       "image": "https://homeadore.com/wp-content/uploads/2026/08/001-inside-a-contemporary-como-residence-art-meets-contemporary-craft.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/08/001-inside-a-contemporary-como-residence-art-meets-contemporary-craft.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/003-inside-a-contemporary-como-residence-art-meets-contemporary-craft.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/004-inside-a-contemporary-como-residence-art-meets-contemporary-craft.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/007-inside-a-contemporary-como-residence-art-meets-contemporary-craft.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/005-inside-a-contemporary-como-residence-art-meets-contemporary-craft.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/006-inside-a-contemporary-como-residence-art-meets-contemporary-craft.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/08/001-inside-a-contemporary-como-residence-art-meets-contemporary-craft.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -1191,8 +1270,8 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/diandra-politano-beauty-salon-6a869a6fa61be.jpg?format=auto&v=1787206282",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/best-eofy-fridge-sales-australia-2026-samsung-lg-westinghouse-best-fridge-brands-6a31e1feab0e6.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/04/country-road-6a8cf2ea6457e.png?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-georgia-huestis-1-6a8ccd4c667b0.jpg?w=2729&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/block-6a87acb5b4bc6.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/10/The-Lost-Flowers-Of-Alice-Hart-Amazon-Prime-Images-5.jpg?w=2304",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/28514/rebecca-hooton-writer.jpg?w=2048&format=auto"
       ],
@@ -1213,6 +1292,19 @@
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
       "published": "2026-08-20T05:00:00+00:00"
+    },
+    {
+      "id": "b3afa9c55dc69878",
+      "title": "Editor’s picks: The Kitchen Wishlist",
+      "summary": "Curated finds from BHG's editor. The post Editor’s picks: The Kitchen Wishlist appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/homes/decorating/editors-picks/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/06/2610_editors-picks-heros-1920x1080-1-6a83e0a05fc3d.jpg?format=auto&v=1787027616",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/06/2610_editors-picks-heros-1920x1080-1-6a83e0a05fc3d.jpg?format=auto&v=1787027616"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-08-19T22:47:00+00:00"
     },
     {
       "id": "0b34ce46a99f06c7",
@@ -1402,6 +1494,19 @@
       "published": "2026-08-18T15:00:00+00:00"
     },
     {
+      "id": "27fcc1bd5c317230",
+      "title": "5 Products to Give the Living Room a Fall Reset",
+      "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/5-products-to-give-the-living-room-a-fall-reset/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-Spec-Sheets-Living-Room-Roundup-Resident-Avant-Chair-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-18T13:44:03+00:00"
+    },
+    {
       "id": "c406e4f1782c4a00",
       "title": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks",
       "summary": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks Most kitchen tech is designed by people who think about kitchens. Nicolas Reynard’s StudioChef KAI was designed by someone who has actually worked in one...",
@@ -1480,7 +1585,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag cabinets",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -1493,8 +1598,8 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/bali-body-2-6a83d3bdae77a.png?format=auto&v=1787024329",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/best-eofy-fridge-sales-australia-2026-samsung-lg-westinghouse-best-fridge-brands-6a31e1feab0e6.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/04/country-road-6a8cf2ea6457e.png?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-georgia-huestis-1-6a8ccd4c667b0.jpg?w=2729&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/block-6a87acb5b4bc6.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/1-6a83cf3dabab4-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/3-6a83cf4120681-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
       ],
@@ -2113,6 +2218,19 @@
       "published": "2026-08-11T13:54:01+00:00"
     },
     {
+      "id": "d1cf59c92812e34d",
+      "title": "HOK’s Toronto Office Highlights the Studio’s Passion for Reuse",
+      "summary": "Adapting an existing floorplan while incorporating furniture from the firm’s previous space, the project is a case study for future clients looking to cut both waste and costs. The post HOK’s Toronto Office Highlights the Studio’s Passion for Reuse appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/hok-toronto-office-reuse/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-HOK-TorontoOffice-before-2.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-11T12:57:55+00:00"
+    },
+    {
       "id": "32f62694ecfe87ad",
       "title": "In Defense of Nostalgic Interiors",
       "summary": "This story is part of our Aughts Effect package, which celebrates 20 years of Popsugar — and enduring culture.",
@@ -2539,9 +2657,22 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "48a0a15730ecb6e8",
@@ -2566,8 +2697,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg"
       ],
       "source": "Interni magazine",
@@ -2953,6 +3084,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
@@ -3710,19 +3854,6 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-05-27T14:30:14+00:00"
-    },
-    {
-      "id": "25d25ab0f802dc6e",
-      "title": "26 Long TV Console Ideas That Make a Single Piece of Furniture Anchor the Whole Living Room",
-      "summary": "The long TV console is the most underestimated piece in a living room. It runs the length of the wall, holds the eye, and quietly decides whether the space feels styled or stranded. Get it right and the rest of the room more or less arranges itself. These 26 long TV console ideas are the […] The post 26 Long TV Console Ideas That Make a Single Piece of Furniture Anchor the Whole Living Room appeared first on Trendir .",
-      "url": "https://www.trendir.com/long-tv-console-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Long-TV-Console-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Long-TV-Console-Ideas.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-05-26T23:45:00+00:00"
     }
   ]
 }
