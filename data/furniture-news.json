@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-26T11:38:48.878779+00:00",
-  "generated_at_human": "2026-08-26 11:38 UTC",
-  "total_items": 282,
+  "generated_at": "2026-08-26T13:10:47.687395+00:00",
+  "generated_at_human": "2026-08-26 13:10 UTC",
+  "total_items": 279,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -24,12 +24,10 @@
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
-    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
     "Dezeen tag offices",
-    "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
     "Gardenista",
@@ -60,13 +58,12 @@
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
-    "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 59,
-  "multi_photo_items": 58,
+  "sources_count": 56,
+  "multi_photo_items": 57,
   "items": [
     {
       "id": "6764ad067ee93f77",
@@ -76,7 +73,7 @@
       "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512742.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=27309",
+        "https://i.archi.ru/i/1262/405309.jpg?r=54344",
         "https://i.archi.ru/i/1262/512676.jpg",
         "https://i.archi.ru/i/1262/512516.jpg",
         "https://i.archi.ru/i/1262/512749.jpg",
@@ -94,10 +91,10 @@
       "image": "https://i.archi.ru/i/1262/509814.jpg",
       "images": [
         "https://i.archi.ru/i/1262/509814.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=38650",
-        "https://i.archi.ru/news/quadratic/434427.jpg?r=3115",
-        "https://i.archi.ru/news/quadratic/434428.jpg?r=80900",
-        "https://i.archi.ru/news/quadratic/434426.jpg?r=21323",
+        "https://i.archi.ru/i/1262/305304.jpg?r=49876",
+        "https://i.archi.ru/news/quadratic/434427.jpg?r=23601",
+        "https://i.archi.ru/news/quadratic/434428.jpg?r=61849",
+        "https://i.archi.ru/news/quadratic/434426.jpg?r=43358",
         "https://i.archi.ru/i/1262/508910.jpg"
       ],
       "source": "Archi.ru Projects",
@@ -155,6 +152,81 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "2ac67bb50ba75c29",
+      "title": "The Sculpted Penthouse: A Calm Duplex Above Taipei",
+      "summary": "The Sculpted Penthouse turns a 230 m² (2,476-square-foot) duplex atop a residential tower in Taipei City, Taiwan, into a continuous apartment shaped by softened geometry and daylight. Peny Hsieh Interiors counters low ceilings, a fragmented plan, uneven natural light, and an underused terrace with a disciplined sequence of architectural interventions. Mineral surfaces, curved circulation, and […] The post The Sculpted Penthouse: A Calm Duplex Above Taipei first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/08/26/the-sculpted-penthouse-a-calm-duplex-above-taipei/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/08/001-the-sculpted-penthouse-a-calm-duplex-above-taipei.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/08/001-the-sculpted-penthouse-a-calm-duplex-above-taipei.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/007-the-sculpted-penthouse-a-calm-duplex-above-taipei.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/004-the-sculpted-penthouse-a-calm-duplex-above-taipei.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/005-the-sculpted-penthouse-a-calm-duplex-above-taipei.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/008-the-sculpted-penthouse-a-calm-duplex-above-taipei.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/08/001-the-sculpted-penthouse-a-calm-duplex-above-taipei.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-08-26T12:57:36+00:00"
+    },
+    {
+      "id": "52739f6288d73ed0",
+      "title": "How to Make a Cabinet Drawer",
+      "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
+      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-drawer-box/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-26T12:17:50+00:00"
+    },
+    {
+      "id": "fd6507be27a504ec",
+      "title": "You can clean your kitchen perfectly and still spread germs everywhere, because of one item",
+      "summary": "You wiped the counters. You washed the dishes. You even hit the cutting board with hot, soapy water. Your kitchen looks clean. But there’s a decent chance it isn’t. Not really. There’s one everyday thing sitting in almost every American kitchen right now that quietly undoes a lot of that work. It’s cheap. You touch […] The post You can clean your kitchen perfectly and still spread germs everywhere, because of one item appeared first on Trendir .",
+      "url": "https://www.trendir.com/you-can-clean-your-kitchen-perfectly-and-still-spread-germs-everywhere-because-of-one-item/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/dirty-dishes-coffee-mug-white-kitchen-sink.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/dirty-dishes-coffee-mug-white-kitchen-sink.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/man-looking-into-fully-stocked-kitchen-refrigerator.png",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/empty-tan-trash-can-open-on-kitchen-floor.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/08/26/petrified-wood-look-tile-kauri-tasman-blue-plank.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/bamboo-bed-high-touch.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/07/Strada-Premium-Wall-Unit.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-08-26T12:00:00+00:00"
+    },
+    {
+      "id": "377738dad1ab9411",
+      "title": "This Kitchen Redo Looks Major — But She Changed Just One Big Thing",
+      "summary": "The 1960s gave the world a lot of groovy stuff—think bean bag chairs, Sputnik light fixtures, and funky colors like avocado and mustard. But some of the decor looked a lot better back in the 1960s than it does today.Case in point: Anna Westbury’s dark wood kitchen, original to her 1968 home. Its dark wood cabinets felt imposing, and the clunky fan made the ceiling feel extra low. Anna had already replaced the old beige appliances (win! READ MORE...",
+      "url": "https://www.apartmenttherapy.com/400-dollar-green-white-kitchen-makeover-ba-37686129?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-07/ANNA_WESTBURY_before_1_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-07/ANNA_WESTBURY_before_1_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-26T12:00:00+00:00"
+    },
+    {
+      "id": "8d8edafdcd631805",
+      "title": "5 Best Japanese Kitchen Gadgets That Make Fall Cooking Feel Like a Saturday in Kyoto",
+      "summary": "5 Best Japanese Kitchen Gadgets That Make Fall Cooking Feel Like a Saturday in Kyoto Fall cooking shifts register in a specific way. The produce changes, the mornings get sharper, and the kitchen becomes a place worth spending time in...",
+      "url": "https://www.yankodesign.com/2026/08/26/5-best-japanese-kitchen-gadgets-that-make-fall-cooking-feel-like-a-saturday-in-kyoto/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-japanese-kitchen-gadgets-that-make-fall-cooking-feel-like-a-saturday-in-kyoto",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/draft-japanese-kitchen-gadgets-that-make-fall-cooking-feel-like-a-saturday-in-kyoto/5_best_japanese_kitchen_yanko_design_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/draft-japanese-kitchen-gadgets-that-make-fall-cooking-feel-like-a-saturday-in-kyoto/5_best_japanese_kitchen_yanko_design_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-26T11:40:28+00:00"
     },
     {
       "id": "51f67b1062c0974c",
@@ -245,10 +317,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Kitchen-Sinks-Are-Trading-the-Second-Bowl-for-Moveable-Work-Surfaces.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Smallest-Fixture-in-the-Bathroom-Is-Becoming-One-of-Its-Biggest-Design-Details.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/They-Needed-Another-Room-but-Didnt-Want-to-Move-So-They-Built-It-in-the-Backyard.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Replaced-an-Outdated-Kitchen-With-Red-Oak-Cabinets-Built-From-Scratch.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spent-20-Minutes-Cleaning-His-Moldy-Shower-and-the-Before-and-After-Is-Hard-to-Believe.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Pink-Bathroom-Tile-Had-Its-Era-Now-Deep-Green-Is-Taking-Over-the-Walls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Light-Is-Moving-Behind-the-Furniture-and-It-Changes-How-the-Entire-Wall-Looks.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Turned-a-Scrap-Piece-of-Wood-Into-Her-First-Fall-Decoration.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -354,8 +426,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/Coppa_Iacchetti_allestimento_bassa_05.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/DJI_0657-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/nuova-triennale-di-vincenzo-trione_internimagazine_1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Portrait-Milano_Arcipelago-Botanico_Agostino-Iacurci-6.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/02_Dorothea-Lange_A-large-sign-reading-I-am-an-American-1942.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/02_Dorothea-Lange_A-large-sign-reading-I-am-an-American-1942.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -716,29 +788,11 @@
       "url": "https://www.trendir.com/toddler-in-the-house-one-thing-in-your-kitchen-is-a-bigger-risk-than-most-parents-think/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/gas-stove-with-kettle-and-towel-kitchen.png",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/gas-stove-with-kettle-and-towel-kitchen.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Slim-Brushed-Nickel-Bar-Pulls-Across-a-Full-Kitchen.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Moody-Forest-Quilt.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/07/Strada-Premium-Wall-Unit.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/09/Jewel-toned-sofa.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/07/Surrounded-with-greenery-the-black-modern-house-with-white-interiors-stands-out-in-the-beautiful-landscape-enhanced-with-the-Wairarapa-Stream.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/gas-stove-with-kettle-and-towel-kitchen.png"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-08-25T11:00:00+00:00"
-    },
-    {
-      "id": "a441de99efde7b3f",
-      "title": "That 90s Black Granite Countertop Didn’t Need to Come Out After All",
-      "summary": "Dark granite can make an older butler’s pantry feel difficult to update without replacing one of its most expensive surfaces. Reddit user AdDue7452 worked around the existing stone instead, using the black countertop as part of a makeover that cost about $600. Brown wood cabinets, yellow walls, and traditional hardware were changed with Sherwin-Williams Black... The post That 90s Black Granite Countertop Didn’t Need to Come Out After All appeared first on Homedit .",
-      "url": "https://www.homedit.com/that-90s-black-granite-countertop-didnt-need-to-come-out-after-all/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/That-90s-Black-Granite-Countertop-Didnt-Need-to-Come-Out-After-All.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/That-90s-Black-Granite-Countertop-Didnt-Need-to-Come-Out-After-All.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-25T10:55:21+00:00"
     },
     {
       "id": "e9c84c8465a4fb4c",
@@ -748,8 +802,8 @@
       "image": "https://sunset.com/wp-content/uploads/2026/08/home-decor-shopping-pc-Mint-Images-getty.jpg?w=1200&h=600&crop=1",
       "images": [
         "https://sunset.com/wp-content/uploads/2026/08/home-decor-shopping-pc-Mint-Images-getty.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/pottery-barn-woodside-sectional.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/hedgerow-farms-pollinators-milkweed-sun-5030-0826.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/exterior-san-marino-tudor-hartmanbaldwin-pc-zeke-ruelas.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/carmel-ranch-grasses-2-0923.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/03/jessica-alpert-design-pc-sam-frost-photography.jpg?w=256&h=142&crop=1",
         "https://sunset.com/wp-content/uploads/2026/06/artwork-living-room-Kirk-Riley-Design_PC_Julie-Mannell.jpg?w=256&h=142&crop=1",
         "https://sunset.com/wp-content/uploads/2026/06/living-room-rug-Re-Find_PC_Syd-Fuller.jpg?w=256&h=142&crop=1"
@@ -894,9 +948,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/jacob-armchair/jacob_armchair_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/the-perfect-gear-to-maintain-your-oral-hygiene-while-traveling-light/IO_travel_toothbrush_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/08/06/broom_filter.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/Velites_jump_rope_fitness_system.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/03/auto-draft/calmix_mouse_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2019/04/petstyler_shower_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/apple-game-console-concept-poised-to-inch-nintendo-switch-out-of-contention/Apple-Handheld-Game-Console-3.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1033,12 +1087,7 @@
       "url": "https://homeadore.com/2026/08/24/house-over-the-hills-builds-flexibility-into-a-modular-home/",
       "image": "https://homeadore.com/wp-content/uploads/2026/08/003-house-over-the-hills-builds-flexibility-into-a-modular-home.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/08/003-house-over-the-hills-builds-flexibility-into-a-modular-home.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/009-house-over-the-hills-builds-flexibility-into-a-modular-home.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/003-house-over-the-hills-builds-flexibility-into-a-modular-home.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/005-house-over-the-hills-builds-flexibility-into-a-modular-home.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/008-house-over-the-hills-builds-flexibility-into-a-modular-home.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/08/004-house-over-the-hills-builds-flexibility-into-a-modular-home.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/08/003-house-over-the-hills-builds-flexibility-into-a-modular-home.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -1087,19 +1136,6 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-08-24T12:00:45+00:00"
-    },
-    {
-      "id": "9aa07f77e743182c",
-      "title": "This 200-Square-Foot Kitchen Didn’t Gain an Inch — But You’d Never Know",
-      "summary": "Small kitchens certainly aren’t unusable. In fact, there are plenty of space-savvy kitchen finds that can make tiny studio or galley kitchens work successfully.But sometimes, a small kitchen begs for a total renovation, which was the case for Bri Williams and her husband, Denver, and their 200-square-foot kitchen. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/green-white-kitchen-makeover-before-after-37686114?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-09/bri-w-kitchen/bri-w-kitchen-before-tag",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-09/bri-w-kitchen/bri-w-kitchen-before-tag"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-24T12:00:00+00:00"
     },
     {
       "id": "68ea1b2d2fd336af",
@@ -1254,9 +1290,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/backflip-chair/backflip_chair_yanko_design_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/08/alphapot_made_from_wood_waste_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/sustainable-glass-desk-creates-a-stunning-visual-metaphor-for-water-pollution/in-water-desk-concept-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/10/13/area_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/12/this-compact-off-road-camper-trailer-expands-to-the-size-of-a-micro-cabin/FlexCamp-Off-Road-Camper-Trailer.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/auto-draft/fire_conqueror_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/04/02/kakum_00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1419,19 +1455,6 @@
       "published": "2026-08-22T12:42:06+00:00"
     },
     {
-      "id": "f1c083c7bbbe57f3",
-      "title": "Modern bathroom ideas that turn your bathroom into the most precious room of the house",
-      "summary": "Here are our best bathroom design ideas for 2027: elevate your wellness space with wood panelling, serene colour palettes and unexpected material combination",
-      "url": "https://www.wallpaper.com/design-interiors/interior-design/bathroom-design-trends-ideas-2027",
-      "image": "https://cdn.mos.cms.futurecdn.net/bathrooms-w34M9UZpBNswC6tzJRwok9.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/bathrooms-w34M9UZpBNswC6tzJRwok9.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-08-22T08:00:00+00:00"
-    },
-    {
       "id": "58fcd611c646f861",
       "title": "The Navy Chair That Refused to Be Replaced",
       "summary": "The Navy Chair That Refused to Be Replaced The Emeco Navy Officer Swivel Chair walked into the present carrying about 75 years of history on its brushed aluminum frame. That kind of backstory...",
@@ -1441,9 +1464,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-navy-chair-that-refused-to-be-replaced/swivel-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/Troy-Smith-Studio-Star-Lounger-Details.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/12/furniture-designed-with-hidden-details-that-put-your-ikea-furniture-to-shame-part-8/01-Ryoko-Armchair_Furniture-Details_yankodesign2.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/Tippi-Chair-Concept.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/06/the-best-of-salone-del-mobile-2022-smarter-and-greener-living/Salone-Del-Mobile_YankoDesign-BestofAwards_2022_new2.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/concrete-never-looked-this-good-ronan-bouroullecs-ancora-tables/ancora-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/08/peel-is-a-coffee-table-design-with-different-layers/peel.jpeg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1671,19 +1694,6 @@
       "published": "2026-08-20T14:09:57+00:00"
     },
     {
-      "id": "9c091d656425981f",
-      "title": "Weak shower pressure? Skip the soap, one $1 pantry swap clears it in under an hour",
-      "summary": "You turn on the shower expecting that nice, steady blast. Instead the water dribbles. A couple of holes shoot sideways. One or two do nothing at all. So you grab the closest thing that looks like it should help. Dish soap. A bathroom spray. Maybe a Magic Eraser. You go at the showerhead until your […] The post Weak shower pressure? Skip the soap, one $1 pantry swap clears it in under an hour appeared first on Trendir .",
-      "url": "https://www.trendir.com/weak-shower-pressure-skip-the-soap-one-1-pantry-swap-clears-it-in-under-an-hour/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/08/before-after-showerhead-water-flow-comparison.jpg",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/before-after-showerhead-water-flow-comparison.jpg"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-08-20T12:00:00+00:00"
-    },
-    {
       "id": "9b8d4a0b6f34a3f9",
       "title": "Inside a Contemporary Como Residence, Art Meets Contemporary Craft",
       "summary": "A Contemporary Como Residence is a 100-square-meter (1,076-square-foot) apartment renovation in the historic heart of Como, Italy, designed by Anna Arpa in 2026. The project preserves the character and decorative memory of a 1970s home while opening its interiors to brighter, more fluid connections. Arches and a bespoke dining table give the renovation a continuous […] The post Inside a Contemporary Como Residence, Art Meets Contemporary Craft first appeared on HomeAdore .",
@@ -1789,19 +1799,6 @@
       "published": "2026-08-19T14:00:00+00:00"
     },
     {
-      "id": "c5303e06e15d49ba",
-      "title": "A Sectional Hiking Stick with Tools in Each Section",
-      "summary": "This product sits at the intersection between hikers and the EDC crowd. The Tactical Hiking Stick , by a faceless no-history company called TerraTactic, consists of eight aluminum sections that can each be fitted with one of the included tools. It's meant to provide a handy way to tote them all in a single object, theoretically freeing up bag or belt space; the trade-off is that you need to unscrew the stick to get to the tool. It comes with a magnetic compass, an emergency whistle, a bottle opener, a harpoon, a screwdriver, a knife, a fire starter, a paracord bundle and a wood saw. The…",
-      "url": "https://www.core77.com/posts/145110/A-Sectional-Hiking-Stick-with-Tools-in-Each-Section",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846288_lead_400_145110_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846288_lead_400_145110_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-08-19T13:00:00+00:00"
-    },
-    {
       "id": "2afb2f95ffb1623e",
       "title": "IKEA launches collectible design objects \"at a price that people can afford\"",
       "summary": "Furniture company IKEA has launched the limited-edition Konstrunda collection, an assortment of furniture and homeware objects that reimagine collectible design from the likes of Andu Masebo at an affordable price point. Konstrunda, or Art Tour, consists of 22 pieces by seven designers, including work from Masebo, Italian designer Emanuele Stamuli and Swedish talents like Lisa Hilland, The post IKEA launches collectible design objects \"at a price that people can afford\" appeared first on Dezeen .",
@@ -1859,19 +1856,6 @@
       "published": "2026-08-18T20:30:28+00:00"
     },
     {
-      "id": "e36d413093e6944b",
-      "title": "I Am My Own Limitations",
-      "summary": "Why I am not designing my own plans A craftsperson can intuitively build a chair, solving problems like comfort or build technique in their design. However, they then quickly become... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/i-am-my-own-limitations/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/07/20132634/edf9e64d-0dd5-4846-af11-d754699549b3_783x551.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/07/20132634/edf9e64d-0dd5-4846-af11-d754699549b3_783x551.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-18T15:23:05+00:00"
-    },
-    {
       "id": "27fcc1bd5c317230",
       "title": "5 Products to Give the Living Room a Fall Reset",
       "summary": "New furnishings and fixtures to refresh the heart of the home for its busiest season. The post 5 Products to Give the Living Room a Fall Reset appeared first on Azure Magazine .",
@@ -1883,19 +1867,6 @@
       "source": "Azure magazine CA",
       "source_url": "https://www.azuremagazine.com",
       "published": "2026-08-18T13:44:03+00:00"
-    },
-    {
-      "id": "c406e4f1782c4a00",
-      "title": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks",
-      "summary": "The Kitchen AI That Finally Makes Sense, Built by Someone Who Cooks Most kitchen tech is designed by people who think about kitchens. Nicolas Reynard’s StudioChef KAI was designed by someone who has actually worked in one...",
-      "url": "https://www.yankodesign.com/2026/08/18/the-kitchen-ai-that-finally-makes-sense-built-by-someone-who-cooks/?utm_source=rss&utm_medium=rss&utm_campaign=the-kitchen-ai-that-finally-makes-sense-built-by-someone-who-cooks",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/the-kitchen-ai-that-finally-makes-sense-built-by-someone-who-cooks/studio-chef-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/the-kitchen-ai-that-finally-makes-sense-built-by-someone-who-cooks/studio-chef-01.jpg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-18T13:20:35+00:00"
     },
     {
       "id": "efe1535372e3286d",
@@ -1963,7 +1934,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag cabinets",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -2010,24 +1981,6 @@
       "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-08-17T15:55:43+00:00"
-    },
-    {
-      "id": "6a3e3ae01d8ed91a",
-      "title": "Is the Sunken Bathtub the New Conversation Pit?",
-      "summary": "It’s the bathroom trend that designers and architects are excited about, but are you ready to take the plunge?",
-      "url": "https://www.elledecor.com/design-decorate/trends/g73431035/sunken-bath-bathroom-trend/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/7f489e7d-8fbd-4921-8484-abcfa0bd2473.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/7f489e7d-8fbd-4921-8484-abcfa0bd2473.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/ba1a0b60-c2e6-4aa0-b505-7cbc5a43ad6f.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/1b009102-3340-4a89-a1f5-8ab7b029e12b.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/bdf42d4c-bd2b-4f48-ab3d-a64927a8d07d.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/6e983a65-c883-4d53-aea7-4173ad152c15.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/f9cec274-9370-4740-b7f6-6b5912ed1f14.jpeg"
-      ],
-      "source": "Elle Decor",
-      "source_url": "https://www.elledecor.com",
-      "published": "2026-08-17T14:00:00+00:00"
     },
     {
       "id": "7f2e997b250cb0e2",
@@ -3005,10 +2958,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Wood-Bed-copy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
