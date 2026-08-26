@@ -1,15 +1,17 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-26T19:15:06.168135+00:00",
-  "generated_at_human": "2026-08-26 19:15 UTC",
-  "total_items": 276,
+  "generated_at": "2026-08-26T23:23:43.290690+00:00",
+  "generated_at_human": "2026-08-26 23:23 UTC",
+  "total_items": 286,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
+    "Core77",
     "DM tag bathroom",
     "DM tag cabinets",
     "DM tag furniture",
@@ -60,19 +62,24 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 55,
+  "sources_count": 56,
+  "multi_photo_items": 56,
   "items": [
     {
-      "id": "d949b3b467e8460b",
-      "title": "Театр для фигуристов или Cherchez la femme",
-      "summary": "Ледовые дворцы по своей типологии близки к промышленным зданиям: огромные безоконные залы, минимум архитектурных излишеств. Проектируя Navka Arena, бюро UNK не стало бороться с утилитарной природой сооружения, но собрало всю образную часть проекта в одном месте – на центральном фасаде. Параболический козырек, монументальная скульптура-фигуристка и ее нарисованная перфорацией тень превратили обычную спортивную «коробку» в архитектурное высказывание о льде, движении и театре.",
-      "url": "https://archi.ru/russia/102638/teatr-dlya-figuristov-ili-cherchez-la-femme",
-      "image": "https://i.archi.ru/i/1262/513306.jpg",
+      "id": "6764ad067ee93f77",
+      "title": "С ювелирной точностью",
+      "summary": "До 4 октября в Государственном музее архитектуры проходит выставка «Федор Шехтель. Грезы русского модерна», приуроченная к столетию со дня смерти архитектора. В парадной анфиладе усадьбы Талызиных собрали две с половиной сотни экспонатов – графику, фотографии, макеты, мебель, книги и семейные реликвии.",
+      "url": "https://archi.ru/russia/102628/grezy-o-shekhtele",
+      "image": "https://i.archi.ru/i/1262/512742.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/513306.jpg"
+        "https://i.archi.ru/i/1262/512742.jpg",
+        "https://i.archi.ru/i/1262/405309.jpg?r=14064",
+        "https://i.archi.ru/i/1262/512676.jpg",
+        "https://i.archi.ru/i/1262/512516.jpg",
+        "https://i.archi.ru/i/1262/512749.jpg",
+        "https://i.archi.ru/i/1262/512752.jpg"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -97,19 +104,6 @@
       "image": "https://i.archi.ru/i/1262/512948.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512948.jpg"
-      ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "6764ad067ee93f77",
-      "title": "С ювелирной точностью",
-      "summary": "До 4 октября в Государственном музее архитектуры проходит выставка «Федор Шехтель. Грезы русского модерна», приуроченная к столетию со дня смерти архитектора. В парадной анфиладе усадьбы Талызиных собрали две с половиной сотни экспонатов – графику, фотографии, макеты, мебель, книги и семейные реликвии.",
-      "url": "https://archi.ru/russia/102628/grezy-o-shekhtele",
-      "image": "https://i.archi.ru/i/1262/512742.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/512742.jpg"
       ],
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
@@ -166,6 +160,96 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "8f891fda6d64bd06",
+      "title": "Nevi Brings a Little Playfulness to the Serious Desk Lamp",
+      "summary": "Nevi Brings a Little Playfulness to the Serious Desk Lamp There is something oddly comforting about an object that can lose its balance and find its way back. Nevi takes that small, almost childlike pleasure...",
+      "url": "https://www.yankodesign.com/2026/08/26/nevi-brings-a-little-playfulness-to-the-serious-desk-lamp/?utm_source=rss&utm_medium=rss&utm_campaign=nevi-brings-a-little-playfulness-to-the-serious-desk-lamp",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/nevi-brings-a-little-playfulness-to-the-serious-desk-lamp/nevi_kinetic_desk_lamp_1.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/nevi-brings-a-little-playfulness-to-the-serious-desk-lamp/nevi_kinetic_desk_lamp_1.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-26T22:30:06+00:00"
+    },
+    {
+      "id": "ed461d2add1c9707",
+      "title": "They Didn’t Make This Kitchen Any Bigger — They Just Made 1 Smart Change",
+      "summary": "Cramped quarters can make it hard to want to spend much time in a kitchen. And plenty of factors beyond actual square footage can contribute to that feeling — dark finishes, bulky cabinetry, and blocked windows, for starters.Van Tuyet (@percivalinbloom) had to deal with all three in her townhouse’s kitchen. “The kitchen and dining area felt closed in, which amplified how narrow our townhouse felt,” Van says. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/white-and-green-no-walls-removed-kitchen-reno-ba-37686134?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-09/Van_Tuyet_kitchen_before_3_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2020-09/Van_Tuyet_kitchen_before_3_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-08-26T22:00:00+00:00"
+    },
+    {
+      "id": "072cfa2e65a37852",
+      "title": "Behr’s 2027 Color of the Year Finds New Depth in Green",
+      "summary": "Grounded moves between moss, olive, and earthy brown, reflecting a broader shift toward richer color, natural materials, and restorative interiors",
+      "url": "https://design-milk.com/behr-2027-color-of-the-year-grounded/",
+      "image": "https://design-milk.com/images/2026/08/BEHR_26.03_TRENDS_TC_OFF_004-1280x1280-1.jpeg",
+      "images": [
+        "https://design-milk.com/images/2026/08/BEHR_26.03_TRENDS_TC_OFF_004-1280x1280-1.jpeg",
+        "https://design-milk.com/images/2026/08/behr_26.03_trends_tc_kit1_003-1280x1280-1.jpeg",
+        "https://design-milk.com/images/2026/08/behr_26.03_trends_tc_din_004-1280x1280-1.jpeg",
+        "https://design-milk.com/images/2026/08/behr_26.03_trends_tc_bed1_002-1280x1280-1.jpeg",
+        "https://design-milk.com/images/2026/08/bed_26.03_trends_tc_sunroom_001-1280x1280-1.jpeg",
+        "https://design-milk.com/images/2025/12/2025-Top10-Best-10-Shield-Shelter-Lakeside-Home-Barbora-Vokac-Taylor.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-08-26T21:47:09+00:00"
+    },
+    {
+      "id": "9abdc3f5a9a37a43",
+      "title": "Laminate Countertops Look Way Different From What You Remember",
+      "summary": "Do you remember laminate countertops from your grandparents' house? Laminate has evolved, and today's styles look almost as nice as expensive stone. Learn more.",
+      "url": "https://www.hunker.com/2241658/laminate-countertops-change-over-time-old-vs-new-styles/",
+      "image": "https://www.hunker.com/img/gallery/laminate-countertops-look-way-different-from-what-you-remember/l-intro-1787324965.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/laminate-countertops-look-way-different-from-what-you-remember/l-intro-1787324965.jpg",
+        "https://www.hunker.com/img/gallery/laminate-countertops-look-way-different-from-what-you-remember/intro-1787324965.jpg",
+        "https://www.hunker.com/img/gallery/laminate-countertops-look-way-different-from-what-you-remember/exploring-modern-laminate-countertops-1787324966.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-26T20:00:00+00:00"
+    },
+    {
+      "id": "b051ae92bbb64e84",
+      "title": "Kemetale Revives the Art of Slow Travel on the Nile",
+      "summary": "A reimagined Egyptian dahabeah pairs a centuries-old mode of travel with contemporary interiors, local craftsmanship, and an itinerary designed around the pleasures of drifting",
+      "url": "https://design-milk.com/kemetale-egyptian-dahabeah-nile/",
+      "image": "https://design-milk.com/images/2026/08/Kemetale-1.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/08/Kemetale-1.jpg",
+        "https://design-milk.com/images/2026/08/Kemetale-6.jpg",
+        "https://design-milk.com/images/2026/08/Kemetale-9.jpg",
+        "https://design-milk.com/images/2026/08/Kemetale-12.jpg",
+        "https://design-milk.com/images/2026/08/Kemetale-2.jpg",
+        "https://design-milk.com/images/2026/08/Kemetale-3.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-08-26T19:54:14+00:00"
+    },
+    {
+      "id": "b87f6f4ee9cd9095",
+      "title": "FiiO QX11 brings desktop-class audio power to a pocket-sized DAC",
+      "summary": "FiiO QX11 brings desktop-class audio power to a pocket-sized DAC A good DAC should disappear into the setup, not demanding any attention or taking over a desk. The high-resolution amplifier should be better at doing...",
+      "url": "https://www.yankodesign.com/2026/08/26/fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac/?utm_source=rss&utm_medium=rss&utm_campaign=fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac/Fiio-QX11-DAC-2.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/fiio-qx11-brings-desktop-class-audio-power-to-a-pocket-sized-dac/Fiio-QX11-DAC-2.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-26T19:20:12+00:00"
     },
     {
       "id": "982f5e0d200f5fe8",
@@ -233,6 +317,19 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-08-26T15:20:24+00:00"
+    },
+    {
+      "id": "8a5073f0aa68d6f8",
+      "title": "Industrial Design Trio Invents a Tile System for Three-Dimensional Space",
+      "summary": "A good designer, we were taught at ID school, pays careful attention to the transitions where two surfaces intersect. So it's fitting that this DTILE system was invented by a trio of industrial designers: Arnout Visser, Erik Jan Kwakkel and Peter van der Jagt, who all hail from the Netherlands. Rather than merely producing flat tiles, the DTILE system also includes curved, corner, edge and transition pieces that allow the tiled surface to follow a three-dimensional shape. Furthermore there are utility tiles and allow for shelves, hooks, vents, electrical outlets, drawers and the like.…",
+      "url": "https://www.core77.com/posts/145173/Industrial-Design-Trio-Invents-a-Tile-System-for-Three-Dimensional-Space",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847446_lead_400_145173_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1847446_lead_400_145173_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-26T15:00:00+00:00"
     },
     {
       "id": "bfd910b6a5ccaa2e",
@@ -574,8 +671,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/Coppa_Iacchetti_allestimento_bassa_05.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/02_Dorothea-Lange_A-large-sign-reading-I-am-an-American-1942.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/nuova-triennale-di-vincenzo-trione_internimagazine_1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/DJI_0657-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/DJI_0657-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -698,21 +795,6 @@
       "published": "2026-08-25T21:00:00+00:00"
     },
     {
-      "id": "6f8b69a7af0eb132",
-      "title": "Turn An Old Food Container Into Stylish Countertop Storage With A Clever DIY",
-      "summary": "Countertop storage containers don't have to be expensive or even store-bought. With this DIY, turn an old food tub into an attractive way to stash items.",
-      "url": "https://www.hunker.com/2241271/old-food-container-stylish-countertop-storage-clever-diy/",
-      "image": "https://www.hunker.com/img/gallery/turn-an-old-food-container-into-stylish-countertop-storage-with-a-clever-diy/l-intro-1787264468.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/turn-an-old-food-container-into-stylish-countertop-storage-with-a-clever-diy/l-intro-1787264468.jpg",
-        "https://www.hunker.com/img/gallery/turn-an-old-food-container-into-stylish-countertop-storage-with-a-clever-diy/intro-1787264468.jpg",
-        "https://www.hunker.com/img/gallery/turn-an-old-food-container-into-stylish-countertop-storage-with-a-clever-diy/how-to-make-a-charming-storage-box-out-of-a-leftover-food-container-1787264470.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-25T19:00:00+00:00"
-    },
-    {
       "id": "85f66a85b060820f",
       "title": "IWF Challenger Award Winners Selected",
       "summary": "Seven winners were announced this morning for the Challengers Distinguished Achievement Awards at IWF 2026 in Atlanta. The winning innovations were chosen for their ability to advance woodworking technology, manufacturing,... The post IWF Challenger Award Winners Selected appeared first on Woodshop News Magazine .",
@@ -780,6 +862,19 @@
       "published": "2026-08-25T15:00:45+00:00"
     },
     {
+      "id": "b1040d87954cc9ba",
+      "title": "The Portable Rope Stool, Borne from a Swedish-Japanese Design Collaboration",
+      "summary": "Last year Oshinsha , a Japanese retailer that sells and promotes work by Japanese craftspeople, set up an interesting initiative: The Tottori–Gothenburg Craft Exchange Project, linking Swedish creatives from Gothenburg with Japanese craftspeople in Tottori Prefecture. After securing funding from both Japanese and Swedish groups, six Swedes were brought to Tottori to collaborate with local craftspeople for three weeks. Swedish artist/designer Esbjorn Grip teamed up with Japanese chairmaker Junsei Fujimoto on this Rope Stool. Their brief: Create a piece of furniture from a single, repeatable…",
+      "url": "https://www.core77.com/posts/145161/The-Portable-Rope-Stool-Borne-from-a-Swedish-Japanese-Design-Collaboration",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847140_lead_400_145161_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1847140_lead_400_145161_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-25T15:00:00+00:00"
+    },
+    {
       "id": "1477174ea3ad8946",
       "title": "Her kitchen always smelled faintly sour until she found the one spot no one thinks to clean",
       "summary": "She wiped the counters. She scrubbed the sink. She took the trash out twice a day. And still, every time she walked into her kitchen after work, that faint sour smell was right there waiting, low and stubborn. She sniffed the sponge. She checked the disposal. She emptied the fridge. Nothing. The smell was coming […] The post Her kitchen always smelled faintly sour until she found the one spot no one thinks to clean appeared first on Trendir .",
@@ -809,6 +904,19 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-08-25T14:02:17+00:00"
+    },
+    {
+      "id": "491c343ba3f5d4e1",
+      "title": "A User-Repairable Smartphone Finally Comes to the 'States",
+      "summary": "For over a decade, Europeans have been able to buy a modular, self-repairable smartphone that allows them to avoid expensive repairs. Called the Fairphone, it's made by a Dutch company of the same name. Now they're finally exporting their latest model, the Fairphone Gen. 6+ , to the 'States. The Fairphone Gen. 6+ has a 6.3\" OLED display and three cameras: A 50MP main camera, a 13MP ultra-wide, and a 32MP front camera. It can shoot 4K video and has 256GB of storage, expandable to 2TB with a MicroSD card. The phone's real appeal is that it comes with a T5 Torx screwdriver that allows you to…",
+      "url": "https://www.core77.com/posts/145160/A-User-Repairable-Smartphone-Finally-Comes-to-the-States",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847121_lead_400_145160_.jpeg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1847121_lead_400_145160_.jpeg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-25T14:00:00+00:00"
     },
     {
       "id": "84109778b187be2e",
@@ -1042,9 +1150,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/jacob-armchair/jacob_armchair_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/ultra-minimalist-folding-chair-tries-to-redeem-the-notchs-tarnished-reputation/notch-chair-6.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/03/tecno-camon-40-pro-5g-review-ai-for-all/tecno-camon-40-pro-5g-review-02.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/child_specific_baking_utensil_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2016/02/auto-draft/electric_multikettle_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/08/auto-draft/peleg_juicepair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/12/auto-draft/mr_wakey_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1184,6 +1292,19 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-24T13:00:15+00:00"
+    },
+    {
+      "id": "45828005ea05cf39",
+      "title": "Two Experimental Mobile Drawer Designs",
+      "summary": "Keiji Ashizawa has a background most architects don't: After gaining his degree, he worked with a metalworking shop that produced furniture and lighting. When he eventually set up his own architecture and design studio, the metal fabrication background continued to inform his work. Ashizawa, who designs both buildings and furniture, created these two experimental mobile drawer designs that rely on a minimal amount of steel to provide a skeletal structure. Bon Drawer features gestural side supports joined by two horizontal bars. Five small square-stock rails are attached to each support,…",
+      "url": "https://www.core77.com/posts/145151/Two-Experimental-Mobile-Drawer-Designs",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846969_lead_400_145151_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846969_lead_400_145151_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-24T13:00:00+00:00"
     },
     {
       "id": "894bfb92c331e3e0",
@@ -1356,9 +1477,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/backflip-chair/backflip_chair_yanko_design_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/09/26/wind_fire_rain.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/top-10-star-wars-inspired-designs-to-celebrate-the-4th-of-may/top_10_star_wars_inspired_designs_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2012/03/22/light_stick.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/06/ride-over-the-tax-regime-with-outlaw-bike-you-can-configure-into-furniture-and-vice-versa/Outlaw-Bike.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/rike-predator-when-integral-construction-defines-the-future-of-edc-knife-design/IMG_2583-1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2024/07/glass-jar-lets-you-hold-sparklers-up-close-and-personal/2.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1530,9 +1651,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-navy-chair-that-refused-to-be-replaced/swivel-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-tiny-74-device-turns-an-old-ipad-into-a-smart-dashboard-for-cars-that-never-had-one/HERMIX-NANO-Turn-Your-Tablet-Into-a-Smart-Car-System-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/375535/Eleven-Desk-Details.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/frank-lloyd-wrights-long-lost-chair-designs-finally-come-to-life-after-70-years/YD-frank-lloyd-wright-chairs-debut-at-MOWA-show-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/05/06/etageredecoin01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/10/this-height-adjustable-smart-gaming-desk-has-everything-for-a-productive-multimonitor-setup/Thermaltake-ARGENT-P900-Smart-Gaming-Desk-Designed-by-STUDIO-F.-A.-PORSCHE-19.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/04/top-10-coffee-tables/top_10_coffee_tables_yanko_design_hero.jpeg",
+        "https://www.yankodesign.com/images/design_news/2025/03/a-customizable-metal-wire-chair-for-modern-indoor-outdoor-spaces/Twain_chair_furniture_05.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1550,6 +1671,32 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-08-21T16:57:54+00:00"
+    },
+    {
+      "id": "964f4b109b9ea559",
+      "title": "Core77 Weekly Roundup (8-17-26 to 8-21-26)",
+      "summary": "Here's what we looked at this week: In Holland, a self-powered river crossing for bikes. The Leitz Portable Desk Organizer for hot-desking. Sigma's minimalist unibody BF camera , by Iwasaki Design Studio. An \"aerial school bus\" system for kids who commute from gorge to canyon rim for school. CMPT's take on the apple box. Felice Varini's optical-illusion interiors. A clock that lives on the edge , by industrial designer HoHyeon Lim. A sectional hiking stick with tools in each section. The emergent low-effort way to share dimensions for plans. Toyomitsu's brilliant design for a specialty…",
+      "url": "https://www.core77.com/posts/145081/Core77-Weekly-Roundup-8-17-26-to-8-21-26",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1845928_lead_400_145081_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1845928_lead_400_145081_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-21T15:00:00+00:00"
+    },
+    {
+      "id": "182bd58bf9be94a3",
+      "title": "A Slick, Minimalist Height-Adjustable Side Table",
+      "summary": "This elegant Hopper side table is by Swedish designer Mattias Stenberg . It features an offset leg, as it's meant to be cantilevered over a chair or sofa. The circular black things you see on the feet aren't wheels, but low-friction glides that allow you to smoothly move the table or pivot it into position. On the top you see this flush button. That allows you to change the table's height, thanks to a lift mechanism concealed within the leg. The table is available with tops made of glass, wood or powder-coated metal. It's in production by Swedish furniture brand Materia .",
+      "url": "https://www.core77.com/posts/145139/A-Slick-Minimalist-Height-Adjustable-Side-Table",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846730_lead_400_145139_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846730_lead_400_145139_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-08-21T13:00:00+00:00"
     },
     {
       "id": "94d682ac6f57804f",
@@ -1832,12 +1979,7 @@
       "url": "https://design-milk.com/polaroid-pokemon-instant-camera-collection/",
       "image": "https://design-milk.com/images/2026/08/Polaroid-Pokemon-Comms-16x9-Lifestyle-Accessories-A3d532.png",
       "images": [
-        "https://design-milk.com/images/2026/08/Polaroid-Pokemon-Comms-16x9-Lifestyle-Accessories-A3d532.png",
-        "https://design-milk.com/images/2026/08/Polaroid-Pokemon-Comms-16x9-PokeballNow-1674c0.png",
-        "https://design-milk.com/images/2026/08/Polaroid-Pokemon-Comms-16x9-KV-B7d8c1.png",
-        "https://design-milk.com/images/2026/08/Polaroid-Pokemon-Comms-4x5-Lifestyle-SylveonGo-E37204.png",
-        "https://design-milk.com/images/2026/08/Polaroid-Pokemon-Comms-4x5-Lifestyle-PikachuGo-Cc87c0.png",
-        "https://design-milk.com/images/2025/12/2025-Top10-Best-10-Shield-Shelter-Lakeside-Home-Barbora-Vokac-Taylor.jpg"
+        "https://design-milk.com/images/2026/08/Polaroid-Pokemon-Comms-16x9-Lifestyle-Accessories-A3d532.png"
       ],
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
@@ -1990,14 +2132,9 @@
       "url": "https://design-milk.com/hotel-chalet-mirabell-south-tyrol-italy/",
       "image": "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg",
       "images": [
-        "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg",
-        "https://design-milk.com/images/2026/08/Chalet-Mirabell-8.jpg",
-        "https://design-milk.com/images/2026/08/Chalet-Mirabell-5.jpg",
-        "https://design-milk.com/images/2026/08/Chalet-Mirabell-2.jpg",
-        "https://design-milk.com/images/2026/08/Chalet-Mirabell-7.jpg",
-        "https://design-milk.com/images/2026/08/Chalet-Mirabell-6.jpg"
+        "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -2625,9 +2762,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/02/9.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2785,7 +2922,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/1.-DviraInteriors-loft1449.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
     },
@@ -2825,9 +2962,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_1109-900x820.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg"
+        "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
+        "https://www.internimagazine.it/content/uploads/2026/04/GD9_6826.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
