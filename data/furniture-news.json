@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-30T00:11:54.025676+00:00",
-  "generated_at_human": "2026-08-30 00:11 UTC",
-  "total_items": 263,
+  "generated_at": "2026-08-30T06:33:10.610133+00:00",
+  "generated_at_human": "2026-08-30 06:33 UTC",
+  "total_items": 264,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,7 +20,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -63,7 +62,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
+  "sources_count": 56,
   "multi_photo_items": 56,
   "items": [
     {
@@ -74,8 +73,8 @@
       "image": "https://i.archi.ru/i/1262/513306.jpg",
       "images": [
         "https://i.archi.ru/i/1262/513306.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=19880",
-        "https://i.archi.ru/news/quadratic/407184.jpg?r=31444",
+        "https://i.archi.ru/i/1262/405309.jpg?r=85865",
+        "https://i.archi.ru/news/quadratic/407184.jpg?r=1628",
         "https://i.archi.ru/i/1262/491100.jpg",
         "https://i.archi.ru/i/1262/491088.jpg"
       ],
@@ -175,6 +174,65 @@
       "published": ""
     },
     {
+      "id": "7703b2a0cb4fa74a",
+      "title": "Instead of a Macramé Basket, This Hanging Planter Uses a Wood Shelf to Hold the Pot",
+      "summary": "Macramé plant hangers often use knotted cord to cradle a pot from below. Homedit contributor Francesca Stone took a different approach, placing the planter inside a square wood shelf and using the cord to suspend the structure above it. She combined plywood, natural jute, pink cord, and a white planter, with the wood taking the... The post Instead of a Macramé Basket, This Hanging Planter Uses a Wood Shelf to Hold the Pot appeared first on Homedit .",
+      "url": "https://www.homedit.com/instead-of-a-macrame-basket-this-hanging-planter-uses-a-wood-shelf-to-hold-the-pot/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Plywood-Takes-Over-the-Job-of-Supporting-the-Pot.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Plywood-Takes-Over-the-Job-of-Supporting-the-Pot.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Your-Standard-Bathroom-Fixtures-Wood-Tubs-Sculptural-Sinks-and-Mirrors-Change-the-Look.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Yellow-Pillowcases-Need-This-Step-Before-They-Go-in-the-Washing-Machine.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Finished-Hanger-Keeps-the-Pot-in-Full-View.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-25-Marketplace-Dresser-Sold-for-700-After-a-Blue-Paint-Makeover.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Upcycled-an-Old-Wood-Pallet-Into-a-Wall-Shelf-and-Dyed-the-Wood-Instead-of-Painting-It.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-08-30T05:47:38+00:00"
+    },
+    {
+      "id": "ca94352aec3b5345",
+      "title": "Guide to Standard Kitchen Cabinet Dimensions and Sizes",
+      "summary": "How wide and tall are base, pantry, and other cabinets in your cooking space? Use After you know the standard sizes of cabinets, it’s not hard to pick the most-fitting ones for your kitchen project. The post Guide to Standard Kitchen Cabinet Dimensions and Sizes appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/articles/standard-kitchen-cabinet-sizes/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2023/06/different-kitchen-cabinets-AdobeStock_298471475.jpeg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2023/06/different-kitchen-cabinets-AdobeStock_298471475.jpeg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-08-30T03:02:28+00:00"
+    },
+    {
+      "id": "ab8690581b657217",
+      "title": "Use Vinegar To Easily Remove Water Stains From Your Ceiling With A Smart DIY",
+      "summary": "Most of us already have a bottle in our pantry, so making this effective DIY out of vinegar to tackle water stains on your ceiling should be a breeze.",
+      "url": "https://www.hunker.com/2246922/how-to-remove-water-stains-from-ceiling-vinegar-smart-diy/",
+      "image": "https://www.hunker.com/img/gallery/use-vinegar-to-easily-remove-water-stains-from-your-ceiling-with-a-smart-diy/l-intro-1787676297.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/use-vinegar-to-easily-remove-water-stains-from-your-ceiling-with-a-smart-diy/l-intro-1787676297.jpg",
+        "https://www.hunker.com/img/gallery/use-vinegar-to-easily-remove-water-stains-from-your-ceiling-with-a-smart-diy/intro-1787676297.jpg",
+        "https://www.hunker.com/img/gallery/use-vinegar-to-easily-remove-water-stains-from-your-ceiling-with-a-smart-diy/how-to-remove-light-ceiling-water-stains-with-vinegar-1787676299.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-08-30T02:00:00+00:00"
+    },
+    {
+      "id": "bfefc5fe7f1c1349",
+      "title": "The ZWO Seestar S50 Pro Shrinks a Hardware Store Into a Camera Bag",
+      "summary": "The ZWO Seestar S50 Pro Shrinks a Hardware Store Into a Camera Bag Astrophotography has always had a bit of a reputation problem. Getting a decent image of a nebula or galaxy typically means wrestling with a telescope,...",
+      "url": "https://www.yankodesign.com/2026/08/29/the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag/?utm_source=rss&utm_medium=rss&utm_campaign=the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag/Seestar-S50-Pro-hero.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/08/the-zwo-seestar-s50-pro-shrinks-a-hardware-store-into-a-camera-bag/Seestar-S50-Pro-hero.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-08-30T01:45:26+00:00"
+    },
+    {
       "id": "05374a4df56f828e",
       "title": "He Upcycles An Old Cabinet Into An Outdoor Storage System With A Chic DIY",
       "summary": "Outdoor storage can be attractive as well as functional. With this DIY, you can turn an old wooden cabinet into a stylish spot to store backyard essentials.",
@@ -268,34 +326,6 @@
       "published": "2026-08-29T14:08:39+00:00"
     },
     {
-      "id": "27aed580e656b61a",
-      "title": "Use Old Plastic Containers To DIY Stylish Bathroom Storage Instead Of Tossing Them",
-      "summary": "Plastic food containers can pile up quickly, and if you feel guilty throwing them away, there's an easy DIY that can give you some added bathroom storage.",
-      "url": "https://www.hunker.com/2242517/use-old-plastic-food-container-diy-bathroom-storage/",
-      "image": "https://www.hunker.com/img/gallery/use-old-plastic-food-container-diy-bathroom-storage/l-intro-1787845071.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/use-old-plastic-food-container-diy-bathroom-storage/l-intro-1787845071.jpg",
-        "https://www.hunker.com/img/gallery/use-old-plastic-food-container-diy-bathroom-storage/intro-1787845071.jpg",
-        "https://www.hunker.com/img/gallery/use-old-plastic-food-container-diy-bathroom-storage/use-basic-materials-you-already-have-to-complete-this-diy-for-free-1787845072.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-29T14:00:00+00:00"
-    },
-    {
-      "id": "c532e7cb9eac4e10",
-      "title": "No Need For Tools: Sharpen Blades With A Dish That's Already In Your Cabinets",
-      "summary": "Blades will inevitably dull over time, but you don't need to take them to a professional or buy a sharpener yourself to get them back into chopping shape.",
-      "url": "https://www.hunker.com/2242514/sharpen-blades-no-tools-use-coffee-mug-hack/",
-      "image": "https://www.hunker.com/img/gallery/no-need-for-tools-sharpen-blades-with-a-dish-thats-already-in-your-cabinets/l-intro-1787534404.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/no-need-for-tools-sharpen-blades-with-a-dish-thats-already-in-your-cabinets/l-intro-1787534404.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-08-29T13:00:00+00:00"
-    },
-    {
       "id": "892056f04663997c",
       "title": "Mezquite & Mezcaleria: A Restaurant Rooted in Reuse",
       "summary": "Mezquite & Mezcaleria brings a Sonoran-inspired restaurant and adjoining bar to San Antonio’s Pearl District, where Clayton Korte works within the restored 1948 Samuels Glass Co. building. Original steel trusses, brick walls, and clerestory windows retain the factory’s industrial character, while hand-troweled plaster, ocotillo screens, Mexican-made furniture, and a sculptural mezcal bar introduce a tactile […] The post Mezquite & Mezcaleria: A Restaurant Rooted in Reuse first appeared on HomeAdore .",
@@ -351,12 +381,7 @@
       "url": "https://www.homedit.com/he-spray-painted-the-cherry-wood-cabinets-farrow-ball-blackened-and-kept-the-dark-details-for-contrast/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Cherry-Wood-Cabinets-Farrow-Ball-Blackened-and-Kept-the-Dark-Details-for-Contrast.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Cherry-Wood-Cabinets-Farrow-Ball-Blackened-and-Kept-the-Dark-Details-for-Contrast.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Not-Your-Standard-Bathroom-Fixtures-Wood-Tubs-Sculptural-Sinks-and-Mirrors-Change-the-Look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Yellow-Pillowcases-Need-This-Step-Before-They-Go-in-the-Washing-Machine.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Frosted-Glass-Cabinets-Were-Worked-Into-the-New-Finish.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Stainless-Steel-Still-Marks-the-Cooking-Zone.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Black-Handles-Replaced-the-Brushed-Metal-Hardware.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Cherry-Wood-Cabinets-Farrow-Ball-Blackened-and-Kept-the-Dark-Details-for-Contrast.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -427,7 +452,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/08/petite-pelican/petite_pelican_yanko_design_01.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-28T22:30:47+00:00"
     },
@@ -480,9 +505,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/rope-replaced-every-screw-and-dowel-in-this-77-wooden-folding-stool/rope-stool-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/Blueair-Blue-Signature-Review-YankoDesign-layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/mobile-vanity-capsule-mixes-retro-style-and-toy-like-design-with-modern-glam/mobile-modular-vanity-07.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/this-zigzagging-wooden-bookshelf-doesnt-care-how-tall-you-are/tsuranari-bookshelf-border-design-architects-06.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/05/auto-draft/karekla_chair_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/02/terrazzo-side-table-concept-seems-to-tempt-fate-and-defy-the-laws-of-physics/balance-side-table-concept-6.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/02/14/timber01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -526,19 +551,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-28T13:00:00+00:00"
-    },
-    {
-      "id": "0cd16e767a563254",
-      "title": "These Living Rooms Don’t Rely on Matching Furniture, Contrast Does the Work Instead",
-      "summary": "Cream sofas sit beside blue velvet chairs, polished wood meets glass and metal, and low furniture shares the room with oversized lighting. None of it depends on a matching sofa-and-chair set, yet the contrasts repeat enough to hold each seating area together. Photographed at the Fendi Casa presentation during Salone del Mobile in Milan, these... The post These Living Rooms Don’t Rely on Matching Furniture, Contrast Does the Work Instead appeared first on Homedit .",
-      "url": "https://www.homedit.com/these-living-rooms-dont-rely-on-matching-furniture-contrast-does-the-work-instead/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Living-Rooms-Dont-Rely-on-Matching-Furniture-Contrast-Does-the-Work-Instead.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/These-Living-Rooms-Dont-Rely-on-Matching-Furniture-Contrast-Does-the-Work-Instead.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-28T12:51:24+00:00"
     },
     {
       "id": "db2c715576c2a5b7",
@@ -630,9 +642,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-cat-scratcher-that-looks-like-real-furniture/cloud-lounge-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/02/14/mamba.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/these-product-designs-may-just-get-a-nod-of-appreciation-from-your-beloved-cats/Cat-Designs_07_5.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/kidou-by-isabel-vera-modular-cork-seating-thats-playful-and-smart/kidou-modular-multipurpose-seating-07.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/12/09/acapulco_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/this-steel-side-table-has-6-functions-and-zero-extra-parts/modular-no-2-multi-table-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/05/kollen_tryk_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -748,9 +760,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/ikea-and-xboxs-yxstaby-furniture-collection-makes-gaming-feel-more-at-home/IKEA-and-Xbox-Gaming-Collection-10.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/01/gaming-concepts-to-revolutionize-gaming-in-2026/5_best_gaming_concepts_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2024/01/msi-liberator-gp10-pedal-controller-wants-to-make-your-feet-as-productive-as-your-fingers/msi-liberator-gp10-pedal-controller-7.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/06/petalis_sound_amplifier_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/12/auto-draft/quetzal_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/06/mo-a-turned-a-mitsubishi-taillight-into-a-night-stand/delica-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/chess-is-now-embracing-diversity-through-playful-engagement/DotChess_game_inclusivity_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1201,8 +1213,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/Coppa_Iacchetti_allestimento_bassa_05.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/02_Dorothea-Lange_A-large-sign-reading-I-am-an-American-1942.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/DJI_0657-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/nuova-triennale-di-vincenzo-trione_internimagazine_1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/nuova-triennale-di-vincenzo-trione_internimagazine_1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1697,9 +1709,9 @@
       "published": "2026-08-22T13:00:00+00:00"
     },
     {
-      "id": "1edd0e5fefa0f5c1",
-      "title": "Joy in Creativity: Tan France’s Castlery collab contract includes ‘one of everything’",
-      "summary": "The design icon shares how creativity, connection and family bring him joy, and what to expect from his new furniture range. The post Joy in Creativity: Tan France’s Castlery collab contract includes ‘one of everything’ appeared first on Better Homes & Gardens Australia .",
+      "id": "6bb1e63b2fa70e2f",
+      "title": "Tan France’s Castlery collab contract includes ‘one of everything’",
+      "summary": "The design icon shares how creativity, connection and family bring him joy, and what to expect from his new furniture range. The post Tan France’s Castlery collab contract includes ‘one of everything’ appeared first on Better Homes & Gardens Australia .",
       "url": "https://www.bhg.com.au/lifestyle/joy-in-creativity-tan-france/",
       "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/08/tan-france-castlery-furniture-range-1-better-homes-and-gardens-joy-in-creativity-series-editor-megan-osborne-6a898b0a61de6.jpg?format=auto&v=1787398947",
       "images": [
@@ -2041,7 +2053,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -2590,8 +2602,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/SxhRDUGw-91rMJd5OHmL-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/81lUL585dHL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/THObKkRJ-91m2pcl9pHL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Locandina_News.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/9.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/GettyImages-948291034.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_Maurizio-peregalli-e1562841722931-1200x1200-1.jpg"
       ],
       "source": "Interni magazine",
@@ -2778,8 +2790,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_6006.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/08/IMG_8207.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/06/4VHP3ZZp-marco_reggi_photographer-033.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2820,7 +2832,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
