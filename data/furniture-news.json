@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-08-31T23:46:16.495222+00:00",
-  "generated_at_human": "2026-08-31 23:46 UTC",
-  "total_items": 269,
+  "generated_at": "2026-09-01T04:57:45.973833+00:00",
+  "generated_at_human": "2026-09-01 04:57 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -23,6 +23,7 @@
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
+    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -61,7 +62,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
+  "sources_count": 56,
   "multi_photo_items": 53,
   "items": [
     {
@@ -72,8 +73,8 @@
       "image": "https://i.archi.ru/i/1262/513306.jpg",
       "images": [
         "https://i.archi.ru/i/1262/513306.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=67821",
-        "https://i.archi.ru/news/quadratic/407184.jpg?r=28127",
+        "https://i.archi.ru/i/1262/405309.jpg?r=53907",
+        "https://i.archi.ru/news/quadratic/407184.jpg?r=67165",
         "https://i.archi.ru/i/1262/491100.jpg",
         "https://i.archi.ru/i/1262/491088.jpg"
       ],
@@ -147,16 +148,58 @@
       "published": ""
     },
     {
+      "id": "6ec0e3a8503c5ece",
+      "title": "Trade In Your Wall Decor: Erin Napier Has A Cuter Way To Decorate With Vintage Charm",
+      "summary": "Thinking outside the box regarding kitchen wall decor can lead to a stunning look. Take inspiration from Erin Napier's vintage idea for tons of character.",
+      "url": "https://www.hunker.com/2243747/erin-napier-creative-way-to-decorate-kitchen-walls/",
+      "image": "https://www.hunker.com/img/gallery/erin-napier-creative-way-to-decorate-kitchen-walls/l-intro-1788229903.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/erin-napier-creative-way-to-decorate-kitchen-walls/l-intro-1788229903.jpg",
+        "https://www.hunker.com/img/gallery/erin-napier-creative-way-to-decorate-kitchen-walls/intro-1788229903.jpg",
+        "https://www.hunker.com/img/gallery/erin-napier-creative-way-to-decorate-kitchen-walls/how-erin-napier-landed-on-this-rolling-pin-wall-decor-idea-1788229904.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-01T02:30:00+00:00"
+    },
+    {
+      "id": "2cd8dd3f7c8998dc",
+      "title": "200 Years Later, This Essential Bathroom Feature Looks Totally Different",
+      "summary": "You use one every day, but probably wouldn't be able to recognize it hundreds of years ago. This essential item has changed a lot over the centuries.",
+      "url": "https://www.hunker.com/2243772/200-years-later-bathroom-toilet-looks-different/",
+      "image": "https://www.hunker.com/img/gallery/200-years-later-this-essential-bathroom-feature-looks-totally-different/l-intro-1787673710.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/200-years-later-this-essential-bathroom-feature-looks-totally-different/l-intro-1787673710.jpg",
+        "https://www.hunker.com/img/gallery/200-years-later-this-essential-bathroom-feature-looks-totally-different/intro-1787673710.jpg",
+        "https://www.hunker.com/img/gallery/200-years-later-this-essential-bathroom-feature-looks-totally-different/what-about-other-types-of-toilets-1787673711.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-01T02:00:00+00:00"
+    },
+    {
+      "id": "6a8567e5239d65ce",
+      "title": "Repurpose An Old Hutch Top Into A TV Stand With Plenty Of Storage Space",
+      "summary": "An old china hutch top might not be the first console idea on your mind, but this upcycling idea adds a lot of necessary storage for TV accessories.",
+      "url": "https://www.hunker.com/2245735/upcycle-hutch-top-into-large-tv-stand-with-storage-space/",
+      "image": "https://www.hunker.com/img/gallery/repurpose-an-old-hutch-top-into-a-tv-stand-with-plenty-of-storage-space/l-intro-1787807921.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/repurpose-an-old-hutch-top-into-a-tv-stand-with-plenty-of-storage-space/l-intro-1787807921.jpg",
+        "https://www.hunker.com/img/gallery/repurpose-an-old-hutch-top-into-a-tv-stand-with-plenty-of-storage-space/intro-1787807921.jpg",
+        "https://www.hunker.com/img/gallery/repurpose-an-old-hutch-top-into-a-tv-stand-with-plenty-of-storage-space/convert-a-hutch-top-into-a-tv-cabinet-1787807922.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-01T01:30:00+00:00"
+    },
+    {
       "id": "fc029147811caac9",
       "title": "Turn Old Wood Pallets Into A Gorgeous Kitchen Island With This Clever DIY",
       "summary": "Upgrade your kitchen counter space with a fashionable DIY island - you just need a bunch of repurposed cut-down wood pallets and a few clever storage ideas.",
       "url": "https://www.hunker.com/2243491/upcycle-wood-pallets-gorgeous-diy-kitchen-island/",
       "image": "https://www.hunker.com/img/gallery/turn-old-wood-pallets-into-a-gorgeous-kitchen-island-with-this-clever-diy/l-intro-1787620059.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/turn-old-wood-pallets-into-a-gorgeous-kitchen-island-with-this-clever-diy/l-intro-1787620059.jpg",
-        "https://www.hunker.com/img/gallery/turn-old-wood-pallets-into-a-gorgeous-kitchen-island-with-this-clever-diy/intro-1787620059.jpg",
-        "https://www.hunker.com/img/gallery/turn-old-wood-pallets-into-a-gorgeous-kitchen-island-with-this-clever-diy/how-to-build-the-kitchen-island-of-your-dreams-from-pallets-1787620061.jpg",
-        "https://www.hunker.com/img/gallery/turn-old-wood-pallets-into-a-gorgeous-kitchen-island-with-this-clever-diy/customize-the-island-to-fit-your-kitchen-1787620062.jpg"
+        "https://www.hunker.com/img/gallery/turn-old-wood-pallets-into-a-gorgeous-kitchen-island-with-this-clever-diy/l-intro-1787620059.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -213,9 +256,7 @@
       "url": "https://www.hunker.com/2242421/not-pam-wd-40-substitute-vaseline-fix-squeaky-door-hinges/",
       "image": "https://www.hunker.com/img/gallery/not-pam-or-wd-40-the-bathroom-staple-you-can-use-on-squeaky-door-hinges-in-a-pinch/l-intro-1787566402.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-pam-or-wd-40-the-bathroom-staple-you-can-use-on-squeaky-door-hinges-in-a-pinch/l-intro-1787566402.jpg",
-        "https://www.hunker.com/img/gallery/not-pam-or-wd-40-the-bathroom-staple-you-can-use-on-squeaky-door-hinges-in-a-pinch/intro-1787566402.jpg",
-        "https://www.hunker.com/img/gallery/not-pam-or-wd-40-the-bathroom-staple-you-can-use-on-squeaky-door-hinges-in-a-pinch/how-to-fix-a-squeaky-door-hinge-with-petroleum-jelly-1787566403.jpg"
+        "https://www.hunker.com/img/gallery/not-pam-or-wd-40-the-bathroom-staple-you-can-use-on-squeaky-door-hinges-in-a-pinch/l-intro-1787566402.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -228,9 +269,7 @@
       "url": "https://www.hunker.com/2241128/granite-countertop-alternative-tougher-stain-resistant-sintered-stone/",
       "image": "https://www.hunker.com/img/gallery/forget-granite-countertops-a-tougher-stain-resistant-option/l-intro-1787253460.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/forget-granite-countertops-a-tougher-stain-resistant-option/l-intro-1787253460.jpg",
-        "https://www.hunker.com/img/gallery/forget-granite-countertops-a-tougher-stain-resistant-option/intro-1787253460.jpg",
-        "https://www.hunker.com/img/gallery/forget-granite-countertops-a-tougher-stain-resistant-option/comparing-sintered-stone-to-traditional-granite-1787253462.jpg"
+        "https://www.hunker.com/img/gallery/forget-granite-countertops-a-tougher-stain-resistant-option/l-intro-1787253460.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -396,19 +435,6 @@
       "source": "Lost Art Press",
       "source_url": "https://blog.lostartpress.com",
       "published": "2026-08-31T14:40:39+00:00"
-    },
-    {
-      "id": "37a428c86491e6ca",
-      "title": "Someone Just Built a Digital Camera That Ejects Photos Like Real Film",
-      "summary": "Someone Just Built a Digital Camera That Ejects Photos Like Real Film Every digital photo you’ve ever taken lives the same way, buried in a folder, scrolled past, forgotten within the hour. The Camera with Digital Film...",
-      "url": "https://www.yankodesign.com/2026/08/31/someone-just-built-a-digital-camera-that-ejects-photos-like-real-film/?utm_source=rss&utm_medium=rss&utm_campaign=someone-just-built-a-digital-camera-that-ejects-photos-like-real-film",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/someone-just-built-a-digital-camera-that-ejects-photos-like-real-film/camera-with-digital-film-07.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/someone-just-built-a-digital-camera-that-ejects-photos-like-real-film/camera-with-digital-film-07.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-31T14:20:25+00:00"
     },
     {
       "id": "9d7b54b6ade41363",
@@ -595,10 +621,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -616,7 +642,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/5-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/6-.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -878,9 +904,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/transforming-lampshade-uses-a-neat-trick-to-change-the-way-light-flows/meduse-lamp-shade-11.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/11/draft-dripo/dripo_coffee_maker_4.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/373153/Maurice-Mischo-L1-Switch-System-Design-Feature.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/12/modular-numpad-concept-adds-some-teenage-engineering-industrial-aesthetic-to-your-workflow/knob-modular-keypad-concept-12.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/12/the-perfect-pocket-camera-for-content-creators-and-influencers-is-a-thin-square/instapocket-camera-concept-03.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/03/01/bud_toy.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -934,8 +960,8 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?format=auto&v=1787885937",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/bower-architecture-ernest-house-top-50-rooms-longlist--6a950213d5199.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/best-handheld-vacuum-cleaners-6a951bf659f48.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-31t150839.927-6a950c5a4eb5b.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-01t094633.758-6a961261d4f2f.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-family-bathroom-6a7d377eb82f8.jpg?w=2304&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/guest-bedroom-chantel-and-wyatt-19-1_w1920-6a73f7f74f21f.jpg?w=2304&format=auto"
       ],
@@ -952,8 +978,8 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?format=auto&v=1788076710",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/bower-architecture-ernest-house-top-50-rooms-longlist--6a950213d5199.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/best-handheld-vacuum-cleaners-6a951bf659f48.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-31t150839.927-6a950c5a4eb5b.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-01t094633.758-6a961261d4f2f.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-15-6a756fba2ef01-scaled.jpg?w=2303&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-26-6a756fb8a3885-scaled.jpg?w=2303&format=auto"
       ],
@@ -1084,9 +1110,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/rope-replaced-every-screw-and-dowel-in-this-77-wooden-folding-stool/rope-stool-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/if-youre-looking-to-add-a-layer-of-sophistication-to-your-spaces-this-chair-is-for-you/Quella_chair_furniture_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/04/auto-draft/best_of_ig_ds_yanko_design-01-1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2016/12/auto-draft/join_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/06/29/coban_buffet_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/eternity-high-stool/eternity_high_stool_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/05/spidique-chair-harmonizes-computational-intelligence-and-human-touch-for-a-sustainable-future/spidique_chair_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1203,8 +1229,8 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-cat-scratcher-that-looks-like-real-furniture/cloud-lounge-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/this-modular-furniture-system-rolls-with-your-workflow/kylinc-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/this-minimal-ikea-worthy-folding-desk-doubles-up-as-a-decorative-shelf/Ikea_folding_desk_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/01/26/poesi.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/xtool-o1-omni-uv-printer-prints-on-wood-metal-glass-and-your-t-shirts-all-from-one-desktop-machine/xTool-O1-Omni-UV-Printer-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/mbfs-alien-inspired-desk-clock-ships-as-222-loose-parts-you-assemble-yourself-over-10-hours/mbf_nostromo_clock_1.jpeg"
       ],
       "source": "Yanko Design furniture",
@@ -1233,8 +1259,8 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2019/09/hero-crop-2026-08-28t172246.689-6a91374d3ba89.png?format=auto&v=1787901786",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2019/09/hero-crop-2026-08-28t172246.689-6a91374d3ba89.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/bower-architecture-ernest-house-top-50-rooms-longlist--6a950213d5199.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/best-handheld-vacuum-cleaners-6a951bf659f48.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-31t150839.927-6a950c5a4eb5b.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-01t094633.758-6a961261d4f2f.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/03/500x500-shopping-42-6a4f31ba62687.png?w=2048&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/hero-crop-2026-08-25t133758.350-6a8d0e1a74819.png?resize=1950%2C1462&format=auto"
       ],
@@ -1264,8 +1290,8 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/09/best-modular-sofas-2026-best-modular-sofas-for-versatile-living-6a90c76582050.png?format=auto&v=1787873131",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/09/best-modular-sofas-2026-best-modular-sofas-for-versatile-living-6a90c76582050.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2018/02/builders-tradies.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/home_horoscope_august2026_websitehero-3-6a94c6b033a2c.png?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ron-6a9640b2be0d5.jpg?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-lisa-burdus-2-6a94c2e250275.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/28514/rebecca-hooton-writer.jpg?w=2048&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560"
       ],
@@ -1298,19 +1324,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-27T19:20:28+00:00"
-    },
-    {
-      "id": "549a76b2202be207",
-      "title": "lens installation uses rhythmic timber slats to frame island’s historic churches",
-      "summary": "the modular timber installation combines a spatial portal with an integrated wooden bench. The post lens installation uses rhythmic timber slats to frame island’s historic churches appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/08/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home-designboom-700-500x400-22b08q85r626.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/08/lens-installation-rhythmic-timber-slats-kizhi-historic-churches-design-wood-home-designboom-700-500x400-22b08q85r626.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-08-27T18:10:01+00:00"
     },
     {
       "id": "7c1d8831eda27a3b",
@@ -1681,8 +1694,8 @@
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/best-dishwashers-australia-2026-best-easy-lift-dishwasher-best-built-in-dishwasher-6a8e21c35efeb.png?format=auto&v=1787699661",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/04/1649664200626_grand-hamptons-new-build-rural-sydney-white-glass-cabinetry.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/best-dishwashers-australia-2026-best-easy-lift-dishwasher-best-built-in-dishwasher-6a8e21c35efeb.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2018/02/builders-tradies.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/09/best-modular-sofas-2026-best-modular-sofas-for-versatile-living-6a90c76582050.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ron-6a9640b2be0d5.jpg?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-lisa-burdus-2-6a94c2e250275.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
@@ -1801,8 +1814,8 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/parsley-and-pine-nut-pesto-pasta-with-burrata-and-rocket-6a729421dc968.jpg?format=auto&v=1785894045",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/parsley-and-pine-nut-pesto-pasta-with-burrata-and-rocket-6a729421dc968.jpg?format=auto&v=1785894045",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2018/02/builders-tradies.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/09/best-modular-sofas-2026-best-modular-sofas-for-versatile-living-6a90c76582050.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ron-6a9640b2be0d5.jpg?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-lisa-burdus-2-6a94c2e250275.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2020/11/Kate-Barber.jpg?w=2048&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/20909/270219-garlic-prawns-spagettini-with-saffron-thyme-butter.jpg?resize=1950%2C1462&format=auto"
@@ -1810,19 +1823,6 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-08-25T05:17:38+00:00"
-    },
-    {
-      "id": "f0959c9511fbe87c",
-      "title": "Charles and Ray Eames remain the gold standard of design",
-      "summary": "A meeting at art school led to marriage and a lifelong furniture and design partnership, which eventually came to define an era The post Charles and Ray Eames remain the gold standard of design appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/lifestyle/culture-lifestyle/charles-and-ray-eames-legacy/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/copy-of-site-feature-horizontal-1920-x-1080-2026-08-25t145048.627-6a8d1f39764f2.png?format=auto&v=1787633509",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/copy-of-site-feature-horizontal-1920-x-1080-2026-08-25t145048.627-6a8d1f39764f2.png?format=auto&v=1787633509"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-08-25T05:01:49+00:00"
     },
     {
       "id": "72ba5884c6e2e811",
@@ -2225,22 +2225,9 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
-    },
-    {
-      "id": "3d12f44d4e4d6ef6",
-      "title": "Inside the Bali Body founder’s spectacular $11.5 million Brighton home",
-      "summary": "The restort-style Melbourne home comes with a pool, sports court, wellness retreat and one seriously impressove kitchen. The post Inside the Bali Body founder’s spectacular $11.5 million Brighton home appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/home-tours/bali-body-founders-brighton-home/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/bali-body-2-6a83d3bdae77a.png?format=auto&v=1787024329",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/bali-body-2-6a83d3bdae77a.png?format=auto&v=1787024329"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-08-18T03:39:48+00:00"
     },
     {
       "id": "609dbbe53f881e41",
@@ -2960,7 +2947,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
