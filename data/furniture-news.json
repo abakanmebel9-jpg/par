@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-01T04:57:45.973833+00:00",
-  "generated_at_human": "2026-09-01 04:57 UTC",
-  "total_items": 268,
+  "generated_at": "2026-09-01T09:58:56.676222+00:00",
+  "generated_at_human": "2026-09-01 09:58 UTC",
+  "total_items": 264,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -20,6 +20,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -62,7 +63,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
+  "sources_count": 57,
   "multi_photo_items": 53,
   "items": [
     {
@@ -73,8 +74,8 @@
       "image": "https://i.archi.ru/i/1262/513306.jpg",
       "images": [
         "https://i.archi.ru/i/1262/513306.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=53907",
-        "https://i.archi.ru/news/quadratic/407184.jpg?r=67165",
+        "https://i.archi.ru/i/1262/405309.jpg?r=41712",
+        "https://i.archi.ru/news/quadratic/407184.jpg?r=306",
         "https://i.archi.ru/i/1262/491100.jpg",
         "https://i.archi.ru/i/1262/491088.jpg"
       ],
@@ -146,6 +147,52 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "c632b913a39bec9c",
+      "title": "Dyson CameraJet is a tech-driven toothbrush with an onboard optical system",
+      "summary": "Dyson moves into oral healthcare. Early adopters can now acquire a WiFi-enabled, camera-equipped, high-tech toothbrush, trained on massive datasets to floss automatically",
+      "url": "https://www.wallpaper.com/tech/dyson-camerajet-toothbrush",
+      "image": "https://cdn.mos.cms.futurecdn.net/78GX5k8C9i6VCdekc6BteX.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/78GX5k8C9i6VCdekc6BteX.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-09-01T09:30:00+00:00"
+    },
+    {
+      "id": "9d950495bc352ef6",
+      "title": "Remodelista Reconnaissance: Uncovering the Paint Colors in an Ever-Changing French Kitchen",
+      "summary": "In this installment of Remodelista Reconnaissance, we’re tackling a question we’ve gotten again and again: What paint colors were used in this ever-changing house in Reims, France? Reader, look no further. The Sighting The Source Have a source you want uncovered for next week’s column? Let us know in the comments. And for more design […]",
+      "url": "https://www.remodelista.com/posts/remodelista-reconnaissance-sourcing-paint-colors-ever-changing-french-home/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2022/02/nomibis-kitchen-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2022/02/nomibis-kitchen-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-01T08:00:38+00:00"
+    },
+    {
+      "id": "ea92bb4bec461bc8",
+      "title": "He Spray Painted the Dark Wood Cabinets White and Navy and the Kitchen Took on a Custom-Built Look",
+      "summary": "Many kitchen remodels start with demolition. This one started with paint. In a transformation shared by Instagram creator @pezzottipainting, the original dark wood cabinets received a dramatic update with Benjamin Moore Swiss Coffee on the upper cabinets and Benjamin Moore Westcott Navy on the lowers, creating a two-tone finish that changed the look of the... The post He Spray Painted the Dark Wood Cabinets White and Navy and the Kitchen Took on a Custom-Built Look appeared first on Homedit .",
+      "url": "https://www.homedit.com/he-spray-painted-the-dark-wood-cabinets-white-and-navy-and-the-kitchen-took-on-a-custom-built-look/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Dark-Wood-Cabinets-White-and-Navy-and-the-Kitchen-Took-on-a-Custom-Built-Look.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Dark-Wood-Cabinets-White-and-Navy-and-the-Kitchen-Took-on-a-Custom-Built-Look.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Same-Cabinet-Doors-Look-Different-in-Swiss-Coffee.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/White-Upper-Cabinets-Changed-the-Sink-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Swiss-Coffee-and-Westcott-Navy-Meet-at-the-Counter.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Masking-Prepared-the-Cabinet-Boxes-for-Paint.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Matching-Wood-Continued-Across-the-Refrigerator-Wall.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-01T06:44:51+00:00"
     },
     {
       "id": "6ec0e3a8503c5ece",
@@ -460,8 +507,8 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Green-Perimeter-Cabinets-Meet-a-Dark-Wood-Island.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Pale-Wood-Cabinetry-Sits-Behind-a-Black-Island.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Rough-Wood-Base-Cabinets-Cut-Through-an-All-Black-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Appliance-Above-the-Stove-Is-Starting-to-Look-Nothing-Like-a-Range-Hood.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Didnt-Replace-the-Plants-for-Fall-Just-Tucked-Autumn-Leaves-Around-Them.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Didnt-Replace-the-Plants-for-Fall-Just-Tucked-Autumn-Leaves-Around-Them.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/He-Spray-Painted-the-Dark-Wood-Cabinets-White-and-Navy-and-the-Kitchen-Took-on-a-Custom-Built-Look.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -518,7 +565,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Terrazzo-Flooring-Runs-Through-the-New-Bathroom.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Vanity-and-Wall-Storage-Left-a-Narrow-Route-Beside-the-Tub.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/07/Gray-Tile-and-a-Bathtub-Filled-the-Original-Bathroom.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Appliance-Above-the-Stove-Is-Starting-to-Look-Nothing-Like-a-Range-Hood.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/07/Green-Tile-Continues-Beyond-the-Shower.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -549,12 +596,7 @@
       "url": "https://www.homedit.com/the-appliance-above-the-stove-is-starting-to-look-nothing-like-a-range-hood/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Appliance-Above-the-Stove-Is-Starting-to-Look-Nothing-Like-a-Range-Hood.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Appliance-Above-the-Stove-Is-Starting-to-Look-Nothing-Like-a-Range-Hood.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Red-Lacquer-and-Brass-Extend-the-Range-Up-the-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Twin-Cylinders-Replace-One-Wide-Canopy.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Ribbed-Steel-Changes-a-Familiar-Hood-Shape.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Wall-Color-Absorbs-the-Hood-Into-the-Room.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Black-Metal-Cuts-Through-an-All-White-Kitchen.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Appliance-Above-the-Stove-Is-Starting-to-Look-Nothing-Like-a-Range-Hood.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -569,7 +611,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/desk-lamp-sq-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-31T09:00:29+00:00"
     },
@@ -622,8 +664,8 @@
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg"
       ],
       "source": "Interni magazine",
@@ -642,7 +684,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/5-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/6-.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -882,19 +924,6 @@
       "published": "2026-08-30T20:08:40+00:00"
     },
     {
-      "id": "a3de6f89180fa59e",
-      "title": "This Kitchen Uses a Long Wood Worktable Where You’d Expect an Island",
-      "summary": "Built-in islands often repeat the cabinets around the perimeter, filling the center of the kitchen with another block of storage and countertop. Homedit editor Vera Dordick photographed a different approach at the 2020 Kips Bay Decorator Show House Palm Beach, where Connecticut designer Sarah Blank created a Mediterranean-inspired kitchen around a long antique tailor’s table... The post This Kitchen Uses a Long Wood Worktable Where You’d Expect an Island appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-kitchen-uses-a-long-wood-worktable-where-youd-expect-an-island/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Kitchen-Uses-a-Long-Wood-Worktable-Where-Youd-Expect-an-Island.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Kitchen-Uses-a-Long-Wood-Worktable-Where-Youd-Expect-an-Island.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-30T18:07:21+00:00"
-    },
-    {
       "id": "9b0557b34dfb8d8f",
       "title": "5 Steel Furniture Designs That Look Nothing Like Steel Furniture",
       "summary": "5 Steel Furniture Designs That Look Nothing Like Steel Furniture For years, steel furniture carried a predictable identity, purely functional and unapologetically utilitarian. It belonged to offices, factories, and workshops, valued more for endurance than...",
@@ -904,26 +933,13 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/12/modular-numpad-concept-adds-some-teenage-engineering-industrial-aesthetic-to-your-workflow/knob-modular-keypad-concept-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/12/the-perfect-pocket-camera-for-content-creators-and-influencers-is-a-thin-square/instapocket-camera-concept-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/03/01/bud_toy.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/07/limited-edition-hot-wheels-back-to-the-future-and-jaws-sets-celebrate-the-magic-of-big-screen/Hot-Wheels-Back-to-the-Future-40th-Anniversary-Set-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/12/17/shark_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/09/draft-braun-prize/braun_prize_winners_2021_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-30T17:20:24+00:00"
-    },
-    {
-      "id": "adea019b576c51ee",
-      "title": "A Woodworker Sketched a Coffee Station on Paper, Then Built the Whole Thing From Maple",
-      "summary": "The first version of this coffee station fit on one page of a spiral notebook. Pencil lines mapped out a base cabinet, drawer, doors, countertop, and five shelves set at different heights above it. Reddit user u/thesamgreen took the plan into the workshop, building the cabinet and staggered wall shelves from maple. He later shared... The post A Woodworker Sketched a Coffee Station on Paper, Then Built the Whole Thing From Maple appeared first on Homedit .",
-      "url": "https://www.homedit.com/a-woodworker-sketched-a-coffee-station-on-paper-then-built-the-whole-thing-from-maple/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/A-Woodworker-Sketched-a-Coffee-Station-on-Paper-Then-Built-the-Whole-Thing-From-Maple.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/A-Woodworker-Sketched-a-Coffee-Station-on-Paper-Then-Built-the-Whole-Thing-From-Maple.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-30T14:20:59+00:00"
     },
     {
       "id": "430cbb4d8c5052a3",
@@ -960,10 +976,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?format=auto&v=1787885937",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/busselton-jetty-6a964f8b27094.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-31t150839.927-6a950c5a4eb5b.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-01t094633.758-6a961261d4f2f.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-family-bathroom-6a7d377eb82f8.jpg?w=2304&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/guest-bedroom-chantel-and-wyatt-19-1_w1920-6a73f7f74f21f.jpg?w=2304&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-family-bathroom-6a7d377eb82f8.jpg?w=2304&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -978,10 +994,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?format=auto&v=1788076710",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/busselton-jetty-6a964f8b27094.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-31t150839.927-6a950c5a4eb5b.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-01t094633.758-6a961261d4f2f.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-15-6a756fba2ef01-scaled.jpg?w=2303&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-26-6a756fb8a3885-scaled.jpg?w=2303&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-15-6a756fba2ef01-scaled.jpg?w=2303&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -999,19 +1015,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-30T09:00:24+00:00"
-    },
-    {
-      "id": "892056f04663997c",
-      "title": "Mezquite & Mezcaleria: A Restaurant Rooted in Reuse",
-      "summary": "Mezquite & Mezcaleria brings a Sonoran-inspired restaurant and adjoining bar to San Antonio’s Pearl District, where Clayton Korte works within the restored 1948 Samuels Glass Co. building. Original steel trusses, brick walls, and clerestory windows retain the factory’s industrial character, while hand-troweled plaster, ocotillo screens, Mexican-made furniture, and a sculptural mezcal bar introduce a tactile […] The post Mezquite & Mezcaleria: A Restaurant Rooted in Reuse first appeared on HomeAdore .",
-      "url": "https://homeadore.com/2026/08/29/mezquite-mezcaleria-a-restaurant-rooted-in-reuse/",
-      "image": "https://homeadore.com/wp-content/uploads/2026/08/001-mezquite-mezcaleria-a-restaurant-rooted-in-reuse.jpg",
-      "images": [
-        "https://homeadore.com/wp-content/uploads/2026/08/001-mezquite-mezcaleria-a-restaurant-rooted-in-reuse.jpg"
-      ],
-      "source": "Home Adore",
-      "source_url": "http://homeadore.com",
-      "published": "2026-08-29T12:05:40+00:00"
     },
     {
       "id": "7eda97dd928056f2",
@@ -1066,9 +1069,7 @@
       "url": "https://www.wallpaper.com/architecture/residential/kemi-lawson-house-proud-book",
       "image": "https://cdn.mos.cms.futurecdn.net/tAyHZ8vvWEMzGMrp2tcE3U.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/tAyHZ8vvWEMzGMrp2tcE3U.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/tAyHZ8vvWEMzGMrp2tcE3U.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -1110,9 +1111,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/rope-replaced-every-screw-and-dowel-in-this-77-wooden-folding-stool/rope-stool-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/06/29/coban_buffet_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/eternity-high-stool/eternity_high_stool_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/spidique-chair-harmonizes-computational-intelligence-and-human-touch-for-a-sustainable-future/spidique_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/12/colorful-stool-is-made-from-80-recycled-plastic/stump-recycled.jpeg",
+        "https://www.yankodesign.com/images/design_news/2010/07/22/slotfurniture01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/06/auto-draft/Bond-2022.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1229,9 +1230,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-cat-scratcher-that-looks-like-real-furniture/cloud-lounge-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/01/26/poesi.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/xtool-o1-omni-uv-printer-prints-on-wood-metal-glass-and-your-t-shirts-all-from-one-desktop-machine/xTool-O1-Omni-UV-Printer-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/mbfs-alien-inspired-desk-clock-ships-as-222-loose-parts-you-assemble-yourself-over-10-hours/mbf_nostromo_clock_1.jpeg"
+        "https://www.yankodesign.com/images/design_news/2023/12/top-10-ikea-worthy-desks-to-add-to-your-work-from-home-office/top_10_desk_designs_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/desk_with_built-in_power_and_posture_tracking_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/11/an-appliance-in-disguise/cozy_side_table_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1259,10 +1260,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2019/09/hero-crop-2026-08-28t172246.689-6a91374d3ba89.png?format=auto&v=1787901786",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2019/09/hero-crop-2026-08-28t172246.689-6a91374d3ba89.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/busselton-jetty-6a964f8b27094.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-08-31t150839.927-6a950c5a4eb5b.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-01t094633.758-6a961261d4f2f.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/03/500x500-shopping-42-6a4f31ba62687.png?w=2048&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/hero-crop-2026-08-25t133758.350-6a8d0e1a74819.png?resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/03/500x500-shopping-42-6a4f31ba62687.png?w=2048&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1302,7 +1303,7 @@
     {
       "id": "ccd81ea2150fe8d7",
       "title": "Living space redefined",
-      "summary": "For Laufen, Konstantin Grcic created an installation called “When Time Becomes Material”, which showcased his new “PAR” collection impressively. This includes ceramics, furniture, accessories and the 'LIF' line of taps. We spoke to Konstantin Grcic and Marc Viardot, Corporate Marketing and Design Director, Roca Group, about their collaboration.",
+      "summary": "For Laufen, Konstantin Grcic created an installation called “When Time Becomes Material”, which showcased his new “PAR” collection impressively. This includes ceramics, furniture, accessories and the 'LIF' line of taps. We spoke to Konstantin Grcic and Marc Viardot, Corporate Marketing and Design Director, Roca Group.",
       "url": "https://www.stylepark.com/en/news/laufen-konstantin-grcic-par-val-when-time-becomes-material-bad-design-stylepark-magazine",
       "image": "https://www.stylepark.com/assets/articles/TS_QF_Laufen_PAR_Grcic.jpg",
       "images": [
@@ -1324,19 +1325,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-27T19:20:28+00:00"
-    },
-    {
-      "id": "7c1d8831eda27a3b",
-      "title": "The Breakers, Palm Beach's grande dame, gets an elegant new seaside dining destination. Here's a look inside",
-      "summary": "With colours and furnishings straight from the Mediterranean, the revamped Beach Club proves that classics never go out of style",
-      "url": "https://www.wallpaper.com/travel/hotels/the-breakers-palm-beach-club-restaurant",
-      "image": "https://cdn.mos.cms.futurecdn.net/Y9ydYhq8uuYXzsVNqKqT3a.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/Y9ydYhq8uuYXzsVNqKqT3a.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-08-27T15:50:22+00:00"
     },
     {
       "id": "2238bb9ba6f5963c",
@@ -1792,19 +1780,6 @@
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
       "published": "2026-08-25T08:00:28+00:00"
-    },
-    {
-      "id": "ffc8b6fd7fcc7c7e",
-      "title": "23 small kitchen designs that make any space feel twice the size",
-      "summary": "Design ideas for when there's barely enough room in your small kitchen to swing a skillet The post 23 small kitchen designs that make any space feel twice the size appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/rooms/kitchens/small-kitchen-design-ideas-17326/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/04/hero-crop-2026-08-25t133758.350-6a8d0e1a74819.png?format=auto&v=1787629098",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/04/hero-crop-2026-08-25t133758.350-6a8d0e1a74819.png?format=auto&v=1787629098"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-08-25T05:27:43+00:00"
     },
     {
       "id": "a291212dbf432eb7",
@@ -2269,7 +2244,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -2581,19 +2556,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-12T08:00:26+00:00"
-    },
-    {
-      "id": "35113d14267e3aad",
-      "title": "10 Easy Pieces: All-Wood Table Lamps",
-      "summary": "In our search for summery wooden table lamps, we found ourselves drawn to designs that take the material all the way through, shade included. From light-diffusing wood veneer to sculptural solid timber, here are 10 that cast wood in a new light. For more favorite table lighting, see our posts: 10 Easy Pieces: Portable Cordless […]",
-      "url": "https://www.remodelista.com/posts/all-wood-table-lamps-10-easy-pieces/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/08/luver-portable-lamp-natural.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/08/luver-portable-lamp-natural.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-08-12T08:00:14+00:00"
     },
     {
       "id": "80c30dbbb5e2ffba",
@@ -2950,19 +2912,6 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
-    },
-    {
-      "id": "992353692430397b",
-      "title": "Quick Takes With: Leanne Kilroy",
-      "summary": "Ever since American expats Leanne Kilroy and her husband, Eric Fulwiler, purchased a dilapidated Victorian in London six years ago, they’ve been in near-constant renovation mode, whether it’s planning for one, in the midst of one, or cleaning up from one. We’ve been admiring their progress all along the way, from their gorgeous kitchen extension […]",
-      "url": "https://www.gardenista.com/posts/quick-takes-leanne-kilroy/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/08/leanne-kilroy-laundry.jpg",
-      "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/08/leanne-kilroy-laundry.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-08-02T08:00:12+00:00"
     },
     {
       "id": "03f45bbe9cf83b68",
