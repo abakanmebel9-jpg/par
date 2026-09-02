@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-02T14:23:07.974933+00:00",
-  "generated_at_human": "2026-09-02 14:23 UTC",
-  "total_items": 259,
+  "generated_at": "2026-09-02T18:36:31.176885+00:00",
+  "generated_at_human": "2026-09-02 18:36 UTC",
+  "total_items": 260,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -19,6 +19,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -54,13 +55,14 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 56,
   "multi_photo_items": 51,
   "items": [
     {
@@ -142,6 +144,99 @@
       "published": ""
     },
     {
+      "id": "65cde9f0949bcfe5",
+      "title": "Five products listed by Villeroy & Boch on Dezeen Showroom",
+      "summary": "Dezeen Showroom: Villeroy & Boch has published several of its new bathroom products on Dezeen Showroom, highlighting creative and sophisticated tapware, basins and vanity units. Among the products is the Vea tapware, a lever-less design by German industrial designer Christian Haas based on his search for what he describes as \"sensual reduction\". Haas looked to The post Five products listed by Villeroy & Boch on Dezeen Showroom appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/02/five-bathroom-products-villeroy-boch-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/08/antao-earth-basin-villeroy-boch-design_dezeen_1704_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/antao-earth-basin-villeroy-boch-design_dezeen_1704_sq.jpg"
+      ],
+      "source": "Dezeen tag bathrooms",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-02T18:00:49+00:00"
+    },
+    {
+      "id": "e757c465b5d1e040",
+      "title": "Swap Cabinets & Shelves For A Cuter, More Rustic Way To Store Bathroom Towels",
+      "summary": "Want a cute way to welcome a guest or display your hand towels? Don't opt for a regular shelf; instead, this cute option can help contain them all in one spot.",
+      "url": "https://www.hunker.com/2244921/cuter-way-store-bathroom-towels-use-egg-basket/",
+      "image": "https://www.hunker.com/img/gallery/swap-cabinets-shelves-for-a-cuter-more-rustic-way-to-store-bathroom-towels/l-intro-1787769911.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/swap-cabinets-shelves-for-a-cuter-more-rustic-way-to-store-bathroom-towels/l-intro-1787769911.jpg",
+        "https://www.hunker.com/img/gallery/swap-cabinets-shelves-for-a-cuter-more-rustic-way-to-store-bathroom-towels/intro-1787769911.jpg",
+        "https://www.hunker.com/img/gallery/swap-cabinets-shelves-for-a-cuter-more-rustic-way-to-store-bathroom-towels/tips-for-using-an-egg-basket-for-storing-bathroom-towels-1787769913.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-02T18:00:00+00:00"
+    },
+    {
+      "id": "026c2537275142b7",
+      "title": "Nobody Expected a Toaster Shaped Like a Sleeping Corgi",
+      "summary": "Nobody Expected a Toaster Shaped Like a Sleeping Corgi Small kitchen appliances have a design problem nobody talks about enough. They are boxy, beige, and built to disappear into a countertop rather than earn...",
+      "url": "https://www.yankodesign.com/2026/09/02/nobody-expected-a-toaster-shaped-like-a-sleeping-corgi/?utm_source=rss&utm_medium=rss&utm_campaign=nobody-expected-a-toaster-shaped-like-a-sleeping-corgi",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/nobody-expected-a-toaster-shaped-like-a-sleeping-corgi/toaster-00.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/09/nobody-expected-a-toaster-shaped-like-a-sleeping-corgi/toaster-00.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-02T16:20:26+00:00"
+    },
+    {
+      "id": "48c62e24ca39fa43",
+      "title": "KBIS 2027 Registration Is Open",
+      "summary": "N NKBA Staff Posted: Sep 2, 2026 10:35 am Member + Industry News KBIS 2027 Expo Passes Are Free for Members Who Register During September Registration is officially open for the Kitchen & Bath Industry Show ’s return to Las Vegas, taking place February 2-4. The Las Vegas Convention Center will come alive with the latest kitchen and bath innovations, along with a fantastic schedule of programming and events. Each year, KBIS welcomes tens of thousands of kitchen and bath designers, interior designers, dealers, architects, showrooms, custom builders, and remodelers to the largest kitchen and…",
+      "url": "https://nkba.org/news/member-industry-news/kbis-2027-registration-is-open/",
+      "image": "https://kb-media.nkba.org/wp-content/uploads/2026/02/3345_PWP_NKBA_KBIS26-1500x998-ccc3e0a2-4f9b-456c-b7b9-15f914fbfd8f.jpg",
+      "images": [
+        "https://kb-media.nkba.org/wp-content/uploads/2026/02/3345_PWP_NKBA_KBIS26-1500x998-ccc3e0a2-4f9b-456c-b7b9-15f914fbfd8f.jpg"
+      ],
+      "source": "NKBA",
+      "source_url": "https://www.nkba.org",
+      "published": "2026-09-02T15:51:23+00:00"
+    },
+    {
+      "id": "0d4a1a2abbbc3b0d",
+      "title": "Lume Ranger is compact aluminum travel trailer with teak interiors and pop-up roof",
+      "summary": "Lume Ranger is compact aluminum travel trailer with teak interiors and pop-up roof Introduced recently at the Caravan Salon Düsseldorf, the 2027 Lume Ranger travel trailer weighs only 2,535 pounds and costs roughly $70,000. Its hand-riveted aluminum body...",
+      "url": "https://www.yankodesign.com/2026/09/02/lume-ranger-is-compact-aluminum-travel-trailer-with-teak-interiors-and-pop-up-roof/?utm_source=rss&utm_medium=rss&utm_campaign=lume-ranger-is-compact-aluminum-travel-trailer-with-teak-interiors-and-pop-up-roof",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/lume-ranger-is-compact-aluminum-travel-trailer-with-teak-interiors-and-pop-up-roof/Lume-Ranger-Camper-Trailer-11.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/09/lume-ranger-is-compact-aluminum-travel-trailer-with-teak-interiors-and-pop-up-roof/Lume-Ranger-Camper-Trailer-11.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-02T15:20:29+00:00"
+    },
+    {
+      "id": "f1aaa51106468d05",
+      "title": "Basic Relief Carving Techniques",
+      "summary": "A few simple tools and basic technique will result in a great-looking carving. Relief carving as a form of ornamentation is as old as woodworking itself and while at first... Source",
+      "url": "https://www.popularwoodworking.com/techniques/basic-relief-carving-techniques/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/02103737/carvedbox-26-thumb.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/09/02103737/carvedbox-26-thumb.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-02T15:12:46+00:00"
+    },
+    {
+      "id": "1903ecff769c3c5e",
+      "title": "Studio Gorm Designs a Better Doorstop",
+      "summary": "Using a wedge as a door stopper seems like a perfect solution, and it's probably been around for centuries, in one material or another. Because the object is ubiquitous, it's easy to ignore. But industrial designers John and Wonhee Arndt, a/k/a Studio Gorm , recognized that the object could use improvement. They've designed a doorstop that's far easier to interact with, comes with a built-in way to store it when not in use, and looks a damn sight better: \"[It's] made in Portugal at a shoe sole factory,\" the duo writes. \"The flakes are recycled shoe sole waste that has been ground and mixed…",
+      "url": "https://www.core77.com/posts/145248/Studio-Gorm-Designs-a-Better-Doorstop",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1848310_lead_400_145248_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1848310_lead_400_145248_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-09-02T15:00:00+00:00"
+    },
+    {
       "id": "4c5b166cc333acf0",
       "title": "The Drawer That Actually Becomes 5 Portable Trays",
       "summary": "The Drawer That Actually Becomes 5 Portable Trays Most storage furniture in an American home falls into one of two categories: too heavy to move without hurting yourself, or too flimsy to trust...",
@@ -151,13 +246,26 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/02/vko/vko_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/12/17/em_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/ketupat/ketupat_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/12/sell/sellino_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/top-5-desks-hub/top_5_desk_designs_yanko_design_hero.jpeg",
+        "https://www.yankodesign.com/images/design_news/2023/11/valencia-modular-seating/valencia_modular_seating_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-02T14:20:21+00:00"
+    },
+    {
+      "id": "f649e9ea54fa2d58",
+      "title": "Giant balconies line Delaware beach house by Ziger Snead",
+      "summary": "Accoya wood cladding and expansive terraces feature at the Dune House, which was designed by American studio Ziger Snead Architects for a tight site with many restrictions. Tucked into a dense area, the home is located on Fenwick Island – a long, slender strip of land found just off the coast of Delaware. The home The post Giant balconies line Delaware beach house by Ziger Snead appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/02/dune-house-delaware-ziger-snead/",
+      "image": "http://static.dezeen.com/uploads/2026/08/dune-house-delaware-ziger-snead_dezeen_2364_sq_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/08/dune-house-delaware-ziger-snead_dezeen_2364_sq_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-02T14:00:06+00:00"
     },
     {
       "id": "e89b1a3caa9fea65",
@@ -384,7 +492,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/apartment-21-piercy-co_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-02T05:00:22+00:00"
     },
@@ -395,9 +503,7 @@
       "url": "https://www.hunker.com/2245742/diy-console-table-ikea-serving-bowls-hack/",
       "image": "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/l-intro-1787899360.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/l-intro-1787899360.jpg",
-        "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/intro-1787899360.jpg",
-        "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/assemble-your-serving-bowl-console-table-1787899361.jpg"
+        "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/l-intro-1787899360.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -515,19 +621,6 @@
       "published": "2026-09-01T19:55:33+00:00"
     },
     {
-      "id": "a528467f4b90f9ff",
-      "title": "Ditch The Rack: Amazon Has A Smarter Way To Hang Bathroom Towels With Hooks",
-      "summary": "In small bathrooms, even slim towel racks can feel overwhelming. For smarter small towel storage, try this stylish and affordable Amazon alternative.",
-      "url": "https://www.hunker.com/2244731/amazon-hang-bathroom-towels-clip-hooks-rack-alternative/",
-      "image": "https://www.hunker.com/img/gallery/ditch-the-rack-amazon-has-a-smarter-way-to-hang-bathroom-towels-with-hooks/l-intro-1787760976.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/ditch-the-rack-amazon-has-a-smarter-way-to-hang-bathroom-towels-with-hooks/l-intro-1787760976.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-01T19:00:00+00:00"
-    },
-    {
       "id": "ceb3965ceedc293a",
       "title": "Dyson’s $499 Camera Toothbrush Is So Advanced, They Had To Redesign The Toothpaste For It",
       "summary": "Dyson’s $499 Camera Toothbrush Is So Advanced, They Had To Redesign The Toothpaste For It Dyson’s new $499 CameraJet hides a 1mm camera under the brush head, reading 28 images a second, and within 100 milliseconds of spotting a gap...",
@@ -549,7 +642,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/sq-kitchen-san-diego-michael-hsu-office-of-architecture_dezeen_2364_col_13-scaled-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-01T17:55:12+00:00"
     },
@@ -828,19 +921,6 @@
       "published": "2026-08-31T18:15:52+00:00"
     },
     {
-      "id": "58d93123ba3b3a05",
-      "title": "This Classic IKEA Storage System Is Finally on Sale — Here Are 7 Gems I Want to Buy",
-      "summary": "It’s no secret that Apartment Therapy editors have been longtime fans of the IKEA TROFAST storage line. It’s so beloved, in fact, that the three-by-two set was awarded the best overall storage system for Apartment Therapy’s 2026 Organization Awards. There’s a lot to love about this versatile line: The number of colors, materials, and configurations the system comes with make it one of the most useful storage systems there is, and it can be used anywhere. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/ikea-trofast-storage-system-sale-37688277?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/december/christine_l/tours-newyork-christine-l-7",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2024/december/christine_l/tours-newyork-christine-l-7"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-31T16:15:00+00:00"
-    },
-    {
       "id": "71fac0004a1e7725",
       "title": "ShopNotes Podcast Episode 283 — Our Patented Blade-Breaking Technology",
       "summary": "Phil Huber and John Doyle are back for a special back-to-school edition of the ShopNotes Podcast! This week, they dig into listener comments on radial arm saws, cabinet joinery, woodworking... Source",
@@ -865,19 +945,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-31T15:00:00+00:00"
-    },
-    {
-      "id": "f64a4fe9237cf2b7",
-      "title": "mineral stone wall enclosure frames tectoniques’ cultural center in france",
-      "summary": "stone, timber, and planted courtyards support the center’s mediterranean climate strategy. The post mineral stone wall enclosure frames tectoniques’ cultural center in france appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/08/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine-700-500x400-22b08q85r980.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/08/mineral-stone-wall-enclosure-tectoniques-cultural-center-france-vaison-la-romaine-700-500x400-22b08q85r980.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-08-31T14:45:05+00:00"
     },
     {
       "id": "644be26d231f7b84",
@@ -992,9 +1059,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg"
       ],
       "source": "Interni magazine",
@@ -1013,7 +1080,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/5-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/6-.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1249,9 +1316,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/09/vnl_record_player_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/04/ergonomic_keyboard_by_anton_ruckman_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/07/this-electric-motorbike-doubles-as-a-reliable-exercise-machine-for-home-fitness-regime/GYMO-FIT-electric-motorbike-cum-excercise-machine.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/04/this-eye-tracking-medical-device-helps-patients-in-the-icu-communicate-their-needs-for-real-time-medical-treatment/00_sova_mehmetalioglugussonbottcher_medicaldevice_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/07/05/moebius01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/11/construct-your-very-own-winter-retreat-to-ring-in-2021-with-this-prefabricated-cabin/GroveCab_LybomyrTrofimovPetroPidsadnyukValeriiShcherbak_PrefabricatedCabin_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1294,19 +1361,6 @@
       "published": "2026-08-30T10:54:01+00:00"
     },
     {
-      "id": "1c6444f7aff563ef",
-      "title": "Dezeen's top five houses of August 2026",
-      "summary": "A stone house embedded into the Greek landscape and a sprawling American home with a retractable roof are among the most popular houses featured on Dezeen this month. Also included in our monthly roundup of our readers' favourite residences is a white cube built inside existing brick walls and a timber home with tree-like columns. The post Dezeen's top five houses of August 2026 appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/30/top-houses-august-2026/",
-      "image": "http://static.dezeen.com/uploads/2026/08/august-houses-of-the-month_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/08/august-houses-of-the-month_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-30T09:00:24+00:00"
-    },
-    {
       "id": "7eda97dd928056f2",
       "title": "Her bathroom mirror never fogs, even in the hottest shower: the trick is surprisingly clever",
       "summary": "You step out of a long, hot shower. The bathroom is a cloud. And there, right in the middle of the wall, is a mirror you can’t see yourself in. So you do what basically everyone does. You grab a towel, a tissue, or the sleeve of your robe, and you rub a hole in […] The post Her bathroom mirror never fogs, even in the hottest shower: the trick is surprisingly clever appeared first on Trendir .",
@@ -1347,9 +1401,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/rope-replaced-every-screw-and-dowel-in-this-77-wooden-folding-stool/rope-stool-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/07/10-best-metallic-furniture/10_best_metallic_furniture_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/11/the-ultimate-sustainable-versatile-and-stylish-office-pedestal-for-modern-workspaces/Tribeca_office_furniture_01-.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/12/mado/mado_furniture_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/06/task-chair-brings-a-floating-seat-perforated-back-design/3-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/10/cocoon-sofa/cocoon_sofa_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/01/these-adorably-plushy-armchairs-function-flawlessly-in-public-and-private-setting/botera_armchair-yankodesign18.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1566,6 +1620,24 @@
       "published": "2026-08-27T12:03:14+00:00"
     },
     {
+      "id": "88559306b6e6d339",
+      "title": "DIY Plant Shelf with Free Plans",
+      "summary": "I started collecting houseplants about five months ago, and my collection quickly outgrew the few spots I had available. I needed a place to display them, so I built two matching DIY plant shelf units for each side of my dining room wall. Each unit is 43 inches long and has five shelves, giving me... The post DIY Plant Shelf with Free Plans appeared first on Shanty 2 Chic .",
+      "url": "https://www.shanty-2-chic.com/diy-plant-shelf-with-free-plans/",
+      "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/DIY-Plant-Shelves.jpg",
+      "images": [
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/DIY-Plant-Shelves.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Shanty2Chic-DIY-Farmhouse-Wreath-Display.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/step-5.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/How-to-build-a-Plant-Shelf.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/DIY-Plant-Shelf.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/miter-cut.jpg"
+      ],
+      "source": "Shanty 2 Chic",
+      "source_url": "https://www.shanty-2-chic.com",
+      "published": "2026-08-27T11:48:48+00:00"
+    },
+    {
       "id": "ea19f833b0843a11",
       "title": "The Aluminium Chair With No Cushion, No Frame, No Apologies",
       "summary": "The Aluminium Chair With No Cushion, No Frame, No Apologies Most furniture design tells a story in layers. A frame, a cushion, an upholstery, a finish. By the time you sit down, you’re resting on...",
@@ -1698,19 +1770,6 @@
       "published": "2026-08-26T17:14:06+00:00"
     },
     {
-      "id": "3cd258efb6f22746",
-      "title": "How to Install a Cabinet Drawer",
-      "summary": "Undermount slides show off the joinery. Once you’ve taken the time to build dovetailed drawers for your kitchen cabinets, it’s a crime to cover them up with side-mount drawer slides.... Source",
-      "url": "https://www.popularwoodworking.com/techniques/how-to-install-the-cabinet-drawer/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/19115034/aw16233_002.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2020/04/19115034/aw16233_002.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-26T15:20:24+00:00"
-    },
-    {
       "id": "52739f6288d73ed0",
       "title": "How to Make a Cabinet Drawer",
       "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
@@ -1719,7 +1778,7 @@
       "images": [
         "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg"
       ],
-      "source": "Popular Woodworking",
+      "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-08-26T12:17:50+00:00"
     },
@@ -1963,24 +2022,6 @@
       "source": "Yellowtrace",
       "source_url": "https://www.yellowtrace.com.au",
       "published": "2026-08-24T19:30:16+00:00"
-    },
-    {
-      "id": "894bfb92c331e3e0",
-      "title": "8 Chairs Rethinking a Familiar Form",
-      "summary": "From circular materials and residential-inspired office seating to colorful updates of design classics, these chairs prove there’s still plenty of room to reinvent how we sit",
-      "url": "https://design-milk.com/new-chair-designs-2026/",
-      "image": "https://design-milk.com/images/2026/08/x-Ocee-3-e1787787165807.png",
-      "images": [
-        "https://design-milk.com/images/2026/08/x-Ocee-3-e1787787165807.png",
-        "https://design-milk.com/images/2026/08/HM_2594901_100791090_spruce_album_v1_0577_MAIN.jpeg",
-        "https://design-milk.com/images/2026/08/OA_TETBURY_062_edit.jpg",
-        "https://design-milk.com/images/2026/08/Odyssey-Chair_Madheke.jpg",
-        "https://design-milk.com/images/2026/08/HELLER_MBCOLLECTION_02_030426.jpeg",
-        "https://design-milk.com/images/2026/08/Teknion_Blink-Chair_9.jpg"
-      ],
-      "source": "Design Milk",
-      "source_url": "https://design-milk.com",
-      "published": "2026-08-24T12:00:45+00:00"
     },
     {
       "id": "c92a041558bb5374",
@@ -2300,7 +2341,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -2313,8 +2354,8 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Console-Table-3.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/console-table-2.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2023/10/DIY-Oudoor-Lounge-Chair-1.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/08/DIY-Dog-Bed-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/02/Rustic-Modern-Nightstand-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/07/DIY-Round-End-Table.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
@@ -2926,10 +2967,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/12/How-to-build-a-planter-box.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3637,32 +3678,6 @@
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-06-04T23:00:00+00:00"
-    },
-    {
-      "id": "0a9cefe4bd8d4db4",
-      "title": "27 Bedroom Rug Placement Ideas That Make You Realize Placement Was Always More Important Than the Rug Itself",
-      "summary": "Where a rug lands says more about a bedroom than the bed itself. Slide it under the bottom third, float it sideways past the nightstands, layer two and let the smaller one carry the pattern — every choice rewrites the way the floor reads. These 27 bedroom rug placement ideas pull from real rooms where […] The post 27 Bedroom Rug Placement Ideas That Make You Realize Placement Was Always More Important Than the Rug Itself appeared first on Trendir .",
-      "url": "https://www.trendir.com/bedroom-rug-placement-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedroom-Rug-Placement-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T16:45:00+00:00"
-    },
-    {
-      "id": "a631a45cf6afb80a",
-      "title": "25 Boho Bedding Room Ideas That Make the Gap Between a Styled Bedroom and a Soulful One Very Clear",
-      "summary": "Boho bedrooms have never been about following rules. They’re about layering what feels good, what was loved long before it landed in your room, and what makes the space feel less like furniture and more like a soft place to land. These 25 boho bedding room ideas lean into texture, color, and the kind of […] The post 25 Boho Bedding Room Ideas That Make the Gap Between a Styled Bedroom and a Soulful One Very Clear appeared first on Trendir .",
-      "url": "https://www.trendir.com/boho-bedding-room-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Boho-Bedding-Room-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Boho-Bedding-Room-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T16:00:00+00:00"
     }
   ]
 }
