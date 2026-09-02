@@ -1,13 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-02T09:30:37.621914+00:00",
-  "generated_at_human": "2026-09-02 09:30 UTC",
-  "total_items": 261,
+  "generated_at": "2026-09-02T14:23:07.974933+00:00",
+  "generated_at_human": "2026-09-02 14:23 UTC",
+  "total_items": 259,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
-    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -20,7 +19,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -56,15 +54,14 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
-    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 57,
-  "multi_photo_items": 53,
+  "sources_count": 54,
+  "multi_photo_items": 51,
   "items": [
     {
       "id": "1ffebffe383550a1",
@@ -73,30 +70,9 @@
       "url": "https://archi.ru/russia/102644/arkhetip-vmesto-dekora",
       "image": "https://i.archi.ru/i/1262/509396.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/509396.jpg",
-        "https://i.archi.ru/news/quadratic/480135.jpg?r=8189",
-        "https://i.archi.ru/i/1262/513859.png",
-        "https://i.archi.ru/i/1262/513860.jpg",
-        "https://i.archi.ru/i/1262/509390.jpg"
+        "https://i.archi.ru/i/1262/509396.jpg"
       ],
-      "source": "Archi.ru Projects",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "d949b3b467e8460b",
-      "title": "Театр для фигуристов или Cherchez la femme",
-      "summary": "Ледовые дворцы по своей типологии близки к промышленным зданиям: огромные безоконные залы, минимум архитектурных излишеств. Проектируя Navka Arena, Юлий Борисов и архитекторы UNK не стали бороться с утилитарной природой сооружения, но собрали всю образную часть проекта в одном месте – на центральном фасаде. Параболический козырек, монументальная скульптура-фигуристка и ее нарисованная перфорацией тень превратили обычную спортивную «коробку» в архитектурное высказывание о льде, движении и театре.",
-      "url": "https://archi.ru/russia/102638/teatr-dlya-figuristov-ili-cherchez-la-femme",
-      "image": "https://i.archi.ru/i/1262/513306.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/513306.jpg",
-        "https://i.archi.ru/i/1262/405309.jpg?r=92581",
-        "https://i.archi.ru/news/quadratic/407184.jpg?r=85237",
-        "https://i.archi.ru/i/1262/491100.jpg",
-        "https://i.archi.ru/i/1262/491088.jpg"
-      ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -108,6 +84,19 @@
       "image": "https://i.archi.ru/i/1262/512485.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512485.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "d949b3b467e8460b",
+      "title": "Театр для фигуристов или Cherchez la femme",
+      "summary": "Ледовые дворцы по своей типологии близки к промышленным зданиям: огромные безоконные залы, минимум архитектурных излишеств. Проектируя Navka Arena, Юлий Борисов и архитекторы UNK не стали бороться с утилитарной природой сооружения, но собрали всю образную часть проекта в одном месте – на центральном фасаде. Параболический козырек, монументальная скульптура-фигуристка и ее нарисованная перфорацией тень превратили обычную спортивную «коробку» в архитектурное высказывание о льде, движении и театре.",
+      "url": "https://archi.ru/russia/102638/teatr-dlya-figuristov-ili-cherchez-la-femme",
+      "image": "https://i.archi.ru/i/1262/513306.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/513306.jpg"
       ],
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
@@ -153,17 +142,158 @@
       "published": ""
     },
     {
-      "id": "96ec47e8e171cd11",
-      "title": "Три слагаемых простоты",
-      "summary": "DO buro продолжает развивать собственный стиль, исследующий эмоциональные глубины смеси минимализма, брутализма и легкого намека на свингующие 60-е. Очередным доказательством успешности этого коктейля стал интерьер флагманского магазина бренда Sanchy.",
-      "url": "https://archi.ru/russia/102633/tri-slagaemykh-prostoty",
-      "image": "https://i.archi.ru/i/1262/509814.jpg",
+      "id": "4c5b166cc333acf0",
+      "title": "The Drawer That Actually Becomes 5 Portable Trays",
+      "summary": "The Drawer That Actually Becomes 5 Portable Trays Most storage furniture in an American home falls into one of two categories: too heavy to move without hurting yourself, or too flimsy to trust...",
+      "url": "https://www.yankodesign.com/2026/09/02/the-drawer-that-actually-becomes-5-portable-trays/?utm_source=rss&utm_medium=rss&utm_campaign=the-drawer-that-actually-becomes-5-portable-trays",
+      "image": "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/509814.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/02/vko/vko_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/12/17/em_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/ketupat/ketupat_yanko_design_01.jpg"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-02T14:20:21+00:00"
+    },
+    {
+      "id": "e89b1a3caa9fea65",
+      "title": "Is Labor Day A Good Time To Buy Patio Furniture?",
+      "summary": "Labor Day is one of the best times to save on discounted patio furniture. Since it's out of season, though, there are some downsides to waiting for the sale.",
+      "url": "https://www.hunker.com/2249372/is-labor-day-a-good-time-to-buy-patio-furniture/",
+      "image": "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/l-intro-1788353797.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/l-intro-1788353797.jpg",
+        "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/intro-1788353797.jpg",
+        "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/labor-day-prices-are-right-but-choices-might-be-limited-1788353799.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-02T14:00:00+00:00"
+    },
+    {
+      "id": "0ba922a79a3b6e0d",
+      "title": "Stripes storage system by Jehs + Laub for Schönbuch",
+      "summary": "Dezeen Showroom: German furniture brand Schönbuch and designers Jehs + Laub have updated their Stripes storage system, adding new finishes, accent colours and friendly shapes. A modular and fully customisable system, Stripes has been part of Schönbuch's catalogue for almost 20 years and can be used to make sideboards, wall units and other types of The post Stripes storage system by Jehs + Laub for Schönbuch appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/02/stripes-storage-jehs-laub-schonbuch-dezeen-showroom/",
+      "image": "http://static.dezeen.com/uploads/2026/09/stripes-storage-system-jehs-laub-schonbuch-design_dezeen_2364_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/09/stripes-storage-system-jehs-laub-schonbuch-design_dezeen_2364_sq.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-02T13:00:59+00:00"
+    },
+    {
+      "id": "a4f17b51014172f5",
+      "title": "Ditch The Deck Box: DIY A Chic Coffee Table For Outdoor Storage",
+      "summary": "A liftable lid reveals plenty of storage, while the chic design doubles as a useful coffee table. It's a clever way to hide patio clutter in plain sight.",
+      "url": "https://www.hunker.com/2244765/ditch-deck-box-diy-coffee-table-outdoor-storage/",
+      "image": "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/l-intro-1787686803.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/l-intro-1787686803.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/intro-1787686803.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/how-to-diy-an-outdoor-coffee-table-with-a-storage-compartment-1787686805.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-02T13:00:00+00:00"
+    },
+    {
+      "id": "4f05cfa28cff9aa6",
+      "title": "Modern Sideboards Are Moving Beyond the Basic Box Shape",
+      "summary": "Sideboards are getting harder to mistake for basic storage cabinets. Rounded walnut corners, woven cane doors, stone-covered fronts, glossy color, ribbed wood, and exposed metal legs are changing a piece of furniture that was once easy to overlook. Some of these designs reshape the cabinet itself, while others keep the long rectangular form and put... The post Modern Sideboards Are Moving Beyond the Basic Box Shape appeared first on Homedit .",
+      "url": "https://www.homedit.com/modern-sideboards-are-moving-beyond-the-basic-box-shape/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/Modern-Sideboards-Are-Moving-Beyond-the-Basic-Box-Shape-Homedit.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Modern-Sideboards-Are-Moving-Beyond-the-Basic-Box-Shape-Homedit.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Cabinet-Fronts-Can-Carry-Texture-Without-Added-Hardware.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Mirror-Lighting-and-Objects-Extend-the-Cabinet-Beyond-Its-Own-Outline.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Color-Can-Turn-a-Simple-Cabinet-Into-the-Strongest-Shape-in-the-Setup.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Asymmetry-Changes-the-Usual-Row-of-Matching-Doors.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Geometric-Door-Panels-Break-Up-a-Long-Cabinet-Front.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-02T12:51:06+00:00"
+    },
+    {
+      "id": "017c8cd4dc14d9d8",
+      "title": "I Gave My Kitchen a Cheerful Redo — It Feels Like an English Cottage",
+      "summary": "When my partner and I bought our 1928 Arts & Crafts bungalow home in Portland, Oregon, at the end of 2023, I knew the kitchen was going to be a project. The floors were painted black and chipping off in large flecks. The countertops were avocado green and streaked with rust stains. The walls were gloomy and gray, and made the whole room feel like a basement. And the appliances? Beyond saving. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/yellow-vintage-inspired-kitchen-transformation-ba-37688368?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-10/chelsea-h-kitchen/yellow-vintage-inspired-kitchen-makeover-before-tagged-2",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-10/chelsea-h-kitchen/yellow-vintage-inspired-kitchen-makeover-before-tagged-2"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-02T12:00:00+00:00"
+    },
+    {
+      "id": "161f4045c3677c13",
+      "title": "The Backyard Had Little More Than Grass and a Small Patio Until This Deck Took Over the Space",
+      "summary": "Grass covered most of this backyard, while a small square of concrete pavers near the house provided the only hard surface for outdoor furniture. A sliding door opened onto two temporary wood steps, leaving the rest of the yard without a defined place for dining or seating. Reddit user u/tuuluuwag replaced that setup with a... The post The Backyard Had Little More Than Grass and a Small Patio Until This Deck Took Over the Space appeared first on Homedit .",
+      "url": "https://www.homedit.com/the-backyard-had-little-more-than-grass-and-a-small-patio-until-this-deck-took-over-the-space/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Backyard-Had-Little-More-Than-Grass-and-a-Small-Patio-Until-This-Deck-Took-Over-the-Space.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Backyard-Had-Little-More-Than-Grass-and-a-Small-Patio-Until-This-Deck-Took-Over-the-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Modern-Sideboards-Are-Moving-Beyond-the-Basic-Box-Shape-Homedit.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-More-Shelves-to-a-Pantry-Look-at-What-This-One-Uses-Down-Below.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Replacing-Her-Laminate-Countertops-She-Covered-the-Existing-Surface.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/7-Old-School-Kitchen-Features-That-Are-Finding-Their-Way-Back-Into-New-Kitchens.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Plain-White-Garage-Door-Got-a-Carriage-Style-Look-for-Under-40.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-02T11:07:19+00:00"
+    },
+    {
+      "id": "6ec6c0a4efe3962b",
+      "title": "Before You Add More Shelves to a Pantry, Look at What This One Uses Down Below",
+      "summary": "More pantry shelves do not always mean more usable storage. In this walk-in pantry, the upper half relies on adjustable wood shelves, while the lower section switches to pull-out mesh baskets that bring stored items forward instead of leaving them near the floor behind another row. The surrounding shelves use a different organizer for each... The post Before You Add More Shelves to a Pantry, Look at What This One Uses Down Below appeared first on Homedit .",
+      "url": "https://www.homedit.com/before-you-add-more-shelves-to-a-pantry-look-at-what-this-one-uses-down-below/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-More-Shelves-to-a-Pantry-Look-at-What-This-One-Uses-Down-Below.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-More-Shelves-to-a-Pantry-Look-at-What-This-One-Uses-Down-Below.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Tiered-Storage-Gives-Small-Jars-Their-Own-Sightline.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Pull-Out-Mesh-Baskets-Replace-the-Lowest-Fixed-Shelves.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Open-Baskets-Keep-Produce-Separate-From-Dry-Goods.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Modern-Sideboards-Are-Moving-Beyond-the-Basic-Box-Shape-Homedit.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Backyard-Had-Little-More-Than-Grass-and-a-Small-Patio-Until-This-Deck-Took-Over-the-Space.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-02T10:05:23+00:00"
+    },
+    {
+      "id": "bd80b07817258a40",
+      "title": "Reimagining the Gallery: 13 Hybrid Spaces on the Rise",
+      "summary": "A new crop of small, hybrid spaces has emerged in recent years—part gallery, part shop, often run by artists themselves. They are neither the traditional white cube nor the concept store, but something in between: art shown alongside furniture and design objects. As galleries and institutions contend with shifting markets, these spaces propose an alternative. […]",
+      "url": "https://www.remodelista.com/posts/hybrid-gallery-concept-store-spaces-reminaging-gallery-trend-alert/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/09/bcmt-kingston-new-york-blackcreek-mercantile.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/09/bcmt-kingston-new-york-blackcreek-mercantile.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-02T10:00:51+00:00"
+    },
+    {
+      "id": "4c4d96093fd84111",
+      "title": "DLR Group on translating urban density into intimate neighborhoods in the middle east",
+      "summary": "DLR Group explores how cross-disciplinary masterplanning, landscape, and interiors transform high-density urban developments across the middle east. The post DLR Group on translating urban density into intimate neighborhoods in the middle east appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/interview-dlr-group-urban-density-intimate-neighborhoods-middle-east/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/08/DRL-group-middle-east-urbanism-designboom-interview-700-500x400-22b08q85r133.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/08/DRL-group-middle-east-urbanism-designboom-interview-700-500x400-22b08q85r133.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-09-02T10:00:24+00:00"
     },
     {
       "id": "f42d832bead4f8a0",
@@ -187,29 +317,11 @@
       "url": "https://www.homedit.com/instead-of-replacing-her-laminate-countertops-she-covered-the-existing-surface/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Replacing-Her-Laminate-Countertops-She-Covered-the-Existing-Surface.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Replacing-Her-Laminate-Countertops-She-Covered-the-Existing-Surface.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/concrete-countertop-finish.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Laminate-is-still-underneath-the-finished-surface.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Original-countertop-shape-remains-easy-to-recognize.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Sealer-brings-out-the-variation-across-the-counter.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/511-Impregnator-Sealer-protects-the-new-surface.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Replacing-Her-Laminate-Countertops-She-Covered-the-Existing-Surface.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-09-02T08:46:37+00:00"
-    },
-    {
-      "id": "1f61dcacf5b35821",
-      "title": "Razer Finally Solved the Bulky Controller Problem at Credit Card Size",
-      "summary": "Razer Finally Solved the Bulky Controller Problem at Credit Card Size Mobile controllers have always faced the same awkward tradeoff: carry something bulky enough to feel like a real gamepad, or leave it at home and...",
-      "url": "https://www.yankodesign.com/2026/09/02/razer-finally-solved-the-bulky-controller-problem-at-credit-card-size/?utm_source=rss&utm_medium=rss&utm_campaign=razer-finally-solved-the-bulky-controller-problem-at-credit-card-size",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/razer-finally-solved-the-bulky-controller-problem-at-credit-card-size/razer-prio-mobile-controller-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/razer-finally-solved-the-bulky-controller-problem-at-credit-card-size/razer-prio-mobile-controller-01.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-02T08:15:19+00:00"
     },
     {
       "id": "13953afad7eab084",
@@ -225,18 +337,26 @@
       "published": "2026-09-02T08:00:21+00:00"
     },
     {
+      "id": "41cf4d9b41c567b3",
+      "title": "Kelly Wearstler launches \"relaxed and refined\" fashion collection for H&M",
+      "summary": "Interior designer Kelly Wearstler has teamed up with fashion brand H&M to design a clothing line, which launches this week together with her H&M Home furniture collection that was unveiled in Milan. The fashion collection will comprise eight ready-to-wear pieces with silhouettes that H&M describes as \"relaxed and refined – unmistakably Kelly\". The pieces include The post Kelly Wearstler launches \"relaxed and refined\" fashion collection for H&M appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/02/kelly-wearstler-fashion-collection-hm/",
+      "image": "http://static.dezeen.com/uploads/2026/09/kelly-wearstler-hm-home-fashion_dezeen_2364_col_sq1.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/09/kelly-wearstler-hm-home-fashion_dezeen_2364_col_sq1.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-02T08:00:19+00:00"
+    },
+    {
       "id": "50a60d86e8d59c34",
       "title": "7 Old-School Kitchen Features That Are Finding Their Way Back Into New Kitchens",
       "summary": "Kitchen design spent years hiding cookware, flattening cabinet fronts, removing decorative details, and turning islands into large blocks of matching cabinetry. Some of the features pushed aside during that shift are showing up again, from work tables and pot racks to wallpaper and glass-front cupboards. The return does not mean recreating a kitchen from another... The post 7 Old-School Kitchen Features That Are Finding Their Way Back Into New Kitchens appeared first on Homedit .",
       "url": "https://www.homedit.com/7-old-school-kitchen-features-that-are-finding-their-way-back-into-new-kitchens/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/7-Old-School-Kitchen-Features-That-Are-Finding-Their-Way-Back-Into-New-Kitchens.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/7-Old-School-Kitchen-Features-That-Are-Finding-Their-Way-Back-Into-New-Kitchens.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Range-Hoods-Are-Getting-Architectural-Surrounds-Again.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Glass-Front-Cabinets-Put-Dishes-Back-on-Display.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Wallpaper-behind-the-kitchen-cabinets.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/work-table-into-a-cooking-station.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Replacing-Her-Laminate-Countertops-She-Covered-the-Existing-Surface.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/7-Old-School-Kitchen-Features-That-Are-Finding-Their-Way-Back-Into-New-Kitchens.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -249,12 +369,7 @@
       "url": "https://www.homedit.com/her-bathroom-smelled-every-time-she-flushed-the-toilet-the-problem-was-hidden-under-it/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Her-Bathroom-Smelled-Every-Time-She-Flushed-the-Toilet.-The-Problem-Was-Hidden-Under-It.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Her-Bathroom-Smelled-Every-Time-She-Flushed-the-Toilet.-The-Problem-Was-Hidden-Under-It.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Bathroom-tub-curtains.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Small-bathroom-toilet-smell.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Replacing-Her-Laminate-Countertops-She-Covered-the-Existing-Surface.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/7-Old-School-Kitchen-Features-That-Are-Finding-Their-Way-Back-Into-New-Kitchens.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Hanging-Pot-Rack-Was-Made-for-Cookware.-Her-Boyfriend-Found-Another-Use-for-It.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Her-Bathroom-Smelled-Every-Time-She-Flushed-the-Toilet.-The-Problem-Was-Hidden-Under-It.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -269,9 +384,24 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/apartment-21-piercy-co_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-02T05:00:22+00:00"
+    },
+    {
+      "id": "f1ab8a7a7d17303d",
+      "title": "Woman Turns Simple IKEA Serving Bowls Into A Console Table That Looks High-End",
+      "summary": "Want a high-end statement piece for your home without spending thousands of dollars? Try this DIY using IKEA serving bowls to craft a stylish console table.",
+      "url": "https://www.hunker.com/2245742/diy-console-table-ikea-serving-bowls-hack/",
+      "image": "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/l-intro-1787899360.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/l-intro-1787899360.jpg",
+        "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/intro-1787899360.jpg",
+        "https://www.hunker.com/img/gallery/diy-console-table-ikea-serving-bowls-hack/assemble-your-serving-bowl-console-table-1787899361.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-02T02:30:00+00:00"
     },
     {
       "id": "100623d5385c0fba",
@@ -292,19 +422,6 @@
       "published": "2026-09-02T02:25:49+00:00"
     },
     {
-      "id": "4486834ca2535676",
-      "title": "5 EDC Gadgets Built for Your First Tailgate of the Season, Not Your Desk Drawer",
-      "summary": "5 EDC Gadgets Built for Your First Tailgate of the Season, Not Your Desk Drawer Your regular carry works fine at a desk, as it should. But it falls apart at a tailgate, where the lot is loud, the light...",
-      "url": "https://www.yankodesign.com/2026/09/01/5-edc-gadgets-built-for-your-first-tailgate-of-the-season-not-your-desk-drawer/?utm_source=rss&utm_medium=rss&utm_campaign=5-edc-gadgets-built-for-your-first-tailgate-of-the-season-not-your-desk-drawer",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/edc-gadgets-built-for-your-first-tailgate-of-the-season-not-your-desk-drawer/5_best_edc_gadgets_tailgating_yanko_design_hero.jpeg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/edc-gadgets-built-for-your-first-tailgate-of-the-season-not-your-desk-drawer/5_best_edc_gadgets_tailgating_yanko_design_hero.jpeg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-01T23:30:43+00:00"
-    },
-    {
       "id": "864f139b8f6a3a18",
       "title": "A Closet Lacked Purpose — Until It Became a French-Inspired Wine Room",
       "summary": "While traveling, I always fall in love with the architecture and design style of the places I’m visiting — it’s impossible for me not to become inspired and take a part of it home with me. Lots of homeowners feel the same — like this family home in London, England, that got a major makeover inspired by their trip to Miami, or this Netherlands home inspired by the family’s time in Malaysia. READ MORE...",
@@ -318,28 +435,13 @@
       "published": "2026-09-01T22:00:00+00:00"
     },
     {
-      "id": "7bb9487911051eef",
-      "title": "A 525-Square-Foot Cabin on this Wooded Island Delivers a Luxurious Spa Experience",
-      "summary": "A 525-Square-Foot Cabin on this Wooded Island Delivers a Luxurious Spa Experience There is something almost deceptive about the Muskoka Island Spa. From the outside, it looks exactly like the sort of modest cabin you might expect...",
-      "url": "https://www.yankodesign.com/2026/09/01/a-525-square-foot-cabin-on-this-wooded-island-delivers-a-luxurious-spa-experience/?utm_source=rss&utm_medium=rss&utm_campaign=a-525-square-foot-cabin-on-this-wooded-island-delivers-a-luxurious-spa-experience",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/644750/muskoka_island_spa_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/644750/muskoka_island_spa_1.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-01T21:30:08+00:00"
-    },
-    {
       "id": "d65f7501175ba36d",
       "title": "Why You Should Spray Vinegar On Your Kitchen Sink",
       "summary": "Is there any cleaner more versatile than vinegar? Learn why even your kitchen sink could benefit from an occasional vinegar spray, and how to apply it safely.",
       "url": "https://www.hunker.com/2247759/spraying-vinegar-kitchen-sink-cleaning/",
       "image": "https://www.hunker.com/img/gallery/why-you-should-spray-vinegar-on-your-kitchen-sink/l-intro-1788196094.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/why-you-should-spray-vinegar-on-your-kitchen-sink/l-intro-1788196094.jpg",
-        "https://www.hunker.com/img/gallery/why-you-should-spray-vinegar-on-your-kitchen-sink/intro-1788196094.jpg",
-        "https://www.hunker.com/img/gallery/why-you-should-spray-vinegar-on-your-kitchen-sink/safely-using-vinegar-spray-to-clean-your-kitchen-sink-1788196096.jpg"
+        "https://www.hunker.com/img/gallery/why-you-should-spray-vinegar-on-your-kitchen-sink/l-intro-1788196094.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -419,9 +521,7 @@
       "url": "https://www.hunker.com/2244731/amazon-hang-bathroom-towels-clip-hooks-rack-alternative/",
       "image": "https://www.hunker.com/img/gallery/ditch-the-rack-amazon-has-a-smarter-way-to-hang-bathroom-towels-with-hooks/l-intro-1787760976.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ditch-the-rack-amazon-has-a-smarter-way-to-hang-bathroom-towels-with-hooks/l-intro-1787760976.jpg",
-        "https://www.hunker.com/img/gallery/ditch-the-rack-amazon-has-a-smarter-way-to-hang-bathroom-towels-with-hooks/intro-1787760976.jpg",
-        "https://www.hunker.com/img/gallery/ditch-the-rack-amazon-has-a-smarter-way-to-hang-bathroom-towels-with-hooks/how-to-maximize-storage-with-these-towel-clips-1787760977.jpg"
+        "https://www.hunker.com/img/gallery/ditch-the-rack-amazon-has-a-smarter-way-to-hang-bathroom-towels-with-hooks/l-intro-1787760976.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -436,7 +536,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/09/645201/dyson_camerajet_toothbrush_1.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-01T18:20:53+00:00"
     },
@@ -452,21 +552,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-01T17:55:12+00:00"
-    },
-    {
-      "id": "be89c491bcf2f354",
-      "title": "Forget Cabinets & Shelves: A Cuter Way To Store Toilet Paper And Save Space",
-      "summary": "Toilet papers are essentials that take up too much space. With fabric and a little DIY magic, you can create a compact, stylish organizer for them.",
-      "url": "https://www.hunker.com/2241579/not-cabinets-shelves-cuter-way-to-store-toilet-paper-fabric-hanger/",
-      "image": "https://www.hunker.com/img/gallery/not-cabinets-shelves-cuter-way-to-store-toilet-paper-fabric-hanger/l-intro-1787340976.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-cabinets-shelves-cuter-way-to-store-toilet-paper-fabric-hanger/l-intro-1787340976.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-shelves-cuter-way-to-store-toilet-paper-fabric-hanger/intro-1787340976.jpg",
-        "https://www.hunker.com/img/gallery/not-cabinets-shelves-cuter-way-to-store-toilet-paper-fabric-hanger/sew-a-custom-fabric-toilet-paper-holder-1787340977.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-01T16:00:00+00:00"
     },
     {
       "id": "f320a6f544a60274",
@@ -606,19 +691,6 @@
       "published": "2026-09-01T11:47:09+00:00"
     },
     {
-      "id": "a9c15a23a680e26e",
-      "title": "This Sleek Kitchen Sink Has a Cleaning Problem You Won’t Notice Until It’s Installed",
-      "summary": "The sharp lines of a square stainless steel sink can make it an appealing choice during a kitchen remodel. Once dishes, food scraps, and water start moving through the basin, those same lines can create extra work. After finishing a remodel, Reddit user u/Traditional_Code_711 liked the look of the new undermount sink but soon regretted... The post This Sleek Kitchen Sink Has a Cleaning Problem You Won’t Notice Until It’s Installed appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-sleek-kitchen-sink-has-a-cleaning-problem-you-wont-notice-until-its-installed/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Sleek-Kitchen-Sink-Has-a-Cleaning-Problem-You-Wont-Notice-Until-Its-Installed.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Sleek-Kitchen-Sink-Has-a-Cleaning-Problem-You-Wont-Notice-Until-Its-Installed.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-01T11:30:47+00:00"
-    },
-    {
       "id": "17c88e5246cfd2b6",
       "title": "Dyson's first toothbrush \"uses a camera to floss while you brush\"",
       "summary": "Technology company Dyson has launched the CameraJet electric toothbrush, which includes a mouthwash jet that is directed by a camera to remove plaque between teeth. Named the Dyson CameraJet, the electric toothbrush is Dyson's first dental hygiene product. According to the brand it combines brushing, flossing and mouth-washing into one device. Described as an \"entirely new The post Dyson's first toothbrush \"uses a camera to floss while you brush\" appeared first on Dezeen .",
@@ -630,19 +702,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-01T10:30:02+00:00"
-    },
-    {
-      "id": "343bd8f3c740c3a7",
-      "title": "Instead of Buying a Thick Wood Countertop, She Glued Two Leftover Project Panels Together",
-      "summary": "Two 3/4-inch project panels left from another project gave her enough material for a thicker wood surface without buying a new slab. She stacked the matching 24-by-48-inch panels and joined them face-to-face, creating a top 1 1/2 inches thick. The method depends on more than adding glue between two boards. The edges need to line... The post Instead of Buying a Thick Wood Countertop, She Glued Two Leftover Project Panels Together appeared first on Homedit .",
-      "url": "https://www.homedit.com/instead-of-buying-a-thick-wood-countertop-she-glued-two-leftover-project-panels-together/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Instead-of-Buying-a-Thick-Wood-Countertop-She-Glued-Two-Leftover-Project-Panels-Together.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Instead-of-Buying-a-Thick-Wood-Countertop-She-Glued-Two-Leftover-Project-Panels-Together.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-01T10:04:33+00:00"
     },
     {
       "id": "925be307e44ecc3a",
@@ -780,19 +839,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-08-31T16:15:00+00:00"
-    },
-    {
-      "id": "f246cd6538c4492b",
-      "title": "A Designer Turned Her Historic Spanish Apartment into a Warm, Personal Home",
-      "summary": "Marta Fernandez's thoughtful renovation of her own home preserved the 100-year-old València apartment’s original brick and beams while creating a deeply personal home centered around a family kitchen, inherited art, and lots of character. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/early-20th-century-spain-apartment-renovation-37686858?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/september/marta-f/tours-valencia-marta-f-4",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/september/marta-f/tours-valencia-marta-f-4"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-08-31T16:00:00+00:00"
     },
     {
       "id": "71fac0004a1e7725",
@@ -946,9 +992,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg"
       ],
       "source": "Interni magazine",
@@ -967,7 +1013,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/5-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/6-.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1183,8 +1229,8 @@
       "image": "https://sunset.com/wp-content/uploads/2026/08/travel-campsnap-camera08262026.jpg?w=1200&h=600&crop=1",
       "images": [
         "https://sunset.com/wp-content/uploads/2026/08/travel-campsnap-camera08262026.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/calm-corner-library-Plaster-and-Patina-Photography-by-Amy-Bartlam.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/08/paper-lantern-living-room-pc-aire-images-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/living-room-art-mill-valley-house-studio-munroe-pc-kuoh-photography.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/09/serena-and-lily-pacifica-chaise.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/2026/08/travel-camp-snap-camera082822026.png?w=1024",
         "https://sunset.com/wp-content/uploads/jimmy-chin-book.jpeg?w=256&h=142&crop=1",
         "https://sunset.com/wp-content/uploads/2026/06/sunset-june-july-2024-cover-image-villa-santa-cruz-todos-santos-baja-H9I1083-pc-thomas-j-story-copy.jpg?w=256&h=142&crop=1"
@@ -1203,26 +1249,13 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/02/auto-draft/macintosh-4.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/qub-candlestick-concept-holds-two-candle-types-in-minimalist-stone/qub-candlestick-concept-02.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/10/08/windflock.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/09/vnl_record_player_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/04/ergonomic_keyboard_by_anton_ruckman_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/07/this-electric-motorbike-doubles-as-a-reliable-exercise-machine-for-home-fitness-regime/GYMO-FIT-electric-motorbike-cum-excercise-machine.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-30T17:20:24+00:00"
-    },
-    {
-      "id": "430cbb4d8c5052a3",
-      "title": "gabled timber cabins by córr nestle into scotland’s rugged landscape",
-      "summary": "na bothain is a collection of guest cabins designed by córr, perched above the isle of raasay distillery overlooking skye’s cuillin mountains. The post gabled timber cabins by córr nestle into scotland’s rugged landscape appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/gabled-timber-cabins-corr-scotland-rugged-landscape-na-bothain-isle-raasay-distillery/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/08/na-bothain-timber-cabins-corr-isle-raasay-distillery-scotland-designboom-700-1-500x400-22b08q85r863.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/08/na-bothain-timber-cabins-corr-isle-raasay-distillery-scotland-designboom-700-1-500x400-22b08q85r863.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-08-30T14:15:20+00:00"
     },
     {
       "id": "0c4b01bf92d2bdd8",
@@ -1292,19 +1325,6 @@
       "published": "2026-08-29T11:00:00+00:00"
     },
     {
-      "id": "f2878c3143661886",
-      "title": "Slanted facade encloses modular Czech home by Papundekl Architects",
-      "summary": "A tilted facade with large glazed openings was designed to bring an adjacent forest \"directly into the interior\" of this home in the Czech Republic by Prague-based Papundekl Architects. Located in a South Bohemian village, the single-storey home is contained within a modular timber structure, which has been topped by a mono-pitch roof and clad with The post Slanted facade encloses modular Czech home by Papundekl Architects appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/29/modular-home-with-sloping-facade-papundekl-architects/",
-      "image": "http://static.dezeen.com/uploads/2026/08/modular-home-with-sloping-facade-papundekl-architects-sq_dezeen_2364_col_3.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/08/modular-home-with-sloping-facade-papundekl-architects-sq_dezeen_2364_col_3.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-29T10:00:42+00:00"
-    },
-    {
       "id": "e9bf3e1c147a6391",
       "title": "This Tiny Home Packs a Full-Size Fridge, Loft Bedroom, & Sleeping for Four Into 128 Square Feet",
       "summary": "This Tiny Home Packs a Full-Size Fridge, Loft Bedroom, & Sleeping for Four Into 128 Square Feet At just 16 feet long, the Petite Pelican doesn’t ask much of the land it sits on. What it does ask is that you reconsider...",
@@ -1318,19 +1338,6 @@
       "published": "2026-08-28T22:30:47+00:00"
     },
     {
-      "id": "31345d959c2543c1",
-      "title": "Eight stylish furnishings by Australian brands",
-      "summary": "Dezeen Showroom: from accessories and lights to seating and tables, the following items are all made down under by Australian design brands. The products stem from various established and emerging design brands based in major cities such as Brisbane, Queensland, Melbourne and Sydney. Read on to see our selection of Australian products on Dezeen Showroom. Sail table The post Eight stylish furnishings by Australian brands appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/28/lighting-furniture-accessories-seating-australian-brands-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/08/sail-table-tom-fereday-design-by-them-dezeen-showroom_dezeen_2364_col_0.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/08/sail-table-tom-fereday-design-by-them-dezeen-showroom_dezeen_2364_col_0.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-28T18:00:11+00:00"
-    },
-    {
       "id": "00e4e5d6a6a1d2bd",
       "title": "Rope Replaced Every Screw and Dowel in This $77 Wooden Folding Stool",
       "summary": "Rope Replaced Every Screw and Dowel in This $77 Wooden Folding Stool Most furniture relies on hardware you can’t see to hold everything together. Screws, bolts, dowels, and adhesives do the invisible work that keeps chairs and...",
@@ -1340,9 +1347,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/rope-replaced-every-screw-and-dowel-in-this-77-wooden-folding-stool/rope-stool-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/03/09/smartkid01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/unused-fishing-containers-turned-to-recycled-furniture/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/06/22/sofist_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/07/10-best-metallic-furniture/10_best_metallic_furniture_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/11/the-ultimate-sustainable-versatile-and-stylish-office-pedestal-for-modern-workspaces/Tribeca_office_furniture_01-.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/12/mado/mado_furniture_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1443,12 +1450,7 @@
       "url": "https://www.yankodesign.com/2026/08/28/the-cat-scratcher-that-looks-like-real-furniture/?utm_source=rss&utm_medium=rss&utm_campaign=the-cat-scratcher-that-looks-like-real-furniture",
       "image": "https://www.yankodesign.com/images/design_news/2026/08/the-cat-scratcher-that-looks-like-real-furniture/cloud-lounge-00.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/the-cat-scratcher-that-looks-like-real-furniture/cloud-lounge-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/04/kopeva_furniture_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/02/610614/dip_imac_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/opus_soundbed_yves_behar_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/08/the-cat-scratcher-that-looks-like-real-furniture/cloud-lounge-00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1707,19 +1709,6 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-08-26T15:20:24+00:00"
-    },
-    {
-      "id": "8a5073f0aa68d6f8",
-      "title": "Industrial Design Trio Invents a Tile System for Three-Dimensional Space",
-      "summary": "A good designer, we were taught at ID school, pays careful attention to the transitions where two surfaces intersect. So it's fitting that this DTILE system was invented by a trio of industrial designers: Arnout Visser, Erik Jan Kwakkel and Peter van der Jagt, who all hail from the Netherlands. Rather than merely producing flat tiles, the DTILE system also includes curved, corner, edge and transition pieces that allow the tiled surface to follow a three-dimensional shape. Furthermore there are utility tiles and allow for shelves, hooks, vents, electrical outlets, drawers and the like.…",
-      "url": "https://www.core77.com/posts/145173/Industrial-Design-Trio-Invents-a-Tile-System-for-Three-Dimensional-Space",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847446_lead_400_145173_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1847446_lead_400_145173_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-08-26T15:00:00+00:00"
     },
     {
       "id": "52739f6288d73ed0",
@@ -2311,7 +2300,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -2324,10 +2313,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Console-Table-3.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/console-table-2.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/10/DIY-Oudoor-Lounge-Chair-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/08/DIY-Dog-Bed-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/console-step-6.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2825,19 +2814,6 @@
       "published": "2026-08-05T19:30:44+00:00"
     },
     {
-      "id": "ac986464c8c38a26",
-      "title": "Bookshelves Aren’t Just Lining Walls. They’re Becoming Part of the Room",
-      "summary": "Book storage does not have to mean placing a freestanding bookcase against an empty wall. These rooms use shelving behind sofas, between living zones, around televisions, across glass walls, beside beds, and from floor to ceiling. Some systems divide rooms while keeping views open, while others combine books with lighting, plants, art, cabinets, and media... The post Bookshelves Aren’t Just Lining Walls. They’re Becoming Part of the Room appeared first on Homedit .",
-      "url": "https://www.homedit.com/bookshelves-arent-just-lining-walls-theyre-becoming-part-of-the-room/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/Bookshelves-Arent-Just-Lining-Walls.-Theyre-Becoming-Part-of-the-Room.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/Bookshelves-Arent-Just-Lining-Walls.-Theyre-Becoming-Part-of-the-Room.jpg"
-      ],
-      "source": "Homedit furniture",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-08-05T11:22:06+00:00"
-    },
-    {
       "id": "5d5ed8866efa2d90",
       "title": "Ómós guesthouse designed to \"feel like nothing else in Ireland\"",
       "summary": "Asca Studio and Relief Gallery joined forces to create the interiors of the Ómós guesthouse outside Abbeyleix, Ireland, which was converted from a ruin into a welcoming space filled with tactile materials. The 16-room guesthouse is located in a formerly dilapidated Victorian house that was renovated by local studio Ryan W Kennihan Architects. It also The post Ómós guesthouse designed to \"feel like nothing else in Ireland\" appeared first on Dezeen .",
@@ -2937,7 +2913,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2950,10 +2926,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/04/Easy-Barn-Door-DIY.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-4.36.36-PM.png"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -3687,19 +3663,6 @@
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-06-04T16:00:00+00:00"
-    },
-    {
-      "id": "b670566a7d630e6d",
-      "title": "26 Colorful Bedding Design Ideas That Make Choosing a Bold Color Feel Less Risky and More Exciting",
-      "summary": "Neutral bedrooms are having their moment, and yet here you are, drawn to the loud quilt, the marigold sham, the duvet you can spot from across the room. There’s a reason for that. Color in the bedroom changes the temperature of the whole space, the way you walk into it, the way mornings land. These26 […] The post 26 Colorful Bedding Design Ideas That Make Choosing a Bold Color Feel Less Risky and More Exciting appeared first on Trendir .",
-      "url": "https://www.trendir.com/colorful-bedding-design-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Colorful-Bedding-Design-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Colorful-Bedding-Design-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T10:30:00+00:00"
     }
   ]
 }
