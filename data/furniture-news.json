@@ -1,12 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-03T19:45:38.791151+00:00",
-  "generated_at_human": "2026-09-03 19:45 UTC",
-  "total_items": 254,
+  "generated_at": "2026-09-03T22:30:17.014434+00:00",
+  "generated_at_human": "2026-09-03 22:30 UTC",
+  "total_items": 250,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -61,9 +62,26 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 48,
+  "sources_count": 56,
+  "multi_photo_items": 49,
   "items": [
+    {
+      "id": "1ffebffe383550a1",
+      "title": "Архетип вместо декора",
+      "summary": "Как легенды Татарстана становятся частью современной архитектуры: в интерьерах ЖК «Зилант Премьер» студия BLOK переосмыслила образы Зиланта и Белого Барса.",
+      "url": "https://archi.ru/russia/102644/arkhetip-vmesto-dekora",
+      "image": "https://i.archi.ru/i/1262/509396.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/509396.jpg",
+        "https://i.archi.ru/news/quadratic/480135.jpg?r=28233",
+        "https://i.archi.ru/i/1262/513859.png",
+        "https://i.archi.ru/i/1262/513860.jpg",
+        "https://i.archi.ru/i/1262/509390.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "2dd57a4b4e27e979",
       "title": "Инвестиция в долговечность: керамическая плитка с пазами для фасадных систем",
@@ -72,19 +90,6 @@
       "image": "https://i.archi.ru/i/1262/512340.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512340.jpg"
-      ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "1ffebffe383550a1",
-      "title": "Архетип вместо декора",
-      "summary": "Как легенды Татарстана становятся частью современной архитектуры: в интерьерах ЖК «Зилант Премьер» студия BLOK переосмыслила образы Зиланта и Белого Барса.",
-      "url": "https://archi.ru/russia/102644/arkhetip-vmesto-dekora",
-      "image": "https://i.archi.ru/i/1262/509396.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/509396.jpg"
       ],
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
@@ -126,9 +131,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-step-stool-that-actually-belongs-in-your-entryway/step-stool-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/09/10/axe_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/06/06/walker_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/07/25/n_bench.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/08/the-childrens-bed-adults-keep-wishing-came-in-their-size/saulute-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/09/auto-draft/huggie_dougie_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/09/lifestyle/lifestyle_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -599,9 +604,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/spherene-side-table-experiments-with-form-and-material/spherene-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/12/top-10-ikea-worthy-desks-to-add-to-your-work-from-home-office/top_10_desk_designs_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/09/auto-draft/clover_table_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/02/this-dougong-inspired-grid-table-is-assembled-like-lego-and-looks-like-art/01-duogond_table_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/05/alessis-first-furniture-collection-with-philippe-starck-is-inspired-by-frying-pans/Philippe-Stark_Alessi_furniture_milan-design-week_2.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/09/this-pet-friendly-sofa-helps-you-spend-plenty-of-quality-time-with-your-pawfect-buddies/Untitled-2.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -645,19 +650,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-09-02T12:51:06+00:00"
-    },
-    {
-      "id": "017c8cd4dc14d9d8",
-      "title": "I Gave My Kitchen a Cheerful Redo — It Feels Like an English Cottage",
-      "summary": "When my partner and I bought our 1928 Arts & Crafts bungalow home in Portland, Oregon, at the end of 2023, I knew the kitchen was going to be a project. The floors were painted black and chipping off in large flecks. The countertops were avocado green and streaked with rust stains. The walls were gloomy and gray, and made the whole room feel like a basement. And the appliances? Beyond saving. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/yellow-vintage-inspired-kitchen-transformation-ba-37688368?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-10/chelsea-h-kitchen/yellow-vintage-inspired-kitchen-makeover-before-tagged-2",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-10/chelsea-h-kitchen/yellow-vintage-inspired-kitchen-makeover-before-tagged-2"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-09-02T12:00:00+00:00"
     },
     {
       "id": "161f4045c3677c13",
@@ -733,7 +725,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/apartment-21-piercy-co_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-02T05:00:22+00:00"
     },
@@ -754,19 +746,6 @@
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
       "published": "2026-09-02T02:25:49+00:00"
-    },
-    {
-      "id": "864f139b8f6a3a18",
-      "title": "A Closet Lacked Purpose — Until It Became a French-Inspired Wine Room",
-      "summary": "While traveling, I always fall in love with the architecture and design style of the places I’m visiting — it’s impossible for me not to become inspired and take a part of it home with me. Lots of homeowners feel the same — like this family home in London, England, that got a major makeover inspired by their trip to Miami, or this Netherlands home inspired by the family’s time in Malaysia. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/color-drenched-wine-room-ba-37688235?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-08/french-inspired-wine-room/wine-storage-before-tagged",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-08/french-inspired-wine-room/wine-storage-before-tagged"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-09-01T22:00:00+00:00"
     },
     {
       "id": "d1e77125612e267f",
@@ -811,7 +790,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/anna-brockway-chairish-new-york-apartment-living-room-curved-sofa-673e268682b3a.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/kitchen-cabinet-ideas-linen-white-with-burgundy-backs-6627db63b6db6.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/the-container-store-elfa-horderly-house-beautiful-workroom-1572907091.png",
-        "https://hips.hearstapps.com/hmg-prod/images/66bbfb98-0eaf-41e2-b0e9-ffb2382075ec.jpeg"
+        "https://hips.hearstapps.com/hmg-prod/images/4da0d405-0683-4b13-88fd-026aceafb48e.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -857,7 +836,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/sq-kitchen-san-diego-michael-hsu-office-of-architecture_dezeen_2364_col_13-scaled-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-01T17:55:12+00:00"
     },
@@ -1072,19 +1051,6 @@
       "published": "2026-08-31T14:00:00+00:00"
     },
     {
-      "id": "dc668a7d6e8b9686",
-      "title": "Tested: The Cozey Neptune Sleeper Sofa and Gabrielle Washable Rug",
-      "summary": "With rich colorways, kid- and pet-proof washability, and modular designs, this DTC pair turned our ordinary basement into an inviting guest retreat. The post Tested: The Cozey Neptune Sleeper Sofa and Gabrielle Washable Rug appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/cozey-sofa-and-rug-review/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/08/Cozey-Neptune-Sleeper-Sofa-and-Gabrielle-Washable-Rug-together-1.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/08/Cozey-Neptune-Sleeper-Sofa-and-Gabrielle-Washable-Rug-together-1.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-08-31T13:30:00+00:00"
-    },
-    {
       "id": "3646760bffa4c6f0",
       "title": "A New Immersive Gaming Speaker Set-Up: OXS's Thunder Pro Max System",
       "summary": "Speakers have gone through multiple form factors and arrangements in the past hundred years. In the 1920s, we had radio cabinets with a single speaker. In the 1950s, Hi-Fi cabinets, with left and right speakers. In the 1980s Dolby Surround Sound became a thing, requiring four speakers—two in front, two behind—and a separate subwoofer. By the 2000s, things began to shrink. Flatscreen TVs became ubiquitous, leading to the soundbar. In the 2010s, as we all had smartphones loaded up with music, portable Bluetooth speakers became a thing. Here in the 2020s, computer gaming is now wildly…",
@@ -1158,8 +1124,8 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg"
       ],
@@ -1347,19 +1313,6 @@
       "published": "2026-08-31T04:00:19+00:00"
     },
     {
-      "id": "570bf778fc55fb29",
-      "title": "Soluzioni integrate per la cucina by Franke",
-      "summary": "Dalla sapiente integrazione tra la rinnovata linea di miscelatori e lo spazio lavello, trasformato in area multifunzionale, nascono soluzioni operative in cui design, finiture e prestazioni professionali sono un tutt’uno The post Soluzioni integrate per la cucina by Franke appeared first on Interni Magazine .",
-      "url": "https://www.internimagazine.it/annual-2023/annual-cucina-2026/franke-annual-cucina-2026/",
-      "image": "https://www.internimagazine.it/content/uploads/2026/07/AP009_115.0741.700-525x451.jpg?imbypass=true",
-      "images": [
-        "https://www.internimagazine.it/content/uploads/2026/07/AP009_115.0741.700-525x451.jpg?imbypass=true"
-      ],
-      "source": "Interni magazine",
-      "source_url": "https://www.internimagazine.it",
-      "published": "2026-08-31T04:00:18+00:00"
-    },
-    {
       "id": "cb2176c962395faa",
       "title": "This Cute Little Point-and-Shoot Camera Has Changed the Way I Travel",
       "summary": "Our travel editor recently started using the Camp Snap photo instead of her iPhone to capture images on the road, and loves it.",
@@ -1387,9 +1340,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/07/228846/lishtot_testdrop_pro_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/cable-management-systems-for-clean-creative-workspaces/top_10_cable_management_solutions_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/06/this-stress-relief-kinetic-spinner-was-created-out-of-love-for-maths-and-the-fibonacci-sequence/squarewave_kinetic_spinner1_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/05/legos-transition-from-building-blocks-to-building-a-design-language/lego_statue_liberty_6.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/06/12/atmos.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/07/25/re_bubble.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
