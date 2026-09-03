@@ -1,12 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-03T00:06:29.433161+00:00",
-  "generated_at_human": "2026-09-03 00:06 UTC",
-  "total_items": 246,
+  "generated_at": "2026-09-03T05:42:24.187158+00:00",
+  "generated_at_human": "2026-09-03 05:42 UTC",
+  "total_items": 258,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -36,6 +37,7 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
+    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -50,6 +52,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -58,7 +61,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 52,
+  "sources_count": 55,
   "multi_photo_items": 50,
   "items": [
     {
@@ -138,6 +141,78 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "7867f112d9f14e05",
+      "title": "Stylist-approved shortcuts to a kitchen refresh (no renovation required)",
+      "summary": "Before you renovate, try these easy kitchen updates from H&G's resident stylist The post Stylist-approved shortcuts to a kitchen refresh (no renovation required) appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/decorating/kitchen-refresh-ideas/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-03t121248.436-6a98d7b22a6b9.png?format=auto&v=1788401649",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-03t121248.436-6a98d7b22a6b9.png?format=auto&v=1788401649",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/winnings-integrated-hero-6a978234a6349.png?w=2732&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-03t121248.436-6a98d7b22a6b9.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-02t102102.439-6a976bf358158.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/02_-inspo-image-only_-stylescape-_w1920-6a97cce66a5cd.jpg?w=1998",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/adairs-summer-house-hero-1-6a90e266589da.jpg?resize=1950%2C1462&format=auto"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-09-03T05:11:43+00:00"
+    },
+    {
+      "id": "248c398b35bd121c",
+      "title": "Before You Add Another Kitchen Cabinet, Look at the Spaces Your Cabinets Leave Empty",
+      "summary": "Kitchen cabinets can fill an entire wall and still leave knives, jars, appliances, and cooking tools competing for counter space. Adding another cabinet may create storage, but it can also take wall space, increase cabinet depth, or make an island larger. The overlooked space often sits on parts of the kitchen already built. Cabinet ends... The post Before You Add Another Kitchen Cabinet, Look at the Spaces Your Cabinets Leave Empty appeared first on Homedit .",
+      "url": "https://www.homedit.com/before-you-add-another-kitchen-cabinet-look-at-the-spaces-your-cabinets-leave-empty/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-Another-Kitchen-Cabinet-Look-at-the-Spaces-Your-Cabinets-Leave-Empty.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-Another-Kitchen-Cabinet-Look-at-the-Spaces-Your-Cabinets-Leave-Empty.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Mount-Shallow-Storage-Above-the-Counter.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Make-Deep-Pantry-Shelves-Come-Forward.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Give-the-Stand-Mixer-Its-Own-Work-Surface.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Put-an-Herb-Rack-Under-the-Island-Counter.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Break-a-Tall-Pantry-Into-Separate-Crates.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-03T04:51:29+00:00"
+    },
+    {
+      "id": "3680d0814956cf07",
+      "title": "Integrated Refrigeration: Plan the Kitchen Around How You Live",
+      "summary": "Seamless style for a clutter-free vibe. The post Integrated Refrigeration: Plan the Kitchen Around How You Live appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/renovating/integrated-refrigeration-winnings/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/winnings-integrated-hero-6a978234a6349.png?format=auto&v=1788314182",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/winnings-integrated-hero-6a978234a6349.png?format=auto&v=1788314182",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/winnings-integrated-hero-6a978234a6349.png?w=2732&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/winnings-integrated-kitchen-1-6a9782b98d7b8.png?w=2732",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/winnings-integrated-kitchen-6a97827b20915.png?w=2732",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-03t121248.436-6a98d7b22a6b9.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-02t102102.439-6a976bf358158.png?w=2730&format=auto"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-09-03T01:31:22+00:00"
+    },
+    {
+      "id": "5a140cd42f681e72",
+      "title": "6 Lowe's Labor Day Deals To Check Out In September",
+      "summary": "From countertop appliances to patio furniture, you can outfit your home inside and out with great deals during Lowe's Labor Day Sale going through September 9.",
+      "url": "https://www.hunker.com/2250063/lowes-labor-day-deals-september-2026/",
+      "image": "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/l-intro-1788398292.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/l-intro-1788398292.jpg",
+        "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/intro-1788398292.jpg",
+        "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/ovios-6-piece-rattan-patio-conversation-set-1788398293.jpg",
+        "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/heatmaxx-24-inch-portable-liquid-propane-fire-table-1788398293.jpg",
+        "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/simzlife-portable-countertop-dishwasher-1788398294.jpg",
+        "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/ego-power-600-series-self-propelled-battery-mower-1788398294.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-03T01:00:00+00:00"
     },
     {
       "id": "c9ae84bdbe6dd699",
@@ -289,9 +364,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/03/bristol-plastic-factory-recycles-plastic-bottle-tops-into-beautiful-things/Bristol-Plastic-Factory-Studio.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/02/best-storage-solutions/storage_solutions_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/03/18/pleatspleats.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/09/auto-draft/huggie_dougie_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/05/recyclable-stool-made-from-potato-scraps-and-sawdust-can-be-used-for-firewood/briket-recyclable-stool-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/03/office-furniture/office_furniture_designs_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -317,9 +392,7 @@
       "url": "https://www.hunker.com/2249372/is-labor-day-a-good-time-to-buy-patio-furniture/",
       "image": "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/l-intro-1788353797.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/l-intro-1788353797.jpg",
-        "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/intro-1788353797.jpg",
-        "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/labor-day-prices-are-right-but-choices-might-be-limited-1788353799.jpg"
+        "https://www.hunker.com/img/gallery/is-labor-day-a-good-time-to-buy-patio-furniture/l-intro-1788353797.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -359,11 +432,11 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/Modern-Sideboards-Are-Moving-Beyond-the-Basic-Box-Shape-Homedit.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Modern-Sideboards-Are-Moving-Beyond-the-Basic-Box-Shape-Homedit.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-Another-Kitchen-Cabinet-Look-at-the-Spaces-Your-Cabinets-Leave-Empty.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Cabinet-Fronts-Can-Carry-Texture-Without-Added-Hardware.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Mirror-Lighting-and-Objects-Extend-the-Cabinet-Beyond-Its-Own-Outline.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Color-Can-Turn-a-Simple-Cabinet-Into-the-Strongest-Shape-in-the-Setup.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Asymmetry-Changes-the-Usual-Row-of-Matching-Doors.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Geometric-Door-Panels-Break-Up-a-Long-Cabinet-Front.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Asymmetry-Changes-the-Usual-Row-of-Matching-Doors.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -390,10 +463,10 @@
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Backyard-Had-Little-More-Than-Grass-and-a-Small-Patio-Until-This-Deck-Took-Over-the-Space.jpg",
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Backyard-Had-Little-More-Than-Grass-and-a-Small-Patio-Until-This-Deck-Took-Over-the-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-Another-Kitchen-Cabinet-Look-at-the-Spaces-Your-Cabinets-Leave-Empty.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Modern-Sideboards-Are-Moving-Beyond-the-Basic-Box-Shape-Homedit.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-More-Shelves-to-a-Pantry-Look-at-What-This-One-Uses-Down-Below.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Replacing-Her-Laminate-Countertops-She-Covered-the-Existing-Surface.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/7-Old-School-Kitchen-Features-That-Are-Finding-Their-Way-Back-Into-New-Kitchens.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/08/This-Plain-White-Garage-Door-Got-a-Carriage-Style-Look-for-Under-40.jpg"
       ],
       "source": "Homedit",
@@ -407,12 +480,7 @@
       "url": "https://www.homedit.com/before-you-add-more-shelves-to-a-pantry-look-at-what-this-one-uses-down-below/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-More-Shelves-to-a-Pantry-Look-at-What-This-One-Uses-Down-Below.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-More-Shelves-to-a-Pantry-Look-at-What-This-One-Uses-Down-Below.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Tiered-Storage-Gives-Small-Jars-Their-Own-Sightline.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Pull-Out-Mesh-Baskets-Replace-the-Lowest-Fixed-Shelves.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Open-Baskets-Keep-Produce-Separate-From-Dry-Goods.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Modern-Sideboards-Are-Moving-Beyond-the-Basic-Box-Shape-Homedit.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Backyard-Had-Little-More-Than-Grass-and-a-Small-Patio-Until-This-Deck-Took-Over-the-Space.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Before-You-Add-More-Shelves-to-a-Pantry-Look-at-What-This-One-Uses-Down-Below.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -533,7 +601,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/apartment-21-piercy-co_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-02T05:00:22+00:00"
     },
@@ -670,7 +738,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/sq-kitchen-san-diego-michael-hsu-office-of-architecture_dezeen_2364_col_13-scaled-1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-01T17:55:12+00:00"
     },
@@ -769,19 +837,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-09-01T13:00:00+00:00"
-    },
-    {
-      "id": "906e44a95be2c24d",
-      "title": "Six Matching Chairs Aren’t the Only Way to Seat a Dining Table",
-      "summary": "Dining tables often come with an expected formula: one chair repeated around every side. These dining setups break that formula with benches, upholstered armchairs, woven frames, high backs, and mixed chair shapes. Changing the seating also changes how the table occupies the room. Benches keep one side open, large upholstered chairs give each place more... The post Six Matching Chairs Aren’t the Only Way to Seat a Dining Table appeared first on Homedit .",
-      "url": "https://www.homedit.com/six-matching-chairs-arent-the-only-way-to-seat-a-dining-table/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Six-Matching-Chairs-Arent-the-Only-Way-to-Seat-a-Dining-Table.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Six-Matching-Chairs-Arent-the-Only-Way-to-Seat-a-Dining-Table.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-01T12:46:16+00:00"
     },
     {
       "id": "1285c4e38cf3ccf2",
@@ -957,6 +1012,19 @@
       "published": "2026-08-31T15:00:00+00:00"
     },
     {
+      "id": "644be26d231f7b84",
+      "title": "2026 Labor Day Weekend Hours",
+      "summary": "The Lost Art Press storefront will be closed this Friday (Sept. 4) because we’ll be in Iowa at Handworks, and the following Monday (Sept. 7) so we can a) recover from Handworks (here’s hoping Chris and I don’t once again bring home a bad case of Covid…or a not-bad case of Covid, for that matter)...",
+      "url": "https://blog.lostartpress.com/2026/08/31/2026-labor-day-weekend-hours/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_7980-copy.jpg?resize=640%2C422&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_7980-copy.jpg?resize=640%2C422&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-31T14:40:39+00:00"
+    },
+    {
       "id": "9d7b54b6ade41363",
       "title": "Genesis' New Luxury Electric SUV has No B-Pillar, No Start Button, Radiant Floor Heating",
       "summary": "Genesis, Hyundai's luxury spin-off, has just unveiled their new GV90 Neolun flagship. And it's a doozy. The luxury three-row electric SUV, which has a 311-mile (500km) range, has a feature no competitor has: What used to be called suicide doors, but which are now known as coach doors. Genesis' engineers have figured out how to remove the B-pillar, normally a key structural component, while maintaining safety standards. Genesis utilized a newly developed dual-motion hinge mechanism for the rear doors, optimized for the vehicle's hidden B-pillar body structure which enables the rear doors to…",
@@ -1056,10 +1124,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1077,7 +1145,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/5-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/6-.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1298,9 +1366,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/10/auto-draft/bluetooth13.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/05-Medusa_Jellyfish-Pushpin_Stationery_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/05/NatureDry_the_100_merino_all_weather_jacket.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/03/auto-draft/central_tourbillon_year_of_horse_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/10/14/andante.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/auto-draft/battletank_gaming_mouse_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1313,12 +1381,7 @@
       "url": "https://www.homestolove.com.au/the-block/chantel-wyatt-house-tour-2026/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?format=auto&v=1787885937",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?format=auto&v=1787885937",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-02t102102.439-6a976bf358158.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/canowindra-cottage-garden-6a979c26a2bca.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-02t121350.005-6a978660e4218.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-family-bathroom-6a7d377eb82f8.jpg?w=2304&format=auto"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?format=auto&v=1787885937"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1331,12 +1394,7 @@
       "url": "https://www.homestolove.com.au/the-block/courtney-sev-house-tour-2026/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?format=auto&v=1788076710",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?format=auto&v=1788076710",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-02t102102.439-6a976bf358158.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/canowindra-cottage-garden-6a979c26a2bca.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-02t121350.005-6a978660e4218.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-15-6a756fba2ef01-scaled.jpg?w=2303&format=auto"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?format=auto&v=1788076710"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1383,9 +1441,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/rope-replaced-every-screw-and-dowel-in-this-77-wooden-folding-stool/rope-stool-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/top-10-desk-designs-every-workaholic-needs-to-amp-up-their-productivity/Top-10_work-desks_folding_yankodesign_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/Galaxy-Z-Flip7-Cosmo-Case-Review-YankoDesign-layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/11/15/bench13.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/12/28/bomb_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/11/04/peliship_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/10/21/tamp_lable.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1527,8 +1585,8 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/09/best-modular-sofas-2026-best-modular-sofas-for-versatile-living-6a90c76582050.png?format=auto&v=1787873131",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/09/best-modular-sofas-2026-best-modular-sofas-for-versatile-living-6a90c76582050.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ron-6a9640b2be0d5.jpg?w=2729&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-lisa-burdus-2-6a94c2e250275.jpg?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/spring-flower-arrangements-6a95045e67382.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/adairs-summer-house-hero-1-6a90e242760bd.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/28514/rebecca-hooton-writer.jpg?w=2048&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560"
       ],
@@ -1677,19 +1735,6 @@
       "published": "2026-08-27T05:00:09+00:00"
     },
     {
-      "id": "c036fdbd16fef394",
-      "title": "Sirena del Sol is the Jervis Bay beach stay to book this summer",
-      "summary": "A private hot tub, coastal interiors and Hyams Beach on your doorstep The post Sirena del Sol is the Jervis Bay beach stay to book this summer appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/lifestyle/travel/sirena-del-sol-airbnb/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/sirena-del-sol-airbnb-stay-6a8f83ac2a0a1.png?format=auto&v=1787790264",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/sirena-del-sol-airbnb-stay-6a8f83ac2a0a1.png?format=auto&v=1787790264"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-08-27T00:28:32+00:00"
-    },
-    {
       "id": "8508f395d11695ab",
       "title": "A new design festival for Berlin",
       "summary": "In September 2026, Currents. Design in Berlin kicks off a new festival for product and interior design. Around 80 participants will be taking part at some 60 venues across the city, showcasing exhibitions, events and projects.",
@@ -1737,6 +1782,19 @@
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
       "published": "2026-08-26T19:54:14+00:00"
+    },
+    {
+      "id": "982f5e0d200f5fe8",
+      "title": "At Island Records and EMI’s New London HQ, Music Is an Art Form",
+      "summary": "Part workspace, part gallery, the office designed by InterestingProjects balances the distinct identities of the two labels. The post At Island Records and EMI’s New London HQ, Music Is an Art Form appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/island-records-emi-london-interestingprojects/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-26T17:14:06+00:00"
     },
     {
       "id": "52739f6288d73ed0",
@@ -1822,6 +1880,19 @@
       "published": "2026-08-26T08:00:00+00:00"
     },
     {
+      "id": "c1b12dd25e60c7f8",
+      "title": "Revised Stick Chair Video is Free for Previous Customers",
+      "summary": "We just released an entirely revised video on how to build a comb-back stick chair. But before you consider purchasing it, check your email. If you bought the original video sometime during the last four years, you should’ve received an email giving you free access to the new video. If you didn’t get the email,...",
+      "url": "https://blog.lostartpress.com/2026/08/25/revised-stick-chair-video-is-free-for-previous-customers/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/85353713-4114-4841-be0e-02a871a63115_3024x4032-768x1024-1.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/85353713-4114-4841-be0e-02a871a63115_3024x4032-768x1024-1.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-26T01:52:42+00:00"
+    },
+    {
       "id": "e38d1525597d29ed",
       "title": "Simplify your daily cleaning routine with the top 10 dishwashers of 2026",
       "summary": "Find the best fit for your kitchen and budget. The post Simplify your daily cleaning routine with the top 10 dishwashers of 2026 appeared first on Home Beautiful .",
@@ -1831,8 +1902,8 @@
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/best-dishwashers-australia-2026-best-easy-lift-dishwasher-best-built-in-dishwasher-6a8e21c35efeb.png?format=auto&v=1787699661",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/04/1649664200626_grand-hamptons-new-build-rural-sydney-white-glass-cabinetry.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/best-dishwashers-australia-2026-best-easy-lift-dishwasher-best-built-in-dishwasher-6a8e21c35efeb.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/adairs-summer-house-hero-1-6a90e242760bd.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ron-6a9640b2be0d5.jpg?w=2729&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-lisa-burdus-2-6a94c2e250275.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
@@ -1851,6 +1922,19 @@
       "source": "Woodshop News",
       "source_url": "https://www.woodshopnews.com",
       "published": "2026-08-25T18:18:01+00:00"
+    },
+    {
+      "id": "3241a25fff70de1c",
+      "title": "What is Fine Woodworking?",
+      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-25T16:15:12+00:00"
     },
     {
       "id": "1477174ea3ad8946",
@@ -1899,8 +1983,8 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/parsley-and-pine-nut-pesto-pasta-with-burrata-and-rocket-6a729421dc968.jpg?format=auto&v=1785894045",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/08/parsley-and-pine-nut-pesto-pasta-with-burrata-and-rocket-6a729421dc968.jpg?format=auto&v=1785894045",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ron-6a9640b2be0d5.jpg?w=2729&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/the-edit-podcast-with-lisa-burdus-2-6a94c2e250275.jpg?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/spring-flower-arrangements-6a95045e67382.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/adairs-summer-house-hero-1-6a90e242760bd.jpg?w=2729&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2020/11/Kate-Barber.jpg?w=2048&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/20909/270219-garlic-prawns-spagettini-with-saffron-thyme-butter.jpg?resize=1950%2C1462&format=auto"
@@ -2281,6 +2365,19 @@
       "published": "2026-08-17T12:00:00+00:00"
     },
     {
+      "id": "79db5d1a42c41639",
+      "title": "Teaching With Your Teacher",
+      "summary": "I started teaching chairmaking one year ago, fresh off a week assisting Christopher Schwarz’s Chairmaker’s Toolbox class. I had just a few chairs under my belt and probably wasn’t quite ready to teach anyone else how to make them, but I had a willing co-teacher and enough reckless abandon to try. We set off on...",
+      "url": "https://blog.lostartpress.com/2026/08/17/teaching-with-your-teacher/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/KCWG.jpeg?resize=640%2C479&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/KCWG.jpeg?resize=640%2C479&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-17T11:46:30+00:00"
+    },
+    {
       "id": "3680d5a23249393a",
       "title": "Rehab Diaries: A Wellfleet Guest Cottage Revived on Cape Cod",
       "summary": "Our Wellfleet guest cottage started life as a potting shed, a storage spot for lawnmowers, bags of soil, rakes, hoes, etc. Then, in the 1970s, my mother turned it into what she called “the studio” (it even had its own phone line!), where she worked at her desk overlooking the garden. She installed a small […]",
@@ -2292,6 +2389,19 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-08-17T10:00:44+00:00"
+    },
+    {
+      "id": "a386f4d83bdf158d",
+      "title": "Don Weber’s Slides (Part 3)",
+      "summary": "This is the final post in a three-post series featuring images from a carousel of Don Weber’s slides, which he found while working with us on a profile for The Stick Chair Journal No. 4. This post features images of chairs and a wonderful series of photos from a Country Workshops chairmaking class, taught by...",
+      "url": "https://blog.lostartpress.com/2026/08/17/don-webers-slides-part-3/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-124-copy-1.jpg?resize=640%2C415&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-124-copy-1.jpg?resize=640%2C415&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-17T10:00:00+00:00"
     },
     {
       "id": "9529e03140e4c956",
@@ -2338,6 +2448,19 @@
       "published": "2026-08-16T19:30:44+00:00"
     },
     {
+      "id": "cfa0cee7e00cdf5e",
+      "title": "Don Weber’s Slides (Part 2)",
+      "summary": "This is the second post in a three-post series featuring images from a carousel of Don Weber’s slides, which he found while working with us on a profile for The Stick Chair Journal No. 4. These images show chairmakers, Don’s journey to the Wycombe woodlands, Don’s pole lathe and his Welsh left-handed writing chair. Captions...",
+      "url": "https://blog.lostartpress.com/2026/08/16/don-webers-slides-part-2/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-70-copy-1.jpg?resize=640%2C410&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-70-copy-1.jpg?resize=640%2C410&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-16T10:00:00+00:00"
+    },
+    {
       "id": "9d3ed14bb955bba4",
       "title": "Ome Dezin and Lumens outfit renovated Los Angeles residence",
       "summary": "Los Angeles studio Ome Dezin has partnered with design platform Lumens to renovate and furnish a 1990s home in the Hollywood Hills, adding iconic furniture and lighting from Frank Gehry, Ingo Maurer and more. Situated in middle of a mature forest on over an acre of land, the house was originally designed by architect Jeff The post Ome Dezin and Lumens outfit renovated Los Angeles residence appeared first on Dezeen .",
@@ -2349,6 +2472,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-15T17:00:12+00:00"
+    },
+    {
+      "id": "bf7fd661f93ef802",
+      "title": "Don Weber’s Slides (Part 1)",
+      "summary": "While working on Don Weber’s profile for The Stick Chair Journal No. 4, Don told me that he had a carousel of slides that might of interest. These were images he used during a talk he gave with Michael Dunbar, and, he believes, Jennie Alexander, at a chair symposium at Winterthur Museum, Garden & Library....",
+      "url": "https://blog.lostartpress.com/2026/08/15/don-webers-slides-part-1/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-1-copy.jpg?resize=640%2C432&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-1-copy.jpg?resize=640%2C432&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-15T10:00:00+00:00"
     },
     {
       "id": "c5185888153d58b8",
@@ -2401,6 +2537,19 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T05:00:03+00:00"
+    },
+    {
+      "id": "4f2e0f32031d9e9b",
+      "title": "Squirrel Chair For Sale",
+      "summary": "Last month, I went to Nashville where Travis Curtis taught a group of fellow woodworkers and me how to build a Jennie Chair and, for better or for worse, I decided it should be purple and have squirrels on it. The chair was built, woven and painted purple in five days. Mapping out and painting...",
+      "url": "https://blog.lostartpress.com/2026/08/13/squirrel-chair-for-sale/",
+      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_2683.jpg?resize=640%2C853&#038;ssl=1",
+      "images": [
+        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_2683.jpg?resize=640%2C853&#038;ssl=1"
+      ],
+      "source": "Lost Art Press",
+      "source_url": "https://blog.lostartpress.com",
+      "published": "2026-08-13T19:34:00+00:00"
     },
     {
       "id": "fdbb63c9f5e06ef1",
@@ -2707,19 +2856,6 @@
       "published": "2026-08-05T19:30:44+00:00"
     },
     {
-      "id": "5d5ed8866efa2d90",
-      "title": "Ómós guesthouse designed to \"feel like nothing else in Ireland\"",
-      "summary": "Asca Studio and Relief Gallery joined forces to create the interiors of the Ómós guesthouse outside Abbeyleix, Ireland, which was converted from a ruin into a welcoming space filled with tactile materials. The 16-room guesthouse is located in a formerly dilapidated Victorian house that was renovated by local studio Ryan W Kennihan Architects. It also The post Ómós guesthouse designed to \"feel like nothing else in Ireland\" appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/05/omos-guesthouse-asca-studio-relief-gallery/",
-      "image": "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/08/omos-ireland-Asca-Studio-Relief-Gallery_dezeen_2364_col_sq2.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-05T08:00:56+00:00"
-    },
-    {
       "id": "22a5f60670d0fb7e",
       "title": "Trend Alert: Figurative Outdoor Chairs",
       "summary": "Aside from a weakness for a surprising color palette here and there, I generally always go for classic, timeless design that’s on the quiet side. Which is why I’m so surprised to find myself drawn to these outdoor metal chairs with backs that are shaped like faces?! These statement pieces are definitely not demure or […]",
@@ -2772,6 +2908,19 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
+    },
+    {
       "id": "70f52947d252c821",
       "title": "An Exclusive Retreat",
       "summary": "On Bawe Island, a private island resort off the coast of Zanzibar, Villeroy &amp; Boch collections define the design of the elegant bathrooms. They complement the resort’s holistic concept and combine timeless aesthetics with the functional requirements of modern luxury hospitality.",
@@ -2793,7 +2942,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -2959,6 +3108,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
