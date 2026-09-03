@@ -1,13 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-02T21:45:41.061154+00:00",
-  "generated_at_human": "2026-09-02 21:45 UTC",
-  "total_items": 258,
+  "generated_at": "2026-09-03T00:06:29.433161+00:00",
+  "generated_at_human": "2026-09-03 00:06 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -19,7 +18,6 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
-    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -38,7 +36,6 @@
     "Hunker",
     "Interiors Addict AU",
     "Interni magazine",
-    "Lost Art Press",
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
@@ -53,7 +50,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -62,7 +58,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
+  "sources_count": 52,
   "multi_photo_items": 50,
   "items": [
     {
@@ -142,6 +138,35 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "c9ae84bdbe6dd699",
+      "title": "This $12 kitchen buy has sparked an age-old Aussie debate",
+      "summary": "Is it ever safe to leave butter out? The post This $12 kitchen buy has sparked an age-old Aussie debate appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/food/tips-how-to/big-w-butter-dish/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/09/kitchen-debate-butter-dish-6a98ad255362e.jpg?format=auto&v=1788390702",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/09/kitchen-debate-butter-dish-6a98ad255362e.jpg?format=auto&v=1788390702"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-09-02T23:29:13+00:00"
+    },
+    {
+      "id": "a32d8ff8b9a4a27e",
+      "title": "Skip The Plastic Furniture: Turn Wood Pallets Into Sturdy Outdoor Seating",
+      "summary": "Instead of boring plastic furniture, you can use wood pallets to craft durable yet elevated outdoor seating. And the process is likely easier than you think.",
+      "url": "https://www.hunker.com/2239736/wood-pallets-diy-outdoor-seating-bench/",
+      "image": "https://www.hunker.com/img/gallery/skip-the-plastic-furniture-turn-wood-pallets-into-sturdy-outdoor-seating/l-intro-1787122703.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/skip-the-plastic-furniture-turn-wood-pallets-into-sturdy-outdoor-seating/l-intro-1787122703.jpg",
+        "https://www.hunker.com/img/gallery/skip-the-plastic-furniture-turn-wood-pallets-into-sturdy-outdoor-seating/intro-1787122703.jpg",
+        "https://www.hunker.com/img/gallery/skip-the-plastic-furniture-turn-wood-pallets-into-sturdy-outdoor-seating/assembling-your-bench-1787122705.jpg",
+        "https://www.hunker.com/img/gallery/skip-the-plastic-furniture-turn-wood-pallets-into-sturdy-outdoor-seating/finishing-the-bench-1787122706.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-02T21:00:00+00:00"
     },
     {
       "id": "62ba437e1cb0b3a5",
@@ -264,9 +289,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/this-table-lets-four-woods-melt-into-one-beautiful-gradient/Color_gradient_table_furniture_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/06/29/holdfast.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/herman-miller-fuld-chair/herman_miller_fuld_chair_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/03/bristol-plastic-factory-recycles-plastic-bottle-tops-into-beautiful-things/Bristol-Plastic-Factory-Studio.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/best-storage-solutions/storage_solutions_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2009/03/18/pleatspleats.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -320,9 +345,7 @@
       "url": "https://www.hunker.com/2244765/ditch-deck-box-diy-coffee-table-outdoor-storage/",
       "image": "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/l-intro-1787686803.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/l-intro-1787686803.jpg",
-        "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/intro-1787686803.jpg",
-        "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/how-to-diy-an-outdoor-coffee-table-with-a-storage-compartment-1787686805.jpg"
+        "https://www.hunker.com/img/gallery/ditch-the-deck-box-diy-a-chic-coffee-table-for-outdoor-storage/l-intro-1787686803.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -934,19 +957,6 @@
       "published": "2026-08-31T15:00:00+00:00"
     },
     {
-      "id": "644be26d231f7b84",
-      "title": "2026 Labor Day Weekend Hours",
-      "summary": "The Lost Art Press storefront will be closed this Friday (Sept. 4) because we’ll be in Iowa at Handworks, and the following Monday (Sept. 7) so we can a) recover from Handworks (here’s hoping Chris and I don’t once again bring home a bad case of Covid…or a not-bad case of Covid, for that matter)...",
-      "url": "https://blog.lostartpress.com/2026/08/31/2026-labor-day-weekend-hours/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_7980-copy.jpg?resize=640%2C422&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_7980-copy.jpg?resize=640%2C422&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-31T14:40:39+00:00"
-    },
-    {
       "id": "9d7b54b6ade41363",
       "title": "Genesis' New Luxury Electric SUV has No B-Pillar, No Start Button, Radiant Floor Heating",
       "summary": "Genesis, Hyundai's luxury spin-off, has just unveiled their new GV90 Neolun flagship. And it's a doozy. The luxury three-row electric SUV, which has a 311-mile (500km) range, has a feature no competitor has: What used to be called suicide doors, but which are now known as coach doors. Genesis' engineers have figured out how to remove the B-pillar, normally a key structural component, while maintaining safety standards. Genesis utilized a newly developed dual-motion hinge mechanism for the rear doors, optimized for the vehicle's hidden B-pillar body structure which enables the rear doors to…",
@@ -1067,7 +1077,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/5-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/6-.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-Febal-Casa_Italiana_Massimo-Iosa-Ghini.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1288,9 +1298,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/02/03/invisio.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/01/30/fbf_apple_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/Poetic-Furniture-Frozen-Textile-Details.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/10/auto-draft/bluetooth13.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/05/auto-draft/05-Medusa_Jellyfish-Pushpin_Stationery_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/05/NatureDry_the_100_merino_all_weather_jacket.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1304,8 +1314,8 @@
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?format=auto&v=1787885937",
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?format=auto&v=1787885937",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/netflix-2-6a9638347eba1.png?w=2732&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-main-ensuite-2-6a90f0b6649b4.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-02t102102.439-6a976bf358158.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/canowindra-cottage-garden-6a979c26a2bca.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-02t121350.005-6a978660e4218.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/chantel-and-wyatt-family-bathroom-6a7d377eb82f8.jpg?w=2304&format=auto"
@@ -1322,8 +1332,8 @@
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?format=auto&v=1788076710",
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?format=auto&v=1788076710",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/netflix-2-6a9638347eba1.png?w=2732&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/courtney-and-sev-the-block-2026-ensuite-bathroom--6a93e1a44a175.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-02t102102.439-6a976bf358158.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/canowindra-cottage-garden-6a979c26a2bca.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-02t121350.005-6a978660e4218.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-15-6a756fba2ef01-scaled.jpg?w=2303&format=auto"
@@ -1373,9 +1383,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/rope-replaced-every-screw-and-dowel-in-this-77-wooden-folding-stool/rope-stool-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/08/22/chair.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/12/14/boat_sofa.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/06/02/maybe_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/04/top-10-desk-designs-every-workaholic-needs-to-amp-up-their-productivity/Top-10_work-desks_folding_yankodesign_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/07/Galaxy-Z-Flip7-Cosmo-Case-Review-YankoDesign-layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/11/15/bench13.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1729,19 +1739,6 @@
       "published": "2026-08-26T19:54:14+00:00"
     },
     {
-      "id": "982f5e0d200f5fe8",
-      "title": "At Island Records and EMI’s New London HQ, Music Is an Art Form",
-      "summary": "Part workspace, part gallery, the office designed by InterestingProjects balances the distinct identities of the two labels. The post At Island Records and EMI’s New London HQ, Music Is an Art Form appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/island-records-emi-london-interestingprojects/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-26T17:14:06+00:00"
-    },
-    {
       "id": "52739f6288d73ed0",
       "title": "How to Make a Cabinet Drawer",
       "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
@@ -1771,19 +1768,6 @@
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-08-26T12:00:00+00:00"
-    },
-    {
-      "id": "8d8edafdcd631805",
-      "title": "5 Best Japanese Kitchen Gadgets That Make Fall Cooking Feel Like a Saturday in Kyoto",
-      "summary": "5 Best Japanese Kitchen Gadgets That Make Fall Cooking Feel Like a Saturday in Kyoto Fall cooking shifts register in a specific way. The produce changes, the mornings get sharper, and the kitchen becomes a place worth spending time in...",
-      "url": "https://www.yankodesign.com/2026/08/26/5-best-japanese-kitchen-gadgets-that-make-fall-cooking-feel-like-a-saturday-in-kyoto/?utm_source=rss&utm_medium=rss&utm_campaign=5-best-japanese-kitchen-gadgets-that-make-fall-cooking-feel-like-a-saturday-in-kyoto",
-      "image": "https://www.yankodesign.com/images/design_news/2026/08/draft-japanese-kitchen-gadgets-that-make-fall-cooking-feel-like-a-saturday-in-kyoto/5_best_japanese_kitchen_yanko_design_01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/draft-japanese-kitchen-gadgets-that-make-fall-cooking-feel-like-a-saturday-in-kyoto/5_best_japanese_kitchen_yanko_design_01.jpg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-08-26T11:40:28+00:00"
     },
     {
       "id": "51f67b1062c0974c",
@@ -1838,19 +1822,6 @@
       "published": "2026-08-26T08:00:00+00:00"
     },
     {
-      "id": "c1b12dd25e60c7f8",
-      "title": "Revised Stick Chair Video is Free for Previous Customers",
-      "summary": "We just released an entirely revised video on how to build a comb-back stick chair. But before you consider purchasing it, check your email. If you bought the original video sometime during the last four years, you should’ve received an email giving you free access to the new video. If you didn’t get the email,...",
-      "url": "https://blog.lostartpress.com/2026/08/25/revised-stick-chair-video-is-free-for-previous-customers/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/85353713-4114-4841-be0e-02a871a63115_3024x4032-768x1024-1.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/85353713-4114-4841-be0e-02a871a63115_3024x4032-768x1024-1.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-26T01:52:42+00:00"
-    },
-    {
       "id": "e38d1525597d29ed",
       "title": "Simplify your daily cleaning routine with the top 10 dishwashers of 2026",
       "summary": "Find the best fit for your kitchen and budget. The post Simplify your daily cleaning routine with the top 10 dishwashers of 2026 appeared first on Home Beautiful .",
@@ -1880,19 +1851,6 @@
       "source": "Woodshop News",
       "source_url": "https://www.woodshopnews.com",
       "published": "2026-08-25T18:18:01+00:00"
-    },
-    {
-      "id": "3241a25fff70de1c",
-      "title": "What is Fine Woodworking?",
-      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-25T16:15:12+00:00"
     },
     {
       "id": "1477174ea3ad8946",
@@ -2020,19 +1978,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-24T05:00:18+00:00"
-    },
-    {
-      "id": "bd694e813d900693",
-      "title": "I tested the $16 Bunnings toilet cleaner everyone is using on shower glass, here’s my verdict",
-      "summary": "It's changing the way people tackle bathroom grime. The post I tested the $16 Bunnings toilet cleaner everyone is using on shower glass, here’s my verdict appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/lifestyle/one-shot-thick-shower-cleaner/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/08/one-shot-thick-before-and-after-1-6a8bb3c1aa2bf.jpg?format=auto&v=1787540422",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/2025/08/one-shot-thick-before-and-after-1-6a8bb3c1aa2bf.jpg?format=auto&v=1787540422"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-08-24T03:06:59+00:00"
     },
     {
       "id": "d160975cc2647871",
@@ -2313,7 +2258,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -2336,19 +2281,6 @@
       "published": "2026-08-17T12:00:00+00:00"
     },
     {
-      "id": "79db5d1a42c41639",
-      "title": "Teaching With Your Teacher",
-      "summary": "I started teaching chairmaking one year ago, fresh off a week assisting Christopher Schwarz’s Chairmaker’s Toolbox class. I had just a few chairs under my belt and probably wasn’t quite ready to teach anyone else how to make them, but I had a willing co-teacher and enough reckless abandon to try. We set off on...",
-      "url": "https://blog.lostartpress.com/2026/08/17/teaching-with-your-teacher/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/KCWG.jpeg?resize=640%2C479&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/KCWG.jpeg?resize=640%2C479&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-17T11:46:30+00:00"
-    },
-    {
       "id": "3680d5a23249393a",
       "title": "Rehab Diaries: A Wellfleet Guest Cottage Revived on Cape Cod",
       "summary": "Our Wellfleet guest cottage started life as a potting shed, a storage spot for lawnmowers, bags of soil, rakes, hoes, etc. Then, in the 1970s, my mother turned it into what she called “the studio” (it even had its own phone line!), where she worked at her desk overlooking the garden. She installed a small […]",
@@ -2360,19 +2292,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-08-17T10:00:44+00:00"
-    },
-    {
-      "id": "a386f4d83bdf158d",
-      "title": "Don Weber’s Slides (Part 3)",
-      "summary": "This is the final post in a three-post series featuring images from a carousel of Don Weber’s slides, which he found while working with us on a profile for The Stick Chair Journal No. 4. This post features images of chairs and a wonderful series of photos from a Country Workshops chairmaking class, taught by...",
-      "url": "https://blog.lostartpress.com/2026/08/17/don-webers-slides-part-3/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-124-copy-1.jpg?resize=640%2C415&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-124-copy-1.jpg?resize=640%2C415&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-17T10:00:00+00:00"
     },
     {
       "id": "9529e03140e4c956",
@@ -2419,19 +2338,6 @@
       "published": "2026-08-16T19:30:44+00:00"
     },
     {
-      "id": "cfa0cee7e00cdf5e",
-      "title": "Don Weber’s Slides (Part 2)",
-      "summary": "This is the second post in a three-post series featuring images from a carousel of Don Weber’s slides, which he found while working with us on a profile for The Stick Chair Journal No. 4. These images show chairmakers, Don’s journey to the Wycombe woodlands, Don’s pole lathe and his Welsh left-handed writing chair. Captions...",
-      "url": "https://blog.lostartpress.com/2026/08/16/don-webers-slides-part-2/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-70-copy-1.jpg?resize=640%2C410&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-70-copy-1.jpg?resize=640%2C410&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-16T10:00:00+00:00"
-    },
-    {
       "id": "9d3ed14bb955bba4",
       "title": "Ome Dezin and Lumens outfit renovated Los Angeles residence",
       "summary": "Los Angeles studio Ome Dezin has partnered with design platform Lumens to renovate and furnish a 1990s home in the Hollywood Hills, adding iconic furniture and lighting from Frank Gehry, Ingo Maurer and more. Situated in middle of a mature forest on over an acre of land, the house was originally designed by architect Jeff The post Ome Dezin and Lumens outfit renovated Los Angeles residence appeared first on Dezeen .",
@@ -2443,19 +2349,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-15T17:00:12+00:00"
-    },
-    {
-      "id": "bf7fd661f93ef802",
-      "title": "Don Weber’s Slides (Part 1)",
-      "summary": "While working on Don Weber’s profile for The Stick Chair Journal No. 4, Don told me that he had a carousel of slides that might of interest. These were images he used during a talk he gave with Michael Dunbar, and, he believes, Jennie Alexander, at a chair symposium at Winterthur Museum, Garden & Library....",
-      "url": "https://blog.lostartpress.com/2026/08/15/don-webers-slides-part-1/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-1-copy.jpg?resize=640%2C432&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/Lost-Art-Press-76384_Scan-1-copy.jpg?resize=640%2C432&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-15T10:00:00+00:00"
     },
     {
       "id": "c5185888153d58b8",
@@ -2508,19 +2401,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-14T05:00:03+00:00"
-    },
-    {
-      "id": "4f2e0f32031d9e9b",
-      "title": "Squirrel Chair For Sale",
-      "summary": "Last month, I went to Nashville where Travis Curtis taught a group of fellow woodworkers and me how to build a Jennie Chair and, for better or for worse, I decided it should be purple and have squirrels on it. The chair was built, woven and painted purple in five days. Mapping out and painting...",
-      "url": "https://blog.lostartpress.com/2026/08/13/squirrel-chair-for-sale/",
-      "image": "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_2683.jpg?resize=640%2C853&#038;ssl=1",
-      "images": [
-        "https://i0.wp.com/blog.lostartpress.com/wp-content/uploads/2026/08/IMG_2683.jpg?resize=640%2C853&#038;ssl=1"
-      ],
-      "source": "Lost Art Press",
-      "source_url": "https://blog.lostartpress.com",
-      "published": "2026-08-13T19:34:00+00:00"
     },
     {
       "id": "fdbb63c9f5e06ef1",
@@ -2605,9 +2485,9 @@
       "title": "Expert Advice: The Head Gardener at Thyme in the Cotswolds, on Growing Crops in a Hoop House",
       "summary": "A hoop house tour might not sound like the most glamorous experience, but at Thyme Hotel, Restaurant, and Spa near Lechlade, England, food is so central to the stay, it follows that guests will want to know where 80 percent of the produce comes from. The kitchen garden at Thyme was daringly planted on a […]",
       "url": "https://www.gardenista.com/posts/polytunnel-hoop-house-thyme-hotel-cotswolds/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/08/thyme-kitchen-garden-1-photo-jim-powell.jpg",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/08/thyme-kitchen-garden-1-photo-jim-powell.jpg",
       "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/08/thyme-kitchen-garden-1-photo-jim-powell.jpg"
+        "https://media.gardenista.com/wp-content/uploads/2026/08/thyme-kitchen-garden-1-photo-jim-powell.jpg"
       ],
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
@@ -2696,9 +2576,9 @@
       "title": "Allium ‘Millenium’ 101: An Effortless Ornamental Onion",
       "summary": "The cellpacks of Allium ‘Millenium’ that I ordered last fall for the Alice Austen House garden on Staten Island arrived in April this year. They did not look promising. Beneath stubby leaves their roots were so crowded that each rootball was a rigid white cube. I planted them anyway, in the garden that faces the The […]",
       "url": "https://www.gardenista.com/posts/allium-millenium-101/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/08/allium-millenium-marie-viljoen.jpg",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/08/allium-millenium-marie-viljoen.jpg",
       "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/08/allium-millenium-marie-viljoen.jpg"
+        "https://media.gardenista.com/wp-content/uploads/2026/08/allium-millenium-marie-viljoen.jpg"
       ],
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
@@ -2722,9 +2602,9 @@
       "title": "Mini Essay: My Garden of Misfits",
       "summary": "I’ve always loved the classic Christmas story where Rudolph and his friend Hermey encounter the Island of Misfit Toys. Now that my garden, too, has become an orphanage for castoffs—leftover plants, rescued objects, gifted materials, all pieces that have found a second life outdoors—that story feels even more relevant. Of course, I have a few […]",
       "url": "https://www.gardenista.com/posts/mini-essay-garden-misfits/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/08/kier-holmes-mill-valley-garden-8.jpg",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/08/kier-holmes-mill-valley-garden-8.jpg",
       "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/08/kier-holmes-mill-valley-garden-8.jpg"
+        "https://media.gardenista.com/wp-content/uploads/2026/08/kier-holmes-mill-valley-garden-8.jpg"
       ],
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
@@ -2844,9 +2724,9 @@
       "title": "Trend Alert: Figurative Outdoor Chairs",
       "summary": "Aside from a weakness for a surprising color palette here and there, I generally always go for classic, timeless design that’s on the quiet side. Which is why I’m so surprised to find myself drawn to these outdoor metal chairs with backs that are shaped like faces?! These statement pieces are definitely not demure or […]",
       "url": "https://www.gardenista.com/posts/trend-alert-artful-face-chairs/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/08/m-dupont-chair.jpg",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/08/m-dupont-chair.jpg",
       "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/08/m-dupont-chair.jpg"
+        "https://media.gardenista.com/wp-content/uploads/2026/08/m-dupont-chair.jpg"
       ],
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
@@ -2892,19 +2772,6 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
-    },
-    {
       "id": "70f52947d252c821",
       "title": "An Exclusive Retreat",
       "summary": "On Bawe Island, a private island resort off the coast of Zanzibar, Villeroy &amp; Boch collections define the design of the elegant bathrooms. They complement the resort’s holistic concept and combine timeless aesthetics with the functional requirements of modern luxury hospitality.",
@@ -2926,7 +2793,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -3092,19 +2959,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
@@ -3637,19 +3491,6 @@
       "source": "Dezeen tag bathrooms",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-06T09:00:13+00:00"
-    },
-    {
-      "id": "f5c851431391c342",
-      "title": "24 Bedding Color Scheme Ideas That Make Seasonal Color Changes Feel Like a Ritual Worth Planning For",
-      "summary": "The bedding sets the whole tone before the rest of the room even gets a say. Color choice is the quietest decision in the space, but it’s the one that lingers, the one that decides whether mornings feel soft or scattered, whether the bed reads as a retreat or just a piece of furniture. These […] The post 24 Bedding Color Scheme Ideas That Make Seasonal Color Changes Feel Like a Ritual Worth Planning For appeared first on Trendir .",
-      "url": "https://www.trendir.com/bedding-color-scheme-ideas/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedding-Color-Scheme-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Collage-of-Bedding-Color-Scheme-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-06-04T23:00:00+00:00"
     }
   ]
 }
