@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-04T11:09:50.689169+00:00",
-  "generated_at_human": "2026-09-04 11:09 UTC",
-  "total_items": 249,
+  "generated_at": "2026-09-04T16:16:13.985665+00:00",
+  "generated_at_human": "2026-09-04 16:16 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
     "Archi.ru Projects",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -42,8 +43,6 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
-    "Popular Woodworking",
-    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -53,6 +52,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -65,19 +65,33 @@
   "multi_photo_items": 50,
   "items": [
     {
-      "id": "1ffebffe383550a1",
-      "title": "Архетип вместо декора",
-      "summary": "Как легенды Татарстана становятся частью современной архитектуры: в интерьерах ЖК «Зилант Премьер» студия BLOK переосмыслила образы Зиланта и Белого Барса.",
-      "url": "https://archi.ru/russia/102644/arkhetip-vmesto-dekora",
-      "image": "https://i.archi.ru/i/1262/509396.jpg",
+      "id": "da0f4b908f43d3e0",
+      "title": "Деликатная интервенция",
+      "summary": "Интерьеры от бюро Kozeen+Rueda отличает декларативность авторского высказывания. И в новом пространстве бутика BERTA LINE они представили концепцию сосуществования аутентичного и временного, доведенную до абсолюта, инсталлировав внутрь исторических интерьеров серию радикально хай-тековских объектов.",
+      "url": "https://archi.ru/russia/102674/delikatnaya-intervenciya",
+      "image": "https://i.archi.ru/i/1262/507219.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/509396.jpg",
-        "https://i.archi.ru/news/quadratic/480135.jpg?r=43392",
-        "https://i.archi.ru/i/1262/513859.png",
-        "https://i.archi.ru/i/1262/513860.jpg",
-        "https://i.archi.ru/i/1262/509390.jpg"
+        "https://i.archi.ru/i/1262/507219.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=8446",
+        "https://i.archi.ru/news/quadratic/506503.jpg?r=18879",
+        "https://i.archi.ru/news/quadratic/506502.jpg?r=46183",
+        "https://i.archi.ru/i/1262/507218.jpg",
+        "https://i.archi.ru/i/1262/507217.jpg"
       ],
       "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "7087ab76419a70eb",
+      "title": "Керамическое плетение",
+      "summary": "Американская Studio WE разработала CeraShingle – модульную систему керамической фасадной облицовки, в которой серийность не означает полного повторения элементов. Черепицы размером около 400 × 130 мм печатаются из глины роботизированной установкой по цифровой модели. При этом они могут различаться рельефом, кривизной, перфорацией и рисунком поверхности.",
+      "url": "http://archi.ru/tech/news_102673.html",
+      "image": "https://i.archi.ru/i/1262/514491.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/514491.jpg"
+      ],
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -89,6 +103,19 @@
       "image": "https://i.archi.ru/i/1262/512340.jpg",
       "images": [
         "https://i.archi.ru/i/1262/512340.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "1ffebffe383550a1",
+      "title": "Архетип вместо декора",
+      "summary": "Как легенды Татарстана становятся частью современной архитектуры: в интерьерах ЖК «Зилант Премьер» студия BLOK переосмыслила образы Зиланта и Белого Барса.",
+      "url": "https://archi.ru/russia/102644/arkhetip-vmesto-dekora",
+      "image": "https://i.archi.ru/i/1262/509396.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/509396.jpg"
       ],
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
@@ -108,17 +135,128 @@
       "published": ""
     },
     {
-      "id": "d949b3b467e8460b",
-      "title": "Театр для фигуристов или Cherchez la femme",
-      "summary": "Ледовые дворцы по своей типологии близки к промышленным зданиям: огромные безоконные залы, минимум архитектурных излишеств. Проектируя Navka Arena, Юлий Борисов и архитекторы UNK не стали бороться с утилитарной природой сооружения, но собрали всю образную часть проекта в одном месте – на центральном фасаде. Параболический козырек, монументальная скульптура-фигуристка и ее нарисованная перфорацией тень превратили обычную спортивную «коробку» в архитектурное высказывание о льде, движении и театре.",
-      "url": "https://archi.ru/russia/102638/teatr-dlya-figuristov-ili-cherchez-la-femme",
-      "image": "https://i.archi.ru/i/1262/513306.jpg",
+      "id": "fa035d905bbc71e3",
+      "title": "He Spray Painted the Solid Wood Cabinets Hague Blue and the Original Details Stood Out",
+      "summary": "Solid wood cabinetry filled this kitchen with inset doors, exposed hinges, fluted columns, paneled sections, and trim, but much of that detail blended into the natural wood finish. Replacing cabinets built with this much detail would also mean losing the original craftsmanship that made them worth keeping. Instagram creator @wesprayupvc was behind the transformation, spraying... The post He Spray Painted the Solid Wood Cabinets Hague Blue and the Original Details Stood Out appeared first on Homedit .",
+      "url": "https://www.homedit.com/he-spray-painted-the-solid-wood-cabinets-hague-blue-and-the-original-details-stood-out/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/He-Spray-Painted-the-Solid-Wood-Cabinets-Hague-Blue-and-the-Original-Details-Stood-Out.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/513306.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/He-Spray-Painted-the-Solid-Wood-Cabinets-Hague-Blue-and-the-Original-Details-Stood-Out.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Same-Cabinet-Run-Looks-More-Defined-in-Blue.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Hague-Blue-Changed-the-Lower-Cabinets-First.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Second-Work-Area-Used-the-Same-Wood-Cabinetry.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Solid-Wood-Cabinets-Filled-the-Main-Kitchen-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Hague-Blue-Connects-the-Full-Kitchen.jpg"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-04T16:05:33+00:00"
+    },
+    {
+      "id": "cdd41ca500a4d0de",
+      "title": "The Best Countertop Water Filters for Clean, Great-Tasting Water",
+      "summary": "Purify your drinking water with these top-performing, easy-to-install countertop systems. The post The Best Countertop Water Filters for Clean, Great-Tasting Water appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/best-countertop-water-filters/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2020/12/Best-Countertop-Water-Filter-.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2020/12/Best-Countertop-Water-Filter-.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-09-04T15:41:52+00:00"
+    },
+    {
+      "id": "706967fdb6fa35b3",
+      "title": "Costco's New Retro Mini Fridges Come in Cherry Red or Deep Black",
+      "summary": "When I think about mini fridges, I think about my freshman year of college, when I lived in a tiny room with three people, no kitchen, and one mini fridge. Our mini fridge was our lifeline, but it wasn’t particularly nice to look at; it felt a bit like an afterthought. But all this time, I could have had the cutest mini-fridge ever, if only I knew where to look. Right now, there’s one cute retro-inspired model available at Costco. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/costco-frigidaire-retro-mini-fridge-37689125?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2021-03/Shawn%20B/36",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2021-03/Shawn%20B/36"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-04T15:15:00+00:00"
+    },
+    {
+      "id": "8ca9c9a5d7457409",
+      "title": "Core77 Weekly Roundup (8-31-26 to 9-4-26)",
+      "summary": "Here's what we looked at this week: A new immersive gaming speaker set-up: OXS's Thunder Pro Max system features a \"Satellite Neck Speaker.\" Genesis' new luxury electric SUV has no B-pillar, no start button, radiant floor heating. In Denmark, 3D-printed student housing. PÉPET : Masae Nagao's kinetic paper pets. Chois: 3D-printed modular furniture components, you supply the dowels. Blue Star Crafts' Retro Mini Pochade Box. Multiple fantastic UX details in this saute pan lid by industrial designer Sebastian Bergne. Which folding bicycle design has the best UX? Studio Gorm designs a better…",
+      "url": "https://www.core77.com/posts/145213/Core77-Weekly-Roundup-8-31-26-to-9-4-26",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847894_lead_400_145213_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1847894_lead_400_145213_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-09-04T15:00:00+00:00"
+    },
+    {
+      "id": "865c4e706e85fba9",
+      "title": "Inside Soar Apartment, a Panoramic Home in Dnipro",
+      "summary": "Soar Apartment turns the irregular geometry of two merged units into a panoramic apartment overlooking the Dnipro River. In Dnipro, Ukraine, Svoya Studio uses built-in cabinetry, a multifunctional central column, and carefully placed furniture to establish order without suppressing the plan’s shifted axes. Warm natural materials and independent building systems balance openness with the practical […] The post Inside Soar Apartment, a Panoramic Home in Dnipro first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/09/04/inside-soar-apartment-a-panoramic-home-in-dnipro/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/09/001-inside-soar-apartment-a-panoramic-home-in-dnipro.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/09/001-inside-soar-apartment-a-panoramic-home-in-dnipro.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/006-inside-soar-apartment-a-panoramic-home-in-dnipro.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/002-inside-soar-apartment-a-panoramic-home-in-dnipro.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/007-inside-soar-apartment-a-panoramic-home-in-dnipro.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/009-inside-soar-apartment-a-panoramic-home-in-dnipro.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/012-inside-soar-apartment-a-panoramic-home-in-dnipro.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-09-04T14:18:30+00:00"
+    },
+    {
+      "id": "bae58910e0e30063",
+      "title": "Perlegear AX1 TV Mount Knows You’re Sitting, Standing, or Lying Down",
+      "summary": "Perlegear AX1 TV Mount Knows You’re Sitting, Standing, or Lying Down Anyone who has mounted a TV at a fixed height knows the compromise that follows. What works perfectly from the couch turns into a neck...",
+      "url": "https://www.yankodesign.com/2026/09/04/perlegear-ax1-tv-mount-knows-youre-sitting-standing-or-lying-down/?utm_source=rss&utm_medium=rss&utm_campaign=perlegear-ax1-tv-mount-knows-youre-sitting-standing-or-lying-down",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/perlegear-ax1-tv-mount-knows-youre-sitting-standing-or-lying-down/perlegear-ax1-smart-adaptive-tv-mount-01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/09/perlegear-ax1-tv-mount-knows-youre-sitting-standing-or-lying-down/perlegear-ax1-smart-adaptive-tv-mount-01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-04T13:40:50+00:00"
+    },
+    {
+      "id": "4ad4fee6a361c966",
+      "title": "This Butler’s Pantry Has a Vent Hood Even Though There’s No Stove Under It",
+      "summary": "Vent hoods almost always have a range or cooktop beneath them, which makes the setup in this butler’s pantry hard to miss. The wood-clad hood hangs above an uninterrupted stretch of stone counter filled with cutting boards, fruit, serving pieces, and bar tools. There are no burners anywhere below. Much of the room is built... The post This Butler’s Pantry Has a Vent Hood Even Though There’s No Stove Under It appeared first on Homedit .",
+      "url": "https://www.homedit.com/this-butlers-pantry-has-a-vent-hood-even-though-theres-no-stove-under-it/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/This-Butlers-Pantry-Has-a-Vent-Hood-Even-Though-Theres-No-Stove-Under-It.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/This-Butlers-Pantry-Has-a-Vent-Hood-Even-Though-Theres-No-Stove-Under-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Pulls-and-knobs-for-doors.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Black-and-Natural-Wood-Continue-Down-to-the-Floor.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Rooms-That-Show-How-One-Bold-Design-Choice-Can-Shape-the-Entire-Space.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Green-growing-herbs.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Glass-Cabinets-Keep-Drinkware-in-View.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-04T13:36:21+00:00"
+    },
+    {
+      "id": "7ccee77fac54afc8",
+      "title": "International Chic, Jerusalem Soul by Shana Wirzberger",
+      "summary": "International Chic, Jerusalem Soul is Shana Wirzberger’s 220-square-meter (2,368-square-foot) duplex in Jerusalem’s Rechavia neighborhood, where an American sense of warmth meets crisp contemporary lines. Designed as both a family house and an active setting for hospitality, the 2026 renovation uses open zoning, custom furniture, and a restrained palette to preserve intimacy while keeping views toward […] The post International Chic, Jerusalem Soul by Shana Wirzberger first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/09/04/international-chic-jerusalem-soul-by-shana-wirzberger/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/09/001-international-chic-jerusalem-soul-by-shana-wirzberger.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/09/001-international-chic-jerusalem-soul-by-shana-wirzberger.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/008-international-chic-jerusalem-soul-by-shana-wirzberger.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/013-international-chic-jerusalem-soul-by-shana-wirzberger.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/001-international-chic-jerusalem-soul-by-shana-wirzberger.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/002-international-chic-jerusalem-soul-by-shana-wirzberger.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/09/003-international-chic-jerusalem-soul-by-shana-wirzberger.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-09-04T12:18:30+00:00"
     },
     {
       "id": "04a2774675fc740b",
@@ -130,9 +268,9 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/09/One-Coffee-Table-Isnt-Enough-for-These-Living-Rooms.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Small-Tables-Work-Around-Individual-Chairs.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Two-Stone-Tops-Dont-Need-to-Match.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Rooms-That-Show-How-One-Bold-Design-Choice-Can-Shape-the-Entire-Space.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Tossing-the-Walnuts-She-Turned-Them-Into-Tiny-Photo-Holders.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Painted-Her-White-Kitchen-Cabinets-Deep-Green-Instead-of-Replacing-Them.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Painted-Her-White-Kitchen-Cabinets-Deep-Green-Instead-of-Replacing-Them.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/He-Spray-Painted-the-Solid-Wood-Cabinets-Hague-Blue-and-the-Original-Details-Stood-Out.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/This-Butlers-Pantry-Has-a-Vent-Hood-Even-Though-Theres-No-Stove-Under-It.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -154,13 +292,13 @@
     {
       "id": "e6c9ce40090e80bc",
       "title": "Studio Cadena fills Medellín cafe with 31 towering wooden columns",
-      "summary": "Architetcure firm Studio Cadena has designed a forest-like interior for the Masa cafe in Medellín, Colombia, where over 30 plywood columns stretch to a concrete ceiling to create an \"atmosphere without walls or enclosure\". For the design of the spacious cafe in Colombia's second largest city, the studio focused on two main materials: concrete and The post Studio Cadena fills Medellín cafe with 31 towering wooden columns appeared first on Dezeen .",
+      "summary": "Architecture firm Studio Cadena has designed a forest-like interior for the Masa cafe in Medellín, Colombia, where over 30 plywood columns stretch to a concrete ceiling to create an \"atmosphere without walls or enclosure\". For the design of the spacious cafe in Colombia's second largest city, the studio focused on two main materials: concrete and The post Studio Cadena fills Medellín cafe with 31 towering wooden columns appeared first on Dezeen .",
       "url": "https://www.dezeen.com/2026/09/04/masa-cafe-studio-cadena-medellin-wooden-columns/",
       "image": "http://static.dezeen.com/uploads/2026/09/studio-cadena-masa-cafe-medellin_dezeen_2364_col_sq-new.jpg",
       "images": [
         "http://static.dezeen.com/uploads/2026/09/studio-cadena-masa-cafe-medellin_dezeen_2364_col_sq-new.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-04T10:00:35+00:00"
     },
@@ -184,12 +322,7 @@
       "url": "https://www.homedit.com/instead-of-stripping-this-vintage-dresser-she-painted-it-deep-blue-and-kept-the-wood-top/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Stripping-This-Vintage-Dresser-She-Painted-It-Deep-Blue-and-Kept-the-Wood-Top.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Stripping-This-Vintage-Dresser-She-Painted-It-Deep-Blue-and-Kept-the-Wood-Top.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Yellow-Paint-Covered-the-Curved-Drawer-Fronts.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Curves-Wood-and-Original-Hardware-Remain.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Patterned-Liners-Finish-the-Drawer-Interiors.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Original-Center-Knob-Stayed-With-the-Dresser.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Added-Legs-Lifted-the-Low-Base-Off-the-Floor.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Instead-of-Stripping-This-Vintage-Dresser-She-Painted-It-Deep-Blue-and-Kept-the-Wood-Top.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -228,12 +361,7 @@
       "url": "https://www.homedit.com/she-painted-her-white-kitchen-cabinets-deep-green-instead-of-replacing-them/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Painted-Her-White-Kitchen-Cabinets-Deep-Green-Instead-of-Replacing-Them.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Painted-Her-White-Kitchen-Cabinets-Deep-Green-Instead-of-Replacing-Them.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Rooms-That-Show-How-One-Bold-Design-Choice-Can-Shape-the-Entire-Space.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Existing-Cabinets-Became-the-Base-for-the-Remodel.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/White-Counters-Separate-the-Green-Cabinet-Runs.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Green-Leaf-Tile-Took-the-Color-Across-the-Walls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Floor-Tile-Came-Out-While-the-Cabinets-Stayed.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/She-Painted-Her-White-Kitchen-Cabinets-Deep-Green-Instead-of-Replacing-Them.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -338,9 +466,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-step-stool-that-actually-belongs-in-your-entryway/step-stool-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/03/06/pages_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/cave-chair-turns-privacy-and-comfort-into-modern-design-art/cave-chair-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/08/15/kinzoboardroomtable01.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/02/minimalist-stool-is-made-from-recycled-aluminum-has-lowest-carbon-footprint/joy-stool.jpeg",
+        "https://www.yankodesign.com/images/design_news/2016/07/a-sweet-little-trolley-table/trolley_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/pivot_drawers_raw_edges_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -504,32 +632,6 @@
       "published": "2026-09-03T12:00:00+00:00"
     },
     {
-      "id": "091fcb49d0f27049",
-      "title": "This Kitchen Has a Place for the Toaster, Coffee Capsules and Everything That Usually Crowds the Counter",
-      "summary": "Kitchen cabinetry often uses every available inch of wall, with upper cabinets extending toward the counter or leaving one continuous backsplash below. This kitchen takes another route, carving out wood-lined niches between sections of dark cabinetry and the white countertop. Those openings give appliances, flowers, jars, and serving pieces a defined place without turning the... The post This Kitchen Has a Place for the Toaster, Coffee Capsules and Everything That Usually Crowds the Counter appeared first on Homedit .",
-      "url": "https://www.homedit.com/this-kitchen-has-a-place-for-the-toaster-coffee-capsules-and-everything-that-usually-crowds-the-counter/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Upper-Cabinets-Dont-Have-to-Meet-the-Counter-This-Kitchen-Leaves-Room-for-Something-Better.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/08/Upper-Cabinets-Dont-Have-to-Meet-the-Counter-This-Kitchen-Leaves-Room-for-Something-Better.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-03T10:53:19+00:00"
-    },
-    {
-      "id": "6883036f0a4af813",
-      "title": "The Toilet Was Sitting on a Raised Platform Until This Bathroom Was Reconfigured Around a Salvaged 1920s Tub",
-      "summary": "Renovating this third-floor bathroom meant dealing with more than dated finishes. According to Reddit user u/Mysterious_Rise_432, the bathroom had not been functional for decades, the water had been off for an estimated 20 to 30 years, and the toilet occupied a raised platform that took up much of an already cramped room. New pipes, a... The post The Toilet Was Sitting on a Raised Platform Until This Bathroom Was Reconfigured Around a Salvaged 1920s Tub appeared first on Homedit .",
-      "url": "https://www.homedit.com/the-toilet-was-sitting-on-a-raised-platform-until-this-bathroom-was-reconfigured-around-a-salvaged-1920s-tub/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Toilet-Was-Sitting-on-a-Raised-Platform-Until-This-Bathroom-Was-Reconfigured-Around-a-Salvaged-1920s-Tub.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Toilet-Was-Sitting-on-a-Raised-Platform-Until-This-Bathroom-Was-Reconfigured-Around-a-Salvaged-1920s-Tub.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-03T09:47:23+00:00"
-    },
-    {
       "id": "eb7e75da3e48986b",
       "title": "Emeco sues Zara Home over chairs designed by Norman Foster",
       "summary": "US furniture brand Emeco has begun legal action against Zara Home for allegedly copying a chair and a stool designed for the brand by architect Norman Foster. Emeco filed the lawsuit in the Hamburg District Court, Germany, earlier this year, alleging that Spanish brand Zara Home had \"unlawfully copied the appearance and protected design language\" of The post Emeco sues Zara Home over chairs designed by Norman Foster appeared first on Dezeen .",
@@ -605,19 +707,6 @@
       "published": "2026-09-03T01:31:22+00:00"
     },
     {
-      "id": "5a140cd42f681e72",
-      "title": "6 Lowe's Labor Day Deals To Check Out In September",
-      "summary": "From countertop appliances to patio furniture, you can outfit your home inside and out with great deals during Lowe's Labor Day Sale going through September 9.",
-      "url": "https://www.hunker.com/2250063/lowes-labor-day-deals-september-2026/",
-      "image": "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/l-intro-1788398292.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/lowes-labor-day-deals-september-2026/l-intro-1788398292.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-03T01:00:00+00:00"
-    },
-    {
       "id": "c9ae84bdbe6dd699",
       "title": "This $12 kitchen buy has sparked an age-old Aussie debate",
       "summary": "Is it ever safe to leave butter out? The post This $12 kitchen buy has sparked an age-old Aussie debate appeared first on Better Homes & Gardens Australia .",
@@ -644,19 +733,6 @@
       "published": "2026-09-02T22:00:00+00:00"
     },
     {
-      "id": "a32d8ff8b9a4a27e",
-      "title": "Skip The Plastic Furniture: Turn Wood Pallets Into Sturdy Outdoor Seating",
-      "summary": "Instead of boring plastic furniture, you can use wood pallets to craft durable yet elevated outdoor seating. And the process is likely easier than you think.",
-      "url": "https://www.hunker.com/2239736/wood-pallets-diy-outdoor-seating-bench/",
-      "image": "https://www.hunker.com/img/gallery/skip-the-plastic-furniture-turn-wood-pallets-into-sturdy-outdoor-seating/l-intro-1787122703.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-the-plastic-furniture-turn-wood-pallets-into-sturdy-outdoor-seating/l-intro-1787122703.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-02T21:00:00+00:00"
-    },
-    {
       "id": "1c2e2930a3d69943",
       "title": "Billy Maynard Architects Balance Precision & Romance in a 1930s Elizabeth Bay Apartment.",
       "summary": "Billy Maynard Architects have reworked a compromised plan of a top floor 1930s Elizabeth Bay apartment with sanded stainless steel, spotted gum plywood, sand-cast brass and restored tallowwood floors, drawing northern light through a new triangular skylight. Curtain commissions by artist Lauren Brincat introduce the softness all that precision needs. Rigorous, quiet and deeply personal without ever raising its voice. | The article Billy Maynard Architects Balance Precision & Romance in a 1930s Elizabeth Bay Apartment. appeared first on Yellowtrace . |",
@@ -681,12 +757,7 @@
       "url": "https://homeadore.com/2026/09/02/nebo-apartment-frames-dnipro-through-light-and-horizon/",
       "image": "https://homeadore.com/wp-content/uploads/2026/09/001-nebo-apartment-frames-dnipro-through-light-and-horizon.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/09/001-nebo-apartment-frames-dnipro-through-light-and-horizon.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/013-nebo-apartment-frames-dnipro-through-light-and-horizon.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/001-nebo-apartment-frames-dnipro-through-light-and-horizon.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/002-nebo-apartment-frames-dnipro-through-light-and-horizon.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/003-nebo-apartment-frames-dnipro-through-light-and-horizon.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/007-nebo-apartment-frames-dnipro-through-light-and-horizon.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/09/001-nebo-apartment-frames-dnipro-through-light-and-horizon.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -732,19 +803,6 @@
       "published": "2026-09-02T15:51:23+00:00"
     },
     {
-      "id": "f1aaa51106468d05",
-      "title": "Basic Relief Carving Techniques",
-      "summary": "A few simple tools and basic technique will result in a great-looking carving. Relief carving as a form of ornamentation is as old as woodworking itself and while at first... Source",
-      "url": "https://www.popularwoodworking.com/techniques/basic-relief-carving-techniques/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/02103737/carvedbox-26-thumb.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/09/02103737/carvedbox-26-thumb.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-09-02T15:12:46+00:00"
-    },
-    {
       "id": "1903ecff769c3c5e",
       "title": "Studio Gorm Designs a Better Doorstop",
       "summary": "Using a wedge as a door stopper seems like a perfect solution, and it's probably been around for centuries, in one material or another. Because the object is ubiquitous, it's easy to ignore. But industrial designers John and Wonhee Arndt, a/k/a Studio Gorm , recognized that the object could use improvement. They've designed a doorstop that's far easier to interact with, comes with a built-in way to store it when not in use, and looks a damn sight better: \"[It's] made in Portugal at a shoe sole factory,\" the duo writes. \"The flakes are recycled shoe sole waste that has been ground and mixed…",
@@ -767,9 +825,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/12/brush_hanger_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/01/innovative-braided-furniture-merges-craftsmanship-and-modern-elegance/YYYarn_woven_furniture_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/07/15/191504.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/05/why-does-every-kids-chair-feel-disposable-rocco-disagrees/rocco-02-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/04/task-chair-uses-70-recycled-materials-and-is-comfortable-to-sit-on-for-hours/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/03/02/peep_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -862,7 +920,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/apartment-21-piercy-co_dezeen_2364_sq_1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-02T05:00:22+00:00"
     },
@@ -886,12 +944,7 @@
       "url": "https://homeadore.com/2026/09/01/contemporary-influences-an-italian-house-recast-in-contrast/",
       "image": "https://homeadore.com/wp-content/uploads/2026/09/001-contemporary-influences-an-italian-house-recast-in-contrast.jpg",
       "images": [
-        "https://homeadore.com/wp-content/uploads/2026/09/001-contemporary-influences-an-italian-house-recast-in-contrast.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/008-contemporary-influences-an-italian-house-recast-in-contrast.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/009-contemporary-influences-an-italian-house-recast-in-contrast.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/012-contemporary-influences-an-italian-house-recast-in-contrast.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/001-contemporary-influences-an-italian-house-recast-in-contrast.jpg",
-        "https://i.homeadore.com/wp-content/uploads/2026/09/002-contemporary-influences-an-italian-house-recast-in-contrast.jpg"
+        "https://homeadore.com/wp-content/uploads/2026/09/001-contemporary-influences-an-italian-house-recast-in-contrast.jpg"
       ],
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
@@ -999,19 +1052,6 @@
       "published": "2026-09-01T15:52:04+00:00"
     },
     {
-      "id": "e9c99b6ef9d784a8",
-      "title": "Villa Corradi: A Country House Recast in Earthy Surfaces",
-      "summary": "Villa Corradi brings a restrained material palette to a 2025 house in Reggio Emilia, Italy, where Gualtiero Sacchi Design renews the interiors around art, tactile surfaces, and natural light. Clay-based walls and ceilings establish continuity across the levels, while a cement-and-resin floor links the ground-floor rooms, allowing wood, veined marble, metalwork, and a collection of […] The post Villa Corradi: A Country House Recast in Earthy Surfaces first appeared on HomeAdore .",
-      "url": "https://homeadore.com/2026/09/01/villa-corradi-a-country-house-recast-in-earthy-surfaces/",
-      "image": "https://homeadore.com/wp-content/uploads/2026/09/001-villa-corradi-a-country-house-recast-in-earthy-surfaces.jpg",
-      "images": [
-        "https://homeadore.com/wp-content/uploads/2026/09/001-villa-corradi-a-country-house-recast-in-earthy-surfaces.jpg"
-      ],
-      "source": "Home Adore",
-      "source_url": "http://homeadore.com",
-      "published": "2026-09-01T14:29:27+00:00"
-    },
-    {
       "id": "29c4d1a393398276",
       "title": "The Most Important Pieces in These Rooms Aren’t the Largest Ones",
       "summary": "Sofas, beds, cabinets, and dining tables establish how a room functions, yet size does not guarantee that they will be the first things you notice. In these interiors, smaller pieces pull attention through color, shape, scale, reflection, or material. A red pillow changes a dark leather chair. Tall mirrors turn empty wall space into part... The post The Most Important Pieces in These Rooms Aren’t the Largest Ones appeared first on Homedit .",
@@ -1051,19 +1091,6 @@
       "source": "MilK Decoration",
       "source_url": "https://www.milkdecoration.com",
       "published": "2026-09-01T11:47:09+00:00"
-    },
-    {
-      "id": "925be307e44ecc3a",
-      "title": "Loft ex Panetteria: A Milan Loft in High Contrast",
-      "summary": "Loft ex Panetteria, a 2025 loft in Milan by Roberto Paoli, sets crisp contemporary insertions against the weathered character visible at its entrance. Across the interior, gray cabinetry, white storage, dark upholstery, and speckled floors establish a quiet base, while saturated blue and sharp yellow accents provide continuity. Framed sightlines, built-in elements, and mirrored surfaces […] The post Loft ex Panetteria: A Milan Loft in High Contrast first appeared on HomeAdore .",
-      "url": "https://homeadore.com/2026/09/01/loft-ex-panetteria-a-milan-loft-in-high-contrast/",
-      "image": "https://homeadore.com/wp-content/uploads/2026/08/001-loft-ex-panetteria-a-milan-loft-in-high-contrast.jpg",
-      "images": [
-        "https://homeadore.com/wp-content/uploads/2026/08/001-loft-ex-panetteria-a-milan-loft-in-high-contrast.jpg"
-      ],
-      "source": "Home Adore",
-      "source_url": "http://homeadore.com",
-      "published": "2026-09-01T10:04:29+00:00"
     },
     {
       "id": "9d950495bc352ef6",
@@ -1118,19 +1145,6 @@
       "published": "2026-08-31T18:15:52+00:00"
     },
     {
-      "id": "71fac0004a1e7725",
-      "title": "ShopNotes Podcast Episode 283 — Our Patented Blade-Breaking Technology",
-      "summary": "Phil Huber and John Doyle are back for a special back-to-school edition of the ShopNotes Podcast! This week, they dig into listener comments on radial arm saws, cabinet joinery, woodworking... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-283-our-patented-blade-breaking-technology/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/31112222/screenshot-2026-08-31-at-10.20.55am.png",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/31112222/screenshot-2026-08-31-at-10.20.55am.png"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-31T15:22:45+00:00"
-    },
-    {
       "id": "86228fe33b939e29",
       "title": "In Denmark, 3D-Printed Student Housing",
       "summary": "Copenhagen-based SAGA Space Architects and Danish architecture studio MS+ recently completed Europe's largest 3D-printed housing project. Called Skovsporet , it's an entire village of 36 ground-floor apartments broken up into six clusters. It was built as student housing to serve nearby VIA University College. Each apartment is designed as a complete home, with a kitchen, study area, lounge, bathroom, and sleeping area. Large roof windows and slanted ceilings bring daylight into the homes, while the combination of 3D-printed concrete, cork panels, glass, and traditional roof structures…",
@@ -1168,19 +1182,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-08-31T14:00:00+00:00"
-    },
-    {
-      "id": "3646760bffa4c6f0",
-      "title": "A New Immersive Gaming Speaker Set-Up: OXS's Thunder Pro Max System",
-      "summary": "Speakers have gone through multiple form factors and arrangements in the past hundred years. In the 1920s, we had radio cabinets with a single speaker. In the 1950s, Hi-Fi cabinets, with left and right speakers. In the 1980s Dolby Surround Sound became a thing, requiring four speakers—two in front, two behind—and a separate subwoofer. By the 2000s, things began to shrink. Flatscreen TVs became ubiquitous, leading to the soundbar. In the 2010s, as we all had smartphones loaded up with music, portable Bluetooth speakers became a thing. Here in the 2020s, computer gaming is now wildly…",
-      "url": "https://www.core77.com/posts/145212/A-New-Immersive-Gaming-Speaker-Set-Up-OXSs-Thunder-Pro-Max-System",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1847868_lead_400_145212_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1847868_lead_400_145212_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-08-31T13:00:00+00:00"
     },
     {
       "id": "24cdf35672a37012",
@@ -1243,10 +1244,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1446,9 +1447,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/04/diy-interactive-smart-coffee-table-uses-second-hand-products-and-reclaimed-materials/diy-interactive-smart-coffee-table-10.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/googles-pixel-12-could-get-cheaper-as-production-leaves-china-for-india-and-vietnam/google_pixel_12_production_1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2018/04/the-smart-scale-tackles-a-designers-worst-nightmare-human-error/smart_scale_ruler_cover1.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/06/echo-desk-lamp/echo_desk_lamp_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/05/last-day-to-enter-dia-award-winners-receive-up-to-145000-cash/design_intelligence_award1_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/11/never-miss-a-beat/flou_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1523,32 +1524,6 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-08-28T16:20:17+00:00"
-    },
-    {
-      "id": "aff086f762071508",
-      "title": "The Splinter Report: August 28th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week I went to IWF and saw all sorts... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-august-28th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/27132438/splinter-report-8-28.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/27132438/splinter-report-8-28.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-28T15:25:07+00:00"
-    },
-    {
-      "id": "d135b283192742e0",
-      "title": "Core77 Weekly Roundup (8-24-26 to 8-28-26)",
-      "summary": "Here's what we looked at this week: Two experimental mobile drawer designs , by architect Keiji Ashizawa. MIT & Sumitomo develop a better UI design for excavators. An industrial designer's deconstructed tape measures help keep Ukraine free. Textile artist Ali Hill creates architectural renderings with a sewing machine. The Fairphone Gen. 6+ , a user-repairable smartphone, finally comes to the 'States. The portable Rope Stool , borne from a Swedish-Japanese design collaboration. The summertime temperature differences of a black car vs. a white car. What's the air conditioning cost…",
-      "url": "https://www.core77.com/posts/145150/Core77-Weekly-Roundup-8-24-26-to-8-28-26",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1846962_lead_400_145150_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1846962_lead_400_145150_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-08-28T15:00:00+00:00"
     },
     {
       "id": "db2c715576c2a5b7",
@@ -1670,19 +1645,6 @@
       "published": "2026-08-27T14:57:43+00:00"
     },
     {
-      "id": "04fc217b95f0aeb0",
-      "title": "Kitchen Cabinet Essentials",
-      "summary": "Build your own kitchen cabinets with this step-by-step guide covering cabinet construction for a custom kitchen that fits your space. Ask ten woodworkers how to build kitchen cabinets and you’ll... Source",
-      "url": "https://www.popularwoodworking.com/article/kitchen-cabinet-essentials/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10151527/aw_16230_020.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2020/04/10151527/aw_16230_020.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-27T14:39:06+00:00"
-    },
-    {
       "id": "88559306b6e6d339",
       "title": "DIY Plant Shelf with Free Plans",
       "summary": "I started collecting houseplants about five months ago, and my collection quickly outgrew the few spots I had available. I needed a place to display them, so I built two matching DIY plant shelf units for each side of my dining room wall. Each unit is 43 inches long and has five shelves, giving me... The post DIY Plant Shelf with Free Plans appeared first on Shanty 2 Chic .",
@@ -1797,17 +1759,17 @@
       "published": "2026-08-26T19:54:14+00:00"
     },
     {
-      "id": "52739f6288d73ed0",
-      "title": "How to Make a Cabinet Drawer",
-      "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
-      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-drawer-box/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg",
+      "id": "982f5e0d200f5fe8",
+      "title": "At Island Records and EMI’s New London HQ, Music Is an Art Form",
+      "summary": "Part workspace, part gallery, the office designed by InterestingProjects balances the distinct identities of the two labels. The post At Island Records and EMI’s New London HQ, Music Is an Art Form appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/island-records-emi-london-interestingprojects/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg",
       "images": [
-        "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg"
+        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg"
       ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-26T12:17:50+00:00"
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-08-26T17:14:06+00:00"
     },
     {
       "id": "fd6507be27a504ec",
@@ -1924,6 +1886,19 @@
       "published": "2026-08-25T18:18:01+00:00"
     },
     {
+      "id": "3241a25fff70de1c",
+      "title": "What is Fine Woodworking?",
+      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-25T16:15:12+00:00"
+    },
+    {
       "id": "1477174ea3ad8946",
       "title": "Her kitchen always smelled faintly sour until she found the one spot no one thinks to clean",
       "summary": "She wiped the counters. She scrubbed the sink. She took the trash out twice a day. And still, every time she walked into her kitchen after work, that faint sour smell was right there waiting, low and stubborn. She sniffed the sponge. She checked the disposal. She emptied the fridge. Nothing. The smell was coming […] The post Her kitchen always smelled faintly sour until she found the one spot no one thinks to clean appeared first on Trendir .",
@@ -1935,19 +1910,6 @@
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-08-25T14:03:47+00:00"
-    },
-    {
-      "id": "be28624a0945a1a9",
-      "title": "How to Make a Cabinet Door",
-      "summary": "A tongue-and-groove router bit set gets the job done fast. When you learn how to make cabinet doors, you will have mastered one of the basic skills in woodworking. Doors... Source",
-      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-door/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-25T12:37:20+00:00"
     },
     {
       "id": "61b556c506488fe5",
@@ -2282,19 +2244,6 @@
       "published": "2026-08-17T19:30:41+00:00"
     },
     {
-      "id": "469cfdc32d0929cf",
-      "title": "Custom Edge Protection, Part 1: Crafting a Riveted Leather Edge Scabbard",
-      "summary": "Every woodworker knows the importance of keeping edge tools sharp, but protecting those razor-sharp edges when tools are tucked into a drawer or tossed into a travel bag is just... Source",
-      "url": "https://www.popularwoodworking.com/projects/custom-edge-protection-part-1-crafting-a-riveted-leather-edge-scabbard/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-17T15:55:43+00:00"
-    },
-    {
       "id": "7f2e997b250cb0e2",
       "title": "Hotel Chalet Mirabell Makes the South Tyrolean Landscape the Main Attraction",
       "summary": "With a 64,000-square-foot spa, tiered timber architecture, and sweeping alpine views, the Italian retreat is designed around finding room to slow down",
@@ -2316,7 +2265,7 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Console-Table-3.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/console-table-2.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/09/Cleaning-Supply-Closet.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/04/Stair-Makeover-DIY-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
@@ -2825,6 +2774,19 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
+    },
+    {
       "id": "70f52947d252c821",
       "title": "An Exclusive Retreat",
       "summary": "On Bawe Island, a private island resort off the coast of Zanzibar, Villeroy &amp; Boch collections define the design of the elegant bathrooms. They complement the resort’s holistic concept and combine timeless aesthetics with the functional requirements of modern luxury hospitality.",
@@ -2858,8 +2820,8 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/12/Purdy-final-2.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2023/03/DIY-Buffet-Table-Shanty2Chic.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
@@ -2885,19 +2847,6 @@
       "source": "DM tag bathroom",
       "source_url": "https://design-milk.com",
       "published": "2026-07-30T19:58:26+00:00"
-    },
-    {
-      "id": "72664b960ea7af2a",
-      "title": "Post & Rung Standing Desk",
-      "summary": "Two classic joints build a beautiful utility piece In 2020, when we settled into our fully working from home routine, one thing became clear: sitting all day, without the prompts... Source",
-      "url": "https://www.popularwoodworking.com/projects/post-rung-standing-desk/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2021/10/lead-standingdesk.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-07-30T15:23:28+00:00"
     },
     {
       "id": "315206e97784de7a",
@@ -3012,6 +2961,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
