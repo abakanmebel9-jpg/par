@@ -1,13 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-05T16:45:55.398601+00:00",
-  "generated_at_human": "2026-09-05 16:45 UTC",
-  "total_items": 246,
+  "generated_at": "2026-09-05T18:59:19.245498+00:00",
+  "generated_at_human": "2026-09-05 18:59 UTC",
+  "total_items": 248,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
-    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -24,6 +23,7 @@
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
+    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -72,14 +72,9 @@
       "url": "https://archi.ru/russia/102674/delikatnaya-intervenciya",
       "image": "https://i.archi.ru/i/1262/507219.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/507219.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=76231",
-        "https://i.archi.ru/news/quadratic/506503.jpg?r=44203",
-        "https://i.archi.ru/news/quadratic/506502.jpg?r=49352",
-        "https://i.archi.ru/i/1262/507218.jpg",
-        "https://i.archi.ru/i/1262/507217.jpg"
+        "https://i.archi.ru/i/1262/507219.jpg"
       ],
-      "source": "Archi.ru Projects",
+      "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -134,6 +129,34 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "dffd825494f194d1",
+      "title": "Ivy Studio creates \"soothing\" exotic animal clinic in brutalist Quebec bank",
+      "summary": "Canada's Ivy Studio has transformed a 1970s bank into a veterinary clinic for exotic animals in Laval, Quebec, featuring minimalist interiors and soft lighting. The Fauna clinic occupies a standalone structure completed in a brutalist style near the waterfront, just over the Prairies River northwest of Montreal. Ivy Studio leaned into the building's existing style The post Ivy Studio creates \"soothing\" exotic animal clinic in brutalist Quebec bank appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/05/ivy-studio-fauna-exotic-animal-clinic-laval-quebec/",
+      "image": "http://static.dezeen.com/uploads/2026/09/fauna_ivy-studio_dezeen_sq1ex.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/09/fauna_ivy-studio_dezeen_sq1ex.jpg"
+      ],
+      "source": "Dezeen Interiors",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-05T17:00:58+00:00"
+    },
+    {
+      "id": "6df523bf3aaf8171",
+      "title": "Don't Toss Your Old Knife Block: There's A Cute New Way To Decorate Your Countertops",
+      "summary": "When your wooden knife block has retired from holding knives, give it a stylish new job on the counter. It's not just decorative - it's functional, too.",
+      "url": "https://www.hunker.com/2247244/reuse-knife-block-decorate-kitchen-countertops-flower-bookend/",
+      "image": "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/l-intro-1788163138.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/l-intro-1788163138.jpg",
+        "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/intro-1788163138.jpg",
+        "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/repurpose-a-knife-block-into-a-flower-bookend-1788162328.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-05T16:30:00+00:00"
     },
     {
       "id": "b3f2ea049dce1305",
@@ -584,9 +607,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-step-stool-that-actually-belongs-in-your-entryway/step-stool-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/10/functional-yet-eccentric-the-furniture-designed-by-michael-beitz-will-give-you-some-food-for-thought/Michael-Beitz_13.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/07/half-pixel-half-mirror-the-ghost-collection-that-blurs-both-worlds/ghost-collection-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/05/the-worlds-first-sustainable-fully-integrated-plug-and-play-wall-mounted-workstation-and-folding-desk/2-droptop_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/04/seating-with-less-screws-more-style/flat_pack_bench_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/10/auto-draft/pelvis_chair_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2024/05/gustav-dusings-flat-pack-barcelona-chair-version-with-sustainable-plywood-and-no-binding-materials/Frame_series_chair_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -869,9 +892,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/auto-draft/pocket_chair_3.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/12/10/equilino_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/Troy-Smith-Studio-Star-Lounger-Details.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/04/24/jopple_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/07/social-distancing-furniture/10-clikclax_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/05/auto-draft/stretch_board_9.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1275,10 +1298,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1296,7 +1319,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/5-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/6-.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1478,9 +1501,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/04/Curve_SE_matte_white_stand_for_your_MacBook.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/modular-furniture-that-transforms-and-adapts-to-flexible-and-functional-living-spaces/Cabinet_modular_furniture_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/04/10/Conran_camera.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/08/evachill_personal_air_conditioner_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/02/auto-draft/butterfly_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/1970/01/01/latch_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2226,7 +2249,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
