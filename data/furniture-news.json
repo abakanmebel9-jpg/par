@@ -1,12 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-05T18:59:19.245498+00:00",
-  "generated_at_human": "2026-09-05 18:59 UTC",
-  "total_items": 248,
+  "generated_at": "2026-09-05T21:08:55.743912+00:00",
+  "generated_at_human": "2026-09-05 21:08 UTC",
+  "total_items": 250,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -62,8 +63,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 49,
+  "sources_count": 57,
+  "multi_photo_items": 50,
   "items": [
     {
       "id": "da0f4b908f43d3e0",
@@ -72,9 +73,14 @@
       "url": "https://archi.ru/russia/102674/delikatnaya-intervenciya",
       "image": "https://i.archi.ru/i/1262/507219.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/507219.jpg"
+        "https://i.archi.ru/i/1262/507219.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=77168",
+        "https://i.archi.ru/news/quadratic/506503.jpg?r=69756",
+        "https://i.archi.ru/news/quadratic/506502.jpg?r=80849",
+        "https://i.archi.ru/i/1262/507218.jpg",
+        "https://i.archi.ru/i/1262/507217.jpg"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -131,6 +137,64 @@
       "published": ""
     },
     {
+      "id": "d8d1356e769e0308",
+      "title": "All You Need Are Old Wood Pallets To DIY A One-Of-A-Kind Tool Storage Cabinet",
+      "summary": "Wood pallets are easy to source and fantastic for budget DIY builds. Here's how you can use them to build a neat tool storage cabinet or wall rack.",
+      "url": "https://www.hunker.com/2247475/old-wood-pallets-diy-tool-storage-cabinet/",
+      "image": "https://www.hunker.com/img/gallery/all-you-need-are-old-wood-pallets-to-diy-a-one-of-a-kind-tool-storage-cabinet/l-intro-1787940470.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/all-you-need-are-old-wood-pallets-to-diy-a-one-of-a-kind-tool-storage-cabinet/l-intro-1787940470.jpg",
+        "https://www.hunker.com/img/gallery/all-you-need-are-old-wood-pallets-to-diy-a-one-of-a-kind-tool-storage-cabinet/intro-1787940470.jpg",
+        "https://www.hunker.com/img/gallery/all-you-need-are-old-wood-pallets-to-diy-a-one-of-a-kind-tool-storage-cabinet/more-creative-ways-to-use-pallets-for-tool-storage-1787940472.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-05T21:00:00+00:00"
+    },
+    {
+      "id": "9710f1372defc572",
+      "title": "Why Do Some Ovens Have A Blue Interior?",
+      "summary": "Is it just for looks, or something more? Learn why some ovens have that attractive blue interior and how it can provide practical benefits in the kitchen.",
+      "url": "https://www.hunker.com/2251649/why-some-ovens-blue-inside/",
+      "image": "https://www.hunker.com/img/gallery/why-do-some-ovens-have-a-blue-interior/l-intro-1788533516.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/why-do-some-ovens-have-a-blue-interior/l-intro-1788533516.jpg",
+        "https://www.hunker.com/img/gallery/why-do-some-ovens-have-a-blue-interior/intro-1788533516.jpg",
+        "https://www.hunker.com/img/gallery/why-do-some-ovens-have-a-blue-interior/benefits-of-having-a-blue-oven-interior-1788533517.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-05T20:30:00+00:00"
+    },
+    {
+      "id": "69a5808a111e38bc",
+      "title": "A Tiny Corner of an NYC Bedroom Became the Most Inspiring Office",
+      "summary": "If you work from home, you might want to create a workspace that inspires and motivates you — even if that means getting a little unconventional. For Sean Matthew Robinson, it made the most sense to turn what used to be the apartment’s living room into his bedroom… and a corner office. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/industrial-office-nook-nyc-ba-37688431?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/sean-r/before-after/sean-r-office-before-tag",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/august/sean-r/before-after/sean-r-office-before-tag"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-05T19:45:00+00:00"
+    },
+    {
+      "id": "5032642191bd7c1e",
+      "title": "Goodbye Cramped Toilet Paper Storage — Amazon's Waterproof Solution Has 10x The Space",
+      "summary": "So long, bathroom clutter! See how this $16 Amazon buy's streamlined, waterproof design makes it easy to store toilet paper (and more!) anywhere in the space.",
+      "url": "https://www.hunker.com/2247398/amazon-waterproof-toilet-paper-storage-solution/",
+      "image": "https://www.hunker.com/img/gallery/goodbye-cramped-toilet-paper-storage-amazons-waterproof-solution-has-10x-the-space/l-intro-1787839306.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/goodbye-cramped-toilet-paper-storage-amazons-waterproof-solution-has-10x-the-space/l-intro-1787839306.jpg",
+        "https://www.hunker.com/img/gallery/goodbye-cramped-toilet-paper-storage-amazons-waterproof-solution-has-10x-the-space/intro-1787839306.jpg",
+        "https://www.hunker.com/img/gallery/goodbye-cramped-toilet-paper-storage-amazons-waterproof-solution-has-10x-the-space/using-the-wrrlors-toilet-paper-storage-bin-for-bathroom-items-1787839308.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-05T18:00:00+00:00"
+    },
+    {
       "id": "dffd825494f194d1",
       "title": "Ivy Studio creates \"soothing\" exotic animal clinic in brutalist Quebec bank",
       "summary": "Canada's Ivy Studio has transformed a 1970s bank into a veterinary clinic for exotic animals in Laval, Quebec, featuring minimalist interiors and soft lighting. The Fauna clinic occupies a standalone structure completed in a brutalist style near the waterfront, just over the Prairies River northwest of Montreal. Ivy Studio leaned into the building's existing style The post Ivy Studio creates \"soothing\" exotic animal clinic in brutalist Quebec bank appeared first on Dezeen .",
@@ -139,7 +203,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/fauna_ivy-studio_dezeen_sq1ex.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-05T17:00:58+00:00"
     },
@@ -150,9 +214,7 @@
       "url": "https://www.hunker.com/2247244/reuse-knife-block-decorate-kitchen-countertops-flower-bookend/",
       "image": "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/l-intro-1788163138.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/l-intro-1788163138.jpg",
-        "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/intro-1788163138.jpg",
-        "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/repurpose-a-knife-block-into-a-flower-bookend-1788162328.jpg"
+        "https://www.hunker.com/img/gallery/dont-toss-your-old-knife-block-theres-a-cute-new-way-to-decorate-your-countertops/l-intro-1788163138.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -196,9 +258,7 @@
       "url": "https://www.hunker.com/2242938/ikea-hultarp-rail-organize-kitchen-utensils-storage-solution/",
       "image": "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/l-intro-1787590213.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/l-intro-1787590213.jpg",
-        "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/intro-1787590213.jpg",
-        "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/install-a-handy-hultarp-rail-in-your-kitchen-for-utensil-storage-1787590214.jpg"
+        "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/l-intro-1787590213.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -309,37 +369,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-09-04T22:00:00+00:00"
-    },
-    {
-      "id": "a92f2d914440b9b5",
-      "title": "LEGO’s 1:1 PlayStation replica lets you put the iconic ’90s console on your desk",
-      "summary": "LEGO’s 1:1 PlayStation replica lets you put the iconic ’90s console on your desk PlayStation 1 changed the complexion of gaming when it first came out in the mid 1990s, and the rest is history. The graphics on the...",
-      "url": "https://www.yankodesign.com/2026/09/04/legos-11-playstation-replica-lets-you-put-the-iconic-90s-console-on-your-desk/?utm_source=rss&utm_medium=rss&utm_campaign=legos-11-playstation-replica-lets-you-put-the-iconic-90s-console-on-your-desk",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/645956/Lego-Playstation-1-12.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/645956/Lego-Playstation-1-12.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-04T20:30:10+00:00"
-    },
-    {
-      "id": "491561511367f4eb",
-      "title": "The Best Items New To IKEA To Buy In September 2026",
-      "summary": "Upgrade your space with the best new IKEA arrivals in September. Explore our curated guide to the latest furniture and decor.",
-      "url": "https://www.hunker.com/2251288/best-new-ikea-items-buy-september-2026/",
-      "image": "https://www.hunker.com/img/gallery/the-best-items-new-to-ikea-to-buy-in-september-2026/l-intro-1788541407.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/the-best-items-new-to-ikea-to-buy-in-september-2026/l-intro-1788541407.jpg",
-        "https://www.hunker.com/img/gallery/the-best-items-new-to-ikea-to-buy-in-september-2026/intro-1788541407.jpg",
-        "https://www.hunker.com/img/gallery/the-best-items-new-to-ikea-to-buy-in-september-2026/billy-in-bright-blue-1788541409.jpg",
-        "https://www.hunker.com/img/gallery/the-best-items-new-to-ikea-to-buy-in-september-2026/kreative-kallax-1788541409.jpg",
-        "https://www.hunker.com/img/gallery/the-best-items-new-to-ikea-to-buy-in-september-2026/konstrunda-vase-in-black-1788541409.jpg",
-        "https://www.hunker.com/img/gallery/the-best-items-new-to-ikea-to-buy-in-september-2026/lindkra-sleeper-sofa-1788541410.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-04T19:00:00+00:00"
     },
     {
       "id": "06949d032998fc30",
@@ -521,7 +550,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/studio-cadena-masa-cafe-medellin_dezeen_2364_col_sq-new.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-04T10:00:35+00:00"
     },
@@ -607,9 +636,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-step-stool-that-actually-belongs-in-your-entryway/step-stool-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/04/seating-with-less-screws-more-style/flat_pack_bench_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/auto-draft/pelvis_chair_1.jpeg",
-        "https://www.yankodesign.com/images/design_news/2024/05/gustav-dusings-flat-pack-barcelona-chair-version-with-sustainable-plywood-and-no-binding-materials/Frame_series_chair_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/06/clarus-atmus-mobile-desk-transforms-design-studios-with-multifunctional-whiteboard-and-projection-capabilities/Image-23-2.jpeg",
+        "https://www.yankodesign.com/images/design_news/2023/06/centenniale-coffee-table/centenniale_coffee_table_yanko_design_09.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/10/this-office-chairs-hanging-seat-uses-micro-body-movements-to-help-you-maintain-productivity-and-posture/Elea-Office-chair3.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -892,9 +921,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/04/24/jopple_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/07/social-distancing-furniture/10-clikclax_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/auto-draft/stretch_board_9.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/08/future/future_desk_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/05/03/bcn_stool_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/07/auto-draft/RLDH-Alto_Standing-Desk_Furniture_Product-Design__-10.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1029,7 +1058,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/anna-brockway-chairish-new-york-apartment-living-room-curved-sofa-673e268682b3a.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/kitchen-cabinet-ideas-linen-white-with-burgundy-backs-6627db63b6db6.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/the-container-store-elfa-horderly-house-beautiful-workroom-1572907091.png",
-        "https://hips.hearstapps.com/hmg-prod/images/redd-kaihoi-dallas-home-library-67f042cbe78e9.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/miles-redd-manhattan-study-1593018037.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -1501,9 +1530,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/evachill_personal_air_conditioner_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/02/auto-draft/butterfly_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/1970/01/01/latch_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/09/sleep-ds/sleeping_products_morning_products_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/02/auto-draft/portobello_mug_1.jpg",
+        "https://www.yankodesign.com/images/design_news/1970/01/01/domus121.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
