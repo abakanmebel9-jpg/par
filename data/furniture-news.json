@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-05T13:50:00.734643+00:00",
-  "generated_at_human": "2026-09-05 13:50 UTC",
-  "total_items": 244,
+  "generated_at": "2026-09-05T16:45:55.398601+00:00",
+  "generated_at_human": "2026-09-05 16:45 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -24,11 +24,11 @@
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
-    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
     "Dezeen tag offices",
+    "Elle Decor",
     "Family Handyman",
     "Gardenista",
     "Home Adore",
@@ -63,7 +63,7 @@
     "Мебель-expo"
   ],
   "sources_count": 56,
-  "multi_photo_items": 47,
+  "multi_photo_items": 49,
   "items": [
     {
       "id": "da0f4b908f43d3e0",
@@ -73,9 +73,9 @@
       "image": "https://i.archi.ru/i/1262/507219.jpg",
       "images": [
         "https://i.archi.ru/i/1262/507219.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=2936",
-        "https://i.archi.ru/news/quadratic/506503.jpg?r=87987",
-        "https://i.archi.ru/news/quadratic/506502.jpg?r=29233",
+        "https://i.archi.ru/i/1262/305304.jpg?r=76231",
+        "https://i.archi.ru/news/quadratic/506503.jpg?r=44203",
+        "https://i.archi.ru/news/quadratic/506502.jpg?r=49352",
         "https://i.archi.ru/i/1262/507218.jpg",
         "https://i.archi.ru/i/1262/507217.jpg"
       ],
@@ -134,6 +134,52 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "b3f2ea049dce1305",
+      "title": "I’m Putting a Vintage Glass Ashtray by My Kitchen Sink (It’s So Pretty!)",
+      "summary": "There’s something very satisfying to me about repurposing an older or unwanted object into something useful for your home. For example, I sometimes buy yogurt that comes in little glass containers, but instead of just recycling the glass when I’m done with them I realized I could use them around my house to store things like paintbrushes, bathroom toiletries, or even travel-sized hand creams. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/vintage-glass-ash-tray-sink-sponge-storage-37689044?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/sarah-l/tour-newyork-sarah-I-118",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/april/sarah-l/tour-newyork-sarah-I-118"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-05T14:15:00+00:00"
+    },
+    {
+      "id": "40f028fb65541dd9",
+      "title": "A La Jolla Home That Sings “Let the Healing Begin”",
+      "summary": "When a longtime client asked architecture and interiors studio Georgis & Mirgorodsky to revamp a midcentury house after a breakup, the duo devised a haven for new beginnings, in elevated California-cool style.",
+      "url": "https://www.elledecor.com/design-decorate/house-interiors/a73596866/la-jolla-georgis-mirgorodsky-house-tour/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d08e4d56-18c2-4bfa-95b3-107deb1ac2d8.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/d08e4d56-18c2-4bfa-95b3-107deb1ac2d8.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/3ca50c11-8866-42f4-8c2b-f78684a9678a.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/6492c0f5-80f8-460e-b1c4-c7d84e598cb2.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/91e92365-eed9-4240-bfaa-c548ba1e3cf3.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/abf9a27d-abad-4d12-8c0f-d1fdb06305df.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/75fb03e9-b688-48cd-a823-9df60e4fbab7.jpg"
+      ],
+      "source": "Elle Decor",
+      "source_url": "https://www.elledecor.com",
+      "published": "2026-09-05T14:00:00+00:00"
+    },
+    {
+      "id": "f7e35f4fac55ddaa",
+      "title": "Forget Crocks: IKEA Has A Better Way To Organize Kitchen Utensils Without Countertop Clutter",
+      "summary": "Kitchen crocks, as helpful as they are, can also look messy and unkempt when used to store utensils. Consider using a simple, cheap product from IKEA instead.",
+      "url": "https://www.hunker.com/2242938/ikea-hultarp-rail-organize-kitchen-utensils-storage-solution/",
+      "image": "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/l-intro-1787590213.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/l-intro-1787590213.jpg",
+        "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/intro-1787590213.jpg",
+        "https://www.hunker.com/img/gallery/forget-crocks-ikea-has-a-better-way-to-organize-kitchen-utensils-without-countertop-clutter/install-a-handy-hultarp-rail-in-your-kitchen-for-utensil-storage-1787590214.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-05T13:00:00+00:00"
     },
     {
       "id": "4d89a13ae69a92fd",
@@ -253,19 +299,6 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-04T20:30:10+00:00"
-    },
-    {
-      "id": "96da14afeb337352",
-      "title": "Coffee Grounds and Tea Leaves Finally Become Art",
-      "summary": "Coffee Grounds and Tea Leaves Finally Become Art Think about how many cups of coffee or tea you go through in a week. Now multiply that by every coffee shop, office kitchen, and...",
-      "url": "https://www.yankodesign.com/2026/09/04/coffee-grounds-and-tea-leaves-finally-become-art/?utm_source=rss&utm_medium=rss&utm_campaign=coffee-grounds-and-tea-leaves-finally-become-art",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/coffee-grounds-and-tea-leaves-finally-become-art/last-sip-00.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/coffee-grounds-and-tea-leaves-finally-become-art/last-sip-00.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-04T19:15:57+00:00"
     },
     {
       "id": "491561511367f4eb",
@@ -551,9 +584,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-step-stool-that-actually-belongs-in-your-entryway/step-stool-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/follow-meeting-cone/follow_meeting_cone_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/this-minimalist-single-piece-plywood-table-with-storage-makes-for-an-undistracting-workstation/Nook-Desk-by-Deniz-Aktay-5.jpg",
-        "https://www.yankodesign.com/images/design_news/1970/01/01/craft_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/10/functional-yet-eccentric-the-furniture-designed-by-michael-beitz-will-give-you-some-food-for-thought/Michael-Beitz_13.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/half-pixel-half-mirror-the-ghost-collection-that-blurs-both-worlds/ghost-collection-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/05/the-worlds-first-sustainable-fully-integrated-plug-and-play-wall-mounted-workstation-and-folding-desk/2-droptop_yankodesign.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -836,9 +869,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/15-types-of-chairs-you-should-know-about/wishbone-5.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/05/06/rest_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/02/ergonomic-chair-ds/08-soulseat_yankodesign-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/05/auto-draft/pocket_chair_3.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/12/10/equilino_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/auto-draft/Troy-Smith-Studio-Star-Lounger-Details.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1445,9 +1478,9 @@
         "https://www.yankodesign.com/images/design_news/2026/08/steel-furniture-uncovered-a-design-debate-between-strength-and-sensitivity/Steel-Furniture_Designs_Metal-Structures_24.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/one-week-designs-squares-furniture-is-built-on-a-bricklayers-memory/squares-013.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/11/space-saving-perching-seat-encourages-you-to-linger-but-not-stay-for-long/lumber-perching-seat-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/lenovo-built-a-laptop-whose-keyboard-screen-and-ports-come-apart/lenogo-mwc-2026-thinkbook-modular-ai-concept-10.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/04/Curve_SE_matte_white_stand_for_your_MacBook.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/02/modular-furniture-that-transforms-and-adapts-to-flexible-and-functional-living-spaces/Cabinet_modular_furniture_03.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/04/10/Conran_camera.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -2193,7 +2226,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag cabinets",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
