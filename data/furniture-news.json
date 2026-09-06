@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-06T16:56:38.452369+00:00",
-  "generated_at_human": "2026-09-06 16:56 UTC",
-  "total_items": 251,
+  "generated_at": "2026-09-06T19:04:57.106062+00:00",
+  "generated_at_human": "2026-09-06 19:04 UTC",
+  "total_items": 253,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -53,6 +53,7 @@
     "Trendir",
     "Trendir interiors",
     "Veranda",
+    "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
@@ -62,8 +63,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 49,
+  "sources_count": 57,
+  "multi_photo_items": 50,
   "items": [
     {
       "id": "da0f4b908f43d3e0",
@@ -73,9 +74,9 @@
       "image": "https://i.archi.ru/i/1262/507219.jpg",
       "images": [
         "https://i.archi.ru/i/1262/507219.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=61388",
-        "https://i.archi.ru/news/quadratic/506503.jpg?r=31515",
-        "https://i.archi.ru/news/quadratic/506502.jpg?r=97829",
+        "https://i.archi.ru/i/1262/305304.jpg?r=26635",
+        "https://i.archi.ru/news/quadratic/506503.jpg?r=61893",
+        "https://i.archi.ru/news/quadratic/506502.jpg?r=36990",
         "https://i.archi.ru/i/1262/507218.jpg",
         "https://i.archi.ru/i/1262/507217.jpg"
       ],
@@ -136,6 +137,39 @@
       "published": ""
     },
     {
+      "id": "978c34f38aaa2ed1",
+      "title": "Hot Lab and Garage Italia give the Fiat 500 Spiaggina restomod a nautical makeover",
+      "summary": "The ultimate superyacht companion piece, Garage Italia’s Fiat 500 Spiaggina runabout has been turned into a toy that can be stowed aboard and shipped out for island adventures",
+      "url": "https://www.wallpaper.com/transportation/fiat-500-spiaggina-restomod",
+      "image": "https://cdn.mos.cms.futurecdn.net/o3tcGp38D2PhFN3JbxECi.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/o3tcGp38D2PhFN3JbxECi.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-09-06T18:43:18+00:00"
+    },
+    {
+      "id": "8537b8bebdfa2528",
+      "title": "3 Printed Parts That Quietly Replace the Furniture Store",
+      "summary": "3 Printed Parts That Quietly Replace the Furniture Store I’ve assembled enough flat-pack furniture to know the drill by heart. You order a piece online, wait for a box the size of a refrigerator,...",
+      "url": "https://www.yankodesign.com/2026/09/06/3-printed-parts-that-quietly-replace-the-furniture-store/?utm_source=rss&utm_medium=rss&utm_campaign=3-printed-parts-that-quietly-replace-the-furniture-store",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/3-printed-parts-that-quietly-replace-the-furniture-store/chois-00.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/09/3-printed-parts-that-quietly-replace-the-furniture-store/chois-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/03/whimsical-moose-shaped-cabinet-adds-a-touch-of-delightful-quirk-to-your-interior-space/moose_multifunctional_cabinet_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/04/05/complect_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/chapters-is-a-furniture-collection-concept-for-public-spaces-inspired-by-reading/chapters-09.jpg"
+      ],
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-06T17:20:35+00:00"
+    },
+    {
       "id": "fe597be94d5bda1d",
       "title": "There's A Smarter Way To Update Your Bathroom Without Replacing The Shower Tiles",
       "summary": "Update your bathroom with this DIY project that can instantly transform old, outdated tile colors. If you can't afford a full remodel, this may be the answer.",
@@ -175,9 +209,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/cove-is-the-office-chair-that-actually-leaves-room-for-your-ponytail/arbest-cove-ergonomic-chair-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/auto-draft/death_star_popcorn_maker_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/visually-stunning-3d-printed-maze-fountain-pens-let-you-watch-ink-flow-through-their-artistic-interiors/Maze-Fountain-Pen-_0000_Maze-Edit-13.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/pocket-sized_self-flying_camera_helps_you_capture_the_moments_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/12/uv-mask-is-the-worlds-first-antiviral-face-mask-with-an-active-uv-c-sterilization-for-99-clean-air/UVMask_antiviral_antipollution_face_mask_with_UV_purification_hero1.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/12/co-studios-traveling-workspace-lets-you-work-from-home-anywhere-you-go/portable_workstation_by_cosmilli.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/03/iboy_a_heartfelt_homage_to_the_iconic_mp3_player.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -746,9 +780,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-step-stool-that-actually-belongs-in-your-entryway/step-stool-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/10/29/ambivalenz_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/09/ikea-meets-tesla-in-these-tech-enhanced-furniture-designed-to-make-your-home-a-smart-one/IKEA_meets_tesla_tech_enhanced_smart_furniture_designs.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/rook-stool/rook_stool_yanko_design_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/09/07/mngoyarus_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/05/kollen_tryk_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/01/18/togather_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1023,12 +1057,7 @@
       "url": "https://www.yankodesign.com/2026/09/02/the-drawer-that-actually-becomes-5-portable-trays/?utm_source=rss&utm_medium=rss&utm_campaign=the-drawer-that-actually-becomes-5-portable-trays",
       "image": "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/seating/homework_seating_collection_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/this-chair-appears-to-sprout-from-grass-where-art-and-nature-converge/wood_chair_on_grass_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/ifa-2026s-best-just-declared-war-on-tech-trade-offs/Best-of-IFA-2026.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/08/the-drawer-that-actually-becomes-5-portable-trays/bon-drawer-02.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1380,7 +1409,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/desk-lamp-sq-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-31T09:00:29+00:00"
     },
@@ -1440,7 +1469,7 @@
         "https://www.internimagazine.it/content/uploads/2026/07/5-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/4-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/6-.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2360,7 +2389,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -2877,7 +2906,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
