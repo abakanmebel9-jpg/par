@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-07T16:24:40.120832+00:00",
-  "generated_at_human": "2026-09-07 16:24 UTC",
-  "total_items": 246,
+  "generated_at": "2026-09-07T20:30:42.210065+00:00",
+  "generated_at_human": "2026-09-07 20:30 UTC",
+  "total_items": 247,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -56,14 +56,15 @@
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 53,
+  "sources_count": 57,
+  "multi_photo_items": 54,
   "items": [
     {
       "id": "da0f4b908f43d3e0",
@@ -73,9 +74,9 @@
       "image": "https://i.archi.ru/i/1262/507219.jpg",
       "images": [
         "https://i.archi.ru/i/1262/507219.jpg",
-        "https://i.archi.ru/i/1262/305304.jpg?r=14787",
-        "https://i.archi.ru/news/quadratic/506503.jpg?r=76228",
-        "https://i.archi.ru/news/quadratic/506502.jpg?r=8306",
+        "https://i.archi.ru/i/1262/305304.jpg?r=41674",
+        "https://i.archi.ru/news/quadratic/506503.jpg?r=31615",
+        "https://i.archi.ru/news/quadratic/506502.jpg?r=26224",
         "https://i.archi.ru/i/1262/507218.jpg",
         "https://i.archi.ru/i/1262/507217.jpg"
       ],
@@ -136,6 +137,67 @@
       "published": ""
     },
     {
+      "id": "8c09221ce1249195",
+      "title": "Forget The Fruit Bowl: There's A More Impressive Way To Decorate Your Kitchen Island",
+      "summary": "Ready to ditch the predictable kitchen island decor? This alternative creates an eye-catching display you can switch up for parties and changing seasons.",
+      "url": "https://www.hunker.com/2248067/impressive-way-decorate-kitchen-island/",
+      "image": "https://www.hunker.com/img/gallery/forget-the-fruit-bowl-theres-a-more-impressive-way-to-decorate-your-kitchen-island/l-intro-1788206919.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/forget-the-fruit-bowl-theres-a-more-impressive-way-to-decorate-your-kitchen-island/l-intro-1788206919.jpg",
+        "https://www.hunker.com/img/gallery/forget-the-fruit-bowl-theres-a-more-impressive-way-to-decorate-your-kitchen-island/intro-1788206919.jpg",
+        "https://www.hunker.com/img/gallery/forget-the-fruit-bowl-theres-a-more-impressive-way-to-decorate-your-kitchen-island/create-an-overhead-display-with-a-rod-system-1788206921.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-07T20:00:00+00:00"
+    },
+    {
+      "id": "c091568e5326886c",
+      "title": "The Smart Hack That Turns A Common IKEA Utility Cart Into Storage For Small Closets",
+      "summary": "This rolling IKEA hack gives you the best of both worlds: shelving below and hanging storage above. It's a small-space upgrade that moves wherever you need it.",
+      "url": "https://www.hunker.com/2248391/ikea-utility-cart-raskog-hack-clothing-rack/",
+      "image": "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/l-intro-1788771903.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/l-intro-1788771903.jpg",
+        "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/intro-1788771903.jpg",
+        "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/how-to-build-your-ikea-rskog-clothing-unit-1788771905.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-07T19:00:00+00:00"
+    },
+    {
+      "id": "24ef6eef859b90ab",
+      "title": "The 4 Kitchen Trends Designers Are Watching This Fall",
+      "summary": "Inspired by what we’ve seen this year in Milan and beyond, these are the big interior design shifts in kitchen design.",
+      "url": "https://www.elledecor.com/design-decorate/trends/a73618362/kitchen-trends-2027/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/9598e1d2-21ce-4064-ad02-c1115c38709f.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/9598e1d2-21ce-4064-ad02-c1115c38709f.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/0312c559-93e7-41aa-866d-179993971ae0.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/9bf099ef-355f-4857-a484-f93930e94ab0.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/36354f3c-9b9d-4541-b4e8-c5134c49941f.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/5429abbb-5429-451d-aeac-9d6b3773654f.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/9ac168e9-e28e-4663-ba5c-1ebfb2420ece.jpeg"
+      ],
+      "source": "Elle Decor",
+      "source_url": "https://www.elledecor.com",
+      "published": "2026-09-07T18:00:00+00:00"
+    },
+    {
+      "id": "4df0c96a68313a36",
+      "title": "This Japanese Bottle Opener Catches the Cap So You Never Chase It Again",
+      "summary": "This Japanese Bottle Opener Catches the Cap So You Never Chase It Again When you come home after a long, hectic day, sometimes all you want to do is sink into the couch, scroll through your phone, and...",
+      "url": "https://www.yankodesign.com/2026/09/07/this-japanese-bottle-opener-catches-the-cap-so-you-never-chase-it-again/?utm_source=rss&utm_medium=rss&utm_campaign=this-japanese-bottle-opener-catches-the-cap-so-you-never-chase-it-again",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/this-japanese-bottle-opener-catches-the-cap-so-you-never-chase-it-again/first_pour_bottle_opener_09_1512x.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/09/this-japanese-bottle-opener-catches-the-cap-so-you-never-chase-it-again/first_pour_bottle_opener_09_1512x.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-07T17:20:18+00:00"
+    },
+    {
       "id": "d64a74a462d85928",
       "title": "Open-Plan Offices Killed the Private Desk, and This Pod Brings It Back",
       "summary": "Open-Plan Offices Killed the Private Desk, and This Pod Brings It Back Most office furniture solves privacy by sealing someone off completely: four walls and a door that shuts out everyone else, along with any sense of...",
@@ -145,9 +207,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/open-plan-offices-killed-the-private-desk-and-this-pod-brings-it-back/the-seed-pod-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/03/13/tram_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/02/365427/03_hives_mutina_terracotta.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/04/this-side-table-is-also-a-premium-high-fidelity-speaker-system/la_boite_cube_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/05/04/elixir.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/05/13/777_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/06/10/container_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -239,9 +301,7 @@
       "url": "https://www.hunker.com/2241581/use-old-doilies-diy-shelf-and-drawer-liners/",
       "image": "https://www.hunker.com/img/gallery/use-old-doilies-diy-shelf-and-drawer-liners/l-intro-1787737501.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/use-old-doilies-diy-shelf-and-drawer-liners/l-intro-1787737501.jpg",
-        "https://www.hunker.com/img/gallery/use-old-doilies-diy-shelf-and-drawer-liners/intro-1787737501.jpg",
-        "https://www.hunker.com/img/gallery/use-old-doilies-diy-shelf-and-drawer-liners/this-diy-turns-doilies-into-cabinet-and-drawer-liners-1787737503.jpg"
+        "https://www.hunker.com/img/gallery/use-old-doilies-diy-shelf-and-drawer-liners/l-intro-1787737501.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -488,10 +548,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/07/02.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/02.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Seadeck-9-Fun-Island-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-MY-Andala_MD-10.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/APE_0-Ape-1_Navigation.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Seadeck-9-Fun-Island-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-09-SHE-copia-2.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/APE_0-Ape-1_Navigation.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_00-APE-01.jpg"
       ],
       "source": "Interni magazine",
@@ -510,22 +570,6 @@
       "source": "Better Homes & Gardens AU",
       "source_url": "https://www.bhg.com.au",
       "published": "2026-09-07T01:27:50+00:00"
-    },
-    {
-      "id": "96365ccf8b52af3b",
-      "title": "Why I Would Never Have Wooden Countertops In My Kitchen (Even As A Master Woodworker)",
-      "summary": "Wood's organic appeal is hard to beat, but for kitchen countertops, even this master woodworker says to skip it if you want to save time and effort on upkeep.",
-      "url": "https://www.hunker.com/2250925/master-woodworker-would-never-have-kitchen-wooden-countertops/",
-      "image": "https://www.hunker.com/img/gallery/master-woodworker-would-never-have-kitchen-wooden-countertops/l-intro-1788568620.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/master-woodworker-would-never-have-kitchen-wooden-countertops/l-intro-1788568620.jpg",
-        "https://www.hunker.com/img/gallery/master-woodworker-would-never-have-kitchen-wooden-countertops/intro-1788568620.jpg",
-        "https://www.hunker.com/img/gallery/master-woodworker-would-never-have-kitchen-wooden-countertops/the-hard-facts-about-wooden-kitchen-countertop-damage-1788568621.jpg",
-        "https://www.hunker.com/img/gallery/master-woodworker-would-never-have-kitchen-wooden-countertops/why-finishing-wooden-countertops-isnt-enough-1788568621.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-06T23:00:00+00:00"
     },
     {
       "id": "18d91362f51b445a",
@@ -572,19 +616,6 @@
       "published": "2026-09-06T21:30:24+00:00"
     },
     {
-      "id": "b76d5f2461d97c93",
-      "title": "Woman Transforms A Dated Thrift Store Table Into A Statement Piece Without Paint",
-      "summary": "An eye for good-quality wood furniture and some ingenious DIY mixing skills are what you need to recreate this amazing, Pinterest-style thrift flip.",
-      "url": "https://www.hunker.com/2250190/dated-thrift-store-table-update-without-paint-diy-stain/",
-      "image": "https://www.hunker.com/img/gallery/woman-transforms-a-dated-thrift-store-table-into-a-statement-piece-without-paint/l-intro-1788436463.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/woman-transforms-a-dated-thrift-store-table-into-a-statement-piece-without-paint/l-intro-1788436463.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-06T21:30:00+00:00"
-    },
-    {
       "id": "5ff0eddda9aba0b9",
       "title": "5 Lamps Designed for Homes That Don’t Have Room for a Regular Light Fixture",
       "summary": "5 Lamps Designed for Homes That Don’t Have Room for a Regular Light Fixture Lighting has evolved beyond basic illumination and has become a flexible, interactive element in modern spaces. As interiors become more compact and multifunctional, designers are...",
@@ -622,9 +653,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/3-printed-parts-that-quietly-replace-the-furniture-store/chois-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/08/14/anticrise_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/follow-meeting-cone/follow_meeting_cone_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/swiveling-side-table-lets-you-interchange-table-tops-and-save-space/Swivel-Side-table_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/03/flat-packed-metal-stool-combines-minimalism-and-literary-leisure/walle-flat-packed-stool-04.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/04/rug-becomes-a-resting-place-with-dune-rug-chaise-hybrid/dune-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/01/tai-kwun-chairs-revolutionize-stair-seating-by-blending-heritage-comfort-and-sustainability-in-hong-kong/Tai_kwun_chairs_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -640,9 +671,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/cove-is-the-office-chair-that-actually-leaves-room-for-your-ponytail/arbest-cove-ergonomic-chair-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/zerohour_titanium_pen_and_multitool_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/07/a-chair-hinging-on-perfection/hinge_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/01/this-minimalist-card-holder-keeps-your-to-do-list-in-sight/minimalist_card_holder_keeps_your_to-do_list_in_sight_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/01/sony-honda-mobilitys-afeela-1-electric-sedan-comes-with-in-built-playstation-5/Sony-Honda-Mobility-Afeela-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/02/when-furniture-meets-high-fidelity-the-ruark-r810-mie/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/auto-draft/lego_sonic_hedgehog_green_hill_zone_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1245,19 +1276,6 @@
       "published": "2026-09-02T18:00:49+00:00"
     },
     {
-      "id": "026c2537275142b7",
-      "title": "Nobody Expected a Toaster Shaped Like a Sleeping Corgi",
-      "summary": "Nobody Expected a Toaster Shaped Like a Sleeping Corgi Small kitchen appliances have a design problem nobody talks about enough. They are boxy, beige, and built to disappear into a countertop rather than earn...",
-      "url": "https://www.yankodesign.com/2026/09/02/nobody-expected-a-toaster-shaped-like-a-sleeping-corgi/?utm_source=rss&utm_medium=rss&utm_campaign=nobody-expected-a-toaster-shaped-like-a-sleeping-corgi",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/nobody-expected-a-toaster-shaped-like-a-sleeping-corgi/toaster-00.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/nobody-expected-a-toaster-shaped-like-a-sleeping-corgi/toaster-00.jpg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-02T16:20:26+00:00"
-    },
-    {
       "id": "48c62e24ca39fa43",
       "title": "KBIS 2027 Registration Is Open",
       "summary": "N NKBA Staff Posted: Sep 2, 2026 10:35 am Member + Industry News KBIS 2027 Expo Passes Are Free for Members Who Register During September Registration is officially open for the Kitchen & Bath Industry Show ’s return to Las Vegas, taking place February 2-4. The Las Vegas Convention Center will come alive with the latest kitchen and bath innovations, along with a fantastic schedule of programming and events. Each year, KBIS welcomes tens of thousands of kitchen and bath designers, interior designers, dealers, architects, showrooms, custom builders, and remodelers to the largest kitchen and…",
@@ -1681,10 +1699,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1844,10 +1862,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/DIY-Plant-Shelves.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/step-5.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/02/IMG_2703.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/How-to-build-a-Plant-Shelf.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/DIY-Plant-Shelf.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/miter-cut.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/miter-cut.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2024/11/behr-rustic-brown-stain.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2355,7 +2373,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag cabinets",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -2399,7 +2417,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -2412,10 +2430,10 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Console-Table-3.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/console-table-2.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2022/08/Coffee-Table-Shanty2Chic.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2021/11/Glowforge-3D-Laser-Printer.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/07/DIY-Pipe-Shelves.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2864,7 +2882,7 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/DIY-Dry-Erase-Board.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/05/DIY-Wood-Bed-copy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
