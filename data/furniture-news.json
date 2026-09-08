@@ -1,12 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-07T23:27:14.959256+00:00",
-  "generated_at_human": "2026-09-07 23:27 UTC",
-  "total_items": 250,
+  "generated_at": "2026-09-08T04:25:47.944329+00:00",
+  "generated_at_human": "2026-09-08 04:25 UTC",
+  "total_items": 249,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -62,7 +63,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
+  "sources_count": 57,
   "multi_photo_items": 53,
   "items": [
     {
@@ -72,9 +73,14 @@
       "url": "https://archi.ru/russia/102674/delikatnaya-intervenciya",
       "image": "https://i.archi.ru/i/1262/507219.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/507219.jpg"
+        "https://i.archi.ru/i/1262/507219.jpg",
+        "https://i.archi.ru/i/1262/305304.jpg?r=96690",
+        "https://i.archi.ru/news/quadratic/506503.jpg?r=42167",
+        "https://i.archi.ru/news/quadratic/506502.jpg?r=13753",
+        "https://i.archi.ru/i/1262/507218.jpg",
+        "https://i.archi.ru/i/1262/507217.jpg"
       ],
-      "source": "Archi.ru",
+      "source": "Archi.ru Projects",
       "source_url": "https://archi.ru",
       "published": ""
     },
@@ -129,6 +135,39 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "1426018c6266dce4",
+      "title": "They Gave Dated Oak Cabinets A High-End Look With A More Stylish Alternative To White",
+      "summary": "It's time for a kitchen refresh, but white cabinets aren't your thing. There's another way to elevate your space with this chic alternative.",
+      "url": "https://www.hunker.com/2248694/spray-paint-dated-oak-cabinets-green-more-stylish-alternative-to-white/",
+      "image": "https://www.hunker.com/img/gallery/they-gave-dated-oak-cabinets-a-high-end-look-with-a-more-stylish-alternative-to-white/l-intro-1788279161.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/they-gave-dated-oak-cabinets-a-high-end-look-with-a-more-stylish-alternative-to-white/l-intro-1788279161.jpg",
+        "https://www.hunker.com/img/gallery/they-gave-dated-oak-cabinets-a-high-end-look-with-a-more-stylish-alternative-to-white/intro-1788279161.jpg",
+        "https://www.hunker.com/img/gallery/they-gave-dated-oak-cabinets-a-high-end-look-with-a-more-stylish-alternative-to-white/giving-your-cabinetry-a-stylish-makeover-1788279162.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-08T03:00:00+00:00"
+    },
+    {
+      "id": "497f2f7afb20dc73",
+      "title": "TCL wants to make the big fridge more affordable with its new MEGA range",
+      "summary": "We break down the TCL MEGA range to help you find the perfect fridge for your kitchen The post TCL wants to make the big fridge more affordable with its new MEGA range appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/shopping/tcl-launches-mega-refrigerator-series/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/tcl-mega-refrigerator-series-6a9f5fc776180.png?format=auto&v=1788829658",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/tcl-mega-refrigerator-series-6a9f5fc776180.png?format=auto&v=1788829658",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/tcl-mega-refrigerator-series-6a9f5fc776180.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-07t123614.518-6a9e252b627ac.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-outdoor-sofas-australia-6a9e50be8e57c.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-08t125041.025-6a9f78066b1d7.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048&format=auto"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-09-08T02:00:16+00:00"
     },
     {
       "id": "cb40f0eebdd2602d",
@@ -193,9 +232,7 @@
       "url": "https://www.hunker.com/2248391/ikea-utility-cart-raskog-hack-clothing-rack/",
       "image": "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/l-intro-1788771903.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/l-intro-1788771903.jpg",
-        "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/intro-1788771903.jpg",
-        "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/how-to-build-your-ikea-rskog-clothing-unit-1788771905.jpg"
+        "https://www.hunker.com/img/gallery/ikea-utility-cart-raskog-hack-clothing-rack/l-intro-1788771903.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -242,9 +279,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/open-plan-offices-killed-the-private-desk-and-this-pod-brings-it-back/the-seed-pod-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/03/22/ariva_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/best-pencil-sharpener-for-those-who-dont-want-to-waste-their-pencils-or-time/pencil_sharpener_that_saves_you_time_and_pencils_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/c1-budde-lounge-chairs-form-is-made-of-a-single-line-of-stainless-steel/C1-Lounge-Chair_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/11/07/uc_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/05/modular-and-multi-functional-shelf-and-mirror-is-an-aesthetic-addition-to-your-space/wave.jpeg",
+        "https://www.yankodesign.com/images/design_news/2011/09/14/inglue_stick.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -267,19 +304,6 @@
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-09-07T16:00:00+00:00"
-    },
-    {
-      "id": "71bcbdc6000ca7e3",
-      "title": "Turn A Round Box And Dowels Into A DIY Countertop Storage Shelf That Looks So Stylish",
-      "summary": "Finding real estate on your countertop for small items can seem almost impossible. Thankfully, this dowel and box DIY can help add chic tiered storage.",
-      "url": "https://www.hunker.com/2248326/diy-countertop-storage-shelf-chic-use-round-box-dowels/",
-      "image": "https://www.hunker.com/img/gallery/turn-a-round-box-and-dowels-into-a-diy-countertop-storage-shelf-that-looks-so-stylish/l-intro-1788242649.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/turn-a-round-box-and-dowels-into-a-diy-countertop-storage-shelf-that-looks-so-stylish/l-intro-1788242649.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-07T15:30:00+00:00"
     },
     {
       "id": "7b4e7eb2b4b904e4",
@@ -326,19 +350,6 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-09-07T12:44:37+00:00"
-    },
-    {
-      "id": "bc1f3c0ae4d1cafe",
-      "title": "The Smart Way To Use Old Doilies In Your Cabinets And Drawers",
-      "summary": "If your grandmother left you with more vintage, lace doilies than you can find a use for, this cabinet and drawer hack is just what you need.",
-      "url": "https://www.hunker.com/2241581/use-old-doilies-diy-shelf-and-drawer-liners/",
-      "image": "https://www.hunker.com/img/gallery/use-old-doilies-diy-shelf-and-drawer-liners/l-intro-1787737501.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/use-old-doilies-diy-shelf-and-drawer-liners/l-intro-1787737501.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-07T12:30:00+00:00"
     },
     {
       "id": "4d0b1e709463ab2b",
@@ -524,10 +535,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/best-outdoor-sofas-australia-6a9e50be8e57c.png?format=auto&v=1788760267",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-outdoor-sofas-australia-6a9e50be8e57c.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/tcl-mega-refrigerator-series-6a9f5fc776180.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-07t123614.518-6a9e252b627ac.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/1-6a9e2ea003322.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-outdoor-rugs-australia-6a9a1ab057ea3.png?resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-08t125041.025-6a9f78066b1d7.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -582,9 +593,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/02.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/07/APE_0-Ape-1_Navigation.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-MY-Andala_MD-10.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_Seadeck-9-Fun-Island-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-09-SHE-copia-2.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-MY-Andala_MD-10.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_00-APE-01.jpg"
       ],
       "source": "Interni magazine",
@@ -613,9 +624,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/belle-x-sub-zero-6a9a1a11455c0.png?format=auto&v=1788484133",
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/belle_cover-marketing_v0.2-6a9df6fd60508-scaled.jpg?format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-08t125041.025-6a9f78066b1d7.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/tcl-mega-refrigerator-series-6a9f5fc776180.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-07t123614.518-6a9e252b627ac.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-outdoor-sofas-australia-6a9e50be8e57c.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/1-6a9e2ea003322.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2019/09/hero-crop-2026-08-28t172246.689-6a91374d3ba89.png?resize=1950%2C1462&format=auto"
       ],
       "source": "Homes To Love AU",
@@ -686,9 +697,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/3-printed-parts-that-quietly-replace-the-furniture-store/chois-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/the-coat-rack-that-doubles-as-a-sculpture-for-your-entryway/acrobat-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/08/because-traditional-furniture-and-flat-floors-are-too-boring/les_angles_seating_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/02/02/framesofaandtable01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/10/furniture_made_for_riding_and_hiding_your_stationary_bike.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/01/pool-noodle-furniture-brings-a-spirit-of-play-to-both-indoor-and-outdoor-spaces/pool-noodle-furniture-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/02/wa/wa_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -704,9 +715,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/cove-is-the-office-chair-that-actually-leaves-room-for-your-ponytail/arbest-cove-ergonomic-chair-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/06/draft/bobby_backpack_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/11/auto-draft/zoom_chair_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/12/16/xplus_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/11/qwnn_light_and_powerbank_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/08/modular-wearable-uses-dual-light-therapy-to-reduce-pain-and-inflammation-and-boost-circulation/medical_grade_laser_technology_to_support_your_recovery_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/01/auto-draft/spigen_classic_ls_iphone_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -765,24 +776,6 @@
       "published": "2026-09-06T12:00:00+00:00"
     },
     {
-      "id": "cfe58ccb92d85d26",
-      "title": "Seeing double? Adam and Jolene’s main living room on ‘The Block’ splits the judges",
-      "summary": "The cattle station managers are no stranger to hard work The post Seeing double? Adam and Jolene’s main living room on ‘The Block’ splits the judges appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/the-block/adam-jolene-house-tour-2026/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-09-03t112854.775-6a98cd641ff05.png?format=auto&v=1788398982",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-09-03t112854.775-6a98cd641ff05.png?format=auto&v=1788398982",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-09-03t112854.775-6a98cd641ff05.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-09-07t123614.518-6a9e252b627ac.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-outdoor-sofas-australia-6a9e50be8e57c.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/1-6a9e2ea003322.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/wk1-h1-adam-jolene-001-6a73f9712c633-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-09-06T11:00:00+00:00"
-    },
-    {
       "id": "2fcb1899d332c533",
       "title": "Your room has the right warm glow, but it still looks flat: here’s what you’re missing",
       "summary": "You did the thing every design article told you to do. You threw out the harsh blue-white bulbs, put warm 2700K bulbs in every fixture, and expected your living room to finally feel like the cozy space in the photos. Instead it looks… okay. Warm, sure. But a little tired. The wood on your coffee […] The post Your room has the right warm glow, but it still looks flat: here’s what you’re missing appeared first on Trendir .",
@@ -793,6 +786,19 @@
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
+      "published": "2026-09-06T11:00:00+00:00"
+    },
+    {
+      "id": "cfe58ccb92d85d26",
+      "title": "Seeing double? Adam and Jolene’s main living room on ‘The Block’ splits the judges",
+      "summary": "The cattle station managers are no stranger to hard work The post Seeing double? Adam and Jolene’s main living room on ‘The Block’ splits the judges appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/the-block/adam-jolene-house-tour-2026/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-09-03t112854.775-6a98cd641ff05.png?format=auto&v=1788398982",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/08/hero-crop-2026-09-03t112854.775-6a98cd641ff05.png?format=auto&v=1788398982"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
       "published": "2026-09-06T11:00:00+00:00"
     },
     {
@@ -1724,24 +1730,6 @@
       "published": "2026-08-31T07:00:15+00:00"
     },
     {
-      "id": "1dd85400af27e7fb",
-      "title": "L’evoluzione del sistema cucina by Febal Casa",
-      "summary": "Il progetto cucina si sdoppia: da un lato l’icona, l’identità del brand e le collaborazioni con studi di architettura internazionali; dall’altro la continuità e la flessibilità compositiva. Due anime complementari al servizio della cultura dell’abitare The post L’evoluzione del sistema cucina by Febal Casa appeared first on Interni Magazine .",
-      "url": "https://www.internimagazine.it/annual-2023/annual-cucina-2026/febal-annual-cucina-2026/",
-      "image": "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
-      "images": [
-        "https://www.internimagazine.it/content/uploads/2026/07/vRTVtb3o-1-Febal-Casa_Italiana_Massimo-Iosa-Ghini_dettaglio_1-525x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/07/4-Febal-Casa_Originaa.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_1-AEG_gamma-lavastoviglie-3.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/GettyImages-92834621.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_2-ST_CA002_260318_Magazine_MI26_Firma_Mail_test_01.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_Officine-Gullo_Collegio-La-Querce-13.jpg"
-      ],
-      "source": "Interni magazine",
-      "source_url": "https://www.internimagazine.it",
-      "published": "2026-08-31T04:00:56+00:00"
-    },
-    {
       "id": "cb2176c962395faa",
       "title": "This Cute Little Point-and-Shoot Camera Has Changed the Way I Travel",
       "summary": "Our travel editor recently started using the Camp Snap photo instead of her iPhone to capture images on the road, and loves it.",
@@ -2406,7 +2394,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -2450,7 +2438,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/Chalet-Mirabell-9-e1787345411379.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-17T13:00:49+00:00"
     },
@@ -3038,14 +3026,14 @@
       "title": "Largest home builder Metricon, unveils its first prefab pilot",
       "summary": "Completed in just 20 days from slab pour to building completion, the pilot marks one of the first times a major Australian volume home builder has tested how prefabricated construction can be successfully integrated into a mainstream volume-building model –… The post Largest home builder Metricon, unveils its first prefab pilot appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/largest-home-builder-metricon-unveils-its-first-prefab-pilot",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/0F0A3836.jpg",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3836.jpg",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/0F0A3836.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3836.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/Wall-installation.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3853.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3836.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3909.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3845.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3845.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Prefab-Pilot-Home-in-progress.jpg"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3056,14 +3044,14 @@
       "title": "Designer Claudia Lambert champions personality over perfection",
       "summary": "What if the secret to a beautiful home isn’t following trends, but trusting your instincts? That’s the question at the… The post Designer Claudia Lambert champions personality over perfection appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/designer-claudia-lambert-champions-personality-over-perfection",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Claud-book-portrait_Finals-1.jpg",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Claud-book-portrait_Finals-1.jpg",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Claud-book-portrait_Finals-1.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/ShapingSpaces_Front_Cover.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/Claud-book-portrait_Finals-1.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/ShapingSpaces_Front_Cover.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-20-at-7.38.52-pm.png",
         "https://files.theinteriorsaddict.com/uploads/2022/05/Jen-Bishop-headshot.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/03/image-24.png"
+        "https://files.theinteriorsaddict.com/uploads/2026/03/image-24.png",
+        "https://files.theinteriorsaddict.com/uploads/2026/03/image-13.png"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3087,14 +3075,14 @@
       "title": "Emma Lunn turns her love of sourcing European objets into a job",
       "summary": "When most of us were holed up at home, juggling work with school schedules, learning to make bread and becoming… The post Emma Lunn turns her love of sourcing European objets into a job appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/emma-lunn-turns-her-love-of-sourcing-european-objets-into-a-job",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Secondi-EmmaLunn_web_JacquiTurk-3.jpg",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi-EmmaLunn_web_JacquiTurk-3.jpg",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Secondi-EmmaLunn_web_JacquiTurk-3.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi-EmmaLunn_web_JacquiTurk-3.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi_web_JacquiTurk-7.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi-EmmaLunn_web_JacquiTurk-1.jpg",
         "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi_web_JacquiTurk-9.jpg",
-        "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi_web_JacquiTurk-1.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi_web_JacquiTurk-1.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-20-at-8.23.57-pm.png"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3105,9 +3093,9 @@
       "title": "An interior stylist’s guide to Sydney’s hidden home shopping gems",
       "summary": "Award-winning interior stylist Lucy Gough, shares where to shop for your home in Sydney depending on what you’re looking for,… The post An interior stylist’s guide to Sydney’s hidden home shopping gems appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/an-interior-stylists-guide-to-sydneys-hidden-home-shopping-gems",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/11.jpg",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/11.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3118,9 +3106,9 @@
       "title": "Playful patterns, chocolate brown & quiet luxury: Kmart newness",
       "summary": "Kmart’s new, and always highly anticipated, living collection has officially landed in stores, bringing the internet’s most viral trends straight… The post Playful patterns, chocolate brown & quiet luxury: Kmart newness appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/playful-patterns-chocolate-brown-quiet-luxury-kmart-newness",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Screenshot-2026-07-19-at-8.42.40-pm.png",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-19-at-8.42.40-pm.png",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Screenshot-2026-07-19-at-8.42.40-pm.png"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-19-at-8.42.40-pm.png"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3157,9 +3145,9 @@
       "title": "What Milan 2026 means for Australian homes and businesses",
       "summary": "From coffee-making taps and wellness-focused bathrooms to richer colour palettes, intelligent lighting and sculptural forms, Milan Design Week 2026 revealed… The post What Milan 2026 means for Australian homes and businesses appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/what-milan-2026-means-for-australian-homes-and-businesses",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/06/terracotta-bathroom-vanity-design-milan.jpg",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/06/terracotta-bathroom-vanity-design-milan.jpg",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/06/terracotta-bathroom-vanity-design-milan.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/06/terracotta-bathroom-vanity-design-milan.jpg"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3170,9 +3158,9 @@
       "title": "Retrofitted homes cooler for residents in harsh desert climate",
       "summary": "A housing retrofit project launched in the APY Lands in 2023 has significantly improved indoor temperatures for residents who live… The post Retrofitted homes cooler for residents in harsh desert climate appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/retrofitted-homes-cooler-for-residents-in-harsh-desert-climate",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Overview-of-kinspan-on-house.jpg",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Overview-of-kinspan-on-house.jpg",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Overview-of-kinspan-on-house.jpg"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Overview-of-kinspan-on-house.jpg"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3183,9 +3171,9 @@
       "title": "Turn the bathroom into your home’s wellness hub with small touches",
       "summary": "Australians are increasingly bringing wellness into their homes, and the bathroom is emerging as one of the most important spaces… The post Turn the bathroom into your home’s wellness hub with small touches appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/turn-the-bathroom-into-your-homes-wellness-hub-with-small-touches",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-10.21.13-am.png",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-14-at-10.21.13-am.png",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Screenshot-2026-07-14-at-10.21.13-am.png"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-14-at-10.21.13-am.png"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3209,9 +3197,9 @@
       "title": "FRESH! 2026 Decor + Design has a brand new look",
       "summary": "Australia’s definitive destination for the interior design industry, Decor + Design, returns for its 22nd edition to the Melbourne Exhibition… The post FRESH! 2026 Decor + Design has a brand new look appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/fresh-2026-decor-design-has-a-brand-new-look",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Screenshot-2026-07-11-at-10.44.46-am.png",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-11-at-10.44.46-am.png",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/Screenshot-2026-07-11-at-10.44.46-am.png"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-11-at-10.44.46-am.png"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
@@ -3274,9 +3262,9 @@
       "title": "Update your home on a budget with our latest Kmart picks",
       "summary": "By Lexi Kentmann Blending local design, functionality and must-have pieces, Kmart’s just launched a new Living collection to help you… The post Update your home on a budget with our latest Kmart picks appeared first on The Interiors Addict .",
       "url": "https://theinteriorsaddict.com/update-your-home-on-a-budget-with-our-latest-kmart-picks",
-      "image": "https://theinteriorsaddict.com/wp-content/uploads/2026/07/43704576-3.png",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/43704576-3.png",
       "images": [
-        "https://theinteriorsaddict.com/wp-content/uploads/2026/07/43704576-3.png"
+        "https://files.theinteriorsaddict.com/uploads/2026/07/43704576-3.png"
       ],
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
