@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-10T01:00:42.883649+00:00",
-  "generated_at_human": "2026-09-10 01:00 UTC",
-  "total_items": 247,
+  "generated_at": "2026-09-10T05:53:49.686114+00:00",
+  "generated_at_human": "2026-09-10 05:53 UTC",
+  "total_items": 244,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -49,6 +49,7 @@
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
+    "Sunset",
     "Trendir",
     "Trendir interiors",
     "Veranda",
@@ -62,8 +63,8 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 50,
+  "sources_count": 57,
+  "multi_photo_items": 51,
   "items": [
     {
       "id": "7e0885c0067c6bd8",
@@ -131,6 +132,24 @@
       "published": ""
     },
     {
+      "id": "6502f90249e67821",
+      "title": "The Practical Magic house returns in the film’s sequel",
+      "summary": "The interiors continue to cast a spell on us. The post The Practical Magic house returns in the film’s sequel appeared first on Home Beautiful .",
+      "url": "https://www.homebeautiful.com.au/home-ideas/practical-magic-house/",
+      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/06/practical-magic-house-683e94df7270b.jpg?format=auto&v=1748931856",
+      "images": [
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/06/practical-magic-house-683e94df7270b.jpg?format=auto&v=1748931856",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/06/practical-magic-film-house-sisters-interior-683e9628c571b.JPG?w=3321",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/06/nicole-kidman-practical-magic-kitchen-staircase-683e9633a1332.jpg?w=3216",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ecosa-sierra-storage-bed-frame-review-small-home-small-apartment-storage-solutions-6aa0e2f4d1441.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/06/practical-magic-house-kitchen-2-683e985261230.png?w=2248",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/28514/rebecca-hooton-writer.jpg?w=2048&format=auto"
+      ],
+      "source": "Home Beautiful AU",
+      "source_url": "https://www.homebeautiful.com.au",
+      "published": "2026-09-10T03:04:47+00:00"
+    },
+    {
       "id": "4a0a1e9aede363a8",
       "title": "You’d Never Know This Color-Drenched Bedroom Used to Be a Living Room",
       "summary": "It’s easy to look at a room and design it as it was intended: a kitchen as a kitchen, a bathroom as a bathroom, an office as an office. It’s a lot gutsier to look at a room and envision something else entirely — but that’s a risk that can bring lots of rewards.Conor McFarland saw potential in the living room of this 1880s house to be something more. READ MORE...",
@@ -157,6 +176,24 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-09-09T20:00:00+00:00"
+    },
+    {
+      "id": "cb2176c962395faa",
+      "title": "This Cute Little Point-and-Shoot Camera Has Changed the Way I Travel",
+      "summary": "Our travel editor recently started using the Camp Snap photo instead of her iPhone to capture images on the road, and loves it.",
+      "url": "https://sunset.com/travel/camp-snap-camera-review",
+      "image": "https://sunset.com/wp-content/uploads/2026/08/travel-campsnap-camera08262026.jpg?w=1200&h=600&crop=1",
+      "images": [
+        "https://sunset.com/wp-content/uploads/2026/08/travel-campsnap-camera08262026.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/07/oJ5UIpBMOl3xFRFF-Exterior-3_56ba0f.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/08-09.2026-sunset-cover-photo-la-bahia-santa-cruz-AS263139c-plus-sky-ts.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/travel-camp-snap-camera082822026.png?w=1024",
+        "https://sunset.com/wp-content/uploads/jimmy-chin-book.jpeg?w=256&h=142&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/06/sunset-june-july-2024-cover-image-villa-santa-cruz-todos-santos-baja-H9I1083-pc-thomas-j-story-copy.jpg?w=256&h=142&crop=1"
+      ],
+      "source": "Sunset",
+      "source_url": "https://www.sunset.com",
+      "published": "2026-09-09T19:30:24+00:00"
     },
     {
       "id": "ce165130b1ac652f",
@@ -224,19 +261,6 @@
       "source": "Design Boom architecture",
       "source_url": "https://www.designboom.com",
       "published": "2026-09-09T15:45:57+00:00"
-    },
-    {
-      "id": "0a273a3223071958",
-      "title": "SteelSeries Aeon Pro switches between PC and console without re-pairing",
-      "summary": "SteelSeries Aeon Pro switches between PC and console without re-pairing There is something slightly ridiculous about having a PC and an Xbox sitting on the same desk, then needing to re-pair a gaming controller every...",
-      "url": "https://www.yankodesign.com/2026/09/09/steelseries-aeon-pro-switches-between-pc-and-console-without-re-pairing/?utm_source=rss&utm_medium=rss&utm_campaign=steelseries-aeon-pro-switches-between-pc-and-console-without-re-pairing",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/steelseries-aeon-pro-switches-between-pc-and-console-without-re-pairing/SteelSeries-Aeon-Pro-Gaming-Controller-4.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/steelseries-aeon-pro-switches-between-pc-and-console-without-re-pairing/SteelSeries-Aeon-Pro-Gaming-Controller-4.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-09T15:20:16+00:00"
     },
     {
       "id": "3ea47d59d6856f56",
@@ -425,7 +449,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/east-sussex-house-anam-design-studio_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-09T08:00:13+00:00"
     },
@@ -439,9 +463,9 @@
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/07/kitchen-trends-quietly-dramatic-trend-personal-interiors8-6a56d339864de.jpg?format=auto&v=1784075966",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/12/Diana_Moore_WEB_.png?w=3000&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ecosa-sierra-storage-bed-frame-review-small-home-small-apartment-storage-solutions-6aa0e2f4d1441.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/08/Gozney-Arc-home-pizza-oven-review.jpg?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/electrolux-steam-ovens-69f84e157b9cf.jpg?w=2729",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/08/best-ovens-for-australian-kitchens-2026-best-freestanding-ovens-best-build-in-ovens-6a8d1c0db443d.png?resize=1950%2C1462&format=auto"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -457,9 +481,9 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/09/He-Spray-Painted-the-Oak-Cabinets-Sherwood-Green-and-They-Look-Like-a-Different-Kitchen.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Cabinet-Boxes-Were-Masked-for-Spraying.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Old-Knit-Sweaters-Turned-Thrifted-Pillows-Into-a-Matching-Set.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Dont-Toss-the-Egg-Carton-Theres-a-Clever-Way-to-Use-It-on-a-Picture-Frame.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/09/Youve-Seen-Copies-of-These-Furniture-Designs-Everywhere-but-These-Are-the-Originals.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/This-Dollar-Store-Glass-Cake-Stand-Turns-Into-a-Mini-Pumpkin-Patch-for-Fall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Painted-a-Mountain-Landscape-Across-This-Old-Wood-Dresser-Instead-of-Using-One-Color.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/This-Dollar-Store-Glass-Cake-Stand-Turns-Into-a-Mini-Pumpkin-Patch-for-Fall.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -474,10 +498,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/09/ecosa-sierra-storage-bed-frame-review-small-home-small-apartment-storage-solutions-6aa0e2f4d1441.png?format=auto&v=1788928756",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ecosa-sierra-storage-bed-frame-review-small-home-small-apartment-storage-solutions-6aa0e2f4d1441.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/08/Gozney-Arc-home-pizza-oven-review.jpg?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/inside-of-the-drawers-of-the-ecosa-sierra-storage-bed-frame-how-much-you-can-store-6aa0e3da4835a-scaled.png?format=auto&resize=2560%2C1638",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/sierra-storage-bed-frame-ecosa-oyster-review-6aa0a5a03a78f.png?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/sierra-storage-bed-frame-ecosa-charcoal-review-6aa0a5a420560.png?w=2048"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/sierra-storage-bed-frame-ecosa-charcoal-review-6aa0a5a420560.png?w=2048",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/sierra-storage-bed-frame-ecosa-evergreen-review-6aa0a5aa8d867.png?w=2048"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -503,12 +527,7 @@
       "url": "https://www.homebeautiful.com.au/bedroom-ideas/guest-bedroom-ideas/",
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/south-yarra-patterned-guest-bedroom-scaled.jpg?format=auto&v=1772692782",
       "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/south-yarra-patterned-guest-bedroom-scaled.jpg?format=auto&v=1772692782",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/ecosa-sierra-storage-bed-frame-review-small-home-small-apartment-storage-solutions-6aa0e2f4d1441.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/08/Gozney-Arc-home-pizza-oven-review.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/bianca-mastroianni-4-6a13b2a689f6b-scaled.jpg?w=2048&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/1026_marketing-cover-6a8b7f6a971ea-scaled.jpg?format=auto&resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/18586/200818-guest-bedroom-2.jpg?resize=1950%2C1462&format=auto"
+        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2024/10/south-yarra-patterned-guest-bedroom-scaled.jpg?format=auto&v=1772692782"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -883,10 +902,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/tcl-mega-refrigerator-series-6a9f5fc776180.png?format=auto&v=1788829658",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/tcl-mega-refrigerator-series-6a9f5fc776180.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/rwa2026-winners-6aa0eefe1c9ea.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-08t132224.381-6a9f7f72b678c.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-memory-foam-mattresses-6a991adc47b35.png?resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-portable-speakers-australia-6aa0fb34db630.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2020/01/vegetable-garden-6aa0f59e3fe7d.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/12/hero-crop-2026-09-10t102223.234-6aa1f88ae6361.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -933,9 +952,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/open-plan-offices-killed-the-private-desk-and-this-pod-brings-it-back/the-seed-pod-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/cacoon_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/03/frama-sutoa-drawer-is-like-a-ziggurat-temple-for-your-stuff/frama-sutoa-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/dog_playhouse_yanko_esign-08.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/farflung_studio_adw_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/02/363301/Flip-Flap-Childrens-Chair-Step-Stool-Ladder.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/02/15/swing_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1102,10 +1121,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/best-outdoor-sofas-australia-6a9e50be8e57c.png?format=auto&v=1788760267",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-outdoor-sofas-australia-6a9e50be8e57c.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/rwa2026-winners-6aa0eefe1c9ea.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-08t132224.381-6a9f7f72b678c.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-outdoor-rugs-australia-6a9a1ab057ea3.png?resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-portable-speakers-australia-6aa0fb34db630.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2020/01/vegetable-garden-6aa0f59e3fe7d.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/12/hero-crop-2026-09-10t102223.234-6aa1f88ae6361.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/02/rachel-weisz-headshot-1-67c78026afad5.png?w=2048&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1133,10 +1152,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2025/05/BANNER_1200x8203-768x525.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2025/04/DESIGN-EXPERIENCE-CORSO-ONLINE-MONDADORI-POLITECNICO-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/Giulio-Ghirardi©Michelangelo-Foundation_84378424_downloadOriginal.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/cave-di-prun_7-1-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/Vitra_Water-Garden_2026_c-Vitra-photo_Julien-Lanoo-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/Giulio-Ghirardi©Michelangelo-Foundation_84378424_downloadOriginal.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1177,10 +1196,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/07/02.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/02.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Seadeck-9-Fun-Island-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-09-SHE-copia-2.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/APE_0-Ape-1_Navigation.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-MY-Andala_MD-10.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-09-SHE-copia-2.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Seadeck-9-Fun-Island-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/APE_0-Ape-1_Navigation.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_00-APE-01.jpg"
       ],
       "source": "Interni magazine",
@@ -1209,10 +1228,10 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/belle-x-sub-zero-6a9a1a11455c0.png?format=auto&v=1788484133",
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/belle_cover-marketing_v0.2-6a9df6fd60508-scaled.jpg?format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/rwa2026-winners-6aa0eefe1c9ea.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-08t132224.381-6a9f7f72b678c.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2022/03/untitled-design-2026-09-08t163541.871-6a9facc1d514d.png?resize=1950%2C1462&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2019/09/hero-crop-2026-08-28t172246.689-6a91374d3ba89.png?resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2020/01/vegetable-garden-6aa0f59e3fe7d.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/12/hero-crop-2026-09-10t102223.234-6aa1f88ae6361.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-portable-speakers-australia-6aa0fb34db630.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2022/03/untitled-design-2026-09-08t163541.871-6a9facc1d514d.png?resize=1950%2C1462&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1254,9 +1273,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/3-printed-parts-that-quietly-replace-the-furniture-store/chois-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/dancing-bench-is-a-playful-moving-seat-that-can-rock-your-world/dancing-bench-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/10/furniture-design-meets-cat-lovers-for-designs-that-are/ascend_desk_for_cats_cat-furniture.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/11/adaptable/adaptable_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/12/furniture-that-dances-the-moon-series-reimagines-seating/moon-series-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/the-plywood-chair-that-becomes-a-castle-in-2-moves/casul-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/vibryx-is-the-furniture-collection-that-treats-sound-as-a-material/vibryx-00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1272,9 +1291,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/cove-is-the-office-chair-that-actually-leaves-room-for-your-ponytail/arbest-cove-ergonomic-chair-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/top-5-modular-wooden-furniture-designs-for-customizable-living-trendy-interiors-draft/Nudemodular_Furniture-Shapeshiting_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/draft-elegoo/Nexprint_Million_Dollar_Creator_Fund_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/raul-de-laras-host-exhibition-weaves-together-wood-and-identity/host-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/03/PooPail_2_in_1_solution_for_cleaning_dog_poop.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/05/this-juicer-gives-you-fresh-squeezed-orange-juice-in-less-time-than-it-takes-to-brew-coffee/Ultimate_Citrus_Juicer_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/12/this-oil-lamp-turns-any-space-into-a-sanctuary-with-glow-aroma-and-warmth/oil_lamp_turns_any_space_into_a_sanctuary_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1509,19 +1528,6 @@
       "published": "2026-09-04T05:00:00+00:00"
     },
     {
-      "id": "70935b2796c83e25",
-      "title": "The best outdoor cushions and chair pads to freshen up your patio furniture",
-      "summary": "Energising your outdoor setting is as easy as the addition of some accent cushions. The post The best outdoor cushions and chair pads to freshen up your patio furniture appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/shopping/best-outdoor-cushions-6090/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/homes/2023/09/06/1693965320072_outdoor-chair-cushion-yellow.jpg?format=auto&v=1756957498",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/homes/2023/09/06/1693965320072_outdoor-chair-cushion-yellow.jpg?format=auto&v=1756957498"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-09-03T23:31:21+00:00"
-    },
-    {
       "id": "6c0710d367fc6ce4",
       "title": "A Step Stool That Actually Belongs in Your Entryway",
       "summary": "A Step Stool That Actually Belongs in Your Entryway Tying your shoes in the entryway shouldn’t feel like a balance test, but it usually does. You hop on one foot, grip the doorframe or...",
@@ -1590,32 +1596,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-09-03T08:00:00+00:00"
-    },
-    {
-      "id": "7867f112d9f14e05",
-      "title": "Stylist-approved shortcuts to a kitchen refresh (no renovation required)",
-      "summary": "Before you renovate, try these easy kitchen updates from H&G's resident stylist The post Stylist-approved shortcuts to a kitchen refresh (no renovation required) appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/decorating/kitchen-refresh-ideas/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-03t121248.436-6a98d7b22a6b9.png?format=auto&v=1788401649",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/untitled-design-2026-09-03t121248.436-6a98d7b22a6b9.png?format=auto&v=1788401649"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-09-03T05:11:43+00:00"
-    },
-    {
-      "id": "3680d0814956cf07",
-      "title": "Integrated Refrigeration: Plan the Kitchen Around How You Live",
-      "summary": "Seamless style for a clutter-free vibe. The post Integrated Refrigeration: Plan the Kitchen Around How You Live appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/renovating/integrated-refrigeration-winnings/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/winnings-integrated-hero-6a978234a6349.png?format=auto&v=1788314182",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/winnings-integrated-hero-6a978234a6349.png?format=auto&v=1788314182"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-09-03T01:31:22+00:00"
     },
     {
       "id": "bc742ed132eb00ad",
@@ -1953,7 +1933,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/desk-lamp-sq-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-31T09:00:29+00:00"
     },
@@ -2906,7 +2886,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
@@ -3477,19 +3457,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-06-17T15:00:07+00:00"
-    },
-    {
-      "id": "ef2c00f7e8451e60",
-      "title": "Seven standout seating projects from 3 Days of Design in June",
-      "summary": "Design weeks never fail to be laden with chairs. To help you separate the wheat from the chaff, our design and interiors reporter Jane Englefield has rounded up seven of the most striking seating projects from Copenhagen's 3 Days of Design festival. The annual 3 Days of Design festival concluded in the Danish capital last The post Seven standout seating projects from 3 Days of Design in June appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/06/17/seven-standout-seating-projects-3-days-of-design-june/",
-      "image": "http://static.dezeen.com/uploads/2026/06/crude-seating-3-days-of-design-1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/06/crude-seating-3-days-of-design-1.jpg"
-      ],
-      "source": "Dezeen tag furniture",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-06-17T08:00:47+00:00"
     },
     {
       "id": "a6274e38bce6a790",
