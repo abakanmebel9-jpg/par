@@ -1,13 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-10T16:19:12.483042+00:00",
-  "generated_at_human": "2026-09-10 16:19 UTC",
-  "total_items": 247,
+  "generated_at": "2026-09-10T19:35:09.119715+00:00",
+  "generated_at_human": "2026-09-10 19:35 UTC",
+  "total_items": 245,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -49,6 +48,7 @@
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
+    "Sunset",
     "Trendir",
     "Trendir interiors",
     "Veranda",
@@ -63,7 +63,7 @@
     "Мебель-expo"
   ],
   "sources_count": 56,
-  "multi_photo_items": 50,
+  "multi_photo_items": 52,
   "items": [
     {
       "id": "eeea61944ecf9ee5",
@@ -131,6 +131,50 @@
       "published": ""
     },
     {
+      "id": "89cc3f41dbbebaa1",
+      "title": "Lang Architecture Reimagines Art Deco in an East Village Apartment",
+      "summary": "Two units inside a 1930s New York City building become one 1,650-square-foot family home, where subtle Art Deco references meet vintage furnishings and personal details",
+      "url": "https://design-milk.com/lang-architecture-east-village-apartment/",
+      "image": "https://design-milk.com/images/2026/09/east-village-apartment-lang-architecture-11.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/09/east-village-apartment-lang-architecture-11.jpg",
+        "https://design-milk.com/images/2026/09/east-village-apartment-lang-architecture-20.jpg",
+        "https://design-milk.com/images/2026/09/east-village-apartment-lang-architecture-18.jpg",
+        "https://design-milk.com/images/2026/09/east-village-apartment-lang-architecture-12.jpg",
+        "https://design-milk.com/images/2026/09/east-village-apartment-lang-architecture-31.jpg",
+        "https://design-milk.com/images/2025/12/2025-Top10-Best-10-Shield-Shelter-Lakeside-Home-Barbora-Vokac-Taylor.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-09-10T18:18:07+00:00"
+    },
+    {
+      "id": "31a1fefcd7f974a8",
+      "title": "curved joinery and bold color reframe 1960s apartment in madrid",
+      "summary": "built-in furniture, curved geometries, and color organize the compact apartment around daily life. The post curved joinery and bold color reframe 1960s apartment in madrid appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/curved-joinery-bold-color-1960s-apartment-madrid-imperial-alessio-lamarca-marta-ciabattini/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/09/madrid-imperial-apartment-renovation-alessio-lamarca-marta-ciabattini-designboom-700-500x400-22b08q85r451.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/09/madrid-imperial-apartment-renovation-alessio-lamarca-marta-ciabattini-designboom-700-500x400-22b08q85r451.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-09-10T18:10:58+00:00"
+    },
+    {
+      "id": "0226b23193b08dcf",
+      "title": "Spray Painting Dos and Don’ts: How to Get Pro Results",
+      "summary": "Spray paint can transform furniture and decor—if you do it the right way. The post Spray Painting Dos and Don’ts: How to Get Pro Results appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/articles/spray-painting-tips/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2016/08/spray_paint_chair.jpeg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2016/08/spray_paint_chair.jpeg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-09-10T17:46:19+00:00"
+    },
+    {
       "id": "f306aa027b62eab6",
       "title": "Use Scrap Wood To Store Toilet Paper With Creative Charm",
       "summary": "Part storage solution, part comedy prop, this DIY toilet paper holder will leave your guests doing a double take the next time they use your bathroom.",
@@ -185,19 +229,6 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-09-10T15:00:09+00:00"
-    },
-    {
-      "id": "ca6ee2f518c4cc3b",
-      "title": "2,977 drones used to recreate Twin Towers for 9/11 anniversary",
-      "summary": "Design studio Drift and architect Shigeru Ban have worked to recreate the Twin Towers with lighted drones for the 25th anniversary of 9/11, with each light representing a life lost in the World Trade Center attack. Under creative director Addison Mehr, the 2,977 Lights Over New York Harbor installation launched from Governors Island the night The post 2,977 drones used to recreate Twin Towers for 9/11 anniversary appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/10/studio-drift-shigeru-ban-fly-drone-installation-new-york-911-anniversary/",
-      "image": "http://static.dezeen.com/uploads/2026/09/studio-drift-drone-commemoration_dezeen_2364_sq2.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/09/studio-drift-drone-commemoration_dezeen_2364_sq2.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-10T14:30:47+00:00"
     },
     {
       "id": "5fa23f73057a3eb7",
@@ -355,6 +386,19 @@
       "published": "2026-09-10T12:00:00+00:00"
     },
     {
+      "id": "99223c5dd6dca022",
+      "title": "Outfitting the cabinet",
+      "summary": "Follow the newest trends in cabinet design, featuring smart lighting, seamless access systems, and unique hardware for enhanced functionality and style. The post Outfitting the cabinet appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/outfitting-the-cabinet-2",
+      "image": "https://www.woodshopnews.com/uploads/2026/09/B-Hafele-Slim6-Silicone-Large.jpeg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/09/B-Hafele-Slim6-Silicone-Large.jpeg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-09-10T12:00:00+00:00"
+    },
+    {
       "id": "19fe6ec15a6cd4af",
       "title": "7 Japanese-Inspired Bedroom Accessories That Make a Dorm Room Feel Like a Ryokan",
       "summary": "7 Japanese-Inspired Bedroom Accessories That Make a Dorm Room Feel Like a Ryokan A dorm room rarely arrives with any intention behind it. The furniture is standard issue, the lighting is whatever the university installed, and the walls...",
@@ -399,6 +443,24 @@
       "published": "2026-09-10T10:30:24+00:00"
     },
     {
+      "id": "cb2176c962395faa",
+      "title": "This Cute Little Point-and-Shoot Camera Has Changed the Way I Travel",
+      "summary": "Our travel editor recently started using the Camp Snap photo instead of her iPhone to capture images on the road, and loves it.",
+      "url": "https://sunset.com/travel/camp-snap-camera-review",
+      "image": "https://sunset.com/wp-content/uploads/2026/08/travel-campsnap-camera08262026.jpg?w=1200&h=600&crop=1",
+      "images": [
+        "https://sunset.com/wp-content/uploads/2026/08/travel-campsnap-camera08262026.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/3-roasted-romanesco-polenta-60715-1018-1.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/09/Screenshot-2026-08-27-at-8.24.57-AM.jpeg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/08/travel-camp-snap-camera082822026.png?w=1024",
+        "https://sunset.com/wp-content/uploads/jimmy-chin-book.jpeg?w=256&h=142&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/06/sunset-june-july-2024-cover-image-villa-santa-cruz-todos-santos-baja-H9I1083-pc-thomas-j-story-copy.jpg?w=256&h=142&crop=1"
+      ],
+      "source": "Sunset",
+      "source_url": "https://www.sunset.com",
+      "published": "2026-09-10T10:14:25+00:00"
+    },
+    {
       "id": "337323d44f0d60bb",
       "title": "Live-Edge Wood Is Moving Beyond the Rustic Slab Table",
       "summary": "Live-edge wood once brought to mind thick dining tables set on dark metal legs. Homedit has seen the material take on a much broader role in contemporary furniture, pairing uneven edges, splits, knots, old timber, and exposed grain with glass, sharp geometry, upholstered furniture, and modern interiors. Some designs preserve most of the original slab.... The post Live-Edge Wood Is Moving Beyond the Rustic Slab Table appeared first on Homedit .",
@@ -439,9 +501,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/this-chinese-stool-hides-2-storage-bins-right-under-your-seat/turtle-stool-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/yd-design-storm-5/design_storm_5_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/07/korean-airs-787-dreamliner-modern-luxury-meets-traditional-korean-design/hero-airline-shot.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/outdoor-furniture/top_10_outdoor_furniture_summer_yanko_design_hero.jpeg"
+        "https://www.yankodesign.com/images/design_news/2019/05/get-inspired-to-declutter-with-our-collection-of-minimal-designs/yd_minimal_designs_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/03/futuristic-looking-chair-concept-immerses-you-in-a-world-of-sound/xeo-pod-acoustic-chair-concept-4.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/10/11/sync.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -678,19 +740,6 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-09-09T12:00:00+00:00"
-    },
-    {
-      "id": "0ace463660e8bee5",
-      "title": "Keep Kitchen Towels From Falling With A Simple Tip That's Overlooked",
-      "summary": "We all have those days where the kitchen towel won't stay in place when you grab it to dry your hands or dishes. This tip is an easy solution to that problem.",
-      "url": "https://www.hunker.com/2252171/keep-kitchen-towels-from-falling-simple-safety-pin-tip/",
-      "image": "https://www.hunker.com/img/gallery/keep-kitchen-towels-from-falling-simple-safety-pin-tip/l-intro-1788900520.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/keep-kitchen-towels-from-falling-simple-safety-pin-tip/l-intro-1788900520.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
       "published": "2026-09-09T12:00:00+00:00"
     },
     {
@@ -1161,9 +1210,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/open-plan-offices-killed-the-private-desk-and-this-pod-brings-it-back/the-seed-pod-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/side-table-and-shelf-uses-monochromatic-lines-and-dots-springing-up-from-the-ground/lines-and-dots.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/ikea-reveals-gaming-furniture-collection-that-blends-perfectly-with-modern-interiors/IKEA-BRANNBOLL-collection-8.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/10/top-10-sustainable-furniture-to-make-your-home-an-eco-friendly-dwelling/top_10_sustainable_furniture_yanko_design_hero.jpeg"
+        "https://www.yankodesign.com/images/design_news/2011/02/08/heist3.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/11/this-folding-chair-is-perfect-for-balcony-as-well-as-bbq-in-the-outdoor/Departo-folding-chair_6.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/01/transformer_shell_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1324,8 +1373,8 @@
         "https://www.internimagazine.it/content/uploads/2025/05/BANNER_1200x8203-768x525.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2025/04/DESIGN-EXPERIENCE-CORSO-ONLINE-MONDADORI-POLITECNICO-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/Vitra_Water-Garden_2026_c-Vitra-photo_Julien-Lanoo-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/cave-di-prun_7-1-Copia.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/Giulio-Ghirardi©Michelangelo-Foundation_84378424_downloadOriginal.jpg"
       ],
       "source": "Interni magazine",
@@ -1367,10 +1416,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/07/02.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/07/02.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_Seadeck-9-Fun-Island-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/APE_0-Ape-1_Navigation.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-MY-Andala_MD-10.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-09-SHE-copia-2.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/APE_0-Ape-1_Navigation.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Seadeck-9-Fun-Island-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/ape_0-APE-MY-Andala_MD-10.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/ape_00-APE-01.jpg"
       ],
       "source": "Interni magazine",
@@ -1418,9 +1467,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/3-printed-parts-that-quietly-replace-the-furniture-store/chois-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/beni-is-what-sony-aibo-grew-up-to-be-a-549-biped-robot-that-replaces-your-camera-crew/Meet-Beni-Your-First-All-Terrain-Camera-Robot_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/fray-chair-concept-is-a-playful-exploration-of-color-and-form/fray-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/02/branca/branca_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/08/ukranian-table-design-brings-together-nature-and-sustainability/barvinok-00.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/07/31/wow_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/07/desk/desk_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/this-furniture-collection-was-designed-by-your-inner-5-year-old/indergarten-013.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1534,19 +1583,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-09-04T16:18:30+00:00"
-    },
-    {
-      "id": "cdd41ca500a4d0de",
-      "title": "The Best Countertop Water Filters for Clean, Great-Tasting Water",
-      "summary": "Purify your drinking water with these top-performing, easy-to-install countertop systems. The post The Best Countertop Water Filters for Clean, Great-Tasting Water appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/best-countertop-water-filters/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2020/12/Best-Countertop-Water-Filter-.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2020/12/Best-Countertop-Water-Filter-.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-09-04T15:41:52+00:00"
     },
     {
       "id": "8ca9c9a5d7457409",
@@ -1769,19 +1805,6 @@
       "published": "2026-09-02T15:51:23+00:00"
     },
     {
-      "id": "f1aaa51106468d05",
-      "title": "Basic Relief Carving Techniques",
-      "summary": "A few simple tools and basic technique will result in a great-looking carving. Relief carving as a form of ornamentation is as old as woodworking itself and while at first... Source",
-      "url": "https://www.popularwoodworking.com/techniques/basic-relief-carving-techniques/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/02103737/carvedbox-26-thumb.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/09/02103737/carvedbox-26-thumb.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-09-02T15:12:46+00:00"
-    },
-    {
       "id": "4c5b166cc333acf0",
       "title": "The Drawer That Actually Becomes 5 Portable Trays",
       "summary": "The Drawer That Actually Becomes 5 Portable Trays Most storage furniture in an American home falls into one of two categories: too heavy to move without hurting yourself, or too flimsy to trust...",
@@ -1920,19 +1943,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-01T17:55:12+00:00"
-    },
-    {
-      "id": "f320a6f544a60274",
-      "title": "Deltarack Launches Brush-Protected Transport Rack",
-      "summary": "Deltarack, together with its established U.S. distribution partner DR USA, has introduced a new range of brush-protected transport racks. Designed for cabinet, furniture and component manufacturers, the racks store wood... The post Deltarack Launches Brush-Protected Transport Rack appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/deltarack-launches-brush-protected-transport-rack",
-      "image": "https://www.woodshopnews.com/uploads/2026/09/deltarack500x280_WSN.jpg?auto=webp",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/09/deltarack500x280_WSN.jpg?auto=webp"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-09-01T15:53:50+00:00"
     },
     {
       "id": "29c4d1a393398276",
@@ -2229,32 +2239,6 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-08-26T21:47:09+00:00"
-    },
-    {
-      "id": "b051ae92bbb64e84",
-      "title": "Kemetale Revives the Art of Slow Travel on the Nile",
-      "summary": "A reimagined Egyptian dahabeah pairs a centuries-old mode of travel with contemporary interiors, local craftsmanship, and an itinerary designed around the pleasures of drifting",
-      "url": "https://design-milk.com/kemetale-egyptian-dahabeah-nile/",
-      "image": "https://design-milk.com/images/2026/08/Kemetale-1.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/08/Kemetale-1.jpg"
-      ],
-      "source": "Design Milk Interiors",
-      "source_url": "https://design-milk.com",
-      "published": "2026-08-26T19:54:14+00:00"
-    },
-    {
-      "id": "982f5e0d200f5fe8",
-      "title": "At Island Records and EMI’s New London HQ, Music Is an Art Form",
-      "summary": "Part workspace, part gallery, the office designed by InterestingProjects balances the distinct identities of the two labels. The post At Island Records and EMI’s New London HQ, Music Is an Art Form appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/island-records-emi-london-interestingprojects/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/08/Azure-InterestingProjects-Island-Records-EMI-London-01.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-08-26T17:14:06+00:00"
     },
     {
       "id": "52739f6288d73ed0",
