@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-11T22:29:53.222473+00:00",
-  "generated_at_human": "2026-09-11 22:29 UTC",
-  "total_items": 252,
+  "generated_at": "2026-09-12T01:03:36.746966+00:00",
+  "generated_at_human": "2026-09-12 01:03 UTC",
+  "total_items": 254,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
@@ -17,6 +17,7 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
@@ -53,6 +54,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design furniture",
     "Yanko Design home",
@@ -60,7 +62,7 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 56,
   "multi_photo_items": 52,
   "items": [
     {
@@ -127,6 +129,37 @@
       "source": "Archi.ru",
       "source_url": "https://archi.ru",
       "published": ""
+    },
+    {
+      "id": "b84fb28875bc587a",
+      "title": "Kitchen Cabinet Trends On The Way Out In 2026 (So Far)",
+      "summary": "As designers and homeowners continue to prioritize personality, warmth, and coziness, these five kitchen cabinet trends are quickly become passé.",
+      "url": "https://www.hunker.com/2256563/kitchen-cabinet-trends-out-of-style-2026/",
+      "image": "https://www.hunker.com/img/gallery/kitchen-cabinet-trends-on-the-way-out-in-2026-so-far/l-intro-1789163845.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/kitchen-cabinet-trends-on-the-way-out-in-2026-so-far/l-intro-1789163845.jpg",
+        "https://www.hunker.com/img/gallery/kitchen-cabinet-trends-on-the-way-out-in-2026-so-far/intro-1789163845.jpg",
+        "https://www.hunker.com/img/gallery/kitchen-cabinet-trends-on-the-way-out-in-2026-so-far/cool-white-cabinets-now-read-sterile-1789163847.jpg",
+        "https://www.hunker.com/img/gallery/kitchen-cabinet-trends-on-the-way-out-in-2026-so-far/navy-blue-cabinets-are-losing-favor-1789163848.jpg",
+        "https://www.hunker.com/img/gallery/kitchen-cabinet-trends-on-the-way-out-in-2026-so-far/retire-high-gloss-finishes-for-something-subtler-1789163849.jpg",
+        "https://www.hunker.com/img/gallery/kitchen-cabinet-trends-on-the-way-out-in-2026-so-far/chunky-tall-cabinetry-gets-a-makeover-1789163850.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-12T00:00:00+00:00"
+    },
+    {
+      "id": "5db9df9aa8573a8b",
+      "title": "A Kitchen Got a Full Makeover with No Renovations — Just 3 Paint Colors",
+      "summary": "There’s no better test for determining whether you really love your home than suddenly having to spend all your time there. Rebecca Bishop started rethinking her decor when this exact scenario happened. Rebecca Bishop and her husband’s 109-year-old house had been updated several times over the years, with the last update coming to the kitchen in the 1990s. “We needed something new to look at,” Rebecca says. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/green-black-900-dollar-kitchen-redo-ba-37689051?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-01/Rebecca_B_kitchen_1_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-01/Rebecca_B_kitchen_1_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-11T22:00:00+00:00"
     },
     {
       "id": "87f22b770690d670",
@@ -264,9 +297,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-teen-bedroom-has-4-jobs-the-hasuit-corner-bed-handles-all-of-them/hasuit-twin-corner-bed-desk-storage-bookcase-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/06/mo-a-turned-a-mitsubishi-taillight-into-a-night-stand/delica-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/plank-made-a-folding-chair-youd-never-want-to-put-away/theo-015.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/this-hemp-room-divider-looks-like-art-you-can-actually-use/breeze-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/12/this-modular-lounge-chair-brings-some-of-the-comforts-of-home-to-the-office/rebound-furniture-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/08/auto-draft/philips_smart_furniture_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/03/concept-for-household-items-brings-hidden-functions-for-small-spaces/soom-01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -341,9 +374,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/steel-pipe-stool-that-never-uses-a-single-weld-or-screw/pipe-stool-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/02/a-modular-crockery-shelf-perfect-for-modern-smaller-households/gere_multifunctional_crocery_shelf_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/03/06/pages_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/01/this-sofa-looks-like-stone-boulders-but-feels-like-clouds/rokko-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/07/08/ionicbench01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/03/draft-plus/plus_office_furniture_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/your-homes-newest-resident-is-a-tiny-blue-butler/mini-monsieur-00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -663,9 +696,7 @@
       "url": "https://www.hunker.com/2252191/valuable-vintage-pyrex-set-pink-amish-print-thrift-store/",
       "image": "https://www.hunker.com/img/gallery/valuable-vintage-pyrex-set-pink-amish-print-thrift-store/l-intro-1788950656.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/valuable-vintage-pyrex-set-pink-amish-print-thrift-store/l-intro-1788950656.jpg",
-        "https://www.hunker.com/img/gallery/valuable-vintage-pyrex-set-pink-amish-print-thrift-store/intro-1788950656.jpg",
-        "https://www.hunker.com/img/gallery/valuable-vintage-pyrex-set-pink-amish-print-thrift-store/why-youll-be-in-the-pink-if-you-spot-pink-butterprint-1788950658.jpg"
+        "https://www.hunker.com/img/gallery/valuable-vintage-pyrex-set-pink-amish-print-thrift-store/l-intro-1788950656.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -725,9 +756,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/yinka-ilori-finally-told-the-story-of-chairs-nobody-wanted/chairman-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/05/16/log_chop_bench_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/this-minimalist-wall-desk-combines-refined-utility-with-subtle-presence/anker-bak-wall-disk-07.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/10/11/sync.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/02/07/linna.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/05/clock-table/04-clock_table_yankodesign.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/02/03/clamplamp_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -833,19 +864,6 @@
       "source": "Bob Vila",
       "source_url": "https://www.bobvila.com",
       "published": "2026-09-10T17:46:19+00:00"
-    },
-    {
-      "id": "f306aa027b62eab6",
-      "title": "Use Scrap Wood To Store Toilet Paper With Creative Charm",
-      "summary": "Part storage solution, part comedy prop, this DIY toilet paper holder will leave your guests doing a double take the next time they use your bathroom.",
-      "url": "https://www.hunker.com/2253925/diy-scrap-wood-store-toilet-paper/",
-      "image": "https://www.hunker.com/img/gallery/diy-scrap-wood-store-toilet-paper/l-intro-1789049351.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/diy-scrap-wood-store-toilet-paper/l-intro-1789049351.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-10T16:00:00+00:00"
     },
     {
       "id": "975985c5dfc99488",
@@ -964,19 +982,6 @@
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
-      "published": "2026-09-10T12:00:00+00:00"
-    },
-    {
-      "id": "df4209a25bcf7ecb",
-      "title": "This Kitchen Barely Functioned — 2 Budget DIYs Made It Actually Work",
-      "summary": "Sometimes a renovation isn’t a choice—it’s a total necessity. That was the case for DIYer Johanna Beach of At Home with Howie and her current Chicago rental kitchen, if you could even call it that.When she first moved in, the space (which is just inside the entrance of her apartment) had a fridge, a sink, a stove, and some sad, small shelving, but no counters and zero cabinets. “It was… not workable,” says Johanna. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/diy-modern-budget-kitchen-ba-37689038?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/style/2020-10/B%2BA%20Kitchen%20At%20Home/Howie-Kitchen-Before",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/style/2020-10/B%2BA%20Kitchen%20At%20Home/Howie-Kitchen-Before"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-09-10T12:00:00+00:00"
     },
     {
@@ -1486,19 +1491,6 @@
       "published": "2026-09-08T11:56:04+00:00"
     },
     {
-      "id": "cba8f8bf6dceb23c",
-      "title": "The 5 Home Upgrades Every Pet Parent Actually Uses (Not Just Buys)",
-      "summary": "The 5 Home Upgrades Every Pet Parent Actually Uses (Not Just Buys) Pet furniture & products have operated under a different standard than everything else in the home for too long. The scratchy beige tower. The plastic...",
-      "url": "https://www.yankodesign.com/2026/09/08/the-5-home-upgrades-every-pet-parent-actually-uses-not-just-buys/?utm_source=rss&utm_medium=rss&utm_campaign=the-5-home-upgrades-every-pet-parent-actually-uses-not-just-buys",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/home-upgrades-every-pet-parent-actually-uses-not-just-buys/5_best_home_upgrades_pet_yanko_design_hero.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/home-upgrades-every-pet-parent-actually-uses-not-just-buys/5_best_home_upgrades_pet_yanko_design_hero.jpg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-08T11:40:13+00:00"
-    },
-    {
       "id": "8fdf52d2e534ffad",
       "title": "Midland ER310 Pro Emergency Radio Review: Worth the Upgrade?",
       "summary": "Midland’s new flagship model comes with performance upgrades and a higher price tag. That might not be a bad thing. The post Midland ER310 Pro Emergency Radio Review: Worth the Upgrade? appeared first on Bob Vila .",
@@ -1964,7 +1956,7 @@
       "images": [
         "https://design-milk.com/images/2026/08/gramercy-park-apartment-studio-rosenthal-5.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-09-03T19:19:20+00:00"
     },
@@ -2488,6 +2480,19 @@
       "published": "2026-08-26T01:52:42+00:00"
     },
     {
+      "id": "3241a25fff70de1c",
+      "title": "What is Fine Woodworking?",
+      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-25T16:15:12+00:00"
+    },
+    {
       "id": "be28624a0945a1a9",
       "title": "How to Make a Cabinet Door",
       "summary": "A tongue-and-groove router bit set gets the job done fast. When you learn how to make cabinet doors, you will have mastered one of the basic skills in woodworking. Doors... Source",
@@ -2662,7 +2667,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -3010,6 +3015,19 @@
       "published": "2026-08-03T17:05:44+00:00"
     },
     {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
+    },
+    {
       "id": "70f52947d252c821",
       "title": "An Exclusive Retreat",
       "summary": "On Bawe Island, a private island resort off the coast of Zanzibar, Villeroy &amp; Boch collections define the design of the elegant bathrooms. They complement the resort’s holistic concept and combine timeless aesthetics with the functional requirements of modern luxury hospitality.",
@@ -3197,6 +3215,19 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
