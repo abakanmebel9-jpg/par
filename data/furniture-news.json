@@ -1,12 +1,11 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-14T19:16:45.868584+00:00",
-  "generated_at_human": "2026-09-14 19:16 UTC",
-  "total_items": 250,
+  "generated_at": "2026-09-14T23:05:41.277061+00:00",
+  "generated_at_human": "2026-09-14 23:05 UTC",
+  "total_items": 242,
   "sources_used": [
     "Apartment Therapy",
-    "Archi.ru",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -51,7 +50,6 @@
     "Trendir",
     "Trendir furniture",
     "Trendir interiors",
-    "Veranda",
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
@@ -61,86 +59,65 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 47,
+  "sources_count": 53,
+  "multi_photo_items": 46,
   "items": [
     {
-      "id": "fb9068787d1799de",
-      "title": "Собрать, утеплить, разобрать",
-      "summary": "Мастерская CO Adaptive разработала The Block – модульную систему из списанной древесины с уже встроенной изоляцией, которая ставится изнутри здания и создаёт дополнительный теплоизоляционный контур.",
-      "url": "http://archi.ru/tech/news_102699.html",
-      "image": "https://i.archi.ru/i/1262/515228.jpg",
+      "id": "d4014f3c2e046c9b",
+      "title": "This 1960s Bathroom Redo Made Room for a Surprising Amount of Storage",
+      "summary": "Older homes can sometimes become a hodgepodge of design styles as updates get added over the years. That was the case in Jess Bond’s (The Bond House) bathroom, which was partially original to her 1962 home — but was also partially updated with ’90s upgrades that included a vinyl floor and a dingy, yellowed tub insert. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/2200-dollar-1960s-bathroom-redo-white-wood-ba-37689070?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-03/jess_bond_before_1_tagged",
       "images": [
-        "https://i.archi.ru/i/1262/515228.jpg"
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-03/jess_bond_before_1_tagged"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-14T22:00:00+00:00"
     },
     {
-      "id": "eeea61944ecf9ee5",
-      "title": "Красная победная лента",
-      "summary": "Флагманский магазин TEAM CHINA расположен в центре одного из активно развивающихся модных районов Шанхая. В его интерьере бюро ICD (I Collective Design) переосмысливает спортивную культуру и варианты ее интеграции в современный городской контекст. Проект объединяет дух и историю китайской национальной сборной с энергией Шанхая.",
-      "url": "https://archi.ru/world/102679/krasnaya-pobednaya-lenta",
-      "image": "https://i.archi.ru/i/1262/514713.jpg",
+      "id": "d12a7c10aed3a105",
+      "title": "Woodworkers For a Cause 2026: How to Help Before October 3",
+      "summary": "Sixteen years ago I met a woodworker named Duane Moore who was fighting pancreatic cancer. Nicole and I drove out to Ohio to spend a couple of days at his bench, and that trip turned into Woodworkers Fighting Cancer. Since 2010, this community has moved more than $150,000 to charity, five and ten and fifty […] The post Woodworkers For a Cause 2026: How to Help Before October 3 appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/wfc2026/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/514713.jpg"
+        "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-09-14T20:13:14+00:00"
     },
     {
-      "id": "da0f4b908f43d3e0",
-      "title": "Деликатная интервенция",
-      "summary": "Интерьеры от бюро Kozeen+Rueda отличает декларативность авторского высказывания. И в новом пространстве бутика BERTA LINE они представили концепцию сосуществования аутентичного и временного, доведенную до абсолюта, инсталлировав внутрь исторических интерьеров серию радикально хай-тековских объектов.",
-      "url": "https://archi.ru/russia/102674/delikatnaya-intervenciya",
-      "image": "https://i.archi.ru/i/1262/507219.jpg",
+      "id": "26671f6bbf38fd7a",
+      "title": "How Do Solar Farms Affect Property Values?",
+      "summary": "Are solar farms bad neighbors? Experts share exclusive insights on buyer decisions, view lines, noise levels, and impacts on local property.",
+      "url": "https://www.hunker.com/2253968/solar-farms-property-value/",
+      "image": "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/l-intro-1788973774.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/507219.jpg"
+        "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/l-intro-1788973774.jpg",
+        "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/intro-1788973774.jpg",
+        "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/visibility-matters-most-when-it-comes-to-solar-farms-and-real-estate-prices-1788973776.jpg",
+        "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/buyers-and-sellers-also-need-to-consider-local-regulations-impacting-future-solar-farm-development-1788973777.jpg"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-14T19:30:00+00:00"
     },
     {
-      "id": "7087ab76419a70eb",
-      "title": "Керамическое плетение",
-      "summary": "Американская Studio WE разработала CeraShingle – модульную систему керамической фасадной облицовки, в которой серийность не означает полного повторения элементов. Черепицы размером около 400 × 130 мм печатаются из глины роботизированной установкой по цифровой модели. При этом они могут различаться рельефом, кривизной, перфорацией и рисунком поверхности.",
-      "url": "http://archi.ru/tech/news_102673.html",
-      "image": "https://i.archi.ru/i/1262/514491.jpg",
+      "id": "6ab9702cb6685fa4",
+      "title": "The Complete IKEA Outdoor Storage System That Can Replace Your Deck Box",
+      "summary": "Upgrade your patio with a complete IKEA outdoor storage system that offers more space, better organization, and a cleaner look than a standard deck box.",
+      "url": "https://www.hunker.com/2256549/ikea-entire-outdoor-storage-system-replace-deck-box/",
+      "image": "https://www.hunker.com/img/gallery/the-complete-ikea-outdoor-storage-system-that-can-replace-your-deck-box/l-intro-1789162418.jpg",
       "images": [
-        "https://i.archi.ru/i/1262/514491.jpg"
+        "https://www.hunker.com/img/gallery/the-complete-ikea-outdoor-storage-system-that-can-replace-your-deck-box/l-intro-1789162418.jpg",
+        "https://www.hunker.com/img/gallery/the-complete-ikea-outdoor-storage-system-that-can-replace-your-deck-box/intro-1789162418.jpg",
+        "https://www.hunker.com/img/gallery/the-complete-ikea-outdoor-storage-system-that-can-replace-your-deck-box/the-kolbjrn-shelving-unit-with-cabinets-is-taller-and-more-spacious-1789162420.jpg"
       ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "2dd57a4b4e27e979",
-      "title": "Инвестиция в долговечность: керамическая плитка с пазами для фасадных систем",
-      "summary": "Керамическая плитка с пазами (пропилами) появилась на российском рынке как ответ на запрос, который давно существовал в практике: получить скрытое крепление на вентфасаде без ручной доработки плитки на площадке. KERAMA MARAZZI первой наладила промышленный выпуск такого продукта в России.",
-      "url": "http://archi.ru/tech/news_102581.html",
-      "image": "https://i.archi.ru/i/1262/512340.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/512340.jpg"
-      ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
-    },
-    {
-      "id": "1ffebffe383550a1",
-      "title": "Архетип вместо декора",
-      "summary": "Как легенды Татарстана становятся частью современной архитектуры: в интерьерах ЖК «Зилант Премьер» студия BLOK переосмыслила образы Зиланта и Белого Барса.",
-      "url": "https://archi.ru/russia/102644/arkhetip-vmesto-dekora",
-      "image": "https://i.archi.ru/i/1262/509396.jpg",
-      "images": [
-        "https://i.archi.ru/i/1262/509396.jpg"
-      ],
-      "source": "Archi.ru",
-      "source_url": "https://archi.ru",
-      "published": ""
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-14T18:30:00+00:00"
     },
     {
       "id": "8db8b4774875d4fb",
@@ -296,9 +273,7 @@
       "url": "https://www.hunker.com/2252573/fruit-basket-alternative-diy-stylish-countertop-storage-produce-bin/",
       "image": "https://www.hunker.com/img/gallery/fruit-basket-alternative-diy-stylish-countertop-storage-produce-bin/l-intro-1788877960.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/fruit-basket-alternative-diy-stylish-countertop-storage-produce-bin/l-intro-1788877960.jpg",
-        "https://www.hunker.com/img/gallery/fruit-basket-alternative-diy-stylish-countertop-storage-produce-bin/intro-1788877960.jpg",
-        "https://www.hunker.com/img/gallery/fruit-basket-alternative-diy-stylish-countertop-storage-produce-bin/create-rustic-countertop-fruit-storage-using-plywood-1788877962.jpg"
+        "https://www.hunker.com/img/gallery/fruit-basket-alternative-diy-stylish-countertop-storage-produce-bin/l-intro-1788877960.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -365,19 +340,6 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-09-14T10:20:39+00:00"
-    },
-    {
-      "id": "1f761e58ca5329dc",
-      "title": "The Mac Mini Belongs on a Desk, This Build Runs It From Your Hands",
-      "summary": "The Mac Mini Belongs on a Desk, This Build Runs It From Your Hands Most people who outgrow a Mac Mini just buy a bigger one. One builder went the opposite direction, gutting an M4 Mac Mini down to...",
-      "url": "https://www.yankodesign.com/2026/09/14/the-mac-mini-belongs-on-a-desk-this-build-runs-it-from-your-hands/?utm_source=rss&utm_medium=rss&utm_campaign=the-mac-mini-belongs-on-a-desk-this-build-runs-it-from-your-hands",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/the-mac-mini-belongs-on-a-desk-this-build-runs-it-from-your-hands/mac-mini-cyberdeck-03.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/the-mac-mini-belongs-on-a-desk-this-build-runs-it-from-your-hands/mac-mini-cyberdeck-03.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-14T10:07:38+00:00"
     },
     {
       "id": "5d3934d532ffc67f",
@@ -485,9 +447,9 @@
         "https://www.internimagazine.it/content/uploads/2026/08/Camera-matrimoniale-1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/Porta_cameretta.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/Cabina-armadio-2.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Reply-House_Torino_ph-Gianluca-Di-Ioia-GDI-STUDIO_courtesy-Reply.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -551,9 +513,7 @@
       "url": "https://www.hunker.com/2247367/baskets-alternative-vintage-pie-safe-way-to-store-bathroom-towels/",
       "image": "https://www.hunker.com/img/gallery/forget-baskets-this-vintage-find-is-a-smarter-way-to-store-bathroom-towels/l-intro-1787770117.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/forget-baskets-this-vintage-find-is-a-smarter-way-to-store-bathroom-towels/l-intro-1787770117.jpg",
-        "https://www.hunker.com/img/gallery/forget-baskets-this-vintage-find-is-a-smarter-way-to-store-bathroom-towels/intro-1787770117.jpg",
-        "https://www.hunker.com/img/gallery/forget-baskets-this-vintage-find-is-a-smarter-way-to-store-bathroom-towels/give-your-towels-a-pretty-new-residence-with-a-vintage-pie-safe-1787770118.jpg"
+        "https://www.hunker.com/img/gallery/forget-baskets-this-vintage-find-is-a-smarter-way-to-store-bathroom-towels/l-intro-1787770117.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -648,19 +608,6 @@
       "published": "2026-09-13T22:00:00+00:00"
     },
     {
-      "id": "a0f29c58a470d01c",
-      "title": "Upcycle Old Baskets And Turn Them Into Wall-Hung Storage Shelves",
-      "summary": "With a few simple steps, you can turn any old basket into a charming wall shelf for organizing everything from entryway essentials to bathroom supplies.",
-      "url": "https://www.hunker.com/2247364/upcycle-old-baskets-turn-them-into-wall-hung-storage-shelf/",
-      "image": "https://www.hunker.com/img/gallery/upcycle-old-baskets-and-turn-them-into-wall-hung-storage-shelves/l-intro-1787987449.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/upcycle-old-baskets-and-turn-them-into-wall-hung-storage-shelves/l-intro-1787987449.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-13T22:00:00+00:00"
-    },
-    {
       "id": "4e9b33184a3f640f",
       "title": "This Chair Proves a $2.3M Hypercar & Your Living Room Have More in Common Than You Think",
       "summary": "This Chair Proves a $2.3M Hypercar & Your Living Room Have More in Common Than You Think Most furniture doesn’t have a backstory worth telling. The Maniac Chair does. It looks, from across the room, like it wandered out of a 1950s...",
@@ -670,9 +617,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/maniac-chair/maniac_chair_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/06/with-integrated-chatgpt-play-t-1-foldable-phone-is-effortless-to-use-via-voice-commands/Play-T-1-chat-GPT-mobile-phone-8.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/02/kinetic_powered_hi_viz_bike_reflectors.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/04/08/succession_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/04/top-5-lego-builds-based-on-your-fav-shows-movies/top_5_lego_tv_shows_movies_yanko_design_hero.webp",
+        "https://www.yankodesign.com/images/design_news/2024/10/the-10-best-watches-of-september-2024/Seiko-Presage-Craftsmanship-Urushi-GMT-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/03/this-sideboard-has-lapis-lazuli-and-green-onyx-hand-set-into-marble/midnight-inlay-sideboard-06-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -748,19 +695,6 @@
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
-      "published": "2026-09-13T12:00:00+00:00"
-    },
-    {
-      "id": "ec3bf7a7e79a3251",
-      "title": "Leftover Paint Was the Secret to This $100 Bathroom Redo",
-      "summary": "Just because a bathroom is tiny doesn’t mean it has to feel cramped or uncomfortable. With some light colors and thoughtful décor, small really can be mighty.That was the approach Jasmin Robertson of Brick Dust Baby took when she decided to renovate the only bathroom in her new home. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/white-tiled-bathroom-light-green-vanity-budget-refresh-ba-37689056?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-01/Jasmin_Robertson_before_3_tagged",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-01/Jasmin_Robertson_before_3_tagged"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-09-13T12:00:00+00:00"
     },
     {
@@ -842,7 +776,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/chartres-at-desire_office-la_dezeen_2364_col_12-scaled-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-13T09:00:37+00:00"
     },
@@ -1047,9 +981,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-teen-bedroom-has-4-jobs-the-hasuit-corner-bed-handles-all-of-them/hasuit-twin-corner-bed-desk-storage-bookcase-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/comfortable-and-aesthetic-rocker-is-made-from-a-single-plywood/curvesse-05.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/meritalia-showcases-unique-pesce-furniture-pieces-at-milan-design-week/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/09/yd-spotlight-nicholas-bakers-chair-sketch-challenge-pt-1/nickschairsketches_1_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/01/26/PurposefulnessofShadow_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/03/27/froc_01.png",
+        "https://www.yankodesign.com/images/design_news/2011/11/16/qidian_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1078,9 +1012,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/steel-pipe-stool-that-never-uses-a-single-weld-or-screw/pipe-stool-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/wrap_bench_cover.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/minimal-furniture/minimal_furniture_designs_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/09/top-10-desks/top_10_desk_designs_yanko_design_hero.jpeg"
+        "https://www.yankodesign.com/images/design_news/1970/01/01/Light-room-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/02/16/titochair_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/06/this-multigenerational-family-home-is-brightened-up-with-terrace-gardens-that-merge-with-its-vast-interior-spaces/00_dananghouse_ad9_brickresidence.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1317,10 +1251,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/09/Vanity-Fair-di-Poltrona-Frau1-359x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/09/Vanity-Fair-di-Poltrona-Frau1-359x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vitra_Bascule_Studio_OE_print-07.jpg",
-        "https://www.internimagazine.it/content/uploads/2025/06/01_Spring-System_tavoli-operativi_Antonio-Citterio_UniFor.jpg",
-        "https://www.internimagazine.it/content/uploads/2025/09/Pedrali-wooden-furniture-manufacturing-Manzano-UD_ph.-Filippo-Romano-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/Catilina_Luigi-Caccia-Dominioni_photo-Camille-Vivier.jpeg",
+        "https://www.internimagazine.it/content/uploads/2025/09/Pedrali-wooden-furniture-manufacturing-Manzano-UD_ph.-Filippo-Romano-2.jpg",
+        "https://www.internimagazine.it/content/uploads/2025/06/01_Spring-System_tavoli-operativi_Antonio-Citterio_UniFor.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Vitra_Bascule_Studio_OE_print-07.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Vanity-Fair-di-Poltrona-Frau2.jpg"
       ],
       "source": "Interni magazine",
@@ -1619,19 +1553,6 @@
       "published": "2026-09-08T17:36:46+00:00"
     },
     {
-      "id": "9909868ef3796b4a",
-      "title": "‘Chairman’ Celebrates the Joyful Furniture Design of Yinka Ilori",
-      "summary": "The designer’s first comprehensive furniture book traces more than a decade of transforming vintage chairs through color, pattern, and play",
-      "url": "https://design-milk.com/yinka-ilori-chairman-furniture-book/",
-      "image": "https://design-milk.com/images/2026/05/Yinka-Ilori-Chair-Book-00-e1788888034966.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/05/Yinka-Ilori-Chair-Book-00-e1788888034966.jpg"
-      ],
-      "source": "Design Milk",
-      "source_url": "https://design-milk.com",
-      "published": "2026-09-08T17:34:08+00:00"
-    },
-    {
       "id": "e2d6b95aa2a11815",
       "title": "How to Spray Paint Metal",
       "summary": "All it takes to transform metal furniture and fixtures is a can of spray paint. These tips and tricks will help you get pro results when spray painting metal. The post How to Spray Paint Metal appeared first on Bob Vila .",
@@ -1708,19 +1629,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-09-08T14:00:00+00:00"
-    },
-    {
-      "id": "8fdf52d2e534ffad",
-      "title": "Midland ER310 Pro Emergency Radio Review: Worth the Upgrade?",
-      "summary": "Midland’s new flagship model comes with performance upgrades and a higher price tag. That might not be a bad thing. The post Midland ER310 Pro Emergency Radio Review: Worth the Upgrade? appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/midland-er310-pro-emergency-radio-review/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/09/Midland-ER310-Pro-Emergency-Radio.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/09/Midland-ER310-Pro-Emergency-Radio.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-09-08T11:00:00+00:00"
     },
     {
       "id": "fb62103bf1926603",
@@ -1858,10 +1766,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2025/05/BANNER_1200x8203-768x525.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2025/04/DESIGN-EXPERIENCE-CORSO-ONLINE-MONDADORI-POLITECNICO-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/Giulio-Ghirardi©Michelangelo-Foundation_84378424_downloadOriginal.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/cave-di-prun_7-1-Copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/20260824_143622.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/closing-partY_DA-SINISTRA_STEFANIA-RINALDI_GIOVANNA-BASILE_VTTORIA-MARINO.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/09/closing-partY_DA-SINISTRA_STEFANIA-RINALDI_GIOVANNA-BASILE_VTTORIA-MARINO.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/Giulio-Ghirardi©Michelangelo-Foundation_84378424_downloadOriginal.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/cave-di-prun_7-1-Copia.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2146,24 +2054,6 @@
       "published": "2026-09-02T05:00:22+00:00"
     },
     {
-      "id": "7b8800bb802a6a21",
-      "title": "The 5 Best Colors to Pair With Burgundy, According to Designers",
-      "summary": "This designer-favorite shade will add rich warmth and a layered vibe to your interiors—if you know how to pair it.",
-      "url": "https://www.veranda.com/decorating-ideas/color-ideas/a73584462/colors-that-go-with-burgundy/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/kristen-mccory-burgundy-kitchen-butlers-pantry-6525a29f856a7.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/kristen-mccory-burgundy-kitchen-butlers-pantry-6525a29f856a7.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/angie-hranowsky-ohio-house-teal-powder-room-689a362c29423.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/anna-brockway-chairish-new-york-apartment-living-room-curved-sofa-673e268682b3a.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/kitchen-cabinet-ideas-linen-white-with-burgundy-backs-6627db63b6db6.jpg",
-        "https://hips.hearstapps.com/vidthumb/images/screen-shot-2023-07-27-at-11-05-11-am-64c287d7b6d66.png",
-        "https://hips.hearstapps.com/hmg-prod/images/redd-kaihoi-dallas-home-library-67f042cbe78e9.jpg"
-      ],
-      "source": "Veranda",
-      "source_url": "https://www.veranda.com",
-      "published": "2026-09-01T20:39:26+00:00"
-    },
-    {
       "id": "0f3c1d440cc4d858",
       "title": "Gwyneth Paltrow and Michael Hsu create first Goop restaurant",
       "summary": "US celebrity Gwyneth Paltrow has collaborated with Texas-based studio Michael Hsu Office of Architecture on the first sit-down restaurant for wellness company Goop, giving visitors \"a new way to experience the brand\". Goop Kitchen Del Mar opened on 31 August and is located at the One Paseo shopping complex in San Diego. It is the The post Gwyneth Paltrow and Michael Hsu create first Goop restaurant appeared first on Dezeen .",
@@ -2263,7 +2153,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/desk-lamp-sq-1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-31T09:00:29+00:00"
     },
@@ -2629,7 +2519,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
     },
@@ -2972,7 +2862,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/07/july-products-roundup_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-02T09:00:03+00:00"
     },
