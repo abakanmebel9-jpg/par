@@ -1,13 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-15T07:38:42.208377+00:00",
-  "generated_at_human": "2026-09-15 07:38 UTC",
-  "total_items": 246,
+  "generated_at": "2026-09-15T13:28:05.404233+00:00",
+  "generated_at_human": "2026-09-15 13:28 UTC",
+  "total_items": 243,
   "sources_used": [
     "Apartment Therapy",
     "Archi.ru",
-    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -52,17 +51,30 @@
     "Trendir furniture",
     "Trendir interiors",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
+    "Yanko Design",
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 46,
+  "sources_count": 53,
+  "multi_photo_items": 47,
   "items": [
+    {
+      "id": "b60af0f4b5465eb4",
+      "title": "Динамичный фасад: игра света с нержавеющей сталью",
+      "summary": "Нержавеющая сталь – один из немногих фасадных материалов, который может менять восприятие объёма за счет эффектов отражения и игры со светом. Это материал с сильной собственной эстетикой, но чтобы его потенциал реализовался, а не обернулся проблемами на этапе эксплуатации, важно понимать технологические особенности – от выбора марки стали и обработки поверхности до конструктива крепления.",
+      "url": "http://archi.ru/tech/news_102430.html",
+      "image": "https://i.archi.ru/i/1262/514929.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/514929.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
     {
       "id": "fb9068787d1799de",
       "title": "Собрать, утеплить, разобрать",
@@ -142,6 +154,250 @@
       "published": ""
     },
     {
+      "id": "f6c01c82ae604157",
+      "title": "His Bird of Paradise Grew 16 Feet Tall, Then Mealybugs Moved In",
+      "summary": "A bird of paradise reaching toward a vaulted wood ceiling is hard to miss. At about 16 feet tall, this one has leaves that tower over the furniture and spread across much of the living room. Its size created a much bigger problem once mealybugs appeared. Facebook group member Robert Seeley covered the floor with... The post His Bird of Paradise Grew 16 Feet Tall, Then Mealybugs Moved In appeared first on Homedit .",
+      "url": "https://www.homedit.com/his-bird-of-paradise-grew-16-feet-tall-then-mealybugs-moved-in/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/His-Bird-of-Paradise-Grew-16-Feet-Tall-Then-Mealybugs-Moved-In.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/His-Bird-of-Paradise-Grew-16-Feet-Tall-Then-Mealybugs-Moved-In.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Mealybugs-Were-Hiding-Between-the-Stems.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Treating-a-16-Foot-Plant-Takes-Over-the-Room.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Two-Ladders-Show-How-Far-the-Leaves-Have-Spread.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Bathroom-Sinks-Dont-Have-to-Be-Built-Into-the-Vanity-These-Designs-Put-Them-Right-on-Top.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Couple-Replaced-the-Dated-Tiled-Vanity-With-a-Double-Sink-and-the-Bathroom-Looks-Twice-as-Big.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-15T13:05:26+00:00"
+    },
+    {
+      "id": "cd3f61dceb149ae8",
+      "title": "Sherwin-Williams' 2027 Color Of The Year Brings A Fresh, Whimsical Calm",
+      "summary": "Reflecting a shift toward wellness-inspired and lived-in interiors, Sherwin-Williams chose this warm take on a versatile tone for its 2027 Color of the Year.",
+      "url": "https://www.hunker.com/2257361/sherwin-williams-color-of-the-year-2027-celery-paint/",
+      "image": "https://www.hunker.com/img/gallery/sherwin-williams-2027-color-of-the-year-brings-a-fresh-whimsical-calm/l-intro-1789171741.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/sherwin-williams-2027-color-of-the-year-brings-a-fresh-whimsical-calm/l-intro-1789171741.jpg",
+        "https://www.hunker.com/img/gallery/sherwin-williams-2027-color-of-the-year-brings-a-fresh-whimsical-calm/intro-1789171741.jpg",
+        "https://www.hunker.com/img/gallery/sherwin-williams-2027-color-of-the-year-brings-a-fresh-whimsical-calm/celery-follows-warming-color-trends-and-shines-on-cabinetry-1789171742.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-15T13:01:00+00:00"
+    },
+    {
+      "id": "4d73c2fa5f4c63c7",
+      "title": "Venus Williams Serves Up a New Collection With Crate & Barrel",
+      "summary": "The tennis champion and V Starr founder brings Milanese influences, mid-century modernism, and subtle nods to the court into furniture and decor for adults and kids",
+      "url": "https://design-milk.com/venus-williams-crate-barrel-grand-slam-collection/",
+      "image": "https://design-milk.com/images/2026/09/CB_SP26_GS_04_746_Vert__284.jpeg",
+      "images": [
+        "https://design-milk.com/images/2026/09/CB_SP26_GS_04_746_Vert__284.jpeg",
+        "https://design-milk.com/images/2026/09/CB_SP26_GSK_09_207_VER_001.jpeg",
+        "https://design-milk.com/images/2026/09/CB_SP26_GS_05_746_Ver_110.jpeg",
+        "https://design-milk.com/images/2026/09/CB_SP26_GS_01_746_Vert__204.jpeg",
+        "https://design-milk.com/images/2026/09/CB_SP26_GSK_03_746_Vert_031.jpeg",
+        "https://design-milk.com/images/2026/09/CB_SP26_GS_02_746_Hor_068.jpeg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-09-15T13:00:04+00:00"
+    },
+    {
+      "id": "9de9f9537b278da4",
+      "title": "How Much Should You Weigh? This 1970s Scale Told You",
+      "summary": "A bathroom scale has one job: To tell you how much you weigh. But in the 1980s, the industrial designers at Krups decided to go further, with their Data EG scale. The scale contained a pull-out weight chart in the center. This listed different heights (in centimeters) in rows that indicated the \"ideal\" weights and \"max\" weights for both males and females. You used a little plastic slider—red for the he of the household, orange for the she—to mark your relevant number. The sticker on the left certifies the scale's accuracy. It's quaint, by today's standards, and undoubtedly sought to…",
+      "url": "https://www.core77.com/posts/145366/How-Much-Should-You-Weigh-This-1970s-Scale-Told-You",
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1849992_lead_400_145366_.jpg",
+      "images": [
+        "https://s3files.core77.com/blog/images/lead_n_spotlight/1849992_lead_400_145366_.jpg"
+      ],
+      "source": "Core77",
+      "source_url": "https://www.core77.com",
+      "published": "2026-09-15T13:00:00+00:00"
+    },
+    {
+      "id": "6c62aa6919c5dd12",
+      "title": "The best-dressed people don’t choose from their entire closet each morning: they do this instead",
+      "summary": "It’s 7:14 a.m. You already cleaned out your closet. You sorted everything by type, tossed what didn’t fit, lined it all up neat. So why are you still standing there in a towel, holding a shirt up against three different pants, feeling exactly as stuck as before? You’re not doing anything wrong. You’re doing something […] The post The best-dressed people don’t choose from their entire closet each morning: they do this instead appeared first on Trendir .",
+      "url": "https://www.trendir.com/the-best-dressed-people-dont-choose-from-their-entire-closet-each-morning-they-do-this-instead/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-comparing-two-tops-in-front-of-full-closet.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-comparing-two-tops-in-front-of-full-closet.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/07/Eames-chair-and-Eames-sofa.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/High-Gloss-Graphite.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/05/Tips-to-Update-Your-Kitchen-on-a-Tight-Budget-paint-cabinetry.png",
+        "https://cdn.trendir.com/wp-content/uploads/2026/02/Natural-Coffee-Table-Layers.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/09/white-curtains.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "id": "ddad5670f2f3eb60",
+      "title": "A 90’s Bathroom Felt Dingy Until a DIY Redo Added Warmth and Charm",
+      "summary": "Renovating a dated part of your home poses a difficult question: How do you strike the right balance between making some much-needed changes and preserving the original character of the room? As DIYer Ericka Gularte (@oakandmarsh) found, giving some elements of the room a modern makeover and redoing others entirely made a world of difference when it came to updating her kids’ 1991 standard-build bathroom. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/bathroom-makeover-checkered-floors-1000-dollars-budget-ba-37689075?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-05/ericka-g-bathroom/ericka-g-bathroom-before-tagged-7324",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-05/ericka-g-bathroom/ericka-g-bathroom-before-tagged-7324"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-15T12:00:00+00:00"
+    },
+    {
+      "id": "42323fd93970d5b2",
+      "title": "The Basic TV Stand Is Being Replaced by Furniture That Uses the Whole Wall",
+      "summary": "TV furniture once meant a long cabinet placed beneath the screen, with the rest of the wall left open. These media units take a broader approach, extending storage and display space above, beside, and behind the television while treating the full wall as part of the furniture plan. Wood panels, suspended cabinets, glass cases, narrow... The post The Basic TV Stand Is Being Replaced by Furniture That Uses the Whole Wall appeared first on Homedit .",
+      "url": "https://www.homedit.com/the-basic-tv-stand-is-being-replaced-by-furniture-that-uses-the-whole-wall/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Basic-TV-Stand-Is-Being-Replaced-by-Furniture-That-Uses-the-Whole-Wall.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Basic-TV-Stand-Is-Being-Replaced-by-Furniture-That-Uses-the-Whole-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Horizontal-cabinets-cross-through-a-vertical-book-tower.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Put-Framed-Art-Inside-Her-Refrigerator-and-Treated-the-Shelves-Like-a-Styled-Cabinet.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Bathroom-Sinks-Dont-Have-to-Be-Built-Into-the-Vanity-These-Designs-Put-Them-Right-on-Top.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Couple-Replaced-the-Dated-Tiled-Vanity-With-a-Double-Sink-and-the-Bathroom-Looks-Twice-as-Big.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Dont-Toss-That-Empty-Candle-Jar-It-Has-One-More-Use-This-Fall.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-15T11:37:54+00:00"
+    },
+    {
+      "id": "53680ef4908f4c66",
+      "title": "Glass cabinet looks stocked, not styled: this overlooked styling detail changes the entire display",
+      "summary": "You did the thing every home article told you to do. You pulled your prettiest dishes out of the everyday cabinet and moved them behind the glass doors, so they’d finally get seen. And somehow, the cabinet still looks off. Not bad exactly. Just flat. A little empty on some shelves, a little crowded on […] The post Glass cabinet looks stocked, not styled: this overlooked styling detail changes the entire display appeared first on Trendir .",
+      "url": "https://www.trendir.com/glass-cabinet-looks-stocked-not-styled-this-overlooked-styling-detail-changes-the-entire-display/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/glass-door-display-cabinet-with-dinnerware-collection.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/glass-door-display-cabinet-with-dinnerware-collection.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Raffia-Wrapped-Dresser.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Floor-to-Ceiling-Library-Cabinet-with-Brass-Accents-and-Rolling-Ladder.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Burgundy-and-Honed-Marble-Drama.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/All-White-Coastal-Kitchen-with-Waterfront-Views.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Warm-Wood-Pantry-Corner-with-Glass-Front-Uppers-and-a-Copper-Sink.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-09-15T11:00:00+00:00"
+    },
+    {
+      "id": "305722ceffcee9ba",
+      "title": "Mango trees shade \"restrained and calming\" home in India by InLe architects",
+      "summary": "Timber shutters and the canopies of two large trees shade the interiors of House Beyond the Mango Trees, a home in Kerala by Indian practice InLe Architects. InLe Architects founder Afiz Ubaid described the existing trees on the site in Kannur as its \"biggest opportunity\", providing shade and filtered sunlight while also buffering noise from a The post Mango trees shade \"restrained and calming\" home in India by InLe architects appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/15/house-beyond-mango-trees-inle-architects/",
+      "image": "http://static.dezeen.com/uploads/2026/09/house-beyond-the-mango-trees-indian-home-inle-architects-sq_dezeen_2364_col_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/09/house-beyond-the-mango-trees-indian-home-inle-architects-sq_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-15T10:30:54+00:00"
+    },
+    {
+      "id": "30d10bcdd37f06e4",
+      "title": "Couple Replaced the Dated Tiled Vanity With a Double Sink and the Bathroom Looks Twice as Big",
+      "summary": "Small square tiles covered the vanity countertop and backsplash in this 1962 home’s primary bathroom, surrounding a single sink with rows of dark grout lines. A mirrored medicine cabinet filled the wall above, while patterned vinyl flooring and a beige tub liner added finishes from later renovations. Jess Bond of The Bond House and her... The post Couple Replaced the Dated Tiled Vanity With a Double Sink and the Bathroom Looks Twice as Big appeared first on Homedit .",
+      "url": "https://www.homedit.com/couple-replaced-the-dated-tiled-vanity-with-a-double-sink-and-the-bathroom-looks-twice-as-big/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/Couple-Replaced-the-Dated-Tiled-Vanity-With-a-Double-Sink-and-the-Bathroom-Looks-Twice-as-Big.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Couple-Replaced-the-Dated-Tiled-Vanity-With-a-Double-Sink-and-the-Bathroom-Looks-Twice-as-Big.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Same-Bathroom-Footprint-Now-Holds-a-Double-Vanity.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Two-Sinks-Now-Fit-Where-the-Tiled-Vanity-Had-One.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Maple-Flooring-Replaced-the-Patterned-Vinyl.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Vertical-Paneling-Covered-the-Repaired-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Tiles-countertop-vanity.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-15T10:09:43+00:00"
+    },
+    {
+      "id": "38478718db54198b",
+      "title": "Smeg’s first air fryer with built-in steamer is available now in four gorgeous colors",
+      "summary": "Smeg’s first air fryer with built-in steamer is available now in four gorgeous colors Smeg gave us a first glimpse of its maiden air fryer with its own built-in streamer at Milan Design Week earlier this year. The colorful...",
+      "url": "https://www.yankodesign.com/2026/09/15/smegs-first-air-fryer-with-built-in-steamer-is-available-now-in-four-gorgeous-colors/?utm_source=rss&utm_medium=rss&utm_campaign=smegs-first-air-fryer-with-built-in-steamer-is-available-now-in-four-gorgeous-colors",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/smegs-first-air-fryer-with-built-in-steamer-is-available-now-in-four-gorgeous-colors/SMEG-AFC01-Air-Fryer-3.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/09/smegs-first-air-fryer-with-built-in-steamer-is-available-now-in-four-gorgeous-colors/SMEG-AFC01-Air-Fryer-3.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-15T10:07:05+00:00"
+    },
+    {
+      "id": "3f2ac92b68db5693",
+      "title": "Dump The Shelves: Store Toilet Paper With A Chic & Easy DIY",
+      "summary": "Shift the look and feel of your space from basic to polished. This toilet-paper DIY is a quick and affordable way to bring a spa-like touch to your home.",
+      "url": "https://www.hunker.com/2253627/store-toilet-paper-easiy-diy-plant-stand-marble/",
+      "image": "https://www.hunker.com/img/gallery/store-toilet-paper-easiy-diy-plant-stand-marble/l-intro-1789477944.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/store-toilet-paper-easiy-diy-plant-stand-marble/l-intro-1789477944.jpg",
+        "https://www.hunker.com/img/gallery/store-toilet-paper-easiy-diy-plant-stand-marble/intro-1789477944.jpg",
+        "https://www.hunker.com/img/gallery/store-toilet-paper-easiy-diy-plant-stand-marble/how-to-make-this-chic-and-easy-toilet-paper-holder-1789477946.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-15T10:00:00+00:00"
+    },
+    {
+      "id": "5928e9e478a81fd4",
+      "title": "London has \"the best architecture and interior design community in Europe\" says Duncan Riches",
+      "summary": "As Shoreditch Design Week kicks off its inaugural edition at this year's London Design Festival, we interviewed creative director Duncan Riches about how he aims to bring design back to the east London neighbourhood. If you ask people in London's design scene which of the ever-increasing London Design Festival (LDF) districts are a must-visit, chances The post London has \"the best architecture and interior design community in Europe\" says Duncan Riches appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/15/shoreditch-design-week-ldf-duncan-riches-interview/",
+      "image": "http://static.dezeen.com/uploads/2026/09/ldf-dispatch-duncan-riches-interview_dezeen_2364_col_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/09/ldf-dispatch-duncan-riches-interview_dezeen_2364_col_sq.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-15T09:00:10+00:00"
+    },
+    {
+      "id": "2d73e3e406dadc58",
+      "title": "The Product Design 100 hits the shelves to showcase the state of the industry",
+      "summary": "We cast our eyes over the first volume of The Product Design 100: A Snapshot of Industrial Design Today, a welcome physical monograph created to sum up the modern design landscape",
+      "url": "https://www.wallpaper.com/design-interiors/the-product-design-100-hits-the-shelves-to-showcase-the-state-of-the-industry",
+      "image": "https://cdn.mos.cms.futurecdn.net/aMDu2HEoTtuGsdMbQcBvWb.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/aMDu2HEoTtuGsdMbQcBvWb.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-09-15T09:00:00+00:00"
+    },
+    {
+      "id": "0b9edbc4f890eabd",
+      "title": "Bathroom Sinks Don’t Have to Be Built Into the Vanity: These Designs Put Them Right on Top",
+      "summary": "Built-in and undermount sinks make the basin part of the countertop, leaving much of its form hidden below the surface. Vessel sinks reverse that arrangement. The entire basin remains above the vanity, turning a plumbing fixture into one of the first elements you notice in the bathroom. These bathroom designs show how much that shift... The post Bathroom Sinks Don’t Have to Be Built Into the Vanity: These Designs Put Them Right on Top appeared first on Homedit .",
+      "url": "https://www.homedit.com/bathroom-sinks-dont-have-to-be-built-into-the-vanity-these-designs-put-them-right-on-top/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/Bathroom-Sinks-Dont-Have-to-Be-Built-Into-the-Vanity-These-Designs-Put-Them-Right-on-Top.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Bathroom-Sinks-Dont-Have-to-Be-Built-Into-the-Vanity-These-Designs-Put-Them-Right-on-Top.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-15T08:13:44+00:00"
+    },
+    {
+      "id": "343fe8fb72a27731",
+      "title": "Remodelista Reconnaissance: Silver-Tipped Lightbulbs, Always a Bright Idea",
+      "summary": "Leave it to Copenhagen It couple Frederik Bille Brahe (chef) and Caroline Brasch Nielsen (model/designer) to remind us that a silver-tipped lightbulb can transform an otherwise ho-hum fixture into a design detail worth emulating. (For evidence, see A Family Kitchen in Copenhagen with Uncommon Style.) It’s the kind of easy swap we’ve long admired. But […]",
+      "url": "https://www.remodelista.com/posts/silver-chrome-light-bulbs-remodelista-reconnaissance/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2022/08/frederikbillebrahe-carolinebrasch-kitchen-copenhagen-reform-match-cabinets-5.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2022/08/frederikbillebrahe-carolinebrasch-kitchen-copenhagen-reform-match-cabinets-5.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-15T08:00:54+00:00"
+    },
+    {
       "id": "4b1726f326e2a783",
       "title": "The extraordinary childhood behind Carla Grace’s $40k wildlife art",
       "summary": "How growing up in South Africa shaped her work and turning kitchen cabinets into a fully functioning art studio. The post The extraordinary childhood behind Carla Grace’s $40k wildlife art appeared first on Home Beautiful .",
@@ -179,16 +435,24 @@
       "url": "https://www.homedit.com/they-painted-the-orange-oak-cabinets-white-and-the-dark-floor-suddenly-made-sense/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/They-Painted-the-Orange-Oak-Cabinets-White-and-the-Dark-Floor-Suddenly-Made-Sense.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/They-Painted-the-Orange-Oak-Cabinets-White-and-the-Dark-Floor-Suddenly-Made-Sense.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Curved-Cabinetry-Was-Worth-Keeping.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Tall-Storage-Extended-the-Oak-Finish-Up-the-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Orange-Oak-Met-Charcoal-Tile-Across-the-Original-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Existing-Layout-Stayed-in-Place.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Stainless-Steel-Breaks-Up-the-White-Range-Wall.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/They-Painted-the-Orange-Oak-Cabinets-White-and-the-Dark-Floor-Suddenly-Made-Sense.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-09-15T05:46:00+00:00"
+    },
+    {
+      "id": "b28d61a09011a64a",
+      "title": "Lualdi develops vision for contemporary interiors based on architectural systems",
+      "summary": "Promotion: Italian company Lualdi has evolved its architectural door designs from the likes of Piero Lissoni and Kokaistudios to encompass partitioning and panelling systems, bringing sophistication and coherence to interior schemes. Founded in 1860 as a carpentry shop and known in the 20th century for its interior doors, Lualdi has become increasingly ambitious in the The post Lualdi develops vision for contemporary interiors based on architectural systems appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/15/lualdi-contemporary-interiors-architectural-systems/",
+      "image": "http://static.dezeen.com/uploads/2026/07/lualdi-architectural-systems_dezeen_2364_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/07/lualdi-architectural-systems_dezeen_2364_sq.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-15T04:00:43+00:00"
     },
     {
       "id": "d2837776911a2e43",
@@ -201,8 +465,8 @@
         "https://www.internimagazine.it/content/uploads/2026/08/Cover_Martino-Gamper_3D.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/Arnold-Circus-Stool-fashion-show-2017.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/PALAZZO-LUCE-2018_1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Dove-va-la-Luce-Tav1-FINALE.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/wyHzmFCf-2.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/Screenshot-2026-08-05-alle-11.17.41.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Dove-va-la-Luce-Tav1-FINALE.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -213,11 +477,11 @@
       "title": "Skip Vinegar: There's Another Pantry Staple That Kills Grass Between Pavers",
       "summary": "Grass growing between pavers can quickly make your space look untidy and unkempt. However, there's a simple fix in your pantry that can remove the grass.",
       "url": "https://www.hunker.com/2252447/kill-grass-between-pavers-using-baking-soda/",
-      "image": "https://www.hunker.com/img/gallery/skip-vinegar-theres-another-pantry-staple-that-kills-grass-between-pavers/l-intro-1788861491.jpg",
+      "image": "https://www.hunker.com/img/gallery/kill-grass-between-pavers-using-baking-soda/l-intro-1789477447.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/skip-vinegar-theres-another-pantry-staple-that-kills-grass-between-pavers/l-intro-1788861491.jpg",
-        "https://www.hunker.com/img/gallery/skip-vinegar-theres-another-pantry-staple-that-kills-grass-between-pavers/intro-1788861491.jpg",
-        "https://www.hunker.com/img/gallery/skip-vinegar-theres-another-pantry-staple-that-kills-grass-between-pavers/how-to-apply-baking-soda-to-weeds-1788861492.jpg"
+        "https://www.hunker.com/img/gallery/kill-grass-between-pavers-using-baking-soda/l-intro-1789477447.jpg",
+        "https://www.hunker.com/img/gallery/kill-grass-between-pavers-using-baking-soda/intro-1789477447.jpg",
+        "https://www.hunker.com/img/gallery/kill-grass-between-pavers-using-baking-soda/how-to-apply-baking-soda-to-weeds-1789477448.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -237,48 +501,17 @@
       "published": "2026-09-14T22:00:00+00:00"
     },
     {
-      "id": "d12a7c10aed3a105",
-      "title": "Woodworkers For a Cause 2026: How to Help Before October 3",
-      "summary": "Sixteen years ago I met a woodworker named Duane Moore who was fighting pancreatic cancer. Nicole and I drove out to Ohio to spend a couple of days at his bench, and that trip turned into Woodworkers Fighting Cancer. Since 2010, this community has moved more than $150,000 to charity, five and ten and fifty […] The post Woodworkers For a Cause 2026: How to Help Before October 3 appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/wfc2026/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg",
+      "id": "8d65a4323c3516e5",
+      "title": "Herman Miller updates Aeron Chair to ensure its \"lasting design\"",
+      "summary": "Promotion: American furniture design brand Herman Miller has been honing its Aeron office chair for decades, equipping it with innovative materials and features for modern workplaces. Featuring an ergonomic form that supports sitters of different sizes and technological enhancements for better long-term sitting, Aeron was first designed in 1994 by Bill Stumpf and Don Chadwick. The post Herman Miller updates Aeron Chair to ensure its \"lasting design\" appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/14/aeron-chair-herman-miller/",
+      "image": "http://static.dezeen.com/uploads/2026/09/aeron-chair-herman-miller_dezeen_2364_sq_0.jpg",
       "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg"
+        "http://static.dezeen.com/uploads/2026/09/aeron-chair-herman-miller_dezeen_2364_sq_0.jpg"
       ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-09-14T20:13:14+00:00"
-    },
-    {
-      "id": "26671f6bbf38fd7a",
-      "title": "How Do Solar Farms Affect Property Values?",
-      "summary": "Are solar farms bad neighbors? Experts share exclusive insights on buyer decisions, view lines, noise levels, and impacts on local property.",
-      "url": "https://www.hunker.com/2253968/solar-farms-property-value/",
-      "image": "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/l-intro-1788973774.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/l-intro-1788973774.jpg",
-        "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/intro-1788973774.jpg",
-        "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/visibility-matters-most-when-it-comes-to-solar-farms-and-real-estate-prices-1788973776.jpg",
-        "https://www.hunker.com/img/gallery/how-do-solar-farms-affect-property-values/buyers-and-sellers-also-need-to-consider-local-regulations-impacting-future-solar-farm-development-1788973777.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-14T19:30:00+00:00"
-    },
-    {
-      "id": "6ab9702cb6685fa4",
-      "title": "The Complete IKEA Outdoor Storage System That Can Replace Your Deck Box",
-      "summary": "Upgrade your patio with a complete IKEA outdoor storage system that offers more space, better organization, and a cleaner look than a standard deck box.",
-      "url": "https://www.hunker.com/2256549/ikea-entire-outdoor-storage-system-replace-deck-box/",
-      "image": "https://www.hunker.com/img/gallery/the-complete-ikea-outdoor-storage-system-that-can-replace-your-deck-box/l-intro-1789162418.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/the-complete-ikea-outdoor-storage-system-that-can-replace-your-deck-box/l-intro-1789162418.jpg",
-        "https://www.hunker.com/img/gallery/the-complete-ikea-outdoor-storage-system-that-can-replace-your-deck-box/intro-1789162418.jpg",
-        "https://www.hunker.com/img/gallery/the-complete-ikea-outdoor-storage-system-that-can-replace-your-deck-box/the-kolbjrn-shelving-unit-with-cabinets-is-taller-and-more-spacious-1789162420.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-14T18:30:00+00:00"
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-14T20:00:13+00:00"
     },
     {
       "id": "8db8b4774875d4fb",
@@ -318,12 +551,7 @@
       "url": "https://www.homedit.com/she-put-framed-art-inside-her-refrigerator-and-treated-the-shelves-like-a-styled-cabinet/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Put-Framed-Art-Inside-Her-Refrigerator-and-Treated-the-Shelves-Like-a-Styled-Cabinet.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Put-Framed-Art-Inside-Her-Refrigerator-and-Treated-the-Shelves-Like-a-Styled-Cabinet.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Forget-Basic-Laundry-Cabinets-This-Build-Uses-Two-Depths-to-Get-More-From-the-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/They-Painted-the-Orange-Oak-Cabinets-White-and-the-Dark-Floor-Suddenly-Made-Sense.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Dining-Rooms-Are-Borrowing-This-Seating-Idea-From-Restaurants.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/This-Fireplace-Wall-Was-Packed-With-Concrete-Blocks-That-Were-Never-Meant-to-Be-Seen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/This-100-Year-Old-Barn-Looked-Ready-to-Collapse-Until-They-Built-a-Modern-Home-Around-Its-Old-Frame.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Put-Framed-Art-Inside-Her-Refrigerator-and-Treated-the-Shelves-Like-a-Styled-Cabinet.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -375,29 +603,11 @@
       "url": "https://www.homedit.com/dining-rooms-are-borrowing-this-seating-idea-from-restaurants/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/Dining-Rooms-Are-Borrowing-This-Seating-Idea-From-Restaurants.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Dining-Rooms-Are-Borrowing-This-Seating-Idea-From-Restaurants.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Put-Framed-Art-Inside-Her-Refrigerator-and-Treated-the-Shelves-Like-a-Styled-Cabinet.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Forget-Basic-Laundry-Cabinets-This-Build-Uses-Two-Depths-to-Get-More-From-the-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/They-Painted-the-Orange-Oak-Cabinets-White-and-the-Dark-Floor-Suddenly-Made-Sense.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/This-Fireplace-Wall-Was-Packed-With-Concrete-Blocks-That-Were-Never-Meant-to-Be-Seen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/This-100-Year-Old-Barn-Looked-Ready-to-Collapse-Until-They-Built-a-Modern-Home-Around-Its-Old-Frame.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Dining-Rooms-Are-Borrowing-This-Seating-Idea-From-Restaurants.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-09-14T13:16:56+00:00"
-    },
-    {
-      "id": "ffc264593dbe6ab9",
-      "title": "Dacor Blurs the Line Between Kitchen and Living Space",
-      "summary": "From panel-ready models to flush installation, the leading appliance brand is refining how its products fit into residential interiors — all without sacrificing performance. The post Dacor Blurs the Line Between Kitchen and Living Space appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/dacor-blurs-the-line-between-kitchen-and-living-space/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/09/Azure-Dacor-Invisible-Kitchen-04.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/09/Azure-Dacor-Invisible-Kitchen-04.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-09-14T13:00:00+00:00"
     },
     {
       "id": "54c97f0daf8f90db",
@@ -457,19 +667,6 @@
       "published": "2026-09-14T11:40:32+00:00"
     },
     {
-      "id": "cf79a99b764b88d1",
-      "title": "Forget Basic Laundry Cabinets: This Build Uses Two Depths to Get More From the Wall",
-      "summary": "Detergent bottles covered the washer and dryer while a large section of wall above them went unused. Reddit woodworker u/jlo575 filled that space with a cabinet system built around the laundry setup. Instead of one flat bank of storage, the project pairs enclosed cabinets with a deeper open shelf below. Detergent stays within reach, other... The post Forget Basic Laundry Cabinets: This Build Uses Two Depths to Get More From the Wall appeared first on Homedit .",
-      "url": "https://www.homedit.com/forget-basic-laundry-cabinets-this-build-uses-two-depths-to-get-more-from-the-wall/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/Forget-Basic-Laundry-Cabinets-This-Build-Uses-Two-Depths-to-Get-More-From-the-Wall.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Forget-Basic-Laundry-Cabinets-This-Build-Uses-Two-Depths-to-Get-More-From-the-Wall.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-14T10:20:39+00:00"
-    },
-    {
       "id": "5d3934d532ffc67f",
       "title": "Design Academy Eindhoven students reinvent the bathroom for a resource-scarce future",
       "summary": "Tiles decorated with hair and a dissolving washbasin made of soap are among the student projects featured in Behind Closed Doors, an exhibition by the Design Academy Eindhoven and Kaldewei at Berlin design festival Currents. The exhibition featured standout projects born from a 10-week educational partnership between the bathroom brand and students of the academy's The post Design Academy Eindhoven students reinvent the bathroom for a resource-scarce future appeared first on Dezeen .",
@@ -496,19 +693,6 @@
       "published": "2026-09-14T09:30:03+00:00"
     },
     {
-      "id": "09f254b4390bc8f3",
-      "title": "She Painted Most of This Old Wood Cabinet Blue but Left These Parts Bare",
-      "summary": "Dark honey-toned wood covered this buffet cabinet from top to bottom, including the glass-door hutch, small side cupboards, countertop, drawers, and lower doors. Strong grain patterns made the wood a major part of its original look. Instead of covering every surface, Instagram creator @farb.und.froh split the finish between deep blue paint and exposed wood. Patterned... The post She Painted Most of This Old Wood Cabinet Blue but Left These Parts Bare appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-painted-most-of-this-old-wood-cabinet-blue-but-left-these-parts-bare/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Painted-Most-of-This-Old-Wood-Cabinet-Blue-but-Left-These-Parts-Bare.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Painted-Most-of-This-Old-Wood-Cabinet-Blue-but-Left-These-Parts-Bare.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-14T09:04:10+00:00"
-    },
-    {
       "id": "682a71e5bedce333",
       "title": "5 Tips for Designing a Restorative Bathroom Retreat",
       "summary": "Designer Vanessa Deleon shares the thoughtful details that can turn a primary bath into a more immersive, sensory experience.",
@@ -525,19 +709,6 @@
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
       "published": "2026-09-14T09:00:00+00:00"
-    },
-    {
-      "id": "de56081f1cb17b42",
-      "title": "The Bathroom Mirror Is Starting to Replace the Vanity Light",
-      "summary": "Bathroom mirrors are taking on a job that once belonged to sconces and light bars. LEDs now sit behind the glass, follow its perimeter, or run through sections of the mirror, bringing light to the vanity without another fixture mounted above it. Removing that fixture changes what can happen across the rest of the wall.... The post The Bathroom Mirror Is Starting to Replace the Vanity Light appeared first on Homedit .",
-      "url": "https://www.homedit.com/the-bathroom-mirror-is-starting-to-replace-the-vanity-light/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Bathroom-Mirror-Is-Starting-to-Replace-the-Vanity-Light.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/The-Bathroom-Mirror-Is-Starting-to-Replace-the-Vanity-Light.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-14T08:11:21+00:00"
     },
     {
       "id": "cf9e98790ffc98e6",
@@ -563,7 +734,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/Porta_cameretta.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/Cabina-armadio-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Reply-House_Torino_ph-Gianluca-Di-Ioia-GDI-STUDIO_courtesy-Reply.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Stefano-Boeri-Interiors_AREA-TEATRO-tutto-senza-copertura.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/Vimar_Ospedale-di-Chivasso_08-Copia.jpg"
       ],
       "source": "Interni magazine",
@@ -706,9 +877,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/maniac-chair/maniac_chair_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/this-foldable-wooden-desk-lets-you-setup-a-discreet-home-office-whenever-you-need-it/Foppapedretti-FOLDABLE-DESK-by-Whynot-Design-9.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/transitline_collection_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/09/23/thearcchair01.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/11/alpaka/alpaka_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/11/this-hand-tool-kit-for-urban-users-gives-up-on-sharp-design-language-for-safety-of-use/TYR-Household-hand-tool-kit-by-ZEN-MOKE-6.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/03/alarm-clock/04-alarm_clock_yankodesign.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -741,37 +912,6 @@
       "published": "2026-09-13T14:15:00+00:00"
     },
     {
-      "id": "1c774b1887e82eb1",
-      "title": "I’ve Never Seen a Kitchen Island Use Tile to Cleverly to Hide Clutter (Until Now!)",
-      "summary": "After thousands of kitchen tours, its the most unique (and genius!) DIY we've ever seen. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/countertop-clutter-hiding-trick-37689480?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/august/rachel-l/tours-neworleans-rachel-l-_58",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/august/rachel-l/tours-neworleans-rachel-l-_58"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-09-13T13:15:00+00:00"
-    },
-    {
-      "id": "7012d0399345f76c",
-      "title": "The more you decorate a new home, the harder it gets to make everything work together: here’s the mistake",
-      "summary": "You get the keys. You unpack. You do exactly what every moving guide told you to do. Hang the art first, they said, because it makes empty walls feel like home. So you hang the art. Then you buy the couch you had your eye on. You paint the wall behind it a color you […] The post The more you decorate a new home, the harder it gets to make everything work together: here’s the mistake appeared first on Trendir .",
-      "url": "https://www.trendir.com/the-more-you-decorate-a-new-home-the-harder-it-can-get-to-make-everything-work-together-heres-the-mistake/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/eclectic-living-room-stone-fireplace-gallery-wall.jpg",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/eclectic-living-room-stone-fireplace-gallery-wall.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/02/Hand-Painted-Egg-Moment.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/02/Soft-Minimal-Dream.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/01/Warm-Minimalist-Bloom.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/02/Holiday-Ranch-Grandeur.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/08/gray-sofa-blue-wall-radiator-side-table.png"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-09-13T12:00:00+00:00"
-    },
-    {
       "id": "04d0c8e9b892f047",
       "title": "What’s new in roaming homes big and small from the 2026 Düsseldorf Caravan Salon",
       "summary": "The 2026 Düsseldorf Salon is the European caravan industry’s main event. This year offered up fresh trends, innovations and a host of aspirational machines for those in love with the idea of life on the open road",
@@ -784,6 +924,19 @@
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
+      "published": "2026-09-13T12:00:00+00:00"
+    },
+    {
+      "id": "7012d0399345f76c",
+      "title": "The more you decorate a new home, the harder it gets to make everything work together: here’s the mistake",
+      "summary": "You get the keys. You unpack. You do exactly what every moving guide told you to do. Hang the art first, they said, because it makes empty walls feel like home. So you hang the art. Then you buy the couch you had your eye on. You paint the wall behind it a color you […] The post The more you decorate a new home, the harder it gets to make everything work together: here’s the mistake appeared first on Trendir .",
+      "url": "https://www.trendir.com/the-more-you-decorate-a-new-home-the-harder-it-can-get-to-make-everything-work-together-heres-the-mistake/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/eclectic-living-room-stone-fireplace-gallery-wall.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/eclectic-living-room-stone-fireplace-gallery-wall.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
       "published": "2026-09-13T12:00:00+00:00"
     },
     {
@@ -800,7 +953,7 @@
         "https://cdn.trendir.com/wp-content/uploads/old/house-design/2014/05/24/house-interesting-wooden-staircase-design-child-hideout-1-exterior.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/05/Swing-Out-Pantry-System-with-Full-Height-Door-Racks.jpg"
       ],
-      "source": "Trendir",
+      "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-09-13T11:00:00+00:00"
     },
@@ -876,9 +1029,7 @@
       "url": "https://www.wallpaper.com/architecture/architect-carlo-ratti-objectify-italian-summer-monobloc",
       "image": "https://cdn.mos.cms.futurecdn.net/u494K2jubgdiwLxceDP2K8.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/u494K2jubgdiwLxceDP2K8.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/u494K2jubgdiwLxceDP2K8.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -981,19 +1132,6 @@
       "published": "2026-09-11T20:00:37+00:00"
     },
     {
-      "id": "cb9cc978accb7f3d",
-      "title": "13 Bathrooms With No Second Sink That Still Give Two People Their Own Spot to Get Ready",
-      "summary": "A second sink isn’t the only way to fit two people into a morning routine. A lot of the best bathrooms skip it entirely and use a makeup desk and stool instead, so one person still gets a spot that’s just theirs. These 13 bathrooms show exactly how that works. 13 Bathrooms That Prove You […] The post 13 Bathrooms With No Second Sink That Still Give Two People Their Own Spot to Get Ready appeared first on Trendir .",
-      "url": "https://www.trendir.com/bathrooms-with-no-second-sink-that-still-give-two-people-their-own-spot-to-get-ready/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Bathrooms-With-No-Second-Sink.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/Bathrooms-With-No-Second-Sink.png"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-09-11T20:00:00+00:00"
-    },
-    {
       "id": "98a96a8780882fe1",
       "title": "14 Backsplash Ideas That Turn the Wall Behind Your Stove Into a Real Focal Point",
       "summary": "Most backsplashes stop right where the cabinets start, and the wall behind the stove ends up looking half-finished. These 14 kitchens do the opposite: they treat that whole zone as one big feature, and the whole room reads more considered because of it. 14 Full-Wall Backsplashes That Turn the Stove Zone Into the Kitchen’s Best […] The post 14 Backsplash Ideas That Turn the Wall Behind Your Stove Into a Real Focal Point appeared first on Trendir .",
@@ -1022,8 +1160,8 @@
         "https://sunset.com/wp-content/uploads/2026/09/MAKEOVER-palisades-kitchen-pc-lola-laz.jpg",
         "https://sunset.com/wp-content/uploads/2026/09/kitchen-island-palisades-kitchen-pc-lola-laz.jpg",
         "https://sunset.com/wp-content/uploads/2026/09/breakfast-area-palisades-kitchen-pc-lola-laz.jpg",
-        "https://sunset.com/wp-content/uploads/2026/02/thermal-bathes-fjord-sausalito-0226.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/09/fridge-palisades-kitchen-corner-pc-lola-laz.jpg?w=1024"
+        "https://sunset.com/wp-content/uploads/2026/09/unbridled-retreat-horseback-riding-among-cacti-pr-0926.jpg?crop=0px%2C406px%2C3500px%2C1754px&resize=1200%2C600",
+        "https://sunset.com/wp-content/uploads/2026/09/filson-seattle-waterfront-marketplace-lead-sun-5l9I1337-0926.jpg?w=1200&h=600&crop=1"
       ],
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
@@ -1070,9 +1208,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/a-teen-bedroom-has-4-jobs-the-hasuit-corner-bed-handles-all-of-them/hasuit-twin-corner-bed-desk-storage-bookcase-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/create-furniture-with-an-experimental-wooden-clip-system/Wooden_Furniture_Clip_5.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/a-chair-shaped-by-the-soft-curves-of-a-classic-british-scally-cap/Scally_chair_furniture_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/04/05/secac_03.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/08/my_old_new_series_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/02/nature/Nature-Cognized_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/09/furniture-thatll-hurt-your-feelings/uncomfortable_chair_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1101,9 +1239,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/steel-pipe-stool-that-never-uses-a-single-weld-or-screw/pipe-stool-06.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/your-second-screen-can-finally-work-with-no-cables-and-no-outlet/4URPC-15-6-Wireless-Touchscreen-Portable-Monitor-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/08/this-ceiling-fan-hides-an-80w-hi-fi-speaker-and-smart-lighting-in-one-sleek-unit/WindGroove-AirFi-One-Hi-Fi-Ceiling-Fan-Speaker-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/11/27/hican_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/03/oceanides-table/oceanides_table_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/12/flow-wall-desk-transforms-from-a-work-of-art-into-a-functional-table/1.jpg"
+        "https://www.yankodesign.com/images/design_news/2015/02/26/zchair_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/layer-just-built-the-ai-chair-remote-workers-need/velo-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/05/25/join_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1116,14 +1254,9 @@
       "url": "https://design-milk.com/nicole-alexander-siren-betty-friday-five/",
       "image": "https://design-milk.com/images/2026/09/Dimmi-Dimmi-Photo-by-Kevin-E.-White.jpg",
       "images": [
-        "https://design-milk.com/images/2026/09/Dimmi-Dimmi-Photo-by-Kevin-E.-White.jpg",
-        "https://design-milk.com/images/2026/09/Layla-Ringos-Courtesy-of-Layla-Ringos.jpg",
-        "https://design-milk.com/images/2026/09/Hoffman-House-Photo-by-Ryan-McDonald.jpg",
-        "https://design-milk.com/images/2026/09/Double-Fun-Siren-Betty-Design-photos-by-Garrett-Sweet-1.jpg",
-        "https://design-milk.com/images/2026/09/El-Che-Photo-by-Wade-Hall.jpg",
-        "https://design-milk.com/images/2026/09/Nicole-Alexander-portrait.jpg"
+        "https://design-milk.com/images/2026/09/Dimmi-Dimmi-Photo-by-Kevin-E.-White.jpg"
       ],
-      "source": "Design Milk",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-09-11T13:00:35+00:00"
     },
@@ -1139,19 +1272,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-11T13:00:26+00:00"
-    },
-    {
-      "id": "8782c71a7b9e98bf",
-      "title": "A family house in Dallas offers a combination of sanctuary and expansive living spaces",
-      "summary": "Smitharc architecture + interiors have completed the Northaven Residence in Dallas, find architectural expression of a family dynamic through its mix of grand public spaces and private personal retreats",
-      "url": "https://www.wallpaper.com/architecture/residential/dallas-modern-family-home",
-      "image": "https://cdn.mos.cms.futurecdn.net/ixeWxMwpf6MK9aqQnsiS3D.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/ixeWxMwpf6MK9aqQnsiS3D.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-09-11T13:00:00+00:00"
     },
     {
       "id": "27b0e61091f4f24a",
@@ -1211,19 +1331,6 @@
       "published": "2026-09-11T10:49:00+00:00"
     },
     {
-      "id": "75603df42cd0023e",
-      "title": "Keiji Ashizawa clads House in Yatsugatake in charred cedar",
-      "summary": "An \"angled, folded form\" clad in charred cedar defines this holiday home, designed by Japanese studio Keiji Ashizawa Design to embrace the surrounding landscape while maintaining its inhabitants' privacy. The studio designed the 225-square-metre holiday home for a family to use either alone or with guests. Located on the Yatsugatake mountain plateau in central Japan, the The post Keiji Ashizawa clads House in Yatsugatake in charred cedar appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/11/keiji-ashizawa-house-yatsugatake/",
-      "image": "http://static.dezeen.com/uploads/2026/09/House-in-Yatsugatake-keiji-ashizawa-design_dezeen_2364_col_sqexc.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/09/House-in-Yatsugatake-keiji-ashizawa-design_dezeen_2364_col_sqexc.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-11T10:30:01+00:00"
-    },
-    {
       "id": "9fff23c5cc8641e3",
       "title": "Harvest to home: Making the most of spring’s bounty",
       "summary": "Spring is a season of fresh beginnings, and few things are more rewarding than watching the first vegetables, herbs, and fruits from your garden make their way into the kitchen. After weeks of planting, watering, weeding, and waiting, harvest time offers the perfect opportunity to enjoy the garden at its most generous. But a […] The post Harvest to home: Making the most of spring’s bounty appeared first on SA Garden and Home .",
@@ -1235,32 +1342,6 @@
       "source": "Garden & Home SA",
       "source_url": "https://gardenandhome.co.za",
       "published": "2026-09-11T09:48:40+00:00"
-    },
-    {
-      "id": "e2151a9b206a2bee",
-      "title": "Cattle armchair by Gibson Karlo for Design By Them",
-      "summary": "Dezeen Showroom: the rugged aesthetic of the Australian outback meets the sophistication of contemporary design in the Cattle armchair, created by Gibson Karlo for the brand Design By Them. Karlo took inspiration from the industrial metalwork seen on structures such as silos in the Australian rural landscape for the Cattle chair, adapting a style of The post Cattle armchair by Gibson Karlo for Design By Them appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/11/cattle-chair-gibson-karlo-design-by-them-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/09/cattle-chair-gibson-karlo-design-by-them_dezeen_2364_sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/09/cattle-chair-gibson-karlo-design-by-them_dezeen_2364_sq.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-11T09:30:06+00:00"
-    },
-    {
-      "id": "c6728a283922a389",
-      "title": "Our thoughts on the Dyson CameraJet toothbrush",
-      "summary": "Dezeen Weekly returns with a conversation about Dyson's eye-catching new product launch, plus a building in north London that aims to kickstart a revival of stone architecture. In this episode, Dezeen features editor Nat Barker and design editor Jennifer Hahn are joined by editor Tom Ravenscroft to discuss the Dyson CameraJet. The team have their The post Our thoughts on the Dyson CameraJet toothbrush appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/11/dyson-camerajet-toothbrush-petra-heights-stone-building-dezeen-weekly-podcast/",
-      "image": "http://static.dezeen.com/uploads/2026/09/dyson-camerajet-petra-heights-dezeen-weekly-11-september-2026-sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/09/dyson-camerajet-petra-heights-dezeen-weekly-11-september-2026-sq.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-11T09:00:28+00:00"
     },
     {
       "id": "2304535b252db2ef",
@@ -1279,19 +1360,6 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-09-11T05:13:53+00:00"
-    },
-    {
-      "id": "c27b33fb41142b5b",
-      "title": "Is this former prison Japan’s most unusual luxury stay?",
-      "summary": "A landmark Great Meiji Prison reopens as a 48-suite Hoshinoya hotel, with its cells, barred windows and Romanesque architecture intact",
-      "url": "https://www.wallpaper.com/travel/hotels/hoshinoya-nara-prison-review",
-      "image": "https://cdn.mos.cms.futurecdn.net/9csCjKxTebZgvZuFM7u3C3.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/9csCjKxTebZgvZuFM7u3C3.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-09-11T05:00:00+00:00"
     },
     {
       "id": "c73b3c3335b58e67",
@@ -1341,9 +1409,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/09/Vanity-Fair-di-Poltrona-Frau1-359x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2025/06/01_Spring-System_tavoli-operativi_Antonio-Citterio_UniFor.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/Vitra_Bascule_Studio_OE_print-07.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/Catilina_Luigi-Caccia-Dominioni_photo-Camille-Vivier.jpeg",
         "https://www.internimagazine.it/content/uploads/2025/09/Pedrali-wooden-furniture-manufacturing-Manzano-UD_ph.-Filippo-Romano-2.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Vitra_Bascule_Studio_OE_print-07.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Vanity-Fair-di-Poltrona-Frau2.jpg"
       ],
       "source": "Interni magazine",
@@ -1388,19 +1456,6 @@
       "source": "Bob Vila",
       "source_url": "https://www.bobvila.com",
       "published": "2026-09-10T17:46:19+00:00"
-    },
-    {
-      "id": "7be1c6369a1d5b91",
-      "title": "Reimagining of historic Bristol boatyard among Cardiff University projects",
-      "summary": "Dezeen School Shows: a \"cohesive yet layered industrial cluster\" of boatyard buildings on Bristol's harbourside is among the architecture projects from Cardiff University. Also featured is the concept of a neurodivergent-informed kitchen-garden school and a proposal for a women's housing scheme geared towards single mothers and older women. Cardiff University Institution: Cardiff University School: Welsh The post Reimagining of historic Bristol boatyard among Cardiff University projects appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/10/reimagining-historic-bristol-boatyard-cardiff-university-schoolshows/",
-      "image": "http://static.dezeen.com/uploads/2026/09/cardiff-university-architecture-school-show_dezeen_2364_col_8-copy.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/09/cardiff-university-architecture-school-show_dezeen_2364_col_8-copy.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-10T15:00:51+00:00"
     },
     {
       "id": "b6bc301c9e1a4073",
@@ -1687,32 +1742,6 @@
       "source": "Woodshop News",
       "source_url": "https://www.woodshopnews.com",
       "published": "2026-09-08T15:44:09+00:00"
-    },
-    {
-      "id": "23ff1633694add34",
-      "title": "ShopNotes Podcast Episode 284 — Sorry, Jared",
-      "summary": "The ShopNotes Podcast crew catches up on the latest in woodworking, including Logan’s trip to the International Woodworking Fair (IWF) in Atlanta and some of the newest woodworking tools and... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-284-sorry-jared/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/08100946/screenshot-2026-09-08-at-9.09.01am.png",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/09/08100946/screenshot-2026-09-08-at-9.09.01am.png"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-09-08T14:10:14+00:00"
-    },
-    {
-      "id": "b3fb7f4caa2f20cb",
-      "title": "Handsome, Utilitarian Pop-Up Furniture by Industrial Designer Tom Ducarouge",
-      "summary": "I'm really digging these utilitarian furniture pieces, by Paris-based industrial designer Tom Ducarouge . They're made from sheets of 25mm Baltic Birch plywood with a roundover profile on the edges, what look to be 3mm brackets made of steel or perhaps aluminum, and exposed socket-head cap screws. They were designed for New Balance's Marseille Running House, a pop-up space built to support runners of the Marseille-Cassis half-marathon. The mountain-like profile cut into the table legs are meant to echo the Col de la Gineste, a limestone pass that runners ascend from Marseille and descend…",
-      "url": "https://www.core77.com/posts/145285/Handsome-Utilitarian-Pop-Up-Furniture-by-Industrial-Designer-Tom-Ducarouge",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1848868_lead_400_145285_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1848868_lead_400_145285_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-09-08T14:00:00+00:00"
     },
     {
       "id": "7c690c1b722d152a",
@@ -2377,19 +2406,6 @@
       "published": "2026-08-26T10:00:18+00:00"
     },
     {
-      "id": "ec30a936e7266e0f",
-      "title": "10 Easy Pieces: Our Editors’ Favorite Elegant, Everyday Drinking Glasses",
-      "summary": "An essential for any kitchen: well-proportioned all-purpose drinking glasses. Here’s what we’ve got on our shelves. N.B.: This post was originally published on July 27, 2011. We have updated it with new and additional product selections and current pricing. For more glassware we love, see: 10 Easy Pieces: Remodelista Editors’ Favorite Everyday Wine Glasses Object […]",
-      "url": "https://www.remodelista.com/posts/10-easy-pieces-basic-drinking-glasses/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2023/03/march-luisa-clear-water-glass.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2023/03/march-luisa-clear-water-glass.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-08-26T08:00:00+00:00"
-    },
-    {
       "id": "c1b12dd25e60c7f8",
       "title": "Revised Stick Chair Video is Free for Previous Customers",
       "summary": "We just released an entirely revised video on how to build a comb-back stick chair. But before you consider purchasing it, check your email. If you bought the original video sometime during the last four years, you should’ve received an email giving you free access to the new video. If you didn’t get the email,...",
@@ -2401,19 +2417,6 @@
       "source": "Lost Art Press",
       "source_url": "https://blog.lostartpress.com",
       "published": "2026-08-26T01:52:42+00:00"
-    },
-    {
-      "id": "3241a25fff70de1c",
-      "title": "What is Fine Woodworking?",
-      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-25T16:15:12+00:00"
     },
     {
       "id": "be28624a0945a1a9",
@@ -2790,19 +2793,6 @@
       "published": "2026-08-13T05:00:37+00:00"
     },
     {
-      "id": "a6632beea3ad2424",
-      "title": "Uppercut unveils summer exhibition in the stately rooms of Chateau de Spycker",
-      "summary": "Antwerp-based gallery Uppercut is presenting the works of six contemporary designers in the ornate halls and salons of a neo-gothic villa near Bruges. Elaborate glass vessels by Danish designer Alexander Kirkeby and melted polystyrene furniture by French designer Nicolas Zanoni are among the pieces on show inside the rooms of the 19th-century Chateau de Spycker The post Uppercut unveils summer exhibition in the stately rooms of Chateau de Spycker appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/12/uppercut-summer-exhibition-god-speed-chateau-de-spycker/",
-      "image": "http://static.dezeen.com/uploads/2026/08/godspeed-summer-exhibition-uppercut_dezeen_2364_sq_1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/08/godspeed-summer-exhibition-uppercut_dezeen_2364_sq_1.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-12T08:00:26+00:00"
-    },
-    {
       "id": "80c30dbbb5e2ffba",
       "title": "XXII Национальная премия в области промышленного дизайна мебели «Золотая кабриоль»",
       "summary": "Приглашаем принять участие в XXII Национальной премии в области промышленного дизайна мебели «Золотая кабриоль». В конкурсе на соискание Премии могут принимать участие российские производители мебели (компании, индивидуальные предприниматели), практикующие специалисты в сфере дизайна, студенты профильных вузов. Номинации Премии Корпусная мебель Мягкая мебель Мебель для общественных помещений Мебель для кухни Будущие звезды Критерии оценки работ Оригинальность, новизна дизайна и конструкций изделия; Функциональные, эргономические и экологические качества изделия и его соответствие…",
@@ -2892,19 +2882,6 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-03T17:05:44+00:00"
-    },
-    {
-      "id": "259be9702bb6451a",
-      "title": "Stop Buying Tools Until You Know What You Want to Build",
-      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "70f52947d252c821",
@@ -3094,19 +3071,6 @@
       "source": "Interiors Addict AU",
       "source_url": "https://theinteriorsaddict.com",
       "published": "2026-07-22T21:00:00+00:00"
-    },
-    {
-      "id": "c77fea1f38bf0c81",
-      "title": "The Blotch-Free Finish Guide",
-      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-07-22T19:19:57+00:00"
     },
     {
       "id": "c00cba595270b915",
