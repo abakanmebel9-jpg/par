@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-21T19:19:58.396588+00:00",
-  "generated_at_human": "2026-09-21 19:19 UTC",
-  "total_items": 241,
+  "generated_at": "2026-09-21T23:13:21.062696+00:00",
+  "generated_at_human": "2026-09-21 23:13 UTC",
+  "total_items": 236,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -41,8 +41,6 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
-    "Popular Woodworking",
-    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -50,6 +48,7 @@
     "Trendir",
     "Trendir furniture",
     "Trendir interiors",
+    "Veranda",
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
@@ -60,21 +59,116 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
-  "multi_photo_items": 64,
+  "sources_count": 53,
+  "multi_photo_items": 65,
   "items": [
     {
-      "id": "f54a262c4677b98c",
-      "title": "ShopNotes Podcast Episode 286 — Don’t Build Another Crumby Breadboard",
-      "summary": "In this episode of the ShopNotes Podcast, Phil, Logan, and John talk woodworking tools, hand-tool sharpening, current shop projects, and what’s happening behind the scenes at Woodsmith and Popular Woodworking.... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-286-dont-build-another-crumby-breadboard/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/21130631/screenshot-2026-09-21-at-12.06.11pm.png",
+      "id": "26c027fc01b1cb9b",
+      "title": "The KitchenAid Luminaire Mixer That Glows On Your Countertop",
+      "summary": "The KitchenAid Luminaire Mixer That Glows On Your Countertop I’ve recently started becoming more serious about cooking. I’m still in the beginner phase, so all I really need right now is a good set...",
+      "url": "https://www.yankodesign.com/2026/09/21/the-kitchenaid-luminaire-mixer-that-glows-on-your-countertop/?utm_source=rss&utm_medium=rss&utm_campaign=the-kitchenaid-luminaire-mixer-that-glows-on-your-countertop",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/the-kitchenaid-luminaire-mixer-that-glows-on-your-countertop/luminaire-00.jpg",
       "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/09/21130631/screenshot-2026-09-21-at-12.06.11pm.png"
+        "https://www.yankodesign.com/images/design_news/2026/09/the-kitchenaid-luminaire-mixer-that-glows-on-your-countertop/luminaire-00.jpg"
       ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-09-21T17:07:51+00:00"
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-21T22:30:27+00:00"
+    },
+    {
+      "id": "684548a16a267126",
+      "title": "Your Bathroom Counter Looks Messy for One Reason: These 10 Setups Make Hair Tools Practically Disappear",
+      "summary": "Small bathroom, no drawer big enough for a dryer, and a countertop already carrying a soap dispenser and a toothbrush cup. That’s most of us. These10 setups solve it without adding a single inch of counter, and they still keep the dryer, the wand, and the flat iron right where your hand goes. 10 Bathroom […] The post Your Bathroom Counter Looks Messy for One Reason: These 10 Setups Make Hair Tools Practically Disappear appeared first on Trendir .",
+      "url": "https://www.trendir.com/bathrooms-with-no-counter-space-for-hair-tools-that-still-keep-them-in-reach/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Bathrooms-With-No-Counter-Space-for-Hair-Tools-That-Still-Keep-Them-in-Reach.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/Bathrooms-With-No-Counter-Space-for-Hair-Tools-That-Still-Keep-Them-in-Reach.png",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Teal-from-Floor-to-Ceiling-with-Globe-Pendants.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/cozy-living-room-sofa-wooden-coffee-table.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/09/Dysons-bladeless-fans.png",
+        "https://cdn.trendir.com/wp-content/uploads/2026/04/Classic-Paver-Retreat.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/2012/03/21/recycled-teak-wood-furniture-karpenter-roadie-1.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-09-21T22:00:00+00:00"
+    },
+    {
+      "id": "81b59f82fcbd09c0",
+      "title": "These Kitchen Cabinets Are Unrecognizable After a $600 DIY Makeover",
+      "summary": "Courtney Hierath had a lot to love about her little bungalow, but the kitchen, with its buttermilk-yellow walls and dark wood cabinets, wasn’t on the list.“I despised it from day one,” says Courtney. “But the idea of tackling this huge project was daunting, so I kept putting it off as long as I could. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/before-and-after-budget-kitchen-redo-ba-37691232?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2019-10/Courtney_Hierath_before_1_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2019-10/Courtney_Hierath_before_1_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-21T22:00:00+00:00"
+    },
+    {
+      "id": "b5c54e26165f345b",
+      "title": "Trade In Your Paper Towel Holder: A Space-Saving System That Keeps Them Off Your Counter",
+      "summary": "Freestanding paper towel spindles are convenient, but take up precious countertop space. This clever wall support is sturdy, easy to make, and attractive.",
+      "url": "https://www.hunker.com/2258975/paper-towel-holder-french-cleat-system-keep-off-your-counter/",
+      "image": "https://www.hunker.com/img/gallery/trade-in-your-paper-towel-holder-a-space-saving-system-that-keeps-them-off-your-counter/l-intro-1789482531.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/trade-in-your-paper-towel-holder-a-space-saving-system-that-keeps-them-off-your-counter/l-intro-1789482531.jpg",
+        "https://www.hunker.com/img/gallery/trade-in-your-paper-towel-holder-a-space-saving-system-that-keeps-them-off-your-counter/intro-1789482531.jpg",
+        "https://www.hunker.com/img/gallery/trade-in-your-paper-towel-holder-a-space-saving-system-that-keeps-them-off-your-counter/mount-your-paper-towel-holder-using-a-french-cleat-system-1789482533.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-21T21:30:00+00:00"
+    },
+    {
+      "id": "771f69f3cac5ca10",
+      "title": "The Trick to an Open Shower That Doesn’t Soak Everything: 8 Layouts That Get It Right",
+      "summary": "Open showers look clean until water ends up everywhere it shouldn’t. These 8 bathrooms skipped the door entirely and used smart layouts, glass panels, and half walls to keep the floor dry without closing anything off. 8 Open Shower Designs With Glass Panels, Half Walls, and Layouts Built to Contain Water Shower doors are one […] The post The Trick to an Open Shower That Doesn’t Soak Everything: 8 Layouts That Get It Right appeared first on Trendir .",
+      "url": "https://www.trendir.com/bathrooms-with-no-shower-door-that-still-keep-every-drop-off-the-floor/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Bathrooms-With-No-Shower-Door-That-Still-Keep-Every-Drop-Off-the-Floor.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/Bathrooms-With-No-Shower-Door-That-Still-Keep-Every-Drop-Off-the-Floor.png",
+        "https://cdn.trendir.com/wp-content/uploads/2017/05/large-coffee-tables.png",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/troy-adams-design-tansuchill-with-hidden-pantry.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/2016/03/12/40-elegant-modern-sofas-for-cool-living-rooms-12.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/08/31/levis-faucet-concept-daniel-brunsteiner.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-arranging-flowers-in-glass-vase-kitchen.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-09-21T21:24:01+00:00"
+    },
+    {
+      "id": "e75d6707533641e3",
+      "title": "12 Bookshelf Plans You Can Build in a Weekend",
+      "summary": "Make use of one of these bookshelf plans to create a new home for your books, shelf decorations, and other knickknacks. The post 12 Bookshelf Plans You Can Build in a Weekend appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/articles/bookshelf-plans/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2023/11/iStock-505773698-bookshelf-plans-white-built-in-bookcase.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2023/11/iStock-505773698-bookshelf-plans-white-built-in-bookcase.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-09-21T21:21:41+00:00"
+    },
+    {
+      "id": "48cb19fc73b3f0a1",
+      "title": "The 12 Kitchen Trends Designers Say Are About to Be Everywhere in 2027",
+      "summary": "From sculleries to smart tech, designers believe these trends will shape the heart of the home in the year ahead.",
+      "url": "https://www.veranda.com/home-decorators/design-trends/a73812164/2027-kitchen-trends/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/60cf03ce-66ee-497f-85ec-cc6c28282620.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/60cf03ce-66ee-497f-85ec-cc6c28282620.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/amymorris-scullery-atlanta-veranda-jpg-1566320066.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/paul-bates-birmingham-cottage-kitchen-1676059589.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/76e88624-d75a-4219-915c-db92bf227cb0.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/laura-kirar-merida-mexico-hacienda-kitchen-665f64c787c1c.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/cba761eb-10d0-4262-a139-3e2d978be7c9.jpg"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-09-21T19:34:24+00:00"
     },
     {
       "id": "739804b7103c9a87",
@@ -135,9 +229,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/nook-stack-is-the-floor-lamp-that-moonlights-as-a-bookshelf/nook-stack-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/Tippi-Chair-Concept.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/09/this-seat-was-designed-to-let-you-sit-cross-legged-for-better-posture-and-health/08-soulseat_yankodesign.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/03/edison/edison_04.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/10/this-lego-like-shelf-system-could-finally-fix-ikeas-biggest-problem/tumba-shelf-concept-sustainable-materials-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/02/auto-draft/fossil_free_crib_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/381132/Concept-STRAMP-Chair-and-Table.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -238,9 +332,7 @@
       "url": "https://www.hunker.com/2263566/2000s-bold-bedroom-trend-zebra-print-return/",
       "image": "https://www.hunker.com/img/gallery/2000s-bold-bedroom-trend-zebra-print-return/l-intro-1789980761.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/2000s-bold-bedroom-trend-zebra-print-return/l-intro-1789980761.jpg",
-        "https://www.hunker.com/img/gallery/2000s-bold-bedroom-trend-zebra-print-return/intro-1789980761.jpg",
-        "https://www.hunker.com/img/gallery/2000s-bold-bedroom-trend-zebra-print-return/how-to-style-and-modernize-zebra-print-textiles-from-the-2000s-1789980763.jpg"
+        "https://www.hunker.com/img/gallery/2000s-bold-bedroom-trend-zebra-print-return/l-intro-1789980761.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -260,19 +352,6 @@
       "published": "2026-09-21T12:00:00+00:00"
     },
     {
-      "id": "7d2ad5befb733758",
-      "title": "Not Cabinets, Not Shelves: IKEA Has An Affordable Way To Add Storage To Small Bathrooms",
-      "summary": "Running out of places to stash your bathroom essentials? This affordable IKEA find can hold everything from toiletries to towels while taking up minimal space.",
-      "url": "https://www.hunker.com/2256674/affordable-ikea-utility-cart-small-bathroom-storage/",
-      "image": "https://www.hunker.com/img/gallery/not-cabinets-not-shelves-ikea-has-an-affordable-way-to-add-storage-to-small-bathrooms/l-intro-1789204799.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-cabinets-not-shelves-ikea-has-an-affordable-way-to-add-storage-to-small-bathrooms/l-intro-1789204799.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-21T12:00:00+00:00"
-    },
-    {
       "id": "ba991002e911cf42",
       "title": "5 Best Space-Saving Kitchen Gadgets & Tools That Actually Earn Their Shelf Space",
       "summary": "5 Best Space-Saving Kitchen Gadgets & Tools That Actually Earn Their Shelf Space Most kitchen frustration is not about cooking. It is about the objects that have accumulated around the cooking: the appliances sitting unused on the counter,...",
@@ -281,7 +360,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/09/space-saving-kitchen-gadgets-that-actually-earn-their-shelf-space/5_best_space_saving_kitchen_gadgets_tools_yanko_design_hero.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-21T11:39:36+00:00"
     },
@@ -420,19 +499,6 @@
       "published": "2026-09-21T08:49:07+00:00"
     },
     {
-      "id": "dd9569278925522a",
-      "title": "Power Strips Have Always Been Floor Objects, Pedestal Disagrees",
-      "summary": "Power Strips Have Always Been Floor Objects, Pedestal Disagrees Power strips have sat on the floor under desks for decades, tangled and forgotten, without anyone treating that as a design problem worth solving. Pedestal’s...",
-      "url": "https://www.yankodesign.com/2026/09/21/power-strips-have-always-been-floor-objects-pedestal-disagrees/?utm_source=rss&utm_medium=rss&utm_campaign=power-strips-have-always-been-floor-objects-pedestal-disagrees",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/power-strips-have-always-been-floor-objects-pedestal-disagrees/pedestal-power-bar-tray-02.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/power-strips-have-always-been-floor-objects-pedestal-disagrees/pedestal-power-bar-tray-02.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-21T08:15:49+00:00"
-    },
-    {
       "id": "434e361e62bd501e",
       "title": "Tried and tested: The LG Styler Steam Closet is in a league of its own",
       "summary": "Here at Home Beautiful we're all for clever cleaning hacks, which is why we road-tested this time-saving steam closet for clothes – with game-changing results. The post Tried and tested: The LG Styler Steam Closet is in a league of its own appeared first on Home Beautiful .",
@@ -484,9 +550,9 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/09/1-359x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/09/1-359x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_2-noorth_Franq_26-03_1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/IDUME-Spa_04.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_1-MODO-PROJECT-NEW-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Progetto-senza-titolo.jpg"
       ],
@@ -506,7 +572,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/3-26057-ITL-ICS-X-Line-06-de-v.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/4-26057-ITL-ICS-X-Line-05-de-v.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/5-26057-ITL-ICS-Salvaspazio-01-co-v.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_1-MODO-PROJECT-NEW-.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -524,7 +590,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/3-noorth_Franq_26-03_5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/4-noorth_Franq_26-02_1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/5_-noorth_Franq_26-04_1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/tBGsoSix-2.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -661,32 +727,6 @@
       "published": "2026-09-21T04:00:17+00:00"
     },
     {
-      "id": "31b285b52e9d9696",
-      "title": "Not Bins: IKEA Has A Smart Solution For Storing Kitchen Items Without The Clutter",
-      "summary": "Small kitchen items have a habit of getting lost or causing clutter. This IKEA find creates a dedicated spot for them in the drawer. And it's space-saving, too.",
-      "url": "https://www.hunker.com/2259444/ikea-uppdatera-drawer-organizer-storing-kitchen-items-without-clutter/",
-      "image": "https://www.hunker.com/img/gallery/not-bins-ikea-has-a-smart-solution-for-storing-kitchen-items-without-the-clutter/l-intro-1789498257.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-bins-ikea-has-a-smart-solution-for-storing-kitchen-items-without-the-clutter/l-intro-1789498257.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-21T03:00:00+00:00"
-    },
-    {
-      "id": "d9767765bb3bf8e6",
-      "title": "Skip Traditional Tile Backsplashes: Erin Napier's Charming Alternative Is Anything But Ordinary",
-      "summary": "Traditional tile can fall flat if you want to create a kitchen full of character. Erin Napier shows how finding something more unique can add stunning color.",
-      "url": "https://www.hunker.com/2259459/skip-traditional-tile-backsplashes-erin-napier-unique-star-pattern/",
-      "image": "https://www.hunker.com/img/gallery/skip-traditional-tile-backsplashes-erin-napiers-charming-alternative-is-anything-but-ordinary/l-intro-1789499391.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-traditional-tile-backsplashes-erin-napiers-charming-alternative-is-anything-but-ordinary/l-intro-1789499391.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-21T01:30:00+00:00"
-    },
-    {
       "id": "4b85484cb35defc1",
       "title": "Don’t donate your IKEA furniture just yet, it might be worth a small fortune",
       "summary": "The flat-pack favourites collectors covet The post Don’t donate your IKEA furniture just yet, it might be worth a small fortune appeared first on Homes To Love .",
@@ -696,9 +736,9 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-21t105531.254-6ab080c65aebf.png?format=auto&v=1789952198",
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/belle_cover-marketing_v0.2-6a9df6fd60508-scaled.jpg?format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-21t105531.254-6ab080c65aebf.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-14t165028.990-6aa79b136e131.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2023/11/hero-crop-2026-09-21t152424.419-6ab0bf8a7d6a1.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/3-6aacca24af8b4.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/shark-cordless-vacuum-review-6aacc74ac5464.png?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/3-6aacca24af8b4.jpg?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -711,28 +751,10 @@
       "url": "https://www.trendir.com/lift-top-coffee-tables-that-hide-a-whole-mess-underneath/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Living-Rooms-Where-the-Coffee-Table.png",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/Living-Rooms-Where-the-Coffee-Table.png",
-        "https://cdn.trendir.com/wp-content/uploads/2017/05/Tips-to-Update-Your-Kitchen-on-a-Tight-Budget-paint-cabinetry.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/interiors/2016/01/30/6-historic-apartment-black-interior.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2018/04/stripsun-garden-lights-outdoor-solar.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/10/Penny-countertop.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/07/Strada-Premium-Wall-Unit.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/Living-Rooms-Where-the-Coffee-Table.png"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
-      "published": "2026-09-21T00:00:00+00:00"
-    },
-    {
-      "id": "0793720c88d62781",
-      "title": "Hide Your Ugly Trash Can With A Clever Trick That's Perfect For Rustic Kitchens",
-      "summary": "For the perfect rustic trash can cover, check salvage yards and online marketplaces for a vintage item traditionally associated with commercial settings.",
-      "url": "https://www.hunker.com/2261076/hide-trash-can-rustic-kitchens-wine-whiskey-barrel/",
-      "image": "https://www.hunker.com/img/gallery/hide-your-ugly-trash-can-with-a-clever-trick-thats-perfect-for-rustic-kitchens/l-intro-1789650065.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/hide-your-ugly-trash-can-with-a-clever-trick-thats-perfect-for-rustic-kitchens/l-intro-1789650065.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
       "published": "2026-09-21T00:00:00+00:00"
     },
     {
@@ -742,12 +764,7 @@
       "url": "https://www.trendir.com/dining-tables-narrow-enough-to-pass-as-a-hallway-console-until-dinner/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Dining-Tables-Narrow.png",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/Dining-Tables-Narrow.png",
-        "https://cdn.trendir.com/wp-content/uploads/2016/10/Irregular-textile-pattern.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/05/Tips-to-Update-Your-Kitchen-on-a-Tight-Budget-paint-cabinetry.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Triple-Ring-Pendants-in-a-Grand-Open-Plan-Living-Space.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Dark-Espresso-with-Arched-Windows-and-Marble-Tile-Floor.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/interiors/2015/11/26/3-minimalist-home-outdoors-inside-color-green.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/Dining-Tables-Narrow.png"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -871,19 +888,6 @@
       "published": "2026-09-20T12:00:00+00:00"
     },
     {
-      "id": "4025b0b5c6b51f97",
-      "title": "Designers know why home pink rooms look childish, and the fix is a trick they rarely share",
-      "summary": "You did everything the guides told you to do. You swapped the loud Barbie pink for a softer blush. You picked a dusty rose sofa. You painted the wall a pale peach that looked so grown-up on the paint chip. And the room still looks like a teenager’s bedroom. Not in the fun way. In […] The post Designers know why home pink rooms look childish, and the fix is a trick they rarely share appeared first on Trendir .",
-      "url": "https://www.trendir.com/designers-know-why-home-pink-rooms-look-childish-and-the-fix-is-a-trick-they-rarely-share/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-looking-at-single-sock-on-bedroom-rug.jpg",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-looking-at-single-sock-on-bedroom-rug.jpg"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-09-20T12:00:00+00:00"
-    },
-    {
       "id": "377ef2cb4b3884c4",
       "title": "Inside Courtney & Sev’s dream coastal kitchen reveal",
       "summary": "With calming curves and light aplenty The post Inside Courtney & Sev’s dream coastal kitchen reveal appeared first on Homes To Love .",
@@ -892,9 +896,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/courtney-sev-the-block-2026-kitchen-reveal--6aafb91049fb2.jpg?format=auto&v=1789901084",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/courtney-sev-the-block-2026-kitchen-reveal--6aafb91049fb2.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-14t165028.990-6aa79b136e131.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2023/11/hero-crop-2026-09-21t152424.419-6ab0bf8a7d6a1.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/3-6aacca24af8b4.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/shark-cordless-vacuum-review-6aacc74ac5464.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-15-6a756fba2ef01-scaled.jpg?w=2303&format=auto"
       ],
       "source": "Homes To Love AU",
@@ -1018,19 +1022,6 @@
       "published": "2026-09-20T07:45:22+00:00"
     },
     {
-      "id": "a90e524bfffc5a23",
-      "title": "No Floor Space? These 12 Laundry Rooms Found a Much Smarter Place to Dry Clothes",
-      "summary": "A drying rack that sits on the floor or leans on the wall is one more thing to trip over or find a spot for. These 12 laundry rooms skip it entirely, using the ceiling, the cabinets, or a pull-out drawer instead, and still get a full load dry without anything cluttering up the room. […] The post No Floor Space? These 12 Laundry Rooms Found a Much Smarter Place to Dry Clothes appeared first on Trendir .",
-      "url": "https://www.trendir.com/laundry-rooms-with-no-floor-or-wall-rack-that-still-dry-a-full-load-indoors/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Laundry-Rooms-With-No-Floor-or-Wall-Rack-That-Still-Dry-a-Full-Load-Indoors-1.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/Laundry-Rooms-With-No-Floor-or-Wall-Rack-That-Still-Dry-a-Full-Load-Indoors-1.png"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-09-20T02:00:00+00:00"
-    },
-    {
       "id": "79f913b1b023eefa",
       "title": "A Tiny Bathroom Went from Grimy to Cozy After a \"Gothic-Aquatic\" Redo",
       "summary": "“That feeling of scrubbing a bathroom until your arms ache, only for it to still look kind of grimy, is the ultimate motivator,” DIYer Joe Bergantino says. Joe is one half of the DIY duo @HomosWithHammers, an account he shares with his husband, Ricky Gonzalez. They’ve slowly been restoring their 1800s Chicago home, and that grimy feeling was the couple’s inspiration to make the tiny powder room “pack a giant punch. READ MORE...",
@@ -1084,26 +1075,13 @@
         "https://www.yankodesign.com/images/design_news/2026/09/strata-chair/strata_chair_yanko_design_02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/12/transform-your-workflow-with-flexbar-a-macbook-touch-bar-for-everyone/flexbar-touch-bar-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/03/stunning-style-meets-soundproof-serenity-from-fashionable-earplugs/Functional_Earplugs_that_look_like_Fashionable_Earrings_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/07/11/jack_in_the_box.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/09/phase_acoustic_system_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/05/flyde_floating_cutlery_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/01/a-tea-infuser-that-blurs-the-line-between-ritual-and-treat/Cookie_tea_infuser_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-18T21:30:27+00:00"
-    },
-    {
-      "id": "183cc1861f4166e4",
-      "title": "The Splinter Report: September 18th",
-      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at a sad table, a good... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-september-18th/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/18125853/splinter-report-9-18.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/09/18125853/splinter-report-9-18.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-09-18T20:19:34+00:00"
     },
     {
       "id": "31a4c77f90485319",
@@ -1376,9 +1354,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/holy-moly-is-the-swiss-army-knife-of-flat-pack-furniture-hardware/holy-moly-cabinet-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/06/auto-draft/concertina_lv_chair_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/morph/morph_chair_yanko_design_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/09/herman-miller-gaming-x-faile-artistic-gaming-chairs-and-character-joysticks-are-impressive/Herman-Miller-Gaming-x-FAILE-12.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/05/06/etageredecoin01.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/08/draft-dong/dong_stool_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/12/this-designer-turned-road-material-into-stunning-furniture/as-00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1970,11 +1948,11 @@
       "image": "http://static.dezeen.com/uploads/2026/06/dob-modular-system-by-flat-point-dezeen-showroom-2-sq_dezeen_2364_col_1.jpg",
       "images": [
         "http://static.dezeen.com/uploads/2026/06/dob-modular-system-by-flat-point-dezeen-showroom-2-sq_dezeen_2364_col_1.jpg",
+        "https://static.dezeen.com/uploads/2026/09/mos-art-omi-pavilion-upstate_dezeen_2364_sq-ex.jpg",
         "https://static.dezeen.com/uploads/2026/09/new-york-city-borough-based-jail-system_dezeen_2364_sq-1.jpg",
         "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-architecture-shortlist_dezeen_2364_col_9.jpg",
         "https://static.dezeen.com/uploads/2026/09/dezeen_2364_col_sq2.jpg",
-        "https://static.dezeen.com/uploads/2026/09/geocode-tiles-vitra-design_dezeen_2364_sq.jpg",
-        "https://static.dezeen.com/uploads/2026/09/furniture-showroom-sq_dezeen_2364_col_0.jpg"
+        "https://static.dezeen.com/uploads/2026/09/geocode-tiles-vitra-design_dezeen_2364_sq.jpg"
       ],
       "source": "Dezeen tag storage",
       "source_url": "https://www.dezeen.com",
@@ -2697,19 +2675,6 @@
       "published": "2026-08-26T22:00:00+00:00"
     },
     {
-      "id": "52739f6288d73ed0",
-      "title": "How to Make a Cabinet Drawer",
-      "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
-      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-drawer-box/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-26T12:17:50+00:00"
-    },
-    {
       "id": "553ff215ed636898",
       "title": "Xbox teams up with IKEA for debut gaming furniture collection",
       "summary": "Designers from IKEA and Xbox were paired up to create the products in this furniture collection, including a stool that looks and tilts like a giant thumbstick. Unveiled today at the Gamescom fair in Cologne, the nine-piece YXSTABY range is Xbox's debut foray into gaming furniture, designed to blend easily into the home when it's The post Xbox teams up with IKEA for debut gaming furniture collection appeared first on Dezeen .",
@@ -2734,19 +2699,6 @@
       "source": "Wood Whisperer",
       "source_url": "https://thewoodwhisperer.com",
       "published": "2026-08-25T16:15:12+00:00"
-    },
-    {
-      "id": "be28624a0945a1a9",
-      "title": "How to Make a Cabinet Door",
-      "summary": "A tongue-and-groove router bit set gets the job done fast. When you learn how to make cabinet doors, you will have mastered one of the basic skills in woodworking. Doors... Source",
-      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-door/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-25T12:37:20+00:00"
     },
     {
       "id": "61b556c506488fe5",
@@ -2856,19 +2808,6 @@
       "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
-    },
-    {
-      "id": "469cfdc32d0929cf",
-      "title": "Custom Edge Protection, Part 1: Crafting a Riveted Leather Edge Scabbard",
-      "summary": "Every woodworker knows the importance of keeping edge tools sharp, but protecting those razor-sharp edges when tools are tucked into a drawer or tossed into a travel bag is just... Source",
-      "url": "https://www.popularwoodworking.com/projects/custom-edge-protection-part-1-crafting-a-riveted-leather-edge-scabbard/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg"
-      ],
-      "source": "Popular Woodworking projects",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-08-17T15:55:43+00:00"
     },
     {
       "id": "7f2e997b250cb0e2",
