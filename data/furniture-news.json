@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-21T23:13:21.062696+00:00",
-  "generated_at_human": "2026-09-21 23:13 UTC",
-  "total_items": 236,
+  "generated_at": "2026-09-22T04:44:36.631072+00:00",
+  "generated_at_human": "2026-09-22 04:44 UTC",
+  "total_items": 238,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -41,6 +41,8 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
+    "Popular Woodworking",
+    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -59,9 +61,91 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 65,
+  "sources_count": 55,
+  "multi_photo_items": 64,
   "items": [
+    {
+      "id": "d50d65ce16b13dd4",
+      "title": "These blockout blinds and curtains could be the key to a better night’s sleep",
+      "summary": "The must-have bedroom upgrade for peaceful nights The post These blockout blinds and curtains could be the key to a better night’s sleep appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/shopping/blackout-blinds/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/05/blockout-blinds-blackout-blinds-reduce-energy-bill-heating-hacks-australia-6a13cf46e75e3.png?format=auto&v=1779683148",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/05/blockout-blinds-blackout-blinds-reduce-energy-bill-heating-hacks-australia-6a13cf46e75e3.png?format=auto&v=1779683148"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-09-22T03:22:04+00:00"
+    },
+    {
+      "id": "195c081005559b90",
+      "title": "13 of the best dog-friendly places to stay in Tasmania",
+      "summary": "Escape to the scenic island state at these top-rated stays The post 13 of the best dog-friendly places to stay in Tasmania appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/lifestyle/travel/dog-friendly-stays-tasmania/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/best-dog-friendly-stays-tasmania-1-6ab1ef97ba191.png?format=auto&v=1790046133",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/best-dog-friendly-stays-tasmania-1-6ab1ef97ba191.png?format=auto&v=1790046133",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-dog-friendly-stays-tasmania-1-6ab1ef97ba191.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/05/copy-of-site-feature-horizontal-1920-x-1080-2026-09-22t091426.768-6ab1bab158d02.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-hero-lifestyle-6aa20b3b74f82.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-14t165028.990-6aa79b136e131.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/grace-flynn-content-producer.jpg?w=2048&format=auto"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-09-22T03:03:02+00:00"
+    },
+    {
+      "id": "2d191ff6997870fe",
+      "title": "Turn An Old Cake Pan Into Charming Rustic Countertop Decor",
+      "summary": "Turn an old cake pan into a rustic, charming piece of home decor. All you need is a cake pan, candlestick, glue, and spray paint to make a centerpiece.",
+      "url": "https://www.hunker.com/2262270/turn-old-cake-pan-charming-rustic-countertop-decor-diy/",
+      "image": "https://www.hunker.com/img/gallery/turn-old-cake-pan-charming-rustic-countertop-decor-diy/l-intro-1789981239.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/turn-old-cake-pan-charming-rustic-countertop-decor-diy/l-intro-1789981239.jpg",
+        "https://www.hunker.com/img/gallery/turn-old-cake-pan-charming-rustic-countertop-decor-diy/intro-1789981239.jpg",
+        "https://www.hunker.com/img/gallery/turn-old-cake-pan-charming-rustic-countertop-decor-diy/turn-an-old-cake-pan-into-a-tiered-countertop-accessory-1789981241.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-22T02:00:00+00:00"
+    },
+    {
+      "id": "266dd80d4511e871",
+      "title": "Urban Cowboy Brings Its Maximalist Americana to Governors Island",
+      "summary": "A 325-square-foot tent layers Pendleton textiles, vintage finds, and a cast-iron soaking tub into an unlikely Western escape overlooking New York Harbor",
+      "url": "https://design-milk.com/urban-cowboy-tent-governors-island/",
+      "image": "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-13.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-13.jpg",
+        "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-7.jpg",
+        "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-6.jpg",
+        "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-15.jpg",
+        "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-21.jpg",
+        "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-3.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-09-22T00:04:40+00:00"
+    },
+    {
+      "id": "1e9dc8d8a15b3c0b",
+      "title": "No Shed, No Pavilion: 11 Backyard Kitchens That Still Feel Completely Built in",
+      "summary": "Not every backyard needs a whole structure just to cook outside. The best setups are the ones that skip the shed, skip the pool house, and still give you a real kitchen right there in the open. These 11 backyard ideas show you exactly how people are pulling it off. 11 Backyard Outdoor Kitchens That […] The post No Shed, No Pavilion: 11 Backyard Kitchens That Still Feel Completely Built in appeared first on Trendir .",
+      "url": "https://www.trendir.com/backyards-with-no-shed-or-building-that-however-run-a-full-outdoor-kitchen/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Backyards-With-No-Shed-or-Building-That-However-Run-a-Full-Outdoor-Kitchen.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/Backyards-With-No-Shed-or-Building-That-However-Run-a-Full-Outdoor-Kitchen.png",
+        "https://cdn.trendir.com/wp-content/uploads/2016/10/Sliding-patio-door.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/01/Double-Sided-Drama.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/05/invisible-bookends.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/04/European-Inspired-Garden-Walk.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/minimal-white-extension-to-traditional-british-home-1-front-section-straight.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-09-22T00:00:00+00:00"
+    },
     {
       "id": "26c027fc01b1cb9b",
       "title": "The KitchenAid Luminaire Mixer That Glows On Your Countertop",
@@ -171,6 +255,19 @@
       "published": "2026-09-21T19:34:24+00:00"
     },
     {
+      "id": "f54a262c4677b98c",
+      "title": "ShopNotes Podcast Episode 286 — Don’t Build Another Crumby Breadboard",
+      "summary": "In this episode of the ShopNotes Podcast, Phil, Logan, and John talk woodworking tools, hand-tool sharpening, current shop projects, and what’s happening behind the scenes at Woodsmith and Popular Woodworking.... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-286-dont-build-another-crumby-breadboard/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/21130631/screenshot-2026-09-21-at-12.06.11pm.png",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/09/21130631/screenshot-2026-09-21-at-12.06.11pm.png"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-21T17:07:51+00:00"
+    },
+    {
       "id": "739804b7103c9a87",
       "title": "NKBA Debuts Reimagined Design Hub and New Programming at High Point Fall Market",
       "summary": "N NKBA Staff Posted: Sep 21, 2026 12:27 pm HPMKT Press Barbour Spangle Design reinvigorates Broad Hall vignettes and expanded programming highlights 2027 Kitchen Trends Report ﬁndings BETHLEHEM, Pa. , September 14, 2026 – The National Kitchen & Bath Association (NKBA) , the world’s leading trade association for the kitchen and bath industry, in partnership with Cosentino Group , today announces a redesigned Design Hub at Broad Hall , debuting at High Point Fall Market. NKBA has partnered with High Point, NC-based interior design ﬁrm Barbour Spangle to introduce a new kind of show house,…",
@@ -202,24 +299,6 @@
       "published": "2026-09-21T16:57:00+00:00"
     },
     {
-      "id": "dd408d0447e3b296",
-      "title": "Skip Tile Backsplashes: 10 Gorgeous Alternatives For Rustic Kitchens",
-      "summary": "Tile is often the go-to when it comes to backsplash materials. However, if you're designing a rustic space, other options can add more character and charm.",
-      "url": "https://www.hunker.com/2260168/tile-backsplashes-alternatives-rustic-kitchens/",
-      "image": "https://www.hunker.com/img/gallery/skip-tile-backsplashes-10-gorgeous-alternatives-for-rustic-kitchens/l-intro-1789569284.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-tile-backsplashes-10-gorgeous-alternatives-for-rustic-kitchens/l-intro-1789569284.jpg",
-        "https://www.hunker.com/img/gallery/skip-tile-backsplashes-10-gorgeous-alternatives-for-rustic-kitchens/intro-1789569284.jpg",
-        "https://www.hunker.com/img/gallery/skip-tile-backsplashes-10-gorgeous-alternatives-for-rustic-kitchens/brick-brings-a-warm-touch-1789569286.jpg",
-        "https://www.hunker.com/img/gallery/skip-tile-backsplashes-10-gorgeous-alternatives-for-rustic-kitchens/stone-can-provide-earthy-texture-1789569287.jpg",
-        "https://www.hunker.com/img/gallery/skip-tile-backsplashes-10-gorgeous-alternatives-for-rustic-kitchens/wallpaper-offers-a-ton-of-versatility-1789569288.jpg",
-        "https://www.hunker.com/img/gallery/skip-tile-backsplashes-10-gorgeous-alternatives-for-rustic-kitchens/wood-creates-a-natural-vibe-1789569288.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-21T16:30:00+00:00"
-    },
-    {
       "id": "d60a1d8063ceeb3d",
       "title": "Nook Stack Is the Floor Lamp That Moonlights as a Bookshelf",
       "summary": "Nook Stack Is the Floor Lamp That Moonlights as a Bookshelf Most homes treat lighting and shelving as two separate purchases, bought on different days from different stores, then arranged next to each other and hoped...",
@@ -229,9 +308,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/nook-stack-is-the-floor-lamp-that-moonlights-as-a-bookshelf/nook-stack-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/10/this-lego-like-shelf-system-could-finally-fix-ikeas-biggest-problem/tumba-shelf-concept-sustainable-materials-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/02/auto-draft/fossil_free_crib_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/381132/Concept-STRAMP-Chair-and-Table.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/09/folding_wall_chair_with_stroage_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/this-gorgeous-desk-will-dominate-any-room-with-its-mid-century-design/1949-protractor-desk-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/04/peg_table_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -249,37 +328,6 @@
       "source": "Design Boom architecture",
       "source_url": "https://www.designboom.com",
       "published": "2026-09-21T15:45:26+00:00"
-    },
-    {
-      "id": "965a3ef331347cfe",
-      "title": "A Wireless Charger That Quietly Doubles as a Desk Lamp",
-      "summary": "A Wireless Charger That Quietly Doubles as a Desk Lamp Most wireless chargers look like something you’d find in an airport lounge. Flat, black, forgettable. They do their one job and ask nothing of the...",
-      "url": "https://www.yankodesign.com/2026/09/21/a-wireless-charger-that-quietly-doubles-as-a-desk-lamp/?utm_source=rss&utm_medium=rss&utm_campaign=a-wireless-charger-that-quietly-doubles-as-a-desk-lamp",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/a-wireless-charger-that-quietly-doubles-as-a-desk-lamp/poetry-electricity-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/a-wireless-charger-that-quietly-doubles-as-a-desk-lamp/poetry-electricity-01.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-21T14:20:47+00:00"
-    },
-    {
-      "id": "33e318f1da1e2544",
-      "title": "5 Biggest Disadvantages Of Granite Countertops To Consider Before Installation",
-      "summary": "Granite countertops are a popular countertop choice, but these cons are enough to make you reconsider installing the durable material in your space.",
-      "url": "https://www.hunker.com/2263641/disadvantages-of-granite-countertops/",
-      "image": "https://www.hunker.com/img/gallery/5-biggest-disadvantages-of-granite-countertops-to-consider-before-installation/l-intro-1789983486.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/5-biggest-disadvantages-of-granite-countertops-to-consider-before-installation/l-intro-1789983486.jpg",
-        "https://www.hunker.com/img/gallery/5-biggest-disadvantages-of-granite-countertops-to-consider-before-installation/intro-1789983486.jpg",
-        "https://www.hunker.com/img/gallery/5-biggest-disadvantages-of-granite-countertops-to-consider-before-installation/granite-can-stain-and-become-dull-1789983488.jpg",
-        "https://www.hunker.com/img/gallery/5-biggest-disadvantages-of-granite-countertops-to-consider-before-installation/granite-is-heavy-1789983488.jpg",
-        "https://www.hunker.com/img/gallery/5-biggest-disadvantages-of-granite-countertops-to-consider-before-installation/granite-can-break-1789983489.jpg",
-        "https://www.hunker.com/img/gallery/5-biggest-disadvantages-of-granite-countertops-to-consider-before-installation/granite-has-color-variations-1789983489.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-21T13:00:00+00:00"
     },
     {
       "id": "3e5e92c05ccf60b3",
@@ -324,19 +372,6 @@
       "source": "Garden & Home SA",
       "source_url": "https://gardenandhome.co.za",
       "published": "2026-09-21T12:33:08+00:00"
-    },
-    {
-      "id": "45cac027dc2a5974",
-      "title": "The 2000s Bedroom Trend Bringing A Bold Look Back Into Homes",
-      "summary": "The 2000s were full of maximalist energy, and some of that is returning to the fore with this bold trend taken straight from Y2K bedroom decor.",
-      "url": "https://www.hunker.com/2263566/2000s-bold-bedroom-trend-zebra-print-return/",
-      "image": "https://www.hunker.com/img/gallery/2000s-bold-bedroom-trend-zebra-print-return/l-intro-1789980761.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/2000s-bold-bedroom-trend-zebra-print-return/l-intro-1789980761.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-09-21T12:30:00+00:00"
     },
     {
       "id": "40c5460cd6f6d341",
@@ -389,12 +424,7 @@
       "url": "https://www.trendir.com/she-never-buys-a-bouquet-the-way-most-people-do-and-hers-always-look-florist-arranged-heres-how/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-arranging-flowers-in-glass-vase-kitchen.jpg",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-arranging-flowers-in-glass-vase-kitchen.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/09/floral-cushions.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/06/Christopher-Developments-kitchen-counter.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/04/Classic-Foundation-Bloom.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Travertine-Tile-with-Marble-Shelves.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2025/12/Fence-It-In-Chic.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-arranging-flowers-in-glass-vase-kitchen.jpg"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -507,10 +537,10 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/09/lg-styler-steam-closet-review-6ab0de55c58c5-scaled.jpg?format=auto&v=1789976396",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/lg-styler-steam-closet-review-6ab0de55c58c5-scaled.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/11/balsam-hill-christmas-tree-sale-best-artificial-christmas-trees-pre-lit-christmas-trees-6ab1e6ddd4220.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/lg_styler-steam-closet_dressing-room-6ab0dd2430705.jpg?w=2056",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/lg_styler_interior_features-6ab0dd19453a1.jpg?w=2056",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/lg_styler-steam-closet_wardrobe-6ab0dd1fc94ce.jpg?w=2056",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/10/elle-lovelock-2025-68e5a283d4e78-scaled.jpg?w=2048&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/lg_styler-steam-closet_wardrobe-6ab0dd1fc94ce.jpg?w=2056"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -552,8 +582,8 @@
         "https://www.internimagazine.it/content/uploads/2026/09/1-359x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_2-noorth_Franq_26-03_1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/IDUME-Spa_04.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_1-MODO-PROJECT-NEW-.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Progetto-senza-titolo.jpg"
       ],
       "source": "Interni magazine",
@@ -590,7 +620,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/3-noorth_Franq_26-03_5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/4-noorth_Franq_26-02_1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/5_-noorth_Franq_26-04_1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/09/IDUME-Spa_04.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -736,9 +766,9 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-21t105531.254-6ab080c65aebf.png?format=auto&v=1789952198",
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/belle_cover-marketing_v0.2-6a9df6fd60508-scaled.jpg?format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-21t105531.254-6ab080c65aebf.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-14t165028.990-6aa79b136e131.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2023/11/hero-crop-2026-09-21t152424.419-6ab0bf8a7d6a1.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/3-6aacca24af8b4.jpg?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-dog-friendly-stays-tasmania-1-6ab1ef97ba191.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/05/copy-of-site-feature-horizontal-1920-x-1080-2026-09-22t091426.768-6ab1bab158d02.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-hero-lifestyle-6aa20b3b74f82.png?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -784,19 +814,6 @@
       "published": "2026-09-20T21:00:00+00:00"
     },
     {
-      "id": "88ca0d1b4120e920",
-      "title": "These 9 Bathrooms Turned Awkward Dead Space Into Surprisingly Useful Cabinets",
-      "summary": "Some of the best bathroom storage doesn’t sit on the floor at all. It grows into a corner, a nook, or the one dead strip of wall nobody else notices. These 9 bathrooms show how a full-size cabinet can fit into a room where there’s supposedly nowhere left to put one. 9 Bathrooms That Found […] The post These 9 Bathrooms Turned Awkward Dead Space Into Surprisingly Useful Cabinets appeared first on Trendir .",
-      "url": "https://www.trendir.com/these-bathrooms-turned-awkward-dead-space-into-surprisingly-useful-cabinets/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Bathrooms-With-No-Wall-Space-Left-That-Still-Fit-a-Full-Cabinet.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/Bathrooms-With-No-Wall-Space-Left-That-Still-Fit-a-Full-Cabinet.png"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-09-20T20:34:23+00:00"
-    },
-    {
       "id": "7ac938eda4f1bacd",
       "title": "Bugatti unveils Miami skyscraper as first US branded residence",
       "summary": "Car brand Bugatti has revealed plans for a 60-storey skyscraper on the Miami River, which will be designed by US architecture studio Brandon Haw Architecture with interiors by Yabu Pushelberg. Named Bugatti Residences Miami, the development will be the car brand's first branded residence in the US. It follows plans for its first residential skyscraper, The post Bugatti unveils Miami skyscraper as first US branded residence appeared first on Dezeen .",
@@ -821,19 +838,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-09-20T15:15:00+00:00"
-    },
-    {
-      "id": "81c8ddaa9245369d",
-      "title": "No Shoe Rack, No Pile by the Door: These 14 Entryways Found a Better Way",
-      "summary": "A messy pile of shoes by the front door makes the whole house feel behind schedule the second you walk in. The fix isn’t always a bigger rack. Sometimes it’s a bench, a tilt-out cabinet, or a wall basket that changes the whole entry. These14 setups show how. 14 Entryway Ideas That Keep Shoes Organized […] The post No Shoe Rack, No Pile by the Door: These 14 Entryways Found a Better Way appeared first on Trendir .",
-      "url": "https://www.trendir.com/no-shoe-rack-no-pile-by-the-door-these-14-entryways-found-a-better-way/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Entryways-With-No-Shoe-Rack-That-Get-Every-Pair-Off-the-Floor.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/Entryways-With-No-Shoe-Rack-That-Get-Every-Pair-Off-the-Floor.png"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-09-20T14:00:00+00:00"
     },
     {
       "id": "23cd9f5127b1fefb",
@@ -896,9 +900,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/courtney-sev-the-block-2026-kitchen-reveal--6aafb91049fb2.jpg?format=auto&v=1789901084",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/courtney-sev-the-block-2026-kitchen-reveal--6aafb91049fb2.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-14t165028.990-6aa79b136e131.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2023/11/hero-crop-2026-09-21t152424.419-6ab0bf8a7d6a1.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/3-6aacca24af8b4.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-dog-friendly-stays-tasmania-1-6ab1ef97ba191.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/05/copy-of-site-feature-horizontal-1920-x-1080-2026-09-22t091426.768-6ab1bab158d02.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-hero-lifestyle-6aa20b3b74f82.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/08/copy-of-h3-rm1-guest-bedroom-courtney-and-sev-15-6a756fba2ef01-scaled.jpg?w=2303&format=auto"
       ],
       "source": "Homes To Love AU",
@@ -912,12 +916,7 @@
       "url": "https://www.homestolove.com.au/the-block/rick-tayla-house-tour/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-17t164024.921-6aab8b7aea789.png?format=auto&v=1789627290",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-17t164024.921-6aab8b7aea789.png?format=auto&v=1789627290",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-17t164024.921-6aab8b7aea789.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-17t163754.814-6aab8ac95f13a.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-17t163903.252-6aab8b183969b.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-10t102724.931-6aa1f97d6f816.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-10t102732.122-6aa1f97c5217e.png?w=2730&format=auto"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-17t164024.921-6aab8b7aea789.png?format=auto&v=1789627290"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -983,11 +982,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/09/ma020-6aa9f6bd33fd9.jpg?format=auto&v=1789524330",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/09/ma020-6aa9f6bd33fd9.jpg?format=auto&v=1789524330",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/11/balsam-hill-christmas-tree-sale-best-artificial-christmas-trees-pre-lit-christmas-trees-6ab1e6ddd4220.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/lg-styler-steam-closet-review-6ab0de55c58c5-scaled.jpg?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/h1-7-6aa8c99c8d159-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/h1-11-6aa8c9ab1713f-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/h3-4-6aa8d3e87f26f-scaled.jpg?fit=1024%2C683&resize=2560%2C1707",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/h4-4-6aa8d45a019a0-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/h3-4-6aa8d3e87f26f-scaled.jpg?fit=1024%2C683&resize=2560%2C1707"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1022,19 +1021,6 @@
       "published": "2026-09-20T07:45:22+00:00"
     },
     {
-      "id": "79f913b1b023eefa",
-      "title": "A Tiny Bathroom Went from Grimy to Cozy After a \"Gothic-Aquatic\" Redo",
-      "summary": "“That feeling of scrubbing a bathroom until your arms ache, only for it to still look kind of grimy, is the ultimate motivator,” DIYer Joe Bergantino says. Joe is one half of the DIY duo @HomosWithHammers, an account he shares with his husband, Ricky Gonzalez. They’ve slowly been restoring their 1800s Chicago home, and that grimy feeling was the couple’s inspiration to make the tiny powder room “pack a giant punch. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/tiny-bold-wallpaper-bathroom-ba-37690850?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-09/joe-b-bathroom/joe-b-bathroom-before-tag",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-09/joe-b-bathroom/joe-b-bathroom-before-tag"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-09-19T19:45:00+00:00"
-    },
-    {
       "id": "9de99680a0e45d6b",
       "title": "20 New Design Books We’re Reading This Fall",
       "summary": "These tomes, showcasing notable interiors across design disciplines, offer much more than just coffee table decor.",
@@ -1045,8 +1031,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/6067e537-12d9-4f02-b5f2-5564ffd61615.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/91lwby5w9zl-ac-sl1500-678164d3c0dce.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/1c5d7c19-a4d5-45fd-851a-138c37afaed7.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/7476d0b8-e9ab-4d59-b918-fee857d14385.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/046ac46a-5c8d-4b02-b3f9-9eb1ae42f16c.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/54c8e8c5-d644-4fe5-8085-497008f9278e.png",
+        "https://hips.hearstapps.com/hmg-prod/images/12d0c743-e90d-46b6-bc8f-080685a3e77a.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1075,13 +1061,26 @@
         "https://www.yankodesign.com/images/design_news/2026/09/strata-chair/strata_chair_yanko_design_02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/09/phase_acoustic_system_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/flyde_floating_cutlery_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/01/a-tea-infuser-that-blurs-the-line-between-ritual-and-treat/Cookie_tea_infuser_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/10/auto-draft/hero_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/03/draft-splitglass/SplitGlass_modular_system_crystal_glasses_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/03/bumpboxx-bb-777-plays-cassettes-cds-radio-and-bluetooth-at-270w/BB_777_Iconic_Boombox_Perfectly_Recreated_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-18T21:30:27+00:00"
+    },
+    {
+      "id": "183cc1861f4166e4",
+      "title": "The Splinter Report: September 18th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at a sad table, a good... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-september-18th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/18125853/splinter-report-9-18.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/09/18125853/splinter-report-9-18.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-18T20:19:34+00:00"
     },
     {
       "id": "31a4c77f90485319",
@@ -1354,9 +1353,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/holy-moly-is-the-swiss-army-knife-of-flat-pack-furniture-hardware/holy-moly-cabinet-05.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/05/06/etageredecoin01.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/08/draft-dong/dong_stool_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/this-designer-turned-road-material-into-stunning-furniture/as-00.jpg"
+        "https://www.yankodesign.com/images/design_news/2010/09/29/edgewirecoffeetable01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/11/meditation-chair-inspired-by-tibetan-singing-bowl/Tibetian_Musical_chair_2.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/01/brionvega-totem-rr231-stereo-system-transforms-from-minimalist-art-piece-to-functional-audio-machine/brionvega-totem-rr231-3_speakers_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1586,27 +1585,14 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2025/09/chyka-keebaugh-home-penthouse-apartment-rhom-real-housewives-wardrobe-68b50d66ed9d1-scaled.jpg?format=auto&v=1756696650",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2024/12/Diana_Moore_WEB_.png?w=3000&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2025/11/balsam-hill-christmas-tree-sale-best-artificial-christmas-trees-pre-lit-christmas-trees-6ab1e6ddd4220.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/lg-styler-steam-closet-review-6ab0de55c58c5-scaled.jpg?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2611p197_1126-marketing-cover_v0.2-6ab0670178aa6-scaled.jpg?format=auto&resize=2001%2C2560",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/06/modern-farmhouse-toowoomba-mud-room.jpg?crop=0px%2C1054px%2C1465px%2C1101px&resize=1950%2C1462&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/02/best-digital-calendars-australia-2026-best-alternative-to-skylight-calendars-6a504737085c7.png?resize=1950%2C1462&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/06/modern-farmhouse-toowoomba-mud-room.jpg?crop=0px%2C1054px%2C1465px%2C1101px&resize=1950%2C1462&format=auto"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-09-16T03:36:30+00:00"
-    },
-    {
-      "id": "f91bafd81575708c",
-      "title": "32 best online furniture and homewares stores in Australia, handpicked by our editors",
-      "summary": "Our editors' top online picks for stylish, timeless furniture and homewares, ready to shop from the comfort of your home The post 32 best online furniture and homewares stores in Australia, handpicked by our editors appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/decorating/best-online-furniture-and-homewares-stores-21001/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/best-online-furniture-stores-6aa9f7af57b63.png?format=auto&v=1789523901",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/best-online-furniture-stores-6aa9f7af57b63.png?format=auto&v=1789523901"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-09-16T01:58:25+00:00"
     },
     {
       "id": "2023ffd8bb3eedd4",
@@ -1672,12 +1658,7 @@
       "url": "https://design-milk.com/venus-williams-crate-barrel-grand-slam-collection/",
       "image": "https://design-milk.com/images/2026/09/CB_SP26_GS_04_746_Vert__284.jpeg",
       "images": [
-        "https://design-milk.com/images/2026/09/CB_SP26_GS_04_746_Vert__284.jpeg",
-        "https://design-milk.com/images/2026/09/CB_SP26_GSK_09_207_VER_001.jpeg",
-        "https://design-milk.com/images/2026/09/CB_SP26_GS_05_746_Ver_110.jpeg",
-        "https://design-milk.com/images/2026/09/CB_SP26_GS_01_746_Vert__204.jpeg",
-        "https://design-milk.com/images/2026/09/CB_SP26_GSK_03_746_Vert_031.jpeg",
-        "https://design-milk.com/images/2026/09/CB_SP26_GS_02_746_Hor_068.jpeg"
+        "https://design-milk.com/images/2026/09/CB_SP26_GS_04_746_Vert__284.jpeg"
       ],
       "source": "Design Milk",
       "source_url": "https://design-milk.com",
@@ -2638,11 +2619,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/DIY-Plant-Shelves.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/DIY-Plant-Shelves.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2020/08/DIY-Pantry-Cabinet.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/step-5.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/How-to-build-a-Plant-Shelf.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/DIY-Plant-Shelf.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/miter-cut.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2024/11/behr-rustic-brown-stain.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2026/08/miter-cut.jpg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
@@ -2675,6 +2656,19 @@
       "published": "2026-08-26T22:00:00+00:00"
     },
     {
+      "id": "52739f6288d73ed0",
+      "title": "How to Make a Cabinet Drawer",
+      "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
+      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-drawer-box/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-26T12:17:50+00:00"
+    },
+    {
       "id": "553ff215ed636898",
       "title": "Xbox teams up with IKEA for debut gaming furniture collection",
       "summary": "Designers from IKEA and Xbox were paired up to create the products in this furniture collection, including a stool that looks and tilts like a giant thumbstick. Unveiled today at the Gamescom fair in Cologne, the nine-piece YXSTABY range is Xbox's debut foray into gaming furniture, designed to blend easily into the home when it's The post Xbox teams up with IKEA for debut gaming furniture collection appeared first on Dezeen .",
@@ -2699,6 +2693,19 @@
       "source": "Wood Whisperer",
       "source_url": "https://thewoodwhisperer.com",
       "published": "2026-08-25T16:15:12+00:00"
+    },
+    {
+      "id": "be28624a0945a1a9",
+      "title": "How to Make a Cabinet Door",
+      "summary": "A tongue-and-groove router bit set gets the job done fast. When you learn how to make cabinet doors, you will have mastered one of the basic skills in woodworking. Doors... Source",
+      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-door/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-25T12:37:20+00:00"
     },
     {
       "id": "61b556c506488fe5",
@@ -2810,6 +2817,19 @@
       "published": "2026-08-18T05:00:26+00:00"
     },
     {
+      "id": "469cfdc32d0929cf",
+      "title": "Custom Edge Protection, Part 1: Crafting a Riveted Leather Edge Scabbard",
+      "summary": "Every woodworker knows the importance of keeping edge tools sharp, but protecting those razor-sharp edges when tools are tucked into a drawer or tossed into a travel bag is just... Source",
+      "url": "https://www.popularwoodworking.com/projects/custom-edge-protection-part-1-crafting-a-riveted-leather-edge-scabbard/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-17T15:55:43+00:00"
+    },
+    {
       "id": "7f2e997b250cb0e2",
       "title": "Hotel Chalet Mirabell Makes the South Tyrolean Landscape the Main Attraction",
       "summary": "With a 64,000-square-foot spa, tiered timber architecture, and sweeping alpine views, the Italian retreat is designed around finding room to slow down",
@@ -2831,7 +2851,7 @@
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/Console-Table-3.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2020/10/console-table-2.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2020/06/DIY-Barnwood-Clip-Frame.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/10/How-to-build-an-entry-bench.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
@@ -3009,11 +3029,11 @@
       "image": "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
       "images": [
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table-1.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2022/01/me-with-desk.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2026/07/DIY-Turned-Leg-Coffee-Table.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2021/03/DIY-Console-Table.jpg",
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/10/How-to-build-an-entry-bench.jpg",
         "https://www.shanty-2-chic.com/wp-content/uploads/2024/02/magnolia-dining-table-diy.jpg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg",
-        "https://www.shanty-2-chic.com/wp-content/uploads/2025/03/DIY-Entryway-Table.jpg"
+        "https://www.shanty-2-chic.com/wp-content/uploads/2025/11/IMG_0507.jpeg"
       ],
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
