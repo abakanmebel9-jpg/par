@@ -1,14 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-22T09:52:17.306068+00:00",
-  "generated_at_human": "2026-09-22 09:52 UTC",
-  "total_items": 231,
+  "generated_at": "2026-09-22T14:44:27.094215+00:00",
+  "generated_at_human": "2026-09-22 14:44 UTC",
+  "total_items": 234,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
-    "Bob Vila",
     "Core77",
     "DM tag bathroom",
     "DM tag cabinets",
@@ -21,6 +20,7 @@
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen tag bathrooms",
+    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -40,6 +40,8 @@
     "MilK Decoration",
     "NKBA",
     "PopSugar Home",
+    "Popular Woodworking",
+    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -58,9 +60,179 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 52,
-  "multi_photo_items": 64,
+  "sources_count": 54,
+  "multi_photo_items": 63,
   "items": [
+    {
+      "id": "75e62fe4c2f2672c",
+      "title": "Traditional Paper Towel Holders Are Boring: A Cooler Way To Keep Them Off The Counter",
+      "summary": "Want a new, modern paper towel holder? This DIY will give you more space, keep paper towels off the counter, and add a cool vibe to your kitchen.",
+      "url": "https://www.hunker.com/2260537/traditional-paper-towel-holder-alternative-pipes-keep-off-counter/",
+      "image": "https://www.hunker.com/img/gallery/traditional-paper-towel-holders-are-boring-a-cooler-way-to-keep-them-off-the-counter/l-intro-1789582948.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/traditional-paper-towel-holders-are-boring-a-cooler-way-to-keep-them-off-the-counter/l-intro-1789582948.jpg",
+        "https://www.hunker.com/img/gallery/traditional-paper-towel-holders-are-boring-a-cooler-way-to-keep-them-off-the-counter/intro-1789582948.jpg",
+        "https://www.hunker.com/img/gallery/traditional-paper-towel-holders-are-boring-a-cooler-way-to-keep-them-off-the-counter/combine-basic-plumbing-pipes-and-fittings-to-make-a-diy-paper-towel-holder-1789582950.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-22T14:00:00+00:00"
+    },
+    {
+      "id": "04d1157a1f483b63",
+      "title": "She Painted Cherry Blossoms Across This Old Mid-Century Dresser Instead of Using One Color",
+      "summary": "Clean lines, four wide drawers, and short angled legs gave this old mid-century dresser its simple shape, but its wood veneer had chips and divots hidden beneath a high-gloss finish. Restoring the original wood had been the plan until stripping exposed the damage. Beth from Make Me Pretty Again repaired and sanded the veneer before... The post She Painted Cherry Blossoms Across This Old Mid-Century Dresser Instead of Using One Color appeared first on Homedit .",
+      "url": "https://www.homedit.com/she-painted-cherry-blossoms-across-this-old-mid-century-dresser-instead-of-using-one-color/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Painted-Cherry-Blossoms-Across-This-Old-Mid-Century-Dresser-Instead-of-Using-One-Color.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Painted-Cherry-Blossoms-Across-This-Old-Mid-Century-Dresser-Instead-of-Using-One-Color.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/One-Wire-Shelf-Left-Most-of-the-Wall-Empty.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Yellow-Cherry-Blossoms-Spread-Across-Four-Drawers.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Gray-Paint-Covered-the-Repaired-Wood.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Damaged-Veneer-Changed-the-Original-Plan.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Not-Baking-Soda-or-Vinegar-She-Tested-5-Ways-to-Clean-Her-Stainless-Steel-Sink-and-One-Clearly-Worked-Best.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-22T13:59:25+00:00"
+    },
+    {
+      "id": "1f4aa113bead5ae5",
+      "title": "Важный разговор: маркировка мебели – быть или не быть?",
+      "summary": "Если не маркировка – какой инструмент поможет в борьбе с нелегальным производством? 24 ноября в рамках деловой программы выставки «Мебель-2026» состоится сессия на актуальную тему «Маркировка», соорганизатором которой является Ассоциация предприятий мебельной и деревообрабатывающей промышленности России (АМДПР). Эта тема поднимается не первый раз, и мебельщики очень неоднозначно относятся к ней. Фото: АО «ЭКСПОЦЕНТР» Павильон 3, зал 15, площадка «Формула бизнеса» На сегодняшний день мебельная продукция не участвует в эксперименте «Честного знака» с кодами Data Matrix. В пилотный проект по…",
+      "url": "https://www.meb-expo.ru/ru/media/news/index.php?id4=21113",
+      "image": "https://www.expocentr.ru/upload/iblock/e8a/6leadmaoowx67zkstlw0supq255rnw7c/Delovaya-programma_Markirovka.jpg",
+      "images": [
+        "https://www.expocentr.ru/upload/iblock/e8a/6leadmaoowx67zkstlw0supq255rnw7c/Delovaya-programma_Markirovka.jpg"
+      ],
+      "source": "Мебель-expo",
+      "source_url": "https://www.meb-expo.ru",
+      "published": "2026-09-22T13:48:19+00:00"
+    },
+    {
+      "id": "7e029977e2a8271d",
+      "title": "Dezeen Showroom New Releases newsletter includes oak modular kitchen",
+      "summary": "The summer 2026 installation of the Dezeen Showroom New Releases newsletter includes a modular kitchen crafted from oak. Subscribe to Dezeen Showroom New Releases now! From tall, wall-mounted cabinets to open shelving, Danish interior design studio Vermland crafts each of its modular kitchens from oak. The kitchens are among five pieces featured in this iteration The post Dezeen Showroom New Releases newsletter includes oak modular kitchen appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/22/dezeen-showroom-new-releases-summer-2026/",
+      "image": "http://static.dezeen.com/uploads/2026/06/vermland-modular-kitchen-square-showroom_dezeen_2364_col_0.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/06/vermland-modular-kitchen-square-showroom_dezeen_2364_col_0.jpg",
+        "https://static.dezeen.com/uploads/2026/05/scaffold-outdoor-occasional-tables-haldane-design_dezeen_2364_col_0-2.jpg",
+        "https://static.dezeen.com/uploads/2026/03/gambosa-lamp-marset_dezeen_2364_col_1.jpg",
+        "https://static.dezeen.com/uploads/2025/12/tartan-shuttle-weave-rug-cicil-design_dezeen_2364_col_0.jpg",
+        "https://static.dezeen.com/uploads/2025/08/poodle-armchair-mati-sipiora-design_dezeen_2364_col_0-2.jpg",
+        "https://static.dezeen.com/uploads/2025/05/striche-tables-matteo-zorzenoni-miniforms-dezeen-showroom_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-22T13:00:58+00:00"
+    },
+    {
+      "id": "0e0a7d712736c741",
+      "title": "Success Story | PegLeg Studio | Woodworking CNC",
+      "summary": "Atlanta-based woodworker Stephen Evans bridges the gap between millwork and furniture — using reclaimed materials, urban timber, and Felder machinery to build work that's meant to be lived in, leaned on, for decades. The post Success Story | PegLeg Studio | Woodworking CNC appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/success-story-pegleg-studio-woodworking-cnc",
+      "image": "https://www.woodshopnews.com/uploads/2026/09/Felder-CNC-image-scaled.jpg?auto=webp",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/09/Felder-CNC-image-scaled.jpg?auto=webp"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-09-22T12:30:00+00:00"
+    },
+    {
+      "id": "2836745013215b63",
+      "title": "Resilience and return",
+      "summary": "I’ve spoken here often about the tragedy of woodworking businesses disappearing after being destroyed by fire, but I don’t often get to talk about the ones who come back The post Resilience and return appeared first on Woodshop News Magazine .",
+      "url": "https://www.woodshopnews.com/resilience-and-return",
+      "image": "https://www.woodshopnews.com/uploads/2026/09/AJBLOG-1268-image.jpg",
+      "images": [
+        "https://www.woodshopnews.com/uploads/2026/09/AJBLOG-1268-image.jpg"
+      ],
+      "source": "Woodshop News",
+      "source_url": "https://www.woodshopnews.com",
+      "published": "2026-09-22T12:22:23+00:00"
+    },
+    {
+      "id": "32d792e625d49737",
+      "title": "14 Things to Declutter from Your Bedroom Right Now",
+      "summary": "As the place where you start and end your day, your bedroom should feel peaceful and tidy so you can rest and recharge with ease. But if it’s currently a mess, that can directly affect both of those things. That’s why it’s so important to declutter and organize your bedroom. Here’s how to declutter your bedroom, including where and what to look for. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/declutter-bedroom-how-to-37685490?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/january/allison-b/tours-edinburgh-allison-b-20",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2025/january/allison-b/tours-edinburgh-allison-b-20"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-09-22T12:00:00+00:00"
+    },
+    {
+      "id": "26e4fbf31ec44ea0",
+      "title": "3 Tailgating Gadgets That Make Game Day Feel Like Home",
+      "summary": "3 Tailgating Gadgets That Make Game Day Feel Like Home The parking lot is the wrong frame for tailgating. The better one is the living room, relocated and weather-dependent, but organized around the same core...",
+      "url": "https://www.yankodesign.com/2026/09/22/3-tailgating-gadgets-that-make-game-day-feel-like-home/?utm_source=rss&utm_medium=rss&utm_campaign=3-tailgating-gadgets-that-make-game-day-feel-like-home",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/tailgating-gadgets-that-make-game-day-feel-like-home/3_tailgating_gadgets_yanko_design_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/09/tailgating-gadgets-that-make-game-day-feel-like-home/3_tailgating_gadgets_yanko_design_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-22T11:40:52+00:00"
+    },
+    {
+      "id": "024361209be37cc9",
+      "title": "Bathroom Features That Look Nothing Like What We Usually Put in Bathrooms",
+      "summary": "Bathroom fixtures tend to follow familiar forms, from white ceramic sinks and built-in vanities to rectangular mirrors, tiled walls, and tubs designed to blend into the rest of the room. These bathrooms move away from those conventions with fixtures that become part of the design rather than objects chosen to disappear. Material plays a major... The post Bathroom Features That Look Nothing Like What We Usually Put in Bathrooms appeared first on Homedit .",
+      "url": "https://www.homedit.com/bathroom-features-that-look-nothing-like-what-we-usually-put-in-bathrooms/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/Bathroom-Features-That-Look-Nothing-Like-What-We-Usually-Put-in-Bathrooms.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Bathroom-Features-That-Look-Nothing-Like-What-We-Usually-Put-in-Bathrooms.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/One-Wire-Shelf-Left-Most-of-the-Wall-Empty.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Wall-Mounted-Faucet-Sits-Above-a-Basin-With-No-Familiar-Rim.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Sink-Looks-Like-a-Folded-Sheet.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Mirrors-Extend-Into-Shelves-Above-the-Sinks.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/Geometric-Radiator-Looks-More-Like-Wall-Sculpture.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-09-22T11:10:42+00:00"
+    },
+    {
+      "id": "229a5dadc19a3780",
+      "title": "Tato Architects completes charred timber-clad home in Japan",
+      "summary": "Charred-timber cladding is contrasted with warm plywood-lined interiors at House in Mibu, a home in Tochigi Prefecture, Japan, completed by local studio Tato Architects. The 108-square-metre home was designed for a couple and their three children in the backyard of the client's parental home, tucked off a residential street in the town of Mibu. As The post Tato Architects completes charred timber-clad home in Japan appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/22/tato-architects-house-in-mibu/",
+      "image": "http://static.dezeen.com/uploads/2026/09/house-in-mibu-tato-architects-japan-residential-architecture-charred-timber_dezeen_2364_sq.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/09/house-in-mibu-tato-architects-japan-residential-architecture-charred-timber_dezeen_2364_sq.jpg",
+        "https://static.dezeen.com/uploads/2026/09/house-in-mibu-tato-architects-japan-residential-architecture-charred-timber_dezeen_2364_col_1.jpg",
+        "https://static.dezeen.com/uploads/2026/08/tato-architects-house-in-shichiku-kyoto-sq_dezeen_2364_col_1.jpg",
+        "https://static.dezeen.com/uploads/2026/09/House-in-Yatsugatake-keiji-ashizawa-design_dezeen_2364_col_sqexc.jpg",
+        "https://static.dezeen.com/uploads/2026/09/tato-architects-house-and-studio-kyoto-sq_dezeen_2364_col_1.jpg",
+        "https://static.dezeen.com/uploads/2026/07/hyan-green-sandwich-house-renovation-japan-sq2_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-22T10:30:46+00:00"
+    },
+    {
+      "id": "b4155ddcfe12ba31",
+      "title": "Dezeen Awards 2026 interiors shortlist revealed",
+      "summary": "Dezeen has announced the interiors shortlist for this year's Dezeen Awards, which includes projects by Isern Serra, Snøhetta and YSG. The 112 shortlisted projects, which are in the running for awards in 14 different interiors project categories, are by studios located across 26 different countries, including Brazil, Czech Republic, Hong Kong, Kazakhstan, Spain and the The post Dezeen Awards 2026 interiors shortlist revealed appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/09/22/dezeen-awards-2026-interiors-shortlist/",
+      "image": "http://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-interiors-shortlist_dezeen_2364_col_3.jpg",
+      "images": [
+        "http://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-interiors-shortlist_dezeen_2364_col_3.jpg",
+        "https://static.dezeen.com/uploads/2026/06/260218_DEZEEN_AWARDS_2026_TOUCHPOINTS_GREEN_WEBSITE_FEATURE_1330x1330.png",
+        "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-architecture-shortlist_dezeen_2364_col_9.jpg",
+        "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-master-jury_dezeen_2364_col_2.jpg",
+        "https://static.dezeen.com/uploads/2026/09/asia-pacific-regional-showcases-dezeen-awards_dezeen_2364_col_0.jpg",
+        "https://static.dezeen.com/uploads/2026/09/americas-regional-showcases-dezeen-awards_dezeen_2364_col_0.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-09-22T10:00:46+00:00"
+    },
     {
       "id": "e627c4881026cf57",
       "title": "He Spray-Painted the Oak Cabinets Neptune Lily and Made the Original Kitchen Look New",
@@ -137,10 +309,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/09/Stefano-Santi-Francesco-Baccaglini-Matteo-Colafrancesco_photo-credit-Irina-Litvinenko.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/09/Reverso_photo-credit-Irina-Litvinenko-6.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/UFO_MILANO_LOCALE_3.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/02_Dorothea-Lange_A-large-sign-reading-I-am-an-American-1942.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Hotel-Scarampo-Rendering-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/Qui-e-altrove.-Gli-ambienti-di-Paolo-Scheggi-1964-1971-2026-installation-view-©Stefano-Anzini_IMG_6067_Hi-1920x1280-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/Qui-e-altrove.-Gli-ambienti-di-Paolo-Scheggi-1964-1971-2026-installation-view-©Stefano-Anzini_IMG_6067_Hi-1920x1280-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/UFO_MILANO_LOCALE_3.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/02_Dorothea-Lange_A-large-sign-reading-I-am-an-American-1942.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -306,19 +478,6 @@
       "published": "2026-09-21T21:24:01+00:00"
     },
     {
-      "id": "e75d6707533641e3",
-      "title": "12 Bookshelf Plans You Can Build in a Weekend",
-      "summary": "Make use of one of these bookshelf plans to create a new home for your books, shelf decorations, and other knickknacks. The post 12 Bookshelf Plans You Can Build in a Weekend appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/articles/bookshelf-plans/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2023/11/iStock-505773698-bookshelf-plans-white-built-in-bookcase.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2023/11/iStock-505773698-bookshelf-plans-white-built-in-bookcase.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-09-21T21:21:41+00:00"
-    },
-    {
       "id": "48cb19fc73b3f0a1",
       "title": "The 12 Kitchen Trends Designers Say Are About to Be Everywhere in 2027",
       "summary": "From sculleries to smart tech, designers believe these trends will shape the heart of the home in the year ahead.",
@@ -335,6 +494,19 @@
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
       "published": "2026-09-21T19:34:24+00:00"
+    },
+    {
+      "id": "f54a262c4677b98c",
+      "title": "ShopNotes Podcast Episode 286 — Don’t Build Another Crumby Breadboard",
+      "summary": "In this episode of the ShopNotes Podcast, Phil, Logan, and John talk woodworking tools, hand-tool sharpening, current shop projects, and what’s happening behind the scenes at Woodsmith and Popular Woodworking.... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-286-dont-build-another-crumby-breadboard/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/21130631/screenshot-2026-09-21-at-12.06.11pm.png",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/09/21130631/screenshot-2026-09-21-at-12.06.11pm.png"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-21T17:07:51+00:00"
     },
     {
       "id": "739804b7103c9a87",
@@ -356,12 +528,7 @@
       "url": "https://www.dezeen.com/2026/09/21/design-new-york-city-borough-based-jail-program/",
       "image": "http://static.dezeen.com/uploads/2026/09/new-york-city-borough-based-jail-system_dezeen_2364_sq-1.jpg",
       "images": [
-        "http://static.dezeen.com/uploads/2026/09/new-york-city-borough-based-jail-system_dezeen_2364_sq-1.jpg",
-        "https://static.dezeen.com/uploads/2026/08/manhattan-detention-facility-new-york-hok_dezeen_2364_sq-1.jpg",
-        "https://static.dezeen.com/uploads/2025/10/sq-hollaway-studio-the-glasshouse_dezeen_2364_col_0.jpg",
-        "https://static.dezeen.com/uploads/2025/06/wayne-county-criminal-justice-center-hok-detroit-sq.jpg",
-        "https://static.dezeen.com/uploads/2025/06/bronx-detention-center-cetraruddy-new-york_dezeen_2364_sq-1.jpg",
-        "https://static.dezeen.com/uploads/2025/04/sq3-dropcity-prison-times_dezeen_2364_col_3_dezeen_2364_col_3_dezeen_2364_col_0.jpg"
+        "http://static.dezeen.com/uploads/2026/09/new-york-city-borough-based-jail-system_dezeen_2364_sq-1.jpg"
       ],
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
@@ -375,11 +542,11 @@
       "image": "https://www.yankodesign.com/images/design_news/2026/09/nook-stack-is-the-floor-lamp-that-moonlights-as-a-bookshelf/nook-stack-02.jpg",
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/09/nook-stack-is-the-floor-lamp-that-moonlights-as-a-bookshelf/nook-stack-02.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/11/21/incunabular_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/11/auto-draft/farflung_studio_adw_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/04/this-table-lamp-doubles-up-as-a-bedside-tray-for-organizing-all-your-belongings/gantri_silvon_tray_lamp_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/09/hisense-u6sf-pro-wraps-a-1200-nit-mini-led-panel-in-glare-free-screen-and-650-price-tag/Hisense-65-U6-Pro-Gaming-AI-Smart-Fire-TV-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/12/this-3d-printed-lamp-was-designed-to-feel-like-moms-hug/her-06.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/02/broom-a-sustainable-chair-that-swept-away-waste-like-magic/hero-option-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/03/auto-draft/04_dag_gärsnäs_daybed.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -418,12 +585,7 @@
       "url": "https://www.homedit.com/a-couple-added-wood-trim-around-their-staircase-and-made-the-walls-look-paneled/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/A-Couple-Added-Wood-Trim-Around-Their-Staircase-and-Made-the-Walls-Look-Paneled.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/A-Couple-Added-Wood-Trim-Around-Their-Staircase-and-Made-the-Walls-Look-Paneled.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/One-Wire-Shelf-Left-Most-of-the-Wall-Empty.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Plain-Walls-Now-Look-Like-Built-In-Panels.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Paneling-Connects-Both-Levels-of-the-Staircase.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Narrow-Trim-Frames-the-Sloped-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Finished-Trim-Continues-Beyond-the-Main-Stair-Wall.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/A-Couple-Added-Wood-Trim-Around-Their-Staircase-and-Made-the-Walls-Look-Paneled.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -475,12 +637,7 @@
       "url": "https://www.homedit.com/she-tested-3-spots-for-her-cabinet-handles-and-one-placement-kept-winning/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Tested-3-Spots-for-Her-Cabinet-Handles-and-One-Placement-Kept-Winning.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Tested-3-Spots-for-Her-Cabinet-Handles-and-One-Placement-Kept-Winning.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/One-Wire-Shelf-Left-Most-of-the-Wall-Empty.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Put-the-pull-on-the-recessed-panel.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Move-the-pull-across-the-decorative-trim.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Put-the-pull-on-the-outer-stile.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/A-Couple-Added-Wood-Trim-Around-Their-Staircase-and-Made-the-Walls-Look-Paneled.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Tested-3-Spots-for-Her-Cabinet-Handles-and-One-Placement-Kept-Winning.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -506,12 +663,7 @@
       "url": "https://www.dezeen.com/2026/09/21/rx-architects-druim-extension/",
       "image": "http://static.dezeen.com/uploads/2026/09/druim-extension-rx-architects-architecture-residential-sussex_dezeen_2364_sq.jpg",
       "images": [
-        "http://static.dezeen.com/uploads/2026/09/druim-extension-rx-architects-architecture-residential-sussex_dezeen_2364_sq.jpg",
-        "https://static.dezeen.com/uploads/2026/09/druim-extension-rx-architects-architecture-residential-sussex_dezeen_2364_col_10.jpg",
-        "https://static.dezeen.com/uploads/2026/07/dulnain-croft-house-loader-monteith-salvaged-granite-blackened-larch-scotland-sq_dezeen_2364_col_0.jpg",
-        "https://static.dezeen.com/uploads/2026/09/danshuis-mad-rotterdam-dance-centre_dezeen_2364_sq_0.jpg",
-        "https://static.dezeen.com/uploads/2026/08/antonio-costa-lima-arquitectos-colegio-de-santa-maria-housing-block-lisbon-sq_dezeen_2364_col_1.jpg",
-        "https://static.dezeen.com/uploads/2026/07/yn-studio-tile-house-extension-london-sq_dezeen_2364_col_0.jpg"
+        "http://static.dezeen.com/uploads/2026/09/druim-extension-rx-architects-architecture-residential-sussex_dezeen_2364_sq.jpg"
       ],
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
@@ -524,29 +676,11 @@
       "url": "https://www.dezeen.com/2026/09/21/ual-atterbury-flat-student-design-archive/",
       "image": "http://static.dezeen.com/uploads/2026/09/atterbury-flat-ual-london-interior-design_dezeen_1704_sq.jpg",
       "images": [
-        "http://static.dezeen.com/uploads/2026/09/atterbury-flat-ual-london-interior-design_dezeen_1704_sq.jpg",
-        "https://static.dezeen.com/uploads/2025/07/c-pangolin-jacob-walls-furniture-csm_dezeen_2364_col_3_dezeen_2364_col_0_dezeen_2364_col_1.jpg",
-        "https://static.dezeen.com/uploads/2026/09/motion-sickness-isabel-helen_dezeen_2364_sq_0.jpg",
-        "https://static.dezeen.com/uploads/2026/09/sq-fritz-hansen-sound-club-technics_dezeen_2364_col_1.jpg",
-        "https://static.dezeen.com/uploads/2026/09/studio-saar-atelier-one-pangolin-shield-bamboo-pavilion-1_dezeen_2364_sq_2.jpg",
-        "https://static.dezeen.com/uploads/2026/09/slancha-hanging-baskets_dezeen_2364_sq_0.jpg"
+        "http://static.dezeen.com/uploads/2026/09/atterbury-flat-ual-london-interior-design_dezeen_1704_sq.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-21T10:15:44+00:00"
-    },
-    {
-      "id": "532e2ae2f9be71ad",
-      "title": "He Removed the Breakfast Table and Built a Huge Kitchen Island in Its Place",
-      "summary": "Oak cabinets, square tile floors, and a four-seat breakfast table filled this kitchen before a remodel submitted to Homedit through our Submit Your Work page. The family wanted a large island where they could sit and eat, a request that would change far more than the cabinet finish. Joel Montfort of Montfort Designs LLC gutted... The post He Removed the Breakfast Table and Built a Huge Kitchen Island in Its Place appeared first on Homedit .",
-      "url": "https://www.homedit.com/he-removed-the-breakfast-table-and-built-a-huge-kitchen-island-in-its-place/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/He-Removed-the-Breakfast-Table-and-Built-a-Huge-Kitchen-Island-in-Its-Place.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/He-Removed-the-Breakfast-Table-and-Built-a-Huge-Kitchen-Island-in-Its-Place.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-21T09:18:03+00:00"
     },
     {
       "id": "2a4a9f6583d0c9d0",
@@ -611,19 +745,6 @@
       "published": "2026-09-21T07:56:16+00:00"
     },
     {
-      "id": "0455a9a05bcd1295",
-      "title": "She Cut This Curved Shape From OSB and Turned It Into a Tall Upholstered Headboard",
-      "summary": "Tall upholstered headboards can hide a basic structure beneath the fabric. For this bedroom, the curved profile started with OSB cut into a shape wide enough for a full-size bed. DIY blogger Tracy Laverty designed the headboard for her daughter’s bedroom makeover and enlisted her husband’s help to draw and cut the curved OSB base.... The post She Cut This Curved Shape From OSB and Turned It Into a Tall Upholstered Headboard appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-cut-this-curved-shape-from-osb-and-turned-it-into-a-tall-upholstered-headboardheadboard-upholsterd/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Cut-This-Curved-Shape-From-OSB-and-Turned-It-Into-a-Tall-Upholstered-Headboard.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Cut-This-Curved-Shape-From-OSB-and-Turned-It-Into-a-Tall-Upholstered-Headboard.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-09-21T07:10:18+00:00"
-    },
-    {
       "id": "7ff5790444aef1b8",
       "title": "Il bagno tailor-made di Arblu",
       "summary": "Un’evoluzione della collezione di mobili Hito, ancora più trasversale e ampiamente configurabile, ideale per la progettazione di un bagno coerente e contemporaneo. Una linea capace di coniugare estetica, funzionalità e ricerca materica, che interpreta concretamente il percorso di riposizionamento intrapreso dal brand The post Il bagno tailor-made di Arblu appeared first on Interni Magazine .",
@@ -631,9 +752,9 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/09/1-359x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/09/1-359x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_1-MODO-PROJECT-NEW-.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/IDUME-Spa_04.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/ape_2-noorth_Franq_26-03_1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Progetto-senza-titolo.jpg"
       ],
@@ -653,7 +774,7 @@
         "https://www.internimagazine.it/content/uploads/2026/08/3-26057-ITL-ICS-X-Line-06-de-v.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/4-26057-ITL-ICS-X-Line-05-de-v.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/5-26057-ITL-ICS-Salvaspazio-01-co-v.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/IDUME-Spa_04.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape-1-FB_PE_60ST2FL.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -860,45 +981,6 @@
       "published": "2026-09-20T15:15:00+00:00"
     },
     {
-      "id": "23cd9f5127b1fefb",
-      "title": "A Homeowner’s Guide to Greener, Cheaper Living: Kitchen Edition",
-      "summary": "There’s a lot you can do to reduce energy and waste in the heart of your home. The post A Homeowner’s Guide to Greener, Cheaper Living: Kitchen Edition appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/diy/cheap-living-tips/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/09/shutterstock_2116196156-e1789764070964.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/09/shutterstock_2116196156-e1789764070964.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-09-20T14:00:00+00:00"
-    },
-    {
-      "id": "189cbaab676d40e1",
-      "title": "Purple Countertops Made This Kitchen Dark — White IKEA Cabinets Saved It",
-      "summary": "Tired of all-white? Honja‘s kitchen remodel proves the trend still has legs, especially when paired with cheerful spring pastels. Their kitchen was blessed with good bones, but also cursed with a purple laminate counter — and swinging saloon doors.“We knew it had all kinds of potential down the road,” she says.She saved for three years to afford this streamlined $10,000 remodel, and elected to do a do-it-yourself renovation. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/white-pastel-kitchen-makeover-ba-37691206?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/archive/before-5-1024x680",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/archive/before-5-1024x680"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-09-20T12:00:00+00:00"
-    },
-    {
-      "id": "15b24d2405b4de58",
-      "title": "How to Find the Clutter Problem Area in Your Home",
-      "summary": "Clutter can sneak up on you if you’re not regularly decluttering your home and implementing organizational systems that actually work for you. One minute you’ll be tossing just one shirt onto your dedicated “clothes chair,” and the next there’s an entire wardrobe sitting there. Clutter can be even harder to tame when it’s hiding in a spot you’re not checking often. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/find-and-fix-cluttered-areas-37685482?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/march/lydia-r/tours-london-lydia-r-22",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/house%20tours/2026/march/lydia-r/tours-london-lydia-r-22"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-09-20T12:00:00+00:00"
-    },
-    {
       "id": "377ef2cb4b3884c4",
       "title": "Inside Courtney & Sev’s dream coastal kitchen reveal",
       "summary": "With calming curves and light aplenty The post Inside Courtney & Sev’s dream coastal kitchen reveal appeared first on Homes To Love .",
@@ -1061,15 +1143,28 @@
       "image": "https://www.yankodesign.com/images/design_news/2026/09/strata-chair/strata_chair_yanko_design_02.jpg",
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/09/strata-chair/strata_chair_yanko_design_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/10/colmacarthurs-leonardo-1519-watch-runs-backwards-in-tribute-to-da-vinci/Leonardo_1519_The_Reverse_Turning_Watch_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/fun_way_pet_product_yanko_design-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/05/auto-draft/satechi_findall_glasses_case_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/09/hisense-u6sf-pro-wraps-a-1200-nit-mini-led-panel-in-glare-free-screen-and-650-price-tag/Hisense-65-U6-Pro-Gaming-AI-Smart-Fire-TV-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/10/01/retractable_printer.jpg",
+        "https://www.yankodesign.com/images/design_news/1970/01/01/mortar_pestle.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/10/auto-draft/google_nest_clock_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-18T21:30:27+00:00"
+    },
+    {
+      "id": "183cc1861f4166e4",
+      "title": "The Splinter Report: September 18th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at a sad table, a good... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-september-18th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/18125853/splinter-report-9-18.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/09/18125853/splinter-report-9-18.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-18T20:19:34+00:00"
     },
     {
       "id": "31a4c77f90485319",
@@ -1083,47 +1178,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-09-18T13:00:00+00:00"
-    },
-    {
-      "id": "8649e673b8b7e2b1",
-      "title": "Philippe Starck is building his dream retreat in Portugal. Now, you can own some of it",
-      "summary": "Opening in Melides in 2028, ASerra will unite a 25-suite hotel, 22 serviced villas and a timber village within the Alentejo landscape",
-      "url": "https://www.wallpaper.com/travel/hotels/first-look-philippe-starck-aserra-melides-portugal",
-      "image": "https://cdn.mos.cms.futurecdn.net/Cq6G44hW9h9gBbUhS6WHpF.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/Cq6G44hW9h9gBbUhS6WHpF.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-09-18T10:58:27+00:00"
-    },
-    {
-      "id": "a6bb6305279640be",
-      "title": "Bin Wu's mirror-topped Pavilion of Time aims to \"make time tangible\"",
-      "summary": "Chinese designer Bin Wu has unveiled the Pavilion of Time, which features timber screens topped by a circular mirror, in the courtyard of Domaine National du Palais-Royal for Paris Design Week. Wu described the pavilion, which he created in response to the theme of this year's Paris Design Week, Pulse in Motion, as \"making time The post Bin Wu's mirror-topped Pavilion of Time aims to \"make time tangible\" appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/18/pavilion-of-time-bin-wu-paris-design-week/",
-      "image": "http://static.dezeen.com/uploads/2026/09/bin-wu-pavilion-of-time-paris-design-week_dezeen_1704_col_sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/09/bin-wu-pavilion-of-time-paris-design-week_dezeen_1704_col_sq.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-18T10:15:25+00:00"
-    },
-    {
-      "id": "297041b5eb9e2e37",
-      "title": "Khoy sofa bed by Khoy",
-      "summary": "Dezeen Showroom: Finnish company Khoy's flagship product transforms from a seat into a bed by simply unzipping it, without relying on conventional \"over-engineered\" mechanisms. Available in sizes ranging from single to king, the Khoy sofa bed is made of two simple slabs of polyurethane foam that fold open like a book to make an expansive The post Khoy sofa bed by Khoy appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/18/khoy-sofa-bed-khoy-dezeen-showroom/",
-      "image": "http://static.dezeen.com/uploads/2026/09/khoy-sofa-bed-design_dezeen_2364_sq2.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/09/khoy-sofa-bed-design_dezeen_2364_sq2.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-18T09:30:45+00:00"
     },
     {
       "id": "71cc81fa8495a119",
@@ -1340,11 +1394,11 @@
       "image": "https://www.yankodesign.com/images/design_news/2026/09/holy-moly-is-the-swiss-army-knife-of-flat-pack-furniture-hardware/holy-moly-cabinet-05.jpg",
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/09/holy-moly-is-the-swiss-army-knife-of-flat-pack-furniture-hardware/holy-moly-cabinet-05.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/aulumus-iphone-18-pro-cases-survive-drops-glow-in-the-dark-and-auto-cool-your-phone/Aulumu-Cases.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/linkind-smart-light-stick-review-most-bulbs-glow-this-one-dazzles/Linkind-Srmat-Light-Stick-Review-Yanko-Design-12.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/04/29/cut_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/05/chaise-espinhal-by-mauricio-coelho/chaise_espinhal_9.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/01/auto-draft/jules_chair_sarah_willemart_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/09/hisense-u6sf-pro-wraps-a-1200-nit-mini-led-panel-in-glare-free-screen-and-650-price-tag/Hisense-65-U6-Pro-Gaming-AI-Smart-Fire-TV-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/12/this-award-winning-swing-feeds-birds-when-kids-arent-playing/birddy-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/11/21/avsnitt_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/09/ikea-rack/ploga_rack_ikea_yanko_design_04.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1500,19 +1554,6 @@
       "published": "2026-09-16T23:47:34+00:00"
     },
     {
-      "id": "92e6323329680213",
-      "title": "The 9 Best Ways to Make Your Kitchen More Functional",
-      "summary": "It's not the size of the kitchen that makes the space easy to navigate, it's the way it's designed and appointed. Here's what to do if you want your kitchen to work better for you. The post The 9 Best Ways to Make Your Kitchen More Functional appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/interior/functional-kitchen-tips/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/09/kitchen-efficient.jpeg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/09/kitchen-efficient.jpeg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-09-16T20:50:00+00:00"
-    },
-    {
       "id": "8e0ca7c3c29ed784",
       "title": "Channeling 1970s California Style: Sun Ranch Resort in Byron Bay, Australia",
       "summary": "Located in the hinterlands of Byron Bay, the Australian seaside hangout and surfing hub, Sun Ranch channels the area’s hang loose vibe. But it does so in surprising, inventive ways: the resort is set on a 55-acre former cattle farm and takes inspiration from 1970s California ranches houses—sunken living room, crushed velvet upholstery, fringed lampshades, […]",
@@ -1608,19 +1649,6 @@
       "source": "Woodshop News",
       "source_url": "https://www.woodshopnews.com",
       "published": "2026-09-15T15:17:32+00:00"
-    },
-    {
-      "id": "03b85932c24bebe8",
-      "title": "Cea Design's Incredibly Modernist Hideaway Toilet",
-      "summary": "This Abaco bathroom system is by Cea Design, an Italian manufacturer of high-end bathrooms. It's designed to not look like a toilet at all, when not in use, and is made of stainless steel. It can also be customized with wood or marble. The seating surface is heated, and there's a built-in bidet. Check out this demo, by Ukrainian bathroom installer Concept Hall:",
-      "url": "https://www.core77.com/posts/145368/Cea-Designs-Incredibly-Modernist-Hideaway-Toilet",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1850053_lead_400_145368_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1850053_lead_400_145368_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-09-15T15:00:00+00:00"
     },
     {
       "id": "c02d1ee27e1cc0dd",
@@ -1771,24 +1799,6 @@
       "published": "2026-09-14T10:00:39+00:00"
     },
     {
-      "id": "682a71e5bedce333",
-      "title": "5 Tips for Designing a Restorative Bathroom Retreat",
-      "summary": "Designer Vanessa Deleon shares the thoughtful details that can turn a primary bath into a more immersive, sensory experience.",
-      "url": "https://www.elledecor.com/design-decorate/room-ideas/a73495197/5-tips-for-designing-a-restorative-bathroom-retreat/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/0e606652-0eb7-4baf-b72f-29aa086e8d1c.jpeg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/0e606652-0eb7-4baf-b72f-29aa086e8d1c.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/cd6226d5-d164-45a6-8a0e-7647cb21ef4a.png",
-        "https://hips.hearstapps.com/hmg-prod/images/88c41786-b8a4-4e79-bd9e-8970675b4e50.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/d5e3e93f-8059-453a-8552-128a460eafcc.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/cb96c502-c859-4d95-ad3e-669b5c99097b.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/a4cce613-4fcd-4ec8-8799-37db3af80dea.jpg"
-      ],
-      "source": "Elle Decor",
-      "source_url": "https://www.elledecor.com",
-      "published": "2026-09-14T09:00:00+00:00"
-    },
-    {
       "id": "eae00ca388ad2dd8",
       "title": "You won’t believe this sprawling family home started as a two-bedroom semi",
       "summary": "This heritage semi on Sydney’s Northern Beaches has evolved from a cosy starter house to an adaptable home. The post You won’t believe this sprawling family home started as a two-bedroom semi appeared first on Home Beautiful .",
@@ -1913,11 +1923,11 @@
       "image": "http://static.dezeen.com/uploads/2026/06/dob-modular-system-by-flat-point-dezeen-showroom-2-sq_dezeen_2364_col_1.jpg",
       "images": [
         "http://static.dezeen.com/uploads/2026/06/dob-modular-system-by-flat-point-dezeen-showroom-2-sq_dezeen_2364_col_1.jpg",
+        "https://static.dezeen.com/uploads/2026/06/vermland-modular-kitchen-square-showroom_dezeen_2364_col_0.jpg",
+        "https://static.dezeen.com/uploads/2026/09/dezeen-awards-2026-interiors-shortlist_dezeen_2364_col_3.jpg",
         "https://static.dezeen.com/uploads/2026/09/b-aram-design-everything-with-limitations_dezeen_2364_col_2.jpg",
         "https://static.dezeen.com/uploads/2026/09/cork-wall-gencork-design_dezeen_2364_col_0-1.jpg",
-        "https://static.dezeen.com/uploads/2026/09/i-in-andersson-bell-tokyo_dezeen_2364_col_sq1.jpg",
-        "https://static.dezeen.com/uploads/2026/09/gel-lamp-public-parts-billy-easter-lighting-design-silicone_dezeen_2364_col_0.jpg",
-        "https://static.dezeen.com/uploads/2026/09/mos-art-omi-pavilion-upstate_dezeen_2364_sq-ex.jpg"
+        "https://static.dezeen.com/uploads/2026/09/i-in-andersson-bell-tokyo_dezeen_2364_col_sq1.jpg"
       ],
       "source": "Dezeen tag storage",
       "source_url": "https://www.dezeen.com",
@@ -2135,19 +2145,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-08T17:36:46+00:00"
-    },
-    {
-      "id": "678c8d83fa7d5b92",
-      "title": "ACSP Offering Guided Tours of KBIS/IBS",
-      "summary": "Registration is now open for KBIS/IBS 2027, and the Association of Closet and Storage Professionals (ACSP) is giving its members an opportunity to get the inside scoop on all things... The post ACSP Offering Guided Tours of KBIS/IBS appeared first on Woodshop News Magazine .",
-      "url": "https://www.woodshopnews.com/acsp-offering-guided-tours-of-kbis-ibs",
-      "image": "https://www.woodshopnews.com/uploads/2026/09/ascplogo500x280_WSN.jpg?auto=webp",
-      "images": [
-        "https://www.woodshopnews.com/uploads/2026/09/ascplogo500x280_WSN.jpg?auto=webp"
-      ],
-      "source": "Woodshop News",
-      "source_url": "https://www.woodshopnews.com",
-      "published": "2026-09-08T15:59:57+00:00"
     },
     {
       "id": "7c690c1b722d152a",
@@ -2614,6 +2611,19 @@
       "published": "2026-08-26T22:00:00+00:00"
     },
     {
+      "id": "52739f6288d73ed0",
+      "title": "How to Make a Cabinet Drawer",
+      "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
+      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-drawer-box/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-26T12:17:50+00:00"
+    },
+    {
       "id": "553ff215ed636898",
       "title": "Xbox teams up with IKEA for debut gaming furniture collection",
       "summary": "Designers from IKEA and Xbox were paired up to create the products in this furniture collection, including a stool that looks and tilts like a giant thumbstick. Unveiled today at the Gamescom fair in Cologne, the nine-piece YXSTABY range is Xbox's debut foray into gaming furniture, designed to blend easily into the home when it's The post Xbox teams up with IKEA for debut gaming furniture collection appeared first on Dezeen .",
@@ -2638,6 +2648,19 @@
       "source": "Wood Whisperer",
       "source_url": "https://thewoodwhisperer.com",
       "published": "2026-08-25T16:15:12+00:00"
+    },
+    {
+      "id": "be28624a0945a1a9",
+      "title": "How to Make a Cabinet Door",
+      "summary": "A tongue-and-groove router bit set gets the job done fast. When you learn how to make cabinet doors, you will have mastered one of the basic skills in woodworking. Doors... Source",
+      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-door/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-25T12:37:20+00:00"
     },
     {
       "id": "b682f4d65dd56f7e",
@@ -2731,9 +2754,22 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
       ],
-      "source": "Dezeen tag furniture",
+      "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
+    },
+    {
+      "id": "469cfdc32d0929cf",
+      "title": "Custom Edge Protection, Part 1: Crafting a Riveted Leather Edge Scabbard",
+      "summary": "Every woodworker knows the importance of keeping edge tools sharp, but protecting those razor-sharp edges when tools are tucked into a drawer or tossed into a travel bag is just... Source",
+      "url": "https://www.popularwoodworking.com/projects/custom-edge-protection-part-1-crafting-a-riveted-leather-edge-scabbard/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-17T15:55:43+00:00"
     },
     {
       "id": "7f2e997b250cb0e2",
@@ -2971,11 +3007,11 @@
       "image": "http://static.dezeen.com/uploads/2026/07/flo-wall-light-soktas-lighting-showroom_dezeen_2364_col_0.jpg",
       "images": [
         "http://static.dezeen.com/uploads/2026/07/flo-wall-light-soktas-lighting-showroom_dezeen_2364_col_0.jpg",
+        "https://static.dezeen.com/uploads/2026/09/cork-wall-gencork-design_dezeen_2364_col_0-1.jpg",
         "https://static.dezeen.com/uploads/2026/09/geocode-tiles-vitra-design_dezeen_2364_sq.jpg",
         "https://static.dezeen.com/uploads/2026/09/khoy-sofa-bed-design_dezeen_2364_sq2.jpg",
         "https://static.dezeen.com/uploads/2026/09/nina-lounge-chair-patricia-urquiola-andreu-world-design_dezeen_2364_col_0-1.jpg",
-        "https://static.dezeen.com/uploads/2026/09/gingko-lounge-chair-anne-mette-bartholin-morten-ernst-cozmo-design_dezeen_2364_sq.jpg",
-        "https://static.dezeen.com/uploads/2026/09/terre-radiator-sebastian-herkner-tubes-design_dezeen_2364_sq2.jpg"
+        "https://static.dezeen.com/uploads/2026/09/gingko-lounge-chair-anne-mette-bartholin-morten-ernst-cozmo-design_dezeen_2364_sq.jpg"
       ],
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
