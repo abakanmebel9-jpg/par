@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-24T22:19:50.271523+00:00",
-  "generated_at_human": "2026-09-24 22:19 UTC",
-  "total_items": 211,
+  "generated_at": "2026-09-25T01:24:53.113687+00:00",
+  "generated_at_human": "2026-09-25 01:24 UTC",
+  "total_items": 235,
   "sources_used": [
     "Apartment Therapy",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -33,9 +34,12 @@
     "Homedit furniture",
     "Homes To Love AU",
     "Hunker",
+    "Interiors Addict AU",
     "Interni magazine",
     "NKBA",
     "PopSugar Home",
+    "Popular Woodworking",
+    "Popular Woodworking projects",
     "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
@@ -46,6 +50,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -54,9 +59,22 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 48,
-  "multi_photo_items": 59,
+  "sources_count": 53,
+  "multi_photo_items": 62,
   "items": [
+    {
+      "id": "846f3583ace5da14",
+      "title": "This Charred-Wood Home in Japan Turns a Backyard Constraint Into Its Best Feature",
+      "summary": "This Charred-Wood Home in Japan Turns a Backyard Constraint Into Its Best Feature Kobe-based Tato Architects has never been a studio that plays it safe, and the House in Mibu — a 108-square-metre family home nestled inside the...",
+      "url": "https://www.yankodesign.com/2026/09/24/this-charred-wood-home-in-japan-turns-a-backyard-constraint-into-its-best-feature/?utm_source=rss&utm_medium=rss&utm_campaign=this-charred-wood-home-in-japan-turns-a-backyard-constraint-into-its-best-feature",
+      "image": "https://www.yankodesign.com/images/design_news/2026/09/house-mibu/house_in_mibu_yanko_design_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/09/house-mibu/house_in_mibu_yanko_design_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-09-24T22:30:46+00:00"
+    },
     {
       "id": "483067be032852f5",
       "title": "MSCHF warps two Lexus cars into surreal sculptures that look like a video glitch",
@@ -84,6 +102,19 @@
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-09-24T18:00:00+00:00"
+    },
+    {
+      "id": "d72afb0c037dd22f",
+      "title": "Fix Uneven Chair or Stool Legs",
+      "summary": "A simple table saw technique levels four legs in no time flat. Rock-n-roll. That’s what four-legged pieces have a habit of doing – even with perfect joinery and a careful... Source",
+      "url": "https://www.popularwoodworking.com/techniques/fix-uneven-legs/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2022/01/06pwm1302truing-copy.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2022/01/06pwm1302truing-copy.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-24T17:32:18+00:00"
     },
     {
       "id": "9412868dee888960",
@@ -333,10 +364,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/09/Chronolith_DaaaHaus_Recobel_SLV_001-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/03/CHRONOLITH-MDW2026-DAAA-Haus-Diana-Iskander-v2-5.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Drone-Castello-Cinquecentesco.jpg",
         "https://www.internimagazine.it/content/uploads/2026/06/BBB2543.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/DSC_3769.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/SENTIENT-HORIZONS-2026.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/06/SENTIENT-HORIZONS-2026.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Drone-Castello-Cinquecentesco.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/DSC_3769.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -380,9 +411,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/10000-rivets-collection/aluminum_furniture_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/flashlights-usually-dont-have-personalities-olights-oclip-2-ultra-kind-of-does/Olight-Oclip-2-series-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/auto-draft/lego_ideas_spongebob_krusty_krab_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/02/13/tilt_it.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/05/nmd/adidas_nmd_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/09/lego-replica-of-the-nasa-james-webb-space-telescope-comes-with-the-same-complex-folding-design/lego_nasa_james_webb_telescope_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/03/sink-into-luxury-the-king-cloud-recliner-takes-movie-night-to-a-whole-new-level/KL-Cloud-Recliner-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/04/BioVYZR_air_filtration_protective_shield_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -437,9 +468,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/nobody-will-guess-this-stool-actually-has-wheels/all-round-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/flashlights-usually-dont-have-personalities-olights-oclip-2-ultra-kind-of-does/Olight-Oclip-2-series-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/10/auto-draft/black_match_table_12.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/12/title-this-smart-chair-morphs-position-physical-shape-based-on-preferences-during-different-times-of-the-workday/Routine-Chair-Smart-Office-Chair-4.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/this-hammock-rocking-chair-hybrid-is-perfect-for-the-poolside-porch-or-even-your-high-rise-balcony/panama_banana_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2017/10/dividi/dividi_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/03/15-types-of-chairs-you-should-know-about/wishbone-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/06/iko-hanging-chair/iko_hanging_chair_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -539,6 +570,19 @@
       "published": "2026-09-23T15:35:14+00:00"
     },
     {
+      "id": "23ccd2d2c5773a5e",
+      "title": "Upholstery for Arm Chairs",
+      "summary": "You’ve built your chair, and all that’s left is making the cushion to sit on. I may be persnickety when it comes to armchair upholstery, but I really prefer a... Source",
+      "url": "https://www.popularwoodworking.com/techniques/upholstery-for-arm-chairs/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/23111543/limbert-armchair-figure-27a.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/09/23111543/limbert-armchair-figure-27a.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-23T15:05:22+00:00"
+    },
+    {
       "id": "76bb8d1b5c7e431a",
       "title": "Her 30-Year-Old Cherry Cabinets Looked Dated, but She Didn’t Paint Them and Updated Everything Else Instead",
       "summary": "Dark cherry cabinets, ornate brass hardware, speckled granite, white appliances, and a fluorescent ceiling light gave this 30-year-old kitchen a look its new owner wanted to change. Painting the cabinets could have delivered the fastest visual shift, but the wood was one part of the room she wanted to preserve. Reddit user Korgity bought the... The post Her 30-Year-Old Cherry Cabinets Looked Dated, but She Didn’t Paint Them and Updated Everything Else Instead appeared first on Homedit .",
@@ -581,6 +625,19 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-23T13:00:22+00:00"
+    },
+    {
+      "id": "989f603704ca092e",
+      "title": "Help! I Sanded Through Veneer",
+      "summary": "Sanding through a veneer happens to everyone sooner or later. Here’s an old cabinetmaker’s trick that will salvage what looks to be a hopeless situation. Source",
+      "url": "https://www.popularwoodworking.com/tricks/q-a-repair-a-sand-through/",
+      "image": "https://media.popularwoodworking.com/app/uploads/repair_2D00_a_2D00_sand_2D00_through_5F00_lead.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/repair_2D00_a_2D00_sand_2D00_through_5F00_lead.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-23T12:23:00+00:00"
     },
     {
       "id": "16dd52cf3cd7bd5d",
@@ -756,9 +813,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/09/795472331_2130028115055957_5073105710725268970_n-768x525.png?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/09/closing-partY_DA-SINISTRA_STEFANIA-RINALDI_GIOVANNA-BASILE_VTTORIA-MARINO.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/Giulio-Ghirardi©Michelangelo-Foundation_84378424_downloadOriginal.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/20_BB-Studio_Studio-Portaluppi_Filippo-Taidelli-Architecture_Architectural-Intervention-Description-Images.jpg",
         "https://www.internimagazine.it/content/uploads/2026/02/design-experience-corso.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/Giulio-Ghirardi©Michelangelo-Foundation_84378424_downloadOriginal.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/03_KOYAUWE_03_BY_Tommaso-Galora.jpg"
       ],
       "source": "Interni magazine",
@@ -775,8 +832,8 @@
         "https://www.internimagazine.it/content/uploads/2026/09/Foto-1.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/09/ape_3D31861B-4B00-4E2B-BE39-CACF559A900D.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/cave-di-prun_7-1-Copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/Pirelli_10043_Panorama.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Vanity-Fair-di-Poltrona-Frau-.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/Pirelli_10043_Panorama.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Foto-di-apertura.jpg"
       ],
       "source": "Interni magazine",
@@ -821,6 +878,19 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-09-22T16:31:51+00:00"
+    },
+    {
+      "id": "121ebf0705c489c3",
+      "title": "Mid-Century Modern End Table",
+      "summary": "This table blends clean lines with clever book storage—proving good design is as functional as it is beautiful. For many years the furniture in my house was a hodgepodge of... Source",
+      "url": "https://www.popularwoodworking.com/projects/mid-century-modern-end-table/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/05/05152618/mainshot-copy.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/05/05152618/mainshot-copy.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-22T16:06:40+00:00"
     },
     {
       "id": "5aaa4453fdee931f",
@@ -932,19 +1002,6 @@
       "published": "2026-09-22T11:30:59+00:00"
     },
     {
-      "id": "229a5dadc19a3780",
-      "title": "Tato Architects completes charred timber-clad home in Japan",
-      "summary": "Charred-timber cladding is contrasted with warm plywood-lined interiors at House in Mibu, a home in Tochigi Prefecture, Japan, completed by local studio Tato Architects. The 108-square-metre home was designed for a couple and their three children in the backyard of the client's parental home, tucked off a residential street in the town of Mibu. As The post Tato Architects completes charred timber-clad home in Japan appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/22/tato-architects-house-in-mibu/",
-      "image": "http://static.dezeen.com/uploads/2026/09/house-in-mibu-tato-architects-japan-residential-architecture-charred-timber_dezeen_2364_sq.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/09/house-in-mibu-tato-architects-japan-residential-architecture-charred-timber_dezeen_2364_sq.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-22T10:30:46+00:00"
-    },
-    {
       "id": "f916dc448e33f7dc",
       "title": "The women behind some of the world’s most recognisable furniture",
       "summary": "Visionary careers that changed the course of design The post The women behind some of the world’s most recognisable furniture appeared first on Homes To Love .",
@@ -954,9 +1011,9 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-15t150320.762-6aa8d19b24453.png?format=auto&v=1789448613",
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/belle_cover-marketing_v0.2-6a9df6fd60508-scaled.jpg?format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-15t150320.762-6aa8d19b24453.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-09-24t165320.094-6ab4c8e431d75.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/sydney-swimming-pool-6ab37924eea31.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/03/best-pet-friendly-stays-australia-6ab4ab6ce8f1d.png?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/top-50-rooms-readers-choice-voting--6ab5c4a29f083.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-25t101203.190-6ab5bcb722aa6.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-09-24t165320.094-6ab4c8e431d75.png?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1028,9 +1085,9 @@
       "images": [
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/best-dog-friendly-stays-tasmania-1-6ab1ef97ba191.png?format=auto&v=1790046133",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/best-dog-friendly-stays-tasmania-1-6ab1ef97ba191.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/top-50-rooms-readers-choice-voting--6ab5c4a29f083.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-25t101203.190-6ab5bcb722aa6.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-09-24t165320.094-6ab4c8e431d75.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/sydney-swimming-pool-6ab37924eea31.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/03/best-pet-friendly-stays-australia-6ab4ab6ce8f1d.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/grace-flynn-content-producer.jpg?w=2048&format=auto"
       ],
       "source": "Homes To Love AU",
@@ -1170,6 +1227,19 @@
       "published": "2026-09-21T19:30:31+00:00"
     },
     {
+      "id": "f54a262c4677b98c",
+      "title": "ShopNotes Podcast Episode 286 — Don’t Build Another Crumby Breadboard",
+      "summary": "In this episode of the ShopNotes Podcast, Phil, Logan, and John talk woodworking tools, hand-tool sharpening, current shop projects, and what’s happening behind the scenes at Woodsmith and Popular Woodworking.... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-286-dont-build-another-crumby-breadboard/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/21130631/screenshot-2026-09-21-at-12.06.11pm.png",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/09/21130631/screenshot-2026-09-21-at-12.06.11pm.png"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-21T17:07:51+00:00"
+    },
+    {
       "id": "739804b7103c9a87",
       "title": "NKBA Debuts Reimagined Design Hub and New Programming at High Point Fall Market",
       "summary": "N NKBA Staff Posted: Sep 21, 2026 12:27 pm HPMKT Press Barbour Spangle Design reinvigorates Broad Hall vignettes and expanded programming highlights 2027 Kitchen Trends Report ﬁndings BETHLEHEM, Pa. , September 14, 2026 – The National Kitchen & Bath Association (NKBA) , the world’s leading trade association for the kitchen and bath industry, in partnership with Cosentino Group , today announces a redesigned Design Hub at Broad Hall , debuting at High Point Fall Market. NKBA has partnered with High Point, NC-based interior design ﬁrm Barbour Spangle to introduce a new kind of show house,…",
@@ -1192,9 +1262,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/nook-stack-is-the-floor-lamp-that-moonlights-as-a-bookshelf/nook-stack-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/flashlights-usually-dont-have-personalities-olights-oclip-2-ultra-kind-of-does/Olight-Oclip-2-series-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/leo-concept-chair-lets-painters-have-more-mobility-while-working-on-canvas/leo-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/04/06/tension_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/interactive-chair-installation-lets-you-create-sound-through-human-touch/indikator-00.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/05/how-marble-waste-is-reused-to-become-mesmerizing-eclipse-inspired-wall-lamps/sole-lamp-4.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/10/smartspin/smartspin_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/03/Lybra_Balance_Lamp_balance_and_spin_on_anything.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1441,9 +1511,9 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-21t105531.254-6ab080c65aebf.png?format=auto&v=1789952198",
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/belle_cover-marketing_v0.2-6a9df6fd60508-scaled.jpg?format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-21t105531.254-6ab080c65aebf.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-09-24t165320.094-6ab4c8e431d75.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/sydney-swimming-pool-6ab37924eea31.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/03/best-pet-friendly-stays-australia-6ab4ab6ce8f1d.png?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/top-50-rooms-readers-choice-voting--6ab5c4a29f083.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/copy-of-site-feature-horizontal-1920-x-1080-2026-09-25t101203.190-6ab5bcb722aa6.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/07/hero-crop-2026-09-24t165320.094-6ab4c8e431d75.png?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1588,6 +1658,19 @@
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-18T21:30:27+00:00"
+    },
+    {
+      "id": "183cc1861f4166e4",
+      "title": "The Splinter Report: September 18th",
+      "summary": "Welcome to The Splinter Report, where I gather the assorted interesting and amusing things I’ve seen in the woodworking world. This week we’re looking at a sad table, a good... Source",
+      "url": "https://www.popularwoodworking.com/editors-blog/the-splinter-report-september-18th/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/18125853/splinter-report-9-18.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/09/18125853/splinter-report-9-18.jpg"
+      ],
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-09-18T20:19:34+00:00"
     },
     {
       "id": "31a4c77f90485319",
@@ -1939,6 +2022,19 @@
       "published": "2026-09-15T06:42:01+00:00"
     },
     {
+      "id": "d12a7c10aed3a105",
+      "title": "Woodworkers For a Cause 2026: How to Help Before October 3",
+      "summary": "Sixteen years ago I met a woodworker named Duane Moore who was fighting pancreatic cancer. Nicole and I drove out to Ohio to spend a couple of days at his bench, and that trip turned into Woodworkers Fighting Cancer. Since 2010, this community has moved more than $150,000 to charity, five and ten and fifty […] The post Woodworkers For a Cause 2026: How to Help Before October 3 appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/wfc2026/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-09-14T20:13:14+00:00"
+    },
+    {
       "id": "a92b904d23a4da8e",
       "title": "Sabrina Albanese Reimagines a Toronto Home for Its Next Chapter",
       "summary": "The Lawrence Park renovation turns its attention to everyday rituals, with a professional chef’s kitchen, dedicated coffee bar, and immersive indoor garden.",
@@ -1976,6 +2072,19 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-09-14T13:16:56+00:00"
+    },
+    {
+      "id": "ffc264593dbe6ab9",
+      "title": "Dacor Blurs the Line Between Kitchen and Living Space",
+      "summary": "From panel-ready models to flush installation, the leading appliance brand is refining how its products fit into residential interiors — all without sacrificing performance. The post Dacor Blurs the Line Between Kitchen and Living Space appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/dacor-blurs-the-line-between-kitchen-and-living-space/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/09/Azure-Dacor-Invisible-Kitchen-04.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/09/Azure-Dacor-Invisible-Kitchen-04.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-09-14T13:00:00+00:00"
     },
     {
       "id": "5d3934d532ffc67f",
@@ -2621,6 +2730,19 @@
       "published": "2026-08-26T22:00:00+00:00"
     },
     {
+      "id": "52739f6288d73ed0",
+      "title": "How to Make a Cabinet Drawer",
+      "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
+      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-drawer-box/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2020/04/10161342/aw_16232_-021-copy.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-26T12:17:50+00:00"
+    },
+    {
       "id": "553ff215ed636898",
       "title": "Xbox teams up with IKEA for debut gaming furniture collection",
       "summary": "Designers from IKEA and Xbox were paired up to create the products in this furniture collection, including a stool that looks and tilts like a giant thumbstick. Unveiled today at the Gamescom fair in Cologne, the nine-piece YXSTABY range is Xbox's debut foray into gaming furniture, designed to blend easily into the home when it's The post Xbox teams up with IKEA for debut gaming furniture collection appeared first on Dezeen .",
@@ -2632,6 +2754,32 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-26T10:00:18+00:00"
+    },
+    {
+      "id": "3241a25fff70de1c",
+      "title": "What is Fine Woodworking?",
+      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-25T16:15:12+00:00"
+    },
+    {
+      "id": "be28624a0945a1a9",
+      "title": "How to Make a Cabinet Door",
+      "summary": "A tongue-and-groove router bit set gets the job done fast. When you learn how to make cabinet doors, you will have mastered one of the basic skills in woodworking. Doors... Source",
+      "url": "https://www.popularwoodworking.com/projects/how-to-make-a-cabinet-door/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2020/04/10154127/aw_16231_-020.jpg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-25T12:37:20+00:00"
     },
     {
       "id": "fe3843766038afe3",
@@ -2710,6 +2858,19 @@
       "source": "Dezeen tag cabinets",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-18T05:00:26+00:00"
+    },
+    {
+      "id": "469cfdc32d0929cf",
+      "title": "Custom Edge Protection, Part 1: Crafting a Riveted Leather Edge Scabbard",
+      "summary": "Every woodworker knows the importance of keeping edge tools sharp, but protecting those razor-sharp edges when tools are tucked into a drawer or tossed into a travel bag is just... Source",
+      "url": "https://www.popularwoodworking.com/projects/custom-edge-protection-part-1-crafting-a-riveted-leather-edge-scabbard/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg",
+      "images": [
+        "https://media.popularwoodworking.com/app/uploads/2026/08/13180106/p1130396.jpeg"
+      ],
+      "source": "Popular Woodworking projects",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-08-17T15:55:43+00:00"
     },
     {
       "id": "7f2e997b250cb0e2",
@@ -2845,6 +3006,19 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-08-04T16:48:36+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "70f52947d252c821",
@@ -2997,6 +3171,99 @@
       "published": "2026-07-23T22:00:00+00:00"
     },
     {
+      "id": "79e76c291e2a3ffe",
+      "title": "Largest home builder Metricon, unveils its first prefab pilot",
+      "summary": "Completed in just 20 days from slab pour to building completion, the pilot marks one of the first times a major Australian volume home builder has tested how prefabricated construction can be successfully integrated into a mainstream volume-building model –… The post Largest home builder Metricon, unveils its first prefab pilot appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/largest-home-builder-metricon-unveils-its-first-prefab-pilot",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3836.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3836.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Wall-installation.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3853.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3909.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/0F0A3845.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Prefab-Pilot-Home-in-progress.jpg"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-23T21:00:00+00:00"
+    },
+    {
+      "id": "1df532c60ca802e8",
+      "title": "Designer Claudia Lambert champions personality over perfection",
+      "summary": "What if the secret to a beautiful home isn’t following trends, but trusting your instincts? That’s the question at the… The post Designer Claudia Lambert champions personality over perfection appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/designer-claudia-lambert-champions-personality-over-perfection",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Claud-book-portrait_Finals-1.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Claud-book-portrait_Finals-1.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/ShapingSpaces_Front_Cover.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-20-at-7.38.52-pm.png",
+        "https://files.theinteriorsaddict.com/uploads/2022/05/Jen-Bishop-headshot.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/03/image-24.png",
+        "https://files.theinteriorsaddict.com/uploads/2026/03/image-13.png"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-22T21:00:00+00:00"
+    },
+    {
+      "id": "c77fea1f38bf0c81",
+      "title": "The Blotch-Free Finish Guide",
+      "summary": "You spent hours building something beautiful. The joinery is tight, the surfaces are smooth, and you’re finally ready to bring the piece to life by applying a clear coat or stain. At first, everything seems great. But within seconds, you begin to notice dark patches appearing across the surface like a bad rash (it’s poison […] The post The Blotch-Free Finish Guide appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/the-blotch-free-finish-guide/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/blotch.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/blotch.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-07-22T19:19:57+00:00"
+    },
+    {
+      "id": "c00cba595270b915",
+      "title": "Emma Lunn turns her love of sourcing European objets into a job",
+      "summary": "When most of us were holed up at home, juggling work with school schedules, learning to make bread and becoming… The post Emma Lunn turns her love of sourcing European objets into a job appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/emma-lunn-turns-her-love-of-sourcing-european-objets-into-a-job",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi-EmmaLunn_web_JacquiTurk-3.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi-EmmaLunn_web_JacquiTurk-3.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi_web_JacquiTurk-7.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi-EmmaLunn_web_JacquiTurk-1.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi_web_JacquiTurk-9.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Secondi_web_JacquiTurk-1.jpg",
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-20-at-8.23.57-pm.png"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-21T21:00:00+00:00"
+    },
+    {
+      "id": "be792df478b6a1f3",
+      "title": "An interior stylist’s guide to Sydney’s hidden home shopping gems",
+      "summary": "Award-winning interior stylist Lucy Gough, shares where to shop for your home in Sydney depending on what you’re looking for,… The post An interior stylist’s guide to Sydney’s hidden home shopping gems appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/an-interior-stylists-guide-to-sydneys-hidden-home-shopping-gems",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/11.jpg"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-20T21:00:00+00:00"
+    },
+    {
+      "id": "aef125a359ff289a",
+      "title": "Playful patterns, chocolate brown & quiet luxury: Kmart newness",
+      "summary": "Kmart’s new, and always highly anticipated, living collection has officially landed in stores, bringing the internet’s most viral trends straight… The post Playful patterns, chocolate brown & quiet luxury: Kmart newness appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/playful-patterns-chocolate-brown-quiet-luxury-kmart-newness",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-19-at-8.42.40-pm.png",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-19-at-8.42.40-pm.png"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-19T21:00:00+00:00"
+    },
+    {
       "id": "697834369d9590c3",
       "title": "ZHA 3D-prints voluptuous chair from recycled plastic",
       "summary": "Architecture studio ZHA, formerly Zaha Hadid Architects, has worked with Spanish brand Nagami to launch the 3D-printed Echo Chair made from recycled plastic. The sculptural chair, envisioned using parametric design software, features an arching backrest that extends to the ground in one plane and a seat that scoops up at the sides to hug the sitter. The post ZHA 3D-prints voluptuous chair from recycled plastic appeared first on Dezeen .",
@@ -3023,6 +3290,45 @@
       "published": "2026-07-15T08:00:39+00:00"
     },
     {
+      "id": "440e8c6f278a23bc",
+      "title": "What Milan 2026 means for Australian homes and businesses",
+      "summary": "From coffee-making taps and wellness-focused bathrooms to richer colour palettes, intelligent lighting and sculptural forms, Milan Design Week 2026 revealed… The post What Milan 2026 means for Australian homes and businesses appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/what-milan-2026-means-for-australian-homes-and-businesses",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/06/terracotta-bathroom-vanity-design-milan.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/06/terracotta-bathroom-vanity-design-milan.jpg"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-15T01:00:00+00:00"
+    },
+    {
+      "id": "aa580973c2c4a632",
+      "title": "Retrofitted homes cooler for residents in harsh desert climate",
+      "summary": "A housing retrofit project launched in the APY Lands in 2023 has significantly improved indoor temperatures for residents who live… The post Retrofitted homes cooler for residents in harsh desert climate appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/retrofitted-homes-cooler-for-residents-in-harsh-desert-climate",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Overview-of-kinspan-on-house.jpg",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Overview-of-kinspan-on-house.jpg"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-14T21:00:00+00:00"
+    },
+    {
+      "id": "c2467bb6ef08e985",
+      "title": "Turn the bathroom into your home’s wellness hub with small touches",
+      "summary": "Australians are increasingly bringing wellness into their homes, and the bathroom is emerging as one of the most important spaces… The post Turn the bathroom into your home’s wellness hub with small touches appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/turn-the-bathroom-into-your-homes-wellness-hub-with-small-touches",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-14-at-10.21.13-am.png",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-14-at-10.21.13-am.png"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-14T00:30:21+00:00"
+    },
+    {
       "id": "6961a46d6e7ceaef",
       "title": "Everything in one piece",
       "summary": "For a residential home in Brilon, in Germany's Sauerland region, the desire for a seamless bathroom served as the guiding principle for the design. The “CeraFrame Liquid” shower channel from Dallmer made it possible to harmonize the room’s minimalist character with the requirements for reliable, long-term drainage.",
@@ -3034,6 +3340,19 @@
       "source": "Stylepark DE",
       "source_url": "https://www.stylepark.com",
       "published": "2026-07-13T22:00:00+00:00"
+    },
+    {
+      "id": "64e551d1ae166122",
+      "title": "FRESH! 2026 Decor + Design has a brand new look",
+      "summary": "Australia’s definitive destination for the interior design industry, Decor + Design, returns for its 22nd edition to the Melbourne Exhibition… The post FRESH! 2026 Decor + Design has a brand new look appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/fresh-2026-decor-design-has-a-brand-new-look",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-11-at-10.44.46-am.png",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/Screenshot-2026-07-11-at-10.44.46-am.png"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-11T00:49:22+00:00"
     },
     {
       "id": "18c564c52a784122",
@@ -3060,6 +3379,19 @@
       "source": "Stylepark DE",
       "source_url": "https://www.stylepark.com",
       "published": "2026-07-08T22:00:00+00:00"
+    },
+    {
+      "id": "944cca6bafc5c894",
+      "title": "Update your home on a budget with our latest Kmart picks",
+      "summary": "By Lexi Kentmann Blending local design, functionality and must-have pieces, Kmart’s just launched a new Living collection to help you… The post Update your home on a budget with our latest Kmart picks appeared first on The Interiors Addict .",
+      "url": "https://theinteriorsaddict.com/update-your-home-on-a-budget-with-our-latest-kmart-picks",
+      "image": "https://files.theinteriorsaddict.com/uploads/2026/07/43704576-3.png",
+      "images": [
+        "https://files.theinteriorsaddict.com/uploads/2026/07/43704576-3.png"
+      ],
+      "source": "Interiors Addict AU",
+      "source_url": "https://theinteriorsaddict.com",
+      "published": "2026-07-08T02:13:59+00:00"
     },
     {
       "id": "e69d68ed29184525",
