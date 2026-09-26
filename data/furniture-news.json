@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-09-26T21:02:55.917574+00:00",
-  "generated_at_human": "2026-09-26 21:02 UTC",
-  "total_items": 247,
+  "generated_at": "2026-09-26T23:33:57.956503+00:00",
+  "generated_at_human": "2026-09-26 23:33 UTC",
+  "total_items": 246,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -60,8 +60,26 @@
     "Мебель-expo"
   ],
   "sources_count": 53,
-  "multi_photo_items": 50,
+  "multi_photo_items": 51,
   "items": [
+    {
+      "id": "ae952ae2a9b2a22d",
+      "title": "She thought better lighting was the final upgrade: a stylist showed her the one thing her vanity still missed",
+      "summary": "She’d done everything the beauty blogs told her to do. Swapped the yellow bulbs above her bathroom mirror for bright white daylight LEDs. Added a tall light strip on each side so her face lit up evenly. Her foundation stopped looking orange in the car. Her eyeliner finally matched on both sides. On paper, her […] The post She thought better lighting was the final upgrade: a stylist showed her the one thing her vanity still missed appeared first on Trendir .",
+      "url": "https://www.trendir.com/she-thought-better-lighting-was-the-final-upgrade-a-stylist-showed-her-the-one-thing-her-vanity-still-missed/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-styling-long-brown-hair-ponytail-mirror-vanity-hair-dryer-succulents.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/woman-styling-long-brown-hair-ponytail-mirror-vanity-hair-dryer-succulents.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/neutral-boucle-sofa-botanical-pillows-dark-wood-coffee-table-green-art.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/07/04-attic-dressing-room-led-lit-pitched-wardrobes.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/05/Teal-from-Floor-to-Ceiling-with-Globe-Pendants.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/09/Traditional-Kitchen-With-Curved-Metal-Range-Hood-and-Full-Stainless-Wall.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/08/cozy-living-room-sofa-wooden-coffee-table.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-09-26T23:26:05+00:00"
+    },
     {
       "id": "f6aef984149145e8",
       "title": "Charging Pads Save Your Phone, BIONIC’s Also Clears Your Counter",
@@ -74,6 +92,21 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-09-26T20:45:26+00:00"
+    },
+    {
+      "id": "5c4f21568abce121",
+      "title": "Ditch The Overstuffed Vanity: IKEA Has An Easy Way To Deal With Bathroom Clutter",
+      "summary": "This IKEA find is great for storing your prized skincare and makeup products without losing them. Plus, you can customize it to suit your storage needs.",
+      "url": "https://www.hunker.com/2259042/bathroom-clutter-vanity-alternative-ikea-mirror-cabinet/",
+      "image": "https://www.hunker.com/img/gallery/ditch-the-overstuffed-vanity-ikea-has-an-easy-way-to-deal-with-bathroom-clutter/l-intro-1789484259.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/ditch-the-overstuffed-vanity-ikea-has-an-easy-way-to-deal-with-bathroom-clutter/l-intro-1789484259.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-overstuffed-vanity-ikea-has-an-easy-way-to-deal-with-bathroom-clutter/intro-1789484259.jpg",
+        "https://www.hunker.com/img/gallery/ditch-the-overstuffed-vanity-ikea-has-an-easy-way-to-deal-with-bathroom-clutter/how-to-upgrade-the-nysjn-mirror-cabinet-to-declutter-a-bathroom-1789484261.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-09-26T19:00:00+00:00"
     },
     {
       "id": "ebfa313b1ae4b430",
@@ -156,9 +189,7 @@
       "url": "https://www.hunker.com/2267328/upcycle-tin-can-fall-decor-holder-for-desk-vanity/",
       "image": "https://www.hunker.com/img/gallery/she-transforms-a-tin-can-into-the-cutest-fall-decor-for-your-desk-or-vanity/l-intro-1790230330.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/she-transforms-a-tin-can-into-the-cutest-fall-decor-for-your-desk-or-vanity/l-intro-1790230330.jpg",
-        "https://www.hunker.com/img/gallery/she-transforms-a-tin-can-into-the-cutest-fall-decor-for-your-desk-or-vanity/intro-1790230330.jpg",
-        "https://www.hunker.com/img/gallery/she-transforms-a-tin-can-into-the-cutest-fall-decor-for-your-desk-or-vanity/how-to-create-a-charming-fall-storage-container-out-of-a-tin-can-1790230332.jpg"
+        "https://www.hunker.com/img/gallery/she-transforms-a-tin-can-into-the-cutest-fall-decor-for-your-desk-or-vanity/l-intro-1790230330.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -356,7 +387,7 @@
         "https://cdn.trendir.com/wp-content/uploads/2026/09/grass-stays-green-borders-do-the-rest.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/04/Cozy-Backyard-Lantern-Nook.webp"
       ],
-      "source": "Trendir",
+      "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-09-25T20:57:54+00:00"
     },
@@ -520,19 +551,6 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-09-25T12:04:09+00:00"
-    },
-    {
-      "id": "2d81a5f0f732aaec",
-      "title": "This Renter-Friendly Redo Made Yellow-Toned Cabinets Look So Much Better",
-      "summary": "If you’re a renter wondering where you should spend your budget on decorating your apartment, take Alli’s (@actuallyalliDIY) advice: “I like to try to save as much money as possible on the removable renovations,” she says. “I tend to invest more money into the decor items because those items can move with me and be used in future spaces. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/rental-kitchen-oak-cabinets-green-tile-300-dollars-makeover-ba-37691886?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-11/actually-ali-kitchen/alli-kitchen-before-ps-tag",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2024-11/actually-ali-kitchen/alli-kitchen-before-ps-tag"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-09-25T12:00:00+00:00"
     },
     {
       "id": "7a6147650de15046",
@@ -849,10 +867,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/09/Chronolith_DaaaHaus_Recobel_SLV_001-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/03/CHRONOLITH-MDW2026-DAAA-Haus-Diana-Iskander-v2-5.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/07/Drone-Castello-Cinquecentesco.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/SENTIENT-HORIZONS-2026.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/BBB2543.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/DSC_3769.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/06/BBB2543.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/07/Drone-Castello-Cinquecentesco.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/06/SENTIENT-HORIZONS-2026.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -881,9 +899,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/10000-rivets-collection/aluminum_furniture_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/flashlights-usually-dont-have-personalities-olights-oclip-2-ultra-kind-of-does/Olight-Oclip-2-series-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/this-classic-1979-lego-computer-brick-hides-a-fully-functional-mac-mini-workstation-inside/Watt-IV-lego-M2x2-case-DIY-3.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/from-smart-curtains-to-climate-control-save-40-on-switchbot-smart-home-gadgets-this-prime-day/SwitchBot_2023_Prime_Day_Sale_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/01/11/folded_cellphone.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/02/ds/conch_2.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/05/Geco_Hub_effortless_storage_for_everyday_stuff.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/03/tecno-spark-slim-concept-phone/TECHNO-SPARK-Slim-back-cameras.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -938,9 +956,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/nobody-will-guess-this-stool-actually-has-wheels/all-round-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/flashlights-usually-dont-have-personalities-olights-oclip-2-ultra-kind-of-does/Olight-Oclip-2-series-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/10/stool/stool_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/02/15/chairbookcase01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/06/comfortable-and-aesthetic-rocker-is-made-from-a-single-plywood/curvesse-05.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/02/20/rubbertable_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/a-jigsaw-puzzle-table-lets-you-take-your-food-or-work-away-with-you/puzzle-table-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/09/just-fold-it/foldit_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1431,19 +1449,6 @@
       "published": "2026-09-22T00:04:40+00:00"
     },
     {
-      "id": "1e9dc8d8a15b3c0b",
-      "title": "No Shed, No Pavilion: 11 Backyard Kitchens That Still Feel Completely Built in",
-      "summary": "Not every backyard needs a whole structure just to cook outside. The best setups are the ones that skip the shed, skip the pool house, and still give you a real kitchen right there in the open. These 11 backyard ideas show you exactly how people are pulling it off. 11 Backyard Outdoor Kitchens That […] The post No Shed, No Pavilion: 11 Backyard Kitchens That Still Feel Completely Built in appeared first on Trendir .",
-      "url": "https://www.trendir.com/backyards-with-no-shed-or-building-that-however-run-a-full-outdoor-kitchen/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Backyards-With-No-Shed-or-Building-That-However-Run-a-Full-Outdoor-Kitchen.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/Backyards-With-No-Shed-or-Building-That-However-Run-a-Full-Outdoor-Kitchen.png"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-09-22T00:00:00+00:00"
-    },
-    {
       "id": "26c027fc01b1cb9b",
       "title": "The KitchenAid Luminaire Mixer That Glows On Your Countertop",
       "summary": "The KitchenAid Luminaire Mixer That Glows On Your Countertop I’ve recently started becoming more serious about cooking. I’m still in the beginner phase, so all I really need right now is a good set...",
@@ -1541,9 +1546,9 @@
         "https://www.yankodesign.com/images/design_news/2026/09/nook-stack-is-the-floor-lamp-that-moonlights-as-a-bookshelf/nook-stack-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/flashlights-usually-dont-have-personalities-olights-oclip-2-ultra-kind-of-does/Olight-Oclip-2-series-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/elegoo-day-2026-invites-the-world-to-create-share-and-grow-with-nexprint/ELEGOO-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/06/09/s_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/seouls-wild-nature-just-inspired-the-furniture-everyone-wants/pul-00.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/auto-draft/lido_table_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2011/03/29/chair_push_and_pull.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/08/yonos/yonos_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/09/fall-camping-gadgets-that-actually-earn-their-pack-weight-in-2026/9_best_fall_camping_gadgets_yanko_design_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1807,10 +1812,10 @@
       "images": [
         "https://hips.hearstapps.com/hmg-prod/images/0351b009-b294-47da-ab4e-a2e9fbef797a.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/6067e537-12d9-4f02-b5f2-5564ffd61615.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/7476d0b8-e9ab-4d59-b918-fee857d14385.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/54c8e8c5-d644-4fe5-8085-497008f9278e.png",
         "https://hips.hearstapps.com/hmg-prod/images/f04c8a15-dd41-4ce7-ab58-488d5dab21c4.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/1c5d7c19-a4d5-45fd-851a-138c37afaed7.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/54c8e8c5-d644-4fe5-8085-497008f9278e.png"
+        "https://hips.hearstapps.com/hmg-prod/images/1a7bc7a4-74b1-4c25-94cd-23c415ee3d92.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/e7e03d19-7df0-4884-811c-81c11950afc7.jpeg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -2305,19 +2310,6 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-09-11T20:21:03+00:00"
-    },
-    {
-      "id": "404be8f3231dbf57",
-      "title": "A Teen Bedroom Has 4 Jobs, the Hasuit Corner Bed Handles All of Them",
-      "summary": "A Teen Bedroom Has 4 Jobs, the Hasuit Corner Bed Handles All of Them A teenager’s bedroom has to do the work of four rooms at once: a place to sleep, a place to study, a place to charge...",
-      "url": "https://www.yankodesign.com/2026/09/11/a-teen-bedroom-has-4-jobs-the-hasuit-corner-bed-handles-all-of-them/?utm_source=rss&utm_medium=rss&utm_campaign=a-teen-bedroom-has-4-jobs-the-hasuit-corner-bed-handles-all-of-them",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/a-teen-bedroom-has-4-jobs-the-hasuit-corner-bed-handles-all-of-them/hasuit-twin-corner-bed-desk-storage-bookcase-01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/a-teen-bedroom-has-4-jobs-the-hasuit-corner-bed-handles-all-of-them/hasuit-twin-corner-bed-desk-storage-bookcase-01.jpg"
-      ],
-      "source": "Yanko Design furniture",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-11T17:20:23+00:00"
     },
     {
       "id": "86a317b65d9af560",
