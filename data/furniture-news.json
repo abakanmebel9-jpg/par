@@ -1,13 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-10-05T18:20:30.137881+00:00",
-  "generated_at_human": "2026-10-05 18:20 UTC",
-  "total_items": 247,
+  "generated_at": "2026-10-06T00:45:21.678164+00:00",
+  "generated_at_human": "2026-10-06 00:45 UTC",
+  "total_items": 268,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
+    "Bob Vila",
     "Core77",
     "DM tag bathroom",
     "Design Boom architecture",
@@ -28,6 +29,7 @@
     "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
+    "Gardenista",
     "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
@@ -41,6 +43,7 @@
     "PopSugar Home",
     "Popular Woodworking",
     "Popular Woodworking projects",
+    "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
@@ -59,9 +62,68 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 64,
+  "sources_count": 56,
+  "multi_photo_items": 65,
   "items": [
+    {
+      "id": "fa1bd5fc66cabf06",
+      "title": "For sale, Savin Couëlle’s spectacular organic villa complex on a remote Corsican island",
+      "summary": "Villa Pieds Dans L'Eau is a masterpiece of 70s organic architecture, built into the rocky coastline of the Corsican island of Cavallo",
+      "url": "https://www.wallpaper.com/architecture/residential/savin-couelles-organic-villa-france",
+      "image": "https://cdn.mos.cms.futurecdn.net/B8rx7y24Z3nvb2xbrzoTFg.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/B8rx7y24Z3nvb2xbrzoTFg.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-10-06T00:00:00+00:00"
+    },
+    {
+      "id": "b567a741597ec198",
+      "title": "A $50 Mantel Inspired This DIY Fireplace — He Handmade Every Tile",
+      "summary": "If you don’t have a fireplace in your living room or bedroom, you can always make one — whether that’s an operational one or a purely decorative one. Here are nine DIY fireplace ideas to inspire you — plus a 10th one from stylist and interior decorator Chad Burton (@chadburton.studio). READ MORE...",
+      "url": "https://www.apartmenttherapy.com/fireplace-makeover-with-handmade-tiles-700-dollars-ba-37693111?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-10/chad-b-fireplace/chad-b-fireplace-before-tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-10/chad-b-fireplace/chad-b-fireplace-before-tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-10-05T22:00:00+00:00"
+    },
+    {
+      "id": "94a40ea91b5467be",
+      "title": "Amazon Drops Patio Furniture Up to 51% for Prime Big Deal Days—Dinning Sets, Patio Heaters, Fire Pits, and More",
+      "summary": "Extend outdoor season with discounts on heaters, fire pits, and full patio sets before Prime Big Deal Days begins. The post Amazon Drops Patio Furniture Up to 51% for Prime Big Deal Days—Dinning Sets, Patio Heaters, Fire Pits, and More appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/amazon-prime-day-patio-oct-2026/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/10/Amazon-Prime-Day-Patio-deals-Oct-2026.jpg?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/10/Amazon-Prime-Day-Patio-deals-Oct-2026.jpg?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-10-05T19:00:00+00:00"
+    },
+    {
+      "id": "505157c2ffb981ed",
+      "title": "The Countertops Made Every Backsplash Sample Look Wrong Until This One",
+      "summary": "Kitchen cabinets and countertops often determine the backsplash instead of the other way around. Reddit user u/Alert-Delivery7845 discovered that after installing Fabuwood Slim Shaker cabinets in Pistachio and Dove with Blue Mediterraneo quartzite countertops. Every backsplash sample changed the countertop, making the last design decision the hardest one. The finished kitchen combines muted cabinet colors,... The post The Countertops Made Every Backsplash Sample Look Wrong Until This One appeared first on Homedit .",
+      "url": "https://www.homedit.com/the-countertops-made-every-backsplash-sample-look-wrong-until-this-one/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Countertops-Made-Every-Backsplash-Sample-Look-Wrong-Until-This-One.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Countertops-Made-Every-Backsplash-Sample-Look-Wrong-Until-This-One.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Every-Finish-Competed-for-Attention.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/Floating-Shelves-Lightened-the-Sink-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Finished-Backsplash-Stays-in-the-Background.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Quartzite-Explained-the-Problem.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/08/The-Decision-Came-Down-to-Undertone.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-10-05T18:59:49+00:00"
+    },
     {
       "id": "4bf4c4319d2bb795",
       "title": "Not Shelving Or Cabinets: IKEA Has A Simple Way To Add Storage To Small Bathrooms",
@@ -227,10 +289,10 @@
       "image": "http://static.dezeen.com/uploads/2024/08/neom-world-cup-stadium-the-line_dezeen_2364_col_1.jpg",
       "images": [
         "http://static.dezeen.com/uploads/2024/08/neom-world-cup-stadium-the-line_dezeen_2364_col_1.jpg",
+        "https://static.dezeen.com/uploads/2026/10/estudio-modulo-itau-cultural-sao-paolo_dezeen_2364_sq.jpg",
         "https://static.dezeen.com/uploads/2026/10/design-museum-gent-carmody-groarke-atama-belgium-sq_dezeen_2364_col_1.jpg",
         "https://static.dezeen.com/uploads/2026/09/delivering-humanised-places-research-thomas-heatherwick_dezeen_2364_col_0.jpg",
         "https://static.dezeen.com/uploads/2026/09/farshid-moussavi-2026-soane-medal_dezeen_2364_col_0.jpg",
-        "https://static.dezeen.com/uploads/2026/09/sq-meta-muse-charm_dezeen_2364_col_0.jpg",
         "https://static.dezeen.com/uploads/2026/09/rare-collectiv-skroget-timber-sauna-norway-sq_dezeen_2364_col_0.jpg"
       ],
       "source": "Dezeen",
@@ -272,6 +334,24 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-05T10:00:46+00:00"
+    },
+    {
+      "id": "73358e03c877e807",
+      "title": "Room to Grow: Kai Avent-deLeon Turns a Mobile Home Into a Modern Sanctuary",
+      "summary": "We’ve been following artist/designer/entrepreneur Kai Avent-deLeon’s moves since 2019. Back then, we photographed her one-bedroom railroad apartment in Bed-Stuy, Brooklyn. A year later, we reconnected when she moved into a larger duplex in the same neighborhood, and we shot it for our newest book Remodelista: The Low-Impact Home. Not long after that, she found a […]",
+      "url": "https://www.remodelista.com/posts/kai-avent-deleons-upstate-mobile-home/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-dining-portrait.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-dining-portrait.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-outdoor-dining.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-vase.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-throw-beds.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-kitchen-sink.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-bedroom.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-05T10:00:03+00:00"
     },
     {
       "id": "2493e0fa20c3e7f7",
@@ -332,13 +412,31 @@
         "https://www.yankodesign.com/images/design_news/2026/10/flat-pack-furniture-that-actually-survives-your-next-move/flat-pack-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-poclink/Poclink-Motion-The-Next-Gen-Hybrid-Sports-Communicator-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/Starglow_the_most_realistic_lightsaber_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/10/auto-draft/samsung_galaxy_a9_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/09/carlo-rattis-orange-juice-machine-serves-oj-in-cups-made-from-3d-printed-orange-peels/circular_orange_juice_bar_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/11/is-apple-drone-just-a-pipedream-patents-suggest-otherwise/Apple-Drone-by-Eric-Huismann-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/11/this-rugged-phone-has-a-rear-screen-dslr-level-camera-sensor-for-vlogging/THEIA-Imaging-Smartphone-Concept-by-Nuno-Teixeira-1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/11/favor-ar-pen-lets-you-draw-messages-in-air-print-as-photo-cards/favor-ar-message-concept-01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-05T08:15:00+00:00"
+    },
+    {
+      "id": "923d173e68dbdca9",
+      "title": "Elevated Living Begins in the Kitchen: Dacor Appliances Designed for the Way We Live",
+      "summary": "The kitchen is more than a place to cook. It’s where mornings begin, and days end—a place for conversation, sharing meals, gathering, and working. It’s one of the most lived-in rooms in the house, and the most appealing kitchens tend to feel like rooms rather than collections of equipment. The balance is in choosing appliances […]",
+      "url": "https://www.remodelista.com/posts/dacor-kitchen-appliances-for-daily-life/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set-30-inch-combination-wall-oven.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-wine-column.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set-36-inch-induction-cooktop.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set-fridge-freezer-column.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set-triple-columns-04.jpeg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-05T08:00:01+00:00"
     },
     {
       "id": "27069f76dcf6e3b7",
@@ -347,12 +445,7 @@
       "url": "https://www.homedit.com/the-original-fireplace-tile-was-almost-lost-until-they-painted-the-brick-this-color/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/The-Original-Fireplace-Tile-Was-Almost-Lost-Until-They-Painted-the-Brick-This-Color.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/The-Original-Fireplace-Tile-Was-Almost-Lost-Until-They-Painted-the-Brick-This-Color.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Paint-preparation-exposed-the-contrast-around-the-fireplace.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Another-view-shows-how-dark-Andiron-can-look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/The-hearth-pattern-makes-more-sense-up-close.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Original-wood-became-part-of-the-new-palette.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/White-walls-push-the-fireplace-forward.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/The-Original-Fireplace-Tile-Was-Almost-Lost-Until-They-Painted-the-Brick-This-Color.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -553,7 +646,7 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/10/nespresso-x-swarovski-a-299-coffee-machine-nobody-ignores/nespresso-01.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-04T15:20:55+00:00"
     },
@@ -580,9 +673,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/652065/future_of_the_past_furniture_1.png",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-poclink/Poclink-Motion-The-Next-Gen-Hybrid-Sports-Communicator-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/a-square-bladeless-fan-this-design-breaks-all-the-rules/bladeless-fan-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/02/this-compact-pizza-oven-is-the-secret-to-unlocking-restaurant-style-wood-fired-pizzas-at-home/Gozney_Arc_oven_05.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/288941/01_CableTread_eventure_CircuitBoardDesk.png"
+        "https://www.yankodesign.com/images/design_news/2015/04/10/puro_planter_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/10/13/eyacht_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/04/07/glass_kettle.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -615,19 +708,6 @@
       "published": "2026-10-04T12:00:00+00:00"
     },
     {
-      "id": "e16bbaaf8d558efd",
-      "title": "They Removed the Wall Behind This Oak Kitchen and the Entire Floor Plan Opened Up",
-      "summary": "Moving a kitchen into another part of the house can solve layout problems that new cabinets and finishes cannot. In this home, the kitchen and dining area occupied adjoining spaces, but a load-bearing wall, large peninsula, and separate floor zones kept the two areas divided. Reddit user u/No-Statistician6977 opened the wall behind the kitchen and... The post They Removed the Wall Behind This Oak Kitchen and the Entire Floor Plan Opened Up appeared first on Homedit .",
-      "url": "https://www.homedit.com/they-moved-the-kitchen-into-the-dining-room-and-the-entire-floor-plan-opened-up/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Moved-the-Kitchen-Into-the-Dining-Room-and-the-Entire-Floor-Plan-Opened-Up.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/07/They-Moved-the-Kitchen-Into-the-Dining-Room-and-the-Entire-Floor-Plan-Opened-Up.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-10-04T11:23:13+00:00"
-    },
-    {
       "id": "ffa6ba210f2e8bb1",
       "title": "Five innovative and practical modular furniture designs",
       "summary": "Our latest roundup looks at modular furniture pieces that are both practical and surprising, ranging from an alternative to bespoke cabinetry to a furniture system made up of squishy balls. Amoreba by Golem Amoreba is comprised of hundreds of soft, upholstered balls that can be combined in a wide range of configurations. Architecture and design The post Five innovative and practical modular furniture designs appeared first on Dezeen .",
@@ -639,6 +719,37 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-04T09:00:44+00:00"
+    },
+    {
+      "id": "03c193460fbc6aff",
+      "title": "Quick Takes With: Lisa Przystup",
+      "summary": "You may remember Lisa Przystup from our 2017 post on her rustic-meets-minimalist Catskills home (the one with that clever DIY brass backsplash) or our 2021 story on the updates made since then. Or perhaps you’ve heard of her because you read and loved her book on the chic homes of chic Upstaters. But even if […]",
+      "url": "https://www.remodelista.com/posts/lisa-przystup-gardening-quick-takes/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-garden.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-dahlias.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-clippers.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-chamomile.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-04T08:00:12+00:00"
+    },
+    {
+      "id": "ca8028091c676db7",
+      "title": "Quick Takes With: Lisa Przystup",
+      "summary": "You may remember Lisa Przystup from our 2017 post on her rustic-meets-minimalist Catskills home (the one with that clever DIY brass backsplash) or our 2021 story on the updates made since then. Or perhaps you’ve heard of her because you read and loved her book on the chic homes of chic Upstaters. But even if […]",
+      "url": "https://www.gardenista.com/posts/quick-takes-lisa-przystup/",
+      "image": "http://www.gardenista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg",
+      "images": [
+        "http://www.gardenista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-10-04T08:00:00+00:00"
     },
     {
       "id": "1f762813a9ea744a",
@@ -699,26 +810,11 @@
       "url": "https://www.wallpaper.com/architecture/residential/west-london-extension-brown-urbanism-kitchen-bee-uk",
       "image": "https://cdn.mos.cms.futurecdn.net/QnBvxq7giCgBakFMdCxKW6.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/QnBvxq7giCgBakFMdCxKW6.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/QnBvxq7giCgBakFMdCxKW6.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-10-03T06:00:00+00:00"
-    },
-    {
-      "id": "05383418fe65e968",
-      "title": "A “Sea of Natural Maple Cabinetry” Became an Unexpectedly Colorful Kitchen",
-      "summary": "Wisconsin-based interior designer Emily Winters of Peabody’s Interiors was tasked with an all-too-classic mission: An outdated kitchen from the late 1990s to early 2000s was in need of a modern makeover — and a much more functional layout.“It was a sea of natural maple cabinetry with sponge-painted walls and Corian countertops,” Winters says of the original kitchen. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/purple-floral-kitchen-transformation-ba-37693058?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-09/natural-maple-cabinetry/zesty-kitchen-make-over-before-tagged-2",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-09/natural-maple-cabinetry/zesty-kitchen-make-over-before-tagged-2"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-10-02T22:00:00+00:00"
     },
     {
       "id": "95ceaa4df77ef93e",
@@ -939,6 +1035,19 @@
       "published": "2026-10-02T09:30:51+00:00"
     },
     {
+      "id": "1c0d9fa086468238",
+      "title": "Meanwhile, on Remodelista: Inside Out",
+      "summary": "No surprise, we are big fans of bringing the outdoors in, but moving the indoors out can be just as transformative. Here are four times traditionally indoor objects have elevated an outdoor space, all spotted over on Remodelista: Pendant Light Curtains Tablecloth Houseplants (and Cat) See also: Meanwhile, on Remodelista: Chic Outdoor Spaces, European Edition […]",
+      "url": "https://www.gardenista.com/posts/meanwhile-remodelista-inside/",
+      "image": "https://media.gardenista.com/wp-content/uploads/2019/06/tenuta-borgia-dammuso-vigna-pantelleria-italy-outdoor-dining.jpg",
+      "images": [
+        "https://media.gardenista.com/wp-content/uploads/2019/06/tenuta-borgia-dammuso-vigna-pantelleria-italy-outdoor-dining.jpg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-10-02T08:00:01+00:00"
+    },
+    {
       "id": "d89d03ad6240ef12",
       "title": "The new Sunreef Brabus Ultima 55 is a swift and stealthy supercar for the waves",
       "summary": "What do you get if you cross a German purveyor of automobile extremism with an innovative Polish shipyard? Meet the Sunreef Brabus Ultima 55, a catamaran for the most brand-conscious, performance-hungry sailor",
@@ -973,11 +1082,11 @@
       "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/umb-media/28326/kitchen-sink-hero.png?format=auto&v=1688627123",
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/umb-media/28326/kitchen-sink-hero.png?format=auto&v=1688627123",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/hb_wordpress_hero_2026-6ac424a5950bf-scaled.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/victorian-architecture-home-entryway-6abca432c269b.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/09/hb_wordpress_hero_2026-6abc508918ec3-scaled.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/hb_wordpress_hero_2026-3-6abf0c73d823c-scaled.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/hb-main-x-house-for-sale-6abe093874b15.png?w=2729&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/avisa-brushed-brass-gold-avisa-700x450-large-single-bowl-sink-6abf2148c9e7b-scaled.jpg?fit=1024%2C854&resize=2560%2C2133",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/04/bronwen-835x459-gloss-white-farmhouse-fireclay-double-bowl-sink-6abf279872ab8-scaled.jpg?fit=1024%2C854&resize=2560%2C2133"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/the-edit-podcast-with-sarah-davidson-1-6abf4157b12e5.jpg?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/avisa-brushed-brass-gold-avisa-700x450-large-single-bowl-sink-6abf2148c9e7b-scaled.jpg?fit=1024%2C854&resize=2560%2C2133"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1104,26 +1213,13 @@
         "https://www.yankodesign.com/images/design_news/2026/09/sheet-metal-furniture-that-actually-survives-your-next-move/platea-vault-00.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-poclink/Poclink-Motion-The-Next-Gen-Hybrid-Sports-Communicator-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/clever-gadgets-tools-to-upgrade-your-remote-work-setup/10_best_clever_tools_remote_workers_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/05/01/flote.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/08/24/strollerbumbel01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/09/auto-draft/citying_savio_firmino_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/04/draft-light/magnus_lamp_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/08/272513/07-H33_yankodesign.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-01T13:20:01+00:00"
-    },
-    {
-      "id": "2e5852510241a21f",
-      "title": "White-brick extension defines Design Museum Gent revamp",
-      "summary": "Architecture studios Carmody Groarke, Atama and Re-st have completed the revamp of Design Museum Gent in Belgium, adding a geometric volume wrapped in waste-based white bricks. Set to reopen to the public in Ghent this weekend, the timber-framed wing introduces educational and event spaces to the museum, along with additional exhibition space. The team, which The post White-brick extension defines Design Museum Gent revamp appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/10/01/carmody-groarke-design-museum-gent/",
-      "image": "http://static.dezeen.com/uploads/2026/10/design-museum-gent-carmody-groarke-atama-belgium-sq_dezeen_2364_col_1.jpg",
-      "images": [
-        "http://static.dezeen.com/uploads/2026/10/design-museum-gent-carmody-groarke-atama-belgium-sq_dezeen_2364_col_1.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-10-01T10:45:07+00:00"
     },
     {
       "id": "df65d5346dac8109",
@@ -1151,15 +1247,28 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/10/Kerapoxy-Easy-Design-_-001_parete-_-HighRes.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/Kerapoxy-Easy-Design-_-001_parete-_-HighRes.jpg?imbypass=true",
+        "https://www.internimagazine.it/content/uploads/2026/09/Lanerossi_Store-Milano_project-bt-ThirtyOne-Design-12.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/10/VX-23-Set-06-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Meteore10Cemento-Eff-Compatto-Pag.-9-10-Ed.07-19.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/04.-Uplifts-S2-by-Stannah_detail.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/Lanerossi_Store-Milano_project-bt-ThirtyOne-Design-12.jpeg",
         "https://www.internimagazine.it/content/uploads/2026/10/P1022227.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
       "published": "2026-10-01T10:08:00+00:00"
+    },
+    {
+      "id": "e7c34e526816f47e",
+      "title": "Kitchen of the Week: Frama’s Freestanding Components Made By Top-Drawer Swedish Cabinetmaker Kvänum",
+      "summary": "A decade or so ago, when Niels Strøyer Christophersen founded his celebrated Copenhagen design firm, Frama, he used his living quarters in a restored 1905 watchmaker’s shop as a showcase for his studio’s work. Extolling natural, unpretentious materials, ease of use, and reverence for the old, Christophersen went on to created refreshingly simple elements for […]",
+      "url": "https://www.remodelista.com/posts/frama-modular-freestanding-kitchen-designs-from-kvanum/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2024/10/frama-kitchen-modules-by-kvanum-in-ginger-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2024/10/frama-kitchen-modules-by-kvanum-in-ginger-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-01T10:00:01+00:00"
     },
     {
       "id": "b17111bab5d7b8bd",
@@ -1172,8 +1281,8 @@
         "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/belle_cover-marketing_v0.2-6a9df6fd60508-scaled.jpg?format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/courtney-sev-the-block-redo-and-kids-room-reveal-week-6ac3786aca890.jpg?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/lisa-and-rosco-kids-room-6abca7e221def.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-10-02t165500.296-6abf554aacc4d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2016/08/Deborah-portrait-scaled.jpg?w=2022&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2016/08/Deborah-portrait-scaled.jpg?w=2022&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/05/collette-hero-6837db31f2158.png?resize=1950%2C1462&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1238,14 +1347,9 @@
       "url": "https://design-milk.com/dexter-hotel-michigan/",
       "image": "https://design-milk.com/images/2026/09/0512_Dexter-9451-Edit.jpg",
       "images": [
-        "https://design-milk.com/images/2026/09/0512_Dexter-9451-Edit.jpg",
-        "https://design-milk.com/images/2026/09/0512_Dexter-9836-Edit.jpg",
-        "https://design-milk.com/images/2026/09/0512_Dexter-9547-Edit.jpg",
-        "https://design-milk.com/images/2026/09/0701_Dexter-2043-Edit.jpg",
-        "https://design-milk.com/images/2026/09/0512_Dexter-9517-Edit.jpg",
-        "https://design-milk.com/images/2026/09/0528_Dexter-0753-Edit.jpg"
+        "https://design-milk.com/images/2026/09/0512_Dexter-9451-Edit.jpg"
       ],
-      "source": "Design Milk",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-09-30T21:34:18+00:00"
     },
@@ -1272,9 +1376,9 @@
         "https://www.internimagazine.it/content/uploads/2026/09/Contract-District-Group_1-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/09/Contract-District-Group_Servizio-di-progettazione-e-restituzione-virtuale_2-orizzontale.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/03_KOYAUWE_03_BY_Tommaso-Galora.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/20_BB-Studio_Studio-Portaluppi_Filippo-Taidelli-Architecture_Architectural-Intervention-Description-Images.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/09/10_CDWe26_le-_45-parole-damore_-di-Leftloft-sulle-telecabine-di-Dolonne_PH-Roberto-Roux.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/closing-partY_DA-SINISTRA_STEFANIA-RINALDI_GIOVANNA-BASILE_VTTORIA-MARINO.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/10_CDWe26_le-_45-parole-damore_-di-Leftloft-sulle-telecabine-di-Dolonne_PH-Roberto-Roux.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/09/20_BB-Studio_Studio-Portaluppi_Filippo-Taidelli-Architecture_Architectural-Intervention-Description-Images.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1335,24 +1439,6 @@
       "published": "2026-09-30T02:26:09+00:00"
     },
     {
-      "id": "296b079eb54fb357",
-      "title": "Why your standing desk should do more than go up and down",
-      "summary": "Your spine will thank you The post Why your standing desk should do more than go up and down appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/study-home-office/best-standing-desk-australia-24387/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2023/08/home-office-desks-6a8be83443bfe.png?format=auto&v=1787553863",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2023/08/home-office-desks-6a8be83443bfe.png?format=auto&v=1787553863",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2023/08/home-office-desks-6a8be83443bfe.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/courtney-sev-the-block-redo-and-kids-room-reveal-week-6ac3786aca890.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/lisa-and-rosco-kids-room-6abca7e221def.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/09/hero-crop-2026-10-02t165500.296-6abf554aacc4d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/04/grace-flynn-content-producer.jpg?w=2048&format=auto"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-09-30T02:10:21+00:00"
-    },
-    {
       "id": "6039b2e84de22837",
       "title": "At Dior, Jonathan Anderson Sat Rihanna in His Own Chair",
       "summary": "Along the runway at Dior’s Spring/Summer 2027 show were seats modeled after one of the creative director’s own. Was it this one? ELLE Decor investigates.",
@@ -1363,8 +1449,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/e2aecd23-ae69-4566-8f30-7cec51a4089e.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/2a4c4117-370d-452a-b8af-5e22bb1f746a.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/838cb02a-380f-4dc8-8895-fd42c8fc8d25.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/469f9acc-5dfe-4d82-bee9-da1524547782.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/bfe87294-fac3-432b-9d80-2505dbcb81a9.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/kaehler-akd02-1668018537.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/9a0f0dd2-47c9-4f69-95c4-6bfa9e0e1d1e.jpeg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1510,13 +1596,26 @@
         "https://www.internimagazine.it/content/uploads/2026/09/Marazzi_The_Top_Lume_009-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/09/Kreoo_Bathroom_Palace-Freestanding_Palace-Tub_Christophe-Pillet_01.jpg",
         "https://www.internimagazine.it/content/uploads/2025/08/ape_Cersaie2024_CittadellaPosa-77.jpg",
-        "https://www.internimagazine.it/content/uploads/2025/07/ape_Arbi-Arredobagno_Almond.jpg",
         "https://www.internimagazine.it/content/uploads/2025/12/3_Roca_Avant_wall_hung.jpg",
+        "https://www.internimagazine.it/content/uploads/2025/07/ape_Arbi-Arredobagno_Almond.jpg",
         "https://www.internimagazine.it/content/uploads/2025/07/ape_Ceramica-SantAgostino_GLOW_Plus-Night120120-Kry-Concrete60180_Restaurant.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
       "published": "2026-09-29T10:28:33+00:00"
+    },
+    {
+      "id": "5f4a281f71e0ff6d",
+      "title": "Remodelista Reconnaissance: A Funky Dutch Light in a Designer’s Apartment",
+      "summary": "So much of the designer Saba Ghorbanalinejad’s Paris apartment is reminiscent of works by icons. The modular vanity mirror is very Le Corbu. The swivel-out drawers are pure Eileen Gray. And the kitchen, with its arched, midcentury light fixture, feels like a nod, too. Where to buy one similar? We unearth some options: The Sighting […]",
+      "url": "https://www.remodelista.com/posts/midcentury-vintage-spage-age-light/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/09/saba-ghorbanalinejad-buttes-chaumont-03.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/09/saba-ghorbanalinejad-buttes-chaumont-03.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-29T08:00:14+00:00"
     },
     {
       "id": "7c8acf40901fbfbc",
@@ -1659,19 +1758,6 @@
       "published": "2026-09-28T15:07:06+00:00"
     },
     {
-      "id": "b6fa052a4de7ab9e",
-      "title": "ShopNotes Podcast Episode 287 — Interview with SawStop CEO Matt Howard",
-      "summary": "This week, Logan is joined by Bridgid from Fine Woodworking and SawStop CEO Matt Howard to discuss their new band saw. Head to the Woodsmith website for more info about... Source",
-      "url": "https://www.popularwoodworking.com/editors-blog/shopnotes-podcast-episode-287-interview-with-sawstop-ceo-matt-howard/",
-      "image": "https://media.popularwoodworking.com/app/uploads/2026/09/28093410/280-lead.jpg",
-      "images": [
-        "https://media.popularwoodworking.com/app/uploads/2026/09/28093410/280-lead.jpg"
-      ],
-      "source": "Popular Woodworking",
-      "source_url": "https://www.popularwoodworking.com",
-      "published": "2026-09-28T13:38:48+00:00"
-    },
-    {
       "id": "8538761f1eb55204",
       "title": "This Kitchen Looked Decades Older Than the Rest of the House—See How It Was Transformed",
       "summary": "The kitchen in this 1980s Pacific Palisades house looked much older than the rest of the house, so it got a modern, colorful update.",
@@ -1709,6 +1795,19 @@
       "source": "Garden & Home SA",
       "source_url": "https://gardenandhome.co.za",
       "published": "2026-09-28T09:33:52+00:00"
+    },
+    {
+      "id": "02ada83398770d88",
+      "title": "White Snakeroot: A Pesky Weed—or a Welcome Low-Maintenance Fall Bloomer?",
+      "summary": "”What are those things? Weeds?”asked an interested observer when I was rooting around in a garden bed at Alice Austen House, the Staten Island museum and gallery where I garden twice a week. “No,” I said, “they’re not weeds. They’re white snakeroot.” The name didn’t help. There are also resident snakes in the garden. “They […]",
+      "url": "https://www.gardenista.com/posts/white-snakeroot/",
+      "image": "https://media.gardenista.com/wp-content/uploads/2026/09/white-snakeroot-native-marie-viljoen.jpg",
+      "images": [
+        "https://media.gardenista.com/wp-content/uploads/2026/09/white-snakeroot-native-marie-viljoen.jpg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-09-28T08:00:10+00:00"
     },
     {
       "id": "b3e2d5a987f80de5",
@@ -1802,6 +1901,32 @@
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-09-26T16:06:26+00:00"
+    },
+    {
+      "id": "bea045ee7d5c2aac",
+      "title": "Current Obsessions: Turning In",
+      "summary": "Ahead this first official weekend of fall? Iconic kitchens on view, earthy colors for your cool-weather consideration, and bundles of flowers for all. Read on: The making of the modern cook space: “The Kitchen and Its Discontents” is on our must-visit list, on view now at LACMA. And newly open in Copenhagen: the Vipp Apartment […]",
+      "url": "https://www.remodelista.com/posts/current-obsessions-turning-in/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/06/hotel-wren-studio-manola-flowers.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/06/hotel-wren-studio-manola-flowers.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-26T08:00:45+00:00"
+    },
+    {
+      "id": "fa095c1dfc757e33",
+      "title": "Current Obsessions: Turning In",
+      "summary": "Ahead this first official weekend of fall? Iconic kitchens on view, earthy colors for your cool-weather consideration, and bundles of flowers for all. Read on: Niwaki x YMC? Yes, please. Jenni Kayne x Business & Pleasure? More, please. “Required reading for all gardeners facing a fall abundance: The Golden Door Table, the just-published cookbook from […]",
+      "url": "https://www.gardenista.com/posts/current-obsessions-turning-in/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/06/hotel-wren-studio-manola-flowers.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/06/hotel-wren-studio-manola-flowers.jpg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-09-26T08:00:24+00:00"
     },
     {
       "id": "91e812e3857174e6",
@@ -1900,6 +2025,19 @@
       "published": "2026-09-25T17:00:17+00:00"
     },
     {
+      "id": "7b5d2afe29a35b8a",
+      "title": "The Editors’ Cut: Home Office Upgrades for Smoother, Stress-Free Workdays",
+      "summary": "Welcome to The Editors’ Cut, our monthly column dedicated to beautiful and useful finds for all over the house. In this installment: Since our early days, when Remodelista began around Julie’s kitchen table, our editors have reported in, for the most part, from home. Over the past two decades, we’ve learned a thing or two […]",
+      "url": "https://www.remodelista.com/posts/editors-cut-home-office-upgrades-smoother-stress-free-workdays/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/09/wms-and-co-undated-wall-calendar-closeup.jpeg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/09/wms-and-co-undated-wall-calendar-closeup.jpeg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-25T10:00:46+00:00"
+    },
+    {
       "id": "1aa979e71f79a9a9",
       "title": "Генеральному директору LIGA Виталию Кривошееву — 50 лет!",
       "summary": "25 сентября · Поздравляем с юбилеем Виталию Кривошееву — 50! Генеральный директор LIGA отмечает юбилей Сегодня, 25 сентября, Виталий Владимирович Кривошеев отмечает 50-летие. Он возглавляет компанию LIGA, входящую в Ассоциацию предприятий мебельной и деревообрабатывающей промышленности России (АМДПР). В 2014 году Виталий Владимирович взялся за развитие новой компании и нового бренда на рынке оборудования для мебельного производства. К тому моменту на нем уже прочно обосновались крупные игроки, и начать с нуля означало принять серьезный вызов. За 12 лет LIGA прошла путь от первых шагов до…",
@@ -1911,6 +2049,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-09-25T09:42:06+00:00"
+    },
+    {
+      "id": "3f58ee6e75942d8a",
+      "title": "A Brooklyn Brownstone Reimagined, with Interiors by a Rising Design Star",
+      "summary": "If you’re familiar with the much-loved, much-lauded boutique empire Bird in Brooklyn, you know that the shops defined indie style in the borough for more than a decade (see the NY Times piece Saying Goodbye to Bird, “the shop that created the ‘Brooklyn Look’ of the aughts”). Plot twist: In 2022, owner Jen Mankins closed […]",
+      "url": "https://www.remodelista.com/posts/scandi-style-brooklyn/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/06/jen-mankins-cobble-hill-2.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/06/jen-mankins-cobble-hill-2.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-25T08:00:26+00:00"
     },
     {
       "id": "cc2b6e8aba61efbc",
@@ -1963,6 +2114,19 @@
       "source": "Homedit furniture",
       "source_url": "https://www.homedit.com",
       "published": "2026-09-24T12:07:35+00:00"
+    },
+    {
+      "id": "24ae59e733091ef3",
+      "title": "Kitchen of the Week: A Furniture Maker’s Cleverly Designed Multifunctional Space",
+      "summary": "There are small spaces, and then there are really small spaces. The apartment of Craig Ross and his partner, Jessie, falls into the latter category. At just under 400-square feet, their flat in Kentish Town, north London, on the first floor of a Victorian townhouse, has just three rooms—which means the kitchen has to also […]",
+      "url": "https://www.remodelista.com/posts/kitchen-week-kentish-town-london-fell-design/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2024/11/craig-ross-fell-kitchen2.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2024/11/craig-ross-fell-kitchen2.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-24T08:00:18+00:00"
     },
     {
       "id": "b4b1a648dc93b1eb",
@@ -2354,6 +2518,19 @@
       "published": "2026-09-21T09:00:06+00:00"
     },
     {
+      "id": "8476319c8f4610fb",
+      "title": "At Home on the West Coast of Sweden: A Plywood Retreat Filled with Cost-Conscious Design Ideas",
+      "summary": "Elisabeth and Dennis Dunker classify their apartment in Gothenburg, Sweden, as something of a compromise: it’s a rental so “a lot of it isn’t what we would have chosen,” says Elisabeth, who, nonetheless, turned it into a lovely place to hang your hat: see Making a Rental Your Own. A designer, artist, and photographer, Elisabeth […]",
+      "url": "https://www.remodelista.com/posts/home-west-coast-sweden-seaside-retreat-became-year-round-haven/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/09/elisabeth-and-dennis-dunker-house-bohuslan-sweden-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/09/elisabeth-and-dennis-dunker-house-bohuslan-sweden-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-21T08:50:04+00:00"
+    },
+    {
       "id": "3d73867a82d7d6f3",
       "title": "25 сентября в Подмосковье откроется Центр мебельных технологий LIGA",
       "summary": "25 сентября 2026 года компания LIGA — член Ассоциации предприятий мебельной и деревообрабатывающей промышленности России — откроет Центр мебельных технологий в городском округе Балашиха Московской области. Площадка предназначена для демонстрации оборудования, обучения и консультаций специалистов мебельных предприятий.",
@@ -2365,6 +2542,19 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-09-21T08:49:07+00:00"
+    },
+    {
+      "id": "1670b8697b39b8a3",
+      "title": "Current Obsessions: Fall Forecast",
+      "summary": "On deck this weekend? An LA exhibit, a great new spot to lay your head on the Cape, and much more in between. Read on: Kostas Anagnopoulos and Jesse James’ newest venture is a restaurant and it looks just dreamy. “The interiors, the food, the flowers, all of it,” says Fan. Gardenista friend Lindsey Taylor […]",
+      "url": "https://www.gardenista.com/posts/current-obsessions-fall-forecast/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/09/saba-ghorbanalinejad-buttes-chaumont-21.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/09/saba-ghorbanalinejad-buttes-chaumont-21.jpg"
+      ],
+      "source": "Gardenista",
+      "source_url": "https://www.gardenista.com",
+      "published": "2026-09-19T08:00:44+00:00"
     },
     {
       "id": "8b5e94371b8e61dd",
@@ -2391,6 +2581,19 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-18T09:00:12+00:00"
+    },
+    {
+      "id": "4013cebeaa39ec78",
+      "title": "The Architect at Home: Saba Ghorbanalinejad’s Compact Paris Apartment",
+      "summary": "Architect Saba Ghorbanalinejad is particularly good at undoing a floor plan. In the projects of hers we’ve featured previously, the most consequential changes have often been reconfiguration: rooms are rearranged around central hubs, passages become places in their own right, and compact interiors begin to feel remarkably generous. Her latest project is closer to home. In […]",
+      "url": "https://www.remodelista.com/posts/saba-ghorbanlinejad-paris-apartment-renovation/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/09/saba-ghorbanalinejad-buttes-chaumont-21.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/09/saba-ghorbanalinejad-buttes-chaumont-21.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-18T08:00:58+00:00"
     },
     {
       "id": "dd34316902baa0f5",
@@ -2442,6 +2645,19 @@
       "published": "2026-09-17T20:00:23+00:00"
     },
     {
+      "id": "df323ab99625e58f",
+      "title": "5 Favorites: Clever Kitchen Tools from Eatco of Japan",
+      "summary": "Eatco’s kitchen tools don’t claim to perform miracles. What they do is finesse everyday tasks, from slicing avocados to spreading butter on toast. We discovered the Japanese collection at the New York design show Shoppe Object and admired its economy of line and material—each piece is made of stainless steel and has a problem-solving purpose. […]",
+      "url": "https://www.remodelista.com/posts/eatco-kitchen-tools-from-japan/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/08/eatco-japanese-stainless-steel-kitchen-utensils.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/08/eatco-japanese-stainless-steel-kitchen-utensils.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-17T10:00:58+00:00"
+    },
+    {
       "id": "dcd1d22396a3a91b",
       "title": "You’d Never Guess What This Mid-Century Cabinet Was Designed to Hide",
       "summary": "Closed, this long wood cabinet could pass for a mid-century credenza. Tapered legs, book-matched wood grain, sculpted pulls, and a woven front panel give few clues about what sits beneath its top. Furniture once did more than hold televisions, records, and audio equipment. Manufacturers built the technology into the furniture itself, turning radios and record... The post You’d Never Guess What This Mid-Century Cabinet Was Designed to Hide appeared first on Homedit .",
@@ -2472,6 +2688,19 @@
       "published": "2026-09-17T08:50:34+00:00"
     },
     {
+      "id": "ee66ee9c9aa1eae9",
+      "title": "Kitchen of the Week: The Lengths Studio, a Former Primary School Kitchen Transformed in the Scottish Highlands",
+      "summary": "When artists Susie Brown and Ziggy Campbell came across a derelict primary school for sale on the Ardgour peninsula near Fort William in Scotland back in 2013, they were immediately drawn to both the building and its location. “The space just had something that pulled us in,” recalls Susie. Originally built for industry workers’ children […]",
+      "url": "https://www.remodelista.com/posts/the-lengths-studio-scottish-highlands-holiday-rental/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/01/the-lengths-studio-sun-kitchen-by-megan-redden.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/01/the-lengths-studio-sun-kitchen-by-megan-redden.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-17T08:00:56+00:00"
+    },
+    {
       "id": "5cfef2d605370c73",
       "title": "11 Studios Fitting a Bed, Desk, and Dining Table in Under 400 Square Feet",
       "summary": "Under 400 square feet sounds impossible until you see people actually pulling it off. The trick is picking the right three anchors, then figuring out how they share the room. These 11 studios show what that looks like in real life. 11 Small Studio Layouts That Prove You Can Have All Three Most studio advice […] The post 11 Studios Fitting a Bed, Desk, and Dining Table in Under 400 Square Feet appeared first on Trendir .",
@@ -2498,6 +2727,19 @@
       "published": "2026-09-17T01:00:00+00:00"
     },
     {
+      "id": "8e0ca7c3c29ed784",
+      "title": "Channeling 1970s California Style: Sun Ranch Resort in Byron Bay, Australia",
+      "summary": "Located in the hinterlands of Byron Bay, the Australian seaside hangout and surfing hub, Sun Ranch channels the area’s hang loose vibe. But it does so in surprising, inventive ways: the resort is set on a 55-acre former cattle farm and takes inspiration from 1970s California ranches houses—sunken living room, crushed velvet upholstery, fringed lampshades, […]",
+      "url": "https://www.remodelista.com/posts/sun-ranch-resort-byron-bay-australia/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/07/sun-ranch-resort-byron-bay-australia-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/07/sun-ranch-resort-byron-bay-australia-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-16T10:00:56+00:00"
+    },
+    {
       "id": "42efa8189d7367c4",
       "title": "Collate Lobby curates fictional 1930s hotel suite to launch its first editions collection",
       "summary": "Over 30 designers, makers and studios have created limited-edition and prototype furniture and objects for Lobby, a new design platform launched by recruitment agency Collate Form during London Design Festival. Collate Lobby's debut exhibition takes the form of a fictional hotel suite and foyer, inspired by the fashion and interiors of the 1930s. Almost everything The post Collate Lobby curates fictional 1930s hotel suite to launch its first editions collection appeared first on Dezeen .",
@@ -2511,6 +2753,19 @@
       "published": "2026-09-16T08:30:55+00:00"
     },
     {
+      "id": "a9b4999eafc16524",
+      "title": "10 Easy Pieces: Good-Looking Countertop Coffee Makers",
+      "summary": "We’ve shied away from covering coffee makers for years—there just weren’t enough good-looking options available. But recently that’s changed: There are now many well-designed classic brewers worthy of display on the countertop. And while we still like an espresso machine or a simple ceramic pour-over filter, a multi-cup brewer is undeniably handy for properly caffeinating […]",
+      "url": "https://www.remodelista.com/posts/good-looking-countertop-coffee-makers-10-easy-pieces/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2024/05/alessi-plisse-drip-coffee-maker-michele-de-lucchi.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2024/05/alessi-plisse-drip-coffee-maker-michele-de-lucchi.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-16T08:00:53+00:00"
+    },
+    {
       "id": "2023ffd8bb3eedd4",
       "title": "7 South African Designers to Know From Maison&Objet 2026",
       "summary": "Maison&Objet’s Rising Talent Awards put the spotlight on 7 South African designers and studios bringing new perspectives to furniture, lighting, textiles, and objects",
@@ -2522,6 +2777,32 @@
       "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-09-15T20:39:44+00:00"
+    },
+    {
+      "id": "725e2ed7b3b6e07a",
+      "title": "Small Space DIY Idea: Fold-Down Nightstands, Nautical Edition",
+      "summary": "After admiring Margot’s feature on the excellent Tuba Club in Marseille (see Tuba Club: Marseille’s On-the-Rocks Hideout), we were looking at some outtake photos together. Of the many guest room details to admire, one jumped out: fold-up, fold-down nightstands that reminded us of a ship’s cabin—perfect for any small room, and not too tricky to […]",
+      "url": "https://www.remodelista.com/posts/small-space-nightstand-diy/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/08/tuba-hotel-marseille-edouard-sanville-photo.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/08/tuba-hotel-marseille-edouard-sanville-photo.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-15T10:00:24+00:00"
+    },
+    {
+      "id": "343fe8fb72a27731",
+      "title": "Remodelista Reconnaissance: Silver-Tipped Lightbulbs, Always a Bright Idea",
+      "summary": "Leave it to Copenhagen It couple Frederik Bille Brahe (chef) and Caroline Brasch Nielsen (model/designer) to remind us that a silver-tipped lightbulb can transform an otherwise ho-hum fixture into a design detail worth emulating. (For evidence, see A Family Kitchen in Copenhagen with Uncommon Style.) It’s the kind of easy swap we’ve long admired. But […]",
+      "url": "https://www.remodelista.com/posts/silver-chrome-light-bulbs-remodelista-reconnaissance/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2022/08/frederikbillebrahe-carolinebrasch-kitchen-copenhagen-reform-match-cabinets-5.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2022/08/frederikbillebrahe-carolinebrasch-kitchen-copenhagen-reform-match-cabinets-5.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-09-15T08:00:54+00:00"
     },
     {
       "id": "d12a7c10aed3a105",
@@ -2601,11 +2882,11 @@
       "image": "http://static.dezeen.com/uploads/2026/06/dob-modular-system-by-flat-point-dezeen-showroom-2-sq_dezeen_2364_col_1.jpg",
       "images": [
         "http://static.dezeen.com/uploads/2026/06/dob-modular-system-by-flat-point-dezeen-showroom-2-sq_dezeen_2364_col_1.jpg",
+        "https://static.dezeen.com/uploads/2026/10/estudio-modulo-itau-cultural-sao-paolo_dezeen_2364_sq.jpg",
         "https://static.dezeen.com/uploads/2026/09/knekt-floor-lamp-hegren-design_dezeen_2364_col_1-1.jpg",
         "https://static.dezeen.com/uploads/2026/10/knock-on-wood-shashwath-santosh-nithin-eluvathingal_dezeen_2364_sq-1.jpg",
         "https://static.dezeen.com/uploads/2026/09/hgaa-house-k-vietnam-sq_dezeen_2364_col_0.jpg",
-        "https://static.dezeen.com/uploads/2024/08/neom-world-cup-stadium-the-line_dezeen_2364_col_1.jpg",
-        "https://static.dezeen.com/uploads/2026/10/mvrdv-barcode-street-furniture-escofet_dezeen_2364_col_3.jpg"
+        "https://static.dezeen.com/uploads/2024/08/neom-world-cup-stadium-the-line_dezeen_2364_col_1.jpg"
       ],
       "source": "Dezeen tag storage",
       "source_url": "https://www.dezeen.com",
