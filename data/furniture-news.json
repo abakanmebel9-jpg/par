@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-10-08T16:24:08.575643+00:00",
-  "generated_at_human": "2026-10-08 16:24 UTC",
-  "total_items": 272,
+  "generated_at": "2026-10-08T22:00:36.517565+00:00",
+  "generated_at_human": "2026-10-08 22:00 UTC",
+  "total_items": 265,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -49,7 +49,6 @@
     "Trendir",
     "Trendir furniture",
     "Trendir interiors",
-    "Veranda",
     "Wallpaper",
     "Wood Whisperer",
     "Woodshop News",
@@ -60,9 +59,102 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 53,
   "multi_photo_items": 45,
   "items": [
+    {
+      "id": "744d8db890295db5",
+      "title": "A 5-Year-Old Kitchen Finds a New Home on Copenhagen’s Paper Island",
+      "summary": "Garde Hvalsøe relocates an ash-and-zinc kitchen from Josephine Yaa Akuamoa’s studio to her waterfront home, where familiar materials take on a new context",
+      "url": "https://design-milk.com/garde-hvalsoe-kitchen-copenhagen-paper-island/",
+      "image": "https://design-milk.com/images/2026/10/Garde-Hvalsoe_Paper-Island-Home_3.jpg",
+      "images": [
+        "https://design-milk.com/images/2026/10/Garde-Hvalsoe_Paper-Island-Home_3.jpg",
+        "https://design-milk.com/images/2026/10/Garde-Hvalsoe_Paper-Island-Home_1.jpg",
+        "https://design-milk.com/images/2026/10/Garde-Hvalsoe_Paper-Island-Home_6.jpg",
+        "https://design-milk.com/images/2026/10/Garde-Hvalsoe_Paper-Island-Home_8.jpg",
+        "https://design-milk.com/images/2026/10/Garde-Hvalsoe_Paper-Island-Home_11.jpg",
+        "https://design-milk.com/images/2026/10/Garde-Hvalsoe_Paper-Island-Home_17.jpg"
+      ],
+      "source": "Design Milk",
+      "source_url": "https://design-milk.com",
+      "published": "2026-10-08T20:22:46+00:00"
+    },
+    {
+      "id": "c7ca3e61af04b669",
+      "title": "This $30,000 Porsche 911 sofa has a mini-bar where the engine should be",
+      "summary": "This $30,000 Porsche 911 sofa has a mini-bar where the engine should be Would you pay $30,000 for a Porsche that isn’t a Porsche? Or rather, a Porsche that doesn’t get you from A to B? It does,...",
+      "url": "https://www.yankodesign.com/2026/10/08/this-30000-porsche-911-sofa-has-a-mini-bar-where-the-engine-should-be/?utm_source=rss&utm_medium=rss&utm_campaign=this-30000-porsche-911-sofa-has-a-mini-bar-where-the-engine-should-be",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/652821/arkadia_life_p01_sofa_1.jpeg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/10/652821/arkadia_life_p01_sofa_1.jpeg",
+        "https://www.yankodesign.com/images/design_news/2026/09/draft-poclink/Poclink-Motion-The-Next-Gen-Hybrid-Sports-Communicator-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/04/auto-draft/xcam_sight2s_11.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/11/this-chair-concept-for-fast-casual-restaurants-comes-with-a-coat-hanger-and-bag-tray/rack-chair-concept-10.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/12/kamibot_the_smart_coding_robot.jpg"
+      ],
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-10-08T19:20:37+00:00"
+    },
+    {
+      "id": "87f7b9053ba90f69",
+      "title": "Nobody Asked for Inflatable Chopsticks. Now We Want Them.",
+      "summary": "Nobody Asked for Inflatable Chopsticks. Now We Want Them. Takeout has a knack for turning a perfectly good meal into a scavenger hunt. You get back to your desk, peel open the container, and...",
+      "url": "https://www.yankodesign.com/2026/10/08/nobody-asked-for-inflatable-chopsticks-now-we-want-them/?utm_source=rss&utm_medium=rss&utm_campaign=nobody-asked-for-inflatable-chopsticks-now-we-want-them",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/nobody-asked-for-inflatable-chopsticks-now-we-want-them/popsticks-01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/10/nobody-asked-for-inflatable-chopsticks-now-we-want-them/popsticks-01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-10-08T18:20:09+00:00"
+    },
+    {
+      "id": "6e054c66c497cc1c",
+      "title": "The Other Half of My Shop",
+      "summary": "See how I turned a cluttered firehouse storage bay into a functional maker space for our laser, 3D printer, tools, and lumber. The post The Other Half of My Shop appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/the-other-half-of-my-shop/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-10-08T18:17:23+00:00"
+    },
+    {
+      "id": "ddd09450151e78be",
+      "title": "Keter Cortina 200-Gallon Deck Box Review: Roomy, Weather-Resistant Storage",
+      "summary": "Large, weather-resistant, and durable, this lockable outdoor storage box fits a full set of deck furniture cushions–plus whatever else you need to keep dry. The post Keter Cortina 200-Gallon Deck Box Review: Roomy, Weather-Resistant Storage appeared first on Bob Vila .",
+      "url": "https://www.bobvila.com/reviews/keter-cortina-deck-box-review/",
+      "image": "https://www.bobvila.com/wp-content/uploads/2026/10/Keter-Deck-Box-Review.png?quality=85",
+      "images": [
+        "https://www.bobvila.com/wp-content/uploads/2026/10/Keter-Deck-Box-Review.png?quality=85"
+      ],
+      "source": "Bob Vila",
+      "source_url": "https://www.bobvila.com",
+      "published": "2026-10-08T17:44:24+00:00"
+    },
+    {
+      "id": "18979514f199b85a",
+      "title": "Don’t Toss Empty Milk Jugs When Their Handles Can Turn Them Into Hanging Storage Bins",
+      "summary": "Empty milk jugs already have two features most DIY storage bins need: a deep container and a built-in handle. Cut away part of the plastic, and that handle can support the jug from a rod without adding hooks or mounting hardware to each bin. Karen from Sew Many Ways used the idea under a worktable,... The post Don’t Toss Empty Milk Jugs When Their Handles Can Turn Them Into Hanging Storage Bins appeared first on Homedit .",
+      "url": "https://www.homedit.com/dont-toss-empty-milk-jugs-when-their-handles-can-turn-them-into-hanging-storage-bins/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/Dont-Toss-Empty-Milk-Jugs-When-Their-Handles-Can-Turn-Them-Into-Hanging-Storage-Bins.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Dont-Toss-Empty-Milk-Jugs-When-Their-Handles-Can-Turn-Them-Into-Hanging-Storage-Bins.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Cut-along-the-marked-line.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Mark-the-section-you-want-to-remove.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/He-Turned-Buckets-of-Ordinary-Pebbles-Into-These-Mosaic-Garden-Stepping-Stones.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/They-Opened-the-Ceiling-in-This-Windowless-Bathroom-What-Was-Above-It-Changed-the-Entire-Remodel.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/These-Pieces-Werent-Made-for-Decorating-but-Thats-Exactly-What-Makes-Them-So-Interesting.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-10-08T17:31:50+00:00"
+    },
     {
       "id": "e4a37ff63ca3b661",
       "title": "From Empty Corners to Wall Space: 11 Clever Ways to Store Kids’ Books",
@@ -119,9 +211,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/this-stools-best-feature-is-the-part-thats-actually-missing-from-it/ceil-stool-concept-11.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-poclink/Poclink-Motion-The-Next-Gen-Hybrid-Sports-Communicator-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/pepsi-needs-a-manager-of-product-design/Pepsi-Design-Manager_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/08/apple_watch_strap_made_from_pineapple_leaves_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/01/someone-built-the-ps4-portable-sony-never-made-with-a-7-inch-oled/diy-ps4-portable-05.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/08/change-your-tires-effortlessly-without-a-jack-using-the-camco-curved-trailer-aid/camco_tire_aid_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/10/auto-draft/samsung_gear_icon_earphones_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2016/09/primitive_kitchen6.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -214,7 +306,7 @@
         "https://cdn.homedit.com/wp-content/uploads/2026/10/Wire-storage-turns-bottles-into-part-of-the-display.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/10/A-galvanized-tub-holds-a-full-size-indoor-plant.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/10/An-old-grocery-container-becomes-the-base-of-a-table-lamp.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/He-Turned-Buckets-of-Ordinary-Pebbles-Into-These-Mosaic-Garden-Stepping-Stones.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Dont-Toss-Empty-Milk-Jugs-When-Their-Handles-Can-Turn-Them-Into-Hanging-Storage-Bins.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -255,12 +347,7 @@
       "url": "https://www.homedit.com/she-painted-a-mountain-landscape-across-this-old-wood-dresser-instead-of-using-one-color-s1/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Painted-a-Mountain-Landscape-Across-This-Old-Wood-Dresser-Instead-of-Using-One-Color.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Painted-a-Mountain-Landscape-Across-This-Old-Wood-Dresser-Instead-of-Using-One-Color.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Wood-Grain-Remains-Across-the-Entire-Top.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Small-Knobs-Leave-More-of-the-Painted-Scene-Exposed.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Mountain-Ridges-Wrap-Around-the-Corners.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Dark-Brown-Grounds-the-Landscape-Near-the-Base.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/09/Peaks-Continue-From-Drawer-to-Drawer.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/09/She-Painted-a-Mountain-Landscape-Across-This-Old-Wood-Dresser-Instead-of-Using-One-Color.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -453,32 +540,6 @@
       "published": "2026-10-08T00:00:00+00:00"
     },
     {
-      "id": "d696b5db162fddac",
-      "title": "Transform Ordinary Pendant Lights Into Magical Fall Lanterns With An Impressive DIY",
-      "summary": "With Halloween decor, the kitchen is an area that often gets overlooked. However, with this DIY, you easily turn ordinary pendant lights into spooky lanterns.",
-      "url": "https://www.hunker.com/2280669/transform-pendant-lights-magical-fall-lanterns-impressive-diy/",
-      "image": "https://www.hunker.com/img/gallery/transform-ordinary-pendant-lights-into-magical-fall-lanterns-with-an-impressive-diy/l-intro-1791406056.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/transform-ordinary-pendant-lights-into-magical-fall-lanterns-with-an-impressive-diy/l-intro-1791406056.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-07T23:00:00+00:00"
-    },
-    {
-      "id": "27423b4b727354de",
-      "title": "A Pen Holder That Actually Looks Like Desk Art",
-      "summary": "A Pen Holder That Actually Looks Like Desk Art When it comes to stationery and my work and leisure desk, I consider my aesthetic to be messycore and maximalist. Having a lot of pens...",
-      "url": "https://www.yankodesign.com/2026/10/07/a-pen-holder-that-actually-looks-like-desk-art/?utm_source=rss&utm_medium=rss&utm_campaign=a-pen-holder-that-actually-looks-like-desk-art",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/a-pen-holder-that-actually-looks-like-desk-art/ciclo-0.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/a-pen-holder-that-actually-looks-like-desk-art/ciclo-0.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-10-07T22:30:47+00:00"
-    },
-    {
       "id": "d87b715f0b53014a",
       "title": "A 100-Year-Old Bathroom Got a Renter-Friendly Redo (Including the Molding!)",
       "summary": "Sarah Bryant’s (@sarah_louwho) over-100-year-old Brownstone apartment came with a lot of charm: original woodwork, two fireplaces, flower pots on the stoop, and friendly neighbors. A few things that weren’t so nice or charming? The large window right next to the toilet in her bathroom, the dated tan-and-black tile, and the hardware in the space. “The upgrades [over time] left some room for improvement that I’ve been happy to build on,” Sarah says. READ MORE...",
@@ -500,48 +561,22 @@
       "images": [
         "https://www.yankodesign.com/images/design_news/2026/09/acadia/acadia_yanko_design_01.jpg"
       ],
-      "source": "Yanko Design",
+      "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-07T21:30:57+00:00"
-    },
-    {
-      "id": "94cf0fdea071af73",
-      "title": "Woman Uses Pool Noodles To Transform An Old Chair Into A Cozy Piece Of Furniture",
-      "summary": "Pool noodles are a versatile project supply. In this project, a creative DIYer upcycles a chair using the summer toy and other budget-friendly materials.",
-      "url": "https://www.hunker.com/2272516/diy-pool-noodles-transform-dining-chair-cozy/",
-      "image": "https://www.hunker.com/img/gallery/diy-pool-noodles-transform-dining-chair-cozy/l-intro-1790850259.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/diy-pool-noodles-transform-dining-chair-cozy/l-intro-1790850259.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-07T21:00:00+00:00"
     },
     {
       "id": "f16f504e133b2be4",
       "title": "When Are You Too Old To Move Furniture? Experts Weigh In",
       "summary": "Learn how to factor age, strength and safety before your next furniture-moving attempt. The post When Are You Too Old To Move Furniture? Experts Weigh In appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/when-are-you-too-old-to-move-furniture/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/10/GettyImages-469088983.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/10/GettyImages-469088983.jpg?fit=700%2C1024",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/10/GettyImages-469088983.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/10/GettyImages-469088983.jpg?fit=700%2C1024"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-10-07T20:46:53+00:00"
-    },
-    {
-      "id": "fbe02afdfd37e8d3",
-      "title": "Corsair’s Xeneon Edge is the Stream Deck you always wanted, but bigger and better",
-      "summary": "Corsair’s Xeneon Edge is the Stream Deck you always wanted, but bigger and better Elgato unveiled a little box of 15 LCD buttons in 2017, priced at $149.95, and it quietly rearranged how streamers sat at their desks. The...",
-      "url": "https://www.yankodesign.com/2026/10/07/corsairs-xeneon-edge-is-the-stream-deck-you-always-wanted-but-bigger-and-better/?utm_source=rss&utm_medium=rss&utm_campaign=corsairs-xeneon-edge-is-the-stream-deck-you-always-wanted-but-bigger-and-better",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/draft-corsair/corsair_xeneon_edge_1.jpeg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/draft-corsair/corsair_xeneon_edge_1.jpeg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-10-07T20:30:12+00:00"
     },
     {
       "id": "17122dbdbb66009d",
@@ -557,9 +592,9 @@
       "published": "2026-10-07T19:18:46+00:00"
     },
     {
-      "id": "ba54d04a58f088a5",
-      "title": "Chrysler Building set to be restored and overhauled",
-      "summary": "Real estate developer Tishman Speyer has released plans to restore the facade of the Chrysler Building in New York and redesign at least 75 per cent of the interiors, after taking over the building's lease. The Cooper Union for the Advancement of Science and Art (Cooper Union), which has owned the ground under the Chrysler The post Chrysler Building set to be restored and overhauled appeared first on Dezeen .",
+      "id": "b16ad20f3aa7bf2b",
+      "title": "Chrysler Building set to be restored and overhauled after being sold",
+      "summary": "Real estate developer Tishman Speyer has released plans to restore the facade of the Chrysler Building in New York and redesign at least 75 per cent of the interiors, after taking over the building's lease. The Cooper Union for the Advancement of Science and Art (Cooper Union), which has owned the ground under the Chrysler The post Chrysler Building set to be restored and overhauled after being sold appeared first on Dezeen .",
       "url": "https://www.dezeen.com/2026/10/07/chrysler-building-restoration-plan-tishman-speyer/",
       "image": "http://static.dezeen.com/uploads/2026/10/chrysler-building-renovation-_dezeen_2364_sq.jpg",
       "images": [
@@ -568,19 +603,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-07T19:00:44+00:00"
-    },
-    {
-      "id": "f18ca554c2396bae",
-      "title": "Skip Boring Backsplashes: The Modern Trend That's Set To Take Over 2027",
-      "summary": "Designers are talking about this new fad in kitchen backsplash design that will make your space look chic and modern, and might even make it appear larger.",
-      "url": "https://www.hunker.com/2276376/skip-basic-backsplashes-modern-large-format-tile-trend-2027/",
-      "image": "https://www.hunker.com/img/gallery/skip-boring-backsplashes-the-modern-trend-thats-set-to-take-over-2027/l-intro-1790974699.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-boring-backsplashes-the-modern-trend-thats-set-to-take-over-2027/l-intro-1790974699.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-07T19:00:00+00:00"
     },
     {
       "id": "b513be10069e2167",
@@ -607,19 +629,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-07T17:00:39+00:00"
-    },
-    {
-      "id": "f0c04863aca3a5df",
-      "title": "My Tiny Laundry Closet Was So Cramped — This $43 Transformation Added So Much Smart Storage",
-      "summary": "My apartment’s laundry closet is small but mighty. While it fits most laundry essentials (haphazardly), I still found myself wondering how I could maximize its storage space. I bought an IKEA over-the-door hanger to store my tabletop ironing board and a hanging hamper, but because my laundry closet doubles as my linen closet, I didn’t have a proper spot for cleaning rags, bath mats, and other miscellaneous items. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/narrow-laundry-closet-makeover-37693916?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-10/cramped-laundry-closet/daniela-a-laundry-before-tag",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/organize-clean/2026/2026-10/cramped-laundry-closet/daniela-a-laundry-before-tag"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-10-07T17:00:00+00:00"
     },
     {
       "id": "4eaf0ca71548e1b8",
@@ -780,9 +789,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/the-outlet-nobody-wanted-to-look-at-is-now-the-design-feature/volt-face-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-poclink/Poclink-Motion-The-Next-Gen-Hybrid-Sports-Communicator-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/11/13/edge2.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/nearly-invisible-clock-concept-makes-time-vanish-like-a-ghost/ghost-clock-concept-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/power-under-water/ameo_cover.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/11/the-next-best-thing-to-the-clothes-line/solair_portable_cloth_dryer_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/09/apples-september-event-reveals-10-design-breakthroughs-that-change-everything/apple-event-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/how-one-loop-of-bent-wood-became-a-complete-chair/sori-00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -854,26 +863,13 @@
       "published": "2026-10-06T23:30:10+00:00"
     },
     {
-      "id": "719fca5e2750dca6",
-      "title": "Breeo X Series Patio Dining Set Review: Premium Furniture That Stands Up to the Elements",
-      "summary": "Breeo may be best known for its smokeless fire pits, but its outdoor furniture deserves some attention, too. After 3 months under the Florida sun, this dining set has thoroughly impressed me. The post Breeo X Series Patio Dining Set Review: Premium Furniture That Stands Up to the Elements appeared first on Bob Vila .",
-      "url": "https://www.bobvila.com/reviews/breeo-outdoor-furniture-review/",
-      "image": "https://www.bobvila.com/wp-content/uploads/2026/10/Breeo-X-Series-7-Piece-Dining-Set-review.jpg?quality=85",
-      "images": [
-        "https://www.bobvila.com/wp-content/uploads/2026/10/Breeo-X-Series-7-Piece-Dining-Set-review.jpg?quality=85"
-      ],
-      "source": "Bob Vila",
-      "source_url": "https://www.bobvila.com",
-      "published": "2026-10-06T19:55:35+00:00"
-    },
-    {
       "id": "6acfcaa6a714b883",
       "title": "The Painted Lumber Ends You’ve Always Overlooked Have a Very Specific Purpose",
       "summary": "Paint on lumber ends may help control drying or identify a mill's product. Here's what the color can mean before buying a board. The post The Painted Lumber Ends You’ve Always Overlooked Have a Very Specific Purpose appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/lumber-painted-colors-mean/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/10/Stacked-Colorful-Timber-Planks_GettyImages-2280347971.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/10/Stacked-Colorful-Timber-Planks_GettyImages-2280347971.jpg?fit=700%2C1024",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/10/Stacked-Colorful-Timber-Planks_GettyImages-2280347971.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/10/Stacked-Colorful-Timber-Planks_GettyImages-2280347971.jpg?fit=700%2C1024"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -953,9 +949,9 @@
       "title": "That Stamp on Lumber Tells You More Than the Price Tag",
       "summary": "Stop picking your lumber based on how it looks. The post That Stamp on Lumber Tells You More Than the Price Tag appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/article/lumber-stamp/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/1000013316-final-scaled-e1791214662100.jpg?fit=680%2C454",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/1000013316-final-scaled-e1791214662100.jpg?fit=700%2C467",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/09/1000013316-final-scaled-e1791214662100.jpg?fit=680%2C454"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/09/1000013316-final-scaled-e1791214662100.jpg?fit=700%2C467"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -1009,9 +1005,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/0616_Comp_10_03_H.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/8CR9nWBh-0616_Comp_10_09_H.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/03/Copat_Outdoor_384-Recuperato-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/Cesar-Tangram-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/CP-Convivialis-amb-Wide-plus-160.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/03/Copat_Outdoor_384-Recuperato-2.jpg",
         "https://www.internimagazine.it/content/uploads/2026/05/ST_CA002_260319_Magazine_MI26_Generale.jpg"
       ],
       "source": "Interni magazine",
@@ -1043,19 +1039,6 @@
       "source": "Better Homes & Gardens AU",
       "source_url": "https://www.bhg.com.au",
       "published": "2026-10-06T10:50:00+00:00"
-    },
-    {
-      "id": "c836e2e40ff77a6c",
-      "title": "Roy Lichtenstein designed this coffee table – and it could be yours",
-      "summary": "The statement piece, on view now at Sotheby's as part of an online auction, is sure to give your living room a visual 'Whaam!'",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/roy-lichtenstein-table-sothebys-auction",
-      "image": "https://cdn.mos.cms.futurecdn.net/eVSpfuJbrftAGNtRycELVA.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/eVSpfuJbrftAGNtRycELVA.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-10-06T10:48:32+00:00"
     },
     {
       "id": "0c27401982552bed",
@@ -1097,7 +1080,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/10/omhu-teddy-sofa-sq_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-06T10:00:25+00:00"
     },
@@ -1168,9 +1151,9 @@
         "https://www.internimagazine.it/content/uploads/2026/10/66%C2%B0Salone-Nautico-Internazionale_Genova_Design-Innovation-Award-2026_7th-ediiton-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/66°Salone-Nautico-Internazionale_Genova_Design-Innovation-Award-2026_7th-ediiton-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/66°Salone-Nautico-Internazionale_Genova_Design-Innovation-Award-2026_7th-ediiton-2.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/Spitz_Dessert_Gruppe-foto-Joel-Hunn-_-Zurich-Tourismus.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/ape_GettyImages-1277568298.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/IMG_1359.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/10/Spitz_Dessert_Gruppe-foto-Joel-Hunn-_-Zurich-Tourismus.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/QUINTAMONROY-HOUSING-AFTER.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1315,12 +1298,7 @@
       "url": "https://www.yankodesign.com/2026/10/05/flat-pack-furniture-that-actually-survives-your-next-move/?utm_source=rss&utm_medium=rss&utm_campaign=flat-pack-furniture-that-actually-survives-your-next-move",
       "image": "https://www.yankodesign.com/images/design_news/2026/10/flat-pack-furniture-that-actually-survives-your-next-move/flat-pack-08.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/flat-pack-furniture-that-actually-survives-your-next-move/flat-pack-08.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/draft-poclink/Poclink-Motion-The-Next-Gen-Hybrid-Sports-Communicator-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/draft-kitchenery/Kitchenery-The-Cordless-Kitchen-Ecosystem-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/10/27/finder.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/07/Cubiio2_laser_cutter_and_metal_engraver_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/this-color-e-ink-monitor-runs-at-60hz-real-work-no-eye-strain/modos-flow-60hz-color-eink-monitor-03.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/10/flat-pack-furniture-that-actually-survives-your-next-move/flat-pack-08.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1781,7 +1759,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/gubi-lotus-lamp.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-01T10:15:05+00:00"
     },
@@ -2211,9 +2189,9 @@
       "title": "This Incredible DIY Arcade Cabinet Is a Gamer’s Dream Come True",
       "summary": "From cutting the sides to wiring the Pi, here's everything you need to build a DIY Arcade Cabinet from scratch. The post This Incredible DIY Arcade Cabinet Is a Gamer’s Dream Come True appeared first on Family Handyman .",
       "url": "https://www.familyhandyman.com/project/diy-arcade-cabinet/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/Level-Up-Your-Basement-With-a-DIY-Arcade-Cabinet_FHM26_How_to_Build_a_DIY_Arcade_Cabinet_Measure_Monitor_MD_04_15_1b.jpg?fit=680%2C995",
+      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/Level-Up-Your-Basement-With-a-DIY-Arcade-Cabinet_FHM26_How_to_Build_a_DIY_Arcade_Cabinet_Measure_Monitor_MD_04_15_1b.jpg?fit=700%2C1024",
       "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/09/Level-Up-Your-Basement-With-a-DIY-Arcade-Cabinet_FHM26_How_to_Build_a_DIY_Arcade_Cabinet_Measure_Monitor_MD_04_15_1b.jpg?fit=680%2C995"
+        "https://www.familyhandyman.com/wp-content/uploads/2026/09/Level-Up-Your-Basement-With-a-DIY-Arcade-Cabinet_FHM26_How_to_Build_a_DIY_Arcade_Cabinet_Measure_Monitor_MD_04_15_1b.jpg?fit=700%2C1024"
       ],
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
@@ -2380,37 +2358,6 @@
       "published": "2026-09-24T05:00:01+00:00"
     },
     {
-      "id": "14606fdf621fb7a6",
-      "title": "Tom Pearson’s Riveted Furniture Makes the Limits of a Workshop Visible",
-      "summary": "Tom Pearson’s Riveted Furniture Makes the Limits of a Workshop Visible The name is a provocation, not an audit. Tom Pearson’s debut furniture and lighting collection, shown at London’s APOC store during London Design Festival this...",
-      "url": "https://www.yankodesign.com/2026/09/23/tom-pearsons-riveted-furniture-makes-the-limits-of-a-workshop-visible/?utm_source=rss&utm_medium=rss&utm_campaign=tom-pearsons-riveted-furniture-makes-the-limits-of-a-workshop-visible",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/10000-rivets-collection/aluminum_furniture_yanko_design_01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/10000-rivets-collection/aluminum_furniture_yanko_design_01.jpg"
-      ],
-      "source": "Yanko Design furniture",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-09-24T00:30:26+00:00"
-    },
-    {
-      "id": "e63f62586d120d18",
-      "title": "18 Petite Bedrooms That Feel Like Palatial Retreats",
-      "summary": "Size isn't everything—these inviting bedrooms transform small spaces into elegant, dream-worthy sanctuaries.",
-      "url": "https://www.veranda.com/decorating-ideas/g73851116/best-small-bedroom-design-ideas/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/philip-mitchell-blue-bedroom-nova-scotia-veranda-1560270989.jpg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/philip-mitchell-blue-bedroom-nova-scotia-veranda-1560270989.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/e01ca3c2-a72a-45f0-b0a5-956b2c96f61b.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/grey-gardens-east-hampton-attic-bedroom-1670473329.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/ver030119sikes11-jpg-1551564041.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/amaro-sanchez-de-moya-seville-apartment-bedroom-67f037fa2806c.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/014e4eb8-c2f7-4b44-9711-27fe1569a2ac.jpg"
-      ],
-      "source": "Veranda",
-      "source_url": "https://www.veranda.com",
-      "published": "2026-09-23T20:55:44+00:00"
-    },
-    {
       "id": "35c88ec5fe623bf2",
       "title": "2025-2026 Student Design Competition Winners",
       "summary": "N NKBA Staff Posted: Sep 15, 2026 4:23 pm Students and Educators Member + Industry News Entries now open for next year’s contest Adrie Nash won first place with this kitchen design in the 2025-2026 Student Design Competition. NKBA is excited to announce the 2025-2026 Student Design Competition winners. The annual competition, open exclusively to NKBA student members, features top prizes of $5000 and travel packages to KBIS 2027 in Las Vegas. The NKBA 2025–2026 Student Design Competition, themed “The Great Indoors: Texas Edition,” tasked entrants with redesigning the kitchen and primary…",
@@ -2520,32 +2467,6 @@
       "published": "2026-09-22T18:00:55+00:00"
     },
     {
-      "id": "9a8c5b8289324b32",
-      "title": "Everyone Said Black Kitchen Cabinets Were Too Bold. I’d Choose Them Again in a Heartbeat",
-      "summary": "Black kitchen cabinets can look bold and custom, but they have drawbacks. Here’s what to consider and why I’d choose them again. The post Everyone Said Black Kitchen Cabinets Were Too Bold. I’d Choose Them Again in a Heartbeat appeared first on Family Handyman .",
-      "url": "https://www.familyhandyman.com/article/black-kitchen-cabinets-bold/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/FHMD26_Black-Kitchen-Cabinets_Alex-Shoemaker-For-FHM_DKedit_01.jpg?fit=680%2C995",
-      "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/09/FHMD26_Black-Kitchen-Cabinets_Alex-Shoemaker-For-FHM_DKedit_01.jpg?fit=680%2C995"
-      ],
-      "source": "Family Handyman",
-      "source_url": "https://www.familyhandyman.com",
-      "published": "2026-09-22T17:26:13+00:00"
-    },
-    {
-      "id": "af0cecda25b3ddd8",
-      "title": "10 Ways to Make a Small Bathroom Feel Bigger",
-      "summary": "Design pros share simple features that create a brighter, airier bathroom with a more spacious feel. The post 10 Ways to Make a Small Bathroom Feel Bigger appeared first on Family Handyman .",
-      "url": "https://www.familyhandyman.com/article/10-ways-to-make-a-small-bathroom-feel-bigger/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/10-Ways-to-Make-a-Small-Bathroom_GettyImages-2261351826_YVedit.jpg?fit=680%2C995",
-      "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/09/10-Ways-to-Make-a-Small-Bathroom_GettyImages-2261351826_YVedit.jpg?fit=680%2C995"
-      ],
-      "source": "Family Handyman",
-      "source_url": "https://www.familyhandyman.com",
-      "published": "2026-09-22T16:31:51+00:00"
-    },
-    {
       "id": "121ebf0705c489c3",
       "title": "Mid-Century Modern End Table",
       "summary": "This table blends clean lines with clever book storage—proving good design is as functional as it is beautiful. For many years the furniture in my house was a hodgepodge of... Source",
@@ -2557,19 +2478,6 @@
       "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-09-22T16:06:40+00:00"
-    },
-    {
-      "id": "266dd80d4511e871",
-      "title": "Urban Cowboy Brings Its Maximalist Americana to Governors Island",
-      "summary": "A 325-square-foot tent layers Pendleton textiles, vintage finds, and a cast-iron soaking tub into an unlikely Western escape overlooking New York Harbor",
-      "url": "https://design-milk.com/urban-cowboy-tent-governors-island/",
-      "image": "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-13.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/09/Collective_Retreats_X_UC_Lodge-13.jpg"
-      ],
-      "source": "Design Milk Interiors",
-      "source_url": "https://design-milk.com",
-      "published": "2026-09-22T00:04:40+00:00"
     },
     {
       "id": "5ccb568faea5be41",
@@ -3248,7 +3156,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/08/desk-lamp-sq-1.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-31T09:00:29+00:00"
     },
