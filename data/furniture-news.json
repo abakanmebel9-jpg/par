@@ -1,15 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-10-14T22:14:39.615062+00:00",
-  "generated_at_human": "2026-10-14 22:14 UTC",
-  "total_items": 286,
+  "generated_at": "2026-10-15T01:24:38.206575+00:00",
+  "generated_at_human": "2026-10-15 01:24 UTC",
+  "total_items": 282,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
-    "Core77",
     "DM tag bathroom",
     "Design Boom architecture",
     "Design Milk",
@@ -39,6 +38,7 @@
     "Interni magazine",
     "Lost Art Press",
     "NKBA",
+    "Period Homes",
     "PopSugar Home",
     "Popular Woodworking",
     "Popular Woodworking projects",
@@ -64,6 +64,96 @@
   "sources_count": 55,
   "multi_photo_items": 57,
   "items": [
+    {
+      "id": "6e44592c69c8fd46",
+      "title": "From paddocks to paradise: Tour the lush gardens of recently Michelin-starred LVN Restaurant",
+      "summary": "Cattle have given way to clematis in the lush, sprawling garden of an Adelaide Hills winery, lovingly crafted over nearly three decades. The post From paddocks to paradise: Tour the lush gardens of recently Michelin-starred LVN Restaurant appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/outdoor-gardening/bird-in-hand-garden-adelaide-hills/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/02/hero-crop-2026-02-26t153235.998-699fcce668694.png?format=auto&v=1772080400",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/02/hero-crop-2026-02-26t153235.998-699fcce668694.png?format=auto&v=1772080400",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/hero-crop-2026-02-26t153235.998-699fcce668694.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/10/hero-crop-2026-10-15t103647.156-6ad0121159472.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/221128_bragg_yarra_15-690c3922c5f1d.jpg?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/05/hero-crop-2026-10-14t171349.173-6acf1da0b74e4.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/02/251128_cmphoto_hg_susienugent_0097_josh_w1920_001-699faf32a80d8.jpg?w=2048"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-10-15T00:06:21+00:00"
+    },
+    {
+      "id": "d88f33dba15023ba",
+      "title": "Say Goodbye To Classic White Backsplashes: Hilary Farr Calls Colorful Glass Tile A 'Focal Point'",
+      "summary": "Hilary Farr's glossy alternative to boring white backsplashes creates bold contrast in a kitchen, and pairs particularly well with minimalist, modern spaces.",
+      "url": "https://www.hunker.com/2284055/say-goodbye-to-classic-white-backsplashes-hilary-farr-colorful-glass-tile-alternative/",
+      "image": "https://www.hunker.com/img/gallery/say-goodbye-to-classic-white-backsplashes-hilary-farr-calls-colorful-glass-tile-a-focal-point/l-intro-1791822325.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/say-goodbye-to-classic-white-backsplashes-hilary-farr-calls-colorful-glass-tile-a-focal-point/l-intro-1791822325.jpg",
+        "https://www.hunker.com/img/gallery/say-goodbye-to-classic-white-backsplashes-hilary-farr-calls-colorful-glass-tile-a-focal-point/intro-1791822325.jpg",
+        "https://www.hunker.com/img/gallery/say-goodbye-to-classic-white-backsplashes-hilary-farr-calls-colorful-glass-tile-a-focal-point/incorporating-blue-glass-backsplash-tiles-into-the-kitchen-1791822326.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-10-15T00:00:00+00:00"
+    },
+    {
+      "id": "0319efaea4d673b9",
+      "title": "This Tiny Prague House Opens Like a Giant Wardrobe",
+      "summary": "This Tiny Prague House Opens Like a Giant Wardrobe Giant shutters open the side of Wardrobe House like the doors of an oversized cabinet. Behind them, glazing connects three stacked living levels to the...",
+      "url": "https://www.yankodesign.com/2026/10/14/this-tiny-prague-house-opens-like-a-giant-wardrobe/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-prague-house-opens-like-a-giant-wardrobe",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/wardrobe-house/wardrobe_house_yanko_design_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/10/wardrobe-house/wardrobe_house_yanko_design_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-10-14T23:30:05+00:00"
+    },
+    {
+      "id": "5b5b86f43af5f2a4",
+      "title": "This Compact Wooden Desk Unfolds to Reveal a Workspace Full of Hidden Surprises",
+      "summary": "This Compact Wooden Desk Unfolds to Reveal a Workspace Full of Hidden Surprises A desk is usually understood as a fixed surface, a place where work happens, and objects accumulate. Brazilian architect and designer Lia Siqueira approaches this...",
+      "url": "https://www.yankodesign.com/2026/10/14/this-compact-wooden-desk-unfolds-to-reveal-a-workspace-full-of-hidden-surprises/?utm_source=rss&utm_medium=rss&utm_campaign=this-compact-wooden-desk-unfolds-to-reveal-a-workspace-full-of-hidden-surprises",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/this-compact-wooden-desk-unfolds-to-reveal-a-workspace-full-of-hidden-surprises/Sesame_desk_furniture_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/10/this-compact-wooden-desk-unfolds-to-reveal-a-workspace-full-of-hidden-surprises/Sesame_desk_furniture_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/10/this-9-in-1-folding-titanium-ruler-can-draw-circles-slice-paper-and-eject-your-sim-card/MakerPi-Tiruler-2-0-Do-More-Carry-Less-hero-01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/10/the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts/Await-Digital-Ease-Analog-Soul-Camera-for-what-matters-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/this_soundbar_speaker_is_also_a_massive_power_station_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/10/10/earos.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/12/10/equilino_01.jpg"
+      ],
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-10-14T22:30:31+00:00"
+    },
+    {
+      "id": "7efa7d803e049552",
+      "title": "Pennsylvania Firebacks",
+      "summary": "The only manufacturer of museum quality Historic Reproduction and Original Design Firebacks, cast in America, for use in the hearth, or as a kitchen backsplash. The post Pennsylvania Firebacks appeared first on Period Homes .",
+      "url": "https://www.period-homes.com/pennsylvania-firebacks",
+      "image": "https://artsandcraftshomes.com/uploads/MjAwNjU3MzkzNjgyNDkwNTcy/10-aetna-rooster.jpg",
+      "images": [
+        "https://artsandcraftshomes.com/uploads/MjAwNjU3MzkzNjgyNDkwNTcy/10-aetna-rooster.jpg"
+      ],
+      "source": "Period Homes",
+      "source_url": "https://www.period-homes.com",
+      "published": "2026-10-14T22:15:03+00:00"
+    },
+    {
+      "id": "1f9f42ebb321e7a6",
+      "title": "A $200 DIY Took an \"Ignored\" Bathroom from Builder-Grade to Bold",
+      "summary": "For many people, long-backlogged projects take on a new urgency as they find themselves spending more time at home and using their spaces in different ways. For Melissa and Wyatt Shipman (Loving Here), that project was the half-bathroom in their basement.It was a relic of the early 1990s when their home was built, and it looked it: dingy tan vinyl floors, an oak vanity, poor lighting, and a dusty blue (yes, blue) toilet and sink. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/builder-grade-1990s-black-white-bathroom-200-dollar-makeover-ba-37695186?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-03/Melissa_Shipman_before_1_tagged",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2021-03/Melissa_Shipman_before_1_tagged"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-10-14T22:00:00+00:00"
+    },
     {
       "id": "747b407d08ac55be",
       "title": "Recycled-plastic plinths hold furniture at \"secret\" Barragán house in Mexico City",
@@ -102,6 +192,22 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-14T20:30:59+00:00"
+    },
+    {
+      "id": "472f26db0081b30a",
+      "title": "Hide Open Bathroom Shelves With One Piece Of Secondhand Wood",
+      "summary": "Discover how to hide messy open shelves with this DIY project. It keeps bathroom necessities nearby while hiding clutter behind a repurposed piece of wood.",
+      "url": "https://www.hunker.com/2283965/hide-open-bathroom-shelves-with-one-piece-of-secondhand-wood/",
+      "image": "https://www.hunker.com/img/gallery/hide-open-bathroom-shelves-with-one-piece-of-secondhand-wood/l-intro-1791909725.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/hide-open-bathroom-shelves-with-one-piece-of-secondhand-wood/l-intro-1791909725.jpg",
+        "https://www.hunker.com/img/gallery/hide-open-bathroom-shelves-with-one-piece-of-secondhand-wood/intro-1791909725.jpg",
+        "https://www.hunker.com/img/gallery/hide-open-bathroom-shelves-with-one-piece-of-secondhand-wood/measure-and-install-all-hinges-on-the-door-panel-before-cutting-to-ensure-grain-constancy-1791909727.jpg",
+        "https://www.hunker.com/img/gallery/hide-open-bathroom-shelves-with-one-piece-of-secondhand-wood/cut-the-large-door-into-separate-panels-and-rehang-1791909729.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-10-14T20:00:00+00:00"
     },
     {
       "id": "8316cb7957f56154",
@@ -328,26 +434,10 @@
       "url": "https://www.hunker.com/2283359/turn-clothespins-into-kitchen-countertop-trivet/",
       "image": "https://www.hunker.com/img/gallery/turn-extra-clothespins-into-a-must-have-kitchen-countertop-find/l-intro-1791776375.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/turn-extra-clothespins-into-a-must-have-kitchen-countertop-find/l-intro-1791776375.jpg",
-        "https://www.hunker.com/img/gallery/turn-extra-clothespins-into-a-must-have-kitchen-countertop-find/intro-1791776375.jpg",
-        "https://www.hunker.com/img/gallery/turn-extra-clothespins-into-a-must-have-kitchen-countertop-find/how-to-make-a-unique-countertop-trivet-with-clothespins-1791776377.jpg",
-        "https://www.hunker.com/img/gallery/turn-extra-clothespins-into-a-must-have-kitchen-countertop-find/another-way-to-make-a-beautiful-diy-trivet-using-clothespins-1791776378.jpg"
+        "https://www.hunker.com/img/gallery/turn-extra-clothespins-into-a-must-have-kitchen-countertop-find/l-intro-1791776375.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
-      "published": "2026-10-14T14:00:00+00:00"
-    },
-    {
-      "id": "474c118adfa2323b",
-      "title": "Hinterher's Flexible Bike Cargo Trailers",
-      "summary": "German company Hinterher makes bicycle cargo trailers that can be stored flat. The company was founded by architect and furniture builder Peter Hornung, who designed the first Hinterher trailer as an alternative to his delivery van. The design is simple and versatile: It's essentially an aluminum tray, two wheels, the drawbar and a kickstand. The drawbar also doubles as a handle, so you can use the trailer independently—for instance, parking your bike and using the trailer as a shopping cart. Multiple sizes are offered. \"The combination of a bicycle and a trailer is appealing,\" the company…",
-      "url": "https://www.core77.com/posts/145646/Hinterhers-Flexible-Bike-Cargo-Trailers",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1853724_lead_400_145646_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1853724_lead_400_145646_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
       "published": "2026-10-14T14:00:00+00:00"
     },
     {
@@ -366,19 +456,6 @@
       ],
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
-      "published": "2026-10-14T13:00:00+00:00"
-    },
-    {
-      "id": "90d8b3d8d472dc4f",
-      "title": "Fiat's Strange, Transforming Multiplay Concept Vehicle",
-      "summary": "This week Fiat unveiled their Multiplay concept, a boundary-blurring vehicle with transforming bodywork. \"The concept combines the space efficiency of an MPV, the character of an SUV and the versatility of a pick-up,\" the company writes. \"At the heart of the project is the C-Pillar 'Metamorfosi' architecture: a mobile rear module that enables the vehicle to switch from a 6+1 family configuration to a four-seat pick-up with an open bed.\" The idea seems to be that you'd remove the rear seats, slide the rear module forward and have a tiny open bed with a tonneau cover. Bizarrely, the company…",
-      "url": "https://www.core77.com/posts/145645/Fiats-Strange-Transforming-Multiplay-Concept-Vehicle",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1853685_lead_400_145645_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1853685_lead_400_145645_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
       "published": "2026-10-14T13:00:00+00:00"
     },
     {
@@ -499,9 +576,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/layers-ripple-dining-table-uses-a-wavy-plywood-core-to-cut-weight/ripple-table-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-9-in-1-folding-titanium-ruler-can-draw-circles-slice-paper-and-eject-your-sim-card/MakerPi-Tiruler-2-0-Do-More-Carry-Less-hero-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts/Await-Digital-Ease-Analog-Soul-Camera-for-what-matters-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/03/draft-mmnt/moment_batterycase_3.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/07/11/far_from_home.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/12/auto-draft/tesla_cyberphone_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2018/12/yd-handpicks-the-top-audio-product-designs-from-2018/top_audio_designs_from_2018_layout1.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/05/02/strollon_00.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/10/cutting-edge-design-concepts-that-were-granted-the-2021-red-dot-best-of-best-award/red_dot_bestofbest_2021_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -610,9 +687,7 @@
       "url": "https://www.hunker.com/2283117/not-a-bench-grinder-renew-outdoor-furniture-angle/",
       "image": "https://www.hunker.com/img/gallery/not-a-bench-grinder-renew-outdoor-furniture-with-a-highly-rated-lowes-product/l-intro-1791661843.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-a-bench-grinder-renew-outdoor-furniture-with-a-highly-rated-lowes-product/l-intro-1791661843.jpg",
-        "https://www.hunker.com/img/gallery/not-a-bench-grinder-renew-outdoor-furniture-with-a-highly-rated-lowes-product/intro-1791661843.jpg",
-        "https://www.hunker.com/img/gallery/not-a-bench-grinder-renew-outdoor-furniture-with-a-highly-rated-lowes-product/choosing-the-right-brush-and-using-it-safely-1791661845.jpg"
+        "https://www.hunker.com/img/gallery/not-a-bench-grinder-renew-outdoor-furniture-with-a-highly-rated-lowes-product/l-intro-1791661843.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -630,32 +705,6 @@
       "source": "NKBA",
       "source_url": "https://www.nkba.org",
       "published": "2026-10-14T01:52:33+00:00"
-    },
-    {
-      "id": "b4ef4a7804a9bac2",
-      "title": "This chrome skeleton is the most extra mechanical keyboard ever made",
-      "summary": "This chrome skeleton is the most extra mechanical keyboard ever made In 2006, Dutch designer Joris Laarman fed a bone growth algorithm into a computer and got a chair that looked grown rather than built. His...",
-      "url": "https://www.yankodesign.com/2026/10/13/this-chrome-skeleton-is-the-most-extra-mechanical-keyboard-ever-made/?utm_source=rss&utm_medium=rss&utm_campaign=this-chrome-skeleton-is-the-most-extra-mechanical-keyboard-ever-made",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/653782/pulse_one_sculptural_keyboard_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/653782/pulse_one_sculptural_keyboard_1.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-10-14T00:30:27+00:00"
-    },
-    {
-      "id": "957a72de11b6848d",
-      "title": "A Suspended Walkway Leads to This Tiny Cabin Overlooking the Salish Sea",
-      "summary": "A Suspended Walkway Leads to This Tiny Cabin Overlooking the Salish Sea A cabin this small could easily become an exercise in clever storage. On Blakely Island, Wittman Estes has taken a more interesting approach. The Seattle-based...",
-      "url": "https://www.yankodesign.com/2026/10/13/a-suspended-walkway-leads-to-this-tiny-cabin-overlooking-the-salish-sea/?utm_source=rss&utm_medium=rss&utm_campaign=a-suspended-walkway-leads-to-this-tiny-cabin-overlooking-the-salish-sea",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/a-suspended-walkway-leads-to-this-tiny-cabin-overlooking-the-salish-sea/Cabin_blakelyisland_architecture_01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/a-suspended-walkway-leads-to-this-tiny-cabin-overlooking-the-salish-sea/Cabin_blakelyisland_architecture_01.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-10-13T23:30:04+00:00"
     },
     {
       "id": "b993ab67b7cf001c",
@@ -782,19 +831,6 @@
       "published": "2026-10-13T19:03:23+00:00"
     },
     {
-      "id": "65ba49ebb0be56bd",
-      "title": "Transform Old Glass Jars Into Colorful Lanterns With A Helpful Bathroom Staple",
-      "summary": "If you have a stash of old jars, a creative itch, and a bunch of supplies you already likely own, you won't want to miss trying out this adorable lantern DIY.",
-      "url": "https://www.hunker.com/2285488/transform-ordinary-glass-jars-into-colorful-lanterns-nail-polish/",
-      "image": "https://www.hunker.com/img/gallery/transform-old-glass-jars-into-colorful-lanterns-with-a-helpful-bathroom-staple/l-intro-1791908394.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/transform-old-glass-jars-into-colorful-lanterns-with-a-helpful-bathroom-staple/l-intro-1791908394.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-13T18:00:00+00:00"
-    },
-    {
       "id": "7d84afb46bc52629",
       "title": "Casa del Loro Finds Its Palette in Birds’ Feathers",
       "summary": "Casa del Loro brings a studio-house by Workshop: Diseño y Construcción to the outskirts of Mérida, Mexico, where contemporary volumes meet traditional regional elements. The 2026 house is conceived around two large aviaries for rescued birds, linking architecture, interiors, and garden through broad openings, cross-ventilation, and a shifting spectrum of handcrafted cement tile. Color becomes […] The post Casa del Loro Finds Its Palette in Birds’ Feathers first appeared on HomeAdore .",
@@ -915,19 +951,6 @@
       "source": "Home Adore",
       "source_url": "http://homeadore.com",
       "published": "2026-10-13T15:03:23+00:00"
-    },
-    {
-      "id": "2f1a8daf7d900b96",
-      "title": "ID Firm Layer Develops Corrugated Plywood: Strong, Lightweight",
-      "summary": "This Ripple table is by British industrial design and engineering firm Layer . Its construction was made possible by a production innovation: Ripple uses an innovative and sustainable new process for corrugating plywood to deliver an ultra-lightweight product with minimal environmental impact. Easily maneuverable by a single person, the table responds to the dynamic living trends shaping the future. LAYER designed Ripple as part of an internal studio research project into lightweight constructions. The impressive strength to weight ratio is enabled by an innovative production process of…",
-      "url": "https://www.core77.com/posts/145637/ID-Firm-Layer-Develops-Corrugated-Plywood-Strong-Lightweight",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1853629_lead_400_145637_.jpeg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1853629_lead_400_145637_.jpeg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-10-13T15:00:00+00:00"
     },
     {
       "id": "a5f49a5d35490e79",
@@ -1190,9 +1213,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/653429/colheita-coffee-table-concept-08.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-9-in-1-folding-titanium-ruler-can-draw-circles-slice-paper-and-eject-your-sim-card/MakerPi-Tiruler-2-0-Do-More-Carry-Less-hero-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts/Await-Digital-Ease-Analog-Soul-Camera-for-what-matters-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/this-ai-enabled-tiny-home-gets-a-design-upgrade-making-it-more-spacious-and-futuristic/tiny_home_futuristic_prefab-1.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/03/yd-job-alert-adidas-is-looking-for-an-assistant-cmf-designer/adidas_cfm_designer_job_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/12/23/rambler_socket1.jpg"
+        "https://www.yankodesign.com/images/design_news/2016/06/the-pencil-evolved/pencilplus_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/01/23/skycare.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/05/20/socket.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1316,7 +1339,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/10/Gundry-Ducker-French-Dining-Culture-Cassette-Featured_dezeen_2364_col_0.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-12T08:00:33+00:00"
     },
@@ -1438,7 +1461,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/10/mad-monk-studios-san-luis-stays_mariel-lozano-studio_dezeen_sqex1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-10T17:00:14+00:00"
     },
@@ -1532,12 +1555,7 @@
       "url": "https://www.yankodesign.com/2026/10/09/this-plastic-stool-is-a-giant-esc-key-and-it-hides-your-clutter/?utm_source=rss&utm_medium=rss&utm_campaign=this-plastic-stool-is-a-giant-esc-key-and-it-hides-your-clutter",
       "image": "https://www.yankodesign.com/images/design_news/2026/10/653130/esc_stool_1.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/653130/esc_stool_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/10/this-9-in-1-folding-titanium-ruler-can-draw-circles-slice-paper-and-eject-your-sim-card/MakerPi-Tiruler-2-0-Do-More-Carry-Less-hero-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/10/the-146-await-camera-brings-back-the-disposable-with-24-photos-per-roll-so-every-shot-counts/Await-Digital-Ease-Analog-Soul-Camera-for-what-matters-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/06/fusion/fusion_03.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/modular-phone-tablet-hybrid-concept-solves-the-screen-size-paradox/wide-phone-tablet-hybrid-concept-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/the-best-of-issey-miyake-to-commemorate-the-84-years-of-design-excellence-hes-given-us/Issey-Miyake_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/10/653130/esc_stool_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1596,19 +1614,6 @@
       "published": "2026-10-09T15:00:44+00:00"
     },
     {
-      "id": "981eaf1acea977a0",
-      "title": "Core77 Weekly Roundup (10-5-26 to 10-9-26)",
-      "summary": "Here's what we looked at this week: Tortoise Gear's super-easy-to-install add-on clip for Swiss Army Knives. Better UX for farmers and off-roaders: The Tuff Jug Ripper Cap solves a tricky fueling situation. Industrial designer Eduardo Blanco's Cartesian pencil holders. Industrial designer Hsinhung Chou's simple, versatile, \"Handy\" mobile furniture piece. A Bauhausian take on the coat rack , by industrial designer Steffen Kehrle. User feedback yields a useful study object made of brass. Ettore Sottsass's convention-bucking Valigia desk lamp is back on the market. An industrial design…",
-      "url": "https://www.core77.com/posts/145564/Core77-Weekly-Roundup-10-5-26-to-10-9-26",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1852632_lead_400_145564_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1852632_lead_400_145564_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-10-09T15:00:00+00:00"
-    },
-    {
       "id": "bda83273a113b590",
       "title": "This $1,500 Korean Chair Is Built More Like a House Than a Couch",
       "summary": "This $1,500 Korean Chair Is Built More Like a House Than a Couch A sofa usually hides its structure beneath cushions, leaving you to think about it only when something creaks. Haesi’s Gyeolgu one-seater brings that structure into...",
@@ -1622,19 +1627,6 @@
       "published": "2026-10-09T13:20:14+00:00"
     },
     {
-      "id": "b748dd73d598c5f5",
-      "title": "Fun, Lighthearted Furniture that Feels Straight Out of a Rom-Com",
-      "summary": "New York's design week introduced us to our latest love interests. The post Fun, Lighthearted Furniture that Feels Straight Out of a Rom-Com appeared first on Azure Magazine .",
-      "url": "https://www.azuremagazine.com/article/nyc-2026-design-week-rom-com-furniture/",
-      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/09/3af6bf9ebcf6-Dimwit_Family_Leah_Verwey.jpg",
-      "images": [
-        "https://www.azuremagazine.com/wp-content/uploads/2026/09/3af6bf9ebcf6-Dimwit_Family_Leah_Verwey.jpg"
-      ],
-      "source": "Azure magazine CA",
-      "source_url": "https://www.azuremagazine.com",
-      "published": "2026-10-09T13:00:00+00:00"
-    },
-    {
       "id": "fb57655031928164",
       "title": "The Best Step Stools for DIY Projects, High Shelves, and Small Spaces",
       "summary": "For homeowners and professionals alike, these tested step stools make reaching out-of-the-way places safe and easy. The post The Best Step Stools for DIY Projects, High Shelves, and Small Spaces appeared first on Bob Vila .",
@@ -1645,6 +1637,19 @@
       ],
       "source": "Bob Vila",
       "source_url": "https://www.bobvila.com",
+      "published": "2026-10-09T13:00:00+00:00"
+    },
+    {
+      "id": "b748dd73d598c5f5",
+      "title": "Fun, Lighthearted Furniture that Feels Straight Out of a Rom-Com",
+      "summary": "New York's design week introduced us to our latest love interests. The post Fun, Lighthearted Furniture that Feels Straight Out of a Rom-Com appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/nyc-2026-design-week-rom-com-furniture/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/09/3af6bf9ebcf6-Dimwit_Family_Leah_Verwey.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/09/3af6bf9ebcf6-Dimwit_Family_Leah_Verwey.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
       "published": "2026-10-09T13:00:00+00:00"
     },
     {
@@ -1722,10 +1727,10 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/1_NICOLA-PIGHI_Presidente-Hdemy-Group.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/4_Progetto-Simone-Micheli-Torre-di-Maiano-019.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/Contract-District-Group_2.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/under-the-canopy.png",
         "https://www.internimagazine.it/content/uploads/2026/09/03_KOYAUWE_03_BY_Tommaso-Galora.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/10_CDWe26_le-_45-parole-damore_-di-Leftloft-sulle-telecabine-di-Dolonne_PH-Roberto-Roux.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/09/10_CDWe26_le-_45-parole-damore_-di-Leftloft-sulle-telecabine-di-Dolonne_PH-Roberto-Roux.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/09/Contract-District-Group_2.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/under-the-canopy.png"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1958,12 +1963,7 @@
       "url": "https://www.homestolove.com.au/decorating/temple-and-webster-sale-24535/",
       "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2023/06/Temple-and-Webster-Cesca-Replica-Dining-Chairs.png?format=auto&v=1717570322",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2023/06/Temple-and-Webster-Cesca-Replica-Dining-Chairs.png?format=auto&v=1717570322",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/10/hero-crop-2026-10-14t135316.856-6aceeebeaadca.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/08/hero-crop-2026-10-13t135255.556-6acd9d0a9743d.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/10/hero-crop-2026-10-13t114821.976-6acd7fe0ab4f9.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/10/temple-and-webster-kahie-dining-table-6ac718a4d151f.png?w=2048",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/10/temple-and-webster-kiran-3-seater-sofa-bed-6ac71981d136c.png?w=2048"
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2023/06/Temple-and-Webster-Cesca-Replica-Dining-Chairs.png?format=auto&v=1717570322"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -2030,22 +2030,9 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/10/apparatus-act-v-lighting-collection_dezeen_2364_sq.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-07T14:00:16+00:00"
-    },
-    {
-      "id": "373c3af970f79a5c",
-      "title": "Ettore Sottsass's Convention-Bucking Valigia Desk Lamp",
-      "summary": "Ever since the Anglepoise lamp's introduction in 1933 , desk lamps typically cantilevered the light source outwards from the base. Roughly four decades later, Ettore Sottsass threw this convention out with his irreverent Valigia desk lamp. There is no counterweighted base, just four legs that support the lamp head as if it's a tabletop. The form demands commitment, sitting directly above whatever you're reading. Sottsass added a handle at the top, envisioning this as an object you'd carry from place to place. (\"Valigia\" is Italian for \"suitcase.\") It's worth noting that Sottsass designed…",
-      "url": "https://www.core77.com/posts/145585/Ettore-Sottsasss-Convention-Bucking-Valigia-Desk-Lamp",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1852868_lead_400_145585_.jpeg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1852868_lead_400_145585_.jpeg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-10-07T13:00:00+00:00"
     },
     {
       "id": "193ec82ab495eca6",
@@ -2202,19 +2189,6 @@
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
       "published": "2026-10-06T12:06:58+00:00"
-    },
-    {
-      "id": "b37e3b3c8db5d586",
-      "title": "The 7 Tiny Home Upgrades of October 2026 That Don’t Feel Like a Compromise",
-      "summary": "The 7 Tiny Home Upgrades of October 2026 That Don’t Feel Like a Compromise Living smaller used to mean settling. A kitchen counter crowded with single-purpose appliances, a TV that washed out the moment daylight hit the window, lighting...",
-      "url": "https://www.yankodesign.com/2026/10/06/the-7-tiny-home-upgrades-of-october-2026-that-dont-feel-like-a-compromise/?utm_source=rss&utm_medium=rss&utm_campaign=the-7-tiny-home-upgrades-of-october-2026-that-dont-feel-like-a-compromise",
-      "image": "https://www.yankodesign.com/images/design_news/2026/09/tiny-home-upgrades-of-october-2026-that-dont-feel-like-a-compromise/7_best_tiny_home_upgrades_yanko_design_hero.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/09/tiny-home-upgrades-of-october-2026-that-dont-feel-like-a-compromise/7_best_tiny_home_upgrades_yanko_design_hero.jpg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-10-06T11:40:51+00:00"
     },
     {
       "id": "0c27401982552bed",
@@ -2407,19 +2381,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-10-05T10:00:03+00:00"
-    },
-    {
-      "id": "49fa7d2108324726",
-      "title": "Flat-Pack Furniture That Actually Survives Your Next Move",
-      "summary": "Flat-Pack Furniture That Actually Survives Your Next Move Flat-pack furniture is easy to appreciate on the day it arrives. It fits through the door, and you can usually put it together without much...",
-      "url": "https://www.yankodesign.com/2026/10/05/flat-pack-furniture-that-actually-survives-your-next-move/?utm_source=rss&utm_medium=rss&utm_campaign=flat-pack-furniture-that-actually-survives-your-next-move",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/flat-pack-furniture-that-actually-survives-your-next-move/flat-pack-08.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/flat-pack-furniture-that-actually-survives-your-next-move/flat-pack-08.jpg"
-      ],
-      "source": "Yanko Design furniture",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-10-05T08:15:00+00:00"
     },
     {
       "id": "923d173e68dbdca9",
@@ -2622,7 +2583,7 @@
       "images": [
         "http://static.dezeen.com/uploads/2026/09/gubi-lotus-lamp.jpg"
       ],
-      "source": "Dezeen tag lighting",
+      "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-01T10:15:05+00:00"
     },
@@ -3023,19 +2984,6 @@
       "source": "Dezeen tag furniture",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-24T05:00:01+00:00"
-    },
-    {
-      "id": "bca1d5345e1dd322",
-      "title": "The Bonobo Trades Coastal Cliché for Brazilian Modernism Inside a Brutalist Byron Bay Shell.",
-      "summary": "Raes' first proper step into the centre of Byron Bay comes with architecture by Richards & Spence and interiors from Manifold that skip the coastal clichés entirely, pulling from Brazilian modernism instead. Lachlan Cooper and Morgan Novy tell us why in their own words. | The article The Bonobo Trades Coastal Cliché for Brazilian Modernism Inside a Brutalist Byron Bay Shell. appeared first on Yellowtrace . |",
-      "url": "https://www.yellowtrace.com.au/manifold-richards-and-spence-the-bonobo-raes-hotel-byron-bay-hospitality-design/",
-      "image": "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/09154609/Yellowtrace-Manifold-Richards-and-Spence-The-Bonobo-by-Raes-Byron-Bay-Photo-Traianos-Pakioufakis-19_opt80.jpg",
-      "images": [
-        "https://assets.yellowtrace.com.au/wp-content/uploads/2026/09/09154609/Yellowtrace-Manifold-Richards-and-Spence-The-Bonobo-by-Raes-Byron-Bay-Photo-Traianos-Pakioufakis-19_opt80.jpg"
-      ],
-      "source": "Yellowtrace",
-      "source_url": "https://www.yellowtrace.com.au",
-      "published": "2026-09-23T19:30:27+00:00"
     },
     {
       "id": "7e161d42b0a13b48",
