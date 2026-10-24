@@ -1,15 +1,14 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-10-23T23:04:42.006046+00:00",
-  "generated_at_human": "2026-10-23 23:04 UTC",
-  "total_items": 259,
+  "generated_at": "2026-10-24T01:33:19.739345+00:00",
+  "generated_at_human": "2026-10-24 01:33 UTC",
+  "total_items": 252,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
-    "Core77",
     "DM tag bathroom",
     "Design Boom architecture",
     "Design Milk",
@@ -47,6 +46,7 @@
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
+    "Sunset",
     "Trendir",
     "Trendir furniture",
     "Trendir interiors",
@@ -58,11 +58,10 @@
     "Yanko Design furniture",
     "Yanko Design home",
     "Yellowtrace",
-    "АМДПР",
-    "Мебель-expo"
+    "АМДПР"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 61,
+  "sources_count": 54,
+  "multi_photo_items": 62,
   "items": [
     {
       "id": "7728dbd6d593983a",
@@ -87,9 +86,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger/scissor-chair-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-coin-sized-titanium-tape-measure-handles-straight-lines-curves-and-looks-like-jet-engine-stock/RolTine2-0-The-Titanium-Skeleton-Tape-Measure-Fidget-Tool-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/this-glowing-modular-moss-panel-system-might-be-the-coolest-way-to-fix-a-boring-room/Moss-Hexa-A-Modular-Moss-System-for-Any-Space.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/12/auto-draft/breaking_surface_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/01/18/octahedrons_06.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/03/altwork-desk/01-altwork_desk_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/05/alessis-first-furniture-collection-with-philippe-starck-is-inspired-by-frying-pans/Philippe-Stark_Alessi_furniture_milan-design-week_2.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/10/this-sustainable-shelf-requires-no-screws-or-tools-to-assemble/svolta-2.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/07/auto-draft/strap_chair_9.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -151,6 +150,24 @@
       "source": "Yanko Design",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-23T18:20:20+00:00"
+    },
+    {
+      "id": "015749e527ce36a1",
+      "title": "This Laundry Room Design Trick Will Make Washing Your Clothes a Whole Lot Easier",
+      "summary": "The laundry room was cramped and had a bad layout, so a designer added more space and changed its floor plan to make it more functional.",
+      "url": "https://sunset.com/home-garden/home-tours/functional-laundry-room-makeover",
+      "image": "https://sunset.com/wp-content/uploads/laundry-room-horizontal-rachel-seldin-pc-vivian-johnson.jpg?w=1200&h=600&crop=1",
+      "images": [
+        "https://sunset.com/wp-content/uploads/laundry-room-horizontal-rachel-seldin-pc-vivian-johnson.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/laundry-before-after-rachel-seldin-pc-vivian-johnson.jpg",
+        "https://sunset.com/wp-content/uploads/powder-room-rachel-seldin-pc-vivian-johnson.jpg",
+        "https://sunset.com/wp-content/uploads/coffee-bar-laundry-room-rachel-seldin-pc-vivian-johnson.jpg",
+        "https://sunset.com/wp-content/uploads/stacked-laundry-room-rachel-seldin-pc-vivian-johnson.jpg",
+        "https://sunset.com/wp-content/uploads/2026/10/empty-nester-trip-spritz-couple-pc-courtneyk-getty.jpg?w=1200&h=600&crop=1"
+      ],
+      "source": "Sunset",
+      "source_url": "https://www.sunset.com",
+      "published": "2026-10-23T17:19:51+00:00"
     },
     {
       "id": "893da79c1f35cdd1",
@@ -218,19 +235,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-10-23T16:00:00+00:00"
-    },
-    {
-      "id": "d58858bcfc8ec80c",
-      "title": "Core77 Weekly Roundup (10-19-26 to 10-23-26)",
-      "summary": "Here's what we looked at this week: Maya Barkai's \"Walking Men\" public art installations. CMF's milk-carton-inspired affordable portable speaker. Industrial/computational designer Joram de Haas' FilaLoom project combines 3D printing with weaving. The simple, beautiful interface on Braun's 1960s portable fan/heater. A creative, low-tech way to cantilever a movable lamp. Clandestine Design Group's Cellcius C-01 : An electric motorcycle concept with modular, scalable power. Work Sharp's diminutive, flexible knife sharpener. A transforming Mid-Century chair, and fun Knoll facts. Toyota…",
-      "url": "https://www.core77.com/posts/145669/Core77-Weekly-Roundup-10-19-26-to-10-23-26",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1854114_lead_400_145669_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1854114_lead_400_145669_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-10-23T15:00:00+00:00"
     },
     {
       "id": "631c10ab8140bba6",
@@ -527,9 +531,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/aerys-office-chair-offers-a-fit-you-can-actually-fine-tune/aery-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-coin-sized-titanium-tape-measure-handles-straight-lines-curves-and-looks-like-jet-engine-stock/RolTine2-0-The-Titanium-Skeleton-Tape-Measure-Fidget-Tool-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/this-glowing-modular-moss-panel-system-might-be-the-coolest-way-to-fix-a-boring-room/Moss-Hexa-A-Modular-Moss-System-for-Any-Space.jpg",
-        "https://www.yankodesign.com/images/design_news/2014/05/21/google_nexus.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/05/modular-lego-inspired-furniture-that-can-be-hacked-customized-refurbished-relocated/aalo_endlessly_flexible_furniture_system_layout.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/this-raspberry-pi-camera-looks-like-it-was-made-in-the-80s-for-2050/saturnix-diy-retro-futuristic-camera-03.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/02/03/radio.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/12/10-best-high-tech-appliances-to-help-homemakers-achieve-a-spotless-home/10_best_high_tech_appliances_yanko_design_07.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/01/top-10-iphone-accessories/top_10_iphone_accessories_yanko_design_hero.webp"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -973,32 +977,6 @@
       "published": "2026-10-21T16:44:49+00:00"
     },
     {
-      "id": "ec1da1992e7f8bb3",
-      "title": "A Transforming Mid-Century Chair, and Fun Knoll Facts",
-      "summary": "This Mid-Century chair, designer unknown, was produced by German furniture brand Wilhelm Knoll. * Called the Scissor Chair, it can perform a little trick: Underneath you can see the hinge mechanism, which is rather unsightly, and thankfully tucked away. Viewed from an ordinary angle, there's no indication that the chair hides a transforming mechanism. * The Knolls were an enterprising line of people. See if you can keep up: - In 1865 Germany, leatherworker Wilhelm Knoll started his namesake business. - In 1907, Wilhelm's sons Willy and Walter took over the business, and expanded it into…",
-      "url": "https://www.core77.com/posts/145698/A-Transforming-Mid-Century-Chair-and-Fun-Knoll-Facts",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1854473_lead_400_145698_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1854473_lead_400_145698_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-10-21T15:00:00+00:00"
-    },
-    {
-      "id": "7552b5a89fdf5244",
-      "title": "Toyota Releases Video of Wheelchair-Alternative Mobility Concepts in Action",
-      "summary": "Last year Toyota unveiled three concepts at the Japanese Mobility Show: Walk Me, a chair that can travel on its legs. This was presented as a wheelchair alternative that can ascend stairs and handle uneven terrain. Boost Me, a sort of elevated wheelchair that would allow the disabled to play tennis or basketball. Challenge Me, a rugged off-road wheelchair. What Toyota didn't show last year, was video footage of these objects actually carrying people. But now they've released one: \"As we continue to come up with these different 'me' ideas,\" says Toyota Chief Branding Officer Simon…",
-      "url": "https://www.core77.com/posts/145699/Toyota-Releases-Video-of-Wheelchair-Alternative-Mobility-Concepts-in-Action",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1854511_lead_400_145699_.jpg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1854511_lead_400_145699_.jpg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-10-21T15:00:00+00:00"
-    },
-    {
       "id": "7886e202b1c244c1",
       "title": "47 Spectacular Gifts for the Most Stylish Women in Your Life",
       "summary": "From one-of-a-kind finds for her party closet to beautiful jewelry and clothing, our editors have rounded up the best gifts of the season.",
@@ -1285,9 +1263,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/lumvia-coffee-table-prototype-pairs-a-customizable-mosaic-with-hidden-drawers/lumvia-customizzble-coffee-table-mosaic-tiles-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-coin-sized-titanium-tape-measure-handles-straight-lines-curves-and-looks-like-jet-engine-stock/RolTine2-0-The-Titanium-Skeleton-Tape-Measure-Fidget-Tool-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/this-glowing-modular-moss-panel-system-might-be-the-coolest-way-to-fix-a-boring-room/Moss-Hexa-A-Modular-Moss-System-for-Any-Space.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/07/auto-draft/megalodon_sword_macropad_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/10/zdesk/zdesk_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/3d-printed/katahashi_karen_ultralight_electric_violin_1.jpeg"
+        "https://www.yankodesign.com/images/design_news/2023/03/stationery-designs/top_10_stationery_designs_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/01/298518/Vase-steam-vacuum-by-Yang-Dong-Wook-15.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/09/18/eco_cooker.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1515,10 +1493,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/10/G3bjtD1n-@Catherina-Hess.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/G3bjtD1n-@Catherina-Hess.jpg?imbypass=true",
+        "https://www.internimagazine.it/content/uploads/2026/08/DSC_3769.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Drone-Castello-Cinquecentesco.jpg",
         "https://www.internimagazine.it/content/uploads/2026/09/Chronolith_DaaaHaus_Recobel_SLV_003.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Adrenalina-Kids-09119-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/DSC_3769.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Steinway-x-Disney-Mickey-Mouse-Limited-Edition-Piano-Elena-Salmistraro-4.jpg"
       ],
       "source": "Interni magazine",
@@ -1728,32 +1706,6 @@
       "published": "2026-10-16T16:20:01+00:00"
     },
     {
-      "id": "3a084ef9c25a5252",
-      "title": "Core77 Weekly Roundup (10-13-26 to 10-16-26)",
-      "summary": "Here's what we looked at this week: To build a low-cost EV, Citröen dusts off the 2CV. ID firm Layer develops corrugated plywood that's strong and lightweight. Poka-yoke: Idiot-proof design. Fiat's strange, transforming Multiplay concept vehicle. Hinterher's flexible bike cargo trailers. Akinori Goto's incredible 3D-printed zoetrope. Memobottle's easy-to-clean water bottle lid design. The wild-looking seating in Renault's E-Space Concept. Industrial Design student work: A handwashing station for kindergarteners. The International Lineman's Rodeo : The Olympics for lineworkers. Tesla…",
-      "url": "https://www.core77.com/posts/145633/Core77-Weekly-Roundup-10-13-26-to-10-16-26",
-      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1853836_lead_400_145633_.jpeg",
-      "images": [
-        "https://s3files.core77.com/blog/images/lead_n_spotlight/1853836_lead_400_145633_.jpeg"
-      ],
-      "source": "Core77",
-      "source_url": "https://www.core77.com",
-      "published": "2026-10-16T15:00:00+00:00"
-    },
-    {
-      "id": "90f48ddf59a99192",
-      "title": "Деловая программа «Мебель-2026» о перспективах отрасли на 2027 год",
-      "summary": "Мебельный рынок второй год живет в режиме сжатия. Спрос падает, кредиты дороги, льготная ипотека закончилась, а этим летом тысячи продавцов потеряли товар на складах маркетплейсов. Деловая программа выставки « Мебель-2026 » построена не вокруг трендов, а вокруг практических вопросов: где взять выручку в 2027 году и как не потерять то, что уже есть. 23-26 ноября в МВЦ «Крокус Экспо» деловая программа выставки «Мебель-2026», организованная АО «Экспоцентр», посвящена всей цепочке мебельного бизнеса - от деревопереработки до продажи готовых изделий конечному покупателю. Программа занимает…",
-      "url": "https://www.meb-expo.ru/ru/media/news/index.php?id4=21158",
-      "image": "https://www.meb-expo.ru/common/img/uploaded/exhibitions/mebel/img_2026/0210_news.jpg",
-      "images": [
-        "https://www.meb-expo.ru/common/img/uploaded/exhibitions/mebel/img_2026/0210_news.jpg"
-      ],
-      "source": "Мебель-expo",
-      "source_url": "https://www.meb-expo.ru",
-      "published": "2026-10-16T13:19:45+00:00"
-    },
-    {
       "id": "59b92a4b2e478da7",
       "title": "Expert Advice: The Retrouvius Guide to Using Reclaimed Stone in Remodeling Projects",
       "summary": "Stone is a natural resource that’s been used in interiors since before the wheel was invented. Though durable and costly—not to mention inimitably patterned and textured—it’s almost never thought of as reusable. But it should be say the eco-minded team behind Retrouvius, a combination salvage company and design studio in London’s Kensal Green that lead […]",
@@ -1949,7 +1901,7 @@
       "images": [
         "https://design-milk.com/images/2026/09/9781969303043_820EJ_Photo_01-e1791931763930.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-10-13T23:11:02+00:00"
     },
@@ -2017,7 +1969,7 @@
         "https://www.internimagazine.it/content/uploads/2026/10/BANP-_-Casa-Sole-46.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/BANP-_-Casa-Sole-35.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/BANP-_-Casa-Sole-37.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/ape_jim-thompson-house-w1800h1360.jpg"
+        "https://www.internimagazine.it/content/uploads/2023/07/VSP_CasaAlMare_ByPaoloValentini_low-2-orizz.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2330,19 +2282,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-10-08T08:00:29+00:00"
-    },
-    {
-      "id": "1f4aa113bead5ae5",
-      "title": "Важный разговор: маркировка мебели – быть или не быть?",
-      "summary": "Если не маркировка – какой инструмент поможет в борьбе с нелегальным производством? 23 ноября в рамках деловой программы выставки «Мебель-2026» состоится сессия на актуальную тему «Маркировка», соорганизатором которой является Ассоциация предприятий мебельной и деревообрабатывающей промышленности России (АМДПР). Эта тема поднимается не первый раз, и мебельщики очень неоднозначно относятся к ней. Фото: АО «ЭКСПОЦЕНТР» Павильон 3, зал 15, площадка «Формула бизнеса» На сегодняшний день мебельная продукция не участвует в эксперименте «Честного знака» с кодами Data Matrix. В пилотный проект по…",
-      "url": "https://www.meb-expo.ru/ru/media/news/index.php?id4=21113",
-      "image": "https://www.expocentr.ru/upload/iblock/e8a/6leadmaoowx67zkstlw0supq255rnw7c/Delovaya-programma_Markirovka.jpg",
-      "images": [
-        "https://www.expocentr.ru/upload/iblock/e8a/6leadmaoowx67zkstlw0supq255rnw7c/Delovaya-programma_Markirovka.jpg"
-      ],
-      "source": "Мебель-expo",
-      "source_url": "https://www.meb-expo.ru",
-      "published": "2026-10-08T07:12:36+00:00"
     },
     {
       "id": "07b7a9c4d3b6f1a8",
@@ -2771,19 +2710,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-10-01T10:00:01+00:00"
-    },
-    {
-      "id": "f2506fa5834ee990",
-      "title": "Новый производитель мебельной фурнитуры премиального качества Higold на рынке России",
-      "summary": "Крупнейший мировой производитель мебельной фурнитуры – бренд Higold впервые продемонстрирует свою продукцию на выставке «Мебель». Офисы и шоурумы Higold открыты в 110 городах мира, включая Милан, Амстердам, Алматы, Шэньчжэнь и Гуанчжоу. Компания создает инновационные технологичные системы, в которых инженерная точность сочетается с эстетикой. В России компания представлена дочерней структурой АО «ХАЙГОЛД РУС» и поставляет функциональную мебельную фурнитуру и встраиваемые системы для кухонь и гардеробных. Павильон 3, зал 14, стенд №130 Фото: АО «Хайголд Рус» На выставке «Мебель 2026»…",
-      "url": "https://www.meb-expo.ru/ru/media/news/index.php?id4=21155",
-      "image": "https://www.meb-expo.ru/common/img/uploaded/exhibitions/mebel/img_2026/81/higold.jpg",
-      "images": [
-        "https://www.meb-expo.ru/common/img/uploaded/exhibitions/mebel/img_2026/81/higold.jpg"
-      ],
-      "source": "Мебель-expo",
-      "source_url": "https://www.meb-expo.ru",
-      "published": "2026-10-01T06:00:19+00:00"
     },
     {
       "id": "5d3430a8d1b309e3",
@@ -3267,19 +3193,6 @@
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
       "published": "2026-09-11T12:00:00+00:00"
-    },
-    {
-      "id": "abab49f30e1c76fd",
-      "title": "Национальная премия «Золотая Кабриоль»",
-      "summary": "АМДПР вновь проведет церемонию награждения национальной премии «Золотая Кабриоль» на выставке «Мебель». Приглашаем принять участие в XXII Национальной премии в области промышленного дизайна мебели «Золотая Кабриоль» , учрежденной многолетним партнером выставки «Мебель» – Ассоциацией предприятий мебельной и деревообрабатывающей промышленности России. Подробнее о конкурсе и заявка на участие Победителям будут вручены дипломы, статуэтки и призы от наших партнеров на торжественной церемонии награждения национальной премии «Золотая Кабриоль» 26 ноября 2026 года в 12:00 на международной выставке…",
-      "url": "https://www.meb-expo.ru/ru/media/news/index.php?id4=21012",
-      "image": "https://www.meb-expo.ru/common/img/uploaded/exhibitions/mebel/img_2021/Logo_zolotaya_kabriol.jpg",
-      "images": [
-        "https://www.meb-expo.ru/common/img/uploaded/exhibitions/mebel/img_2021/Logo_zolotaya_kabriol.jpg"
-      ],
-      "source": "Мебель-expo",
-      "source_url": "https://www.meb-expo.ru",
-      "published": "2026-09-11T11:26:21+00:00"
     },
     {
       "id": "337323d44f0d60bb",
