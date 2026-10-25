@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-10-25T01:02:47.747187+00:00",
-  "generated_at_human": "2026-10-25 01:02 UTC",
-  "total_items": 250,
+  "generated_at": "2026-10-25T06:01:04.996135+00:00",
+  "generated_at_human": "2026-10-25 06:01 UTC",
+  "total_items": 226,
   "sources_used": [
     "Apartment Therapy",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -27,7 +28,6 @@
     "Elle Decor",
     "Family Handyman",
     "Garden & Home SA",
-    "Gardenista",
     "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
@@ -41,16 +41,14 @@
     "PopSugar Home",
     "Popular Woodworking",
     "Popular Woodworking projects",
-    "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
     "Sunset",
     "Trendir",
-    "Trendir furniture",
-    "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -59,9 +57,27 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 61,
+  "sources_count": 51,
+  "multi_photo_items": 54,
   "items": [
+    {
+      "id": "d49a531ad52c49d5",
+      "title": "Collectible furniture meets cultural critique at Dutch Design Week’s Table of Power",
+      "summary": "Show Not Show has put a twist on a classic project documenting the echelons of power with an exhibition of the design collective’s furniture at Dutch Design Week. The post Collectible furniture meets cultural critique at Dutch Design Week’s Table of Power appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/10/25/collectible-furniture-dutch-design-week-table-of-power/",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq.jpg",
+      "images": [
+        "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_sq.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_5.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_4.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_13.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_17.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/table-of-power-show-not-show-design_dezeen_2364_col_21.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-10-25T06:00:00+00:00"
+    },
     {
       "id": "ac787ec1dbe8cf9d",
       "title": "A 258-Square-Foot Container Cabin Without the Visual Clutter",
@@ -295,14 +311,9 @@
       "url": "https://www.trendir.com/why-are-dark-green-living-rooms-so-captivating-these-9-designs-reveal-the-magic-behind-the-color/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Dark-Green-Living-Room-Ideas.png",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Dark-Green-Living-Room-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/11/28/7-furniture-designs-inspired-animals.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/trends/2015/01/11/unusual-home-design-abstract-tile-design.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/12/retro-kitchen.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/07/terrat-elms-boston-contemporary-sunroom.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/09/Panton-Chair-Classic.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/Dark-Green-Living-Room-Ideas.png"
       ],
-      "source": "Trendir interiors",
+      "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-10-24T09:00:00+00:00"
     },
@@ -425,9 +436,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger/scissor-chair-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-coin-sized-titanium-tape-measure-handles-straight-lines-curves-and-looks-like-jet-engine-stock/RolTine2-0-The-Titanium-Skeleton-Tape-Measure-Fidget-Tool-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/this-glowing-modular-moss-panel-system-might-be-the-coolest-way-to-fix-a-boring-room/Moss-Hexa-A-Modular-Moss-System-for-Any-Space.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/02/22/side_table.jpg",
-        "https://www.yankodesign.com/images/design_news/1970/01/01/metro_bench_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/modular-knit-one-chair-reinvents-sustainable-seating-with-hollow-design/knit-one-modular-hollow-chair-08.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/11/this-lucky-four-leaf-stool-transforms-into-whatever-you-need/clover-08.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/10/design-forward-7-cutting-edge-modular-furniture-trends-of-2024/00-modular.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/10/wubens-tiny-flashlight-packs-500-lumens-and-a-blade-into-40-grams/WUBEN-G6-Ultra-Slim-Multi-Use-Keychain-Light.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -445,6 +456,19 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-10-23T20:43:16+00:00"
+    },
+    {
+      "id": "dedb61f635e408b7",
+      "title": "Vancouver’s New Amphitheatre Boasts a Soaring Mass-Timber Roof",
+      "summary": "Revery Architecture's sculptural rooftop became a serious fan favourite during FIFA 2026. The post Vancouver’s New Amphitheatre Boasts a Soaring Mass-Timber Roof appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/freedom-mobile-arch-vancouver-revery-architecture/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/10/Revery_FMA_Fifa_1061-Pano-Edit.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/10/Revery_FMA_Fifa_1061-Pano-Edit.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-10-23T20:00:00+00:00"
     },
     {
       "id": "6eb7b563e04649cb",
@@ -506,19 +530,6 @@
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-10-23T16:00:00+00:00"
-    },
-    {
-      "id": "993089d950225f56",
-      "title": "A workspace worth showing off starts here: 7 computer desk designs with an eye for detail",
-      "summary": "A desk isn’t just furniture. It’s the one piece in your house you probably look at more than your own face some weeks, so it’s worth getting right. These 7 computer desk designs show different directions you can take, whether you want something cozy, something luxurious, or something that looks like it drove in from […] The post A workspace worth showing off starts here: 7 computer desk designs with an eye for detail appeared first on Trendir .",
-      "url": "https://www.trendir.com/computer-desk-designs-ideas-for-people-who-spend-real-hours-at-their-desk/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Computer-Desk-Designs-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Computer-Desk-Designs-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
       "published": "2026-10-23T16:00:00+00:00"
     },
     {
@@ -665,19 +676,6 @@
       "published": "2026-10-23T10:00:00+00:00"
     },
     {
-      "id": "57ca7a7a4fcbfc2f",
-      "title": "That empty corner has more potential than you think: 7 corner desk ideas showing exactly why",
-      "summary": "A corner is usually the one piece of a room no one knows what to do with. Build a desk into it and the whole layout starts making sense. These 7 corner desk ideas show the setups actually worth copying, whether you’re working with a bedroom nook, a tight hallway, or a weird angle no […] The post That empty corner has more potential than you think: 7 corner desk ideas showing exactly why appeared first on Trendir .",
-      "url": "https://www.trendir.com/corner-desk-ideas-that-fit-the-spot-nothing-else-will/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Corner-Desk-2027-Trends.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Corner-Desk-2027-Trends.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-10-23T10:00:00+00:00"
-    },
-    {
       "id": "5be524ca897862e1",
       "title": "The EP-35 is a new multifunctional portable amplifier from Teenage Engineering",
       "summary": "Whether you’re a campfire troubadour, a coffee shop poet or a bedroom beatmaker, the new Teenage Engineering EP-35 will make things louder",
@@ -715,9 +713,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/aerys-office-chair-offers-a-fit-you-can-actually-fine-tune/aery-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-coin-sized-titanium-tape-measure-handles-straight-lines-curves-and-looks-like-jet-engine-stock/RolTine2-0-The-Titanium-Skeleton-Tape-Measure-Fidget-Tool-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/this-glowing-modular-moss-panel-system-might-be-the-coolest-way-to-fix-a-boring-room/Moss-Hexa-A-Modular-Moss-System-for-Any-Space.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/09/meet-moon-a-short-throw-projector-that-turns-textbooks-into-learning-experiences-powered-by-augmented-reality/moon_projector_4.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/draft-hisense-e7sf/Hisense-75-E7-Cinema-Series-Hi-QLED-Mini-LED-4K-UHD-Smart-Fire-TV-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/11/auto-draft/temp_chair_1.jpg"
+        "https://www.yankodesign.com/images/design_news/2016/08/mofo6.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/03/auto-draft/Medium-Air-Freshener-Air-Purifier-Concept.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/04/orbital-tap/orbital_tap_yanko_design_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -737,32 +735,6 @@
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
       "published": "2026-10-23T08:00:00+00:00"
-    },
-    {
-      "id": "050062692794767c",
-      "title": "The secret to a living room that feels happy and inviting? These 9 colorful decorating ideas worth copying",
-      "summary": "A beige living room is safe, but it almost never leaves an impression. Color is what gives a space personality instead of just a layout. These 9 colorful living room ideas show what happens when you stop playing it safe and let one bold choice carry the room. 9 Colorful Living Room Ideas Worth Trying […] The post The secret to a living room that feels happy and inviting? These 9 colorful decorating ideas worth copying appeared first on Trendir .",
-      "url": "https://www.trendir.com/colorful-living-room-ideas-that-prove-color-belongs-in-the-main-living-space/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Colorful-Living-Room-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Colorful-Living-Room-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-10-23T08:00:00+00:00"
-    },
-    {
-      "id": "89a7a3249646467f",
-      "title": "From thrifted finds to cozy corners: 9 college apartment decors that make any space feel like home",
-      "summary": "College rooms start out as blank boxes. Beige walls, a bed frame that isn’t yours, and whatever your roommate hauled in from home. These 9 college apartment decor ideas show you how real students turned those boxes into places they actually wanted to be. 9 College Apartment Decor Ideas That Actually Work in Real Dorms […] The post From thrifted finds to cozy corners: 9 college apartment decors that make any space feel like home appeared first on Trendir .",
-      "url": "https://www.trendir.com/college-apartment-decor-ideas-for-dorms-shared-rooms-and-first-year-studios/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/College-Apartment-Decor-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/College-Apartment-Decor-Ideas.png"
-      ],
-      "source": "Trendir interiors",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-10-23T07:00:00+00:00"
     },
     {
       "id": "918bcfa60178482e",
@@ -871,24 +843,6 @@
       "published": "2026-10-22T12:00:36+00:00"
     },
     {
-      "id": "0f93d555020fc9a3",
-      "title": "Kitchen of the Week: Fieldstone and Oak on an Island in Ontario",
-      "summary": "This kitchen gives new meaning to “hearth of the home.” Situated on an island in Georgian Bay, Ontario, the space is centered on a generously sized stone island. “The family has a tradition of standing and sharing food around the kitchen island on weekends,” says Adam Robinson of Montreal-based Bureau Tempo, who collaborated with Thom […]",
-      "url": "https://www.remodelista.com/posts/kitchen-week-pine-island-cottage-bureau-tempo/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage4.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage4.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage-kitchen2.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage5.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage4.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage6-1.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage-kitchen.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-22T10:00:17+00:00"
-    },
-    {
       "id": "b6856b41c3310691",
       "title": "Veermakers : un intérieur de designers niché au fond d’une cour confidentielle parisienne",
       "summary": "La maison de design suédoise Veermakers inaugure son tout premier espace permanent, niché dans un superbe appartement du 3e arrondissement parisien. Un écrin domestique chaleureux où déployer toute l’étendue de son savoir-faire, du mobilier à l’architecture intérieure, en faisant dialoguer écriture contemporaine et héritage scandinave.",
@@ -953,12 +907,7 @@
       "url": "https://www.dezeen.com/2026/10/22/carminati-lift-slide-windows-frame-dubai-skyline-bvlgari-hotel-resort/",
       "image": "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0.jpg",
       "images": [
-        "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/Carminati_dezeen_1704_col_6.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/Carminati_dezeen_1704_col_7.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/Carminati_dezeen_1704_col_1.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/Carminati_dezeen_1704_col_2.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/Carminati_dezeen_1704_col_5.jpg"
+        "https://static-2026.dezeen.com/uploads/2026/10/SQ_dezeen_1704_col_0.jpg"
       ],
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
@@ -1113,24 +1062,6 @@
       "source": "АМДПР",
       "source_url": "http://amedoro.com",
       "published": "2026-10-21T10:09:30+00:00"
-    },
-    {
-      "id": "7f0f699f1c869e2f",
-      "title": "10 Easy Pieces: Wall-Mounted Wooden Plate Racks",
-      "summary": "Long loved: clever plate racks in interiors ranging from mod to traditional. (In my next life, I’m going to install one over my sink to hold just-rinsed dishes.) Here are 10 we like. More ways to stack and store dishes? See our posts: 10 Easy Pieces: Countertop Dish Drainers 5 Favorites: Space-Saving Dish Racks High/Low: […]",
-      "url": "https://www.remodelista.com/posts/10-easy-pieces-wall-mounted-plate-racks/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/08/mcc-and-co-edna-plate-rack.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/08/mcc-and-co-edna-plate-rack.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2026/08/mcc-and-co-edna-plate-rack.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2026/08/matthew-cox-abacus-rack.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2026/08/jamb-plate-rack.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2026/08/sophie-allport-oakham-display-rack.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2026/08/amber-lewis-faria-plate-rack-tan-oak.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-21T10:00:00+00:00"
     },
     {
       "id": "62d6421d026e9d1b",
@@ -1304,19 +1235,6 @@
       "published": "2026-10-20T10:50:00+00:00"
     },
     {
-      "id": "ec4155282411500c",
-      "title": "Terracotta tiles shelter skinny Roof House in Vietnam by Trung Nguyen Architects",
-      "summary": "Vietnamese studio Trung Nguyen Architects has squeezed a skinny house into an alleyway in Ho Chi Minh City, using pocket gardens, terraces, and a steep terracotta-tiled roof to give its interiors \"breathing space\". Named Roof House, the four-metre-wide home was designed for a young family with two children on a 77-square-metre site in District 7, […] The post Terracotta tiles shelter skinny Roof House in Vietnam by Trung Nguyen Architects appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/10/20/roof-house-trung-nguyen-architects/",
-      "image": "https://static-2026.dezeen.com/uploads/2026/10/roof-house-trung-nguyen-architects-architecture-vietnam-houses_dezeen_2364_sq.jpg",
-      "images": [
-        "https://static-2026.dezeen.com/uploads/2026/10/roof-house-trung-nguyen-architects-architecture-vietnam-houses_dezeen_2364_sq.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-10-20T10:30:00+00:00"
-    },
-    {
       "id": "b74fb87b12c0f6c4",
       "title": "LUMVIA Coffee Table Prototype Pairs a Customizable Mosaic With Hidden Drawers",
       "summary": "LUMVIA Coffee Table Prototype Pairs a Customizable Mosaic With Hidden Drawers Choosing a coffee table usually means choosing a finish you’ll be living with for years. LUMVIA leaves that decision open a little longer, with interchangeable...",
@@ -1326,44 +1244,13 @@
         "https://www.yankodesign.com/images/design_news/2026/10/lumvia-coffee-table-prototype-pairs-a-customizable-mosaic-with-hidden-drawers/lumvia-customizzble-coffee-table-mosaic-tiles-07.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-coin-sized-titanium-tape-measure-handles-straight-lines-curves-and-looks-like-jet-engine-stock/RolTine2-0-The-Titanium-Skeleton-Tape-Measure-Fidget-Tool-hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/09/this-glowing-modular-moss-panel-system-might-be-the-coolest-way-to-fix-a-boring-room/Moss-Hexa-A-Modular-Moss-System-for-Any-Space.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/11/sedatozer/sedatozer_00.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/08/slice-precise/harac_line_cutter_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/11/split-flap-mechanical-clock-puts-a-dynamic-piece-of-pixel-art-on-your-wall/klapklok-flap-pixel-clock-02.jpg"
+        "https://www.yankodesign.com/images/design_news/2016/07/a-twist-on-the-outlet/33outlet_cover.jpg",
+        "https://www.yankodesign.com/images/design_news/2020/10/this-portable-x-ray-unit-brings-the-science-you-depend-on-to-the-palm-of-your-hands/01_CALNEOXAir_FujiFilm_PortableX-Ray.png",
+        "https://www.yankodesign.com/images/design_news/2022/05/this-fan-created-lego-batmobile-edges-the-official-lego-build-in-realism/LEGO-Batmobile.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-20T10:07:44+00:00"
-    },
-    {
-      "id": "5fc6803c51cd6de9",
-      "title": "Remodelista Reconnaissance: The Perfect Yellow, Spotted in a Rural Retreat",
-      "summary": "This week on Remodelista Reconnaissance, we’re answering a question that’s been popping up on Instagram ever since we first featured Inness, a design-minded retreat in upstate New York. The query: What particular shade of yellow was used in the open shelving in the common dining area? Reader, look no further. The Sighting What paint color […]",
-      "url": "https://www.remodelista.com/posts/inness-new-york-yellow-paint-color-remodelista-reconnaissance/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2021/11/inness-hotel-dining-2-adrian-gaut.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2021/11/inness-hotel-dining-2-adrian-gaut.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2021/11/inness-hotel-dining-2-adrian-gaut.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-dining-portrait.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2024/06/atelier-avondzon-louis-house-ghent-belgium-5.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2024/11/craig-ross-fell-kitchen.jpg",
-        "https://www.remodelista.com/wp-content/uploads/2024/04/julie-carlson-apartment-cover-image-chair.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-20T08:00:33+00:00"
-    },
-    {
-      "id": "923d173e68dbdca9",
-      "title": "Elevated Living Begins in the Kitchen: Dacor Appliances Designed for the Way We Live",
-      "summary": "The kitchen is more than a place to cook. It’s where mornings begin, and days end—a place for conversation, sharing meals, gathering, and working. It’s one of the most lived-in rooms in the house, and the most appealing kitchens tend to feel like rooms rather than collections of equipment. The balance is in choosing appliances […]",
-      "url": "https://www.remodelista.com/posts/dacor-kitchen-appliances-for-daily-life/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-20T08:00:01+00:00"
     },
     {
       "id": "e94b43f1d4eeb32e",
@@ -1523,19 +1410,6 @@
       "published": "2026-10-19T10:00:00+00:00"
     },
     {
-      "id": "3f3e78cb2b12edff",
-      "title": "Campbell House: A Restoration-First Renovation by Nuud Studio",
-      "summary": "Two years ago, we shared the sensitively renewed “bush modernist” home of architect Brad Mitchell and interior designer Kerli Valk—a thoughtful renovation that won a 2023 Australian Interior Design Awards Commendation and a 2023 Houses Award for Sustainability. Now the couple, founders of Melbourne-based Nüüd Studio, have produced another award-winning design by following the same […]",
-      "url": "https://www.remodelista.com/posts/campbell-house-nuud-studio/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/10/nuud-campbell-house-living.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/10/nuud-campbell-house-living.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-19T08:00:11+00:00"
-    },
-    {
       "id": "e9d6111b1a5da233",
       "title": "A proposito di infanzia: 4 archistar italiani ragionano sul progetto che non teme la semplicità",
       "summary": "Tra memorie personali e riflessioni sul futuro, Matteo Thun, Elena Salmistraro, Mario Cucinella e Serena Confalonieri ragionano su come l'approccio dei bambini possa far riscoprire immaginazione e libertà The post A proposito di infanzia: 4 archistar italiani ragionano sul progetto che non teme la semplicità appeared first on Interni Magazine .",
@@ -1543,33 +1417,15 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/10/G3bjtD1n-@Catherina-Hess.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/G3bjtD1n-@Catherina-Hess.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/09/Chronolith_DaaaHaus_Recobel_SLV_003.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/Adrenalina-Kids-09119-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Drone-Castello-Cinquecentesco.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/09/Chronolith_DaaaHaus_Recobel_SLV_003.jpg",
         "https://www.internimagazine.it/content/uploads/2026/08/DSC_3769.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/Adrenalina-Kids-09119-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Steinway-x-Disney-Mickey-Mouse-Limited-Edition-Piano-Elena-Salmistraro-4.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
       "published": "2026-10-19T06:15:39+00:00"
-    },
-    {
-      "id": "1cdafc45af994857",
-      "title": "14 ways to style a boho coffee table without making your living room feel cluttered or overdone",
-      "summary": "Boho coffee tables don’t follow rules, which is exactly why they work. The best ones look like they were found, not shopped. These 14 ideas show what that actually looks like in a real living room. 14 Boho Coffee Table Ideas That Add Character Without Trying Too Hard The thing about boho style is that […] The post 14 ways to style a boho coffee table without making your living room feel cluttered or overdone appeared first on Trendir .",
-      "url": "https://www.trendir.com/boho-coffee-table-ideas-that-make-a-living-room-feel-collected-not-decorated/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Boho-Coffee-Table-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Boho-Coffee-Table-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/dark-library-corner-office-desk-stonecreekfurniture.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2025/11/Gothic-Castle-Kitchen.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Handleless-Grey-Flat-Shaker.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Burl-Wood-With-Brass-Legs.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/brazil-home-with-open-linear-layout-and-wood-loft-9.jpg"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-10-19T06:00:00+00:00"
     },
     {
       "id": "8a3e7f39d4432842",
@@ -1611,24 +1467,6 @@
       "published": "2026-10-19T03:33:30+00:00"
     },
     {
-      "id": "57ce2dfa3fe5a1eb",
-      "title": "9 Ways to Give Your Bedside a Boho Feel With Natural Materials, Handmade Details, and Easygoing Style",
-      "summary": "A boho bedroom lives or dies by the small stuff next to the bed. The nightstand is where texture, warmth, and personality all meet, and when you get it right the whole room feels pulled together. These 9 boho nightstand ideas show you exactly what that looks like. 9 Boho Nightstand Ideas Worth Copying for […] The post 9 Ways to Give Your Bedside a Boho Feel With Natural Materials, Handmade Details, and Easygoing Style appeared first on Trendir .",
-      "url": "https://www.trendir.com/boho-nightstand-ideas-that-bring-the-whole-bedroom-together/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Boho-Nightstand-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Boho-Nightstand-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Floating-Vanity-Vignette.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Burl-Wood-With-Brass-Legs.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Printed-Panels-with-Scalloped-Valance.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Wave-Inlay-Organic-Mirror.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Sage-Green-Vintage-Upcycle.jpg"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-10-18T11:00:00+00:00"
-    },
-    {
       "id": "aa444ece78d21a0a",
       "title": "TUFF Pencil Cabinet Brings Volcanic-Rock Inspiration to Storage on Wheels",
       "summary": "TUFF Pencil Cabinet Brings Volcanic-Rock Inspiration to Storage on Wheels Pencils have a way of spreading far beyond the desk, especially when you move between a sketchbook on the sofa and a project at the...",
@@ -1653,24 +1491,6 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-17T17:20:54+00:00"
-    },
-    {
-      "id": "9a3b48a591dab1f1",
-      "title": "Platform Beds, Canopy Frames, and More: Which of These 15 Looks Belongs in Your Room?",
-      "summary": "The bed frame does more than hold the mattress — it sets the tone for the whole room before you even look at the bedding. These 15 ideas show you what a frame can actually do when you stop treating it like an afterthought. 15 Bed Frame Ideas for People Who Want the Bed to […] The post Platform Beds, Canopy Frames, and More: Which of These 15 Looks Belongs in Your Room? appeared first on Trendir .",
-      "url": "https://www.trendir.com/bed-frame-ideas-that-make-the-bed-feel-like-the-reason-you-walk-into-the-room/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Bed-Frame-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Bed-Frame-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2017/01/Miuccia-kitchen-furnishings-by-TM-Italia-Cucine.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/07/pretty-white-dining-room-table.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/02/Small-Living-Room-Style-Ideas.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/Layered-Vintage-Rugs-in-a-Curated-Boutique-Setting.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/05/All-White-Nordic-Edit.jpg"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-10-17T16:00:00+00:00"
     },
     {
       "id": "00a20646ac0f9755",
@@ -1782,19 +1602,6 @@
       "published": "2026-10-16T13:19:45+00:00"
     },
     {
-      "id": "59b92a4b2e478da7",
-      "title": "Expert Advice: The Retrouvius Guide to Using Reclaimed Stone in Remodeling Projects",
-      "summary": "Stone is a natural resource that’s been used in interiors since before the wheel was invented. Though durable and costly—not to mention inimitably patterned and textured—it’s almost never thought of as reusable. But it should be say the eco-minded team behind Retrouvius, a combination salvage company and design studio in London’s Kensal Green that lead […]",
-      "url": "https://www.remodelista.com/posts/how-to-use-reclaimed-stone-in-interiors-tips-from-retrouvius/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/10/10-warehouse-offcuts-original-34.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/10/10-warehouse-offcuts-original-34.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-16T10:00:19+00:00"
-    },
-    {
       "id": "248123b36c88ff5c",
       "title": "I Transformed My 1-Bedroom Apartment With These 13 Items",
       "summary": "When my partner, cat, and I moved into our one-bedroom San Francisco apartment a year ago, we started off strong: we put up a gallery wall and chose a statement couch to be the center of our living room.",
@@ -1806,19 +1613,6 @@
       "source": "PopSugar Home",
       "source_url": "https://www.popsugar.com",
       "published": "2026-10-15T16:50:03+00:00"
-    },
-    {
-      "id": "72721ed75a5bdc93",
-      "title": "Kitchen of the Week: A London Architect’s Sky-Lit Compact Kitchen",
-      "summary": "We love every inch of this compact 14-by-10-foot kitchen in the Peckham neighborhood of London. Designed by architect Jonathan Nicholls and his partner, Alex Randall, a lighting designer, it occupies the rear extension of their Victorian home. While many architects find the experience of designing their own home an existential nightmare, Nicholls found it be […]",
-      "url": "https://www.remodelista.com/posts/kitchen-of-the-week-plywood-cabinets-jonathan-nicholls-london/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2020/01/blenheim-grove-london-kitchen-week-jonathan-nicholls-hayhurst-co.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2020/01/blenheim-grove-london-kitchen-week-jonathan-nicholls-hayhurst-co.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-15T08:00:32+00:00"
     },
     {
       "id": "aebf76b9751dc70c",
@@ -1873,6 +1667,19 @@
       "published": "2026-10-14T22:00:00+00:00"
     },
     {
+      "id": "f3d3ee71ead9e6c0",
+      "title": "In a Converted Garage, a Parisian Home With Space-Age Flair",
+      "summary": "Rounded, retro-futurist built-ins and vintage furniture help a modern family keep up with the Jetsons. The post In a Converted Garage, a Parisian Home With Space-Age Flair appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/atelier-ha-paris-apartment/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/10/Atelier-HA_SAINT-CLOUD-@Clement-Vayssieres-11.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/10/Atelier-HA_SAINT-CLOUD-@Clement-Vayssieres-11.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-10-14T20:41:50+00:00"
+    },
+    {
       "id": "747b407d08ac55be",
       "title": "Recycled-plastic plinths hold furniture at \"secret\" Barragán house in Mexico City",
       "summary": "For Design Week Mexico 2026, design studio 2x1 displayed works by French and Mexican designers on plinths in the gardens of Casa Ortega, a rarely opened private residence designed by local architect Luis Barragán in the 1940s. The Creative Immersions France-Mexico 2026 exhibition featured furniture and design objects by over 30 designers. It was the […] The post Recycled-plastic plinths hold furniture at \"secret\" Barragán house in Mexico City appeared first on Dezeen .",
@@ -1899,19 +1706,6 @@
       "published": "2026-10-14T10:07:50+00:00"
     },
     {
-      "id": "93060527019969c2",
-      "title": "10 Easy Pieces: Indoor/Outdoor Canvas Lounge Chairs",
-      "summary": "While we appreciate the enduring quality of a leather sling lounge chair, there are some settings, and some seasons, which call for lighter materials. Enter the canvas lounge chair: softer, lighter (in feel and appearance), and a non-animal-derived alternative. Here are our favorites, all of which would also be at home in any covered outdoor […]",
-      "url": "https://www.gardenista.com/posts/10-easy-pieces-canvas-lounge-chairs/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2024/04/ferm-living-desert-lounge-chair-cashmere-cloud.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2024/04/ferm-living-desert-lounge-chair-cashmere-cloud.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-10-14T08:00:10+00:00"
-    },
-    {
       "id": "3197591b31b4b9ff",
       "title": "Armadillo furniture is clad in reused shingles to resemble \"friendly monsters\"",
       "summary": "Designers Lukas Wegwerth and Corinna Dehn have unveiled their Armadillo furniture pieces, clad in facade shingles from buildings in Germany's Vogelsberg region, at the Companions exhibition at London's Galleri Fumi. The Companions show features six new Armadillo pieces – two cabinets, a sideboard, a birdhouse, a dining table and a stand-alone screen – as well […] The post Armadillo furniture is clad in reused shingles to resemble \"friendly monsters\" appeared first on Dezeen .",
@@ -1932,10 +1726,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/10/2_Michele-De-Lucchi-cut-foto-Delfino-Sisto-Legnani-DSL.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/2_Michele-De-Lucchi-cut-foto-Delfino-Sisto-Legnani-DSL.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/07/Drone-Castello-Cinquecentesco.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/DSC_3769.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/09/Chronolith_DaaaHaus_Recobel_SLV_003.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Steinway-x-Disney-Mickey-Mouse-Limited-Edition-Piano-Elena-Salmistraro-4.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/09/Chronolith_DaaaHaus_Recobel_SLV_003.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/DSC_3769.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/07/Drone-Castello-Cinquecentesco.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Adrenalina-Kids-09119-1.jpg"
       ],
       "source": "Interni magazine",
@@ -2008,6 +1802,19 @@
       "published": "2026-10-13T15:23:31+00:00"
     },
     {
+      "id": "a5f49a5d35490e79",
+      "title": "12 Standouts from IDS Vancouver 2026 and the Design Vancouver Festival",
+      "summary": "From fresh takes on glass block and heirloom-ready furniture to Indigenous futurism, we present our favourite lighting, furniture and concepts. The post 12 Standouts from IDS Vancouver 2026 and the Design Vancouver Festival appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/12-standouts-from-ids-vancouver-2026-and-the-design-vancouver-festival/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/10/Azure-Vancouver-2026-IDS-show-8-e1791570173863.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/10/Azure-Vancouver-2026-IDS-show-8-e1791570173863.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-10-13T14:07:01+00:00"
+    },
+    {
       "id": "accf80309a090508",
       "title": "Abitare in equilibrio tra abbondanza tattile e rigoroso minimalismo",
       "summary": "In un appartamento di recente ristrutturazione, arredi su misura dalle linee pulite convivono con una profusione di texture. È una lezione di 'balance' The post Abitare in equilibrio tra abbondanza tattile e rigoroso minimalismo appeared first on Interni Magazine .",
@@ -2019,7 +1826,7 @@
         "https://www.internimagazine.it/content/uploads/2026/10/BANP-_-Casa-Sole-46.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/BANP-_-Casa-Sole-35.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/BANP-_-Casa-Sole-37.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/Angelica-Gary-Scicli-4910.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/08/ape_Apto-Jardins-Foto-Pedro-Ocanhas-01.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -2130,19 +1937,6 @@
       "published": "2026-10-12T08:00:33+00:00"
     },
     {
-      "id": "a8a0805c47f6e807",
-      "title": "Maitake: The Expensive Mushroom You Can Forage for Free",
-      "summary": "In the Northeast, October is a special month. As red maples begin to blaze, maitake, a prized edible mushroom, appears at the base of some old hardwood trees (which it is slowly killing). Favoring oak, the dense, heavy mushrooms may be nestled against the tree’s trunk, or a few feet away, fruiting from—and feeding on—old […]",
-      "url": "https://www.gardenista.com/posts/maitake-expensive-mushroom-can-forage-free/",
-      "image": "https://media.gardenista.com/wp-content/uploads/2022/10/maitale-perfect-marie-viljoen.jpg",
-      "images": [
-        "https://media.gardenista.com/wp-content/uploads/2022/10/maitale-perfect-marie-viljoen.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-10-12T08:00:12+00:00"
-    },
-    {
       "id": "4c7419270697dd9d",
       "title": "Leather Sofas Can Make a Room Look Expensive or Dated Before Anything Else Goes In",
       "summary": "Leather can suggest a substantial furniture purchase, yet its presence alone does not determine how a room looks. Rolled arms, oversized cushions, deep buttoning, and thick bases can establish a formal or heavy mood before a rug, lamp, or table enters the picture. Across these thirteen sofas, similar finishes produce different impressions because the proportions... The post Leather Sofas Can Make a Room Look Expensive or Dated Before Anything Else Goes In appeared first on Homedit .",
@@ -2198,19 +1992,6 @@
       "source": "Dezeen tag lighting",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-10T09:00:41+00:00"
-    },
-    {
-      "id": "678401e33a5c0f2f",
-      "title": "Current Obsessions: High, Low",
-      "summary": "On deck this weekend: the Ikea find that captured our attention, an exhibit at Michaela Scherrer in LA, an upstate market we’re eyeing, and more. read on: We love everything about longtime Remodelista friend Julianne Moore’s NYC place—but especially this trusty Ikea find in her kitchen. Julie’s taking note of “What Endures”, an exhibit at […]",
-      "url": "https://www.remodelista.com/posts/current-obsessions-high-low/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2023/01/rm-low-impact-swaps-issue-cover-image-vol-17-iss-3-tigin-shantanu-starick-photo-3-1466x2199-1.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2023/01/rm-low-impact-swaps-issue-cover-image-vol-17-iss-3-tigin-shantanu-starick-photo-3-1466x2199-1.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-10T08:00:22+00:00"
     },
     {
       "id": "eeeb564c71c43e19",
@@ -2269,43 +2050,17 @@
       "published": "2026-10-09T09:50:44+00:00"
     },
     {
-      "id": "7531b8762911b094",
-      "title": "Find of the Week: The Ikea Shelf Everyone’s Talking About",
-      "summary": "Recently, Fan and I were on the phone, exclaiming over glimpses of Julianne Moore’s New York City apartment. Julianne is a longtime source of inspiration—she wrote the foreward for the original Remodelista book way back in 2009, and her 1840s townhouse kitchen is still a touchstone for us. Unsurprisingly, her new kitchen captivated, too: green-topped […]",
-      "url": "https://www.remodelista.com/posts/julianne-moore-ikea-kolbjorn-kitchen-helf/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/10/ikea-kolbjorn-shelf.jpg",
+      "id": "6e054c66c497cc1c",
+      "title": "The Other Half of My Shop",
+      "summary": "See how I turned a cluttered firehouse storage bay into a functional maker space for our laser, 3D printer, tools, and lumber. The post The Other Half of My Shop appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/the-other-half-of-my-shop/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg",
       "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/10/ikea-kolbjorn-shelf.jpg"
+        "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg"
       ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-09T08:00:26+00:00"
-    },
-    {
-      "id": "de60fe09a6e2c5bc",
-      "title": "Tired of Tangled Chargers? These 14 Nightstands Keep Phones Easy to Charge",
-      "summary": "The cord tangle next to the bed is one of those things you stop noticing until you actually look at it. These 14 nightstands solve it in their design, so the top stays clear and your phone, tablet, and watch still get juice overnight. 14 Nightstand Ideas With Built-In Charging and a Clean Top Surface […] The post Tired of Tangled Chargers? These 14 Nightstands Keep Phones Easy to Charge appeared first on Trendir .",
-      "url": "https://www.trendir.com/nightstands-charging-three-devices-each-that-have-a-bare-cord-free-top/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/Nightstands-Charging-Three-Devices-Each-That-Have-a-Bare-Cord-Free-Top.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/Nightstands-Charging-Three-Devices-Each-That-Have-a-Bare-Cord-Free-Top.png"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-10-08T09:00:00+00:00"
-    },
-    {
-      "id": "18b3425dfea278ca",
-      "title": "Kitchen of the Week: Minimalist Cabinetry Meets Medieval Stonework in Somerset, England",
-      "summary": "According to local lore, Isobel Rorison and Dominick French’s English countryside home once served as a rest stop for monks making the pilgrimage between Glastonbury and Sherborne Abbey. That’s why the couple lovingly refers to the stone abode (parts of which date back to the 1380s) as The Priests’ House—though it also functioned as a […]",
-      "url": "https://www.remodelista.com/posts/husk-historic-medieval-kitchen-minimalist-somerset-england/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2024/11/husk-priest-house-hires-1.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2024/11/husk-priest-house-hires-1.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-08T08:00:29+00:00"
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-10-08T18:17:23+00:00"
     },
     {
       "id": "1f4aa113bead5ae5",
@@ -2383,32 +2138,6 @@
       "published": "2026-10-07T14:00:16+00:00"
     },
     {
-      "id": "434c2a0097b4703f",
-      "title": "Object of Desire: Granny-Chic Rockers by ODD",
-      "summary": "Nostalgia is currently dominating the design world. Consider the return of ’80s floral upholstery or the resurgence of ’70s wood paneled interiors or the continuing popularity of midcentury modern designs. This piece of furniture looks back even further—to the Edwardian Age, when outdoor swing chairs first became popular. We first spied this new, appealing iteration […]",
-      "url": "https://www.gardenista.com/posts/object-desire-granny-chic-rockers-odd/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/10/odd-rockers-3.jpg",
-      "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/10/odd-rockers-3.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-10-07T08:00:36+00:00"
-    },
-    {
-      "id": "2f6112b7a4ff7933",
-      "title": "10 Easy Pieces: Canvas Lounge Chairs",
-      "summary": "While we appreciate the enduring quality of a leather sling lounge chair, there are some settings, and some seasons, which call for lighter materials. Enter the canvas lounge chair: softer, lighter (in feel and appearance), and a non-animal-derived alternative. Here are our favorites. For more lounge chairs, see our posts: 10 Easy Pieces: Leather Sling […]",
-      "url": "https://www.remodelista.com/posts/canvas-lounge-chairs-10-easy-pieces/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2024/04/ferm-living-desert-lounge-chair-cashmere-cloud.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2024/04/ferm-living-desert-lounge-chair-cashmere-cloud.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-07T08:00:23+00:00"
-    },
-    {
       "id": "6acfcaa6a714b883",
       "title": "The Painted Lumber Ends You’ve Always Overlooked Have a Very Specific Purpose",
       "summary": "Paint on lumber ends may help control drying or identify a mill's product. Here's what the color can mean before buying a board. The post The Painted Lumber Ends You’ve Always Overlooked Have a Very Specific Purpose appeared first on Family Handyman .",
@@ -2453,19 +2182,6 @@
       "published": "2026-10-06T10:02:36+00:00"
     },
     {
-      "id": "7c25abb4fedc996b",
-      "title": "Meanwhile, On Gardenista: The New Potager",
-      "summary": "The Gardenista editors are sharing some uncommonly good-looking ideas for the kitchen garden lately. Thinking of creating one of your own? Fall is the perfect time to start. Have a look: For more garden know-how and fall tips, head to Gardenista.",
-      "url": "https://www.remodelista.com/posts/meanwhile-gardenista-the-new-potager/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2017/11/emily-erlam-norfolk-vegetable-storage-root-cellar-the-modern-house.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2017/11/emily-erlam-norfolk-vegetable-storage-root-cellar-the-modern-house.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-06T10:00:38+00:00"
-    },
-    {
       "id": "c694c4c7517fb54c",
       "title": "\"We want to be a global furniture brand, but not in the Hay or Muuto or Vitra area of expensiveness\" says Omhu CEO",
       "summary": "Since being founded by two friends just four years ago, Omhu has sold more than 40,000 sofas. In this interview, CEO Simon Salomonsson explains how the Danish company is disrupting the furniture industry. If you're an Instagram or TikTok user, you've probably seen it before: a modular corduroy sofa with fat, L-shaped back cushions and […] The post \"We want to be a global furniture brand, but not in the Hay or Muuto or Vitra area of expensiveness\" says Omhu CEO appeared first on Dezeen .",
@@ -2489,19 +2205,6 @@
       ],
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
-      "published": "2026-10-06T08:00:40+00:00"
-    },
-    {
-      "id": "8e92e93b0986ad71",
-      "title": "Remodelista Reconnaissance: Good-Looking Storage Jars in a Designer’s Pantry",
-      "summary": "No surprise: We’re always in pursuit of good-looking jars for decanting bulk dry goods. So of course our interest was sparked by A Graphic Designer’s Redone Victorian, Where the Pantry Takes Center Stage: What does Martina Casonato, the homeowner and designer behind @thevenetianpantry, use in her own larder—the space she calls “the pantry of her […]",
-      "url": "https://www.remodelista.com/posts/glass-food-storage-jars-the-venetian-pantry/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2022/10/the-venetian-pantry-london-pantry-1.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2022/10/the-venetian-pantry-london-pantry-1.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
       "published": "2026-10-06T08:00:40+00:00"
     },
     {
@@ -2544,19 +2247,6 @@
       "published": "2026-10-05T10:00:46+00:00"
     },
     {
-      "id": "73358e03c877e807",
-      "title": "Room to Grow: Kai Avent-deLeon Turns a Mobile Home Into a Modern Sanctuary",
-      "summary": "We’ve been following artist/designer/entrepreneur Kai Avent-deLeon’s moves since 2019. Back then, we photographed her one-bedroom railroad apartment in Bed-Stuy, Brooklyn. A year later, we reconnected when she moved into a larger duplex in the same neighborhood, and we shot it for our newest book Remodelista: The Low-Impact Home. Not long after that, she found a […]",
-      "url": "https://www.remodelista.com/posts/kai-avent-deleons-upstate-mobile-home/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-dining-portrait.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-dining-portrait.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-05T10:00:03+00:00"
-    },
-    {
       "id": "7768a0df2ee49600",
       "title": "Spacon fills Edition Denmark in Seoul with vintage Danish furniture and found objects",
       "summary": "Copenhagen studio Spacon brought touches of its home country to Seoul with a showroom and cafe for the Edition Denmark brand that evokes the \"layered feeling of a home\". The 50-square-metre space was designed for a South Korean brand that sells Danish products. In a nod to the hospitality culture found in both countries, the […] The post Spacon fills Edition Denmark in Seoul with vintage Danish furniture and found objects appeared first on Dezeen .",
@@ -2581,32 +2271,6 @@
       "source": "Yellowtrace",
       "source_url": "https://www.yellowtrace.com.au",
       "published": "2026-10-04T18:30:26+00:00"
-    },
-    {
-      "id": "03c193460fbc6aff",
-      "title": "Quick Takes With: Lisa Przystup",
-      "summary": "You may remember Lisa Przystup from our 2017 post on her rustic-meets-minimalist Catskills home (the one with that clever DIY brass backsplash) or our 2021 story on the updates made since then. Or perhaps you’ve heard of her because you read and loved her book on the chic homes of chic Upstaters. But even if […]",
-      "url": "https://www.remodelista.com/posts/lisa-przystup-gardening-quick-takes/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-04T08:00:12+00:00"
-    },
-    {
-      "id": "ca8028091c676db7",
-      "title": "Quick Takes With: Lisa Przystup",
-      "summary": "You may remember Lisa Przystup from our 2017 post on her rustic-meets-minimalist Catskills home (the one with that clever DIY brass backsplash) or our 2021 story on the updates made since then. Or perhaps you’ve heard of her because you read and loved her book on the chic homes of chic Upstaters. But even if […]",
-      "url": "https://www.gardenista.com/posts/quick-takes-lisa-przystup/",
-      "image": "http://www.gardenista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg",
-      "images": [
-        "http://www.gardenista.com/wp-content/uploads/2026/10/lisa-przystup-once-around-the-sun-peas.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-10-04T08:00:00+00:00"
     },
     {
       "id": "cd089dbdd009f37f",
@@ -2659,19 +2323,6 @@
       "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-02T12:00:43+00:00"
-    },
-    {
-      "id": "1c0d9fa086468238",
-      "title": "Meanwhile, on Remodelista: Inside Out",
-      "summary": "No surprise, we are big fans of bringing the outdoors in, but moving the indoors out can be just as transformative. Here are four times traditionally indoor objects have elevated an outdoor space, all spotted over on Remodelista: Pendant Light Curtains Tablecloth Houseplants (and Cat) See also: Meanwhile, on Remodelista: Chic Outdoor Spaces, European Edition […]",
-      "url": "https://www.gardenista.com/posts/meanwhile-remodelista-inside/",
-      "image": "https://media.gardenista.com/wp-content/uploads/2019/06/tenuta-borgia-dammuso-vigna-pantelleria-italy-outdoor-dining.jpg",
-      "images": [
-        "https://media.gardenista.com/wp-content/uploads/2019/06/tenuta-borgia-dammuso-vigna-pantelleria-italy-outdoor-dining.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-10-02T08:00:01+00:00"
     },
     {
       "id": "be96d3157d26f89e",
@@ -2812,32 +2463,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-28T10:30:28+00:00"
-    },
-    {
-      "id": "02ada83398770d88",
-      "title": "White Snakeroot: A Pesky Weed—or a Welcome Low-Maintenance Fall Bloomer?",
-      "summary": "”What are those things? Weeds?”asked an interested observer when I was rooting around in a garden bed at Alice Austen House, the Staten Island museum and gallery where I garden twice a week. “No,” I said, “they’re not weeds. They’re white snakeroot.” The name didn’t help. There are also resident snakes in the garden. “They […]",
-      "url": "https://www.gardenista.com/posts/white-snakeroot/",
-      "image": "https://media.gardenista.com/wp-content/uploads/2026/09/white-snakeroot-native-marie-viljoen.jpg",
-      "images": [
-        "https://media.gardenista.com/wp-content/uploads/2026/09/white-snakeroot-native-marie-viljoen.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-09-28T08:00:10+00:00"
-    },
-    {
-      "id": "fa095c1dfc757e33",
-      "title": "Current Obsessions: Turning In",
-      "summary": "Ahead this first official weekend of fall? Iconic kitchens on view, earthy colors for your cool-weather consideration, and bundles of flowers for all. Read on: Niwaki x YMC? Yes, please. Jenni Kayne x Business & Pleasure? More, please. “Required reading for all gardeners facing a fall abundance: The Golden Door Table, the just-published cookbook from […]",
-      "url": "https://www.gardenista.com/posts/current-obsessions-turning-in/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2025/06/hotel-wren-studio-manola-flowers.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2025/06/hotel-wren-studio-manola-flowers.jpg"
-      ],
-      "source": "Gardenista",
-      "source_url": "https://www.gardenista.com",
-      "published": "2026-09-26T08:00:24+00:00"
     },
     {
       "id": "91e812e3857174e6",
@@ -3131,6 +2756,19 @@
       "published": "2026-09-15T20:39:44+00:00"
     },
     {
+      "id": "d12a7c10aed3a105",
+      "title": "Woodworkers For a Cause 2026: How to Help Before October 3",
+      "summary": "Sixteen years ago I met a woodworker named Duane Moore who was fighting pancreatic cancer. Nicole and I drove out to Ohio to spend a couple of days at his bench, and that trip turned into Woodworkers Fighting Cancer. Since 2010, this community has moved more than $150,000 to charity, five and ten and fifty […] The post Woodworkers For a Cause 2026: How to Help Before October 3 appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/wfc2026/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-09-14T20:13:14+00:00"
+    },
+    {
       "id": "c6c3f05de97ca0e9",
       "title": "17th-century-style Side-hung Drawers",
       "summary": "The following is excerpted from Peter Follansbee’s latest book, “17th-century Essex County Cupboard.” Making the side-hung drawers is a fun challenge. I don’t do it often enough to have a systematic step-by-step approach; I’ve done it this way and that over the years. First off, the stock I use for the drawers is all radially...",
@@ -3206,19 +2844,6 @@
       "published": "2026-09-11T13:00:26+00:00"
     },
     {
-      "id": "27b0e61091f4f24a",
-      "title": "That plush, expensive-looking pillow style is easier to get than you think: here’s how",
-      "summary": "You’ve seen the look a hundred times. It’s in every hotel room, every home magazine, every “living room refresh” pin you’ve ever saved. The throw pillows sit up tall in the corners of the sofa. Their corners are full. Their tops have that soft little dent that somehow looks casual and expensive at the same […] The post That plush, expensive-looking pillow style is easier to get than you think: here’s how appeared first on Trendir .",
-      "url": "https://www.trendir.com/that-plush-expensive-looking-pillow-style-is-easier-to-get-than-you-think-heres-how/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/09/green-and-burgundy-velvet-pillows-on-tufted-bed.jpg",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/09/green-and-burgundy-velvet-pillows-on-tufted-bed.jpg"
-      ],
-      "source": "Trendir furniture",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-09-11T12:00:00+00:00"
-    },
-    {
       "id": "abab49f30e1c76fd",
       "title": "Национальная премия «Золотая Кабриоль»",
       "summary": "АМДПР вновь проведет церемонию награждения национальной премии «Золотая Кабриоль» на выставке «Мебель». Приглашаем принять участие в XXII Национальной премии в области промышленного дизайна мебели «Золотая Кабриоль» , учрежденной многолетним партнером выставки «Мебель» – Ассоциацией предприятий мебельной и деревообрабатывающей промышленности России. Подробнее о конкурсе и заявка на участие Победителям будут вручены дипломы, статуэтки и призы от наших партнеров на торжественной церемонии награждения национальной премии «Золотая Кабриоль» 26 ноября 2026 года в 12:00 на международной выставке…",
@@ -3282,19 +2907,6 @@
       "source": "Stylepark DE",
       "source_url": "https://www.stylepark.com",
       "published": "2026-09-07T22:00:00+00:00"
-    },
-    {
-      "id": "0ae1fe883229025d",
-      "title": "Oliver Stiff designs collectible \"fashion furniture\" from Vivienne Westwood deadstock",
-      "summary": "Royal College of Art graduate Oliver Stiff has created a series of sculptural furniture pieces that aim to \"bring the language, attitude and materials of fashion design into furniture\". The London-based designer's recent works include the Hurmull Chair and Side Table set, alongside the Socialite Chair, which was made using deadstock fabrics donated by global […] The post Oliver Stiff designs collectible \"fashion furniture\" from Vivienne Westwood deadstock appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/07/oliver-stiff-fashion-furniture-chairs/",
-      "image": "https://static-2026.dezeen.com/uploads/2026/09/Oliver-Stiff-designs-fashion-furniture_dezeen_2364_col_1.jpg",
-      "images": [
-        "https://static-2026.dezeen.com/uploads/2026/09/Oliver-Stiff-designs-fashion-furniture_dezeen_2364_col_1.jpg"
-      ],
-      "source": "Dezeen tag furniture",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-07T08:00:07+00:00"
     },
     {
       "id": "18c8624262b83fbb",
@@ -3411,6 +3023,19 @@
       "published": "2026-08-26T22:00:00+00:00"
     },
     {
+      "id": "61ef61f1db46b072",
+      "title": "I Built This Wrong. I’m Glad I Did.",
+      "summary": "Avoid common beginner woodworking mistakes with insights from personal experience on building and repairing furniture. The post I Built This Wrong. I’m Glad I Did. appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/i-built-this-wrong-im-glad-i-did/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/marcs-finishing-quick-guide-book.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/marcs-finishing-quick-guide-book.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-26T15:14:32+00:00"
+    },
+    {
       "id": "52739f6288d73ed0",
       "title": "How to Make a Cabinet Drawer",
       "summary": "A dovetail jig enables anyone to make a classy drawer. As a woodworker, what’s the first thing you notice when you open a cabinet’s drawer? The way it’s put together,... Source",
@@ -3422,6 +3047,19 @@
       "source": "Popular Woodworking projects",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-08-26T12:17:50+00:00"
+    },
+    {
+      "id": "3241a25fff70de1c",
+      "title": "What is Fine Woodworking?",
+      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-25T16:15:12+00:00"
     },
     {
       "id": "f070a788d8d64c5f",
@@ -3518,6 +3156,19 @@
       "source": "Dezeen Lookbooks",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-09T09:00:07+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     },
     {
       "id": "70f52947d252c821",
