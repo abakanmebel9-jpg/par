@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-10-31T12:13:57.272718+00:00",
-  "generated_at_human": "2026-10-31 12:13 UTC",
-  "total_items": 247,
+  "generated_at": "2026-10-31T17:39:44.613660+00:00",
+  "generated_at_human": "2026-10-31 17:39 UTC",
+  "total_items": 260,
   "sources_used": [
     "Apartment Therapy",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -13,6 +14,7 @@
     "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
+    "Design Milk Art",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -40,6 +42,7 @@
     "PopSugar Home",
     "Popular Woodworking",
     "Popular Woodworking projects",
+    "Remodelista",
     "Shanty 2 Chic",
     "Sleeper magazine",
     "Stylepark DE",
@@ -48,6 +51,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -56,9 +60,126 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 50,
-  "multi_photo_items": 58,
+  "sources_count": 54,
+  "multi_photo_items": 62,
   "items": [
+    {
+      "id": "12f58fecb2040896",
+      "title": "Woman Uses Garden Hooks To Create Bathroom Storage With A Clever DIY",
+      "summary": "Garden hooks may be the main stars of this DIY, but the end result is a chic yet practical organizer for cotton balls, flossers, and other bathroom essentials.",
+      "url": "https://www.hunker.com/2303287/woman-uses-garden-hooks-create-bathroom-storage-clever-diy/",
+      "image": "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/l-intro-1793464598.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/l-intro-1793464598.jpg",
+        "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/intro-1793464598.jpg",
+        "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/assembling-the-tiered-organizer-1793464599.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-10-31T17:30:00+00:00"
+    },
+    {
+      "id": "0701f1a5def3b146",
+      "title": "HighLow Chair Flips Its Backrest Into a Leaning Support for Standing Meetings",
+      "summary": "HighLow Chair Flips Its Backrest Into a Leaning Support for Standing Meetings Height-adjustable tables let a meeting move from sitting to standing, but the chairs usually get left behind. That’s a rather awkward limitation for furniture meant...",
+      "url": "https://www.yankodesign.com/2026/10/31/highlow-chair-flips-its-backrest-into-a-leaning-support-for-standing-meetings/?utm_source=rss&utm_medium=rss&utm_campaign=highlow-chair-flips-its-backrest-into-a-leaning-support-for-standing-meetings",
+      "image": "https://www.yankodesign.com/images/design_news/2026/10/highlow-chair-flips-its-backrest-into-a-leaning-support-for-standing-meetings/highlow-chair-02.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/10/highlow-chair-flips-its-backrest-into-a-leaning-support-for-standing-meetings/highlow-chair-02.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/10/no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot/Camp-Torch-hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/03/07/standing_stool.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/04/free_forever_cloud_storage_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/06/top-5-essential-desk-accessories/top_5_essential_home_office_gear_yanko_design_inspiration_hub_hero.jpg"
+      ],
+      "source": "Yanko Design furniture",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-10-31T17:20:23+00:00"
+    },
+    {
+      "id": "12d7f139a4cc1a06",
+      "title": "Not every front porch needs a lot of furniture: 7 simple decorating ideas that still look beautiful",
+      "summary": "A front porch earns its keep when you use it, not when it looks perfect in photos. The porches people keep coming back to usually have the same few things working together: comfortable seating, something green at eye level, and lighting that pulls you outside after dinner. These 7 front porch ideas show what that […] The post Not every front porch needs a lot of furniture: 7 simple decorating ideas that still look beautiful appeared first on Trendir .",
+      "url": "https://www.trendir.com/front-porch-decorating-ideas-that-actually-help-you-live-out-there-more/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Front-Porch-Decorating-Ideas.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/Front-Porch-Decorating-Ideas.png",
+        "https://cdn.trendir.com/wp-content/uploads/2025/10/Minimalist-Wall-Trellis.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2025/11/Soft-Neutrals-Branches.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/12-moody-black-bathroom-cedar-wreath-lit-trees.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2025/11/Luxe-Island-Welcome.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2025/11/Retro-Warmth.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-10-31T17:00:00+00:00"
+    },
+    {
+      "id": "fc638c4c7859d40a",
+      "title": "Say Goodbye To Boring Tea Towels: The Cute Alternative Option That Has Vintage Charm",
+      "summary": "If your kitchen could a little vintage charm, these adorable tea towels deliver with classic chinoiserie patterns and an unexpected, animal-inspired twist.",
+      "url": "https://www.hunker.com/2302070/say-goodbye-to-boring-tea-towels-alternative-vintage-charm/",
+      "image": "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/l-intro-1793364581.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/l-intro-1793364581.jpg",
+        "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/intro-1793364581.jpg",
+        "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/put-your-vintage-inspired-towels-on-display-1793364583.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-10-31T15:00:00+00:00"
+    },
+    {
+      "id": "ff24a3b6468a8b0b",
+      "title": "Homeowners Spent Years Painting Wood Cabinets White, but Wood Just Overtook White in Kitchen Remodels",
+      "summary": "White paint was the answer for countless kitchens with dated oak cabinets. Now homeowners are choosing wood again, and the numbers show a reversal. The 2026 U.S. Houzz Kitchen Trends Study found that 29% of renovating homeowners chose wood cabinets, compared with 28% choosing white. Wood gained six percentage points from the previous study, while... The post Homeowners Spent Years Painting Wood Cabinets White, but Wood Just Overtook White in Kitchen Remodels appeared first on Homedit .",
+      "url": "https://www.homedit.com/homeowners-spent-years-painting-wood-cabinets-white-but-wood-just-overtook-white-in-kitchen-remodels/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/Homeowners-Spent-Years-Painting-Wood-Cabinets-White-but-Wood-Just-Overtook-White-in-Kitchen-Remodels.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Homeowners-Spent-Years-Painting-Wood-Cabinets-White-but-Wood-Just-Overtook-White-in-Kitchen-Remodels.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Had-Never-Built-Cabinets-Before-but-at-69-She-Turned-an-Ugly-Laundry-Closet-Into-This.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Builder-Grade-Kids-Bathroom-Had-a-Bathtub-No-One-Used-in-12-Years-and-Now-It-Looks-Twice-as-Big.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/She-Cut-Up-Old-Milk-Jugs-to-Make-a-Backyard-Path-That-Looks-Like-Cobblestone.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Painted-Her-Old-Flowerpots-White-and-Didnt-Like-the-Result-So-She-Reached-for-Sandpaper.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Dark-wood-cabinets-feature-geometric-gold-toned.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-10-31T14:06:56+00:00"
+    },
+    {
+      "id": "f16c375a8aeb6165",
+      "title": "She Had Never Built Cabinets Before, but at 69 She Turned an Ugly Laundry Closet Into This",
+      "summary": "Two laundry machines, an exposed water heater, and a wire shelf packed with supplies filled this hallway closet. The bifold doors stayed open most of the time, taking up space in the passage. Custom cabinets were beyond the homeowner’s budget, so she decided to build her own at age 69, despite having no cabinetmaking experience.... The post She Had Never Built Cabinets Before, but at 69 She Turned an Ugly Laundry Closet Into This appeared first on Homedit .",
+      "url": "https://www.homedit.com/she-had-never-built-cabinets-before-but-at-69-she-turned-an-ugly-laundry-closet-into-this/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Had-Never-Built-Cabinets-Before-but-at-69-She-Turned-an-Ugly-Laundry-Closet-Into-This.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Had-Never-Built-Cabinets-Before-but-at-69-She-Turned-an-Ugly-Laundry-Closet-Into-This.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Botanical-wallpaper-and-Green-cabinets.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Green-Cabinets-Floral-Wallpaper-and-a-Countertop-Replace-the-Old-Shelf.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/A-track-above-the-opening-allows.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/A-Sliding-Panel-Conceals-the-Water-Heater.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-painted-the-components-before-assembly.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-10-31T12:59:20+00:00"
+    },
+    {
+      "id": "2d0c2cd5d5b117d5",
+      "title": "Give Kitchen Cabinets A Sophisticated Upgrade With Erin Napier's Bold Paint Color",
+      "summary": "This often-misjudged paint color can elevate your kitchen cabinets; Erin Napier favors it for an elegant upgrade that blends sophistication with boldness.",
+      "url": "https://www.hunker.com/2298645/erin-napier-bold-paint-kitchen-cabinets-black/",
+      "image": "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/l-intro-1793288508.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/l-intro-1793288508.jpg",
+        "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/intro-1793288508.jpg",
+        "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/styling-black-cabinets-for-a-sophisticated-kitchen-1793288509.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-10-31T12:30:00+00:00"
+    },
     {
       "id": "45e333fc33d4ef6b",
       "title": "Want your fireplace to stand out? These 8 fresh mantel decor ideas might be just what you need",
@@ -76,24 +197,6 @@
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
       "published": "2026-10-31T12:00:00+00:00"
-    },
-    {
-      "id": "fbfb7b434a4b84fc",
-      "title": "O'Sullivan Skoufoglou Architects creates \"quiet yet present\" garden studio in London",
-      "summary": "A low brick base anchors the timber structure of this pared-back garden studio, which O'Sullivan Skoufoglou Architects created as a workspace for a creative couple in Highbury. The post O'Sullivan Skoufoglou Architects creates \"quiet yet present\" garden studio in London appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/10/31/osullivan-skoufoglou-architects-garden-studio/",
-      "image": "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_sq2.jpg",
-      "images": [
-        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_sq2.jpg",
-        "https://static-2026.dezeen.com/uploads/2024/05/gardenhide-studio-commonbond-architects-architecture-residential-houses-england-hempcrete_dezeen_2364_sq.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_col_2.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_col_4.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_col_3.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_col_5.jpg"
-      ],
-      "source": "Dezeen",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-10-31T11:00:00+00:00"
     },
     {
       "id": "3c373b1f08c87ffc",
@@ -114,15 +217,31 @@
       "published": "2026-10-31T11:00:00+00:00"
     },
     {
+      "id": "fbfb7b434a4b84fc",
+      "title": "O'Sullivan Skoufoglou Architects creates \"quiet yet present\" garden studio in London",
+      "summary": "A low brick base anchors the timber structure of this pared-back garden studio, which O'Sullivan Skoufoglou Architects created as a workspace for a creative couple in Highbury. The post O'Sullivan Skoufoglou Architects creates \"quiet yet present\" garden studio in London appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/10/31/osullivan-skoufoglou-architects-garden-studio/",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_sq2.jpg",
+      "images": [
+        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_sq2.jpg",
+        "https://static-2026.dezeen.com/uploads/2024/05/gardenhide-studio-commonbond-architects-architecture-residential-houses-england-hempcrete_dezeen_2364_sq.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_col_2.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_col_4.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_col_3.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/garden-studio-osullivan-skoufoglou-architects-office-architecture-london-highbury-brick-timber_dezeen_2364_col_5.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-10-31T11:00:00+00:00"
+    },
+    {
       "id": "266bafc59cc2d061",
       "title": "Not Plastic Shower Curtains: There's A Cuter Way To Add Privacy With A Thrift Store Staple",
       "summary": "If you have a specific vision in mind for your bathroom decor but you just aren't finding anything at regular stores, this thrift find might do the trick.",
       "url": "https://www.hunker.com/2293682/not-plastic-shower-curtains-cuter-way-to-add-privacy-thrift-store-sheets/",
       "image": "https://www.hunker.com/img/gallery/not-plastic-shower-curtains-theres-a-cuter-way-to-add-privacy-with-a-thrift-store-staple/l-intro-1792619271.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-plastic-shower-curtains-theres-a-cuter-way-to-add-privacy-with-a-thrift-store-staple/l-intro-1792619271.jpg",
-        "https://www.hunker.com/img/gallery/not-plastic-shower-curtains-theres-a-cuter-way-to-add-privacy-with-a-thrift-store-staple/intro-1792619271.jpg",
-        "https://www.hunker.com/img/gallery/not-plastic-shower-curtains-theres-a-cuter-way-to-add-privacy-with-a-thrift-store-staple/how-to-use-thrifted-textiles-to-create-a-diy-shower-curtain-1792619272.jpg"
+        "https://www.hunker.com/img/gallery/not-plastic-shower-curtains-theres-a-cuter-way-to-add-privacy-with-a-thrift-store-staple/l-intro-1792619271.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -153,12 +272,7 @@
       "url": "https://www.homedit.com/she-was-afraid-to-paint-her-oak-kitchen-cabinets-white-then-she-did-every-single-one/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Was-Afraid-to-Paint-Her-Oak-Kitchen-Cabinets-White-Then-She-Did-Every-Single-One.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Was-Afraid-to-Paint-Her-Oak-Kitchen-Cabinets-White-Then-She-Did-Every-Single-One.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Her-Great-Grandmothers-Table-Became-a-Kitchen-Island.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/added-an-IKEA-butcher-block-top.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/An-Old-Ladder-Became-the-Kitchens-Most-Talked-About-Feature.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Builder-Grade-Kids-Bathroom-Had-a-Bathtub-No-One-Used-in-12-Years-and-Now-It-Looks-Twice-as-Big.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/05/She-Cut-Up-Old-Milk-Jugs-to-Make-a-Backyard-Path-That-Looks-Like-Cobblestone.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Was-Afraid-to-Paint-Her-Oak-Kitchen-Cabinets-White-Then-She-Did-Every-Single-One.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -189,9 +303,7 @@
       "url": "https://www.hunker.com/2303218/not-plywood-affordable-material-custom-backyard-shed/",
       "image": "https://www.hunker.com/img/gallery/not-plywood-the-more-affordable-material-for-a-custom-backyard-shed/l-intro-1793435230.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/not-plywood-the-more-affordable-material-for-a-custom-backyard-shed/l-intro-1793435230.jpg",
-        "https://www.hunker.com/img/gallery/not-plywood-the-more-affordable-material-for-a-custom-backyard-shed/intro-1793435230.jpg",
-        "https://www.hunker.com/img/gallery/not-plywood-the-more-affordable-material-for-a-custom-backyard-shed/osb-is-cheaper-but-does-that-make-it-better-1793435232.jpg"
+        "https://www.hunker.com/img/gallery/not-plywood-the-more-affordable-material-for-a-custom-backyard-shed/l-intro-1793435230.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -211,7 +323,7 @@
         "https://cdn.trendir.com/wp-content/uploads/2017/02/Gold-Velvet-Large-Round-Sofa.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2025/12/Airy-Modern-Canopy.jpg"
       ],
-      "source": "Trendir",
+      "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
       "published": "2026-10-31T09:00:00+00:00"
     },
@@ -240,9 +352,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/this-printer-shape/muddycap_receipts_chair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot/Camp-Torch-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2019/04/bookshelf_designs_04.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/04/19/dvision_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/09/caroline-chaos-roll-up-chair-turns-g-star-reclaimed-denim-into-modular-furniture/roll-up-chair-g-star-denim-01.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/03/auto-draft/together_and_apart_table_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/hunter-chair/hunter_lounge_chair_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/04/this-unique-3-legged-drawer-is-all-drawer-and-no-frame/three_legged_drawer_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -260,34 +372,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-10-30T22:00:00+00:00"
-    },
-    {
-      "id": "a3faf33c4ff1496b",
-      "title": "Savvy DIYer Uses Concrete Blocks For A Durable Alternative To A Nightstand",
-      "summary": "Lending an industrial style and a naturally smart bedside storage design, this sturdy DIY nightstand is effortless to build from a pair of concrete blocks .",
-      "url": "https://www.hunker.com/2297169/diyer-uses-concrete-blocks-durable-alternative-nightstand/",
-      "image": "https://www.hunker.com/img/gallery/savvy-diyer-uses-concrete-blocks-for-a-durable-alternative-to-a-nightstand/l-intro-1793034025.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/savvy-diyer-uses-concrete-blocks-for-a-durable-alternative-to-a-nightstand/l-intro-1793034025.jpg",
-        "https://www.hunker.com/img/gallery/savvy-diyer-uses-concrete-blocks-for-a-durable-alternative-to-a-nightstand/intro-1793034025.jpg",
-        "https://www.hunker.com/img/gallery/savvy-diyer-uses-concrete-blocks-for-a-durable-alternative-to-a-nightstand/building-a-sturdy-concrete-block-nightstand-1793034026.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-30T21:30:00+00:00"
-    },
-    {
-      "id": "340c6419e132f866",
-      "title": "Quartz Vs. Marble Countertops: Which Will Last Longer?",
-      "summary": "It's a question many homeowners have asked themselves time and time again-- quartz or marble? The first step is knowing which material lasts longer.",
-      "url": "https://www.hunker.com/2300991/quartz-vs-marble-countertops-last-longer/",
-      "image": "https://www.hunker.com/img/gallery/quartz-vs-marble-countertops-which-will-last-longer/l-intro-1793286646.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/quartz-vs-marble-countertops-which-will-last-longer/l-intro-1793286646.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-30T21:00:00+00:00"
     },
     {
       "id": "ceda6ffe9b0df64a",
@@ -332,32 +416,6 @@
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
       "published": "2026-10-30T18:30:00+00:00"
-    },
-    {
-      "id": "6c8c95d62835e69d",
-      "title": "Forget Traditional Subway Tile Backsplash: There's A Gorgeous Modern Alternative",
-      "summary": "Subway tiles are a timeless choice, but if you want something classy and one-of-a-kind, try this eco-friendly alternative. No two tiles are alike.",
-      "url": "https://www.hunker.com/2299806/subway-tile-backsplash-lava-stone-gorgeous-modern-alternative/",
-      "image": "https://www.hunker.com/img/gallery/forget-traditional-subway-tile-backsplash-theres-a-gorgeous-modern-alternative/l-intro-1793202967.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/forget-traditional-subway-tile-backsplash-theres-a-gorgeous-modern-alternative/l-intro-1793202967.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-30T17:30:00+00:00"
-    },
-    {
-      "id": "91869907760ad790",
-      "title": "10 Vintage, Kitschy Cookie Jars Collectors Should Look For On Thrift Store Shelves",
-      "summary": "You're a pro at going to your local thrift store or checking out an estate sale and finding valuable dishware. But that skill should extend to cookie jars.",
-      "url": "https://www.hunker.com/2302507/vintage-cookie-jars-collectible-look-thrift-store/",
-      "image": "https://www.hunker.com/img/gallery/10-vintage-kitschy-cookie-jars-collectors-should-look-for-on-thrift-store-shelves/l-intro-1793379061.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/10-vintage-kitschy-cookie-jars-collectors-should-look-for-on-thrift-store-shelves/l-intro-1793379061.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-30T17:00:00+00:00"
     },
     {
       "id": "cd3c4fbabeaf34bf",
@@ -410,12 +468,7 @@
       "url": "https://www.homedit.com/man-uses-old-wood-pallets-to-build-a-backyard-drink-cooler-that-looks-like-rustic-furniture/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/Man-Uses-Old-Wood-Pallets-to-Build-a-Backyard-Drink-Cooler-That-Looks-Like-Rustic-Furniture.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Man-Uses-Old-Wood-Pallets-to-Build-a-Backyard-Drink-Cooler-That-Looks-Like-Rustic-Furniture.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2018/02/Ceiling-Types-Collage.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Four-Legs-Raised-the-Cooler-to-Standing-Height.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/The-Pallets-Were-Taken-Apart-for-Reusable-Lumber.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Old-Wood-Pallets-Supplied-the-Boards.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/the-opening-reveals-the-wooden-enclosure-beneath.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Man-Uses-Old-Wood-Pallets-to-Build-a-Backyard-Drink-Cooler-That-Looks-Like-Rustic-Furniture.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -492,19 +545,6 @@
       "published": "2026-10-30T12:14:21+00:00"
     },
     {
-      "id": "d65883799a7211db",
-      "title": "A $200 Redo Made Her “Ominous” Gray Hallway Feel Like an “English Dollhouse”",
-      "summary": "There are certain paint shades that countless experts have recommended over the years for being pretty much universally appealing. There’s creamy white, of course, which can be used to revive a dark kitchen or create a spa-like bathroom.Blue and green have been recommended as calming shades for cabinets and bedrooms. And gray? READ MORE...",
-      "url": "https://www.apartmenttherapy.com/black-white-vintage-wallpaper-hallway-transformation-ba-37697181?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2023-08/guerin-p-hallway/guerin-p-hallway-before-2",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2023-08/guerin-p-hallway/guerin-p-hallway-before-2"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-10-30T12:00:00+00:00"
-    },
-    {
       "id": "274942ca279be6e6",
       "title": "A Stylish Indoor Herb Garden With Nearly Zero Effort: An Auk Mini 2 Review",
       "summary": "Auk took one of my favorite countertop growing systems and made it smaller, sleeker, and noticeably better at growing herbs. After a month of testing, my basil and parsley were already ready to harvest. The post A Stylish Indoor Herb Garden With Nearly Zero Effort: An Auk Mini 2 Review appeared first on Bob Vila .",
@@ -516,58 +556,6 @@
       "source": "Bob Vila",
       "source_url": "https://www.bobvila.com",
       "published": "2026-10-30T12:00:00+00:00"
-    },
-    {
-      "id": "cadef66e560c36f7",
-      "title": "He Spray-Painted the Orange Oak Cabinets Sea Salt and Made the Old Beige Tile Floors Work",
-      "summary": "Orange oak cabinets covered almost every wall of this kitchen, from the built-in oven and refrigerator to the sink and cooking peninsula. Beige floor tiles, gray diamond-pattern backsplash, and white countertops surrounded the wood. Instead of replacing those finishes, the makeover introduced a cabinet color that worked with what was already there. In a transformation... The post He Spray-Painted the Orange Oak Cabinets Sea Salt and Made the Old Beige Tile Floors Work appeared first on Homedit .",
-      "url": "https://www.homedit.com/he-spray-painted-the-orange-oak-cabinets-sea-salt-and-made-the-old-beige-tile-floors-work/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/He-Spray-Painted-the-Orange-Oak-Cabinets-Sea-Salt-and-Made-the-Old-Beige-Tile-Floors-Work.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/He-Spray-Painted-the-Orange-Oak-Cabinets-Sea-Salt-and-Made-the-Old-Beige-Tile-Floors-Work.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-10-30T11:30:52+00:00"
-    },
-    {
-      "id": "2a998160bc5d4476",
-      "title": "She Kept the Uneven Edges of a Walnut Slab and Turned It Into a Console Table With Black Hairpin Legs",
-      "summary": "Rough walnut wood, loose bark, and an uneven outline might seem like an unusual starting point for a console table. The slab had a wide end, a narrow middle, and curved edges that would disappear if the wood were cut into a standard rectangle. Jen from Rustique Restoration purchased seven live-edge wood slabs and decided... The post She Kept the Uneven Edges of a Walnut Slab and Turned It Into a Console Table With Black Hairpin Legs appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-kept-the-uneven-edges-of-a-walnut-slab-and-turned-it-into-a-console-table-with-black-hairpin-legs/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Kept-the-Uneven-Edges-of-a-Walnut-Slab-and-Turned-It-Into-a-Console-Table-With-Black-Hairpin-Legs.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Kept-the-Uneven-Edges-of-a-Walnut-Slab-and-Turned-It-Into-a-Console-Table-With-Black-Hairpin-Legs.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-10-30T10:48:27+00:00"
-    },
-    {
-      "id": "3994155a2430f9df",
-      "title": "Glass Kitchen Cabinet Doors Are Making a Comeback: What They Offer That Solid Doors Can’t",
-      "summary": "Solid kitchen cabinet doors have one advantage: they hide everything behind them. Dishes, glasses, cookware, and clutter disappear when the doors close. But in kitchens filled with long rows of cabinets, that same feature can leave little room for display. Glass-front cabinets offer another option. Instead of removing the doors to create open shelves, designers... The post Glass Kitchen Cabinet Doors Are Making a Comeback: What They Offer That Solid Doors Can’t appeared first on Homedit .",
-      "url": "https://www.homedit.com/glass-kitchen-cabinet-doors-are-making-a-comeback-what-they-offer-that-solid-doors-cant/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/Glass-Kitchen-Cabinet-Doors-Are-Making-a-Comeback-What-They-Offer-That-Solid-Doors-Cant.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Glass-Kitchen-Cabinet-Doors-Are-Making-a-Comeback-What-They-Offer-That-Solid-Doors-Cant.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-10-30T10:18:16+00:00"
-    },
-    {
-      "id": "3a2821b924e493cc",
-      "title": "Turtle Beach’s Stealth Flip Controller Switches From Thumbsticks to Touchpads",
-      "summary": "Turtle Beach’s Stealth Flip Controller Switches From Thumbsticks to Touchpads Playing PC games from the couch sounds comfortable, at least until a menu sends you reaching for a mouse. A controller might handle the game...",
-      "url": "https://www.yankodesign.com/2026/10/30/turtle-beachs-stealth-flip-controller-switches-from-thumbsticks-to-touchpads/?utm_source=rss&utm_medium=rss&utm_campaign=turtle-beachs-stealth-flip-controller-switches-from-thumbsticks-to-touchpads",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/turtle-beachs-stealth-flip-controller-switches-from-thumbsticks-to-touchpads/turtle-beach-stealth-flip-controller-03.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/turtle-beachs-stealth-flip-controller-switches-from-thumbsticks-to-touchpads/turtle-beach-stealth-flip-controller-03.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-10-30T10:07:52+00:00"
     },
     {
       "id": "389e8604d8caf95c",
@@ -696,19 +684,6 @@
       "published": "2026-10-29T22:21:00+00:00"
     },
     {
-      "id": "364f2eb0b90130b5",
-      "title": "They Customized IKEA HAVSTAs to Create the Ideal Dining Room for Hosting",
-      "summary": "“We really wanted a dining room that we could host family and make memories in,” Trina Irwin says about her 1959 home. But Trina and her husband felt they couldn’t do that in the current setup they had.The room wasn’t cohesive, and while it did have a built-in corner bookcase, it made the space feel more dated than it was. Plus, the current paint color didn’t match Trina and her husband’s design style. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/green-ikea-built-in-dining-room-ba-37695803?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-10/trina-i-dining-room/trina-i-dining-room-before-lead",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-10/trina-i-dining-room/trina-i-dining-room-before-lead"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-10-29T22:00:00+00:00"
-    },
-    {
       "id": "2d6038a9c0c73633",
       "title": "The Castle From Taylor Swift’s “Blank Space” Video Sells for $72 Million",
       "summary": "Long Island’s Oheka Castle—the nation’s second-largest residence and a famed wedding venue—hit the auction block following a Chapter 11 bankruptcy filing.",
@@ -800,9 +775,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/nike-acg-x-helinoxs-1-2-pound-chair-refuses-to-blend-in/helinox-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot/Camp-Torch-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/08/28/boet_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/09/a-teen-bedroom-has-4-jobs-the-hasuit-corner-bed-handles-all-of-them/hasuit-twin-corner-bed-desk-storage-bookcase-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/12/top-10-functional-tableware-for-christmas-dinner/top_10_christmas_dinner_tableware_yanko_design_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/08/auto-draft/sennheiser_momentum_5_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/08/23/write_light.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/12/594992/lego_creel_house_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -856,9 +831,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/IMG_2519-768x525.jpeg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/Magellano-27M-Flybridge-4.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/IMG_1359.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/ph-jacqueline-fuijkschot_11.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/IMG_2517.jpeg"
       ],
       "source": "Interni magazine",
@@ -918,6 +893,24 @@
       "published": "2026-10-29T10:30:00+00:00"
     },
     {
+      "id": "d9dda73dc27075e0",
+      "title": "Kitchen of the Week: An Award-Winning Project with a Heart of Darkness",
+      "summary": "Our love for light-filled, airy interiors is well-documented, but every once in a while, we encounter moody, sexy spaces that tempt us to the dark side—like this culinary lair from deVOL designed for a couple who live in Petersham, a small village on the Thames, not far from London. The owners wanted a space that […]",
+      "url": "https://www.remodelista.com/posts/dark-blue-kitchen-devol-petersham-england/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2018/10/black-real-shaker-kitchen-devol.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2018/10/black-real-shaker-kitchen-devol.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2018/10/black-real-shaker-kitchen-devol7.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2018/10/black-real-shaker-kitchen-devol2.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2018/10/black-real-shaker-kitchen-devol6.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2018/10/black-real-shaker-kitchen-devol4.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2018/10/black-real-shaker-kitchen-devol8.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-29T08:00:59+00:00"
+    },
+    {
       "id": "ff1b48030be827d3",
       "title": "Make your fireplace look more polished with these 7 beautiful screen designs that are easy to love",
       "summary": "A fireplace without a screen almost always looks half-dressed. The right screen does more than just cover the opening: it tells you what kind of room you’re in before you’ve even noticed the furniture. These 7 fireplace screen ideas show you exactly how to pick one that pulls its weight. 7 Fireplace Screen Ideas That […] The post Make your fireplace look more polished with these 7 beautiful screen designs that are easy to love appeared first on Trendir .",
@@ -960,7 +953,7 @@
         "https://www.internimagazine.it/content/uploads/2026/10/1200x820_Ritratti-Ideagroup_2.png",
         "https://www.internimagazine.it/content/uploads/2026/10/oZkie44b-1200x820_Ritratti-Ideagroup_3.png",
         "https://www.internimagazine.it/content/uploads/2026/10/ID_TotalBath_tot_notte_full.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/under-the-canopy.png"
+        "https://www.internimagazine.it/content/uploads/2026/10/Galleria-Umberto-Benappi_phcr-chiara-ferrando-5.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1128,7 +1121,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/13.-CLB-Boomerang-0101-e1793125420381.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-28T14:00:27+00:00"
     },
@@ -1244,8 +1237,8 @@
         "https://www.internimagazine.it/content/uploads/2026/10/I-BALOCCHI-2026-01.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/I-BALOCCHI_50th_Anniversary_Fantini_03.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Luceplan-Shaping-Light_monograph_ed.Rizzoli-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/ape_MiglioreServetto_Portolani_courtesy-of-MiglioreServetto_07.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Gonzato-Group_Grande-Moschea-di-Touba_Referenza-Senegal_04.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/ape_MiglioreServetto_Portolani_courtesy-of-MiglioreServetto_07.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/JGg99hut-ape_Gilda-Bojardi-con-Riccardo-FOTO-Brain-Attack.jpg"
       ],
       "source": "Interni magazine",
@@ -1300,6 +1293,19 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-27T23:30:38+00:00"
+    },
+    {
+      "id": "3f373c03b75883d8",
+      "title": "This Was Way Harder Than It Looks",
+      "summary": "I build a custom solid-walnut mid-century modern dining table for friends, working through tricky angled joinery, a few setbacks, and the real economics of why a $10,000 table is a bargain at $2,500. The post This Was Way Harder Than It Looks appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/this-was-way-harder-than-it-looks/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Screenshot-2026-08-04-at-1.40.39-PM.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Screenshot-2026-08-04-at-1.40.39-PM.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-10-27T21:53:21+00:00"
     },
     {
       "id": "8139933aea0aa368",
@@ -1362,7 +1368,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/victory-lap-residence-the-up-studio-3.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-27T17:15:18+00:00"
     },
@@ -1497,19 +1503,6 @@
       "published": "2026-10-27T14:58:56+00:00"
     },
     {
-      "id": "a7eaf1a2a9705bb0",
-      "title": "In Venice, Four Seasons’ Danieli is full of romance after a Pierre-Yves Rochon restoration",
-      "summary": "Lagoon blues, pastel Murano chandeliers and restored Gothic interiors greet guests at the newly reopened Danieli, Venezia",
-      "url": "https://www.wallpaper.com/travel/hotels/danieli-a-four-seasons-hotel-venice-italy-review",
-      "image": "https://cdn.mos.cms.futurecdn.net/mzcV8YZzGFknvhkis2a7ye.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/mzcV8YZzGFknvhkis2a7ye.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-10-27T13:53:46+00:00"
-    },
-    {
       "id": "51d9167844a4da85",
       "title": "Grow your own green beans this summer",
       "summary": "Few kitchen-garden rewards are as immediate as picking a handful of crisp green beans for supper. They grow quickly, need relatively little space and are approachable even for a first-time vegetable gardener. With warm soil and regular picking, one small patch can keep producing through the growing season. The first decision is whether you want […] The post Grow your own green beans this summer appeared first on SA Garden and Home .",
@@ -1560,6 +1553,24 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-27T09:30:00+00:00"
+    },
+    {
+      "id": "7a2a3f955c7cf0b5",
+      "title": "Remodelista Reconnaissance: Back-of-the-Seat Book Boxes at Cremer in London",
+      "summary": "In the running for our informal award for Coziest Cafe of All Time? Cremer in London. We particularly love the wooden boxes latched to the backs of the rush-seat chairs, each one stocked with reading material. But what’s their story? Read on: The Sighting The Source Want something similar? Reach out to Louie directly via […]",
+      "url": "https://www.remodelista.com/posts/cremer-cafe-london-book-box-idea/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/08/3a-cremer-london.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/08/3a-cremer-london.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/08/4b-cremer-digital-21.jpg",
+        "http://www.remodelista.com/wp-content/uploads/2026/08/4b-cremer-digital-21.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2026/08/3a-cremer-london.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2023/05/kai-avent-deleon-upstate-home-dining-portrait.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2024/04/julie-carlson-apartment-cover-image-chair.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-27T08:00:25+00:00"
     },
     {
       "id": "968553972ffc92df",
@@ -1773,12 +1784,7 @@
       "url": "https://www.yankodesign.com/2026/10/23/a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger/?utm_source=rss&utm_medium=rss&utm_campaign=a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger",
       "image": "https://www.yankodesign.com/images/design_news/2026/10/a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger/scissor-chair-0.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger/scissor-chair-0.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/10/no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot/Camp-Torch-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/07/pinntorp/ikea_pinntorp_yanko_design_05.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/08/rock-inspired-ottoman-stools-were-also-designed-to-be-stacked-and-played-with/balanco_stools_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/07/a-functional-addition-to-the-modern-workspace/chart_divider_system_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/10/a-hidden-mechanism-turns-the-scissor-chair-into-a-lounger/scissor-chair-0.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1796,6 +1802,19 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-10-23T20:43:16+00:00"
+    },
+    {
+      "id": "dedb61f635e408b7",
+      "title": "Vancouver’s New Amphitheatre Boasts a Soaring Mass-Timber Roof",
+      "summary": "Revery Architecture's sculptural rooftop became a serious fan favourite during FIFA 2026. The post Vancouver’s New Amphitheatre Boasts a Soaring Mass-Timber Roof appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/freedom-mobile-arch-vancouver-revery-architecture/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/10/Revery_FMA_Fifa_1061-Pano-Edit.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/10/Revery_FMA_Fifa_1061-Pano-Edit.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-10-23T20:00:00+00:00"
     },
     {
       "id": "6eb7b563e04649cb",
@@ -1905,6 +1924,24 @@
       "published": "2026-10-22T14:45:00+00:00"
     },
     {
+      "id": "0f93d555020fc9a3",
+      "title": "Kitchen of the Week: Fieldstone and Oak on an Island in Ontario",
+      "summary": "This kitchen gives new meaning to “hearth of the home.” Situated on an island in Georgian Bay, Ontario, the space is centered on a generously sized stone island. “The family has a tradition of standing and sharing food around the kitchen island on weekends,” says Adam Robinson of Montreal-based Bureau Tempo, who collaborated with Thom […]",
+      "url": "https://www.remodelista.com/posts/kitchen-week-pine-island-cottage-bureau-tempo/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage4.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage4.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage-kitchen2.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage5.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage4.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage6-1.jpg",
+        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage-kitchen.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-22T10:00:17+00:00"
+    },
+    {
       "id": "af5d0f71570e8626",
       "title": "On the Couch with Silka Rittson-Thomas",
       "summary": "The creative mind behind Le Monde Béryl’s New York flagship shares a collection of personal favorites.",
@@ -1962,6 +1999,19 @@
       "published": "2026-10-21T10:09:30+00:00"
     },
     {
+      "id": "7f0f699f1c869e2f",
+      "title": "10 Easy Pieces: Wall-Mounted Wooden Plate Racks",
+      "summary": "Long loved: clever plate racks in interiors ranging from mod to traditional. (In my next life, I’m going to install one over my sink to hold just-rinsed dishes.) Here are 10 we like. More ways to stack and store dishes? See our posts: 10 Easy Pieces: Countertop Dish Drainers 5 Favorites: Space-Saving Dish Racks High/Low: […]",
+      "url": "https://www.remodelista.com/posts/10-easy-pieces-wall-mounted-plate-racks/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/08/mcc-and-co-edna-plate-rack.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/08/mcc-and-co-edna-plate-rack.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-21T10:00:00+00:00"
+    },
+    {
       "id": "506786f2a6210534",
       "title": "Comfort with contour",
       "summary": "Werner Aisslinger and COR have developed a chair that brings a homely feel to professional settings whilst also working well in private homes. Whether at the dining table, in a meeting room or in the hotel and catering industry, ‘Floy’ combines the comfort of an upholstered armchair with the clean lines of a chair.",
@@ -2001,6 +2051,32 @@
       "published": "2026-10-20T10:07:44+00:00"
     },
     {
+      "id": "5fc6803c51cd6de9",
+      "title": "Remodelista Reconnaissance: The Perfect Yellow, Spotted in a Rural Retreat",
+      "summary": "This week on Remodelista Reconnaissance, we’re answering a question that’s been popping up on Instagram ever since we first featured Inness, a design-minded retreat in upstate New York. The query: What particular shade of yellow was used in the open shelving in the common dining area? Reader, look no further. The Sighting What paint color […]",
+      "url": "https://www.remodelista.com/posts/inness-new-york-yellow-paint-color-remodelista-reconnaissance/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2021/11/inness-hotel-dining-2-adrian-gaut.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2021/11/inness-hotel-dining-2-adrian-gaut.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-20T08:00:33+00:00"
+    },
+    {
+      "id": "923d173e68dbdca9",
+      "title": "Elevated Living Begins in the Kitchen: Dacor Appliances Designed for the Way We Live",
+      "summary": "The kitchen is more than a place to cook. It’s where mornings begin, and days end—a place for conversation, sharing meals, gathering, and working. It’s one of the most lived-in rooms in the house, and the most appealing kitchens tend to feel like rooms rather than collections of equipment. The balance is in choosing appliances […]",
+      "url": "https://www.remodelista.com/posts/dacor-kitchen-appliances-for-daily-life/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/08/dacor-contemporary-set.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-20T08:00:01+00:00"
+    },
+    {
       "id": "78615d70b9afcb4d",
       "title": "This Minimalist Bamboo Coffee Table Hides Everyday Clutter in Plain Sight",
       "summary": "This Minimalist Bamboo Coffee Table Hides Everyday Clutter in Plain Sight A coffee table usually has a fairly straightforward job: hold a cup of coffee, a few books, and whatever else happens to accumulate in the...",
@@ -2038,6 +2114,19 @@
       "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-10-19T15:48:33+00:00"
+    },
+    {
+      "id": "3f3e78cb2b12edff",
+      "title": "Campbell House: A Restoration-First Renovation by Nuud Studio",
+      "summary": "Two years ago, we shared the sensitively renewed “bush modernist” home of architect Brad Mitchell and interior designer Kerli Valk—a thoughtful renovation that won a 2023 Australian Interior Design Awards Commendation and a 2023 Houses Award for Sustainability. Now the couple, founders of Melbourne-based Nüüd Studio, have produced another award-winning design by following the same […]",
+      "url": "https://www.remodelista.com/posts/campbell-house-nuud-studio/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/10/nuud-campbell-house-living.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/10/nuud-campbell-house-living.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-19T08:00:11+00:00"
     },
     {
       "id": "e9d6111b1a5da233",
@@ -2188,6 +2277,19 @@
       "published": "2026-10-16T13:19:45+00:00"
     },
     {
+      "id": "59b92a4b2e478da7",
+      "title": "Expert Advice: The Retrouvius Guide to Using Reclaimed Stone in Remodeling Projects",
+      "summary": "Stone is a natural resource that’s been used in interiors since before the wheel was invented. Though durable and costly—not to mention inimitably patterned and textured—it’s almost never thought of as reusable. But it should be say the eco-minded team behind Retrouvius, a combination salvage company and design studio in London’s Kensal Green that lead […]",
+      "url": "https://www.remodelista.com/posts/how-to-use-reclaimed-stone-in-interiors-tips-from-retrouvius/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2026/10/10-warehouse-offcuts-original-34.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2026/10/10-warehouse-offcuts-original-34.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-16T10:00:19+00:00"
+    },
+    {
       "id": "248123b36c88ff5c",
       "title": "I Transformed My 1-Bedroom Apartment With These 13 Items",
       "summary": "When my partner, cat, and I moved into our one-bedroom San Francisco apartment a year ago, we started off strong: we put up a gallery wall and chose a statement couch to be the center of our living room.",
@@ -2199,6 +2301,19 @@
       "source": "PopSugar Home",
       "source_url": "https://www.popsugar.com",
       "published": "2026-10-15T16:50:03+00:00"
+    },
+    {
+      "id": "72721ed75a5bdc93",
+      "title": "Kitchen of the Week: A London Architect’s Sky-Lit Compact Kitchen",
+      "summary": "We love every inch of this compact 14-by-10-foot kitchen in the Peckham neighborhood of London. Designed by architect Jonathan Nicholls and his partner, Alex Randall, a lighting designer, it occupies the rear extension of their Victorian home. While many architects find the experience of designing their own home an existential nightmare, Nicholls found it be […]",
+      "url": "https://www.remodelista.com/posts/kitchen-of-the-week-plywood-cabinets-jonathan-nicholls-london/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2020/01/blenheim-grove-london-kitchen-week-jonathan-nicholls-hayhurst-co.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2020/01/blenheim-grove-london-kitchen-week-jonathan-nicholls-hayhurst-co.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-15T08:00:32+00:00"
     },
     {
       "id": "aebf76b9751dc70c",
@@ -2313,7 +2428,7 @@
       "images": [
         "https://design-milk.com/images/2026/09/9781969303043_820EJ_Photo_01-e1791931763930.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-10-13T23:11:02+00:00"
     },
@@ -2440,6 +2555,19 @@
       "published": "2026-10-10T09:00:41+00:00"
     },
     {
+      "id": "678401e33a5c0f2f",
+      "title": "Current Obsessions: High, Low",
+      "summary": "On deck this weekend: the Ikea find that captured our attention, an exhibit at Michaela Scherrer in LA, an upstate market we’re eyeing, and more. read on: We love everything about longtime Remodelista friend Julianne Moore’s NYC place—but especially this trusty Ikea find in her kitchen. Julie’s taking note of “What Endures”, an exhibit at […]",
+      "url": "https://www.remodelista.com/posts/current-obsessions-high-low/",
+      "image": "http://www.remodelista.com/wp-content/uploads/2023/01/rm-low-impact-swaps-issue-cover-image-vol-17-iss-3-tigin-shantanu-starick-photo-3-1466x2199-1.jpg",
+      "images": [
+        "http://www.remodelista.com/wp-content/uploads/2023/01/rm-low-impact-swaps-issue-cover-image-vol-17-iss-3-tigin-shantanu-starick-photo-3-1466x2199-1.jpg"
+      ],
+      "source": "Remodelista",
+      "source_url": "https://www.remodelista.com",
+      "published": "2026-10-10T08:00:22+00:00"
+    },
+    {
       "id": "eeeb564c71c43e19",
       "title": "For Sale: A Stick Chair & a Shelving Unit",
       "summary": "This week we have two pieces we are selling to readers: a Welsh-style stick chair I made last month, plus a gorgeous walnut shelving unit that journeyer Kale Vogt made for a pottery show. These items are being sold separately via a random drawing. Complete information on buying the items is below. First, a little...",
@@ -2481,6 +2609,19 @@
       "source": "Sleeper magazine",
       "source_url": "https://sleepermagazine.com",
       "published": "2026-10-09T09:50:44+00:00"
+    },
+    {
+      "id": "6e054c66c497cc1c",
+      "title": "The Other Half of My Shop",
+      "summary": "See how I turned a cluttered firehouse storage bay into a functional maker space for our laser, 3D printer, tools, and lumber. The post The Other Half of My Shop appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/the-other-half-of-my-shop/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-10-08T18:17:23+00:00"
     },
     {
       "id": "de60fe09a6e2c5bc",
@@ -3176,6 +3317,19 @@
       "published": "2026-09-16T08:30:55+00:00"
     },
     {
+      "id": "d12a7c10aed3a105",
+      "title": "Woodworkers For a Cause 2026: How to Help Before October 3",
+      "summary": "Sixteen years ago I met a woodworker named Duane Moore who was fighting pancreatic cancer. Nicole and I drove out to Ohio to spend a couple of days at his bench, and that trip turned into Woodworkers Fighting Cancer. Since 2010, this community has moved more than $150,000 to charity, five and ten and fifty […] The post Woodworkers For a Cause 2026: How to Help Before October 3 appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/wfc2026/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-09-14T20:13:14+00:00"
+    },
+    {
       "id": "c6c3f05de97ca0e9",
       "title": "17th-century-style Side-hung Drawers",
       "summary": "The following is excerpted from Peter Follansbee’s latest book, “17th-century Essex County Cupboard.” Making the side-hung drawers is a fun challenge. I don’t do it often enough to have a systematic step-by-step approach; I’ve done it this way and that over the years. First off, the stock I use for the drawers is all radially...",
@@ -3443,6 +3597,32 @@
       "published": "2026-08-26T22:00:00+00:00"
     },
     {
+      "id": "61ef61f1db46b072",
+      "title": "I Built This Wrong. I’m Glad I Did.",
+      "summary": "Avoid common beginner woodworking mistakes with insights from personal experience on building and repairing furniture. The post I Built This Wrong. I’m Glad I Did. appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/i-built-this-wrong-im-glad-i-did/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/marcs-finishing-quick-guide-book.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/marcs-finishing-quick-guide-book.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-26T15:14:32+00:00"
+    },
+    {
+      "id": "3241a25fff70de1c",
+      "title": "What is Fine Woodworking?",
+      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-25T16:15:12+00:00"
+    },
+    {
       "id": "f070a788d8d64c5f",
       "title": "Shahar Livne's The Devil's Milk furniture explores how rubber \"shaped human culture\"",
       "summary": "Designer Shahar Livne has created The Devil's Milk, a collection of designs that investigate rubber production and its history of violence and abuse. The designs, which Livne created over two years, include a scale, a cabinet and a bench, made from different types of rubber. \"The concept behind the Devil's Milk project was to investigate […] The post Shahar Livne's The Devil's Milk furniture explores how rubber \"shaped human culture\" appeared first on Dezeen .",
@@ -3532,6 +3712,19 @@
       "source": "Dezeen Lookbooks",
       "source_url": "https://www.dezeen.com",
       "published": "2026-08-09T09:00:07+00:00"
+    },
+    {
+      "id": "259be9702bb6451a",
+      "title": "Stop Buying Tools Until You Know What You Want to Build",
+      "summary": "Explore our guide on buying woodworking tools and discover what you truly need for your projects and hobbies. The post Stop Buying Tools Until You Know What You Want to Build appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/stop-buying-tools-until-you-know-what-you-want-to-build/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/full-shop.png"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-03T16:33:04+00:00"
     }
   ]
 }
