@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-10-31T21:26:08.537933+00:00",
-  "generated_at_human": "2026-10-31 21:26 UTC",
-  "total_items": 261,
+  "generated_at": "2026-11-01T01:00:45.711579+00:00",
+  "generated_at_human": "2026-11-01 01:00 UTC",
+  "total_items": 265,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -14,7 +14,6 @@
     "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
-    "Design Milk Art",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -60,9 +59,80 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 53,
   "multi_photo_items": 62,
   "items": [
+    {
+      "id": "eed0b96911a4d6ec",
+      "title": "Not Just For Curtains: Use Rods To Win Back Precious Countertop Space",
+      "summary": "When you think about it, curtain rods are ideal for kitchen storage. They usually have a high weight capacity and are often made of durable, quality materials.",
+      "url": "https://www.hunker.com/2291393/use-curtains-rods-kitchen-storage/",
+      "image": "https://www.hunker.com/img/gallery/not-just-for-curtains-use-rods-to-win-back-precious-countertop-space/l-intro-1792488074.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/not-just-for-curtains-use-rods-to-win-back-precious-countertop-space/l-intro-1792488074.jpg",
+        "https://www.hunker.com/img/gallery/not-just-for-curtains-use-rods-to-win-back-precious-countertop-space/intro-1792488074.jpg",
+        "https://www.hunker.com/img/gallery/not-just-for-curtains-use-rods-to-win-back-precious-countertop-space/how-to-hang-curtain-rods-for-vertical-kitchen-storage-1792488076.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-10-31T22:30:00+00:00"
+    },
+    {
+      "id": "0a288ad1b9dfb10c",
+      "title": "He Upcycles Old Wood Pallets Into Perfect-Sized Patio Chairs With Charm",
+      "summary": "This YouTuber shows a brilliant way to repurpose old wood pallets to make charming, rustic patio chairs. All you need is a jigsaw, wood screws, and sandpaper.",
+      "url": "https://www.hunker.com/2299573/upcycles-old-wood-pallets-diy-patio-chairs/",
+      "image": "https://www.hunker.com/img/gallery/he-upcycles-old-wood-pallets-into-perfect-sized-patio-chairs-with-charm/l-intro-1793289233.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/he-upcycles-old-wood-pallets-into-perfect-sized-patio-chairs-with-charm/l-intro-1793289233.jpg",
+        "https://www.hunker.com/img/gallery/he-upcycles-old-wood-pallets-into-perfect-sized-patio-chairs-with-charm/intro-1793289233.jpg",
+        "https://www.hunker.com/img/gallery/he-upcycles-old-wood-pallets-into-perfect-sized-patio-chairs-with-charm/from-old-wood-pallets-to-charming-chairs-1793289235.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-10-31T22:00:00+00:00"
+    },
+    {
+      "id": "e35c26611016b582",
+      "title": "This Renter's Bold Green Kitchen Redo Breaks Every “Renter-Friendly” Rule",
+      "summary": "“Ironically, wallpapering one living room wall to create an atmosphere somehow morphed into ‘the entire kitchen needs to be updated,’” Audrey Morguess says about her apartment. She’d lived in the same rental for years but finally got tired of the kitchen’s “mash-up of outdated materials.”“Nothing about the kitchen was appealing,” she adds. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/green-drenched-apartment-kitchen-ba-37693573?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-10/audrey-m-kitchen/audrey-m-kitchen-before-lead",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-10/audrey-m-kitchen/audrey-m-kitchen-before-lead"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-10-31T22:00:00+00:00"
+    },
+    {
+      "id": "1f0fe3f26af35045",
+      "title": "chromatic pavilions and modular play structures activate historic istanbul rami library",
+      "summary": "milimetrik architects transforms the courtyard and interiors of istanbul's historic rami library into a 91,000 sqm environment for play and shared family experiences, welcoming approximately 825,000 visitors in eleven days. The post chromatic pavilions and modular play structures activate historic istanbul rami library appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/chromatic-pavilions-modular-play-structures-historic-istanbul-rami-library-milimetrik-architects/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/10/rami-library-istanbul-ailefest-milimetrik-architects-designboom-700-500x400-22b08q85r896.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/10/rami-library-istanbul-ailefest-milimetrik-architects-designboom-700-500x400-22b08q85r896.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-10-31T21:35:23+00:00"
+    },
+    {
+      "id": "2f4da16ad0348c60",
+      "title": "The Unique Fridge Feature From The '50s We'd Love To See In Kitchens Again",
+      "summary": "The '50s ushered in the era of the homemaker, and manufacturers added features to fridges we don't see today. This one would seem perfect for a modern kitchen.",
+      "url": "https://www.hunker.com/2299554/50s-rotating-fridge-feature-want-comeback-kitchens/",
+      "image": "https://www.hunker.com/img/gallery/the-unique-fridge-feature-from-the-50s-wed-love-to-see-in-kitchens-again/l-intro-1793198704.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/the-unique-fridge-feature-from-the-50s-wed-love-to-see-in-kitchens-again/l-intro-1793198704.jpg",
+        "https://www.hunker.com/img/gallery/the-unique-fridge-feature-from-the-50s-wed-love-to-see-in-kitchens-again/intro-1793198704.jpg",
+        "https://www.hunker.com/img/gallery/the-unique-fridge-feature-from-the-50s-wed-love-to-see-in-kitchens-again/how-to-add-lazy-susan-shelving-to-your-fridge-1793198706.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-10-31T21:00:00+00:00"
+    },
     {
       "id": "0fd8d091fa62d955",
       "title": "We Tested (and Rated!) All the Dining Tables at Pottery Barn — Here Are the Best to Suit Your Style and Space",
@@ -119,9 +189,7 @@
       "url": "https://www.hunker.com/2303287/woman-uses-garden-hooks-create-bathroom-storage-clever-diy/",
       "image": "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/l-intro-1793464598.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/l-intro-1793464598.jpg",
-        "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/intro-1793464598.jpg",
-        "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/assembling-the-tiered-organizer-1793464599.jpg"
+        "https://www.hunker.com/img/gallery/woman-uses-garden-hooks-to-create-bathroom-storage-with-a-clever-diy/l-intro-1793464598.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -137,9 +205,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/highlow-chair-flips-its-backrest-into-a-leaning-support-for-standing-meetings/highlow-chair-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot/Camp-Torch-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/auto-draft/Nicola-Stäubli-Reversible-Chair-Features.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/09/07/inukshuk_office.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/03/eclipse-wall-lamp-casts-a-shadow-that-appears-to-have-no-source/eclipse-wall-lamp-05.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/11/Wheel_Flash_high_visibility_bike_reflectors_save_lives.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/06/auto-draft/hug_chair_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/03/meet-hidock-p1-the-revolutionary-ai-voice-recorder-that-works-with-your-bluetooth-earphones/HiDock_P1_AI_Voice_Recorder_for_Bluetooth_Earphones_hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -170,9 +238,7 @@
       "url": "https://www.hunker.com/2302070/say-goodbye-to-boring-tea-towels-alternative-vintage-charm/",
       "image": "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/l-intro-1793364581.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/l-intro-1793364581.jpg",
-        "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/intro-1793364581.jpg",
-        "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/put-your-vintage-inspired-towels-on-display-1793364583.jpg"
+        "https://www.hunker.com/img/gallery/say-goodbye-to-boring-tea-towels-the-cute-alternative-option-that-has-vintage-charm/l-intro-1793364581.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -221,9 +287,7 @@
       "url": "https://www.hunker.com/2298645/erin-napier-bold-paint-kitchen-cabinets-black/",
       "image": "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/l-intro-1793288508.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/l-intro-1793288508.jpg",
-        "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/intro-1793288508.jpg",
-        "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/styling-black-cabinets-for-a-sophisticated-kitchen-1793288509.jpg"
+        "https://www.hunker.com/img/gallery/erin-napier-bold-paint-kitchen-cabinets-black/l-intro-1793288508.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -341,19 +405,6 @@
       "published": "2026-10-31T10:00:00+00:00"
     },
     {
-      "id": "4ede32724cc08574",
-      "title": "Not Plywood: The More Affordable Material For A Custom Backyard Shed",
-      "summary": "Building a shed on a budget? This material offers similar structural benefits to plywood and can handle floors, walls, and roofing - yet it costs way less.",
-      "url": "https://www.hunker.com/2303218/not-plywood-affordable-material-custom-backyard-shed/",
-      "image": "https://www.hunker.com/img/gallery/not-plywood-the-more-affordable-material-for-a-custom-backyard-shed/l-intro-1793435230.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-plywood-the-more-affordable-material-for-a-custom-backyard-shed/l-intro-1793435230.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-10-31T10:00:00+00:00"
-    },
-    {
       "id": "d143be12daf03955",
       "title": "A better gaming experience starts with your desk: 7 creative designs that make a difference",
       "summary": "A gaming desk doesn’t have to turn your room into a cave or a billboard. The best setups look like someone thought about the whole space, not just the screens and the RGB. These 7 ideas show what that looks like when it’s done right. 7 Gaming Desk Design Ideas for Players Who Care About […] The post A better gaming experience starts with your desk: 7 creative designs that make a difference appeared first on Trendir .",
@@ -396,9 +447,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/this-printer-shape/muddycap_receipts_chair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot/Camp-Torch-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/07/modular-couch-brings-comfort-calm-to-waiting-spaces/1.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/04/bello-bench/bello_bench_yanko_design_08.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/10/11/sync.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/06/this-adaptable-good-looking-office-chair-is-made-from-recycled-fishing-nets-salvaged-from-the-ocean/Fishing-Net_chair_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/02/corsair-platform4-height-adjustable-desk-with-tons-of-customizable-options-lets-you-setup-your-workstation-the-way-you-desire/Corsair-platform-4-desk-7.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/06/28/sitchit_05.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -719,8 +770,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/54f42e77-c308-4fea-b865-243b8e9f1633.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/60bc6efe-e53a-4cc9-b94a-de0e906dbc13.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/9f2a380d-bf93-4e37-9f51-e39cb0fe5347.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/b1880a93-2264-44d5-a96e-b88f0fbc4e9f.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/4498b913-a71a-4328-baa5-b8c00607ab79.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/7a40329c-8554-4f61-98e1-704fca64b034.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/cd13b760-d475-4adf-bca6-131e554c2416.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/01f934a5-67cb-4a7e-9c84-ef2cee44aa8d.jpg"
       ],
       "source": "Elle Decor",
@@ -801,9 +852,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/nike-acg-x-helinoxs-1-2-pound-chair-refuses-to-blend-in/helinox-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/no-wood-no-ash-no-smoke-this-modular-propane-torch-turns-any-outdoor-space-into-a-gathering-spot/Camp-Torch-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/02/huawei-maextro-s800-where-technology-meets-art-in-automotive-design/Huawei-Maextro-S800-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/08/auto-draft/beats_minipods_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2017/03/evno/evno_03.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/11/09/flexita.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/03/11/fxstool01.jpg",
+        "https://www.yankodesign.com/images/design_news/2018/02/a-rant-on-wireless-vacuums/crane_cordless_vacuum_layout.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -856,10 +907,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/10/IMG_2519-768x525.jpeg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/IMG_2519-768x525.jpeg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/IMG_1359.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/Magellano-27M-Flybridge-4.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/ph-jacqueline-fuijkschot_11.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/Magellano-27M-Flybridge-4.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/IMG_2517.jpeg"
       ],
       "source": "Interni magazine",
@@ -979,7 +1030,7 @@
         "https://www.internimagazine.it/content/uploads/2026/10/1200x820_Ritratti-Ideagroup_2.png",
         "https://www.internimagazine.it/content/uploads/2026/10/oZkie44b-1200x820_Ritratti-Ideagroup_3.png",
         "https://www.internimagazine.it/content/uploads/2026/10/ID_TotalBath_tot_notte_full.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/Galleria-Umberto-Benappi_phcr-chiara-ferrando-5.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/10/1_Accademia-Cappiello-sede-Firenze.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1147,7 +1198,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/13.-CLB-Boomerang-0101-e1793125420381.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-28T14:00:27+00:00"
     },
@@ -1249,9 +1300,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/I-BALOCCHI-2026-01.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/I-BALOCCHI_50th_Anniversary_Fantini_03.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/Luceplan-Shaping-Light_monograph_ed.Rizzoli-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Gonzato-Group_Grande-Moschea-di-Touba_Referenza-Senegal_04.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/ape_MiglioreServetto_Portolani_courtesy-of-MiglioreServetto_07.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/Luceplan-Shaping-Light_monograph_ed.Rizzoli-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/JGg99hut-ape_Gilda-Bojardi-con-Riccardo-FOTO-Brain-Attack.jpg"
       ],
       "source": "Interni magazine",
@@ -1381,7 +1432,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/victory-lap-residence-the-up-studio-3.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-27T17:15:18+00:00"
     },
@@ -2441,7 +2492,7 @@
       "images": [
         "https://design-milk.com/images/2026/09/9781969303043_820EJ_Photo_01-e1791931763930.jpg"
       ],
-      "source": "Design Milk Art",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-13T23:11:02+00:00"
     },
