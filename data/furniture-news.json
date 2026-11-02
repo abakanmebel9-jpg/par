@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-11-02T15:37:36.559160+00:00",
-  "generated_at_human": "2026-11-02 15:37 UTC",
-  "total_items": 256,
+  "generated_at": "2026-11-02T23:26:31.208292+00:00",
+  "generated_at_human": "2026-11-02 23:26 UTC",
+  "total_items": 252,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -14,6 +14,7 @@
     "Design Boom architecture",
     "Design Milk",
     "Design Milk Architecture",
+    "Design Milk Art",
     "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
@@ -60,9 +61,73 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 54,
+  "sources_count": 55,
   "multi_photo_items": 59,
   "items": [
+    {
+      "id": "1626a7dbd660155d",
+      "title": "45 Small Bathroom Ideas With Grand Style",
+      "summary": "From statement sinks to scenic wallpapers, these elegantly appointed bathrooms prove beautiful retreats can come in all sizes.",
+      "url": "https://www.veranda.com/decorating-ideas/g74263903/small-stylish-bathroom-ideas/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/mark-sikes-karen-kane-powder-room-jpg-1603670323.jpg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/mark-sikes-karen-kane-powder-room-jpg-1603670323.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/amaro-sanchez-de-moya-seville-apartment-primary-bath-67f038987d2bc.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/d1bea2ee-3afc-4a26-a4a2-1735e29646ed.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/small-bathroom-ideas-david-jimenez-1674161763.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/small-bathroom-ideas-fran-keenan-1674161912.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/small-bathroom-ideas-amanda-lindroth-1674161651.jpg"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-11-02T18:10:00+00:00"
+    },
+    {
+      "id": "ca847d0565e987cd",
+      "title": "Not all gold furniture looks the same: 6 chair designs that explore different shades, shapes, and finishes",
+      "summary": "Gold furniture can go two ways: it either dates a room or dresses it up, and the chair you pick usually decides which. These 6 gold chair designs show what the newer, less fussy versions actually look like. 6 Gold Chair Designs for Dining Rooms, Vanities, and Statement Corners Gold furniture tends to get written […] The post Not all gold furniture looks the same: 6 chair designs that explore different shades, shapes, and finishes appeared first on Trendir .",
+      "url": "https://www.trendir.com/gold-chair-designs-that-still-feel-current/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Gold-Chair-Designs.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/Gold-Chair-Designs.png",
+        "https://cdn.trendir.com/wp-content/uploads/2016/09/White-fireplace-decorated-with-pumpkins.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/09/Black-marble-kitchen-island-design.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/01/White-plaster-house-architecture-looks-spotless-next-to-discolored-rock.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/01/Floral-Meets-Water.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/07/low-mod-loft-king-contemporary.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-11-02T17:00:00+00:00"
+    },
+    {
+      "id": "6f7e612375789b0b",
+      "title": "Serras Sevilla is a new design hotel in a 1915 architectural gem",
+      "summary": "Wallpaper* checks in at Serras Sevilla. The meticulously restored 1915 building by Aníbal González pairs historic Sevillian architecture with contemporary interiors, cathedral views and a rooftop plunge pool",
+      "url": "https://www.wallpaper.com/travel/hotels/serras-seville-review",
+      "image": "https://cdn.mos.cms.futurecdn.net/9fWkN4KVJpT4Z3QvJSmr7D.jpg",
+      "images": [
+        "https://cdn.mos.cms.futurecdn.net/9fWkN4KVJpT4Z3QvJSmr7D.jpg",
+        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
+        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+      ],
+      "source": "Wallpaper",
+      "source_url": "https://www.wallpaper.com",
+      "published": "2026-11-02T17:00:00+00:00"
+    },
+    {
+      "id": "cc632d22dd0e3b07",
+      "title": "Assouline turns classic board games into luxury interior objects with The Game Room Collection",
+      "summary": "Assouline turns classic board games into luxury interior objects with The Game Room Collection Best known for its luxury coffee table books, Assouline is extending its design-led approach to everyday objects with the launch of The Library Collection: Game...",
+      "url": "https://www.yankodesign.com/2026/11/02/assouline-turns-classic-board-games-into-luxury-interior-objects-with-the-game-room-collection/?utm_source=rss&utm_medium=rss&utm_campaign=assouline-turns-classic-board-games-into-luxury-interior-objects-with-the-game-room-collection",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/assouline-turns-classic-board-games-into-luxury-interior-objects-with-the-game-room-collection/Assouline-Game-Room-Table-Top-1.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/11/assouline-turns-classic-board-games-into-luxury-interior-objects-with-the-game-room-collection/Assouline-Game-Room-Table-Top-1.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-11-02T16:20:06+00:00"
+    },
     {
       "id": "6b59b18ebce6e02e",
       "title": "Infinix Debuts First Global Flagship Store in Bali, Blending Tech, Coffee, and Creativity",
@@ -348,6 +413,24 @@
       "published": "2026-11-02T08:52:58+00:00"
     },
     {
+      "id": "9dc5b4cbbd19d01f",
+      "title": "Goodbye to the sofa bed: interior designers are turning to a smarter way to sleep guests",
+      "summary": "Holiday guests don't have to mean a fold-out mattress. The two options designers favor, what they cost, and the catch with each. The post Goodbye to the sofa bed: interior designers are turning to a smarter way to sleep guests appeared first on Trendir .",
+      "url": "https://www.trendir.com/goodbye-to-the-sofa-bed-ccmag44-g1b/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-1299648930.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-1299648930.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/01/Miuccia-kitchen-furnishings-by-TM-Italia-Cucine.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/weekend-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/09/Panton-Chair-Classic.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2016/08/Barn-doors-used-to-divide-large-spaces.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2017/07/low-mod-loft-king-contemporary.jpg"
+      ],
+      "source": "Trendir furniture",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-11-02T08:01:00+00:00"
+    },
+    {
       "id": "7b32ad9eacefbe6d",
       "title": "She Built a New White Oak Base for This Old Buffet Because Paint Alone Couldn’t Change Its Heavy Look",
       "summary": "Old brown buffet had four raised-panel doors, ornate brass hardware, and a thick wooden base with a curved front. Repainting could update the color, but the solid bottom would leave its bulky shape unchanged. Instagram creator @wild_sparrow_designs from Glen Head, New York, took the makeover further. She painted the cabinet Fusion Mineral Paint Tapestry, replaced... The post She Built a New White Oak Base for This Old Buffet Because Paint Alone Couldn’t Change Its Heavy Look appeared first on Homedit .",
@@ -359,6 +442,24 @@
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-11-02T07:54:49+00:00"
+    },
+    {
+      "id": "6886e08ccd25dbf3",
+      "title": "Goodbye to white baseboards: in 2026, chic interiors are making them disappear with a trick that makes rooms look bigger",
+      "summary": "The crisp white line along the floor is optional. Why designers paint baseboards the wall color, and when white trim still makes sense. The post Goodbye to white baseboards: in 2026, chic interiors are making them disappear with a trick that makes rooms look bigger appeared first on Trendir .",
+      "url": "https://www.trendir.com/goodbye-to-white-baseboards-ccmag44-g1b/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-2181819567.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-2181819567.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-1299648930.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/weekend-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/pink-scalloped-tile-and-cane-vanity.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/iStock-1325244807.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-1785788500.jpg"
+      ],
+      "source": "Trendir interiors",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-11-02T07:31:00+00:00"
     },
     {
       "id": "117670e609530ad3",
@@ -380,12 +481,7 @@
       "url": "https://www.trendir.com/goodbye-to-the-plastic-shower-curtain-12-bathrooms-that-use-glass-or-linen-instead-l8p6/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/tacojim.jpg",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/tacojim.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/05/large-coffee-tables.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/weekend-house-1.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/2015/12/20/7-time-kitchen-snaidero-timeless-teak.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/trends/2015/01/11/unusual-home-design-abstract-tile-design.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/06/pink-kids-room.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/tacojim.jpg"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -431,9 +527,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/10/2_Riflessi_Riserva-Rooftop-Napoli-322-350x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/3_Riflessi_Riserva-Rooftop-Napoli-169.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/ape_Monitillo-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/ape_1_midj-VI-novita-07.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/ape_1_HASHI-DORIAN.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/ape_Monitillo-1.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/ape_1_Riflessi_Riserva-Rooftop-Napoli-254.jpg"
       ],
       "source": "Interni magazine",
@@ -452,7 +548,7 @@
         "https://www.internimagazine.it/content/uploads/2026/10/4_Zalf-NESTHOME.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/04_Zalf-NESTHOME.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/5_Zalf-NESTHOME.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/ape_Monitillo-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/10/ape_1_midj-VI-novita-07.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -568,8 +664,8 @@
       "image": "https://sunset.com/wp-content/uploads/2026/10/travel-deception-pass-washington-10132026.jpg?w=1200&h=600&crop=1",
       "images": [
         "https://sunset.com/wp-content/uploads/2026/10/travel-deception-pass-washington-10132026.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/wasatch-mountains-park-city-pc-Adventure_Photo.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/10/pantry-goods-pc-cemagraphics-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/10/living-room-sf-edwardian-tim-tattersall-pc-jessica-brydson.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/10/travel-half-moon-bay-manhattan-beach-10292026.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/coastal-gems-captain-whidbey-sun-0920.jpg?w=1024",
         "https://sunset.com/wp-content/uploads/2026/09/filson-whidbey-island-tobys-tavern-fish-and-chips-mussels-sun-0200-0926.jpg?w=791",
         "https://sunset.com/wp-content/uploads/2026/09/filson-simmons-captain-whidbey-bar-whidbey-island-sun-8964-0926.jpg?w=768"
@@ -579,56 +675,17 @@
       "published": "2026-11-01T21:40:14+00:00"
     },
     {
-      "id": "f5c54b58b8c5e515",
-      "title": "She Turned Her Stainless Steel Fridge Into a Vintage-Looking Appliance, but Didn’t Fix the Broken Water Dispenser",
-      "summary": "Stainless steel refrigerators can look out of place in kitchens filled with traditional cabinets, floral wallpaper, and vintage decorations. Replacing one with a retro-style model can cost thousands, even when the existing refrigerator still works. TikTok creator Lavender Estate had a large stainless steel French-door refrigerator beneath cream cabinets with pink floral knobs. Rather than... The post She Turned Her Stainless Steel Fridge Into a Vintage-Looking Appliance, but Didn’t Fix the Broken Water Dispenser appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-turned-her-stainless-steel-fridge-into-a-vintage-looking-appliance-but-didnt-fix-the-broken-water-dispenser/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/She-Turned-Her-Stainless-Steel-Fridge-Into-a-Vintage-Looking-Appliance-but-Didnt-Fix-the-Broken-Water-Dispenser.jpg",
+      "id": "08baebe1f0103df9",
+      "title": "Online Extras December 2026 #292",
+      "summary": "Here are the online extras for the December 2026 issue of Popular Woodworking Magazine. Interested in having the magazine delivered directly to your mailbox (physical or email) six times a... Source",
+      "url": "https://www.popularwoodworking.com/online-extras/online-extras-december-2026-292/",
+      "image": "https://media.popularwoodworking.com/app/uploads/2026/11/02105610/c1_2604_cover_option4-1.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/She-Turned-Her-Stainless-Steel-Fridge-Into-a-Vintage-Looking-Appliance-but-Didnt-Fix-the-Broken-Water-Dispenser.jpg"
+        "https://media.popularwoodworking.com/app/uploads/2026/11/02105610/c1_2604_cover_option4-1.jpg"
       ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-11-01T18:30:16+00:00"
-    },
-    {
-      "id": "d35d7e7a51c0a7f9",
-      "title": "Before you knock down a kitchen wall: 6 galley designs that offer a different way to use your space",
-      "summary": "A galley kitchen gets written off a lot more than it should. The narrow shape works harder than most layouts if you give it the right finishes and a bit of thought about what goes where. These 6 galley kitchen ideas show you what that looks like in actual homes, not showrooms. 6 Galley Kitchen […] The post Before you knock down a kitchen wall: 6 galley designs that offer a different way to use your space appeared first on Trendir .",
-      "url": "https://www.trendir.com/galley-kitchen-ideas-for-the-long-narrow-room-youve-been-avoiding/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Galley-Kitchen-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Galley-Kitchen-Ideas.png"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-11-01T17:00:00+00:00"
-    },
-    {
-      "id": "eb4f39d6c0cbe81b",
-      "title": "The iPhone Air 2 might come with a Pixel-shaped camera bump and dual lenses",
-      "summary": "The iPhone Air 2 might come with a Pixel-shaped camera bump and dual lenses Apple’s thinnest iPhone is currently a foldable. The iPhone Duo measures 0.20 inches (5.2mm) when unfolded, taking the title from the 5.6mm iPhone Air after...",
-      "url": "https://www.yankodesign.com/2026/11/01/the-iphone-air-2-might-come-with-a-pixel-shaped-camera-bump-and-dual-lenses/?utm_source=rss&utm_medium=rss&utm_campaign=the-iphone-air-2-might-come-with-a-pixel-shaped-camera-bump-and-dual-lenses",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/656997/iphone_air_2_rumor_1.jpeg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/656997/iphone_air_2_rumor_1.jpeg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-11-01T16:20:12+00:00"
-    },
-    {
-      "id": "7d9ae0f8d73d6751",
-      "title": "Trent Reznor’s custom synth has an Atari 2600 built into it",
-      "summary": "Trent Reznor’s custom synth has an Atari 2600 built into it Trent Reznor has a reputation for smashing keyboards on stage. This one, he’ll probably keep. Swedish woodworker Love Hultén built the Nine Inch Nails frontman...",
-      "url": "https://www.yankodesign.com/2026/11/01/trent-reznors-custom-synth-has-an-atari-2600-built-into-it/?utm_source=rss&utm_medium=rss&utm_campaign=trent-reznors-custom-synth-has-an-atari-2600-built-into-it",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/love_hulten_atari_synth_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/auto-draft/love_hulten_atari_synth_1.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-11-01T12:40:01+00:00"
+      "source": "Popular Woodworking",
+      "source_url": "https://www.popularwoodworking.com",
+      "published": "2026-11-01T16:18:34+00:00"
     },
     {
       "id": "2a30c74d734e9bd0",
@@ -637,12 +694,7 @@
       "url": "https://www.trendir.com/funky-retro-bedroom-ideas-for-people-tired-of-beige-everything/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Funky-Retro-Bedroom-Ideas.png",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Funky-Retro-Bedroom-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2025/11/Cozy-Curves-Candlelight.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2025/11/Under-the-Lights.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/moon-orange-fiberglass-chair-by-mike-to-1.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/07/Glass-tile-shower.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/ultra-modern/feminine-chairs-innocenza-polsit-1.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/Funky-Retro-Bedroom-Ideas.png"
       ],
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
@@ -665,19 +717,6 @@
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-11-01T10:00:00+00:00"
-    },
-    {
-      "id": "c9101551e583fd21",
-      "title": "5 Home Office Upgrades That Rethink How You Sit, Store, and Charge",
-      "summary": "5 Home Office Upgrades That Rethink How You Sit, Store, and Charge Spending most of the day at a desk makes you surprisingly familiar with its little annoyances. There’s the chair that never quite fits, the papers...",
-      "url": "https://www.yankodesign.com/2026/10/31/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/?utm_source=rss&utm_medium=rss&utm_campaign=5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-11-01T01:45:02+00:00"
     },
     {
       "id": "e35c26611016b582",
@@ -746,9 +785,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/highlow-chair-flips-its-backrest-into-a-leaning-support-for-standing-meetings/highlow-chair-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-leather-handbag-has-a-built-in-light-so-you-can-easily-find-your-keys-and-airpods/Ente_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/12/12/zen.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/01/a-wireless-charger-shaped-like-a-picnic-bag-that-also-cleans-your-phone/picnic-uv-charger-concept-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2016/06/kevlar_leather_layout2.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/05/top-10-stationery/top_10_stationery_designs_yanko_design_hero.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/06/auto-draft/12_lacoeurmoignon_mizuno_hometraining.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/10/2025s-top-5-best-vacation-home-ideas-from-off-grid-treehouses-to-mobile-retreats/Dream-Getaways_Vacations_10.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -828,26 +867,13 @@
         "https://www.yankodesign.com/images/design_news/2026/10/this-printer-shape/muddycap_receipts_chair_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-leather-handbag-has-a-built-in-light-so-you-can-easily-find-your-keys-and-airpods/Ente_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/08/28/orbit_stool_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/02/07/linna.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/10/orbital-is-an-expanding-dining-table-that-shows-off-its-beautiful-complexity/orbital-5.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/03/14/bdoja_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/wasted-001/wasted_001_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/09/this-chair-is-assembled-with-a-cargo-strap-no-hardware-screws-no-glue-no-packaging/eco-friendly_chair-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-30T22:30:38+00:00"
-    },
-    {
-      "id": "fe647e603073eac5",
-      "title": "A Colorful Cottage Redo Brought Warmth to This Kitchen's Original Cabinets",
-      "summary": "If you’re a first-time homeowner, it’s more than likely that the home you own doesn’t have everything on your dream list, and it’s also more than likely that you’ll have to tackle projects over time to make things exactly the way you want them (or close to that). READ MORE...",
-      "url": "https://www.apartmenttherapy.com/red-yellow-kitchen-makeover-ba-37697186?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-07/michelle-s-kitchen/michelle-s-kitchen-before-tag",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-07/michelle-s-kitchen/michelle-s-kitchen-before-tag"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-10-30T22:00:00+00:00"
     },
     {
       "id": "ceda6ffe9b0df64a",
@@ -896,8 +922,8 @@
       "image": "https://design-milk.com/images/2026/10/Bram-Vanderbeke-2025_IMG_1101_©AlexanderPopelier.jpg",
       "images": [
         "https://design-milk.com/images/2026/10/Bram-Vanderbeke-2025_IMG_1101_©AlexanderPopelier.jpg",
+        "https://design-milk.com/images/2026/10/Noguchi-Ceiling.jpg",
         "https://design-milk.com/images/2026/10/Roman-Columns-Ruins.jpg",
-        "https://design-milk.com/images/2026/10/MG_7951.jpg",
         "https://design-milk.com/images/2026/10/2026_08_24_LOREBRAM-27.jpg",
         "https://design-milk.com/images/2026/10/2026_08_24_LOREBRAM-11.jpg",
         "https://design-milk.com/images/2026/10/BRICK-CHAIR-Bram-Vanderbeke-2025_IMG_1231_©AlexanderPopelier.jpg"
@@ -939,9 +965,7 @@
       "url": "https://www.wallpaper.com/design-interiors/furniture/brunner-group-doshi-levien-session-collection-office-furniture",
       "image": "https://cdn.mos.cms.futurecdn.net/5VhRei5XAXKpiYiqXVgFPk.jpg",
       "images": [
-        "https://cdn.mos.cms.futurecdn.net/5VhRei5XAXKpiYiqXVgFPk.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
+        "https://cdn.mos.cms.futurecdn.net/5VhRei5XAXKpiYiqXVgFPk.jpg"
       ],
       "source": "Wallpaper",
       "source_url": "https://www.wallpaper.com",
@@ -959,7 +983,7 @@
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/copy-of-split-screen-feature-template-69250fb934b2e.png?w=2730&format=auto",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/10-29_12-41-16_9-syd_9-syd.ts_007057162-69250f1b381e9.jpg?w=2730",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/10-29_12-41-16_9-syd_9-syd.ts_007052164-69250f1baaf02.jpg?w=2730",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/11/piyama-pyjamas-6ae7dcb82c94f.png?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/12/best-walking-pads-australia-1-698d3a72ac158.png?w=2730&format=auto"
       ],
       "source": "Homes To Love AU",
       "source_url": "https://www.homestolove.com.au",
@@ -1094,9 +1118,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/nike-acg-x-helinoxs-1-2-pound-chair-refuses-to-blend-in/helinox-01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/this-leather-handbag-has-a-built-in-light-so-you-can-easily-find-your-keys-and-airpods/Ente_hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/duramobis-underwater-speaker-turns-your-pool-into-a-sound-system/pool-music-player.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/10/top-10-kitchen-appliances-to-revamp-rejuvenate-your-everyday-cooking-process/top_10_kitchen_appliances_top_chef_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/10/blend_of_carbon_fiber_and_fiberglass_for_the_perfect_short_tenkara_rod.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/02/FantomX_wallet_holds_everything_you_need_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/07/nws/nws_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/08/15/upstand_marker.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/03/this-flower-vase-is-also-a-fire-extinguisher/samsung_firevase_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1243,19 +1267,6 @@
       "published": "2026-10-29T03:56:53+00:00"
     },
     {
-      "id": "3e4148d13635c6b5",
-      "title": "Look closely: This table actually tells a story about geopolitics",
-      "summary": "Using intricate bands of sand and powdered glass, designer Fernando Mastrangelo creates furnishings that evoke the majesty of contested landscapes",
-      "url": "https://www.wallpaper.com/design-interiors/furniture/fernand-mastrangelo-territories-furniture",
-      "image": "https://cdn.mos.cms.futurecdn.net/hBe6PLh8ciFBTdtkfQ9Yhf.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/hBe6PLh8ciFBTdtkfQ9Yhf.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-10-28T17:30:00+00:00"
-    },
-    {
       "id": "c59148029bd381af",
       "title": "This Tiny Home Wraps Its Living Room in Glass and Keeps the Main Bedroom Downstairs",
       "summary": "This Tiny Home Wraps Its Living Room in Glass and Keeps the Main Bedroom Downstairs Tall, divided windows wrap around Leah’s living room, giving this small home the appearance of a glazed garden pavilion. Offered by Swedish builder Vagabond Haven,...",
@@ -1267,19 +1278,6 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-28T17:20:37+00:00"
-    },
-    {
-      "id": "048011fc60ebb0d0",
-      "title": "Working on the move? 10 gadgets to make mobile productivity go with a swing",
-      "summary": "From compact keyboards to AI assistants to ultra-slim gear, we've rounded up the latest in ultra-portable tech",
-      "url": "https://www.wallpaper.com/tech/new-remote-working-gadgets",
-      "image": "https://cdn.mos.cms.futurecdn.net/QKifcbo7Q6btsbsq9zSMMR.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/QKifcbo7Q6btsbsq9zSMMR.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-10-28T17:00:00+00:00"
     },
     {
       "id": "f77d2f4a64642629",
@@ -1306,19 +1304,6 @@
       "source": "Popular Woodworking",
       "source_url": "https://www.popularwoodworking.com",
       "published": "2026-10-28T15:04:00+00:00"
-    },
-    {
-      "id": "14012f46668fb8ca",
-      "title": "Lulu and Georgia Opens Its First Los Angeles Showroom",
-      "summary": "Designed with Kevin Klein, the West Hollywood space pairs European-inspired architectural details with contemporary furnishings",
-      "url": "https://design-milk.com/lulu-and-georgia-showroom-los-angeles/",
-      "image": "https://design-milk.com/images/2026/10/Lulu-and-Georgia_Dining_0379_Lifestyle-e1793125359146.jpg",
-      "images": [
-        "https://design-milk.com/images/2026/10/Lulu-and-Georgia_Dining_0379_Lifestyle-e1793125359146.jpg"
-      ],
-      "source": "Design Milk",
-      "source_url": "https://design-milk.com",
-      "published": "2026-10-28T15:00:02+00:00"
     },
     {
       "id": "8de8e3fa7506a7dd",
@@ -1416,12 +1401,7 @@
       "url": "https://www.trendir.com/electric-desk-design-ideas-styled-for-everyday-rooms/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Electric-Desk-Design-Ideas.png",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/10/Electric-Desk-Design-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/2025/12/Cozy-Loft-Energy-1.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/11/neutral-home-office-wood-desk.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/trends/futuristic-backyard-sheds-offices-studios-log-pile-workspace.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2017/02/Gold-Velvet-Large-Round-Sofa.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2016/07/Front-outdoor-area-with-a-fire-pit-and-a-hot-tub.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/10/Electric-Desk-Design-Ideas.png"
       ],
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
@@ -2046,12 +2026,7 @@
       "url": "https://www.veranda.com/shopping/g74093299/best-luxury-gifts-for-women/",
       "image": "https://hips.hearstapps.com/hmg-prod/images/1f1ba2d2-631f-42ba-8650-6431b2ae85f4.jpg",
       "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/1f1ba2d2-631f-42ba-8650-6431b2ae85f4.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/pictured-ina-garten-on-october-10-2018-news-photo-1661446108.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/ver092325-amazon-womens-gifts-2025-68d416cbdef63.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/sarah-bartholomew-nashville-home-study-67f0083cee7ae.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/ada149d2-8a52-4187-a1a5-e95bae272b62.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/93dca965-c13c-40b9-97f5-a55ddaeb5a1d.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/1f1ba2d2-631f-42ba-8650-6431b2ae85f4.jpg"
       ],
       "source": "Veranda",
       "source_url": "https://www.veranda.com",
@@ -2487,7 +2462,7 @@
       "images": [
         "https://design-milk.com/images/2026/09/9781969303043_820EJ_Photo_01-e1791931763930.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-10-13T23:11:02+00:00"
     },
@@ -2769,32 +2744,6 @@
       "source": "Gardenista",
       "source_url": "https://www.gardenista.com",
       "published": "2026-10-07T08:00:36+00:00"
-    },
-    {
-      "id": "6acfcaa6a714b883",
-      "title": "The Painted Lumber Ends You’ve Always Overlooked Have a Very Specific Purpose",
-      "summary": "Paint on lumber ends may help control drying or identify a mill's product. Here's what the color can mean before buying a board. The post The Painted Lumber Ends You’ve Always Overlooked Have a Very Specific Purpose appeared first on Family Handyman .",
-      "url": "https://www.familyhandyman.com/article/lumber-painted-colors-mean/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/10/Stacked-Colorful-Timber-Planks_GettyImages-2280347971.jpg?fit=680%2C995",
-      "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/10/Stacked-Colorful-Timber-Planks_GettyImages-2280347971.jpg?fit=680%2C995"
-      ],
-      "source": "Family Handyman",
-      "source_url": "https://www.familyhandyman.com",
-      "published": "2026-10-06T19:04:59+00:00"
-    },
-    {
-      "id": "b52255384fafeb08",
-      "title": "That Stamp on Lumber Tells You More Than the Price Tag",
-      "summary": "Stop picking your lumber based on how it looks. The post That Stamp on Lumber Tells You More Than the Price Tag appeared first on Family Handyman .",
-      "url": "https://www.familyhandyman.com/article/lumber-stamp/",
-      "image": "https://www.familyhandyman.com/wp-content/uploads/2026/09/1000013316-final-scaled-e1791214662100.jpg?fit=680%2C454",
-      "images": [
-        "https://www.familyhandyman.com/wp-content/uploads/2026/09/1000013316-final-scaled-e1791214662100.jpg?fit=680%2C454"
-      ],
-      "source": "Family Handyman",
-      "source_url": "https://www.familyhandyman.com",
-      "published": "2026-10-06T14:13:25+00:00"
     },
     {
       "id": "c694c4c7517fb54c",
