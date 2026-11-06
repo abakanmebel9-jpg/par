@@ -1,9 +1,9 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-11-05T21:56:05.656880+00:00",
-  "generated_at_human": "2026-11-05 21:56 UTC",
-  "total_items": 244,
+  "generated_at": "2026-11-06T02:16:59.151813+00:00",
+  "generated_at_human": "2026-11-06 02:16 UTC",
+  "total_items": 253,
   "sources_used": [
     "Apartment Therapy",
     "Azure magazine CA",
@@ -29,6 +29,7 @@
     "Family Handyman",
     "Garden & Home SA",
     "Gardenista",
+    "Home Adore",
     "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
@@ -61,9 +62,70 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 55,
+  "sources_count": 56,
+  "multi_photo_items": 58,
   "items": [
+    {
+      "id": "289febc6fbe9f264",
+      "title": "David Hicks worked his magic on this Melbourne penthouse",
+      "summary": "Mixing rich fabrics with statement furniture to achieve a refined, global sensibility The post David Hicks worked his magic on this Melbourne penthouse appeared first on Homes To Love .",
+      "url": "https://www.homestolove.com.au/home-tours/david-hicks-melbourne-penthouse/",
+      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/10/copy-of-site-feature-horizontal-1920-x-1080-2026-10-22t164245.752-6ad9a28e5eefb.png?format=auto&v=1793923106",
+      "images": [
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/10/copy-of-site-feature-horizontal-1920-x-1080-2026-10-22t164245.752-6ad9a28e5eefb.png?format=auto&v=1793923106",
+        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/be2611pe1_cover-marketing_v0.2-6ad5454e65618-scaled.jpg?format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/10/copy-of-site-feature-horizontal-1920-x-1080-2026-10-22t164245.752-6ad9a28e5eefb.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/11/copy-of-site-feature-horizontal-1920-x-1080-2026-11-06t102640.542-6aed1123ac396.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/11/copy-of-site-feature-horizontal-1920-x-1080-2026-11-05t135717.407-6aebf0a0ccfbb.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/myer-australian-house-and-garden-range-6a8fa71c254dd.jpg?w=2730&format=auto"
+      ],
+      "source": "Homes To Love AU",
+      "source_url": "https://www.homestolove.com.au",
+      "published": "2026-11-06T00:23:13+00:00"
+    },
+    {
+      "id": "30b822d4a0ad8f56",
+      "title": "Triangle-Shaped Metal Files: What Are They Good For?",
+      "summary": "Triangle-shaped metal files are used for a wide range of specialized tasks in woodworking, saw maintenance, and more. Learn how to use and care for this tool.",
+      "url": "https://www.hunker.com/2303936/triangle-shape-metal-files-what-are-they-for/",
+      "image": "https://www.hunker.com/img/gallery/triangle-shaped-metal-files-what-are-they-good-for/l-intro-1793633977.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/triangle-shaped-metal-files-what-are-they-good-for/l-intro-1793633977.jpg",
+        "https://www.hunker.com/img/gallery/triangle-shaped-metal-files-what-are-they-good-for/intro-1793633977.jpg",
+        "https://www.hunker.com/img/gallery/triangle-shaped-metal-files-what-are-they-good-for/getting-the-most-from-a-file-1793633979.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-11-05T23:30:00+00:00"
+    },
+    {
+      "id": "c47b94336dbb7ef0",
+      "title": "Woman Turns Empty Cabinet Door Space Into Clever Storage With An Easy Dollar Tree DIY",
+      "summary": "Your cabinet door is simply the perfect place to slot in a DIY storage solution. This one is made using items from Dollar Tree's household and hardware aisles.",
+      "url": "https://www.hunker.com/2304008/dollar-tree-diy-cabinet-door-storage/",
+      "image": "https://www.hunker.com/img/gallery/woman-turns-empty-cabinet-door-space-into-clever-storage-with-an-easy-dollar-tree-diy/l-intro-1793634334.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/woman-turns-empty-cabinet-door-space-into-clever-storage-with-an-easy-dollar-tree-diy/l-intro-1793634334.jpg",
+        "https://www.hunker.com/img/gallery/woman-turns-empty-cabinet-door-space-into-clever-storage-with-an-easy-dollar-tree-diy/intro-1793634334.jpg",
+        "https://www.hunker.com/img/gallery/woman-turns-empty-cabinet-door-space-into-clever-storage-with-an-easy-dollar-tree-diy/an-over-the-door-storage-bin-to-help-keep-a-cabinet-organized-1793634336.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-11-05T23:00:00+00:00"
+    },
+    {
+      "id": "7b6d1c79746d33d3",
+      "title": "An All-Blue Bathroom Feels Like a \"Boutique Spa\" After an Old-World Redo",
+      "summary": "While Bobby Ruocco’s apartment was built in the 1930s, the bathroom had been updated in the ’90s by the previous tenant. And the renovation “just hadn’t really stood the test of time very well,” he says. After living with the all-blue bathroom for roughly four years, Bobby was finally tired of the worn features and dirty tiles that just wouldn’t get clean. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/dramatic-full-bathroom-renovation-ba-37694952?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-11/bobby-r-bathroom/bobby-r-bathroom-before-tag",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2026/2026-11/bobby-r-bathroom/bobby-r-bathroom-before-tag"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-11-05T23:00:00+00:00"
+    },
     {
       "id": "9ce94c3c6a84b909",
       "title": "Room With a View: This Exclusive London Club Gives You a Front-Row Seat to Mayfair’s Art Scene",
@@ -83,15 +145,29 @@
       "published": "2026-11-05T21:22:39+00:00"
     },
     {
+      "id": "c40bd5798934955b",
+      "title": "Turn Scrap Wood Into The Cutest Modern DIY Desk And Shelving Nook",
+      "summary": "Rustic, unique, and chic, all you need to create a DIY ladder desk or shelving nook is a couple of pieces of scrap wood. Here's how to start building.",
+      "url": "https://www.hunker.com/2298865/turn-old-wood-cutest-modern-diy-desk-shelving-nook/",
+      "image": "https://www.hunker.com/img/gallery/turn-scrap-wood-into-the-cutest-modern-diy-desk-and-shelving-nook/l-intro-1793129061.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/turn-scrap-wood-into-the-cutest-modern-diy-desk-and-shelving-nook/l-intro-1793129061.jpg",
+        "https://www.hunker.com/img/gallery/turn-scrap-wood-into-the-cutest-modern-diy-desk-and-shelving-nook/intro-1793129061.jpg",
+        "https://www.hunker.com/img/gallery/turn-scrap-wood-into-the-cutest-modern-diy-desk-and-shelving-nook/assembling-your-ladder-desk-1793129064.jpg",
+        "https://www.hunker.com/img/gallery/turn-scrap-wood-into-the-cutest-modern-diy-desk-and-shelving-nook/customizing-your-ladder-desk-and-shelves-1793129065.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-11-05T21:00:00+00:00"
+    },
+    {
       "id": "466c442291c254ec",
       "title": "Cover Plastic Plant Pots With Clothespins To Create Countertop Storage With Vintage Charm",
       "summary": "Clothespins are the star of this DIY, but not any kind will do. By sourcing a unique style of clothespin, you can give your plant pots a quaint, old-timey look.",
       "url": "https://www.hunker.com/2297962/cover-plant-pots-with-clothespins-diy-vintage-countertop-storage/",
       "image": "https://www.hunker.com/img/gallery/cover-plastic-plant-pots-with-clothespins-to-create-countertop-storage-with-vintage-charm/l-intro-1793096510.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/cover-plastic-plant-pots-with-clothespins-to-create-countertop-storage-with-vintage-charm/l-intro-1793096510.jpg",
-        "https://www.hunker.com/img/gallery/cover-plastic-plant-pots-with-clothespins-to-create-countertop-storage-with-vintage-charm/intro-1793096510.jpg",
-        "https://www.hunker.com/img/gallery/cover-plastic-plant-pots-with-clothespins-to-create-countertop-storage-with-vintage-charm/wrap-a-plastic-pot-in-old-fashioned-clothespins-1793096512.jpg"
+        "https://www.hunker.com/img/gallery/cover-plastic-plant-pots-with-clothespins-to-create-countertop-storage-with-vintage-charm/l-intro-1793096510.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -140,10 +216,7 @@
       "url": "https://www.hunker.com/2306479/dining-table-styles-50s-revival/",
       "image": "https://www.hunker.com/img/gallery/two-dining-table-styles-from-the-50s-that-deserve-their-revival/l-intro-1793802691.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/two-dining-table-styles-from-the-50s-that-deserve-their-revival/l-intro-1793802691.jpg",
-        "https://www.hunker.com/img/gallery/two-dining-table-styles-from-the-50s-that-deserve-their-revival/intro-1793802691.jpg",
-        "https://www.hunker.com/img/gallery/two-dining-table-styles-from-the-50s-that-deserve-their-revival/mid-toned-wood-dining-tables-1793802694.jpg",
-        "https://www.hunker.com/img/gallery/two-dining-table-styles-from-the-50s-that-deserve-their-revival/round-dining-tables-1793802695.jpg"
+        "https://www.hunker.com/img/gallery/two-dining-table-styles-from-the-50s-that-deserve-their-revival/l-intro-1793802691.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -205,9 +278,7 @@
       "url": "https://www.hunker.com/2303599/kitchen-decor-boomers-loved-vintage-touch-space/",
       "image": "https://www.hunker.com/img/gallery/the-kitchen-decor-boomers-loved-that-can-add-a-vintage-touch-to-your-space/l-intro-1793618074.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/the-kitchen-decor-boomers-loved-that-can-add-a-vintage-touch-to-your-space/l-intro-1793618074.jpg",
-        "https://www.hunker.com/img/gallery/the-kitchen-decor-boomers-loved-that-can-add-a-vintage-touch-to-your-space/intro-1793618074.jpg",
-        "https://www.hunker.com/img/gallery/the-kitchen-decor-boomers-loved-that-can-add-a-vintage-touch-to-your-space/capturing-the-heart-of-boomer-decor-with-recipe-boxes-and-decorative-plates-1793618076.jpg"
+        "https://www.hunker.com/img/gallery/the-kitchen-decor-boomers-loved-that-can-add-a-vintage-touch-to-your-space/l-intro-1793618074.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -604,19 +675,6 @@
       "published": "2026-11-05T01:30:24+00:00"
     },
     {
-      "id": "240122d841f7bf06",
-      "title": "Forget Boring Shower Curtains: There's A Mid-Century Alternative That's More Exciting",
-      "summary": "Basic shower curtains can look plain and utilitarian. However, there's a bold and bright option that fits right into bathrooms with Mid-Century Modern vibes.",
-      "url": "https://www.hunker.com/2292136/forget-boring-shower-curtains-mid-century-alternative/",
-      "image": "https://www.hunker.com/img/gallery/forget-boring-shower-curtains-theres-a-mid-century-alternative-thats-more-exciting/l-intro-1792520972.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/forget-boring-shower-curtains-theres-a-mid-century-alternative-thats-more-exciting/l-intro-1792520972.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-11-05T01:00:00+00:00"
-    },
-    {
       "id": "58a72fc224325a37",
       "title": "On the Couch with Christopher John Rogers",
       "summary": "In honor of his new collaboration with The Rug Company, the fashion designer shares his inspirations and style icons.",
@@ -648,17 +706,22 @@
       "published": "2026-11-04T23:00:00+00:00"
     },
     {
-      "id": "895b6e9acbd7e3b9",
-      "title": "iPhone Duo 2 images leak online, hinting at a 3-camera setup and even thinner body",
-      "summary": "iPhone Duo 2 images leak online, hinting at a 3-camera setup and even thinner body Apple’s first foldable has been on shelves for about two weeks, and the internet has already moved on to the sequel. A purported prototype of...",
-      "url": "https://www.yankodesign.com/2026/11/04/iphone-duo-2-images-leak-online-hinting-at-a-3-camera-setup-and-even-thinner-body/?utm_source=rss&utm_medium=rss&utm_campaign=iphone-duo-2-images-leak-online-hinting-at-a-3-camera-setup-and-even-thinner-body",
-      "image": "https://www.yankodesign.com/images/design_news/2026/11/iphone-duo-2-images-leak-online-hinting-at-a-3-camera-setup-and-even-thinner-body/iphone_duo_2_rumors_1.jpeg",
+      "id": "3823022e0acc03b1",
+      "title": "House in Comporta: A Private World on the Alentejo Coast",
+      "summary": "House in Comporta turns a house in Comporta, Portugal, into a sheltered interior landscape. Designed by Aurora Arquitectos, the 2026 residence gathers rotated volumes beneath an autonomous, tray-like roof, opening them toward a pool terrace and carefully framed distances. Pale surfaces, dark cabinetry, broad glazing, and soft curtains reinforce its quiet character, while a divided […] The post House in Comporta: A Private World on the Alentejo Coast first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/11/04/house-in-comporta-a-private-world-on-the-alentejo-coast/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/11/001-house-in-comporta-a-private-world-on-the-alentejo-coast.jpg",
       "images": [
-        "https://www.yankodesign.com/images/design_news/2026/11/iphone-duo-2-images-leak-online-hinting-at-a-3-camera-setup-and-even-thinner-body/iphone_duo_2_rumors_1.jpeg"
+        "https://homeadore.com/wp-content/uploads/2026/11/001-house-in-comporta-a-private-world-on-the-alentejo-coast.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/011-house-in-comporta-a-private-world-on-the-alentejo-coast.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/006-house-in-comporta-a-private-world-on-the-alentejo-coast.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/014-house-in-comporta-a-private-world-on-the-alentejo-coast.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/015-house-in-comporta-a-private-world-on-the-alentejo-coast.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/001-house-in-comporta-a-private-world-on-the-alentejo-coast.jpg"
       ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-11-04T21:30:50+00:00"
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-11-04T19:54:07+00:00"
     },
     {
       "id": "cb5801934f2af6ec",
@@ -685,6 +748,24 @@
       "source": "Yellowtrace",
       "source_url": "https://www.yellowtrace.com.au",
       "published": "2026-11-04T18:30:58+00:00"
+    },
+    {
+      "id": "6cbe0096f7cf0b82",
+      "title": "Hatka: A Bright Kyiv Apartment with Room for Memory",
+      "summary": "Hatka is a bright Kyiv apartment by Balbek Bureau, shaped around the life of a creative couple and their pets. The 2026 interior uses clear circulation, flexible rooms, and a restrained backdrop to give art, vintage furniture, film cameras, and shared mementos a more prominent place throughout shared and private rooms alike. The result balances […] The post Hatka: A Bright Kyiv Apartment with Room for Memory first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/11/04/hatka-a-bright-kyiv-apartment-with-room-for-memory/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/11/001-hatka-a-bright-kyiv-apartment-with-room-for-memory.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/11/001-hatka-a-bright-kyiv-apartment-with-room-for-memory.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/003-hatka-a-bright-kyiv-apartment-with-room-for-memory.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/011-hatka-a-bright-kyiv-apartment-with-room-for-memory.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/012-hatka-a-bright-kyiv-apartment-with-room-for-memory.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/001-hatka-a-bright-kyiv-apartment-with-room-for-memory.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/004-hatka-a-bright-kyiv-apartment-with-room-for-memory.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-11-04T17:54:07+00:00"
     },
     {
       "id": "a0ed4873aa2fe882",
@@ -810,9 +891,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/pillowy-steel-furniture-without-a-stitch-of-upholstery/jawf-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/05/top-10-coffee-tables-hub/top_10_coffee_tables_inspiration_hub_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/12/this-sculptural-bench-captures-sardinias-sea-in-recycled-resin/cresta-01.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/05/stool/01-rattan_stool_yankodesign.jpg"
+        "https://www.yankodesign.com/images/design_news/2021/04/311502/03_IKEAStudio_IKEAAppleSPACE10_ARApp.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/01/28/samurais_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/05/22/quatro_01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -830,6 +911,37 @@
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-11-04T11:00:00+00:00"
+    },
+    {
+      "id": "8f03f206e402c0e3",
+      "title": "An Architect’s Penthouse Opens to the Athenian Skyline",
+      "summary": "An Architect’s Penthouse is TERON Studio‘s 2026 renovation of a 77 m² apartment atop a 1975 building in Athens, Greece. Facing Pedion tou Areos, the dual-aspect home uses new openings, continuous flooring, and integrated joinery to pull daylight across a composed interior. Deep green cabinetry connects the restrained palette to the park, while a broad […] The post An Architect’s Penthouse Opens to the Athenian Skyline first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/11/04/an-architects-penthouse-opens-to-the-athenian-skyline/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/11/001-an-architects-penthouse-opens-to-the-athenian-skyline.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/11/001-an-architects-penthouse-opens-to-the-athenian-skyline.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/002-an-architects-penthouse-opens-to-the-athenian-skyline.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/005-an-architects-penthouse-opens-to-the-athenian-skyline.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/007-an-architects-penthouse-opens-to-the-athenian-skyline.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/008-an-architects-penthouse-opens-to-the-athenian-skyline.jpg",
+        "https://i.homeadore.com/wp-content/uploads/2026/11/009-an-architects-penthouse-opens-to-the-athenian-skyline.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-11-04T09:53:24+00:00"
+    },
+    {
+      "id": "b66724e963ecc149",
+      "title": "Why High-End Residential Projects Are Turning to Made-to-Measure Furniture",
+      "summary": "The design brief for a primary suite or a dedicated dressing room rarely arrives with dimensions that align with standard furniture catalogs. Precise floor plans, asymmetric layouts, and spatially specific alcoves demand something that a catalog piece cannot reliably provide. This is where made-to-measure furniture becomes directly relevant: not as a luxury preference, but as […] The post Why High-End Residential Projects Are Turning to Made-to-Measure Furniture first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/11/04/why-high-end-residential-projects-are-turning-to-made-to-measure-furniture/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/11/why-high-end-residential-projects-are-turning-to-made-to-measure-furniture-4.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/11/why-high-end-residential-projects-are-turning-to-made-to-measure-furniture-4.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-11-04T09:16:13+00:00"
     },
     {
       "id": "4c060633fd138ac1",
@@ -896,19 +1008,6 @@
       "published": "2026-11-04T03:16:52+00:00"
     },
     {
-      "id": "28eb87f9528991c5",
-      "title": "live-build documentary captures 1:1 timber pavilions at studio in the woods workshop",
-      "summary": "marking the 20th anniversary of studio in the woods, the documentary crossing, lookout, horizon chronicles the design and construction of three full-scale timber installations built from site-felled timber at the AA’s hooke park campus. The post live-build documentary captures 1:1 timber pavilions at studio in the woods workshop appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/live-build-documentary-11-timber-pavilions-studio-woods-workshop/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/11/studio-woods-documentary-crossing-lookout-horizon-designboom-700-500x400-22b08q85r446.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/11/studio-woods-documentary-crossing-lookout-horizon-designboom-700-500x400-22b08q85r446.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-11-04T00:55:42+00:00"
-    },
-    {
       "id": "3a177c0ec48eceaa",
       "title": "A Bamboo Armchair Glows After Dark Without Electricity",
       "summary": "A Bamboo Armchair Glows After Dark Without Electricity Crocheted flowers usually belong on a blanket or a cardigan, not in a conversation about lighting. Peiyang (Camille) Li gives them another job with She...",
@@ -918,9 +1017,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/a-bamboo-armchair-glows-after-dark-without-electricity/she-blooms-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2009/12/22/puppo.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/chair-designs/top_10_chair_designs_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2010/03/08/move.jpg"
+        "https://www.yankodesign.com/images/design_news/2022/06/landr-tablet-promises-you-wont-slosh-your-coffee-when-you-cut-your-bread/landr-5.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/10/road-barriers-become-benches-without-losing-their-warning-stripes/stop-05.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/01/nardi/nardi_furniture_yanko_design_02.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1118,10 +1217,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/11/1200x820_Unione-Piacenza_WEB-768x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/11/1200x820_Unione-Piacenza_WEB-768x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_EQUIPEHOTEL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/DSC_5352_Web_Retina-copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_EQUIPEHOTEL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Galleria-Umberto-Benappi_phcr-chiara-ferrando-5.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
         "https://www.internimagazine.it/content/uploads/2026/11/Sala-Pianoforte.jpeg"
       ],
       "source": "Interni magazine",
@@ -1160,22 +1259,17 @@
       "published": "2026-11-03T03:04:28+00:00"
     },
     {
-      "id": "1dd4b073e377873c",
-      "title": "Moditerranean is the hybrid interiors style designer can’t get enough of",
-      "summary": "A contemporary interpretation of Mediterranean aesthetics The post Moditerranean is the hybrid interiors style designer can’t get enough of appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/decorating/trends/moditerranean-trend-belle-fanuli-interior-design-awards-2026/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/10/copy-of-site-feature-horizontal-1920-x-1080-2026-10-30t171927.296-6ae436f756ee3.png?format=auto&v=1793341175",
+      "id": "f66e0be874dc7f4c",
+      "title": "Staroměstská Apartment: Old and New in Playful Tension",
+      "summary": "Staroměstská Apartment in Prague, Czech Rep., is a total renovation by Facha Architekti that divides a complex interior into a generous apartment and a self-contained studio. Restored coffered doors, profiled frames, and window linings retain the interior’s older character, while bold freestanding furnishings establish new centers within the principal rooms. Across both units, color and […] The post Staroměstská Apartment: Old and New in Playful Tension first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/11/02/staromestska-apartment-old-and-new-in-playful-tension/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/11/001-staromestska-apartment-old-and-new-in-playful-tension.jpg",
       "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2026/10/copy-of-site-feature-horizontal-1920-x-1080-2026-10-30t171927.296-6ae436f756ee3.png?format=auto&v=1793341175",
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/02/be2611pe1_cover-marketing_v0.2-6ad5454e65618-scaled.jpg?format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/10/copy-of-site-feature-horizontal-1920-x-1080-2026-10-30t171927.296-6ae436f756ee3.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/06/myer-australian-house-and-garden-range-6a8fa71c254dd.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2025/11/copy-of-site-feature-horizontal-1920-x-1080-2026-11-05t164821.943-6aec18b2d3867.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/03/beige-kitchen-6aec0747abe10.png?w=2730&format=auto"
+        "https://homeadore.com/wp-content/uploads/2026/11/001-staromestska-apartment-old-and-new-in-playful-tension.jpg"
       ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-11-02T23:48:06+00:00"
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-11-02T22:37:00+00:00"
     },
     {
       "id": "02f600da38282b51",
@@ -1319,9 +1413,9 @@
         "https://www.internimagazine.it/content/uploads/2026/10/2_ABBINAMENTI-424x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/1_HASHI-DORIAN.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/UkbmnoK5-3_DORIAN.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/ape_1_midj-VI-novita-07.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/1_20260629_EMU_016_2169a.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/ape_Monitillo-1.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/10/ape_Monitillo-1.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/ape_1_midj-VI-novita-07.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1374,8 +1468,8 @@
       "image": "https://sunset.com/wp-content/uploads/2026/10/travel-deception-pass-washington-10132026.jpg?w=1200&h=600&crop=1",
       "images": [
         "https://sunset.com/wp-content/uploads/2026/10/travel-deception-pass-washington-10132026.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/10/living-area-anacortes-house-reanna-channer-pc-emily-keeney.jpg?w=1200&h=600&crop=1",
-        "https://sunset.com/wp-content/uploads/2026/11/cheese-board-pc-alvarez-getty.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/11/2026-sunset-product-awards-3.jpg?w=1200&h=600&crop=1",
+        "https://sunset.com/wp-content/uploads/2026/10/sweet-potato-pecan-pie.jpg?w=1200&h=600&crop=1",
         "https://sunset.com/wp-content/uploads/coastal-gems-captain-whidbey-sun-0920.jpg?w=1024",
         "https://sunset.com/wp-content/uploads/2026/09/filson-whidbey-island-tobys-tavern-fish-and-chips-mussels-sun-0200-0926.jpg?w=791",
         "https://sunset.com/wp-content/uploads/2026/09/filson-simmons-captain-whidbey-bar-whidbey-island-sun-8964-0926.jpg?w=768"
@@ -1383,6 +1477,19 @@
       "source": "Sunset",
       "source_url": "https://www.sunset.com",
       "published": "2026-11-01T21:40:14+00:00"
+    },
+    {
+      "id": "64345fbddacedb89",
+      "title": "Project Pop: A Horticultural Remnant Recast as a Home",
+      "summary": "Project Pop reworks a former horticultural farm in St-Malo, France, as a second home that retains the site’s most vulnerable structure. Designed in 2023 by Agence LBA, the house pairs a preserved 1922 concrete building for the main living spaces with a stone barn for four additional bedrooms, allowing the property to serve a couple […] The post Project Pop: A Horticultural Remnant Recast as a Home first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/11/01/project-pop-a-horticultural-remnant-recast-as-a-home/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/11/001-project-pop-a-horticultural-remnant-recast-as-a-home.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/11/001-project-pop-a-horticultural-remnant-recast-as-a-home.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-11-01T21:38:39+00:00"
     },
     {
       "id": "08baebe1f0103df9",
@@ -1433,9 +1540,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/highlow-chair-flips-its-backrest-into-a-leaning-support-for-standing-meetings/highlow-chair-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/06/15/fragile1.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/wilson-beneschs-130000-greenwich-turntable-arrives-at-high-end-vienna-this-june-for-audiophiles-seeking-sonic-perfection/Wilson-Benesch-Greenwich-turntable-4.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/06/Lumos_Ultra_bike_helmet_with_integrated_LED_lighting.jpg"
+        "https://www.yankodesign.com/images/design_news/2023/06/garmin-lumina-portable-light-for-campers-and-hikers-has-its-own-satellite-communication-module/Garmin-Lumina_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/05/04/trimove_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/05/lambertus-strap-will-turn-the-audemars-piguet-x-swatch-royal-pop-pocket-watch-into-a-wristwatch-for-95/Lambertus-case-strap-for-Audemars-Piguet-x-Swatch-Roayal-Pop-1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1499,6 +1606,32 @@
       "published": "2026-10-30T16:47:41+00:00"
     },
     {
+      "id": "4fd6c6498fd9bdfa",
+      "title": "Stockholm Bluff: A Dark House Oriented to Evening Light",
+      "summary": "Stockholm Bluff gives Strand Design’s house in Stockholm, United States, a measured presence on a wooded ridge above the Mississippi River. Dark cladding recedes among the trees, while wood-lined openings, tall corner glazing, and sheltered porches gather evening light. Inside, warm cabinetry, pale surfaces, and a slim black fireplace extend the exterior’s controlled contrast without […] The post Stockholm Bluff: A Dark House Oriented to Evening Light first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/10/30/stockholm-bluff-a-dark-house-oriented-to-evening-light/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/10/001-stockholm-bluff-a-dark-house-oriented-to-evening-light.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/10/001-stockholm-bluff-a-dark-house-oriented-to-evening-light.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-10-30T12:48:08+00:00"
+    },
+    {
+      "id": "c92c699743a15f04",
+      "title": "Peninsula Point: A Quiet House in the Lakeside Woods",
+      "summary": "Peninsula Point is a lakeside house by Strand Design in Shakopee, United States, set within birch and oak trees on a narrow, secluded site. Its weathered timber shell, low black-clad volume, and measured openings temper the building’s presence, while terraces and a screened porch draw attention through the house toward the water. Inside, white surfaces, […] The post Peninsula Point: A Quiet House in the Lakeside Woods first appeared on HomeAdore .",
+      "url": "https://homeadore.com/2026/10/30/peninsula-point-a-quiet-house-in-the-lakeside-woods/",
+      "image": "https://homeadore.com/wp-content/uploads/2026/10/001-peninsula-point-a-quiet-house-in-the-lakeside-woods.jpg",
+      "images": [
+        "https://homeadore.com/wp-content/uploads/2026/10/001-peninsula-point-a-quiet-house-in-the-lakeside-woods.jpg"
+      ],
+      "source": "Home Adore",
+      "source_url": "http://homeadore.com",
+      "published": "2026-10-30T07:01:39+00:00"
+    },
+    {
       "id": "1c27b6365b779b59",
       "title": "The Single-Level Avalon 32′ Tiny Home Keeps Everyday Living Downstairs",
       "summary": "The Single-Level Avalon 32′ Tiny Home Keeps Everyday Living Downstairs The bedroom in Dragon Tiny Homes’ Single-Level Avalon 32′ comes with something worth appreciating in a tiny house: room to stand upright. This built, available...",
@@ -1551,7 +1684,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/36-16-Cliffside-Bidgood.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-29T18:30:18+00:00"
     },
@@ -1673,7 +1806,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/13.-CLB-Boomerang-0101-e1793125420381.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-28T14:00:27+00:00"
     },
@@ -1795,7 +1928,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/victory-lap-residence-the-up-studio-3.jpg"
       ],
-      "source": "Design Milk Interiors",
+      "source": "Design Milk Architecture",
       "source_url": "https://design-milk.com",
       "published": "2026-10-27T17:15:18+00:00"
     },
