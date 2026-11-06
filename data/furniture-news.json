@@ -1,11 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-11-06T02:16:59.151813+00:00",
-  "generated_at_human": "2026-11-06 02:16 UTC",
-  "total_items": 253,
+  "generated_at": "2026-11-06T10:43:19.010331+00:00",
+  "generated_at_human": "2026-11-06 10:43 UTC",
+  "total_items": 251,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -53,7 +55,6 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
-    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -62,9 +63,179 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 56,
-  "multi_photo_items": 58,
+  "sources_count": 57,
+  "multi_photo_items": 61,
   "items": [
+    {
+      "id": "656ec6707ba88b39",
+      "title": "Дмитрий Овчаров и Елена Мерцалова: «У ‘nefa’architects’ есть почерк, но мы не хотим превращать его в стиль»",
+      "summary": "‘nefa’architects’ существуют больше двадцати лет, но по-прежнему сознательно сохраняет компактную структуру. При этом диапазон проектов сложно свести к одной специализации: офисы и аэропорты, общественные здания и благоустройство, реконструкция, интерьеры. С руководителями бюро Дмитрием Овчаровым и Еленой Мерцаловой мы поговорили о том, чем живет и как работает студия сегодня.",
+      "url": "https://archi.ru/russia/102841/dmitrii-ovcharov-i-elena-mercalova-u-nefaarchitects-est-pocherk-no-my-ne-khotim-prevraschat-ego-v-stil",
+      "image": "https://i.archi.ru/i/1262/519398.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/519398.jpg",
+        "https://i.archi.ru/i/1262/306723.jpg?r=90348",
+        "https://i.archi.ru/i/1262/519772.jpg",
+        "https://i.archi.ru/news/quadratic/495647.jpg?r=60920",
+        "https://i.archi.ru/news/quadratic/495648.jpg?r=22101",
+        "https://i.archi.ru/i/1262/308867.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "61272e8a314c06f6",
+      "title": "Из шерстяных отходов – в фасадную облицовку",
+      "summary": "Исследователи Гарвардского университета разработали биокомпозит из переработанной овечьей шерсти, который может использоваться одновременно для теплоизоляции и наружной облицовки зданий. Прототип фасадной системы представили на Архитектурной триеннале в Осло.",
+      "url": "http://archi.ru/tech/news_102854.html",
+      "image": "https://i.archi.ru/i/1262/519820.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/519820.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "e97f3351ea7a709a",
+      "title": "«Второй слой»: полимеры в реконструкции",
+      "summary": "При реконструкции новые материалы могут быть заметной частью архитектуры – полупрозрачной кровлей, фасадом или самостоятельной оболочкой. А могут оставаться скрытыми внутри стен, перекрытий и кровель, улучшая теплоизоляцию и защищая существующие конструкции. Рассматриваем, как полимеры помогают приспосабливать здания к новым функциям и требованиям, сохраняя при этом их архитектурную ценность.",
+      "url": "http://archi.ru/tech/news_102837.html",
+      "image": "https://i.archi.ru/i/1262/519276.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/519276.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "b4f1f97189f8b4d7",
+      "title": "Forget matching every piece of furniture: 7 green chairs that look even better when they stand out",
+      "summary": "Green is one of those colors that sits comfortably almost anywhere, but a green chair done right can quietly carry a whole room. These 7 green chair ideas show you how to use the color without the chair feeling like it’s showing off. 7 Green Chair Ideas That Work in Real Homes, Not Just Showrooms […] The post Forget matching every piece of furniture: 7 green chairs that look even better when they stand out appeared first on Trendir .",
+      "url": "https://www.trendir.com/green-chair-ideas-that-bring-a-room-to-life-without-fighting-the-rest-of-the-space/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Green-Chairs.png",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Green-Chairs.png",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/cove-pezula-estate-knysna-saota-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/outdoors/eternit-fibre-cement-chair-sponeck.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-11-06T09:00:00+00:00"
+    },
+    {
+      "id": "0c8a64707f6dab95",
+      "title": "They Kept the Orange Oak Cabinets in Their ’90s Kitchen but Painted Them White and Added Sage Green Tile",
+      "summary": "Orange oak cabinets covered almost every wall of this 1990s kitchen, including the island, desk area, and appliance surround. White square backsplash tiles, laminate countertops, and yellow-beige flooring made the wood finish stand out even more. Despite having plenty of storage and a large island, the kitchen looked dated. The owners chose to keep the... The post They Kept the Orange Oak Cabinets in Their ’90s Kitchen but Painted Them White and Added Sage Green Tile appeared first on Homedit .",
+      "url": "https://www.homedit.com/they-kept-the-orange-oak-cabinets-in-their-90s-kitchen-but-painted-them-white-and-added-sage-green-tile/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/05/Painting-the-Oak-Cabinets-White-and-Adding-Sage-Tile-Made-This-90s-Kitchen-Feel-Custom-Built.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Painting-the-Oak-Cabinets-White-and-Adding-Sage-Tile-Made-This-90s-Kitchen-Feel-Custom-Built.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/The-Kitchen-Feels-Taller-Even-Though-the-Layout-Barely-Changed.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Quartz-Counters-Softened-the-Layout-Around-the-Island.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Sage-green-tiles-and-pot-filler.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/The-Sage-Green-Tile-Changed-the-Entire-Back-Wall.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/The-before-and-after-kitchen-renovation-from-oak-cabinets-to-white-ones.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-11-06T07:44:21+00:00"
+    },
+    {
+      "id": "73689516a9672183",
+      "title": "She Turned an IKEA Spice Rack Upside Down and Added 9 Hooks to Store Her Jewelry",
+      "summary": "IKEA’s BEKVÄM spice rack has a narrow wooden shelf and a round rail designed to keep spice jars from falling. Most people mount it in the kitchen, but the same pieces can hold necklaces, bracelets, and other jewelry with a few changes. Instead of using the rack for spices, a Homedit DIY project turned it... The post She Turned an IKEA Spice Rack Upside Down and Added 9 Hooks to Store Her Jewelry appeared first on Homedit .",
+      "url": "https://www.homedit.com/she-turned-an-ikea-spice-rack-upside-down-and-added-9-hooks-to-store-her-jewelry/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/She-Added-9-Hooks-to-an-IKEA-Spice-Rack-and-Turned-It-Into-Jewelry-Storage.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/She-Added-9-Hooks-to-an-IKEA-Spice-Rack-and-Turned-It-Into-Jewelry-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Painting-the-Oak-Cabinets-White-and-Adding-Sage-Tile-Made-This-90s-Kitchen-Feel-Custom-Built.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/He-Watched-YouTube-Videos-to-Build-His-Backyard-Patio-Then-Chose-a-45-Degree-Herringbone-Pattern-With-Two-Curved-Edges.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Putting-Painters-Tape-on-a-Paint-Roller-Before-Painting-What-Its-For-and-Why-People-Recommend-It.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/She-painted-the-dark-lower-cabinets-Treeline-Green-and-the-kitchen-stopped-feeling-imposing.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Putting-Aluminum-Foil-Under-Paint-Before-Starting-a-DIY-Project-What-Its-For-and-Why-People-Recommend-It.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-11-06T07:24:44+00:00"
+    },
+    {
+      "id": "07f7a3859f0b9fdc",
+      "title": "She painted the dark lower cabinets Treeline Green and the kitchen stopped feeling imposing",
+      "summary": "Some kitchens make you want to duck without a single low beam. Dark wood cabinets on every wall, beige floors, and a clunky ceiling fan in the middle that pulls the ceiling down. You walk in, and the room seems to lean on you. The wood wasn’t the problem, how much of it you saw... The post She painted the dark lower cabinets Treeline Green and the kitchen stopped feeling imposing appeared first on Homedit .",
+      "url": "https://www.homedit.com/she-painted-the-dark-lower-cabinets-treeline-green-and-the-kitchen-stopped-feeling-imposing-9g6a/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/She-painted-the-dark-lower-cabinets-Treeline-Green-and-the-kitchen-stopped-feeling-imposing.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/She-painted-the-dark-lower-cabinets-Treeline-Green-and-the-kitchen-stopped-feeling-imposing.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/makeover-has-its-limits.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/kept-her-countertops-sink-and-floors-for-now.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/fan-from-the-center-to-just-outside-the-cabinet-area.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/05/Painting-the-Oak-Cabinets-White-and-Adding-Sage-Tile-Made-This-90s-Kitchen-Feel-Custom-Built.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/She-Added-9-Hooks-to-an-IKEA-Spice-Rack-and-Turned-It-Into-Jewelry-Storage.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-11-06T06:00:41+00:00"
+    },
+    {
+      "id": "78492a979f2d5f75",
+      "title": "Pro Painters Agree on One Rule for Walls and Trim, and It Means Fewer Touch-Ups",
+      "summary": "The guests arrive in three weeks, so you finally repaint the living room. The trim looks crisp, the walls go on smoothly, and then you stand back: a smear of wall color on the baseboard, a drip on the window casing, and a strip of trim paint that peeled off with the tape. Now the […] The post Pro Painters Agree on One Rule for Walls and Trim, and It Means Fewer Touch-Ups appeared first on Trendir .",
+      "url": "https://www.trendir.com/pro-painters-agree-on-one-rule-for-walls-and-trim-and-it-means-fewer-touch-ups-ccmag44/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/cove-pezula-estate-knysna-saota-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/outdoors/eternit-fibre-cement-chair-sponeck.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/04-sage-gold-floral-swivel-green-chair-ideas.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-11-06T06:00:05+00:00"
+    },
+    {
+      "id": "988df37b74ab2b7b",
+      "title": "Nothing but a single joint holds together Dado furniture",
+      "summary": "Berlin studio Allen Kaufmann Architekten has adapted a traditional woodworking joint to create a flat-pack range that can be assembled completely without tools – and it's been voted furniture design of the year by Dezeen readers. The post Nothing but a single joint holds together Dado furniture appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/11/06/dado-furniture-allen-kaufmann/",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/hero-dado-allen-kaufmann-architekten_dezeen_2364_col_0.jpg",
+      "images": [
+        "https://static-2026.dezeen.com/uploads/2026/11/hero-dado-allen-kaufmann-architekten_dezeen_2364_col_0.jpg",
+        "https://static-2026.dezeen.com/uploads/2023/06/sq-takt-sofa_dezeen_2364_col_0.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/dado-allen-kaufmann-architekten_dezeen_2364_col_10.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/dado-allen-kaufmann-architekten_dezeen_2364_col_1.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/dado-allen-kaufmann-architekten_dezeen_2364_col_9.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/dado-allen-kaufmann-architekten_dezeen_2364_col_6.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-11-06T06:00:00+00:00"
+    },
+    {
+      "id": "05f3bd7a033ffaf7",
+      "title": "4Space draws on cultural significance of Arabian horses for UAE restaurant",
+      "summary": "Design studio 4Space “explored the physical and kinetic qualities” of horses for the fluid, organic design of Falwa, an Abu Dhabi restaurant celebrating modern Emirati cuisine. Located in the Abu Dhabi Royal Equestrian Art (ADREA) academy, the contemporary restaurant is led by Michelin-starred Emirati chef Faisal Alharmoodi. To showcase the importance of the Arabian mare […] The post 4Space draws on cultural significance of Arabian horses for UAE restaurant appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/11/06/4space-cultural-significance-arabian-horses-uae-restaurant/",
+      "image": "https://static-2026.dezeen.com/uploads/2026/10/falwa-restaurant-4space-abu-dhabi_dezeen_2364_col_sq.jpg",
+      "images": [
+        "https://static-2026.dezeen.com/uploads/2026/10/falwa-restaurant-4space-abu-dhabi_dezeen_2364_col_sq.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/falwa-restaurant-4space-abu-dhabi_dezeen_2364_col_3.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/falwa-restaurant-4space-abu-dhabi_dezeen_2364_col_12.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/falwa-restaurant-4space-abu-dhabi_dezeen_2364_col_4.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/falwa-restaurant-4space-abu-dhabi_dezeen_2364_col_6.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/10/falwa-restaurant-4space-abu-dhabi_dezeen_2364_col_5.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-11-06T05:00:00+00:00"
+    },
     {
       "id": "289febc6fbe9f264",
       "title": "David Hicks worked his magic on this Melbourne penthouse",
@@ -199,11 +370,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Herman-Miller-Chair-Designs.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Herman-Miller-Chair-Designs.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/viteo-outdoors-outdoor-furniture-swing.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2019/12/mason-jar-for-christmas.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/home-office-in-dining-room-ideas-green-dining-room-with-writers-nook-housemakingideas.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/3-nautical-rope-chandelier-lunar__lights__.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/cove-pezula-estate-knysna-saota-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/outdoors/eternit-fibre-cement-chair-sponeck.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/04-sage-gold-floral-swivel-green-chair-ideas.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -242,12 +413,7 @@
       "url": "https://www.dezeen.com/2026/11/05/studio-shea-south-carolina-library/",
       "image": "https://static-2026.dezeen.com/uploads/2026/10/studio-shea-clinton-library-_dezeen_2364_sq.jpg",
       "images": [
-        "https://static-2026.dezeen.com/uploads/2026/10/studio-shea-clinton-library-_dezeen_2364_sq.jpg",
-        "https://static-2026.dezeen.com/uploads/2025/05/sq-us-pavilion-porch-mass-timber-venice-archietcture-biennale_dezeen_2364_col_0.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/studio-shea-clinton-library-_dezeen_2364_col_8.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/studio-shea-clinton-library-_dezeen_2364_col_9.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/studio-shea-clinton-library-_dezeen_2364_col_3.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/10/studio-shea-clinton-library-_dezeen_2364_col_2.jpg"
+        "https://static-2026.dezeen.com/uploads/2026/10/studio-shea-clinton-library-_dezeen_2364_sq.jpg"
       ],
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
@@ -264,7 +430,7 @@
         "https://hips.hearstapps.com/hmg-prod/images/e84f4836-2079-4e2a-8434-4439d235fb36.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/474629ca-7666-4307-95d5-ddf69ccba4f3.jpeg",
         "https://hips.hearstapps.com/hmg-prod/images/6bf40185-41d5-4150-9630-34a2339bdfe7.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/0ee99507-b879-4a30-b86c-d39f188a3ef9.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/01f934a5-67cb-4a7e-9c84-ef2cee44aa8d.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/carrie-coon-68598faca3c5e.jpg"
       ],
       "source": "Elle Decor",
@@ -292,13 +458,13 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Green-Living-Room-Wall-Ideas.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Green-Living-Room-Wall-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/viteo-outdoors-outdoor-furniture-swing.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2019/12/mason-jar-for-christmas.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/home-office-in-dining-room-ideas-green-dining-room-with-writers-nook-housemakingideas.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/3-nautical-rope-chandelier-lunar__lights__.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/cove-pezula-estate-knysna-saota-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/outdoors/eternit-fibre-cement-chair-sponeck.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/04-sage-gold-floral-swivel-green-chair-ideas.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg"
       ],
-      "source": "Trendir",
+      "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-11-05T17:00:00+00:00"
     },
@@ -322,29 +488,11 @@
       "url": "https://www.homedit.com/putting-aluminum-foil-under-paint-before-starting-a-diy-project-what-its-for-and-why-people-recommend-it/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/Putting-Aluminum-Foil-Under-Paint-Before-Starting-a-DIY-Project-What-Its-For-and-Why-People-Recommend-It.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Putting-Aluminum-Foil-Under-Paint-Before-Starting-a-DIY-Project-What-Its-For-and-Why-People-Recommend-It.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/How-to-Use-Aluminum-Foil-When-Painting.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Why-Put-Aluminum-Foil-Under-Paint.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/What-to-Know-Before-Trying-It.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Covered-Her-Wooden-Backyard-Shed-With-Stone-Strips-Now-It-Looks-Like-Part-of-a-Mediterranean-Villa.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/A-Young-Girl-Asked-for-a-Light-Green-Desk-but-the-Painter-Used-Several-More-Colors-Across-Its-Five-Drawers.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Putting-Aluminum-Foil-Under-Paint-Before-Starting-a-DIY-Project-What-Its-For-and-Why-People-Recommend-It.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
       "published": "2026-11-05T15:25:40+00:00"
-    },
-    {
-      "id": "38523985b8340f50",
-      "title": "Skip Boring Metal Stands: There's A Cuter Way To Add Over-The-Toilet Storage",
-      "summary": "We're all looking to maximize storage space without sacrificing aesthetics, or breaking the bank. This DIY is the solution for extra bathroom organization.",
-      "url": "https://www.hunker.com/2305486/skip-3-tier-metal-organizers-cuter-way-to-add-over-the-toilet-storage/",
-      "image": "https://www.hunker.com/img/gallery/skip-boring-metal-stands-theres-a-cuter-way-to-add-over-the-toilet-storage/l-intro-1793726975.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/skip-boring-metal-stands-theres-a-cuter-way-to-add-over-the-toilet-storage/l-intro-1793726975.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-11-05T15:00:00+00:00"
     },
     {
       "id": "56d11cf51662f70b",
@@ -366,12 +514,7 @@
       "url": "https://www.homedit.com/a-young-girl-asked-for-a-light-green-desk-but-the-painter-used-several-more-colors-across-its-five-drawers/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/A-Young-Girl-Asked-for-a-Light-Green-Desk-but-the-Painter-Used-Several-More-Colors-Across-Its-Five-Drawers.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/A-Young-Girl-Asked-for-a-Light-Green-Desk-but-the-Painter-Used-Several-More-Colors-Across-Its-Five-Drawers.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Branches-spread-across-the-upper-drawer-fronts.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Covered-Her-Wooden-Backyard-Shed-With-Stone-Strips-Now-It-Looks-Like-Part-of-a-Mediterranean-Villa.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Putting-Aluminum-Foil-Under-Paint-Before-Starting-a-DIY-Project-What-Its-For-and-Why-People-Recommend-It.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Her-Neighbors-Dogs-Kept-Jumping-Her-Fence-but-Police-Told-Her-They-Couldnt-Act-Until-Someone-Was-Bitten.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/They-Tore-Out-Their-Dark-Brown-Wood-Kitchen-and-Replaced-It-With-More-Wood.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/A-Young-Girl-Asked-for-a-Light-Green-Desk-but-the-Painter-Used-Several-More-Colors-Across-Its-Five-Drawers.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -396,31 +539,13 @@
       "published": "2026-11-05T14:00:31+00:00"
     },
     {
-      "id": "dc68ebafb77e345f",
-      "title": "Win Back Floor Space With A Unique Floating Bookshelf From Target",
-      "summary": "Whether in the living room or kitchen, this bookshelf from Target makes use of vertical space while leaving plenty of room for more than just books.",
-      "url": "https://www.hunker.com/2303324/unique-floating-bookshelf-target-win-back-floor-space/",
-      "image": "https://www.hunker.com/img/gallery/win-back-floor-space-with-a-unique-floating-bookshelf-from-target/l-intro-1793478796.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/win-back-floor-space-with-a-unique-floating-bookshelf-from-target/l-intro-1793478796.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-11-05T13:30:00+00:00"
-    },
-    {
       "id": "af3b726bec9cc951",
       "title": "She Covered Her Wooden Backyard Shed With Stone Strips: Now It Looks Like Part of a Mediterranean Villa",
       "summary": "Wooden boards covered the backyard shed, creating a plain timber backdrop behind the outdoor cooking area. The horizontal cladding matched the nearby fence, but the owner wanted something closer to the pale stone walls found in Mediterranean courtyards. Instagram creator @oesinterieurdesign from Ede, Netherlands, took on the transformation herself, using cream-colored stone veneer strips instead... The post She Covered Her Wooden Backyard Shed With Stone Strips: Now It Looks Like Part of a Mediterranean Villa appeared first on Homedit .",
       "url": "https://www.homedit.com/she-covered-her-wooden-backyard-shed-with-stone-strips-now-it-looks-like-part-of-a-mediterranean-villa-s2/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Covered-Her-Wooden-Backyard-Shed-With-Stone-Strips-Now-It-Looks-Like-Part-of-a-Mediterranean-Villa.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Covered-Her-Wooden-Backyard-Shed-With-Stone-Strips-Now-It-Looks-Like-Part-of-a-Mediterranean-Villa.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Finished-Wall-Became-the-Backdrop-for-the-Outdoor-Kitchen.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Outdoor-Kitchen-Sat-Against-the-Timber-Wall.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Wooden-Cladding-Covered-the-Original-Shed.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Before-and-After-Show-What-Changed.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Attached-Stone-Strips-One-Piece-at-a-Time.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Covered-Her-Wooden-Backyard-Shed-With-Stone-Strips-Now-It-Looks-Like-Part-of-a-Mediterranean-Villa.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -493,28 +618,15 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Home-Office-In-Dining-Room-Ideas.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Home-Office-In-Dining-Room-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/viteo-outdoors-outdoor-furniture-swing.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2019/12/mason-jar-for-christmas.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/3-nautical-rope-chandelier-lunar__lights__.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/cove-pezula-estate-knysna-saota-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/outdoors/eternit-fibre-cement-chair-sponeck.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/04-sage-gold-floral-swivel-green-chair-ideas.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg"
       ],
-      "source": "Trendir",
+      "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
       "published": "2026-11-05T12:00:00+00:00"
-    },
-    {
-      "id": "6594731f932deaa5",
-      "title": "Neither a Standard Island Nor a Traditional Counter: 10 Kitchen Layouts That Take a Different Approach",
-      "summary": "Kitchen islands usually combine storage, preparation space, and seating in one rectangular unit. These ten designs change that arrangement, using separate workstations, extended countertops, raised surfaces, and appliance walls to organize cooking and storage. Some layouts place the sink and cooktop on different islands. Others use counters that project beyond the cabinetry or turn an... The post Neither a Standard Island Nor a Traditional Counter: 10 Kitchen Layouts That Take a Different Approach appeared first on Homedit .",
-      "url": "https://www.homedit.com/neither-a-standard-island-nor-a-traditional-counter-10-kitchen-layouts-that-take-a-different-approach/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/Neither-a-Standard-Island-Nor-a-Traditional-Counter-7-Kitchen-Layouts-That-Take-a-Different-Approach.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Neither-a-Standard-Island-Nor-a-Traditional-Counter-7-Kitchen-Layouts-That-Take-a-Different-Approach.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-11-05T11:43:01+00:00"
     },
     {
       "id": "f2b79e6156637b81",
@@ -523,14 +635,9 @@
       "url": "https://www.dezeen.com/2026/11/05/linehouse-jen-hotel-hangzhou/",
       "image": "https://static-2026.dezeen.com/uploads/2026/11/linehouse-jen-hotel-interiors-hangzhou-china_dezeen_1704_col_sq-1.jpg",
       "images": [
-        "https://static-2026.dezeen.com/uploads/2026/11/linehouse-jen-hotel-interiors-hangzhou-china_dezeen_1704_col_sq-1.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/06/linehouse-central-park-bangkok-shopping-centre-interiors-_dezeen_2364_col_sq.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/linehouse-jen-hotel-interiors-hangzhou-china_dezeen_1704_col_28.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/linehouse-jen-hotel-interiors-hangzhou-china_dezeen_1704_col_22.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/linehouse-jen-hotel-interiors-hangzhou-china_dezeen_1704_col_26.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/linehouse-jen-hotel-interiors-hangzhou-china_dezeen_1704_col_33.jpg"
+        "https://static-2026.dezeen.com/uploads/2026/11/linehouse-jen-hotel-interiors-hangzhou-china_dezeen_1704_col_sq-1.jpg"
       ],
-      "source": "Dezeen",
+      "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-11-05T11:30:00+00:00"
     },
@@ -563,19 +670,6 @@
       "published": "2026-11-05T10:41:49+00:00"
     },
     {
-      "id": "2506364c2c48f9e7",
-      "title": "She Got a China Cabinet Left in the Rain for Free, Then Replaced Its Ruined Veneer With Floral Fabric",
-      "summary": "Rain had left a wooden china cabinet with warped panels, peeling veneer, split wood, and an empty door frame where the glass once belonged. Its carved decorations and turned legs survived, but water had damaged much of the finish. Ann from The Apple Street Cottage spotted the cabinet outside an old factory where she rented... The post She Got a China Cabinet Left in the Rain for Free, Then Replaced Its Ruined Veneer With Floral Fabric appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-got-a-china-cabinet-left-in-the-rain-for-free-then-replaced-its-ruined-veneer-with-floral-fabric/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Got-a-China-Cabinet-Left-in-the-Rain-for-Free-Then-Replaced-Its-Ruined-Veneer-With-Floral-Fabric.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Got-a-China-Cabinet-Left-in-the-Rain-for-Free-Then-Replaced-Its-Ruined-Veneer-With-Floral-Fabric.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-11-05T10:15:14+00:00"
-    },
-    {
       "id": "2ec6d40f45c6a243",
       "title": "Kitchen of the Week: A New Build that Eschews Perfection and Allows a ‘Boisterous’ Life",
       "summary": "When we spotted Landed Interiors‘ recent project in Boulder, Colorado, we assumed the Berkeley-based design studio had been brought on to renovate an old farmhouse. With its thoughtful touches, appealing quirks, and cozy rooms, the home feels very much rooted in place and heritage, as if it has been knocking around for generations. Turns out, […]",
@@ -592,19 +686,6 @@
       "source": "Remodelista",
       "source_url": "https://www.remodelista.com",
       "published": "2026-11-05T09:00:36+00:00"
-    },
-    {
-      "id": "bb70d00f8e70378c",
-      "title": "They Tore Out a Narrow Galley Kitchen and Rebuilt It With IKEA Cabinets That Look Custom-Made",
-      "summary": "Narrow galley kitchens leave little room to change the layout. Cabinets run along opposite walls, appliances compete for counter space, and the doorway at the end limits where storage can go. Replacing the cabinet doors might improve the appearance, but it wouldn’t change those restrictions. One renovation took a different route. The original kitchen was... The post They Tore Out a Narrow Galley Kitchen and Rebuilt It With IKEA Cabinets That Look Custom-Made appeared first on Homedit .",
-      "url": "https://www.homedit.com/they-tore-out-a-narrow-galley-kitchen-and-rebuilt-it-with-ikea-cabinets-that-look-custom-made/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/They-Tore-Out-a-Narrow-Galley-Kitchen-and-Rebuilt-It-With-IKEA-Cabinets-That-Look-Custom-Made.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/They-Tore-Out-a-Narrow-Galley-Kitchen-and-Rebuilt-It-With-IKEA-Cabinets-That-Look-Custom-Made.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-11-05T08:20:17+00:00"
     },
     {
       "id": "9727a0e28e668c4c",
@@ -660,19 +741,6 @@
       "source": "Better Homes & Gardens AU",
       "source_url": "https://www.bhg.com.au",
       "published": "2026-11-05T03:43:10+00:00"
-    },
-    {
-      "id": "3626bc0d058dec23",
-      "title": "LEGO’s Biggest Ever “Godzilla” Build Hits The Shelves, Defeating Even The Sagrada Familia In Size",
-      "summary": "LEGO’s Biggest Ever “Godzilla” Build Hits The Shelves, Defeating Even The Sagrada Familia In Size If you bought LEGO’s Sagrada Família 3 days ago and cleared a whole shelf for it, I have bad news. LEGO just revealed something taller....",
-      "url": "https://www.yankodesign.com/2026/11/04/legos-biggest-ever-godzilla-build-hits-the-shelves-defeating-even-the-sagrada-familia-in-size/?utm_source=rss&utm_medium=rss&utm_campaign=legos-biggest-ever-godzilla-build-hits-the-shelves-defeating-even-the-sagrada-familia-in-size",
-      "image": "https://www.yankodesign.com/images/design_news/2026/11/legos-biggest-ever-godzilla-build-hits-the-shelves-defeating-even-the-sagrada-familia-in-size/lego_godzilla_build_1.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/11/legos-biggest-ever-godzilla-build-hits-the-shelves-defeating-even-the-sagrada-familia-in-size/lego_godzilla_build_1.jpg"
-      ],
-      "source": "Yanko Design",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-11-05T01:30:24+00:00"
     },
     {
       "id": "58a72fc224325a37",
@@ -845,11 +913,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/living-room-mirrored-fireplace-wide-view-before.jpg",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/living-room-mirrored-fireplace-wide-view-before.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/viteo-outdoors-outdoor-furniture-swing.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2019/12/mason-jar-for-christmas.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/home-office-in-dining-room-ideas-green-dining-room-with-writers-nook-housemakingideas.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/cove-pezula-estate-knysna-saota-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/outdoors/eternit-fibre-cement-chair-sponeck.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/04-sage-gold-floral-swivel-green-chair-ideas.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg"
       ],
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
@@ -891,9 +959,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/pillowy-steel-furniture-without-a-stitch-of-upholstery/jawf-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/04/311502/03_IKEAStudio_IKEAAppleSPACE10_ARApp.jpg",
-        "https://www.yankodesign.com/images/design_news/2013/01/28/samurais_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2012/05/22/quatro_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2019/07/the-oasis-planter-is-actually-a-side-table-with-lamp/oasis_botanic_furniture_layout.jpg",
+        "https://www.yankodesign.com/images/design_news/2011/02/07/respite_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2017/05/draft-ubik/ubik_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -965,9 +1033,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/11/dreamhouse.phRiolzi1.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/08/Zona-giorno.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/FACRT_Argote_160926-183.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Reply-House_Torino_ph-Gianluca-Di-Ioia-GDI-STUDIO_courtesy-Reply.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/FACRT_Argote_160926-183.jpg",
         "https://www.internimagazine.it/content/uploads/2026/11/dreamhousephriolzi5.jpg"
       ],
       "source": "Interni magazine",
@@ -1017,9 +1085,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/a-bamboo-armchair-glows-after-dark-without-electricity/she-blooms-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/06/landr-tablet-promises-you-wont-slosh-your-coffee-when-you-cut-your-bread/landr-5.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/10/road-barriers-become-benches-without-losing-their-warning-stripes/stop-05.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/nardi/nardi_furniture_yanko_design_02.jpg"
+        "https://www.yankodesign.com/images/design_news/2020/11/a-home-gym-station-that-saves-space-and-blends-in-with-the-rest-of-your-living-room/Home-Gym_living-room-seat.jpg",
+        "https://www.yankodesign.com/images/design_news/2012/10/05/duit_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/08/cosmos-chair-an-experience-that-unveils-a-multiverse-of-emotions-and-intricacies/Cosmos_chair_furniture_01-hero.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1137,11 +1205,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-2279185969.jpg",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-2279185969.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/viteo-outdoors-outdoor-furniture-swing.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2019/12/mason-jar-for-christmas.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/home-office-in-dining-room-ideas-green-dining-room-with-writers-nook-housemakingideas.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/cove-pezula-estate-knysna-saota-house-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/outdoors/eternit-fibre-cement-chair-sponeck.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/04-sage-gold-floral-swivel-green-chair-ideas.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg"
       ],
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
@@ -1218,9 +1286,9 @@
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/11/1200x820_Unione-Piacenza_WEB-768x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/DSC_5352_Web_Retina-copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_EQUIPEHOTEL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/Galleria-Umberto-Benappi_phcr-chiara-ferrando-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_EQUIPEHOTEL.jpg",
         "https://www.internimagazine.it/content/uploads/2026/11/Sala-Pianoforte.jpeg"
       ],
       "source": "Interni magazine",
@@ -1393,11 +1461,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-1299648930.jpg",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-1299648930.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/viteo-outdoors-outdoor-furniture-swing.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2019/12/mason-jar-for-christmas.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2018/09/savannah-headboard.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/hansgrohe-faucet-pura-vida-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/home-office-in-dining-room-ideas-green-dining-room-with-writers-nook-housemakingideas.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg"
       ],
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
@@ -1414,8 +1482,8 @@
         "https://www.internimagazine.it/content/uploads/2026/10/1_HASHI-DORIAN.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/UkbmnoK5-3_DORIAN.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/1_20260629_EMU_016_2169a.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/ape_Monitillo-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/ape_1_midj-VI-novita-07.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/10/ape_1_midj-VI-novita-07.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/ape_Monitillo-1.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1540,9 +1608,9 @@
         "https://www.yankodesign.com/images/design_news/2026/10/highlow-chair-flips-its-backrest-into-a-leaning-support-for-standing-meetings/highlow-chair-02.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/garmin-lumina-portable-light-for-campers-and-hikers-has-its-own-satellite-communication-module/Garmin-Lumina_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/05/04/trimove_01.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/05/lambertus-strap-will-turn-the-audemars-piguet-x-swatch-royal-pop-pocket-watch-into-a-wristwatch-for-95/Lambertus-case-strap-for-Audemars-Piguet-x-Swatch-Roayal-Pop-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2024/11/521404/modular_sofa_for_pets_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/07/japanese-designer-built-furniture-with-no-glue-or-screws/mocky-00.jpg",
+        "https://www.yankodesign.com/images/design_news/2010/10/27/philips_touch.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1556,11 +1624,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/10/Gaming-Desk-Design-Ideas.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/10/Gaming-Desk-Design-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/viteo-outdoors-outdoor-furniture-swing.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2019/12/mason-jar-for-christmas.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2018/09/savannah-headboard.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/archives/hansgrohe-faucet-pura-vida-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Dobrila-Vignjevic.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/eames-lounge-chair-and-ottoman.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/home-office-in-dining-room-ideas-green-dining-room-with-writers-nook-housemakingideas.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/olive-green-board-and-batten-accent-wall-mterraau.jpg"
       ],
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
@@ -1866,19 +1934,6 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-10-27T23:30:38+00:00"
-    },
-    {
-      "id": "3f373c03b75883d8",
-      "title": "This Was Way Harder Than It Looks",
-      "summary": "I build a custom solid-walnut mid-century modern dining table for friends, working through tricky angled joinery, a few setbacks, and the real economics of why a $10,000 table is a bargain at $2,500. The post This Was Way Harder Than It Looks appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/videos/this-was-way-harder-than-it-looks/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/Screenshot-2026-08-04-at-1.40.39-PM.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/Screenshot-2026-08-04-at-1.40.39-PM.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-10-27T21:53:21+00:00"
     },
     {
       "id": "8139933aea0aa368",
@@ -2502,19 +2557,6 @@
       "published": "2026-10-16T13:19:45+00:00"
     },
     {
-      "id": "59b92a4b2e478da7",
-      "title": "Expert Advice: The Retrouvius Guide to Using Reclaimed Stone in Remodeling Projects",
-      "summary": "Stone is a natural resource that’s been used in interiors since before the wheel was invented. Though durable and costly—not to mention inimitably patterned and textured—it’s almost never thought of as reusable. But it should be say the eco-minded team behind Retrouvius, a combination salvage company and design studio in London’s Kensal Green that lead […]",
-      "url": "https://www.remodelista.com/posts/how-to-use-reclaimed-stone-in-interiors-tips-from-retrouvius/",
-      "image": "http://www.remodelista.com/wp-content/uploads/2026/10/10-warehouse-offcuts-original-34.jpg",
-      "images": [
-        "http://www.remodelista.com/wp-content/uploads/2026/10/10-warehouse-offcuts-original-34.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-16T10:00:19+00:00"
-    },
-    {
       "id": "248123b36c88ff5c",
       "title": "I Transformed My 1-Bedroom Apartment With These 13 Items",
       "summary": "When my partner, cat, and I moved into our one-bedroom San Francisco apartment a year ago, we started off strong: we put up a gallery wall and chose a statement couch to be the center of our living room.",
@@ -2614,7 +2656,7 @@
       "images": [
         "https://design-milk.com/images/2026/09/9781969303043_820EJ_Photo_01-e1791931763930.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Art",
       "source_url": "https://design-milk.com",
       "published": "2026-10-13T23:11:02+00:00"
     },
@@ -2765,19 +2807,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-10-09T15:00:44+00:00"
-    },
-    {
-      "id": "6e054c66c497cc1c",
-      "title": "The Other Half of My Shop",
-      "summary": "See how I turned a cluttered firehouse storage bay into a functional maker space for our laser, 3D printer, tools, and lumber. The post The Other Half of My Shop appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/videos/the-other-half-of-my-shop/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-10-08T18:17:23+00:00"
     },
     {
       "id": "de60fe09a6e2c5bc",
@@ -3320,19 +3349,6 @@
       "published": "2026-09-17T09:41:05+00:00"
     },
     {
-      "id": "d12a7c10aed3a105",
-      "title": "Woodworkers For a Cause 2026: How to Help Before October 3",
-      "summary": "Sixteen years ago I met a woodworker named Duane Moore who was fighting pancreatic cancer. Nicole and I drove out to Ohio to spend a couple of days at his bench, and that trip turned into Woodworkers Fighting Cancer. Since 2010, this community has moved more than $150,000 to charity, five and ten and fifty […] The post Woodworkers For a Cause 2026: How to Help Before October 3 appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/wfc2026/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-09-14T20:13:14+00:00"
-    },
-    {
       "id": "ab8da878586ee8a4",
       "title": "Dining Rooms Are Borrowing This Seating Idea From Restaurants",
       "summary": "Restaurant booths solve a problem that dining rooms often handle with more chairs: fitting several people around a table without surrounding it with separate seats. These dining setups bring that idea home through curved banquettes, corner benches, upholstered settees, and long cushioned seats paired with conventional dining chairs. The result sits somewhere between a dining... The post Dining Rooms Are Borrowing This Seating Idea From Restaurants appeared first on Homedit .",
@@ -3507,32 +3523,6 @@
       "source": "Shanty 2 Chic",
       "source_url": "https://www.shanty-2-chic.com",
       "published": "2026-08-27T11:48:48+00:00"
-    },
-    {
-      "id": "61ef61f1db46b072",
-      "title": "I Built This Wrong. I’m Glad I Did.",
-      "summary": "Avoid common beginner woodworking mistakes with insights from personal experience on building and repairing furniture. The post I Built This Wrong. I’m Glad I Did. appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/videos/i-built-this-wrong-im-glad-i-did/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/marcs-finishing-quick-guide-book.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/marcs-finishing-quick-guide-book.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-26T15:14:32+00:00"
-    },
-    {
-      "id": "3241a25fff70de1c",
-      "title": "What is Fine Woodworking?",
-      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
-      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
-      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
-      "images": [
-        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
-      ],
-      "source": "Wood Whisperer",
-      "source_url": "https://thewoodwhisperer.com",
-      "published": "2026-08-25T16:15:12+00:00"
     },
     {
       "id": "f070a788d8d64c5f",
