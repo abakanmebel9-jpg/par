@@ -1,11 +1,13 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-11-06T23:01:29.782086+00:00",
-  "generated_at_human": "2026-11-06 23:01 UTC",
-  "total_items": 254,
+  "generated_at": "2026-11-07T02:43:52.076401+00:00",
+  "generated_at_human": "2026-11-07 02:43 UTC",
+  "total_items": 258,
   "sources_used": [
     "Apartment Therapy",
+    "Archi.ru",
+    "Archi.ru Projects",
     "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
@@ -61,9 +63,79 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 55,
-  "multi_photo_items": 58,
+  "sources_count": 57,
+  "multi_photo_items": 59,
   "items": [
+    {
+      "id": "656ec6707ba88b39",
+      "title": "Дмитрий Овчаров и Елена Мерцалова: «У ‘nefa’architects’ есть почерк, но мы не хотим превращать его в стиль»",
+      "summary": "‘nefa’architects’ существуют больше двадцати лет, но по-прежнему сознательно сохраняет компактную структуру. При этом диапазон проектов сложно свести к одной специализации: офисы и аэропорты, общественные здания и благоустройство, реконструкция, интерьеры. С руководителями бюро Дмитрием Овчаровым и Еленой Мерцаловой мы поговорили о том, чем живет и как работает студия сегодня.",
+      "url": "https://archi.ru/russia/102841/dmitrii-ovcharov-i-elena-mercalova-u-nefaarchitects-est-pocherk-no-my-ne-khotim-prevraschat-ego-v-stil",
+      "image": "https://i.archi.ru/i/1262/519398.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/519398.jpg",
+        "https://i.archi.ru/i/1262/306723.jpg?r=19430",
+        "https://i.archi.ru/i/1262/519772.jpg",
+        "https://i.archi.ru/news/quadratic/495647.jpg?r=86826",
+        "https://i.archi.ru/news/quadratic/495648.jpg?r=6600",
+        "https://i.archi.ru/i/1262/308867.jpg"
+      ],
+      "source": "Archi.ru Projects",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "61272e8a314c06f6",
+      "title": "Из шерстяных отходов – в фасадную облицовку",
+      "summary": "Исследователи Гарвардского университета разработали биокомпозит из переработанной овечьей шерсти, который может использоваться одновременно для теплоизоляции и наружной облицовки зданий. Прототип фасадной системы представили на Архитектурной триеннале в Осло.",
+      "url": "http://archi.ru/tech/news_102854.html",
+      "image": "https://i.archi.ru/i/1262/519820.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/519820.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "e97f3351ea7a709a",
+      "title": "«Второй слой»: полимеры в реконструкции",
+      "summary": "При реконструкции новые материалы могут быть заметной частью архитектуры – полупрозрачной кровлей, фасадом или самостоятельной оболочкой. А могут оставаться скрытыми внутри стен, перекрытий и кровель, улучшая теплоизоляцию и защищая существующие конструкции. Рассматриваем, как полимеры помогают приспосабливать здания к новым функциям и требованиям, сохраняя при этом их архитектурную ценность.",
+      "url": "http://archi.ru/tech/news_102837.html",
+      "image": "https://i.archi.ru/i/1262/519276.jpg",
+      "images": [
+        "https://i.archi.ru/i/1262/519276.jpg"
+      ],
+      "source": "Archi.ru",
+      "source_url": "https://archi.ru",
+      "published": ""
+    },
+    {
+      "id": "da8dd54d00c25879",
+      "title": "An Oregon Parking Lot Was Transformed Into a Forest-Inspired Library",
+      "summary": "An Oregon Parking Lot Was Transformed Into a Forest-Inspired Library At East County Library in Gresham, Oregon, timber columns rise through gaps in the acoustic ceiling, keeping the structure visually separate from the surfaces around...",
+      "url": "https://www.yankodesign.com/2026/11/06/an-oregon-parking-lot-was-transformed-into-a-forest-inspired-library/?utm_source=rss&utm_medium=rss&utm_campaign=an-oregon-parking-lot-was-transformed-into-a-forest-inspired-library",
+      "image": "https://www.yankodesign.com/images/design_news/2026/11/east-county-library/east_county_library_yanko_design_01.jpg",
+      "images": [
+        "https://www.yankodesign.com/images/design_news/2026/11/east-county-library/east_county_library_yanko_design_01.jpg"
+      ],
+      "source": "Yanko Design",
+      "source_url": "https://www.yankodesign.com",
+      "published": "2026-11-07T00:30:29+00:00"
+    },
+    {
+      "id": "9148291b13e7f3c8",
+      "title": "She Added Vintage Charm to a \"Sterile\" Dining Room (It's Unrecognizable)",
+      "summary": "If you’re looking to create a moody, almost candlelit vibe in your space, DIYer Annette Suarez (@moodywhimsicalforest) recommends considering your lighting early. “Moody, cozy rooms rely on good lighting,” she says. “Layer your light sources — overhead lighting alone isn’t enough. Add wall sconces, picture lights, or even a table lamp on a credenza. Don’t wait until the end to think about wiring. READ MORE...",
+      "url": "https://www.apartmenttherapy.com/luxe-green-dining-room-makeover-5000-dollars-ba-37698357?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
+      "image": "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-07/annette-s-dining-room/annette-s-dining-room-before-tag",
+      "images": [
+        "https://cdn.apartmenttherapy.info/image/upload//at/home-projects/2025/2025-07/annette-s-dining-room/annette-s-dining-room-before-tag"
+      ],
+      "source": "Apartment Therapy",
+      "source_url": "https://www.apartmenttherapy.com",
+      "published": "2026-11-06T23:00:00+00:00"
+    },
     {
       "id": "a6cefa4cd2cb467d",
       "title": "25 Best Gifts for New Homeowners (That They Will Actually Use)",
@@ -197,9 +269,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/urban-desk-saves-space-without-making-you-move-your-monitor/urban-desk-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2010/02/17/invasion01.jpg",
-        "https://www.yankodesign.com/images/design_news/2011/05/17/aero_slippers.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/05/draft/jinsop_layout.jpg"
+        "https://www.yankodesign.com/images/design_news/2026/09/645787/belkin_surefind_loop_cable_tag_ifa2026_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2023/10/apple-watch-ultra-3-with-360-camera-is-for-smartwatch-photographers-of-tomorrow/Concept-Apple-Watch-Ultra-3-with-360-camera-3.jpg",
+        "https://www.yankodesign.com/images/design_news/2019/05/tefal-needs-a-product-designer/Tefal_01-7.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1045,9 +1117,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/pillowy-steel-furniture-without-a-stitch-of-upholstery/jawf-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2018/10/logan/logan_02.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/04/this-zigzagging-wooden-bookshelf-doesnt-care-how-tall-you-are/tsuranari-bookshelf-border-design-architects-06.jpg",
-        "https://www.yankodesign.com/images/design_news/2021/06/this-workstation-gaming-chairs-zero-gravity-position-is-tailored-for-healthy-wfh-regime/Jubilee-Furniture-Talon-Space-Working-and-Gaming-Station-3.jpg"
+        "https://www.yankodesign.com/images/design_news/2012/01/03/desk2_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/12/flow-wall-desk-transforms-from-a-work-of-art-into-a-functional-table/1.jpg",
+        "https://www.yankodesign.com/images/design_news/2024/01/unusual-lounge-chair-uses-sponge-filled-ropes-to-mimic-a-certain-insect/caterpillar-lounge-chair-3.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1118,9 +1190,9 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/11/dreamhouse.phRiolzi1.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/11/dreamhouse.phRiolzi1.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/08/Zona-giorno.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/PBF7454.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/FACRT_Argote_160926-183.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/Zona-giorno.jpg",
         "https://www.internimagazine.it/content/uploads/2026/07/Reply-House_Torino_ph-Gianluca-Di-Ioia-GDI-STUDIO_courtesy-Reply.jpg",
         "https://www.internimagazine.it/content/uploads/2026/11/dreamhousephriolzi5.jpg"
       ],
@@ -1171,9 +1243,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/a-bamboo-armchair-glows-after-dark-without-electricity/she-blooms-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/5-home-office-upgrades-that-rethink-how-you-sit-store-and-charge/LiberNovo_-Maxis_Chair_04.jpg",
         "https://www.yankodesign.com/images/design_news/2026/10/meet-draco-the-90mm-smart-telescope-that-wakes-itself-up-to-shoot-the-night-while-you-sleep/Draco-Smart-Telescope-04.jpg",
-        "https://www.yankodesign.com/images/design_news/2025/11/diy-coffee-sand-table-turns-a-living-room-surface-into-moving-art/arrakis-diy-coffee-sand-table-03.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/06/top-10-wooden-furniture/top_10_wooden_furniture_designs_yanko_design_hero.jpeg",
-        "https://www.yankodesign.com/images/design_news/2020/11/288568/24_MBTIHouse_HyeminKim_CustomizableDogHouse.png"
+        "https://www.yankodesign.com/images/design_news/2025/04/duk-furniture/duk_furniture_yanko_design_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2022/05/381132/Concept-STRAMP-Chair-and-Table.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/02/interactive-chair-installation-lets-you-create-sound-through-human-touch/indikator-00.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1345,10 +1417,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/11/1200x820_Unione-Piacenza_WEB-768x525.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/11/1200x820_Unione-Piacenza_WEB-768x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/10/DSC_5352_Web_Retina-copia.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/Galleria-Umberto-Benappi_phcr-chiara-ferrando-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/DSC_5352_Web_Retina-copia.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/1200x820_EQUIPEHOTEL.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/Galleria-Umberto-Benappi_phcr-chiara-ferrando-5.jpg",
         "https://www.internimagazine.it/content/uploads/2026/11/Sala-Pianoforte.jpeg"
       ],
       "source": "Interni magazine",
@@ -1541,9 +1613,9 @@
         "https://www.internimagazine.it/content/uploads/2026/10/2_ABBINAMENTI-424x525.jpg?imbypass=true",
         "https://www.internimagazine.it/content/uploads/2026/10/1_HASHI-DORIAN.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/UkbmnoK5-3_DORIAN.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/1_20260629_EMU_016_2169a.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/ape_1_midj-VI-novita-07.jpg",
         "https://www.internimagazine.it/content/uploads/2026/10/ape_Monitillo-1.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/ape_1_midj-VI-novita-07.jpg"
+        "https://www.internimagazine.it/content/uploads/2026/10/1_20260629_EMU_016_2169a.jpg"
       ],
       "source": "Interni magazine",
       "source_url": "https://www.internimagazine.it",
@@ -1734,8 +1806,8 @@
         "https://hips.hearstapps.com/hmg-prod/images/60bc6efe-e53a-4cc9-b94a-de0e906dbc13.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/9f2a380d-bf93-4e37-9f51-e39cb0fe5347.jpg",
         "https://hips.hearstapps.com/hmg-prod/images/7a40329c-8554-4f61-98e1-704fca64b034.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/0d923272-647d-47dc-80ae-78a8f1a24b68.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/435b06e3-252a-4637-960f-3fdd8e363d13.jpg"
+        "https://hips.hearstapps.com/hmg-prod/images/carrie-coon-68598faca3c5e.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/48e3205a-f6bc-42f6-a315-d686c7a736b1.jpg"
       ],
       "source": "Elle Decor",
       "source_url": "https://www.elledecor.com",
@@ -1836,19 +1908,6 @@
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-10-29T03:56:53+00:00"
-    },
-    {
-      "id": "c59148029bd381af",
-      "title": "This Tiny Home Wraps Its Living Room in Glass and Keeps the Main Bedroom Downstairs",
-      "summary": "This Tiny Home Wraps Its Living Room in Glass and Keeps the Main Bedroom Downstairs Tall, divided windows wrap around Leah’s living room, giving this small home the appearance of a glazed garden pavilion. Offered by Swedish builder Vagabond Haven,...",
-      "url": "https://www.yankodesign.com/2026/10/28/this-tiny-home-wraps-its-living-room-in-glass-and-keeps-the-main-bedroom-downstairs/?utm_source=rss&utm_medium=rss&utm_campaign=this-tiny-home-wraps-its-living-room-in-glass-and-keeps-the-main-bedroom-downstairs",
-      "image": "https://www.yankodesign.com/images/design_news/2026/10/draft-leah-tiny-home/leah_tiny_home_yanko_design_01.jpg",
-      "images": [
-        "https://www.yankodesign.com/images/design_news/2026/10/draft-leah-tiny-home/leah_tiny_home_yanko_design_01.jpg"
-      ],
-      "source": "Yanko Design home",
-      "source_url": "https://www.yankodesign.com",
-      "published": "2026-10-28T17:20:37+00:00"
     },
     {
       "id": "f77d2f4a64642629",
