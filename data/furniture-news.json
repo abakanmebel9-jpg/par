@@ -1,11 +1,12 @@
 {
   "kind": "furniture",
   "topic": "cabinet furniture, kitchens, furniture design",
-  "generated_at": "2026-11-16T01:54:35.723310+00:00",
-  "generated_at_human": "2026-11-16 01:54 UTC",
-  "total_items": 260,
+  "generated_at": "2026-11-16T09:29:43.385971+00:00",
+  "generated_at_human": "2026-11-16 09:29 UTC",
+  "total_items": 251,
   "sources_used": [
     "Apartment Therapy",
+    "Azure magazine CA",
     "Better Homes & Gardens AU",
     "Bob Vila",
     "Core77",
@@ -14,11 +15,11 @@
     "Design Milk",
     "Design Milk Architecture",
     "Design Milk Art",
+    "Design Milk Interiors",
     "Dezeen",
     "Dezeen Interiors",
     "Dezeen Lookbooks",
     "Dezeen tag bathrooms",
-    "Dezeen tag cabinets",
     "Dezeen tag furniture",
     "Dezeen tag kitchens",
     "Dezeen tag lighting",
@@ -31,7 +32,6 @@
     "Home Beautiful AU",
     "Homedit",
     "Homedit furniture",
-    "Homes To Love AU",
     "Hunker",
     "Interni magazine",
     "Lost Art Press",
@@ -51,6 +51,7 @@
     "Trendir interiors",
     "Veranda",
     "Wallpaper",
+    "Wood Whisperer",
     "Woodshop News",
     "Yanko Design",
     "Yanko Design furniture",
@@ -59,9 +60,198 @@
     "АМДПР",
     "Мебель-expo"
   ],
-  "sources_count": 53,
-  "multi_photo_items": 62,
+  "sources_count": 54,
+  "multi_photo_items": 57,
   "items": [
+    {
+      "id": "97c003e992057106",
+      "title": "Forget Standard Shelves and Cabinets: These 7 Vintage Storage Designs Take a Different Approach",
+      "summary": "Most storage furniture follows the same arrangement: a cabinet with doors, a bookcase with open shelves, or a chest with drawers. These pieces provide space for household items, but their construction often leaves little room for alternatives in shape, material, or how objects are displayed. Vintage industrial furniture takes another approach, using metal troughs, numbered... The post Forget Standard Shelves and Cabinets: These 7 Vintage Storage Designs Take a Different Approach appeared first on Homedit .",
+      "url": "https://www.homedit.com/forget-standard-shelves-and-cabinets-these-7-vintage-storage-designs-take-a-different-approach/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/Forget-Standard-Shelves-and-Cabinets-These-7-Vintage-Storage-Designs-Take-a-Different-Approach.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Forget-Standard-Shelves-and-Cabinets-These-7-Vintage-Storage-Designs-Take-a-Different-Approach.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/A-Three-Tier-Metal-Utility-Cart-on-Wheels.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/An-Industrial-Glass-Front-Cabinet-for-Display-Storage.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/A-Cabinet-With-18-Numbered-Metal-Drawers.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Galvanized-Metal-Troughs-as-Wall-Mounted-Planters.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Toss-Your-Plastic-Soap-Dispenser-An-Old-Mason-Jar-and-a-Coat-of-White-Paint-Make-a-Vintage-Replacement.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-11-16T09:18:19+00:00"
+    },
+    {
+      "id": "a5f1b5880cc2edf5",
+      "title": "Pepper & Well designs bathroom that mimics concrete architecture of Paul Couch house",
+      "summary": "Melbourne-based studio Pepper & Well took cues from crisscrossing concrete walls and ceiling beams when designing Lumeah, a new en-suite for a house by celebrated architect Paul Couch. The post Pepper & Well designs bathroom that mimics concrete architecture of Paul Couch house appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/11/16/lumeah-bathroom-renovation-paul-couch-house-pepper-well/",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_sq_0.jpg",
+      "images": [
+        "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_sq_0.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_col_14.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_col_16.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_col_17.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_col_2.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/lumea-bathroom-pepper-well_dezeen_2364_col_7.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-11-16T09:00:00+00:00"
+    },
+    {
+      "id": "2eb429b8df12b0b2",
+      "title": "Who has been eliminated from My Kitchen Rules 2026?",
+      "summary": "Here's who has been kicked off MKR so far this series. The post Who has been eliminated from My Kitchen Rules 2026? appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/tv/my-kitchen-rules-elimination-2026/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/10/mkr-elimination-6ad6cbc37975e.png?format=auto&v=1792461763",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/10/mkr-elimination-6ad6cbc37975e.png?format=auto&v=1792461763"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-11-16T06:43:39+00:00"
+    },
+    {
+      "id": "79a6e2537747881d",
+      "title": "Who is topping the My Kitchen Rules 2026 leaderboard this week?",
+      "summary": "Updated every episode! The post Who is topping the My Kitchen Rules 2026 leaderboard this week? appeared first on Better Homes & Gardens Australia .",
+      "url": "https://www.bhg.com.au/lifestyle/mkr-leaderboard-2026/",
+      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/11/mkr-kitchen-hq-6ae95b46812bb.png?format=auto&v=1793678150",
+      "images": [
+        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/11/mkr-kitchen-hq-6ae95b46812bb.png?format=auto&v=1793678150"
+      ],
+      "source": "Better Homes & Gardens AU",
+      "source_url": "https://www.bhg.com.au",
+      "published": "2026-11-16T06:38:52+00:00"
+    },
+    {
+      "id": "ec99dbe24162970a",
+      "title": "red corrugated metal and pine plywood wrap czech village house’s extension",
+      "summary": "in nečín village, facha architekti renovates a converted pigsty and weekend cabin with a self-built timber extension that expands living spaces toward a stepped larch terrace. The post red corrugated metal and pine plywood wrap czech village house’s extension appeared first on designboom | architecture & design magazine .",
+      "url": "https://www.designboom.com/architecture/red-corrugated-metal-pine-plywood-czech-village-house-extension-facha-architekti/",
+      "image": "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-700-500x400-22b08q85r538.jpg",
+      "images": [
+        "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-700-500x400-22b08q85r538.jpg"
+      ],
+      "source": "Design Boom architecture",
+      "source_url": "https://www.designboom.com",
+      "published": "2026-11-16T06:34:39+00:00"
+    },
+    {
+      "id": "7eb780ef8b3ff61b",
+      "title": "Fresh Mint All Winter: The Light and Window Indoor Herbs Need, According to Extension Experts",
+      "summary": "In October, you potted up some mint from the garden and set it on the kitchen counter, imagining fresh sprigs for tea all winter. By January, the stems are long and spindly, the leaves are small and pale, and the whole plant leans toward the window like it’s trying to escape. This is not your […] The post Fresh Mint All Winter: The Light and Window Indoor Herbs Need, According to Extension Experts appeared first on Trendir .",
+      "url": "https://www.trendir.com/fresh-mint-all-winter-the-light-and-window-indoor-herbs-need-according-to-extension-experts-ccmag44/",
+      "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
+      "images": [
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+      ],
+      "source": "Trendir",
+      "source_url": "https://www.trendir.com",
+      "published": "2026-11-16T06:00:29+00:00"
+    },
+    {
+      "id": "140af4d6db24cd3e",
+      "title": "He spray-painted his parents’ orange wood cabinets Gold Moss, and they called him every day",
+      "summary": "His parents’ kitchen had a lot of warmth, maybe too much of it. Grainy orange wood cabinets ran around a Tuscan-inspired room with a tile backsplash, tile floors and a white plaster hood. Every surface leaned warm, and the cabinets, the biggest surface of all, set the tone for the whole space. Designer Drew Scott... The post He spray-painted his parents’ orange wood cabinets Gold Moss, and they called him every day appeared first on Homedit .",
+      "url": "https://www.homedit.com/he-spray-painted-his-parents-orange-wood-cabinets-gold-moss-and-they-called-him-every-day-9g6a/",
+      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/Orange-wood-kitchen-before-green-paint-©-Drew-Scott-Lone-Fox.jpg",
+      "images": [
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Orange-wood-kitchen-before-green-paint-©-Drew-Scott-Lone-Fox.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/The-new-Magnolia-Home-Gold-Moss-paint-keeping-the-backsplash.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Beautiful-Magnolia-Home-Gold-Moss.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Before-painting-in-Magnolia-Home-Gold-Moss.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Forget-Standard-Shelves-and-Cabinets-These-7-Vintage-Storage-Designs-Take-a-Different-Approach.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Toss-Your-Plastic-Soap-Dispenser-An-Old-Mason-Jar-and-a-Coat-of-White-Paint-Make-a-Vintage-Replacement.jpg"
+      ],
+      "source": "Homedit",
+      "source_url": "https://www.homedit.com",
+      "published": "2026-11-16T06:00:20+00:00"
+    },
+    {
+      "id": "64ffd0dc6bee92ac",
+      "title": "Foster + Partners creates Area worktable for today's office",
+      "summary": "Foster + Partners Industrial Design aimed to bring expressive and functional workplace design together in its modular Area table system, created with Spanish furniture brand Kettal. The post Foster + Partners creates Area worktable for today's office appeared first on Dezeen .",
+      "url": "https://www.dezeen.com/2026/11/16/foster-partners-area-worktable-todays-office/",
+      "image": "https://static-2026.dezeen.com/uploads/2026/11/area-tables-foster-partners-kettal-design_dezeen_2364_sq.jpg",
+      "images": [
+        "https://static-2026.dezeen.com/uploads/2026/11/area-tables-foster-partners-kettal-design_dezeen_2364_sq.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/area-tables-foster-partners-kettal-design_dezeen_2364_col_3.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/area-tables-foster-partners-kettal-design_dezeen_2364_col_1.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/area-tables-foster-partners-kettal-design_dezeen_2364_col_2.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/area-tables-foster-partners-kettal-design_dezeen_2364_col_6.jpg",
+        "https://static-2026.dezeen.com/uploads/2026/11/area-tables-foster-partners-kettal-design_dezeen_2364_col_5.jpg"
+      ],
+      "source": "Dezeen",
+      "source_url": "https://www.dezeen.com",
+      "published": "2026-11-16T06:00:00+00:00"
+    },
+    {
+      "id": "0e69c42f4e66d55d",
+      "title": "Paris : voici comment donner une véritable identité à un appartement haussmannien",
+      "summary": "Cet appartement parisien très lumineux surmonte la rue de Moscou et une place arborée. Un intérieur bourgeois entièrement repensé par l’architecte Pauline Borgia dans une écriture sobre et élégante pour accompagner l’évolution d’une jeune famille.",
+      "url": "https://www.milkdecoration.com/paris-voici-comment-donner-une-veritable-identite-a-un-appartement-haussmannien/",
+      "image": "https://www.milkdecoration.com/wp-content/uploads/2026/11/260602-paulineborgia22027-retouche.jpg",
+      "images": [
+        "https://www.milkdecoration.com/wp-content/uploads/2026/11/260602-paulineborgia22027-retouche.jpg",
+        "https://www.milkdecoration.com/wp-content/uploads/2026/11/260602-paulineborgia22207-retouche.jpg"
+      ],
+      "source": "MilK Decoration",
+      "source_url": "https://www.milkdecoration.com",
+      "published": "2026-11-16T06:00:00+00:00"
+    },
+    {
+      "id": "618e55c1f5b01936",
+      "title": "She Upcycles A Vintage Pyrex Dish To Give Her Kitchen Light A Retro Glow",
+      "summary": "A unique light fixture can transform the vibe of a space. This DIYer used a vintage Pyrex bowl to add tons of character and charm to her kitchen.",
+      "url": "https://www.hunker.com/2316610/she-upcycles-old-pyrex-dish-kitchen-light-vintage-inspired/",
+      "image": "https://www.hunker.com/img/gallery/she-upcycles-a-vintage-pyrex-dish-to-give-her-kitchen-light-a-retro-glow/l-intro-1794604676.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/she-upcycles-a-vintage-pyrex-dish-to-give-her-kitchen-light-a-retro-glow/l-intro-1794604676.jpg",
+        "https://www.hunker.com/img/gallery/she-upcycles-a-vintage-pyrex-dish-to-give-her-kitchen-light-a-retro-glow/intro-1794604676.jpg",
+        "https://www.hunker.com/img/gallery/she-upcycles-a-vintage-pyrex-dish-to-give-her-kitchen-light-a-retro-glow/make-your-own-pyrex-pendant-lamp-1794604678.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-11-16T03:30:00+00:00"
+    },
+    {
+      "id": "4649b72864eab6cf",
+      "title": "The No-Mess Way To Easily Upgrade Boring Toilet Hardware With Paint",
+      "summary": "The supply line behind your toilet can clash with a carefully styled bathroom. This toilet hardware painting trick keeps the focus on a coordinated finish.",
+      "url": "https://www.hunker.com/2316717/paint-toilet-hardware-no-mess-using-box/",
+      "image": "https://www.hunker.com/img/gallery/paint-toilet-hardware-no-mess-using-box/l-intro-1794716105.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/paint-toilet-hardware-no-mess-using-box/l-intro-1794716105.jpg",
+        "https://www.hunker.com/img/gallery/paint-toilet-hardware-no-mess-using-box/intro-1794716105.jpg",
+        "https://www.hunker.com/img/gallery/paint-toilet-hardware-no-mess-using-box/prepping-your-cardboard-box-spray-paint-tent-1794716106.jpg",
+        "https://www.hunker.com/img/gallery/paint-toilet-hardware-no-mess-using-box/disconnecting-the-toilet-supply-hose-and-spray-painting-in-place-1794716107.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-11-16T02:00:00+00:00"
+    },
+    {
+      "id": "fd9fef1b1b6983ba",
+      "title": "Turn Old Glass Jars Into Coastal-Inspired Countertop Storage With A Simple DIY",
+      "summary": "Thanks to pastel paint and rustic crafting embellishments, these upgraded glass jars work as pretty coastal decor while decluttering your countertops, too.",
+      "url": "https://www.hunker.com/2306236/turn-old-glass-jars-coastal-inspired-countertop-storage-diy/",
+      "image": "https://www.hunker.com/img/gallery/turn-old-glass-jars-into-coastal-inspired-countertop-storage-with-a-simple-diy/l-intro-1793783621.jpg",
+      "images": [
+        "https://www.hunker.com/img/gallery/turn-old-glass-jars-into-coastal-inspired-countertop-storage-with-a-simple-diy/l-intro-1793783621.jpg",
+        "https://www.hunker.com/img/gallery/turn-old-glass-jars-into-coastal-inspired-countertop-storage-with-a-simple-diy/intro-1793783621.jpg",
+        "https://www.hunker.com/img/gallery/turn-old-glass-jars-into-coastal-inspired-countertop-storage-with-a-simple-diy/tips-for-making-coastal-style-storage-containers-from-old-glass-jars-1793783622.jpg"
+      ],
+      "source": "Hunker",
+      "source_url": "https://www.hunker.com",
+      "published": "2026-11-16T00:00:00+00:00"
+    },
     {
       "id": "e6029139470732ec",
       "title": "P2: A Two-Level Apartment Made for Family Life",
@@ -81,28 +271,13 @@
       "published": "2026-11-15T23:11:25+00:00"
     },
     {
-      "id": "ec99dbe24162970a",
-      "title": "red corrugated metal and pine plywood wrap czech village house’s extension",
-      "summary": "in nečín village, facha architekti renovates a converted pigsty and weekend cabin with a self-built timber extension that expands living spaces toward a stepped larch terrace. The post red corrugated metal and pine plywood wrap czech village house’s extension appeared first on designboom | architecture & design magazine .",
-      "url": "https://www.designboom.com/architecture/red-corrugated-metal-pine-plywood-czech-village-house-extension-facha-architekti/",
-      "image": "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-700-500x400-22b08q85r538.jpg",
-      "images": [
-        "https://www.designboom.com/wp-content/uploads/2026/11/necin-czech-republic-house-red-addition-renovation-facha-architekti-designboom-700-500x400-22b08q85r538.jpg"
-      ],
-      "source": "Design Boom architecture",
-      "source_url": "https://www.designboom.com",
-      "published": "2026-11-15T21:35:39+00:00"
-    },
-    {
       "id": "1976a5f2b59b1b66",
       "title": "Boost Your Kitchen Storage With This Genius Dollar Tree Broom & Mug Rack DIY",
       "summary": "Running out of room for your favorite mugs? Grab some Dollar Tree brooms and a few other supplies to create a mug organizer that saves space and looks stylish.",
       "url": "https://www.hunker.com/2316876/dollar-tree-broomstick-mug-rack-diy-kitchen-storage/",
       "image": "https://www.hunker.com/img/gallery/boost-your-kitchen-storage-with-this-genius-dollar-tree-broom-mug-rack-diy/l-intro-1794672064.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/boost-your-kitchen-storage-with-this-genius-dollar-tree-broom-mug-rack-diy/l-intro-1794672064.jpg",
-        "https://www.hunker.com/img/gallery/boost-your-kitchen-storage-with-this-genius-dollar-tree-broom-mug-rack-diy/intro-1794672064.jpg",
-        "https://www.hunker.com/img/gallery/boost-your-kitchen-storage-with-this-genius-dollar-tree-broom-mug-rack-diy/how-to-make-a-budget-friendly-mug-rack-using-dollar-tree-materials-1794672066.jpg"
+        "https://www.hunker.com/img/gallery/boost-your-kitchen-storage-with-this-genius-dollar-tree-broom-mug-rack-diy/l-intro-1794672064.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -115,9 +290,7 @@
       "url": "https://www.hunker.com/2304201/clothespins-diy-countertop-storage-box/",
       "image": "https://www.hunker.com/img/gallery/use-clothespins-to-create-a-cute-countertop-storage-box-with-a-fun-diy/l-intro-1794250212.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/use-clothespins-to-create-a-cute-countertop-storage-box-with-a-fun-diy/l-intro-1794250212.jpg",
-        "https://www.hunker.com/img/gallery/use-clothespins-to-create-a-cute-countertop-storage-box-with-a-fun-diy/intro-1794250212.jpg",
-        "https://www.hunker.com/img/gallery/use-clothespins-to-create-a-cute-countertop-storage-box-with-a-fun-diy/how-to-make-your-storage-container-1794250216.jpg"
+        "https://www.hunker.com/img/gallery/use-clothespins-to-create-a-cute-countertop-storage-box-with-a-fun-diy/l-intro-1794250212.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
@@ -132,10 +305,10 @@
       "images": [
         "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Painted-This-Dark-Brown-Pine-Hutch-Pale-Green-but-Kept-the-Wood-Top-Dark.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/10/Modern-Nickel-Hardware-Replaced-the-Old-Pulls.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Her-Mom-No-Longer-Needed-the-Old-Kitchen-Island.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/10/Pale-Green-Paint-Changed-the-Entire-Cabinet.jpg",
         "https://cdn.homedit.com/wp-content/uploads/2026/10/Pale-Green-and-Dark-Wood-Gave-the-Hutch-a-New-Look.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Dark-Brown-Finish-Covered-the-Pine-Hutch.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Dark-Brown-Finish-Covered-the-Pine-Hutch.jpg",
+        "https://cdn.homedit.com/wp-content/uploads/2026/10/Side-by-side-before-paint-hutch.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -179,52 +352,11 @@
       "url": "https://www.hunker.com/2312419/use-old-ladder-to-make-entryway-organizer-rustic-charm/",
       "image": "https://www.hunker.com/img/gallery/turn-an-old-ladder-into-a-showstopping-entryway-organizer-full-of-rustic-charm/l-intro-1794335887.jpg",
       "images": [
-        "https://www.hunker.com/img/gallery/turn-an-old-ladder-into-a-showstopping-entryway-organizer-full-of-rustic-charm/l-intro-1794335887.jpg",
-        "https://www.hunker.com/img/gallery/turn-an-old-ladder-into-a-showstopping-entryway-organizer-full-of-rustic-charm/intro-1794335887.jpg",
-        "https://www.hunker.com/img/gallery/turn-an-old-ladder-into-a-showstopping-entryway-organizer-full-of-rustic-charm/a-rustic-ladder-is-easy-to-upcycle-into-an-entryway-organizer-1794335889.jpg"
+        "https://www.hunker.com/img/gallery/turn-an-old-ladder-into-a-showstopping-entryway-organizer-full-of-rustic-charm/l-intro-1794335887.jpg"
       ],
       "source": "Hunker",
       "source_url": "https://www.hunker.com",
       "published": "2026-11-15T18:00:00+00:00"
-    },
-    {
-      "id": "2976d02bc83241bc",
-      "title": "An Old Wine Glass + A Little Creativity = A Stylish Floral Centerpiece",
-      "summary": "Use an old wine glass that's gathering dust in your cupboard to make this beautiful floral centerpiece. All it takes are a few dollar store items to make it.",
-      "url": "https://www.hunker.com/2313321/use-old-wine-glass-diy-floral-centerpiece/",
-      "image": "https://www.hunker.com/img/gallery/an-old-wine-glass-a-little-creativity-a-stylish-floral-centerpiece/l-intro-1794406186.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/an-old-wine-glass-a-little-creativity-a-stylish-floral-centerpiece/l-intro-1794406186.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-11-15T15:30:00+00:00"
-    },
-    {
-      "id": "2641ae0ce1289ed0",
-      "title": "She Grabs A Plain Stool And Quikrete To Make A Durable Plant Stand",
-      "summary": "While plant stands are meant to highlight plants, that doesn't mean the stand has to be plain. This DIYer uses Quikrete and a stool to make an upgraded one.",
-      "url": "https://www.hunker.com/2316805/turn-plain-stool-into-durable-plant-stand-add-quikrete-top/",
-      "image": "https://www.hunker.com/img/gallery/she-grabs-a-plain-stool-and-quikrete-to-make-a-durable-plant-stand/l-intro-1794647670.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/she-grabs-a-plain-stool-and-quikrete-to-make-a-durable-plant-stand/l-intro-1794647670.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-11-15T15:00:00+00:00"
-    },
-    {
-      "id": "7f575c45d3836400",
-      "title": "Not Plastic Shower Curtains: A Cuter Way To Add Privacy With A Classic Look",
-      "summary": "Plastic shower curtains aren't exactly known for their good looks. This alternative brings a touch of elegance and complements any bathroom style.",
-      "url": "https://www.hunker.com/2316864/not-plastic-shower-curtains-cuter-way-to-add-privacy/",
-      "image": "https://www.hunker.com/img/gallery/not-plastic-shower-curtains-a-cuter-way-to-add-privacy-with-a-classic-look/l-intro-1794666924.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-plastic-shower-curtains-a-cuter-way-to-add-privacy-with-a-classic-look/l-intro-1794666924.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-11-15T14:30:00+00:00"
     },
     {
       "id": "8480251e38194382",
@@ -233,12 +365,7 @@
       "url": "https://www.homedit.com/her-mom-was-about-to-throw-away-an-old-kitchen-island-but-she-painted-it-creme-brulee-and-made-it-look-200-years-old/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/Her-Mom-Was-About-to-Throw-Away-an-Old-Kitchen-Island-but-She-Painted-It-Creme-Brulee-and-Made-It-Look-200-Years-Old.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Her-Mom-Was-About-to-Throw-Away-an-Old-Kitchen-Island-but-She-Painted-It-Creme-Brulee-and-Made-It-Look-200-Years-Old.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/From-the-opposite-end-the-vertical-beadboard.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/French-country-new-island-makeover.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Dark-Brown-Wax-Made-the-New-Paint-Look-Aged.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/The-painted-surfaces-retained.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Creme-Brulee-Chalk-Paint-Replaced-the-White-Finish.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Her-Mom-Was-About-to-Throw-Away-an-Old-Kitchen-Island-but-She-Painted-It-Creme-Brulee-and-Made-It-Look-200-Years-Old.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -264,12 +391,7 @@
       "url": "https://www.homedit.com/instead-of-laying-patio-tiles-she-used-painters-tape-and-two-paint-colors-on-her-concrete-patio/",
       "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/Instead-of-Laying-Patio-Tiles-She-Used-Painters-Tape-and-Two-Paint-Colors-on-Her-Concrete-Patio.jpg",
       "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Instead-of-Laying-Patio-Tiles-She-Used-Painters-Tape-and-Two-Paint-Colors-on-Her-Concrete-Patio.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Her-Mom-No-Longer-Needed-the-Old-Kitchen-Island.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/They-bought-a-new-house-but-their-neighbors-demanded-money-for-a-fence-built-before-they-moved-in-and-refused-to-show-the-bill.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/She-Painted-This-Dark-Brown-Pine-Hutch-Pale-Green-but-Kept-the-Wood-Top-Dark.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/She-Glued-Dried-Orange-Slices-to-Cardboard-and-Turned-It-Into-a-Christmas-Door-Wreath.jpg",
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Goodbye-Standard-Tables-and-Cabinets-These-6-Furniture-Designs-Look-Nothing-Like-What-Youd-Expect.jpg"
+        "https://cdn.homedit.com/wp-content/uploads/2026/11/Instead-of-Laying-Patio-Tiles-She-Used-Painters-Tape-and-Two-Paint-Colors-on-Her-Concrete-Patio.jpg"
       ],
       "source": "Homedit",
       "source_url": "https://www.homedit.com",
@@ -289,74 +411,17 @@
       "published": "2026-11-15T11:49:05+00:00"
     },
     {
-      "id": "c97ae48b09de61d1",
-      "title": "They Ripped Out a 30-Year-Old Kitchen and Replaced the Dark Brown Cabinets With Sage Green",
-      "summary": "Dark brown cabinets lined both sides of this Glasgow tenement kitchen, paired with black countertops, a mosaic backsplash, orange-painted walls, and vinyl flooring that had been in place for 30 years. Rather than repaint the cabinets, the homeowners behind Instagram account @oldglasgowtenement stripped the room back to its floorboards and started a complete renovation. The... The post They Ripped Out a 30-Year-Old Kitchen and Replaced the Dark Brown Cabinets With Sage Green appeared first on Homedit .",
-      "url": "https://www.homedit.com/they-ripped-out-a-30-year-old-kitchen-and-replaced-the-dark-brown-cabinets-with-sage-green/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/They-Ripped-Out-a-30-Year-Old-Kitchen-and-Replaced-the-Dark-Brown-Cabinets-With-Sage-Green.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/They-Ripped-Out-a-30-Year-Old-Kitchen-and-Replaced-the-Dark-Brown-Cabinets-With-Sage-Green.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-11-15T10:00:55+00:00"
-    },
-    {
       "id": "4c9c2c248fc3f72f",
       "title": "Mecanoo transforms former gold vault into \"city’s living room\" in renovation of De Nederlandsche Bank in Amsterdam",
       "summary": "Dutch firm Mecanoo has completed a major renovation of the Netherlands' central bank, which involved dismantling a 14-storey tower and opening up the former gold vault. The post Mecanoo transforms former gold vault into \"city’s living room\" in renovation of De Nederlandsche Bank in Amsterdam appeared first on Dezeen .",
       "url": "https://www.dezeen.com/2026/11/15/netherlands-central-bank-renovation-mecanoo/",
       "image": "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0.jpg",
       "images": [
-        "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0.jpg",
-        "https://static-2026.dezeen.com/uploads/2025/12/natural-history-museum-abu-dhabi-architecture-cultural-saadiyat-island-lizzie_dezeen_2364_sq.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_00.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_01.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_02.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/plans-sections_dezeen_2364_col_03.jpg"
+        "https://static-2026.dezeen.com/uploads/2026/11/mecanoo-de-nederlandsche-bank_dezeen_2364_sq_0.jpg"
       ],
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-11-15T10:00:00+00:00"
-    },
-    {
-      "id": "2e76b1602542c812",
-      "title": "His Wife Saw an Olive Green Bathroom on Pinterest, So He Spent a Month Recreating It in Their Half Bath",
-      "summary": "A white pedestal sink, oval mirror, and dark green walls filled this small half bathroom. The room had wood-look flooring, white baseboards, and basic wall fixtures, but no molding or paneling. The homeowner had no plans for a major renovation until his wife showed him a bathroom she had found on Pinterest. She wanted olive... The post His Wife Saw an Olive Green Bathroom on Pinterest, So He Spent a Month Recreating It in Their Half Bath appeared first on Homedit .",
-      "url": "https://www.homedit.com/his-wife-saw-an-olive-green-bathroom-on-pinterest-so-he-spent-a-month-recreating-it-in-their-half-bath/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/His-Wife-Saw-an-Olive-Green-Bathroom-on-Pinterest-So-He-Spent-a-Month-Recreating-It-in-Their-Half-Bath.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/His-Wife-Saw-an-Olive-Green-Bathroom-on-Pinterest-So-He-Spent-a-Month-Recreating-It-in-Their-Half-Bath.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-11-15T08:32:46+00:00"
-    },
-    {
-      "id": "2b1987280015e22c",
-      "title": "She Bought a $25 Jewelry Chest and Cut a Marilyn Monroe Photo Into Four Pieces to Cover Its Drawers",
-      "summary": "A small vintage jewelry chest had four drawers, curved sides, gold handles, and cream paint decorated with floral scrollwork. Its shaped top and slender legs gave it the appearance of a miniature dresser, with enough storage for rings, necklaces, and other accessories. The chest cost $25, but its new owner had something different in mind.... The post She Bought a $25 Jewelry Chest and Cut a Marilyn Monroe Photo Into Four Pieces to Cover Its Drawers appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-bought-a-25-jewelry-chest-and-cut-a-marilyn-monroe-photo-into-four-pieces-to-cover-its-drawers/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/She-Bought-a-25-Jewelry-Chest-and-Cut-a-Marilyn-Monroe-Photo-Into-Four-Pieces-to-Cover-Its-Drawers.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/She-Bought-a-25-Jewelry-Chest-and-Cut-a-Marilyn-Monroe-Photo-Into-Four-Pieces-to-Cover-Its-Drawers.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-11-15T07:25:21+00:00"
-    },
-    {
-      "id": "bd13fd430defdeb0",
-      "title": "She painted the dark wood cabinets Soft Chinchilla, and the whole apartment feels finished",
-      "summary": "Devyn LaCamera bought her apartment over the summer, and the moment she saw the kitchen, she “instantly knew” it needed work. Dark, standard wood-grain cabinets ran around the room, the counters were black granite, and the appliances were dated. The cabinets just didn’t fit the rest of her home. “I love interior decorating, and am... The post She painted the dark wood cabinets Soft Chinchilla, and the whole apartment feels finished appeared first on Homedit .",
-      "url": "https://www.homedit.com/she-painted-the-dark-wood-cabinets-soft-chinchilla-and-the-whole-apartment-feels-finished-9g6a/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/11/Dark-wood-kitchen-before-blue-makeover-©-Devyn-LaCamera.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/11/Dark-wood-kitchen-before-blue-makeover-©-Devyn-LaCamera.jpg"
-      ],
-      "source": "Homedit",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-11-15T07:00:48+00:00"
     },
     {
       "id": "a9c98397938d7c28",
@@ -365,29 +430,11 @@
       "url": "https://www.dezeen.com/2026/11/15/kohler-gut-health-tracker-dekoda/",
       "image": "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_sq.jpg",
       "images": [
-        "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_sq.jpg",
-        "https://static-2026.dezeen.com/uploads/2025/10/urify-james-dyson-award-sq.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_9.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_0.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_1.jpg",
-        "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_col_2.jpg"
+        "https://static-2026.dezeen.com/uploads/2026/11/kohler-health-dekoda-design_dezeen_2364_sq.jpg"
       ],
       "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-11-15T06:00:00+00:00"
-    },
-    {
-      "id": "9c39bb4115406ad4",
-      "title": "The Paint Color That Takes Kitchens All The Way Back To The '50s",
-      "summary": "The days of minimalist kitchens are over and spaces are beginning to have character again. And nothing says character like this popular color from the '50s.",
-      "url": "https://www.hunker.com/2315668/pink-paint-color-retro-kitchen-50s/",
-      "image": "https://www.hunker.com/img/gallery/the-paint-color-that-takes-kitchens-all-the-way-back-to-the-50s/l-intro-1794561261.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/the-paint-color-that-takes-kitchens-all-the-way-back-to-the-50s/l-intro-1794561261.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-11-15T03:00:00+00:00"
     },
     {
       "id": "2935ec0b2b74a746",
@@ -403,19 +450,6 @@
       "published": "2026-11-15T02:45:03+00:00"
     },
     {
-      "id": "94e5ba8b70ccfa69",
-      "title": "Not Subway Tile Backsplash: The Gorgeous Alternative Dave & Jenny Marrs Prefer",
-      "summary": "Instead of subway backsplash, Dave and Jenny Marrs opt for tiles renowned for their intricate, colorful patterns, recalling the pretty walkways found overseas.",
-      "url": "https://www.hunker.com/2313643/subway-tile-backsplashes-gorgeous-alternative-dave-jenny-marrs/",
-      "image": "https://www.hunker.com/img/gallery/not-subway-tile-backsplash-the-gorgeous-alternative-dave-jenny-marrs-prefer/l-intro-1794415413.jpg",
-      "images": [
-        "https://www.hunker.com/img/gallery/not-subway-tile-backsplash-the-gorgeous-alternative-dave-jenny-marrs-prefer/l-intro-1794415413.jpg"
-      ],
-      "source": "Hunker",
-      "source_url": "https://www.hunker.com",
-      "published": "2026-11-15T02:30:00+00:00"
-    },
-    {
       "id": "2efe1d8fde709225",
       "title": "Plissè Block Is A Pleated Glass Sofa That Refuses to Blend In",
       "summary": "Plissè Block Is A Pleated Glass Sofa That Refuses to Blend In A sofa can dominate a living room before anyone sits down. Give it a solid base, substantial arms, and a high back, and suddenly the...",
@@ -425,9 +459,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/plisse-block-is-a-pleated-glass-sofa-that-refuses-to-blend-in/plisse-block-0.jpg",
         "https://www.yankodesign.com/images/design_news/2026/11/7-black-friday-edc-knife-picks-that-range-from-genuinely-practical-to-delightfully-unnecessary/WeKnife-Hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/11/four-toolheads-one-rail-nothing-swaps-meet-the-649-co-print-quadro-3d-printer/quadro-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2023/01/a-compact-hatchback-concept-designed-for-foodie-adventurers/HAVEN-Autonomous-vehicle-14.jpg",
-        "https://www.yankodesign.com/images/design_news/2020/09/xDrill_smart_drill_with_laser_measuring_and_leveling.jpg",
-        "https://www.yankodesign.com/images/design_news/2026/08/this-2799-device-turns-your-desktop-into-a-custom-apparel-printing-factory-with-air-purification/XtraMaker_M1M1_Pro_Your_5_in_1_Automated_DTF_Studio_hero.jpg"
+        "https://www.yankodesign.com/images/design_news/2013/08/13/pixelate_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2026/08/nevi-brings-a-little-playfulness-to-the-serious-desk-lamp/nevi_kinetic_desk_lamp_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2021/09/backpack_and_modular_ecosystem_with_next_level_expandability.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -519,11 +553,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/honey-oak-kitchen-wide-view-before.jpg",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/honey-oak-kitchen-wide-view-before.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -537,11 +571,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/builder-grade-pantry-before-narrow-wire-shelves.jpg",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/builder-grade-pantry-before-narrow-wire-shelves.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -580,12 +614,7 @@
       "url": "https://www.trendir.com/the-triangle-method-designers-use-to-style-shelves-so-they-look-balanced-not-cluttered-ccmag44/",
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Styling-shelves-with-triangle-method-©_milorad-kravic.jpg",
       "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Styling-shelves-with-triangle-method-©_milorad-kravic.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Styling-shelves-with-triangle-method-©_milorad-kravic.jpg"
       ],
       "source": "Trendir",
       "source_url": "https://www.trendir.com",
@@ -601,9 +630,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/kino-chair/kino_chair_yanko_design_01.jpg",
         "https://www.yankodesign.com/images/design_news/2026/11/7-black-friday-edc-knife-picks-that-range-from-genuinely-practical-to-delightfully-unnecessary/WeKnife-Hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/11/four-toolheads-one-rail-nothing-swaps-meet-the-649-co-print-quadro-3d-printer/quadro-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/05/auto-draft/sirocco_speaker_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/02/furniture-hidden-details/furniture_hidden_details_yanko_design_hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2024/04/reviving-elegance-in-design-the-porsche-pepita-edition-by-vitra-blends-classic-and-modern-mastery/Porsche-x-Vitra-Collab-1.jpg"
+        "https://www.yankodesign.com/images/design_news/2025/07/auto-draft/he_she_slippers_1.jpg",
+        "https://www.yankodesign.com/images/design_news/2014/02/13/window_air_purifier.jpg",
+        "https://www.yankodesign.com/images/design_news/2025/08/modos-paper-dev-kit-brings-high-refresh-e-ink-to-designers-and-makers/modos-paper-dev-kit-01.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -643,19 +672,6 @@
       "image": "https://cdn.apartmenttherapy.info/image/upload//stock/GettyImages-1945197389",
       "images": [
         "https://cdn.apartmenttherapy.info/image/upload//stock/GettyImages-1945197389"
-      ],
-      "source": "Apartment Therapy",
-      "source_url": "https://www.apartmenttherapy.com",
-      "published": "2026-11-13T19:30:00+00:00"
-    },
-    {
-      "id": "3b9c2af38547fb73",
-      "title": "This Luxurious, Pet-Friendly Sectional Seems Too Good to Be True (but It’s Not)",
-      "summary": "When my boyfriend (now fiancé) Jeremy and I moved in together, we didn’t have a sofa or much of a budget for one. I quickly found an affordable sofa on Amazon that was the perfect “starter” sectional, but a year later we weren’t happy with it. While it was comfortable and looked great in our living room, the fabric constantly pilled, the foam needed daily fluffing, and the cushions shifted after lounging. READ MORE...",
-      "url": "https://www.apartmenttherapy.com/7th-avenue-thin-modular-sectional-review-37695581?utm_source=RSS&utm_medium=feed&utm_campaign=Category%2FChannel%3A+main",
-      "image": "https://cdn.apartmenttherapy.info/image/upload//shopping/at/2026/2026-10/7th-avenue-sectional/modular-corner-lounger-sectional-3",
-      "images": [
-        "https://cdn.apartmenttherapy.info/image/upload//shopping/at/2026/2026-10/7th-avenue-sectional/modular-corner-lounger-sectional-3"
       ],
       "source": "Apartment Therapy",
       "source_url": "https://www.apartmenttherapy.com",
@@ -899,21 +915,6 @@
       "published": "2026-11-12T20:18:29+00:00"
     },
     {
-      "id": "32d32afec98aea58",
-      "title": "Eha is the new wellness retreat rooted in Estonian culture",
-      "summary": "Programmed around Hiiumaa Island's unique five-season calendar, Eha proposes a new method for retreating from the everyday and finding solace in nature.",
-      "url": "https://www.wallpaper.com/travel/eha-is-the-new-wellness-retreat-rooted-in-estonian-culture",
-      "image": "https://cdn.mos.cms.futurecdn.net/7rSskufux2tzhcBq9AoWsP.jpg",
-      "images": [
-        "https://cdn.mos.cms.futurecdn.net/7rSskufux2tzhcBq9AoWsP.jpg",
-        "https://cdn.mos.cms.futurecdn.net/Gksv8HM2gLnpcijk3i63RT.jpg",
-        "https://cdn.mos.cms.futurecdn.net/mvEk3i4yDJ5epG9EXytMPT.jpg"
-      ],
-      "source": "Wallpaper",
-      "source_url": "https://www.wallpaper.com",
-      "published": "2026-11-12T20:00:00+00:00"
-    },
-    {
       "id": "e1e8bd448c9f7183",
       "title": "Crosslam completes Brazil's tallest mass-timber tower",
       "summary": "Engineering company Crosslam has designed and built Aurora 275, a hybrid building with mass-timber elements that the company claims is the tallest of its type in Brazil. The post Crosslam completes Brazil's tallest mass-timber tower appeared first on Dezeen .",
@@ -966,19 +967,6 @@
       "published": "2026-11-12T12:40:11+00:00"
     },
     {
-      "id": "dc7859eafe79aaae",
-      "title": "The grown-ups might get jealous of these 5 kids chairs with their clever shapes and cheerful colors",
-      "summary": "A kid’s chair has to do two things at once: look right in the room and be something a small person will actually sit in. Most store-bought ones only hit one of those marks. These 5 kids chair ideas get both right, and they all pull from rooms that look lived in, not styled for […] The post The grown-ups might get jealous of these 5 kids chairs with their clever shapes and cheerful colors appeared first on Trendir .",
-      "url": "https://www.trendir.com/kids-chair-ideas-that-actually-fit-into-a-real-kids-room/",
-      "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Kids-Chair-Ideas.png",
-      "images": [
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Kids-Chair-Ideas.png"
-      ],
-      "source": "Trendir",
-      "source_url": "https://www.trendir.com",
-      "published": "2026-11-12T12:00:00+00:00"
-    },
-    {
       "id": "ea12cb51dab12d3a",
       "title": "EMBT shelters Naples metro station beneath \"natural and welcoming\" vaulted timber roof",
       "summary": "Spanish architecture studio EMBT has completed the Naples Underground Central Station in Italy, contrasting its modernist surroundings with a wavy timber roof. The post EMBT shelters Naples metro station beneath \"natural and welcoming\" vaulted timber roof appeared first on Dezeen .",
@@ -1000,7 +988,7 @@
       "images": [
         "https://static-2026.dezeen.com/uploads/2026/11/cloudhaus-hotel-chongqing-chinaroomoo-design-studio-sq_dezeen_2364_col_1.jpg"
       ],
-      "source": "Dezeen Interiors",
+      "source": "Dezeen",
       "source_url": "https://www.dezeen.com",
       "published": "2026-11-12T11:00:00+00:00"
     },
@@ -1193,11 +1181,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Hotel-Room-Design-Ideas.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Hotel-Room-Design-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg"
       ],
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
@@ -1211,11 +1199,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Hot-Chocolate-Bar-Ideas.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Hot-Chocolate-Bar-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg"
       ],
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
@@ -1301,24 +1289,6 @@
       "published": "2026-11-11T08:00:13+00:00"
     },
     {
-      "id": "6b9d46b35a9da162",
-      "title": "Why your kitchen tap matters more than you think",
-      "summary": "How to choose the perfect kitchen tap with 10 worth buying right now The post Why your kitchen tap matters more than you think appeared first on Homes To Love .",
-      "url": "https://www.homestolove.com.au/rooms/kitchens/kitchen-taps-australia-19880/",
-      "image": "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/12/kitchen-sink-mixer-australia--69e6fd5723226.jpg?format=auto&v=1776746379",
-      "images": [
-        "https://www.homestolove.com.au/wp-content/uploads/sites/9/2024/12/kitchen-sink-mixer-australia--69e6fd5723226.jpg?format=auto&v=1776746379",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2022/06/30/1656569662127_nostalgic-tap.png",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/homes/2022/06/30/1656571444853_billi-dispenser.png",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2024/12/kitchen-sink-mixer-australia--69e6fd5723226.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/11/hero-crop-2026-11-12t170338.950-6af6bd1961e31.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/9/2026/11/copy-of-site-feature-horizontal-1920-x-1080-2026-11-13t160321.676-6af69a2178a56.png?w=2730&format=auto"
-      ],
-      "source": "Homes To Love AU",
-      "source_url": "https://www.homestolove.com.au",
-      "published": "2026-11-11T06:26:09+00:00"
-    },
-    {
       "id": "950928d089a606bf",
       "title": "The secret to decorating a room when you have absolutely nothing to start with",
       "summary": "No furniture, no plan, no problem. The post The secret to decorating a room when you have absolutely nothing to start with appeared first on Home Beautiful .",
@@ -1327,27 +1297,14 @@
       "images": [
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/11/colourful-and-bright-living-room-6af3f830f2906.png?format=auto&v=1794373766",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/colourful-and-bright-living-room-6af3f830f2906.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/1920-x-1080-commercial-feat-image-23-6af4fd293b6ba.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/nsw-laws-listing-prices-6af675020983f-scaled.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/hb_wordpress_hero_2026-3-6abf0c73d823c-scaled.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/pat-cummins-homes-6af65a234fa15-scaled.jpg?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/best-black-friday-sofa-sales-kave-home-mcmullin-koala-interior-secrets-6afa845944ee1.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/hb-main-x-luxaflex-6af1641caa12f.png?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/umb-media/27333/lucy-francis.png?w=2048&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2613p189_cover-marketing_v0.2-6afa2e8c5769e-scaled.jpg?format=auto&resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
       "published": "2026-11-11T06:12:10+00:00"
-    },
-    {
-      "id": "79a6e2537747881d",
-      "title": "Who is topping the My Kitchen Rules 2026 leaderboard this week?",
-      "summary": "Updated every episode! The post Who is topping the My Kitchen Rules 2026 leaderboard this week? appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/lifestyle/mkr-leaderboard-2026/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/11/mkr-kitchen-hq-6ae95b46812bb.png?format=auto&v=1793678150",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/11/mkr-kitchen-hq-6ae95b46812bb.png?format=auto&v=1793678150"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-11-11T05:43:07+00:00"
     },
     {
       "id": "cc702be185aefd1b",
@@ -1434,9 +1391,9 @@
         "https://www.yankodesign.com/images/design_news/2026/11/this-self-driving-hospital-chair-wants-to-retire-hollywoods-dramatic-gurney-sprint/autonomous_clinical_mobility_1.jpg",
         "https://www.yankodesign.com/images/design_news/2026/11/7-black-friday-edc-knife-picks-that-range-from-genuinely-practical-to-delightfully-unnecessary/WeKnife-Hero.jpg",
         "https://www.yankodesign.com/images/design_news/2026/11/four-toolheads-one-rail-nothing-swaps-meet-the-649-co-print-quadro-3d-printer/quadro-hero.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/11/moto-parilla-tricolore-electric-mtb-has-more-carbon-fiber-than-your-favorite-superbike/Moto-parilla-Tricolore-e-bike-11.jpg",
-        "https://www.yankodesign.com/images/design_news/2022/04/this-pasta-bowl-was-designed-to-highlight-the-imperfect-beauty-of-parmigiano-reggianos-cheese/parmigiano_reggiano_keyshot_pasta_bowl_1.jpg",
-        "https://www.yankodesign.com/images/design_news/2015/12/auto-draft/trapeze_01.jpg"
+        "https://www.yankodesign.com/images/design_news/2014/05/27/audiobendr_01.jpg",
+        "https://www.yankodesign.com/images/design_news/2013/01/04/nokia_windows_phone3.jpg",
+        "https://www.yankodesign.com/images/design_news/2015/08/draft-samsung-galaxy-gear/samsung_galaxy_gear_1.jpg"
       ],
       "source": "Yanko Design furniture",
       "source_url": "https://www.yankodesign.com",
@@ -1518,19 +1475,6 @@
       "published": "2026-11-10T16:52:29+00:00"
     },
     {
-      "id": "4b1aaca6778c8969",
-      "title": "Another Spin on the Carousel by Eutropia Architettura",
-      "summary": "Another Spin on the Carousel brings a 1960s house in Roccamare, Italy, into the present while retaining its Wright-inspired character. Eutropia Architettura works with the existing stone-and-wood structure, broad glazing, and close relationship to the garden, setting natural materials against bronze-toned metal, mirrors, and custom furnishings. Across the renovation, landscape, light, and traces of the […] The post Another Spin on the Carousel by Eutropia Architettura first appeared on HomeAdore .",
-      "url": "https://homeadore.com/2026/11/10/another-spin-on-the-carousel-by-eutropia-architettura/",
-      "image": "https://homeadore.com/wp-content/uploads/2026/11/001-another-spin-on-the-carousel-by-eutropia-architettura.jpg",
-      "images": [
-        "https://homeadore.com/wp-content/uploads/2026/11/001-another-spin-on-the-carousel-by-eutropia-architettura.jpg"
-      ],
-      "source": "Home Adore",
-      "source_url": "http://homeadore.com",
-      "published": "2026-11-10T15:51:06+00:00"
-    },
-    {
       "id": "64c5d57637e8d62e",
       "title": "A Bright Lowcountry Cottage Kitchen & Dining Room by Beth Webb",
       "summary": "Atlanta-based interior designer Beth Webb creates a traditional yet fresh guest cottage kitchen and dining room at a Brays Island, South Carolina home. The post A Bright Lowcountry Cottage Kitchen & Dining Room by Beth Webb appeared first on Period Homes .",
@@ -1570,21 +1514,6 @@
       "published": "2026-11-10T09:00:26+00:00"
     },
     {
-      "id": "429ff40276f52dc8",
-      "title": "Un hôtel planté sur un archipel ultra confidentiel près de la Norvège",
-      "summary": "Au large des côtes norvégiennes, l’archipel de Træna accueille Ytri Island Retreat, nouvelle adresse Relais & Châteaux pensée en lien étroit avec ce territoire isolé. Un hôtel confidentiel où gastronomie, architecture et paysages spectaculaires participent à la sensation rare d’être hors du temps.",
-      "url": "https://www.milkdecoration.com/un-hotel-plante-sur-un-archipel-ultra-confidentiel-pres-de-la-norvege/",
-      "image": "https://www.milkdecoration.com/wp-content/uploads/2026/11/v9a2179.jpg",
-      "images": [
-        "https://www.milkdecoration.com/wp-content/uploads/2026/11/v9a2179.jpg",
-        "https://www.milkdecoration.com/wp-content/uploads/2026/11/v9a1886.jpg",
-        "https://www.milkdecoration.com/wp-content/uploads/2026/11/v9a1180.jpg"
-      ],
-      "source": "MilK Decoration",
-      "source_url": "https://www.milkdecoration.com",
-      "published": "2026-11-10T06:00:00+00:00"
-    },
-    {
       "id": "da5309bb43b5d5e8",
       "title": "Клиентов меньше, привлечение дороже: что делать мебельному бизнесу в 2027 году",
       "summary": "23 ноября на выставке «Мебель-2026» эксперты разберут стратегии продаж, маркетинга и управления. 23 ноября 2026 года на площадке «Формула продаж» в рамках выставки «Мебель-2026» состоится самая большая практическая конференция по продажам в мебельной отрасли – «Мебельный бизнес по-русски 2026. Что делать в 2027 году, когда клиентов нет, продажи упали, деньги закончились» . Ключевой партнер мероприятия – компания «МИР. Мебель. Инвестиции. Ритейл». Мероприятие ориентировано на собственников и топ-менеджеров мебельных компаний. Программа построена вокруг ключевых проблем современного…",
@@ -1607,9 +1536,9 @@
         "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/01/best-dishwashers-australia-2026-best-easy-lift-dishwasher-best-built-in-dishwasher-6a8e21c35efeb.png?format=auto&v=1787699661",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2022/04/1649664200626_grand-hamptons-new-build-rural-sydney-white-glass-cabinetry.jpg",
         "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/01/best-dishwashers-australia-2026-best-easy-lift-dishwasher-best-built-in-dishwasher-6a8e21c35efeb.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/1920-x-1080-commercial-feat-image-23-6af4fd293b6ba.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/nsw-laws-listing-prices-6af675020983f-scaled.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/hb_wordpress_hero_2026-3-6abf0c73d823c-scaled.jpg?w=2730&format=auto"
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/best-black-friday-sofa-sales-kave-home-mcmullin-koala-interior-secrets-6afa845944ee1.png?w=2730&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/hb-main-x-luxaflex-6af1641caa12f.png?w=2729&format=auto",
+        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2023/07/ob2613p189_cover-marketing_v0.2-6afa2e8c5769e-scaled.jpg?format=auto&resize=2001%2C2560"
       ],
       "source": "Home Beautiful AU",
       "source_url": "https://www.homebeautiful.com.au",
@@ -1642,24 +1571,6 @@
       "published": "2026-11-09T21:44:26+00:00"
     },
     {
-      "id": "24f4a63f26000e09",
-      "title": "A Kitchen in Bloom: How Tiffany Howell and Miele Seductively Reimagine the Heart of the Home",
-      "summary": "Step inside Art Basel as visionaries Tiffany Howell and Asher Young merge cutting-edge technology with untamed botanical romance, staging an immersive sensory landscape you don’t just see, but feel.",
-      "url": "https://www.veranda.com/home-decorators/a74377360/a-kitchen-in-bloom-how-tiffany-howell-and-miele-seductively-reimagine-the-heart-of-the-home/",
-      "image": "https://hips.hearstapps.com/hmg-prod/images/df769e7a-9325-44b4-a5c8-9c216e70b1bb.jpeg",
-      "images": [
-        "https://hips.hearstapps.com/hmg-prod/images/df769e7a-9325-44b4-a5c8-9c216e70b1bb.jpeg",
-        "https://hips.hearstapps.com/hmg-prod/images/89f9f092-cbb4-46ab-96b9-17c5251db9ad.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/c2f74bdc-5e82-47ad-a17d-493b3b3a4ebc.png",
-        "https://hips.hearstapps.com/hmg-prod/images/d92538c3-ff71-4e80-a4db-355691d8c20f.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/veranda-holidayhosting-camp-keithmeacham-tablescape-steelemarcoux-692e067601527.jpg",
-        "https://hips.hearstapps.com/hmg-prod/images/c6138eb0-a6fd-41e4-978a-471b94d6ac9e.jpg"
-      ],
-      "source": "Veranda",
-      "source_url": "https://www.veranda.com",
-      "published": "2026-11-09T21:05:00+00:00"
-    },
-    {
       "id": "9eb224e923fe50bd",
       "title": "A Kitchen in Bloom: Inside Miele’s Lush Botanical Oasis Where Art Meets Design",
       "summary": "Step inside Art Basel as visionaries Tiffany Howell and Asher Young merge cutting-edge technology with untamed botanical romance, staging an immersive sensory landscape you don’t just see, but feel.",
@@ -1678,6 +1589,24 @@
       "published": "2026-11-09T21:05:00+00:00"
     },
     {
+      "id": "24f4a63f26000e09",
+      "title": "A Kitchen in Bloom: How Tiffany Howell and Miele Seductively Reimagine the Heart of the Home",
+      "summary": "Step inside Art Basel as visionaries Tiffany Howell and Asher Young merge cutting-edge technology with untamed botanical romance, staging an immersive sensory landscape you don’t just see, but feel.",
+      "url": "https://www.veranda.com/home-decorators/a74377360/a-kitchen-in-bloom-how-tiffany-howell-and-miele-seductively-reimagine-the-heart-of-the-home/",
+      "image": "https://hips.hearstapps.com/hmg-prod/images/df769e7a-9325-44b4-a5c8-9c216e70b1bb.jpeg",
+      "images": [
+        "https://hips.hearstapps.com/hmg-prod/images/df769e7a-9325-44b4-a5c8-9c216e70b1bb.jpeg",
+        "https://hips.hearstapps.com/hmg-prod/images/89f9f092-cbb4-46ab-96b9-17c5251db9ad.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/c2f74bdc-5e82-47ad-a17d-493b3b3a4ebc.png",
+        "https://hips.hearstapps.com/hmg-prod/images/d92538c3-ff71-4e80-a4db-355691d8c20f.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/veranda-holidayhosting-camp-keithmeacham-tablescape-steelemarcoux-692e067601527.jpg",
+        "https://hips.hearstapps.com/hmg-prod/images/c6138eb0-a6fd-41e4-978a-471b94d6ac9e.jpg"
+      ],
+      "source": "Veranda",
+      "source_url": "https://www.veranda.com",
+      "published": "2026-11-09T21:05:00+00:00"
+    },
+    {
       "id": "cd802ed6a1dd1a0c",
       "title": "Who says paradise has to be outdoors? These 8 island living room designs bring the feeling inside",
       "summary": "An island living room isn’t about seashells on every shelf or a palm tree in the corner. It’s about the feeling: open, breezy, quiet enough that you can hear yourself think. These 8 island living room ideas show you how to get that feeling in your own home, no coastal gift shop required. 8 Island […] The post Who says paradise has to be outdoors? These 8 island living room designs bring the feeling inside appeared first on Trendir .",
@@ -1685,11 +1614,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Island-Living-Room-Ideas.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Island-Living-Room-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg"
       ],
       "source": "Trendir interiors",
       "source_url": "https://www.trendir.com",
@@ -1733,19 +1662,6 @@
       "source": "Core77",
       "source_url": "https://www.core77.com",
       "published": "2026-11-09T14:00:00+00:00"
-    },
-    {
-      "id": "2eb429b8df12b0b2",
-      "title": "Who has been eliminated from My Kitchen Rules 2026?",
-      "summary": "Here's who has been kicked off MKR so far this series. The post Who has been eliminated from My Kitchen Rules 2026? appeared first on Better Homes & Gardens Australia .",
-      "url": "https://www.bhg.com.au/tv/my-kitchen-rules-elimination-2026/",
-      "image": "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/10/mkr-elimination-6ad6cbc37975e.png?format=auto&v=1792461763",
-      "images": [
-        "https://www.bhg.com.au/wp-content/uploads/sites/12/2026/10/mkr-elimination-6ad6cbc37975e.png?format=auto&v=1792461763"
-      ],
-      "source": "Better Homes & Gardens AU",
-      "source_url": "https://www.bhg.com.au",
-      "published": "2026-11-09T10:50:00+00:00"
     },
     {
       "id": "f251ea5fb2ff712d",
@@ -1811,24 +1727,6 @@
       "source": "Yanko Design home",
       "source_url": "https://www.yankodesign.com",
       "published": "2026-11-08T23:30:24+00:00"
-    },
-    {
-      "id": "6ad94f7c7db803c5",
-      "title": "The Ecosa sofa bed that replaced my regular couch is now over $400 off",
-      "summary": "We tried and tested the stylish sofa bed that's taking social media by storm The post The Ecosa sofa bed that replaced my regular couch is now over $400 off appeared first on Home Beautiful .",
-      "url": "https://www.homebeautiful.com.au/shopping/reviews/ecosa-nimble-sofa-bed-review/",
-      "image": "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/02/ecosa-nimble-sofa-review-6982d43382cf8.png?format=auto&v=1770181769",
-      "images": [
-        "https://www.homebeautiful.com.au/wp-content/uploads/sites/2/2026/02/ecosa-nimble-sofa-review-6982d43382cf8.png?format=auto&v=1770181769",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/02/ecosa-nimble-sofa-review-6982d43382cf8.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/1920-x-1080-commercial-feat-image-23-6af4fd293b6ba.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/11/nsw-laws-listing-prices-6af675020983f-scaled.png?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/10/hb_wordpress_hero_2026-3-6abf0c73d823c-scaled.jpg?w=2730&format=auto",
-        "https://api.photon.aremedia.net.au/wp-content/uploads/sites/2/2026/05/pat-cummins-homes-6af65a234fa15-scaled.jpg?w=2730&format=auto"
-      ],
-      "source": "Home Beautiful AU",
-      "source_url": "https://www.homebeautiful.com.au",
-      "published": "2026-11-08T20:56:00+00:00"
     },
     {
       "id": "a65656184b85972d",
@@ -1903,11 +1801,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Green-Sofa-Magic-Vibrant-Living-Room-Ideas.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Green-Sofa-Magic-Vibrant-Living-Room-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg"
       ],
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
@@ -1934,11 +1832,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/Grey-Sofa-Living-Room-Ideas.png",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Grey-Sofa-Living-Room-Ideas.png",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg"
       ],
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
@@ -2192,7 +2090,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/Dyna-ModernBeachHouse-Giammarco-351-e1793109574845.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-11-04T13:00:43+00:00"
     },
@@ -2230,10 +2128,10 @@
       "image": "https://www.internimagazine.it/content/uploads/2026/11/dreamhouse.phRiolzi1.jpg?imbypass=true",
       "images": [
         "https://www.internimagazine.it/content/uploads/2026/11/dreamhouse.phRiolzi1.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/07/Reply-House_Torino_ph-Gianluca-Di-Ioia-GDI-STUDIO_courtesy-Reply.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/FACRT_Argote_160926-183.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/08/Zona-giorno.jpg",
         "https://www.internimagazine.it/content/uploads/2026/11/03_DSC07982-HDR_AA©josefobexer.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/08/Zona-giorno.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/11/VILLA-PARCO_02_pg-Tommy-Della-Frana.jpg",
+        "https://www.internimagazine.it/content/uploads/2026/10/FACRT_Argote_160926-183.jpg",
         "https://www.internimagazine.it/content/uploads/2026/11/dreamhousephriolzi5.jpg"
       ],
       "source": "Interni magazine",
@@ -2267,6 +2165,19 @@
       "published": "2026-11-03T14:20:55+00:00"
     },
     {
+      "id": "1d483a4c0365085a",
+      "title": "NeoCon’s 2026 Launches Put Interaction at the Centre of Work",
+      "summary": "Tactile furniture and sensory surfaces set out to bolster employee engagement. The post NeoCon’s 2026 Launches Put Interaction at the Centre of Work appeared first on Azure Magazine .",
+      "url": "https://www.azuremagazine.com/article/neocons-2026-tactile-furniture-sensory-surfaces/",
+      "image": "https://www.azuremagazine.com/wp-content/uploads/2026/10/Azure-Division-Twelve-Pohm-01.jpg",
+      "images": [
+        "https://www.azuremagazine.com/wp-content/uploads/2026/10/Azure-Division-Twelve-Pohm-01.jpg"
+      ],
+      "source": "Azure magazine CA",
+      "source_url": "https://www.azuremagazine.com",
+      "published": "2026-11-03T14:00:00+00:00"
+    },
+    {
       "id": "cd57cedd70d2dd8f",
       "title": "Goodbye to the sectional sofa: designers are choosing an alternative that opens up the whole living room",
       "summary": "The big L that fills the corner is losing favor with designers. What they choose instead, and when a sectional still makes sense. The post Goodbye to the sectional sofa: designers are choosing an alternative that opens up the whole living room appeared first on Trendir .",
@@ -2274,11 +2185,11 @@
       "image": "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-2279185969.jpg",
       "images": [
         "https://cdn.trendir.com/wp-content/uploads/2026/11/iStock-2279185969.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/archives/dornbracht-tara-logic-wall-mounted-single-lever-basin-mixer.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/old/house-design/modern-wallless-house-in-brazil-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/dining-entertaining/villeroy-boch-new-wave-caffe-dinnerware.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/old/house-design/wood-and-glass-house-with-ocean-and-mountains-for-neighbors-1.jpg",
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Harvesting-mint-for-indoor-winter-growing-©-YorVen.jpg",
         "https://cdn.trendir.com/wp-content/uploads/2026/11/Sliding-glass-patio-door-alternatives-©-Spiderstock.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg",
-        "https://cdn.trendir.com/wp-content/uploads/2026/11/Concrete-block-retaining-wall-construction-©-Catalin-Ilie-Capilnean.jpg"
+        "https://cdn.trendir.com/wp-content/uploads/2026/11/Garden-stone-pathway-with-gravel-©-_Ratchapon-Supprasert.jpg"
       ],
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
@@ -2327,24 +2238,6 @@
       "source": "Dezeen Interiors",
       "source_url": "https://www.dezeen.com",
       "published": "2026-11-03T06:00:00+00:00"
-    },
-    {
-      "id": "6756010f5b44501f",
-      "title": "FuoriSalone Milano & Big Italy New York: l’incontro a Piacenza",
-      "summary": "Il 6 novembre al Circolo dell'Unione di Piacenza, il direttore del sistema INTERNI racconta il design sui mercati globali The post FuoriSalone Milano & Big Italy New York: l’incontro a Piacenza appeared first on Interni Magazine .",
-      "url": "https://www.internimagazine.it/agenda/fuorisalone-milano-big-italy-new-york-lincontro-a-piacenza/",
-      "image": "https://www.internimagazine.it/content/uploads/2026/11/1200x820_Unione-Piacenza_WEB-768x525.jpg?imbypass=true",
-      "images": [
-        "https://www.internimagazine.it/content/uploads/2026/11/1200x820_Unione-Piacenza_WEB-768x525.jpg?imbypass=true",
-        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_EQUIPEHOTEL.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/10/1200x820_IDEAGROUP_Sito-Interni.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/11/WhatsApp-Image-2026-11-13-at-09.32.21-1.jpeg",
-        "https://www.internimagazine.it/content/uploads/2026/10/Galleria-Umberto-Benappi_phcr-chiara-ferrando-5.jpg",
-        "https://www.internimagazine.it/content/uploads/2026/11/Sala-Pianoforte.jpeg"
-      ],
-      "source": "Interni magazine",
-      "source_url": "https://www.internimagazine.it",
-      "published": "2026-11-03T05:00:55+00:00"
     },
     {
       "id": "02f600da38282b51",
@@ -2410,19 +2303,6 @@
       "source": "Trendir furniture",
       "source_url": "https://www.trendir.com",
       "published": "2026-11-02T08:01:00+00:00"
-    },
-    {
-      "id": "181b90d7132ce69b",
-      "title": "Le bacchette di ottone by Stilhaus",
-      "summary": "Una collezione di accessori per il bagno ispirata all’estetica giapponese: linee dritte, essenziali e geometriche che creano un equilibrio perfetto tra funzione e forma The post Le bacchette di ottone by Stilhaus appeared first on Interni Magazine .",
-      "url": "https://www.internimagazine.it/annual-2023/annual-contract-2026/stilhaus-annual-contract-2026/",
-      "image": "https://www.internimagazine.it/content/uploads/2026/10/2_ABBINAMENTI-424x525.jpg?imbypass=true",
-      "images": [
-        "https://www.internimagazine.it/content/uploads/2026/10/2_ABBINAMENTI-424x525.jpg?imbypass=true"
-      ],
-      "source": "Interni magazine",
-      "source_url": "https://www.internimagazine.it",
-      "published": "2026-11-02T05:00:59+00:00"
     },
     {
       "id": "2b05d92790212b04",
@@ -2524,7 +2404,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/36-16-Cliffside-Bidgood.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-10-29T18:30:18+00:00"
     },
@@ -2615,7 +2495,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/13.-CLB-Boomerang-0101-e1793125420381.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-10-28T14:00:27+00:00"
     },
@@ -2664,6 +2544,19 @@
       "published": "2026-10-28T06:00:00+00:00"
     },
     {
+      "id": "3f373c03b75883d8",
+      "title": "This Was Way Harder Than It Looks",
+      "summary": "I build a custom solid-walnut mid-century modern dining table for friends, working through tricky angled joinery, a few setbacks, and the real economics of why a $10,000 table is a bargain at $2,500. The post This Was Way Harder Than It Looks appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/this-was-way-harder-than-it-looks/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Screenshot-2026-08-04-at-1.40.39-PM.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Screenshot-2026-08-04-at-1.40.39-PM.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-10-27T21:53:21+00:00"
+    },
+    {
       "id": "8139933aea0aa368",
       "title": "Kitchen, Bath & Whole-Home Design Study Finds Expanding Projects are Broadening Designers’ Responsibilities",
       "summary": "N NKBA Staff Posted: Oct 27, 2026 12:53 pm Design Trends Member + Industry News Whole-Home Design is Becoming Increasingly Interconnected, According to Research Commissioned by NKBA and HPMA By NKBA Editorial Staff The Kitchen, Bath & Whole-Home Design Study , jointly commissioned through the Strategic Alliance Partnership between NKBA and the High Point Market Authority (HPMA), sheds new light on the changes impacting the residential design profession. Designers are navigating evolving business opportunities and challenges, heightened client expectations, and various financial and…",
@@ -2698,7 +2591,7 @@
       "images": [
         "https://design-milk.com/images/2026/10/victory-lap-residence-the-up-studio-3.jpg"
       ],
-      "source": "Design Milk Architecture",
+      "source": "Design Milk Interiors",
       "source_url": "https://design-milk.com",
       "published": "2026-10-27T17:15:18+00:00"
     },
@@ -2820,24 +2713,6 @@
       "published": "2026-10-23T21:30:43+00:00"
     },
     {
-      "id": "c6f1b9bc24b893a5",
-      "title": "First Look: Andaz Turks & Caicos",
-      "summary": "Andaz has unveiled a first look at the interiors for Andaz Turks & Caicos. Set to open in Spring 2027, […] The post First Look: Andaz Turks & Caicos appeared first on Sleeper .",
-      "url": "https://www.sleepermagazine.com/stories/projects/first-look-andaz-turks-caicos/",
-      "image": "https://www.sleepermagazine.com/wp-content/uploads/2026/10/Andaz-Turks-Caicos-guestroom.jpg",
-      "images": [
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/10/Andaz-Turks-Caicos-guestroom.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/05/Anantara-Turks-and-Caicos-ext-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/03/Hotel-Indigo-Turks-Caicos-Grace-Bay-restaurant-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2024/05/IHG-Turks-Caicos-uai.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/10/Andaz-Turks-Caicos-guestroom-2.jpg",
-        "https://www.sleepermagazine.com/wp-content/uploads/2026/10/Andaz-Turks-Caicos-restaurant.jpg"
-      ],
-      "source": "Sleeper magazine",
-      "source_url": "https://sleepermagazine.com",
-      "published": "2026-10-23T10:24:29+00:00"
-    },
-    {
       "id": "d002421f4677e1e4",
       "title": "Aery’s Office Chair Offers a Fit You Can Actually Fine-Tune",
       "summary": "Aery’s Office Chair Offers a Fit You Can Actually Fine-Tune A desk setup can look perfect and still feel wrong by lunch. The monitor is aligned, the cables are hidden, and the chair matches the...",
@@ -2862,19 +2737,6 @@
       "source": "Family Handyman",
       "source_url": "https://www.familyhandyman.com",
       "published": "2026-10-22T20:59:17+00:00"
-    },
-    {
-      "id": "0f93d555020fc9a3",
-      "title": "Kitchen of the Week: Fieldstone and Oak on an Island in Ontario",
-      "summary": "This kitchen gives new meaning to “hearth of the home.” Situated on an island in Georgian Bay, Ontario, the space is centered on a generously sized stone island. “The family has a tradition of standing and sharing food around the kitchen island on weekends,” says Adam Robinson of Montreal-based Bureau Tempo, who collaborated with Thom […]",
-      "url": "https://www.remodelista.com/posts/kitchen-week-pine-island-cottage-bureau-tempo/",
-      "image": "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage4.jpg",
-      "images": [
-        "https://www.remodelista.com/wp-content/uploads/2025/03/pine-island-cottage-bureau-tempo-alex-lesage4.jpg"
-      ],
-      "source": "Remodelista",
-      "source_url": "https://www.remodelista.com",
-      "published": "2026-10-22T10:00:17+00:00"
     },
     {
       "id": "fc7c75a39b4d4045",
@@ -3129,32 +2991,6 @@
       "published": "2026-10-12T08:00:33+00:00"
     },
     {
-      "id": "4c7419270697dd9d",
-      "title": "Leather Sofas Can Make a Room Look Expensive or Dated Before Anything Else Goes In",
-      "summary": "Leather can suggest a substantial furniture purchase, yet its presence alone does not determine how a room looks. Rolled arms, oversized cushions, deep buttoning, and thick bases can establish a formal or heavy mood before a rug, lamp, or table enters the picture. Across these thirteen sofas, similar finishes produce different impressions because the proportions... The post Leather Sofas Can Make a Room Look Expensive or Dated Before Anything Else Goes In appeared first on Homedit .",
-      "url": "https://www.homedit.com/leather-sofas-can-make-a-room-look-expensive-or-dated-before-anything-else-goes-in/",
-      "image": "https://cdn.homedit.com/wp-content/uploads/2026/10/Leather-Sofas-Can-Make-a-Room-Look-Expensive-or-Dated-Before-Anything-Else-Goes-In.jpg",
-      "images": [
-        "https://cdn.homedit.com/wp-content/uploads/2026/10/Leather-Sofas-Can-Make-a-Room-Look-Expensive-or-Dated-Before-Anything-Else-Goes-In.jpg"
-      ],
-      "source": "Homedit furniture",
-      "source_url": "https://www.homedit.com",
-      "published": "2026-10-11T12:15:59+00:00"
-    },
-    {
-      "id": "0e2f65b27a4e7fa3",
-      "title": "Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture",
-      "summary": "Mexico City-based Mariel Lozano Studio has designed interiors and furniture for a hospitality project in Mexico City, organising the compact space to create \"tranquillity\" and reduce clutter. San Luis is the debut property for Stays, a concept from music and design practice Mad Monk Studios that will eventually encompass multiple rentable residences. Mariel Lozano Studio was […] The post Mariel Lozano Studio \"optimises compact layout\" of Mexico City apartment with custom furniture appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/10/10/mad-monk-studios-san-luis-stays-mariel-lozano-studio/",
-      "image": "https://static-2026.dezeen.com/uploads/2026/10/mad-monk-studios-san-luis-stays_mariel-lozano-studio_dezeen_sq1.jpg",
-      "images": [
-        "https://static-2026.dezeen.com/uploads/2026/10/mad-monk-studios-san-luis-stays_mariel-lozano-studio_dezeen_sq1.jpg"
-      ],
-      "source": "Dezeen Interiors",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-10-10T17:00:14+00:00"
-    },
-    {
       "id": "0beb39e244e4043c",
       "title": "LAP Open Wire, Oct. 10, 2026",
       "summary": "Welcome to Open Wire, our bi-monthly Woodworking Q&A session. Until 5 p.m. today, you can post your questions in the comment section below, then Chris and I, along with your fellow readers if they wish, will answer. I’m writing this post about a week ahead of time, but it’s fairly safe to assume that as...",
@@ -3197,6 +3033,19 @@
       "source": "Lost Art Press",
       "source_url": "https://blog.lostartpress.com",
       "published": "2026-10-09T20:39:14+00:00"
+    },
+    {
+      "id": "6e054c66c497cc1c",
+      "title": "The Other Half of My Shop",
+      "summary": "See how I turned a cluttered firehouse storage bay into a functional maker space for our laser, 3D printer, tools, and lumber. The post The Other Half of My Shop appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/the-other-half-of-my-shop/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Tote-Tower-Plan-Preview.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-10-08T18:17:23+00:00"
     },
     {
       "id": "1f4aa113bead5ae5",
@@ -3565,19 +3414,6 @@
       "published": "2026-09-21T08:49:07+00:00"
     },
     {
-      "id": "71cc81fa8495a119",
-      "title": "RCA design students exercise restraint in One Tool One Stool exhibition",
-      "summary": "Chiselled acoustic foam, hand-bent metal and interlocking rulers feature in an exhibition of stools created with single tools, presented by students from the Royal College of Art at London Design Festival. One Tool, One Stool is the culmination of an exercise undertaken by every design products master's student at the Royal College of Art (RCA). […] The post RCA design students exercise restraint in One Tool One Stool exhibition appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/09/18/rca-design-students-exercise-restraint-in-one-tool-one-stool-exhibition/",
-      "image": "https://static-2026.dezeen.com/uploads/2026/09/brompton-design-district-rca-design-graduates-one-tool-one-stool-exhibition-london-design-festival-sq.jpg",
-      "images": [
-        "https://static-2026.dezeen.com/uploads/2026/09/brompton-design-district-rca-design-graduates-one-tool-one-stool-exhibition-london-design-festival-sq.jpg"
-      ],
-      "source": "Dezeen tag furniture",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-09-18T09:00:12+00:00"
-    },
-    {
       "id": "aee68cf3c5b2f2dc",
       "title": "Fisher & Paykel crafts Contemporary kitchen appliances for tactile luxury",
       "summary": "Promotion: subtly reflective silver-grey glass and tactile physical controls characterise Fisher & Paykel's Contemporary Style kitchen appliances, designed with versatility for the social heart of the home. The Contemporary appliances are one of three product design styles in the New Zealand company's luxury range, alongside the Minimal and Professional offerings. Fisher & Paykel explained that […] The post Fisher & Paykel crafts Contemporary kitchen appliances for tactile luxury appeared first on Dezeen .",
@@ -3594,6 +3430,19 @@
       "source": "Dezeen tag kitchens",
       "source_url": "https://www.dezeen.com",
       "published": "2026-09-17T20:00:23+00:00"
+    },
+    {
+      "id": "d12a7c10aed3a105",
+      "title": "Woodworkers For a Cause 2026: How to Help Before October 3",
+      "summary": "Sixteen years ago I met a woodworker named Duane Moore who was fighting pancreatic cancer. Nicole and I drove out to Ohio to spend a couple of days at his bench, and that trip turned into Woodworkers Fighting Cancer. Since 2010, this community has moved more than $150,000 to charity, five and ten and fifty […] The post Woodworkers For a Cause 2026: How to Help Before October 3 appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/wfc2026/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/IMG_4239.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-09-14T20:13:14+00:00"
     },
     {
       "id": "5d3934d532ffc67f",
@@ -3720,17 +3569,30 @@
       "published": "2026-08-27T11:48:48+00:00"
     },
     {
-      "id": "f070a788d8d64c5f",
-      "title": "Shahar Livne's The Devil's Milk furniture explores how rubber \"shaped human culture\"",
-      "summary": "Designer Shahar Livne has created The Devil's Milk, a collection of designs that investigate rubber production and its history of violence and abuse. The designs, which Livne created over two years, include a scale, a cabinet and a bench, made from different types of rubber. \"The concept behind the Devil's Milk project was to investigate […] The post Shahar Livne's The Devil's Milk furniture explores how rubber \"shaped human culture\" appeared first on Dezeen .",
-      "url": "https://www.dezeen.com/2026/08/18/the-devils-milk-furniture-rubber-shahar-livne/",
-      "image": "https://static-2026.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg",
+      "id": "61ef61f1db46b072",
+      "title": "I Built This Wrong. I’m Glad I Did.",
+      "summary": "Avoid common beginner woodworking mistakes with insights from personal experience on building and repairing furniture. The post I Built This Wrong. I’m Glad I Did. appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/videos/i-built-this-wrong-im-glad-i-did/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/marcs-finishing-quick-guide-book.jpg",
       "images": [
-        "https://static-2026.dezeen.com/uploads/2026/08/shahar-livne-the-devils-milk-rubber_dezeen_2364_col_sq.jpg"
+        "https://thewoodwhisperer.com/wp-content/uploads/marcs-finishing-quick-guide-book.jpg"
       ],
-      "source": "Dezeen tag cabinets",
-      "source_url": "https://www.dezeen.com",
-      "published": "2026-08-18T05:00:26+00:00"
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-26T15:14:32+00:00"
+    },
+    {
+      "id": "3241a25fff70de1c",
+      "title": "What is Fine Woodworking?",
+      "summary": "What is fine woodworking? Explore how intent, skill, materials, craftsmanship, and changing standards shape the meaning of fine furniture. The post What is Fine Woodworking? appeared first on The Wood Whisperer .",
+      "url": "https://thewoodwhisperer.com/articles/what-is-fine-woodworking/",
+      "image": "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg",
+      "images": [
+        "https://thewoodwhisperer.com/wp-content/uploads/Live-Show.jpg"
+      ],
+      "source": "Wood Whisperer",
+      "source_url": "https://thewoodwhisperer.com",
+      "published": "2026-08-25T16:15:12+00:00"
     }
   ]
 }
